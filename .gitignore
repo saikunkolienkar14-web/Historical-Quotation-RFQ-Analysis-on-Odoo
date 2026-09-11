@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment / credentials
+.env
+
+# Generated output
+Quotation_Preprocessed/
+Quotation_Data/
+
+# Downloaded source documents
+Downloads/
+
+# Real client quotation PDFs and the manifest indexing them (customer
+# names, pricing, contact details) - never committed. Only code that
+# processes this data belongs in the repo, never the data itself.
+Quotation PDFs/
+
+# Real Odoo customer/contact export (name, email, phone) - business data,
+# not code.
+odoo_match_customer/Contact (res.partner).csv
+
+# Hand-labelled from real client PDFs for scoring boq_coords - contains
+# real customer names, models, and prices. Same for the manifest-derived
+# sampling candidate list, which carries real client names in filenames.
+tests/golden.csv
+tests/golden_candidates_stage1.csv
+
+# LLM few-shot source/benchmark material - real (or only partially
+# anonymized) quotation excerpts, ground truth data, and benchmark
+# archives/notebooks, several levels of nested subdirectories deep. Only
+# the top-level *.py tooling that builds/scores this material is code -
+# everything else under llm_fewshot/ (including every nested
+# subdirectory, whose contents are never data-free) is excluded.
+llm_fewshot/*
+!llm_fewshot/*.py
+
+# Claude Code's own local session/tool state - not part of the project.
+.claude/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs (captured stdout from pipeline runs)
+*.log
+run_log*.txt
+*_run_log.txt
+build_log.txt
+
+# LLM few-shot anonymization: the source .txt files it reads from
+# Quotation_Data/ are already ignored above; the one output file that
+# names real customers is this local index, never the anonymized text.
+llm_fewshot/_local_index_DO_NOT_SHARE.csv

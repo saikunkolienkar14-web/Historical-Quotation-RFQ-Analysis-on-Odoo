@@ -1,0 +1,6 @@
+groq
+python-dotenv
+tqdm
+pymupdf==1.28.2
+pytesseract==0.3.13
+pillow==12.3.0

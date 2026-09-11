@@ -1,0 +1,172 @@
+"""
+Multi-page stitching and document-level row assembly (plan §Multi-page
+stitching). find_boq_regions() only reports pages where find_tables() AND
+find_header() both succeed - a continuation page that has no ruling/no
+repeated header (just more priced lines flowing from the previous page)
+won't produce its own TableRegion. This module bridges that gap: after
+gathering headered regions, it checks the page immediately following each
+region for unheaded continuation content using the SAME column bands (band
+x-edges are stable across pages here - confirmed empirically, every sampled
+page in this corpus is 595.32 x 841.92 with identical letterhead geometry).
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass
+
+from boq_coords.banded import LogicalRow, segment_rows
+from boq_coords.geometry import Word
+from boq_coords.locate import (
+    LETTERHEAD_BOTTOM_MIN_Y,
+    LETTERHEAD_TOP_MAX_Y,
+    TableRegion,
+    find_boq_regions,
+    money_check,
+)
+from boq_coords.ruled import _ruling_line_ys, rows_from_region
+from boq_coords.vocab import STOP_SECTION_MARKERS, normalize_label
+
+MAX_STITCH_PAGE_GAP = 1
+BAND_EDGE_TOLERANCE = 6.0
+
+
+def _bands_agree(a, b) -> bool:
+    if len(a) != len(b):
+        return False
+    a_by_field = {band.field: band for band in a}
+    b_by_field = {band.field: band for band in b}
+    if set(a_by_field) != set(b_by_field):
+        return False
+    for field, band_a in a_by_field.items():
+        band_b = b_by_field[field]
+        if abs(band_a.x0 - band_b.x0) > BAND_EDGE_TOLERANCE:
+            return False
+        if abs(band_a.x1 - band_b.x1) > BAND_EDGE_TOLERANCE:
+            return False
+    return True
+
+
+def _page_has_money(page) -> bool:
+    text = page.get_text("text")
+    return any(money_check(ln.strip()) for ln in text.splitlines() if ln.strip())
+
+
+def _page_starts_new_section(page) -> bool:
+    """A page whose text hits a STOP_SECTION_MARKERS heading (e.g. 'PART
+    B: COMMERCIAL TERMS AND CONDITIONS' contains 'terms and conditions')
+    is a different section, not a continuation of the priced table -
+    confirmed as a real bug: an unguarded continuation pass pulled
+    commercial-terms/footer text into the BOQ table as a garbage row on a
+    document whose PART A table was only 2 rows long."""
+    text = page.get_text("text")
+    norm = normalize_label(text)
+    return any(marker in norm for marker in STOP_SECTION_MARKERS)
+
+
+def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[LogicalRow] | None:
+    """Try extracting rows from `page_no` using `region`'s bands directly,
+    with no header on this page - used when the immediately-following page
+    has no qualifying TableRegion of its own but visibly continues the
+    priced table (plan §Multi-page stitching, point 3: "no header ->
+    dropped, not emitted" refers to a REPEATED header; an ABSENT header is
+    the continuation signal itself)."""
+    if page_no >= doc.page_count:
+        return None
+    page = doc[page_no]
+    if _page_starts_new_section(page):
+        return None
+    if not _page_has_money(page):
+        return None
+
+    x0 = min(b.x0 for b in region.bands)
+    x1 = max(b.x1 for b in region.bands)
+    y_top = LETTERHEAD_TOP_MAX_Y
+    y_bottom = LETTERHEAD_BOTTOM_MIN_Y
+
+    words_raw = page.get_text("words", clip=(x0, y_top, x1, y_bottom))
+    words = [Word.from_pymupdf_tuple(w[:8]) for w in words_raw if w[4].strip()]
+    if not words:
+        return None
+
+    ruling_ys = _ruling_line_ys(page, TableRegion(
+        page_no=page_no, table=None, header=region.header, bands=region.bands,
+        bbox=(x0, y_top, x1, y_bottom), score=0,
+    ))
+    rows = segment_rows(words, region.bands, ruling_ys=ruling_ys or None)
+    return rows or None
+
+
+@dataclass
+class DocumentTable:
+    rows: list[LogicalRow]
+    page_nos: list[int]
+    header_field_by_col: dict
+
+
+def extract_document_tables(doc) -> list[DocumentTable]:
+    """Top-level entry point: find all BOQ regions in the document, extract
+    rows for each, and stitch page-adjacent regions/continuations that
+    share compatible column geometry into single logical tables."""
+    regions = find_boq_regions(doc)
+    if not regions:
+        return []
+
+    regions.sort(key=lambda r: r.page_no)
+    region_rows: dict[int, list[LogicalRow]] = {
+        id(r): rows_from_region(doc[r.page_no], r) for r in regions
+    }
+
+    tables: list[DocumentTable] = []
+    used_page_regions: set[int] = set()
+
+    for i, region in enumerate(regions):
+        if id(region) in used_page_regions:
+            continue
+        used_page_regions.add(id(region))
+
+        combined_rows = list(region_rows[id(region)])
+        combined_pages = [region.page_no]
+        current = region
+
+        # 1. Stitch onto an immediately-following HEADERED region with
+        #    compatible bands (repeated header on the next page).
+        stitched_into_headered = True
+        while stitched_into_headered:
+            stitched_into_headered = False
+            for other in regions:
+                if id(other) in used_page_regions:
+                    continue
+                if other.page_no - current.page_no > MAX_STITCH_PAGE_GAP:
+                    continue
+                if other.page_no <= current.page_no:
+                    continue
+                if not _bands_agree(current.bands, other.bands):
+                    continue
+                combined_rows.extend(region_rows[id(other)])
+                combined_pages.append(other.page_no)
+                used_page_regions.add(id(other))
+                current = other
+                stitched_into_headered = True
+                break
+
+        # 2. Stitch onto UNHEADED continuation pages immediately after the
+        #    last page absorbed so far.
+        next_page = current.page_no + 1
+        while next_page < doc.page_count:
+            already_has_region = any(
+                r.page_no == next_page and id(r) not in used_page_regions for r in regions
+            )
+            if already_has_region:
+                break  # let the outer loop's own region handling take it
+            extra_rows = _unheaded_continuation_rows(doc, next_page, current)
+            if not extra_rows:
+                break
+            combined_rows.extend(extra_rows)
+            combined_pages.append(next_page)
+            next_page += 1
+
+        tables.append(DocumentTable(
+            rows=combined_rows, page_nos=combined_pages,
+            header_field_by_col=region.header.field_by_col,
+        ))
+
+    return tables
