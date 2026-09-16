@@ -142,6 +142,33 @@ and how it works. Quick start:
 Writes to `Quotation_Data/03f_structured_coords/` — never touches
 `03_structured_current/` (v1's output).
 
+### Customer matching + knowledge bank for `boq_coords/`
+
+A parallel matching/join path lets `boq_coords`' own item extraction be
+evaluated the same way v1's is — without touching v1's output or the
+main pipeline's `06_customer_matching/` / `07_knowledge_bank/` folders:
+
+    python -m boq_coords --limit 50
+    python boq_coords\match_customers_coords.py > run_match_coords.log 2>&1
+    python knowledge_bank\build_knowledge_bank_coords.py > run_kb_coords.log 2>&1
+
+`match_customers_coords.py` borrows `customer` / `quotation_number` /
+`quotation_date` per document from v1's already-extracted
+`03_structured_current/quotations.csv` (joined via `source_path`) rather
+than re-implementing that extraction — `boq_coords` itself has no
+document-level customer-name extraction — then reuses
+`odoo_match_customer.match_customers.match_quotation()` unchanged.
+Writes to `Quotation_Data/06_customer_matching_coords/`.
+
+`build_knowledge_bank_coords.py` mirrors
+`knowledge_bank/build_knowledge_bank.py`'s join but reads
+`03f_structured_coords/quotation_items.csv` and
+`06_customer_matching_coords/customer_enriched_coords.csv`, and writes
+to `Quotation_Data/07_knowledge_bank_coords/` (`data_source` tag
+`COORDS_ITEM`; no `ODOO_ORDER_ONLY` rows — those don't depend on which
+item extractor produced the attachment rows, so they're not duplicated
+here).
+
 
 ## Extraction methods
 

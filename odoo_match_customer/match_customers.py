@@ -941,6 +941,20 @@ EMPTY_ORDER_EXTRA = {
     "matched_order_date": "",
 }
 
+EMPTY_ENRICHMENT_EXTRA = {
+
+    "matched_industry": "",
+    "matched_industry_confidence": "",
+    "total_orders": "",
+    "total_po_value": "",
+    "regions": "",
+    "latest_order_date": "",
+    "customer_type": "",
+    "adage_customer": "",
+    "end_user": "",
+    "quote_status_summary": "",
+}
+
 
 # ============================================================
 # FIND BEST MATCH
@@ -993,6 +1007,549 @@ def find_best_match(
                 best_score
             ),
     }
+
+
+# ============================================================
+# PER-QUOTATION MATCH
+# ============================================================
+#
+# Extracted from main()'s loop so a second driver script (one that
+# points at a different document-level table, e.g. boq_coords's own
+# documents joined to quotations.csv) can reuse the exact same
+# override -> RFQ -> fuzzy-name decision without copy-pasting it.
+# Behavior is unchanged from the original inline loop.
+# ------------------------------------------------------------
+
+def match_quotation(
+    quotation,
+    quotation_customer_column,
+    customers,
+    customers_by_id,
+    overrides,
+    rfq_index,
+    industry_proxy,
+    order_summary,
+):
+    """
+    Decide the Odoo customer match for one document-level quotation row.
+
+    Returns:
+        (enriched_row, review_row_or_None, status, counters)
+
+    `counters` is a dict of counter-name -> increment (1) for whichever
+    counters this decision affects, so the caller's running totals stay
+    in one place without this function reaching into caller state.
+    """
+
+    def build_enrichment_extra(customer_id):
+
+        proxy = industry_proxy.get(
+            customer_id,
+            {}
+        )
+
+        history = order_summary.get(
+            customer_id,
+            {}
+        )
+
+        industry_confidence = ""
+
+        if proxy.get("industry_order_count") and proxy.get("order_count"):
+
+            industry_confidence = (
+                f"{proxy['industry_order_count']} of "
+                f"{proxy['order_count']} orders"
+            )
+
+        return {
+
+            "matched_industry":
+                proxy.get("industry", ""),
+
+            "matched_industry_confidence":
+                industry_confidence,
+
+            "total_orders":
+                history.get("total_orders", ""),
+
+            "total_po_value":
+                history.get("total_po_value", ""),
+
+            "regions":
+                history.get("regions", ""),
+
+            "latest_order_date":
+                history.get("latest_order_date", ""),
+
+            "customer_type":
+                history.get("customer_type", ""),
+
+            "adage_customer":
+                history.get("adage_customer", ""),
+
+            "end_user":
+                history.get("end_user", ""),
+
+            "quote_status_summary":
+                history.get("quote_status_summary", ""),
+        }
+
+    quote_customer = (
+        quotation.get(
+            quotation_customer_column,
+            ""
+        )
+        or ""
+    ).strip()
+
+    # ----------------------------------------------------
+    # MISSING CUSTOMER
+    # ----------------------------------------------------
+
+    if not quote_customer:
+
+        enriched = dict(
+            quotation
+        )
+
+        enriched.update({
+
+            "matched_customer_id": "",
+            "matched_customer_name": "",
+            "matched_customer_reference": "",
+            "matched_email": "",
+            "matched_phone": "",
+            "matched_city": "",
+            "matched_state": "",
+            "matched_country": "",
+            "customer_match_score": 0,
+            "customer_match_status": "MISSING",
+
+            **EMPTY_ENRICHMENT_EXTRA,
+            **EMPTY_ORDER_EXTRA,
+        })
+
+        review = {
+
+            "source_file":
+                quotation.get("source_file", ""),
+
+            "quotation_number":
+                quotation.get("quotation_number", ""),
+
+            "quotation_customer": "",
+            "matched_customer_name": "",
+            "match_score": 0,
+            "match_status": "MISSING",
+            "reason": "Quotation customer is empty",
+        }
+
+        return enriched, review, "MISSING", {"missing_count": 1}
+
+    # ----------------------------------------------------
+    # MANUAL OVERRIDE (checked before fuzzy matching)
+    # ----------------------------------------------------
+
+    override_id = overrides.get(
+        quote_customer.lower()
+    )
+
+    if (
+        override_id
+        and override_id in customers_by_id
+    ):
+
+        customer = customers_by_id[
+            override_id
+        ]
+
+        enriched = dict(
+            quotation
+        )
+
+        enriched.update({
+
+            "matched_customer_id":
+                customer["customer_id"],
+
+            "matched_customer_name":
+                customer["customer_name"],
+
+            "matched_customer_reference":
+                customer["reference"],
+
+            "matched_email":
+                customer["email"],
+
+            "matched_phone":
+                customer["phone"],
+
+            "matched_city":
+                customer["city"],
+
+            "matched_state":
+                customer["state"],
+
+            "matched_country":
+                customer["country"],
+
+            "customer_match_score": 1.0,
+            "customer_match_status": "OVERRIDE",
+
+            **build_enrichment_extra(
+                customer["customer_id"]
+            ),
+            **EMPTY_ORDER_EXTRA,
+        })
+
+        return enriched, None, "OVERRIDE", {"override_count": 1}
+
+    # ----------------------------------------------------
+    # RFQ NUMBER MATCH (checked before fuzzy name matching)
+    #
+    # quotations.csv's quotation_number, when present, is compared
+    # exactly against Odoo's x_studio_internal_rfq_assignment_number -
+    # a match resolves the customer directly via that specific
+    # sale.order's partner_id, no fuzzy scoring involved. Falls back
+    # to fuzzy name matching below only when no RFQ number was
+    # extracted or no match is found.
+    # ----------------------------------------------------
+
+    quotation_number_value = (
+        quotation.get(
+            "quotation_number",
+            ""
+        )
+        or ""
+    ).strip()
+
+    rfq_key = normalize_rfq_number(
+        quotation_number_value
+    )
+
+    rfq_orders = (
+        rfq_index.get(rfq_key, [])
+        if rfq_key
+        else []
+    )
+
+    if rfq_orders:
+
+        distinct_partner_ids = {
+            (order.get("partner_id_id", "") or "").strip()
+            for order in rfq_orders
+            if (order.get("partner_id_id", "") or "").strip()
+        }
+
+        if len(distinct_partner_ids) > 1:
+
+            enriched = dict(
+                quotation
+            )
+
+            enriched.update({
+
+                "matched_customer_id": "",
+                "matched_customer_name": "",
+                "matched_customer_reference": "",
+                "matched_email": "",
+                "matched_phone": "",
+                "matched_city": "",
+                "matched_state": "",
+                "matched_country": "",
+                "customer_match_score": 0,
+                "customer_match_status": "RFQ_AMBIGUOUS",
+
+                **EMPTY_ENRICHMENT_EXTRA,
+                **EMPTY_ORDER_EXTRA,
+            })
+
+            conflicting_names = sorted({
+                (order.get("partner_id_name", "") or "").strip()
+                for order in rfq_orders
+            })
+
+            review = {
+
+                "source_file":
+                    quotation.get("source_file", ""),
+
+                "quotation_number":
+                    quotation_number_value,
+
+                "quotation_customer":
+                    quote_customer,
+
+                "matched_customer_name":
+                    " / ".join(conflicting_names),
+
+                "match_score": 0,
+                "match_status": "RFQ_AMBIGUOUS",
+
+                "reason":
+                    "RFQ number matched multiple different "
+                    "Odoo customers",
+            }
+
+            return (
+                enriched,
+                review,
+                "RFQ_AMBIGUOUS",
+                {"rfq_ambiguous_count": 1},
+            )
+
+        partner_id = next(
+            iter(distinct_partner_ids)
+        )
+
+        rfq_customer = customers_by_id.get(
+            partner_id
+        )
+
+        if rfq_customer:
+
+            chosen_order = max(
+                rfq_orders,
+                key=lambda order: (
+                    order.get("date_order", "") or ""
+                )
+            )
+
+            enriched = dict(
+                quotation
+            )
+
+            enriched.update({
+
+                "matched_customer_id":
+                    rfq_customer["customer_id"],
+
+                "matched_customer_name":
+                    rfq_customer["customer_name"],
+
+                "matched_customer_reference":
+                    rfq_customer["reference"],
+
+                "matched_email":
+                    rfq_customer["email"],
+
+                "matched_phone":
+                    rfq_customer["phone"],
+
+                "matched_city":
+                    rfq_customer["city"],
+
+                "matched_state":
+                    rfq_customer["state"],
+
+                "matched_country":
+                    rfq_customer["country"],
+
+                "customer_match_score": 1.0,
+                "customer_match_status": "RFQ_MATCH",
+
+                **build_enrichment_extra(
+                    rfq_customer["customer_id"]
+                ),
+
+                **build_order_extra(
+                    chosen_order,
+                    quotation_number_value
+                ),
+            })
+
+            return (
+                enriched,
+                None,
+                "RFQ_MATCH",
+                {"rfq_match_count": 1},
+            )
+
+        # The order's partner id wasn't resolved in the
+        # res_partners export (rare) - fall through to fuzzy
+        # name matching below rather than guessing.
+
+    # ----------------------------------------------------
+    # MATCH (fuzzy name fallback - only reached when no RFQ
+    # number was extracted, or no RFQ match was found above)
+    # ----------------------------------------------------
+
+    result = find_best_match(
+        quote_customer,
+        customers
+    )
+
+    enriched = dict(
+        quotation
+    )
+
+    if result is None:
+
+        enriched.update({
+
+            "matched_customer_id": "",
+            "matched_customer_name": "",
+            "matched_customer_reference": "",
+            "matched_email": "",
+            "matched_phone": "",
+            "matched_city": "",
+            "matched_state": "",
+            "matched_country": "",
+            "customer_match_score": 0,
+            "customer_match_status": "NO_MATCH",
+
+            **EMPTY_ENRICHMENT_EXTRA,
+            **EMPTY_ORDER_EXTRA,
+        })
+
+        review = {
+
+            "source_file":
+                quotation.get("source_file", ""),
+
+            "quotation_number":
+                quotation.get("quotation_number", ""),
+
+            "quotation_customer":
+                quote_customer,
+
+            "matched_customer_name": "",
+            "match_score": 0,
+            "match_status": "NO_MATCH",
+
+            "reason":
+                "No Odoo customer candidate found",
+        }
+
+        return enriched, review, "NO_MATCH", {"no_match_count": 1}
+
+    customer = result["customer"]
+    score = result["score"]
+    status = result["status"]
+
+    enriched.update({
+
+        "matched_customer_id":
+            customer["customer_id"],
+
+        "matched_customer_name":
+            customer["customer_name"],
+
+        "matched_customer_reference":
+            customer["reference"],
+
+        "matched_email":
+            customer["email"],
+
+        "matched_phone":
+            customer["phone"],
+
+        "matched_city":
+            customer["city"],
+
+        "matched_state":
+            customer["state"],
+
+        "matched_country":
+            customer["country"],
+
+        "customer_match_score": score,
+        "customer_match_status": status,
+
+        **build_enrichment_extra(
+            customer["customer_id"]
+        ),
+        **EMPTY_ORDER_EXTRA,
+    })
+
+    review = None
+    counters = {}
+
+    if status == "EXACT":
+
+        counters = {"exact_count": 1}
+
+    elif status == "HIGH":
+
+        counters = {"high_count": 1}
+
+    elif status == "REVIEW":
+
+        counters = {"review_count": 1}
+
+        review = {
+
+            "source_file":
+                quotation.get("source_file", ""),
+
+            "quotation_number":
+                quotation.get("quotation_number", ""),
+
+            "quotation_customer":
+                quote_customer,
+
+            "matched_customer_name":
+                customer["customer_name"],
+
+            "match_score": score,
+            "match_status": status,
+
+            "reason":
+                "Medium-confidence customer match",
+        }
+
+    elif status == "LOW":
+
+        counters = {"low_count": 1}
+
+        review = {
+
+            "source_file":
+                quotation.get("source_file", ""),
+
+            "quotation_number":
+                quotation.get("quotation_number", ""),
+
+            "quotation_customer":
+                quote_customer,
+
+            "matched_customer_name":
+                customer["customer_name"],
+
+            "match_score": score,
+            "match_status": status,
+
+            "reason":
+                "Low-confidence customer match",
+        }
+
+    else:
+
+        counters = {"no_match_count": 1}
+
+        review = {
+
+            "source_file":
+                quotation.get("source_file", ""),
+
+            "quotation_number":
+                quotation.get("quotation_number", ""),
+
+            "quotation_customer":
+                quote_customer,
+
+            "matched_customer_name":
+                customer["customer_name"],
+
+            "match_score": score,
+            "match_status": status,
+
+            "reason":
+                "No reliable match",
+        }
+
+    return enriched, review, status, counters
 
 
 # ============================================================
@@ -1253,8 +1810,6 @@ def main():
         f"{len(overrides)}"
     )
 
-    override_count = 0
-
     # --------------------------------------------------------
     # LOAD INDUSTRY PROXY / SALE ORDER HISTORY
     # --------------------------------------------------------
@@ -1294,82 +1849,13 @@ def main():
     rfq_match_count = 0
     rfq_ambiguous_count = 0
 
-    def build_enrichment_extra(customer_id):
-        """
-        Look up the industry proxy + order-history summary for a
-        matched Odoo customer id, returning a flat dict of the
-        extra "knowledge bank" fields to merge into an enriched
-        row. Missing lookups return blanks, never a crash.
-        """
-
-        proxy = industry_proxy.get(
-            customer_id,
-            {}
-        )
-
-        history = order_summary.get(
-            customer_id,
-            {}
-        )
-
-        industry_confidence = ""
-
-        if proxy.get("industry_order_count") and proxy.get("order_count"):
-
-            industry_confidence = (
-                f"{proxy['industry_order_count']} of "
-                f"{proxy['order_count']} orders"
-            )
-
-        return {
-
-            "matched_industry":
-                proxy.get("industry", ""),
-
-            "matched_industry_confidence":
-                industry_confidence,
-
-            "total_orders":
-                history.get("total_orders", ""),
-
-            "total_po_value":
-                history.get("total_po_value", ""),
-
-            "regions":
-                history.get("regions", ""),
-
-            "latest_order_date":
-                history.get("latest_order_date", ""),
-
-            "customer_type":
-                history.get("customer_type", ""),
-
-            "adage_customer":
-                history.get("adage_customer", ""),
-
-            "end_user":
-                history.get("end_user", ""),
-
-            "quote_status_summary":
-                history.get("quote_status_summary", ""),
-        }
-
-    EMPTY_ENRICHMENT_EXTRA = {
-
-        "matched_industry": "",
-        "matched_industry_confidence": "",
-        "total_orders": "",
-        "total_po_value": "",
-        "regions": "",
-        "latest_order_date": "",
-        "customer_type": "",
-        "adage_customer": "",
-        "end_user": "",
-        "quote_status_summary": "",
-    }
-
     # --------------------------------------------------------
     # MATCH QUOTATIONS
+    #
+    # Per-quotation decision (override -> RFQ exact match -> fuzzy
+    # name fallback) lives in match_quotation() so a second driver
+    # script pointed at a different document table can reuse it
+    # unchanged.
     # --------------------------------------------------------
 
     enriched_rows = []
@@ -1381,636 +1867,35 @@ def main():
     low_count = 0
     no_match_count = 0
     missing_count = 0
+    override_count = 0
 
-    for index, quotation in enumerate(
-        quotations,
-        start=1
-    ):
+    for quotation in quotations:
 
-        quote_customer = (
-            quotation.get(
-                quotation_customer_column,
-                ""
-            )
-            or ""
-        ).strip()
-
-        # ----------------------------------------------------
-        # MISSING CUSTOMER
-        # ----------------------------------------------------
-
-        if not quote_customer:
-
-            missing_count += 1
-
-            enriched = dict(
-                quotation
-            )
-
-            enriched.update({
-
-                "matched_customer_id":
-                    "",
-
-                "matched_customer_name":
-                    "",
-
-                "matched_customer_reference":
-                    "",
-
-                "matched_email":
-                    "",
-
-                "matched_phone":
-                    "",
-
-                "matched_city":
-                    "",
-
-                "matched_state":
-                    "",
-
-                "matched_country":
-                    "",
-
-                "customer_match_score":
-                    0,
-
-                "customer_match_status":
-                    "MISSING",
-
-                **EMPTY_ENRICHMENT_EXTRA,
-                **EMPTY_ORDER_EXTRA,
-            })
-
-            enriched_rows.append(
-                enriched
-            )
-
-            review_rows.append({
-
-                "source_file":
-                    quotation.get(
-                        "source_file",
-                        ""
-                    ),
-
-                "quotation_number":
-                    quotation.get(
-                        "quotation_number",
-                        ""
-                    ),
-
-                "quotation_customer":
-                    "",
-
-                "matched_customer_name":
-                    "",
-
-                "match_score":
-                    0,
-
-                "match_status":
-                    "MISSING",
-
-                "reason":
-                    "Quotation customer is empty",
-            })
-
-            continue
-
-        # ----------------------------------------------------
-        # MANUAL OVERRIDE (checked before fuzzy matching)
-        # ----------------------------------------------------
-
-        override_id = overrides.get(
-            quote_customer.lower()
+        enriched, review, status, counters = match_quotation(
+            quotation,
+            quotation_customer_column,
+            customers,
+            customers_by_id,
+            overrides,
+            rfq_index,
+            industry_proxy,
+            order_summary,
         )
 
-        if (
-            override_id
-            and override_id in customers_by_id
-        ):
-
-            override_count += 1
-
-            customer = customers_by_id[
-                override_id
-            ]
-
-            enriched = dict(
-                quotation
-            )
-
-            enriched.update({
-
-                "matched_customer_id":
-                    customer["customer_id"],
-
-                "matched_customer_name":
-                    customer["customer_name"],
-
-                "matched_customer_reference":
-                    customer["reference"],
-
-                "matched_email":
-                    customer["email"],
-
-                "matched_phone":
-                    customer["phone"],
-
-                "matched_city":
-                    customer["city"],
-
-                "matched_state":
-                    customer["state"],
-
-                "matched_country":
-                    customer["country"],
-
-                "customer_match_score":
-                    1.0,
-
-                "customer_match_status":
-                    "OVERRIDE",
-
-                **build_enrichment_extra(
-                    customer["customer_id"]
-                ),
-                **EMPTY_ORDER_EXTRA,
-            })
-
-            enriched_rows.append(
-                enriched
-            )
-
-            continue
-
-        # ----------------------------------------------------
-        # RFQ NUMBER MATCH (checked before fuzzy name matching)
-        #
-        # quotations.csv's quotation_number, when present, is
-        # compared exactly against Odoo's
-        # x_studio_internal_rfq_assignment_number - a match
-        # resolves the customer directly via that specific
-        # sale.order's partner_id, no fuzzy scoring involved.
-        # Falls back to fuzzy name matching below only when no
-        # RFQ number was extracted or no match is found.
-        # ----------------------------------------------------
-
-        quotation_number_value = (
-            quotation.get(
-                "quotation_number",
-                ""
-            )
-            or ""
-        ).strip()
-
-        rfq_key = normalize_rfq_number(
-            quotation_number_value
-        )
-
-        rfq_orders = (
-            rfq_index.get(rfq_key, [])
-            if rfq_key
-            else []
-        )
-
-        if rfq_orders:
-
-            distinct_partner_ids = {
-                (order.get("partner_id_id", "") or "").strip()
-                for order in rfq_orders
-                if (order.get("partner_id_id", "") or "").strip()
-            }
-
-            if len(distinct_partner_ids) > 1:
-
-                rfq_ambiguous_count += 1
-
-                enriched = dict(
-                    quotation
-                )
-
-                enriched.update({
-
-                    "matched_customer_id":
-                        "",
-
-                    "matched_customer_name":
-                        "",
-
-                    "matched_customer_reference":
-                        "",
-
-                    "matched_email":
-                        "",
-
-                    "matched_phone":
-                        "",
-
-                    "matched_city":
-                        "",
-
-                    "matched_state":
-                        "",
-
-                    "matched_country":
-                        "",
-
-                    "customer_match_score":
-                        0,
-
-                    "customer_match_status":
-                        "RFQ_AMBIGUOUS",
-
-                    **EMPTY_ENRICHMENT_EXTRA,
-                    **EMPTY_ORDER_EXTRA,
-                })
-
-                enriched_rows.append(
-                    enriched
-                )
-
-                conflicting_names = sorted({
-                    (order.get("partner_id_name", "") or "").strip()
-                    for order in rfq_orders
-                })
-
-                review_rows.append({
-
-                    "source_file":
-                        quotation.get(
-                            "source_file",
-                            ""
-                        ),
-
-                    "quotation_number":
-                        quotation_number_value,
-
-                    "quotation_customer":
-                        quote_customer,
-
-                    "matched_customer_name":
-                        " / ".join(conflicting_names),
-
-                    "match_score":
-                        0,
-
-                    "match_status":
-                        "RFQ_AMBIGUOUS",
-
-                    "reason":
-                        "RFQ number matched multiple different "
-                        "Odoo customers",
-                })
-
-                continue
-
-            partner_id = next(
-                iter(distinct_partner_ids)
-            )
-
-            rfq_customer = customers_by_id.get(
-                partner_id
-            )
-
-            if rfq_customer:
-
-                rfq_match_count += 1
-
-                chosen_order = max(
-                    rfq_orders,
-                    key=lambda order: (
-                        order.get("date_order", "") or ""
-                    )
-                )
-
-                enriched = dict(
-                    quotation
-                )
-
-                enriched.update({
-
-                    "matched_customer_id":
-                        rfq_customer["customer_id"],
-
-                    "matched_customer_name":
-                        rfq_customer["customer_name"],
-
-                    "matched_customer_reference":
-                        rfq_customer["reference"],
-
-                    "matched_email":
-                        rfq_customer["email"],
-
-                    "matched_phone":
-                        rfq_customer["phone"],
-
-                    "matched_city":
-                        rfq_customer["city"],
-
-                    "matched_state":
-                        rfq_customer["state"],
-
-                    "matched_country":
-                        rfq_customer["country"],
-
-                    "customer_match_score":
-                        1.0,
-
-                    "customer_match_status":
-                        "RFQ_MATCH",
-
-                    **build_enrichment_extra(
-                        rfq_customer["customer_id"]
-                    ),
-
-                    **build_order_extra(
-                        chosen_order,
-                        quotation_number_value
-                    ),
-                })
-
-                enriched_rows.append(
-                    enriched
-                )
-
-                continue
-
-            # The order's partner id wasn't resolved in the
-            # res_partners export (rare) - fall through to fuzzy
-            # name matching below rather than guessing.
-
-        # ----------------------------------------------------
-        # MATCH (fuzzy name fallback - only reached when no RFQ
-        # number was extracted, or no RFQ match was found above)
-        # ----------------------------------------------------
-
-        result = find_best_match(
-            quote_customer,
-            customers
-        )
-
-        enriched = dict(
-            quotation
-        )
-
-        if result is None:
-
-            no_match_count += 1
-
-            enriched.update({
-
-                "matched_customer_id":
-                    "",
-
-                "matched_customer_name":
-                    "",
-
-                "matched_customer_reference":
-                    "",
-
-                "matched_email":
-                    "",
-
-                "matched_phone":
-                    "",
-
-                "matched_city":
-                    "",
-
-                "matched_state":
-                    "",
-
-                "matched_country":
-                    "",
-
-                "customer_match_score":
-                    0,
-
-                "customer_match_status":
-                    "NO_MATCH",
-
-                **EMPTY_ENRICHMENT_EXTRA,
-                **EMPTY_ORDER_EXTRA,
-            })
-
-            review_rows.append({
-
-                "source_file":
-                    quotation.get(
-                        "source_file",
-                        ""
-                    ),
-
-                "quotation_number":
-                    quotation.get(
-                        "quotation_number",
-                        ""
-                    ),
-
-                "quotation_customer":
-                    quote_customer,
-
-                "matched_customer_name":
-                    "",
-
-                "match_score":
-                    0,
-
-                "match_status":
-                    "NO_MATCH",
-
-                "reason":
-                    "No Odoo customer candidate found",
-            })
-
-            enriched_rows.append(
-                enriched
-            )
-
-            continue
-
-        customer = result[
-            "customer"
-        ]
-
-        score = result[
-            "score"
-        ]
-
-        status = result[
-            "status"
-        ]
-
-        enriched.update({
-
-            "matched_customer_id":
-                customer[
-                    "customer_id"
-                ],
-
-            "matched_customer_name":
-                customer[
-                    "customer_name"
-                ],
-
-            "matched_customer_reference":
-                customer[
-                    "reference"
-                ],
-
-            "matched_email":
-                customer["email"],
-
-            "matched_phone":
-                customer["phone"],
-
-            "matched_city":
-                customer["city"],
-
-            "matched_state":
-                customer["state"],
-
-            "matched_country":
-                customer["country"],
-
-            "customer_match_score":
-                score,
-
-            "customer_match_status":
-                status,
-
-            **build_enrichment_extra(
-                customer["customer_id"]
-            ),
-            **EMPTY_ORDER_EXTRA,
-        })
-
-        enriched_rows.append(
-            enriched
-        )
-
-        # ----------------------------------------------------
-        # COUNTERS / REVIEW
-        # ----------------------------------------------------
-
-        if status == "EXACT":
-
-            exact_count += 1
-
-        elif status == "HIGH":
-
-            high_count += 1
-
-        elif status == "REVIEW":
-
-            review_count += 1
-
-            review_rows.append({
-
-                "source_file":
-                    quotation.get(
-                        "source_file",
-                        ""
-                    ),
-
-                "quotation_number":
-                    quotation.get(
-                        "quotation_number",
-                        ""
-                    ),
-
-                "quotation_customer":
-                    quote_customer,
-
-                "matched_customer_name":
-                    customer[
-                        "customer_name"
-                    ],
-
-                "match_score":
-                    score,
-
-                "match_status":
-                    status,
-
-                "reason":
-                    "Medium-confidence customer match",
-            })
-
-        elif status == "LOW":
-
-            low_count += 1
-
-            review_rows.append({
-
-                "source_file":
-                    quotation.get(
-                        "source_file",
-                        ""
-                    ),
-
-                "quotation_number":
-                    quotation.get(
-                        "quotation_number",
-                        ""
-                    ),
-
-                "quotation_customer":
-                    quote_customer,
-
-                "matched_customer_name":
-                    customer[
-                        "customer_name"
-                    ],
-
-                "match_score":
-                    score,
-
-                "match_status":
-                    status,
-
-                "reason":
-                    "Low-confidence customer match",
-            })
-
-        else:
-
-            no_match_count += 1
-
-            review_rows.append({
-
-                "source_file":
-                    quotation.get(
-                        "source_file",
-                        ""
-                    ),
-
-                "quotation_number":
-                    quotation.get(
-                        "quotation_number",
-                        ""
-                    ),
-
-                "quotation_customer":
-                    quote_customer,
-
-                "matched_customer_name":
-                    customer[
-                        "customer_name"
-                    ],
-
-                "match_score":
-                    score,
-
-                "match_status":
-                    status,
-
-                "reason":
-                    "No reliable match",
-            })
+        enriched_rows.append(enriched)
+
+        if review is not None:
+            review_rows.append(review)
+
+        exact_count += counters.get("exact_count", 0)
+        high_count += counters.get("high_count", 0)
+        review_count += counters.get("review_count", 0)
+        low_count += counters.get("low_count", 0)
+        no_match_count += counters.get("no_match_count", 0)
+        missing_count += counters.get("missing_count", 0)
+        override_count += counters.get("override_count", 0)
+        rfq_match_count += counters.get("rfq_match_count", 0)
+        rfq_ambiguous_count += counters.get("rfq_ambiguous_count", 0)
 
     # ========================================================
     # WRITE ENRICHED CSV

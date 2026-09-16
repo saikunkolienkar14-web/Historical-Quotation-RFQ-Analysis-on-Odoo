@@ -45,7 +45,13 @@ standardization opportunities.
 
 All output paths are under `Quotation_Data/`. `quotation_parser_v1.py` is
 the **parser of record**; `boq_coords/` is a second, independent
-coordinate-aware extractor not yet wired into the join.
+coordinate-aware extractor not yet wired into the *main* join
+(`07_knowledge_bank/`). It has its own parallel, evaluation-only join
+(`boq_coords/match_customers_coords.py` →
+`knowledge_bank/build_knowledge_bank_coords.py`, writing to
+`06_customer_matching_coords/` and `07_knowledge_bank_coords/`) so its
+item extraction can be compared against v1's without touching v1's
+output — see the Commands section below.
 
 
 ## Data rules — do not break these
@@ -127,6 +133,13 @@ Coordinate-aware extractor (independent path, writes to
 
     python -m boq_coords --limit 50
     python -m boq_coords
+
+Its parallel evaluation-only customer match + knowledge bank (writes to
+`06_customer_matching_coords/` / `07_knowledge_bank_coords/`, never
+touches `06_customer_matching/` or `07_knowledge_bank/`):
+
+    python boq_coords\match_customers_coords.py > run_match_coords.log 2>&1
+    python knowledge_bank\build_knowledge_bank_coords.py > run_kb_coords.log 2>&1
 
 
 ## Where things live

@@ -67,7 +67,25 @@ corpus-wide self-consistency suite (`scripts/score.py`). Current
 corpus-scale self-consistency: 0% negative prices, ~97% arithmetic
 consistency on rows with all three of qty/unit price/total price, 100%
 raw-text traceability. Not yet run over the full corpus or wired into the
-knowledge-bank join — see Future work below.
+*main* knowledge-bank join — see Future work below.
+
+It now has its own **parallel, evaluation-only** customer-match +
+knowledge-bank path (`boq_coords/match_customers_coords.py` →
+`knowledge_bank/build_knowledge_bank_coords.py`, writing to
+`06_customer_matching_coords/` / `07_knowledge_bank_coords/`), so its
+item extraction can be scored the same way v1's is without touching v1's
+output. It reuses v1's already-extracted `customer` /
+`quotation_number` per document (`quotations.csv`, joined on
+`source_path`) rather than re-implementing that extraction, and reuses
+`odoo_match_customer.match_customers.match_quotation()` unchanged
+(extracted from that script's `main()` loop so both paths share one
+matching implementation). 50-document smoke test (2026-09-16, 49 unique
+PDFs after manifest dedup): all 49 resolved a `quotations.csv`
+counterpart; customer matching gave 22 RFQ exact matches, 9 name-exact,
+10 review, 5 low-confidence, 1 no-match, 2 missing-customer; the item
+join matched all 641 extracted items to a document, with 490 of those
+641 having no resolvable price (`price_basis=NONE`) — noticeably higher
+than v1's corpus rate, worth checking before a full-corpus run.
 
 ### Completed
 
