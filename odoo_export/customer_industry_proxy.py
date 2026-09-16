@@ -15,13 +15,25 @@ Output:
     Quotation_Data/05_odoo_export/customer_industry_proxy.csv
 
 Columns:
-    partner_id, industry, order_count, industry_order_count
+    partner_id, industry, industry_specify_others, order_count,
+    industry_order_count
 
     order_count         - total orders for this customer
     industry_order_count - how many of those orders had this
                            (winning) industry value, so the
                            proxy's confidence is visible
                            downstream (e.g. "3 of 5 orders")
+    industry_specify_others - x_studio_specify_others from the most
+                           recently dated order among those that had
+                           the winning industry value. Only meaningful
+                           when industry is "Others" (that's the only
+                           case Odoo populates this field); carried
+                           through as-is otherwise blank. Not itself
+                           used to decide the winning industry - two
+                           "Others" orders with different specify-text
+                           still count as the same industry, per project
+                           convention (raw stays beside derived, not
+                           folded into the matched value).
 
 Orders with no partner_id or no industry value are excluded from
 the counts. Ties are broken by picking the industry seen on the
@@ -124,8 +136,11 @@ def main():
         industry_counts = defaultdict(int)
 
         # Track the most recent date seen per industry, for
-        # tie-breaking.
+        # tie-breaking, and the specify_others text that came with
+        # that same most-recent order (only meaningful when the
+        # industry is "Others" - blank otherwise).
         industry_latest_date = defaultdict(str)
+        industry_latest_specify_others = defaultdict(str)
 
         for order in customer_orders:
 
@@ -148,6 +163,11 @@ def main():
 
                 industry_latest_date[industry] = date_order
 
+                industry_latest_specify_others[industry] = (
+                    order.get("x_studio_specify_others", "")
+                    or ""
+                ).strip()
+
         if not industry_counts:
 
             customers_with_no_industry += 1
@@ -155,6 +175,7 @@ def main():
             rows.append({
                 "partner_id": partner_id,
                 "industry": "",
+                "industry_specify_others": "",
                 "order_count": order_count,
                 "industry_order_count": 0,
             })
@@ -187,6 +208,8 @@ def main():
         rows.append({
             "partner_id": partner_id,
             "industry": winning_industry,
+            "industry_specify_others":
+                industry_latest_specify_others[winning_industry],
             "order_count": order_count,
             "industry_order_count": max_count,
         })
@@ -217,6 +240,7 @@ def main():
             fieldnames=[
                 "partner_id",
                 "industry",
+                "industry_specify_others",
                 "order_count",
                 "industry_order_count",
             ],

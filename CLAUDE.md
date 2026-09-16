@@ -141,6 +141,15 @@ touches `06_customer_matching/` or `07_knowledge_bank/`):
     python boq_coords\match_customers_coords.py > run_match_coords.log 2>&1
     python knowledge_bank\build_knowledge_bank_coords.py > run_kb_coords.log 2>&1
 
+`build_knowledge_bank_coords.py` writes both the full audit file
+(`knowledge_bank_items_coords.csv`, every column, raw kept beside
+derived) and a slim, analyst-facing projection of it
+(`knowledge_bank_items_coords_slim.csv`) with boq_coords-internal QA
+columns and raw/derived duplicate pairs dropped — the guardrail columns
+this file's own rules require (`data_source`, `price_basis`,
+`date_source`/`date_ambiguous`, `item_confidence`) are kept in the slim
+file too.
+
 
 ## Where things live
 

@@ -31,6 +31,10 @@ SALE_ORDER_FIELDS = [
     "x_studio_adage_customer",
     "x_studio_end_user",
     "x_studio_type_of_industry",
+    # Free-text detail, only populated when x_studio_type_of_industry is
+    # "Others" - carried through as its own column rather than folded
+    # into the industry value itself (raw stays beside derived).
+    "x_studio_specify_others",
     "x_studio_customer_type",
     "x_studio_rfq_reference_number",
     "x_studio_internal_rfq_assignment_number",

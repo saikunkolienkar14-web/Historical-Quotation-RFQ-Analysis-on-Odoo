@@ -147,6 +147,7 @@ OUTPUT_COLUMNS = [
     "matched_customer_id",
     "matched_customer_name",
     "matched_industry",
+    "matched_industry_specify_others",
     "matched_industry_confidence",
     "customer_match_status",
     "customer_match_score",
@@ -160,6 +161,7 @@ OUTPUT_COLUMNS = [
     "matched_order_id",
     "matched_rfq_number",
     "matched_order_industry",
+    "matched_order_industry_specify_others",
     "matched_order_po_number",
     "matched_order_po_value",
     "matched_order_quote_status",
@@ -793,6 +795,7 @@ def build_attachment_row(item, document, order) -> dict:
         "matched_customer_id",
         "matched_customer_name",
         "matched_industry",
+        "matched_industry_specify_others",
         "matched_industry_confidence",
         "customer_match_status",
         "customer_match_score",
@@ -810,6 +813,7 @@ def build_attachment_row(item, document, order) -> dict:
         "matched_order_id",
         "matched_rfq_number",
         "matched_order_industry",
+        "matched_order_industry_specify_others",
         "matched_order_po_number",
         "matched_order_po_value",
         "matched_order_quote_status",
@@ -883,6 +887,10 @@ def build_order_only_row(order, industry_proxy_name="") -> dict:
     row["matched_customer_id"] = order.get("partner_id_id", "")
     row["matched_customer_name"] = order.get("partner_id_name", "")
     row["matched_industry"] = order.get("x_studio_type_of_industry", "")
+    row["matched_industry_specify_others"] = order.get(
+        "x_studio_specify_others",
+        ""
+    )
     row["customer_type"] = order.get("x_studio_customer_type", "")
     row["regions"] = order.get("x_studio_responsible_region", "")
     row["customer_match_status"] = "ODOO_ONLY"
@@ -898,6 +906,11 @@ def build_order_only_row(order, industry_proxy_name="") -> dict:
 
     row["matched_order_industry"] = order.get(
         "x_studio_type_of_industry",
+        ""
+    )
+
+    row["matched_order_industry_specify_others"] = order.get(
+        "x_studio_specify_others",
         ""
     )
 

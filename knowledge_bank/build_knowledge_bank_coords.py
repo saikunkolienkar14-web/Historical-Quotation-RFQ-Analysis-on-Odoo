@@ -17,6 +17,7 @@ Input:
 
 Output:
     Quotation_Data/07_knowledge_bank_coords/knowledge_bank_items_coords.csv
+    Quotation_Data/07_knowledge_bank_coords/knowledge_bank_items_coords_slim.csv
     Quotation_Data/07_knowledge_bank_coords/knowledge_bank_review_coords.csv
     Quotation_Data/07_knowledge_bank_coords/knowledge_bank_summary_coords.txt
 
@@ -28,6 +29,15 @@ Design:
     duplicating them into a second knowledge bank would only repeat
     build_knowledge_bank.py's own bookkeeping without telling us
     anything new about boq_coords.
+
+    knowledge_bank_items_coords.csv is the audit/master file - wide,
+    nothing dropped, raw values kept beside derived ones. The _slim
+    variant (see SLIM_COLUMN_MAP below) is a pure projection of it for
+    analysts: boq_coords-internal QA columns and raw/derived duplicate
+    pairs are dropped, but every column CLAUDE.md's analysis rules
+    require (data_source, price_basis, date_source/date_ambiguous,
+    item_confidence) is kept - the slim file must stay safe to analyze
+    on its own, not just smaller.
 
     Column mapping from boq_coords' 19-column item schema (see
     boq_coords/emit.py): description_full -> description, with
@@ -103,6 +113,7 @@ OUTPUT_FOLDER = (
 )
 
 ITEMS_CSV = OUTPUT_FOLDER / "knowledge_bank_items_coords.csv"
+ITEMS_SLIM_CSV = OUTPUT_FOLDER / "knowledge_bank_items_coords_slim.csv"
 REVIEW_CSV = OUTPUT_FOLDER / "knowledge_bank_review_coords.csv"
 SUMMARY_TXT = OUTPUT_FOLDER / "knowledge_bank_summary_coords.txt"
 
@@ -155,6 +166,7 @@ OUTPUT_COLUMNS = [
     "matched_customer_id",
     "matched_customer_name",
     "matched_industry",
+    "matched_industry_specify_others",
     "matched_industry_confidence",
     "customer_match_status",
     "customer_match_score",
@@ -168,6 +180,7 @@ OUTPUT_COLUMNS = [
     "matched_order_id",
     "matched_rfq_number",
     "matched_order_industry",
+    "matched_order_industry_specify_others",
     "matched_order_po_number",
     "matched_order_po_value",
     "matched_order_quote_status",
@@ -196,6 +209,72 @@ REVIEW_COLUMNS = [
     "item_no",
     "reason",
 ]
+
+
+# ============================================================
+# SLIM (ANALYST-FACING) SCHEMA
+# ============================================================
+#
+# A pure projection of OUTPUT_COLUMNS, not a second row-building path:
+# drops boq_coords-internal QA/debug columns (parent_item_no, item_level,
+# price_status, total_price_source, validation_error) and raw/derived
+# duplicate pairs (raw make/model/unit/unit_price/total_price kept only
+# in their normalized/_final form here, since the slim file has no raw
+# counterpart alongside to disambiguate from). Guardrail columns the
+# project's own analysis rules require (data_source, price_basis,
+# date_source/date_ambiguous, item_confidence - see CLAUDE.md) are kept
+# even though they look like metadata: dropping them would make this
+# file misleading, not just less detailed.
+#
+# {source column in OUTPUT_COLUMNS: slim column name}, in output order.
+# ------------------------------------------------------------
+
+SLIM_COLUMN_MAP = {
+
+    "source_file": "source_file",
+    "source_path": "source_path",
+    "quotation_number": "quotation_number",
+    "item_no": "item_no",
+
+    "product_name": "product_name",
+    "description": "description",
+    "make_normalized": "make",
+    "model_normalized": "model",
+    "quantity": "quantity",
+    "unit_normalized": "unit",
+
+    "unit_price_final": "unit_price",
+    "total_price_final": "total_price",
+    "price_basis": "price_basis",
+    "currency": "currency",
+    "document_currency": "document_currency",
+
+    "data_source": "data_source",
+    "item_confidence": "item_confidence",
+
+    "matched_customer_name": "matched_customer_name",
+    "matched_industry": "matched_industry",
+    "matched_industry_specify_others": "matched_industry_specify_others",
+    "matched_industry_confidence": "matched_industry_confidence",
+    "matched_state": "matched_state",
+    "matched_country": "matched_country",
+    "customer_type": "customer_type",
+    "regions": "regions",
+    "customer_match_status": "customer_match_status",
+    "customer_match_score": "customer_match_score",
+
+    "matched_rfq_number": "matched_rfq_number",
+    "matched_order_po_value": "matched_order_po_value",
+    "matched_order_quote_status": "matched_order_quote_status",
+    "order_state": "order_state",
+    "firm_or_budgetary": "firm_or_budgetary",
+
+    "quotation_date_final": "quotation_date",
+    "date_source": "date_source",
+    "date_ambiguous": "date_ambiguous",
+    "quotation_year": "quotation_year",
+    "quotation_month": "quotation_month",
+}
 
 
 # ============================================================
@@ -313,6 +392,7 @@ def build_coords_item_row(item, document, order) -> dict:
         "matched_customer_id",
         "matched_customer_name",
         "matched_industry",
+        "matched_industry_specify_others",
         "matched_industry_confidence",
         "customer_match_status",
         "customer_match_score",
@@ -330,6 +410,7 @@ def build_coords_item_row(item, document, order) -> dict:
         "matched_order_id",
         "matched_rfq_number",
         "matched_order_industry",
+        "matched_order_industry_specify_others",
         "matched_order_po_number",
         "matched_order_po_value",
         "matched_order_quote_status",
@@ -553,6 +634,12 @@ def main():
 
     output_frame.to_csv(ITEMS_CSV, index=False, encoding=CSV_ENCODING)
 
+    slim_frame = output_frame[list(SLIM_COLUMN_MAP)].rename(
+        columns=SLIM_COLUMN_MAP
+    )
+
+    slim_frame.to_csv(ITEMS_SLIM_CSV, index=False, encoding=CSV_ENCODING)
+
     review_frame = pd.DataFrame(review_rows, columns=REVIEW_COLUMNS)
 
     review_frame.to_csv(REVIEW_CSV, index=False, encoding=CSV_ENCODING)
@@ -630,6 +717,7 @@ def main():
 
         file.write("OUTPUTS\n")
         file.write(f"{ITEMS_CSV}\n")
+        file.write(f"{ITEMS_SLIM_CSV}  ({len(SLIM_COLUMN_MAP)} columns, analyst-facing)\n")
         file.write(f"{REVIEW_CSV}\n")
 
     # --------------------------------------------------------
@@ -657,6 +745,7 @@ def main():
 
     print("\nFiles created:")
     print(f"  {ITEMS_CSV}")
+    print(f"  {ITEMS_SLIM_CSV}  ({len(SLIM_COLUMN_MAP)} columns, analyst-facing)")
     print(f"  {REVIEW_CSV}")
     print(f"  {SUMMARY_TXT}")
 

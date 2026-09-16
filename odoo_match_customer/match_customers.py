@@ -616,9 +616,10 @@ def load_industry_proxy(path):
     Load the customer -> industry proxy table, if it exists.
 
     Returns a dict keyed on Odoo customer id (string) -> dict with
-    industry / order_count / industry_order_count. Missing file is
-    not an error - it just means no industry enrichment is
-    available yet (run odoo_export/customer_industry_proxy.py).
+    industry / industry_specify_others / order_count /
+    industry_order_count. Missing file is not an error - it just means
+    no industry enrichment is available yet (run
+    odoo_export/customer_industry_proxy.py).
     """
 
     if not path.exists():
@@ -643,6 +644,9 @@ def load_industry_proxy(path):
 
             "industry":
                 (row.get("industry", "") or "").strip(),
+
+            "industry_specify_others":
+                (row.get("industry_specify_others", "") or "").strip(),
 
             "order_count":
                 (row.get("order_count", "") or "").strip(),
@@ -908,6 +912,9 @@ def build_order_extra(order_row, matched_rfq_number):
         "matched_order_industry":
             get("x_studio_type_of_industry"),
 
+        "matched_order_industry_specify_others":
+            get("x_studio_specify_others"),
+
         "matched_order_customer_type":
             get("x_studio_customer_type"),
 
@@ -933,6 +940,7 @@ EMPTY_ORDER_EXTRA = {
     "matched_order_id": "",
     "matched_rfq_number": "",
     "matched_order_industry": "",
+    "matched_order_industry_specify_others": "",
     "matched_order_customer_type": "",
     "matched_order_region": "",
     "matched_order_po_number": "",
@@ -944,6 +952,7 @@ EMPTY_ORDER_EXTRA = {
 EMPTY_ENRICHMENT_EXTRA = {
 
     "matched_industry": "",
+    "matched_industry_specify_others": "",
     "matched_industry_confidence": "",
     "total_orders": "",
     "total_po_value": "",
@@ -1066,6 +1075,9 @@ def match_quotation(
 
             "matched_industry":
                 proxy.get("industry", ""),
+
+            "matched_industry_specify_others":
+                proxy.get("industry_specify_others", ""),
 
             "matched_industry_confidence":
                 industry_confidence,
@@ -1927,6 +1939,8 @@ def main():
 
         "matched_industry",
 
+        "matched_industry_specify_others",
+
         "matched_industry_confidence",
 
         "total_orders",
@@ -1950,6 +1964,8 @@ def main():
         "matched_rfq_number",
 
         "matched_order_industry",
+
+        "matched_order_industry_specify_others",
 
         "matched_order_customer_type",
 
@@ -2051,6 +2067,7 @@ def main():
         "matched_state",
         "matched_country",
         "matched_industry",
+        "matched_industry_specify_others",
         "matched_industry_confidence",
         "total_orders",
         "total_po_value",

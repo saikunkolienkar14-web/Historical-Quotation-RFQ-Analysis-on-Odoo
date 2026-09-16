@@ -86,6 +86,14 @@ counterpart; customer matching gave 22 RFQ exact matches, 9 name-exact,
 join matched all 641 extracted items to a document, with 490 of those
 641 having no resolvable price (`price_basis=NONE`) — noticeably higher
 than v1's corpus rate, worth checking before a full-corpus run.
+`build_knowledge_bank_coords.py` also writes a slim, analyst-facing
+`knowledge_bank_items_coords_slim.csv` (36 columns vs. the full file's
+55) alongside the full audit file — boq_coords-internal QA columns
+(`parent_item_no`, `item_level`, `price_status`, `total_price_source`,
+`validation_error`) and raw/derived duplicate pairs are dropped, but
+`data_source` / `price_basis` / `date_source` / `date_ambiguous` /
+`item_confidence` are kept so the slim file stays safe to analyze on its
+own.
 
 ### Completed
 
@@ -144,6 +152,27 @@ customer can have orders across different industries. Each customer is
 assigned their most common industry across all their orders, ties broken
 by the most recent order date.
 
+**"Others" industry detail.** `x_studio_type_of_industry` has an
+"Others" option backed by a companion free-text field,
+`x_studio_specify_others`, only populated on those orders. It's carried
+through as its own column everywhere the industry field already flows —
+`sale_orders.csv` → `customer_industry_proxy.csv`
+(`industry_specify_others`) → `customer_enriched.csv` /
+`customer_enriched_coords.csv` (`matched_industry_specify_others`,
+`matched_order_industry_specify_others`) → both knowledge banks —
+without altering the industry value itself (still literally "Others").
+662 of 4,721 sale orders (2026-09-16 export) have a non-blank value.
+
+**Live Odoo source switched to `employee-copy.odoo.com`.** Previously
+`test-sai.odoo.com` (4,580 orders / 1,163 partners); the new export has
+4,721 orders / 1,175 partners — a superset, consistent with its name
+(a copy environment with ~141 more orders). Matching figures below are
+scaled up proportionally but otherwise consistent (RFQ matches still
+2,384). `odoo_export/.env` holds the URL/credentials actually used by
+`export_customers.py` (loaded relative to that script's own folder, NOT
+the project-root `.env`, which python-dotenv's `load_dotenv()` never
+reaches here) — keep both in sync if the source changes again.
+
 
 ## Known issues
 
@@ -159,18 +188,18 @@ by the most recent order date.
   [`docs/COORDS_EXTRACTOR.md`](docs/COORDS_EXTRACTOR.md#known-limitations)
   for what it does *not* yet catch.
 
-- **Matching figures (current, post-refresh).** RFQ matching now resolves
-  2,384 of 3,876 quotations (61.5%) unambiguously, up from 1,440 (37%) —
-  the expected effect of re-running `match_customers.py` against the
-  current (v1.7.1+) `quotations.csv`, which raised non-blank
-  `quotation_number` coverage from 2,568 to 3,676. 4 remain flagged
-  `RFQ_AMBIGUOUS` (same number on different customers' orders —
-  deliberately left unassigned). The remaining ~1,488 fell through to
-  fuzzy matching: EXACT 391, HIGH 9, REVIEW 368, LOW 339, NO_MATCH 222,
-  MISSING 159. `RFQ_MATCH` rows can be trusted as identity; REVIEW/LOW/
-  NO_MATCH rows cannot, without a human look. Knock-on effect in the
-  item-level bank: `ODOO_ORDER_ONLY` rows dropped from 3,186 to 2,255,
-  and orders linked to a document rose from 1,394 to 2,325.
+- **Matching figures (current, post-refresh, employee-copy.odoo.com
+  export).** RFQ matching resolves 2,384 of 3,876 quotations (61.5%)
+  unambiguously — unchanged from the `test-sai.odoo.com` figures below,
+  since the ~141 extra orders in this copy environment didn't touch any
+  RFQ number already in use. 4 remain flagged `RFQ_AMBIGUOUS` (same
+  number on different customers' orders — deliberately left unassigned).
+  The remaining ~1,488 fell through to fuzzy matching: EXACT 398, HIGH 9,
+  REVIEW 368, LOW 332, NO_MATCH 222, MISSING 159. `RFQ_MATCH` rows can be
+  trusted as identity; REVIEW/LOW/NO_MATCH rows cannot, without a human
+  look. Knock-on effect in the item-level bank: `ODOO_ORDER_ONLY` rows
+  now 2,396 (was 2,255 against `test-sai`), orders linked to a document
+  unchanged at 2,325, total knowledge-bank rows 40,883 (was 40,742).
 
 - **Parser edge cases remain.** See `parser_review.csv` after any run: a
   meaningful share of BOQ line items still have no detected price or only
