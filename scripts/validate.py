@@ -27,7 +27,10 @@ def main() -> int:
         return 2
 
     in_path = Path(sys.argv[1])
-    rows = list(csv.DictReader(open(in_path, encoding="utf-8")))
+    # utf-8-sig on read: strips the BOM boq_coords/emit.py writes (for
+    # Excel's benefit) so the first column stays "source_file" rather than
+    # "﻿source_file"; harmless on a BOM-less file.
+    rows = list(csv.DictReader(open(in_path, encoding="utf-8-sig")))
 
     rule_counts: Counter[str] = Counter()
     n_failed = 0
@@ -57,7 +60,7 @@ def main() -> int:
 
     out_path = in_path.with_name(in_path.stem + "_validated.csv")
     fieldnames = list(out_rows[0].keys()) if out_rows else []
-    with open(out_path, "w", newline="", encoding="utf-8") as f:
+    with open(out_path, "w", newline="", encoding="utf-8-sig") as f:
         w = csv.DictWriter(f, fieldnames=fieldnames)
         w.writeheader()
         w.writerows(out_rows)

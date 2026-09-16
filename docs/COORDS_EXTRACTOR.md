@@ -113,7 +113,7 @@ arithmetic cross-check (`qty × unit_price ≈ total_price`).
 
 ### Validation (`validate.py`)
 
-Every row is checked against six rules; a failing row is never dropped —
+Every row is checked against seven rules; a failing row is never dropped —
 it gets `confidence=LOW` and the failed rule name(s) in
 `validation_error`:
 
@@ -125,21 +125,67 @@ it gets `confidence=LOW` and the failed rule name(s) in
 | Quantity form | A number needs a recognized unit word — a bare number is not a quantity |
 | Price bounds | Never negative, never below 1,000 |
 | item_no shape | A single well-formed anchor (`"1"`, `"2.3"`) — never multiple concatenated anchors or unrelated swept-in text |
+| Price cell span | `PRICE_CELL_SPANS_MULTIPLE_ROWS` — the row's price came from a table cell that visibly spans more than one physical row (`ruled._spanned_price_ranges`, see Known Limitations) |
 
 
 ## Output schema
 
-`Quotation_Data/03f_structured_coords/quotation_items.csv` — 16 columns:
+`Quotation_Data/03f_structured_coords/quotation_items.csv` — 22 columns:
 
-`source_file, source_path, quotation_number, item_no, description, make,
-model, quantity, unit, unit_price_raw, unit_price, total_price_raw,
-total_price, currency, raw_row_text, confidence, validation_error`
+`source_file, source_path, quotation_number, item_no, parent_item_no,
+item_level, product_name, description_full, make, model, quantity, unit,
+unit_price_raw, unit_price, total_price_raw, total_price,
+total_price_source, price_status, currency, raw_row_text, confidence,
+validation_error`
+
+`item_no` is **text**, exactly as printed in the source (`"1"`, `"1.1"`,
+`"4a"`) — `"1.1"` is a two-level item marker, not the number 1.1.
+`parent_item_no` (text, blank at top level) and `item_level` (1 = top
+level, 2 = sub-item, 0 = no item number at all) expose that hierarchy
+explicitly, via `fields.derive_item_hierarchy`. CSV carries no types, so
+**read `item_no`/`parent_item_no` as strings** (e.g. pandas
+`read_csv(dtype=str)`); otherwise they are coerced to floats and `"1.10"`
+collapses onto `"1.1"`.
+
+`product_name` is a short heading (≤ 15 words) derived from
+`description_full` by `fields.extract_heading`: it accumulates lines until
+a labelled field (`"Service:"`), a `"With "` clause, or a bullet — where
+"bullet" includes the Private-Use-Area glyphs (U+F0B7/F06C/F0A7) that
+Wingdings/Symbol fonts emit in these PDFs, not just `"•"`. When the very
+first line is already a stop line (accessory/spec-only sub-items), it
+falls back to a capped excerpt rather than returning empty, and a word cap
+applies either way so an upstream segmentation failure cannot leak a whole
+merged table into the field.
 
 `*_raw` columns preserve the exact source text; the parsed numeric
 columns are blank (not guessed) whenever the form doesn't hold. `product`
 and `version` were considered and dropped — this corpus never labels
 either field inline (only `"Make:"`/`"Model:"`), so both columns would be
-permanently empty.
+permanently empty. `description` was split into `product_name` (a short
+heading) and `description_full` (the complete, unmodified spec text) so
+neither is lost.
+
+`unit_price` and `total_price` are always kept as two independent fields —
+`total_price` is never silently replaced by `quantity x unit_price`. When
+the source document states its own total, that value is used as-is and
+`total_price_source` is `"stated"`; `quantity x unit_price` is only used as
+a fallback when the source states no total at all, and in that case
+`total_price_source` is `"derived"`. A stated total that disagrees with
+`quantity x unit_price` is flagged (`PRICE_ARITHMETIC_MISMATCH`), never
+auto-corrected.
+
+`price_status` is one of `NUMERIC`, `QUOTED_SEPARATELY`, `INCLUDED`, or
+`MISSING`, covering both price cells together (they carry the same status
+in practice). When status is `QUOTED_SEPARATELY` or `INCLUDED`,
+`unit_price_raw`/`total_price_raw` are normalized to a single canonical
+token (`"QUOTED"` or `"INCLUDED"`) regardless of the original phrasing
+("To be Quoted", "TBQ", "Price on Request" all become `"QUOTED"`; "Incl.",
+"Bundled", "Part of above" all become `"INCLUDED"`) so they group together
+downstream instead of producing near-duplicate raw values. `MISSING` rows
+are flagged with one of two distinct `validation_error` values —
+`PRICE_ABSENT` (no price text at all, e.g. folded into another line) or
+`PRICE_PARSE_FAILURE` (price text present but unrecognized) — so a genuine
+parsing gap is never conflated with an intentionally blank cell.
 
 `coords_review.csv` carries only the `confidence=LOW` rows, for a fast
 human-review queue. `coords_documents.csv` is one row per source document
@@ -205,3 +251,68 @@ for the layout-stratified sampling methodology used to build it).
   the wrong item's row. In every observed instance this affects only the
   `description` text — item numbers, prices, quantities, make, and model
   have stayed correct on the same documents.
+- **Continuation page whose columns physically shift (flagged, not
+  silent).** `rows._unheaded_continuation_rows` reuses the ORIGINAL
+  region's column bands verbatim on an unheaded continuation page,
+  assuming the same x-positions still apply. On documents where a
+  "summary" table (page N, e.g. `Sr.No / Description / Qty / Unit Price /
+  Total Price`) is followed by a "detailed spec" table (page N+1+) that
+  crams the same fields into fewer, differently-positioned columns (e.g.
+  a combined `"1 No."` qty+unit cell and a single `"Quoted"` placeholder
+  covering both price columns, both physically shifted right of where the
+  original bands expect them), the reused bands split the merged cell
+  wrong: the leading digit of the qty+unit cell (`"1"`, `"20"`, `"80"`)
+  lands in `unit_price` instead, `quantity`/`unit` come out blank, and the
+  placeholder still correctly lands in `total_price`. **Confirmed
+  root-caused** on `Q24S10074_VOC_GC.pdf` (page 2 → 3) and
+  `Q25N10067*_Bechtel_RIL NMD*.pdf` (all 3 revisions) during a 50-document
+  smoke test (2026-09-12). Measured prevalence against the existing
+  `03f_structured_coords/quotation_items.csv` sample (198 documents): 35
+  rows across 15 documents (7.6% of that sample) carry the exact
+  signature (`PRICE_OUT_OF_RANGE:unit_price` with both `quantity` and
+  `unit` blank). **Not silent** — `validate.py`'s price-bounds rule
+  reliably catches the resulting sub-1000 "price" and flags
+  `confidence=LOW`, so these rows are already excluded by the
+  confidence-segmentation rule in `CLAUDE.md`. Fixing it at the source
+  would mean re-detecting column bands per continuation page (e.g. from
+  that page's own word-cluster geometry) rather than trusting the
+  original region's bands to still apply — a real design change, not a
+  one-line patch, and one that should be validated against the golden set
+  before landing (see Future work in `PROJECT_NOTES.md`).
+- **Merged/rowspan price cell in a "summary" table attributed to the
+  wrong item — now flagged, not fixed at the source.** When a ruled
+  table's price column is a single cell spanning several item rows (the
+  document states one price once, for a small group of items, rather than
+  per-row — confirmed via `page.find_tables()`'s own
+  `table.rows[i].cells` structure, where the merged cell is non-`None`
+  only on the first row of the span and `None` on the rows below it),
+  `banded.segment_rows` still assigns the price text to whichever
+  row-bucket the text's vertical centre happens to fall in — which is
+  rarely the first (correct) row, since the boundary heuristic has no
+  awareness that the cell is merged at all. **Confirmed root-caused** on
+  `Q24S10074_VOC_GC.pdf`: the source table states one price (₹96,50,000)
+  once, spanning the rows for items 1–4 ("Gas Chromatograph with SHS"
+  through "Sample heat tracer line"); the pipeline attributes it entirely
+  to item 3 ("Sample Probe") instead. This used to be silent
+  (`confidence=HIGH`, no `validation_error`) — **fixed by adding a
+  detection-only rule, not by correcting the attribution**:
+  `ruled._spanned_price_ranges` reads `region.table.rows[i].cells`
+  directly and flags a price cell as spanned when it is taller than
+  ~1.4× the height of that SAME row's other named columns (item_no,
+  description, quantity, ...) — comparing within the row, not against a
+  table-wide baseline, so an ordinary row whose price genuinely wraps to
+  two lines (matching that row's own equally-tall siblings) is not
+  flagged. `rows_from_region` then marks every `LogicalRow` whose own
+  y-range falls inside a spanned cell's range, and
+  `validate.py`'s new `PRICE_CELL_SPANS_MULTIPLE_ROWS` rule turns that
+  into `confidence=LOW` — purely additive, never changes any emitted
+  value. Confirmed on a 50-document smoke test (2026-09-12, before/after
+  the fix) to catch the known case and, after excluding a phantom
+  unnamed border-column from the row baseline (a real false-positive
+  found in the same smoke test — see `Q25AKIC10080_Blue
+  NH3_LINDE_20012025.pdf`), not to over-flag ordinary two-line-wrapped
+  prices. **The wrong-item attribution itself is not corrected** — that
+  would mean redesigning row-boundary derivation to recognize spans, a
+  bigger change that should wait for golden-set validation; for now the
+  row is simply and reliably marked for human review instead of silently
+  trusted.

@@ -11,6 +11,19 @@ from __future__ import annotations
 
 from dataclasses import dataclass, field
 
+import ftfy
+
+
+def clean_text(text: str) -> str:
+    """Repair UTF-8-decoded-as-cp1252 mojibake ("â€“" -> "–", "Â½" -> "½",
+    ...) that PyMuPDF occasionally surfaces from a PDF's embedded font
+    encoding. Applied once here, at word extraction - the earliest point
+    text is stored - so every downstream field (description, raw_row_text,
+    labeled make/model values, ...) is clean without a separate pass."""
+    if not text:
+        return text
+    return ftfy.fix_text(text)
+
 
 @dataclass(frozen=True)
 class Word:
@@ -38,7 +51,7 @@ class Word:
     @classmethod
     def from_pymupdf_tuple(cls, t: tuple) -> "Word":
         x0, y0, x1, y1, text, block_no, line_no, word_no = t
-        return cls(x0, y0, x1, y1, text, block_no, line_no, word_no)
+        return cls(x0, y0, x1, y1, clean_text(text), block_no, line_no, word_no)
 
 
 @dataclass

@@ -45,6 +45,9 @@ For current project status, known issues, and planned work, see
     Quotation_Data/07_knowledge_bank/       knowledge_bank_items.csv,
                                             knowledge_bank_review.csv,
                                             knowledge_bank_summary.txt
+    ↓  knowledge_bank/build_quotation_bank.py
+    Quotation_Data/07_knowledge_bank/       knowledge_bank_quotations.csv,
+                                            knowledge_bank_quotations_summary.txt
 
 `validate_quotations.py` runs alongside stage 2's output as a
 profiling/QA step rather than a pipeline stage, producing
@@ -105,10 +108,14 @@ Run the stages in order from the project root:
     python customer_industry_proxy.py
     cd ..
 
-    python odoo_match_customer\match_customers.py
-    python knowledge_bank\build_knowledge_bank.py
+    python odoo_match_customer\match_customers.py > run_match.log 2>&1
+    python knowledge_bank\build_knowledge_bank.py > run_kb.log 2>&1
+    python knowledge_bank\build_quotation_bank.py > run_qb.log 2>&1
 
 Each script prints its own input/output paths and a summary when run.
+The last three stages can print customer names in their progress output,
+so their stdout is redirected to a log file rather than a shared
+terminal/chat, per the confidentiality convention in `CLAUDE.md`.
 
 ### Testing on a subset
 

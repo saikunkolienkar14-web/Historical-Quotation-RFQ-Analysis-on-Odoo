@@ -174,16 +174,19 @@ def main() -> int:
     ap.add_argument("--against", type=Path, help="candidate items CSV to score against --golden")
     args = ap.parse_args()
 
+    # utf-8-sig on read: strips the BOM boq_coords/emit.py writes (for
+    # Excel's benefit) so the first column stays "source_file" rather than
+    # "﻿source_file"; harmless on a BOM-less file.
     if args.self_consistency:
-        rows = list(csv.DictReader(open(args.self_consistency, encoding="utf-8")))
+        rows = list(csv.DictReader(open(args.self_consistency, encoding="utf-8-sig")))
         self_consistency(rows, str(args.self_consistency))
 
     if args.golden:
         if not args.against:
             print("--golden requires --against <items.csv>", file=sys.stderr)
             return 2
-        golden_rows = list(csv.DictReader(open(args.golden, encoding="utf-8")))
-        candidate_rows = list(csv.DictReader(open(args.against, encoding="utf-8")))
+        golden_rows = list(csv.DictReader(open(args.golden, encoding="utf-8-sig")))
+        candidate_rows = list(csv.DictReader(open(args.against, encoding="utf-8-sig")))
         golden_score(golden_rows, candidate_rows)
 
     if not args.self_consistency and not args.golden:

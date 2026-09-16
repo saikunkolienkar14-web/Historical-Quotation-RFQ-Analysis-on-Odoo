@@ -13,6 +13,12 @@ Row validator - Step 4 of the plan. Every extracted row must pass:
   5. Price bounds   - never negative, never below 1000.
   6. item_no shape  - a single well-formed anchor, never multiple
                       concatenated item numbers or unrelated swept-in text.
+  7. Price cell span - the row's price came from a table cell that visibly
+                      spans more than one physical row (ruled.py's
+                      _spanned_price_ranges) - one price stated once for a
+                      GROUP of items, not this item alone. The value itself
+                      is real, in-range, and passes every other rule, so
+                      nothing else catches it.
 
 Rows are never dropped - a failing row gets confidence=LOW and the failed
 rule name(s) in validation_error, same as the plan specifies.
@@ -50,8 +56,17 @@ def validate_row(row: dict) -> list[str]:
     raw_row_text = row.get("raw_row_text", "") or ""
     raw_digits = _digits_only(raw_row_text)
 
+    # A "derived" total_price (price fix requirement 1: quantity x
+    # unit_price, used only when the source document states no total of its
+    # own) was never itself written anywhere in the source text, so rules
+    # 1 and 3 below must not hold it to the same "appears verbatim" /
+    # "came from parse_price" standard a stated value is held to.
+    total_is_derived = row.get("total_price_source") == "derived"
+
     # Rule 1: traceability
     for field in ("unit_price", "total_price", "quantity"):
+        if field == "total_price" and total_is_derived:
+            continue
         val = row.get(field)
         if val in (None, ""):
             continue
@@ -62,7 +77,11 @@ def validate_row(row: dict) -> list[str]:
         if digits and digits not in raw_digits:
             errors.append(f"NOT_VERBATIM_IN_RAW_TEXT:{field}")
 
-    # Rule 2: arithmetic
+    # Rule 2: arithmetic (price fix requirement 2: PRICE_ARITHMETIC_MISMATCH
+    # is a flag, never an auto-correction - the "stated" total_price above
+    # is left exactly as the document wrote it even when this fires. A
+    # "derived" total trivially matches qty x unit_price by construction,
+    # so this only ever fires for a genuinely stated total that disagrees.)
     qty = _to_float(row.get("quantity"))
     unit_price = _to_float(row.get("unit_price"))
     total_price = _to_float(row.get("total_price"))
@@ -75,6 +94,8 @@ def validate_row(row: dict) -> list[str]:
         ("unit_price_raw", "unit_price", True),
         ("total_price_raw", "total_price", False),
     ):
+        if num_field == "total_price" and total_is_derived:
+            continue
         raw_val = row.get(raw_field, "") or ""
         num_val = row.get(num_field)
         if num_val in (None, ""):
@@ -82,6 +103,19 @@ def validate_row(row: dict) -> list[str]:
         parsed = parse_price(raw_val)
         if parsed.value is None:
             errors.append(f"INVALID_PRICE_FORM:{num_field}")
+
+    # Rule 3b: price status (price fix requirement 5). price_status=MISSING
+    # covers two genuinely different situations that must not be conflated:
+    # a row where NEITHER price cell had any text at all (often because the
+    # price was folded into a preceding/parent line, or the row is a
+    # continuation) versus a row where a price cell had text that matched
+    # none of NUMERIC/QUOTED/INCLUDED - a real parsing shortfall worth a
+    # closer look.
+    if row.get("price_status") == "MISSING":
+        has_raw_text = bool((row.get("unit_price_raw") or "").strip()) or bool(
+            (row.get("total_price_raw") or "").strip()
+        )
+        errors.append("PRICE_PARSE_FAILURE" if has_raw_text else "PRICE_ABSENT")
 
     # Rule 4: quantity form. Some templates carry quantity and unit in two
     # SEPARATE table columns (money.resolve_quantity_and_unit) - in that
@@ -114,6 +148,14 @@ def validate_row(row: dict) -> list[str]:
     item_no_raw = row.get("item_no_raw", row.get("item_no", "")) or ""
     if item_no_raw and not is_clean_item_no(item_no_raw):
         errors.append("ITEM_NO_MALFORMED")
+
+    # Rule 7: price cell spans multiple physical rows (see module
+    # docstring and ruled._spanned_price_ranges) - set by __main__.py from
+    # the LogicalRow's own .flags, never derived from any field a
+    # consumer of this CSV would see, so this can only ever ADD a flag,
+    # never suppress or alter one of the other six rules' findings.
+    if row.get("_price_cell_spans_multiple_rows"):
+        errors.append("PRICE_CELL_SPANS_MULTIPLE_ROWS")
 
     return errors
 

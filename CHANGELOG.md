@@ -1,5 +1,114 @@
 # Changelog
 
+## Version 2.2.0 - `boq_coords` Smoke Test + Spanned-Price-Cell Flag
+
+### Problem
+
+A 50-document smoke test (`python -m boq_coords --limit 50`) re-confirmed
+the documented self-consistency numbers (0% negative price, 100%
+arithmetic-ok, 100% raw-text traceability) but surfaced a real, silent
+bug: on `Q24S10074_VOC_GC.pdf`, a ruled table states one price
+(₹96,50,000) once for a group of 4 items ("Gas Chromatograph with SHS"
+through "Sample heat tracer line") via a merged/rowspan price cell.
+`banded.segment_rows` has no notion the cell is merged, so it attributes
+the price entirely to item 3 ("Sample Probe") instead - with
+`confidence=HIGH` and no `validation_error` at all, since the value is
+otherwise perfectly plausible and in-range. Root-caused by
+hand-comparing `page.find_tables()`'s own `table.rows[i].cells` bboxes
+(where the merged cell is non-`None` only on its first row and `None` on
+the rows beneath it) against the emitted output row.
+
+### Added
+
+- `ruled._spanned_price_ranges`: reads `region.table.rows[i].cells`
+  directly for the ruled path and flags a price-column cell as a
+  merged/rowspan cell when it is taller than 1.4x the height of that
+  SAME row's other named columns (item_no, description, quantity, ...) -
+  compared within the row, not against a table-wide baseline, so an
+  ordinary row whose price genuinely wraps to two lines (matching that
+  row's own equally-tall siblings) is not flagged. A first version that
+  compared against a corpus-wide median, and a second that included every
+  non-`None` cell (not just named ones) in the row's own baseline, both
+  over-flagged real documents during smoke testing before landing -
+  confirmed on `Q25AKIC10080_Blue NH3_LINDE_20012025.pdf`, where an
+  unnamed phantom border-column's short height was dragging the baseline
+  down to a fifth of every real column's own height.
+- `LogicalRow.flags` (`banded.py`): a purely additive list field, set by
+  `rows_from_region` after segmentation completes, never read by
+  `segment_rows` itself.
+- `validate.py` rule 7, `PRICE_CELL_SPANS_MULTIPLE_ROWS`: turns the flag
+  above into `confidence=LOW` in the emitted row. Additive only - never
+  changes any emitted value, only ever adds this one code alongside
+  whatever the other six rules already found.
+
+### Not fixed
+
+The wrong-item attribution itself is unchanged - that would mean
+redesigning row-boundary derivation to recognize spans generically, which
+should wait for golden-set validation rather than a patch based on a
+50-document sample. A second, separate bug found in the same smoke test
+(a continuation page whose table columns physically shift, misreading a
+combined qty+unit cell as a price - 35 rows / 15 documents, 7.6%, of the
+existing `03f_structured_coords` sample) is left undocumented-but-flagged
+as-is: it was already caught by the existing `PRICE_OUT_OF_RANGE` +
+`confidence=LOW` rules, so nothing silently trusts it either. Both are
+described in full in `docs/COORDS_EXTRACTOR.md#known-limitations`.
+
+
+## Version 2.1.0 - Refreshed Match, Quotation-Level Rollup
+
+### Problem
+
+`customer_enriched.csv` was produced by a `match_customers.py` run
+against a pre-v1.7.0 `quotations.csv`: it carried only 2,568 non-blank
+`quotation_number` values against the current file's 3,676, so RFQ-number
+matching (see v1.7.1 below) resolved only 1,440 of 3,876 documents
+(37.2%) even though the fix that raised quotation-number coverage had
+long since landed. This also meant no per-quotation view of the data
+existed — only line-item grain.
+
+### Added
+
+- `knowledge_bank/build_quotation_bank.py` — rolls `knowledge_bank_items.csv`
+  up to one row per quotation (`knowledge_bank_quotations.csv`, 4,935
+  rows). Keys on a derived `quotation_key` rather than the raw
+  `quotation_number` field, because that field is ~95% populated but not
+  unique (105 distinct values shared by 237 documents) and roughly a
+  fifth of its non-blank values are parser leakage (`EMAIL`, `Verbal`,
+  bare revision codes) from the bare `"ref"` label in
+  `QUOTATION_NUMBER_LABELS`. `quotation_key_basis` records which rule
+  produced the key (`QUOTATION_NUMBER` / `DOCUMENT_FALLBACK` /
+  `ORDER_FALLBACK`) so a fallback key is never mistaken for a real
+  quotation number. Sums `total_price_final` per quotation with
+  `quoted_value_basis` tracking whether every contributing item was
+  `REPORTED`, some were `DERIVED_*`, or only some items had a usable
+  price at all — negative-price rows are excluded and counted separately,
+  never silently summed. Self-verifies on every run: item-count identity
+  against `knowledge_bank_items.csv`, zero duplicate/blank keys, zero
+  negative totals.
+- `CLAUDE.md` — working instructions consolidating the confidentiality,
+  data-quality, and style rules that were previously scattered across
+  `README.md` / `PROJECT_NOTES.md` / script docstrings.
+
+### Fixed
+
+- Re-ran `odoo_match_customer/match_customers.py` against the current
+  `quotations.csv`, then rebuilt `knowledge_bank/build_knowledge_bank.py`
+  on top of it. RFQ-number matches rose from 1,440 to 2,384 documents
+  (61.5%); `ODOO_ORDER_ONLY` rows in the item-level bank dropped from
+  3,186 to 2,255; orders linked to a document rose from 1,394 to 2,325.
+  See `PROJECT_NOTES.md` for the full before/after table.
+
+### Known issue carried forward (not fixed here)
+
+`quotation_parser_v1.py`'s dash-splitting rule
+(`value.rsplit("-", 1)[-1]`, ~line 2549) still turns legitimate sub-quote
+numbers like `"2526W029R2-1"` / `"2526W029R2-2"` into bare `"1"` / `"2"`,
+and the bare `"ref"` label still admits non-number values. Fixing this
+means re-parsing the full corpus; `build_quotation_bank.py`'s
+`quotation_key` derivation works around it defensively in the meantime.
+
+
 ## Version 2.0.0 - Coordinate-Aware Extractor (`boq_coords/`)
 
 ### Problem

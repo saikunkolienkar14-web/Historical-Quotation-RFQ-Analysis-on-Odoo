@@ -26,8 +26,13 @@ sys.path.insert(0, str(ROOT))
 
 from boq_coords.banded import is_clean_item_no  # noqa: E402
 from boq_coords.emit import write_documents_csv, write_items_csv, write_review_csv  # noqa: E402
-from boq_coords.fields import extract_labeled_fields, promote_part_no_to_model  # noqa: E402
-from boq_coords.money import parse_price, resolve_quantity_and_unit  # noqa: E402
+from boq_coords.fields import (  # noqa: E402
+    derive_item_hierarchy,
+    extract_heading,
+    extract_labeled_fields,
+    promote_part_no_to_model,
+)
+from boq_coords.money import canonical_raw, combine_price_status, parse_price, resolve_quantity_and_unit  # noqa: E402
 from boq_coords.pagetext import write_pages_jsonl  # noqa: E402
 from boq_coords.rows import extract_document_tables  # noqa: E402
 from boq_coords.validate import apply_validation  # noqa: E402
@@ -53,14 +58,6 @@ def _load_ocr_stems() -> set[str]:
                 if name:
                     stems.add(Path(name).stem)
     return stems
-
-
-def _row_currency(row) -> str:
-    for field_text in (row.text("unit_price"), row.text("total_price")):
-        p = parse_price(field_text)
-        if p.value is not None:
-            return p.currency
-    return "INR"
 
 
 def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str]) -> tuple[list[dict], dict]:
@@ -123,6 +120,28 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                 up = parse_price(unit_price_raw)
                 tp = parse_price(total_price_raw)
 
+                # Precedence: a total the source document states directly is
+                # never overwritten by quantity x unit_price - some items are
+                # lump-sum ("1 Lot") with no per-unit breakdown, and some
+                # documents' own stated totals legitimately don't equal
+                # qty x unit_price (rounding, discounts). Only fall back to
+                # the derived figure when the source total is genuinely
+                # absent. validate.py's PRICE_ARITHMETIC_MISMATCH rule still
+                # flags a stated total that disagrees with qty x unit_price -
+                # it's surfaced for review, never silently corrected.
+                if tp.value is not None:
+                    total_price_value = tp.value
+                    total_price_source = "stated"
+                elif pq.value is not None and up.value is not None:
+                    total_price_value = pq.value * up.value
+                    total_price_source = "derived"
+                else:
+                    total_price_value = None
+                    total_price_source = ""
+
+                price_status = combine_price_status(up.status, tp.status)
+                currency = up.currency or tp.currency or ""
+
                 # An item_no that isn't a single well-formed anchor (e.g.
                 # unsplit sub-items concatenated into "2 .1 .2 .3", or a
                 # stray non-numeric token swept in) is never emitted
@@ -131,6 +150,9 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                 # than silently passing garbage through as confidence=HIGH.
                 item_no_raw = row.text("item_no").strip()
                 item_no = item_no_raw if is_clean_item_no(item_no_raw) else str(item_idx)
+                parent_item_no, item_level = derive_item_hierarchy(item_no)
+
+                description_full = "\n".join(remaining_desc).strip()
 
                 out_row = {
                     "source_file": source_file,
@@ -138,19 +160,30 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     "quotation_number": quotation_number,
                     "item_no": item_no,
                     "item_no_raw": item_no_raw,
-                    "description": "\n".join(remaining_desc).strip(),
+                    "parent_item_no": parent_item_no,
+                    "item_level": item_level,
+                    "product_name": extract_heading(description_full),
+                    "description_full": description_full,
                     "make": make_value,
                     "model": fields["model"],
                     "quantity": pq.value if pq.value is not None else "",
                     "quantity_raw": qty_raw,
                     "unit": pq.unit or "",
-                    "unit_price_raw": unit_price_raw,
+                    "unit_price_raw": canonical_raw(up),
                     "unit_price": up.value if up.value is not None else "",
-                    "total_price_raw": total_price_raw,
-                    "total_price": tp.value if tp.value is not None else "",
-                    "currency": _row_currency(row),
+                    "total_price_raw": canonical_raw(tp),
+                    "total_price": total_price_value if total_price_value is not None else "",
+                    "total_price_source": total_price_source,
+                    "price_status": price_status,
+                    "currency": currency,
                     "raw_row_text": row.raw_row_text(),
                     "confidence": "HIGH",
+                    # Private input to validate.py's PRICE_CELL_SPANS_MULTIPLE_ROWS
+                    # rule (see ruled._spanned_price_ranges) - dropped from the
+                    # written CSV by emit.py's extrasaction="ignore", never a
+                    # real output column.
+                    "_price_cell_spans_multiple_rows":
+                        "PRICE_CELL_SPANS_MULTIPLE_ROWS" in row.flags,
                 }
                 out_row = apply_validation(out_row)
                 out_rows.append(out_row)

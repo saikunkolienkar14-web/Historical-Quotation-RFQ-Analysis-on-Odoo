@@ -32,14 +32,25 @@ customers are enriched with industry, contact details, and order
 history. Matching is **RFQ-number-first** — exact-matching the
 quotation's own number against Odoo's
 `x_studio_internal_rfq_assignment_number` — with fuzzy name-matching
-retained as the fallback.
+retained as the fallback. `match_customers.py` has now been **re-run
+against the current (v1.7.1+) `quotations.csv`** — see "Matching
+figures" below for the up-to-date numbers; the stale-figures issue
+called out in earlier versions of this doc is resolved.
 
 The **item-level knowledge bank** exists
-(`07_knowledge_bank/knowledge_bank_items.csv`, 41,673 rows): one row per
-parsed line item joined to its customer/industry/order, plus one row per
-Odoo order no document resolved to, with conservative make/model/unit
-normalization, provenance-tagged derived prices, and a resolved date
-dimension.
+(`07_knowledge_bank/knowledge_bank_items.csv`, 40,742 rows, rebuilt on
+the refreshed match above): one row per parsed line item joined to its
+customer/industry/order, plus one row per Odoo order no document
+resolved to, with conservative make/model/unit normalization,
+provenance-tagged derived prices, and a resolved date dimension.
+
+The **quotation-level knowledge bank** also exists
+(`07_knowledge_bank/knowledge_bank_quotations.csv`, 4,935 rows,
+`knowledge_bank/build_quotation_bank.py`): the item-level bank rolled up
+to one row per quotation, keyed on a derived `quotation_key` rather than
+the raw `quotation_number` field (see "Known issues" below for why),
+carrying per-quotation item counts, summed quoted value with its basis,
+and the distinct makes/models quoted.
 
 The **analytics layer has not been started.**
 
@@ -71,6 +82,8 @@ knowledge-bank join — see Future work below.
 - Customer-level enrichment + `customer_knowledge_bank.csv`
 - Item-level knowledge bank with normalization, derived prices, and a
   resolved date dimension
+- Quotation-level rollup (`build_quotation_bank.py`) with a derived,
+  collision-free `quotation_key`
 
 
 ## Pipeline scripts
@@ -86,6 +99,7 @@ knowledge-bank join — see Future work below.
 | `odoo_export/customer_industry_proxy.py` | `05_odoo_export/sale_orders.csv` | `05_odoo_export/customer_industry_proxy.csv` | mode industry per customer |
 | `odoo_match_customer/match_customers.py` | `quotations.csv` + `res_partners.csv` + `sale_orders.csv` + `customer_industry_proxy.csv` | `06_customer_matching/` | customer matching (exact RFQ-number first, fuzzy name fallback) + enrichment |
 | `knowledge_bank/build_knowledge_bank.py` | `quotation_items.csv` + `customer_enriched.csv` + `sale_orders.csv` | `07_knowledge_bank/` | item-level knowledge bank |
+| `knowledge_bank/build_quotation_bank.py` | `knowledge_bank_items.csv` + `knowledge_bank_review.csv` | `07_knowledge_bank/knowledge_bank_quotations.csv` | quotation-level rollup |
 
 Every stage uses the stdlib `csv` module except
 `knowledge_bank/build_knowledge_bank.py`, which uses **pandas** — the
@@ -127,16 +141,18 @@ by the most recent order date.
   [`docs/COORDS_EXTRACTOR.md`](docs/COORDS_EXTRACTOR.md#known-limitations)
   for what it does *not* yet catch.
 
-- **Matching figures are stale.** RFQ matching resolved 1,440 of 3,876
-  quotations (37%) unambiguously, with 4 flagged `RFQ_AMBIGUOUS` (the
-  same number on different customers' orders — deliberately left
-  unassigned). The remaining 2,432 fell through to fuzzy matching: EXACT
-  524, HIGH 11, REVIEW 578, LOW 683, NO_MATCH 511, MISSING 125. These
-  figures **predate the v1.7.1 quotation-number fix**, which raised
-  non-blank coverage from 2,568 to 3,676; `match_customers.py` has not
-  been re-run since, so RFQ-match coverage should be materially higher on
-  the next run. `RFQ_MATCH` rows can be trusted as identity;
-  REVIEW/LOW/NO_MATCH rows cannot, without a human look.
+- **Matching figures (current, post-refresh).** RFQ matching now resolves
+  2,384 of 3,876 quotations (61.5%) unambiguously, up from 1,440 (37%) —
+  the expected effect of re-running `match_customers.py` against the
+  current (v1.7.1+) `quotations.csv`, which raised non-blank
+  `quotation_number` coverage from 2,568 to 3,676. 4 remain flagged
+  `RFQ_AMBIGUOUS` (same number on different customers' orders —
+  deliberately left unassigned). The remaining ~1,488 fell through to
+  fuzzy matching: EXACT 391, HIGH 9, REVIEW 368, LOW 339, NO_MATCH 222,
+  MISSING 159. `RFQ_MATCH` rows can be trusted as identity; REVIEW/LOW/
+  NO_MATCH rows cannot, without a human look. Knock-on effect in the
+  item-level bank: `ODOO_ORDER_ONLY` rows dropped from 3,186 to 2,255,
+  and orders linked to a document rose from 1,394 to 2,325.
 
 - **Parser edge cases remain.** See `parser_review.csv` after any run: a
   meaningful share of BOQ line items still have no detected price or only
@@ -162,6 +178,21 @@ by the most recent order date.
   on any order. Of the 3,756 rows matched to an Odoo customer, 3,606 have
   a non-blank `matched_industry`.
 
+- **`quotation_number` is not safe as a join key.** Measured against
+  `quotations.csv`: ~95% populated but not unique (105 distinct values
+  are shared across 237 documents), and roughly a fifth of non-blank
+  values are junk. Root cause is `quotation_parser_v1.py`'s bare `"ref"`
+  label matching lines like `"Ref: Email"` / `"Ref: Verbal"` just as
+  happily as a real quotation number, plus its dash-splitting rule
+  (`value.rsplit("-", 1)[-1]`, line ~2549) turning legitimate sub-quote
+  numbers like `"2526W029R2-1"` / `"2526W029R2-2"` into bare `"1"` /
+  `"2"`. `build_quotation_bank.py` works around this defensively with a
+  derived `quotation_key` (see `docs/DATA_DICTIONARY.md`) rather than
+  keying on the raw field. **Fixing this at the parser level would
+  require a full re-parse of all 3,876 documents** — recommended as
+  follow-up work; it would recover real quotation numbers for the ~37
+  affected junk keys and the `R2-1`/`R2-2` pairs.
+
 
 ## Future work
 
@@ -181,7 +212,31 @@ by the most recent order date.
    golden set's stage-2 sampling round (35 more hand-labelled documents,
    `scripts/sample_golden.py`), and a decision on the LLM-fallback step
    for validation-failing rows (`validate.py`'s six rules already flag
-   which rows would need it).
+   which rows would need it). A 50-document smoke test
+   (`python -m boq_coords --limit 50`, 2026-09-12) re-confirmed the
+   documented self-consistency numbers (0% negative price, 100%
+   arithmetic-ok on checkable rows, 100% raw-text traceability) and
+   surfaced two real bugs worth fixing before promotion — both
+   root-caused and documented in
+   `docs/COORDS_EXTRACTOR.md#known-limitations`:
+   - A continuation page whose table columns physically shift (e.g. a
+     "summary" table followed by a differently-laid-out "detailed spec"
+     table) gets its column bands reused verbatim, misreading a combined
+     qty+unit cell's leading digit as a price. **Already flagged**
+     (`PRICE_OUT_OF_RANGE` + `confidence=LOW`) — measured at 35 rows /
+     15 documents (7.6%) of the existing `03f_structured_coords` sample.
+   - A merged/rowspan price cell in a ruled table (one price stated once
+     for a group of items) gets attributed to the wrong item in the
+     group by the row-boundary heuristic. This was silent
+     (`confidence=HIGH`, no flag) until 2026-09-12: `ruled.py` now
+     detects a price cell taller than ~1.4x its own row's other named
+     columns (comparing within the row, not against a table-wide
+     baseline — the first version of this check compared against a
+     corpus-wide median and over-flagged ordinary two-line-wrapped
+     prices, fixed before landing) and `validate.py` flags it
+     `PRICE_CELL_SPANS_MULTIPLE_ROWS`, `confidence=LOW`. Additive only —
+     it does not correct the attribution, only stops it from being
+     silently trusted. See `docs/COORDS_EXTRACTOR.md#known-limitations`.
 
 3. **Fuzzy make/model consolidation** — deferred deliberately; real
    duplicate clusters are now visible in the knowledge bank to calibrate

@@ -4,3 +4,4 @@ tqdm
 pymupdf==1.28.2
 pytesseract==0.3.13
 pillow==12.3.0
+ftfy==6.3.1

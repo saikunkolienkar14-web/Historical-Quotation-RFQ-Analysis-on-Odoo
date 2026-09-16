@@ -156,15 +156,16 @@ to this customer).
 ## knowledge_bank_items.csv (knowledge_bank/build_knowledge_bank.py)
 
 The item-level knowledge bank (`Quotation_Data/07_knowledge_bank/`) - the
-flat analytical table joining what was quoted to whom, and when. **41,673
-rows.**
+flat analytical table joining what was quoted to whom, and when. **40,742
+rows** (after the customer-matching refresh described in
+`PROJECT_NOTES.md` - was 41,673 before the RFQ-number fix propagated).
 
 Two kinds of row, distinguished by `data_source`:
 
 | data_source | Rows | What it is |
 |---|---|---|
 | `ATTACHMENT_ITEM` | 38,487 | One parsed BOQ line item, joined to its document's customer match and (where the document matched an Odoo order) that order's fields |
-| `ODOO_ORDER_ONLY` | 3,186 | One Odoo sale order that no parsed document resolved to. All item-level fields are blank by design - these rows exist so customer/industry coverage reflects the whole business, not just quotes with a parseable attachment |
+| `ODOO_ORDER_ONLY` | 2,255 | One Odoo sale order that no parsed document resolved to. All item-level fields are blank by design - these rows exist so customer/industry coverage reflects the whole business, not just quotes with a parseable attachment |
 
 | Field | Description |
 |---|---|
@@ -192,20 +193,72 @@ rows in `quotation_items.csv`, so it would be a permanently empty column.
 
 ## knowledge_bank_review.csv (knowledge_bank/build_knowledge_bank.py)
 
-Rows needing a human look - 29,955 of 41,673. One row per flagged record;
+Rows needing a human look - 29,080 of 40,742. One row per flagged record;
 `reason` is a `;`-joined list, so a row can carry several.
 
 | Reason code | Count | Meaning |
 |---|---|---|
 | `NO_PRICE` | 17,529 | No usable price could be reported or derived |
-| `DATE_AMBIGUOUS_DAY_MONTH` | 9,931 | Day-first assumed; both readings were valid |
 | `LOW_CONFIDENCE_ITEM_WITH_PRICE` | 6,820 | Has a price but the parser rated the row LOW |
 | `PRICE_WITHOUT_DESCRIPTION` | 6,820 | Price present, description empty - likely a misparsed row |
-| `IMPLAUSIBLE_NEGATIVE_PRICE` | 1,777 | Price below zero. Caused by the upstream parser digit-stripping prose (`"CAPACITY) QTY-2"` → `-2`), not by the join - **exclude these from price analysis** |
-| `NO_MATCHED_CUSTOMER` | 1,725 | No Odoo customer resolved for the row |
+| `DATE_AMBIGUOUS_DAY_MONTH` | 6,551 | Day-first assumed; both readings were valid |
+| `NO_MATCHED_CUSTOMER` | 2,477 | No Odoo customer resolved for the row |
+| `IMPLAUSIBLE_NEGATIVE_PRICE` | 2,195 | Price below zero. Caused by the upstream parser digit-stripping prose (`"CAPACITY) QTY-2"` → `-2`), not by the join - **exclude these from price analysis** |
 | `DATE_MISSING` | 1,699 | No date on either side |
-| `DATE_UNPARSEABLE` | 22 | A date value was present but not a real date (e.g. `24-25/1264`) |
+| `DATE_UNPARSEABLE` | 6 | A date value was present but not a real date (e.g. `24-25/1264`) |
 
 `knowledge_bank_summary.txt` carries corpus-wide counts, distributions and
 per-column fill rates for the same run (aggregate only - no customer
 names, per project convention).
+
+
+## knowledge_bank_quotations.csv (knowledge_bank/build_quotation_bank.py)
+
+The **quotation-level** rollup of `knowledge_bank_items.csv` - one row per
+distinct quotation (**4,935 rows**), instead of one row per line item.
+Answers "what did we quote on Q24AKIC10077, to whom, when, and for how
+much" directly.
+
+**Why not key on `quotation_number` directly.** Measured against the
+corpus it is ~95% populated but NOT unique (105 distinct values are
+shared across 237 documents) and roughly a fifth of its non-blank values
+are junk - the parser's bare `"ref"` label matches `"Ref: Email"` /
+`"Ref: Verbal"` just as happily as a real quotation number, and its
+dash-splitting rule turns legitimate sub-quote numbers like
+`"2526W029R2-1"` / `"2526W029R2-2"` into bare `"1"` / `"2"`. So this
+table derives its own `quotation_key` instead:
+
+| Field | Description |
+|---|---|
+| `quotation_key` | The grouping key actually used - the normalized `quotation_number` when it looks trustworthy (has a digit, ≥6 characters, not a known junk value), otherwise `DOC::<source_file>` or (for `ODOO_ORDER_ONLY` rows with no source file) `ORDER::<matched_order_id>`. **Unique - verified 0 duplicates, 0 blanks** |
+| `quotation_key_basis` | `QUOTATION_NUMBER` (37,533) / `DOCUMENT_FALLBACK` (2,973) / `ORDER_FALLBACK` (236) - which rule produced `quotation_key` |
+| `quotation_number` | The raw value, kept for reference - never itself the join key |
+| `data_source` | `ATTACHMENT_ITEM` if any parsed line item rolled into this key, else `ODOO_ORDER_ONLY` |
+| `n_source_documents`, `source_files` | How many distinct documents share this key (mostly 1 - **79 quotations span >1 document**, e.g. a revision resubmitted under the same number) and their filenames |
+| `matched_customer_id` … `regions` | Customer fields, one representative value per quotation (see below) |
+| `matched_order_id` … `firm_or_budgetary` | Odoo order fields, one representative value |
+| `quotation_date_final`, `date_source`, `date_ambiguous`, `quotation_year`, `quotation_month` | One representative date |
+| `n_items` | Count of `ATTACHMENT_ITEM` line items rolled into this quotation |
+| `n_items_priced` | Of those, how many had a usable, non-negative `total_price_final` |
+| `pct_items_priced` | `n_items_priced / n_items * 100` |
+| `quoted_value_total` | Sum of `total_price_final` over priced items only. **Check `quoted_value_basis` and `pct_items_priced` before treating this as the full quote value** |
+| `quoted_value_basis` | `REPORTED` (every priced item was `REPORTED`) / `MIXED_DERIVED` (some items were `DERIVED_*`) / `PARTIAL` (fewer than all items had a usable price) / `NONE` |
+| `currency` | Representative currency for the quotation |
+| `n_distinct_makes`, `makes_quoted` | Distinct `make_normalized` values across the quotation's items, `; `-joined (capped at 10, `…+N more` beyond that) |
+| `n_distinct_models`, `models_quoted` | Same, for `model_normalized` |
+| `document_confidence` | Representative parser confidence |
+| `n_items_high`, `n_items_medium`, `n_items_low` | Item count by `item_confidence` |
+| `n_items_excluded_negative` | Items excluded from `quoted_value_total` for having a negative price (see `IMPLAUSIBLE_NEGATIVE_PRICE` above) - **never silently summed** |
+| `review_flags` | Distinct `; `-joined `knowledge_bank_review.csv` reasons across the quotation's rows |
+
+**Picking one representative value** where a quotation spans >1 document:
+prefer the row whose `date_source == ODOO_ORDER` (structured, reliable),
+then the row with the highest `document_confidence`, then the first
+non-blank value found.
+
+`knowledge_bank_quotations_summary.txt` carries corpus-wide counts,
+`quotation_key_basis` / `data_source` / `quoted_value_basis` /
+`customer_match_status` / `quotation_year` distributions, a verification
+block (item-count identity against `knowledge_bank_items.csv`, duplicate/
+blank key counts, negative-total count, multi-document quotation count),
+and per-column fill rates - aggregate only, no customer names.

@@ -23,7 +23,7 @@ from boq_coords.locate import (
     money_check,
 )
 from boq_coords.ruled import _ruling_line_ys, rows_from_region
-from boq_coords.vocab import STOP_SECTION_MARKERS, normalize_label
+from boq_coords.vocab import STOP_SECTION_MARKERS, classify_header_word, normalize_label
 
 MAX_STITCH_PAGE_GAP = 1
 BAND_EDGE_TOLERANCE = 6.0
@@ -62,6 +62,46 @@ def _page_starts_new_section(page) -> bool:
     return any(marker in norm for marker in STOP_SECTION_MARKERS)
 
 
+HEADER_SCAN_ROWS = 4
+HEADER_MIN_FIELDS = 3
+
+
+def _page_has_own_table_header(page) -> bool:
+    """True if this page opens its OWN table with a recognizable header row.
+
+    Such a page is a NEW table, never an unheaded continuation of the
+    previous one - confirmed as a real bug on the AMADAS document: page 7
+    is a separate "MAKE LIST" table (SR NO | ITEM DESCRIPTION | MAKE |
+    Total | Unit). find_boq_regions correctly declines to treat it as a
+    BOQ region (its bare "Total" is a quantity total, not a price, so it
+    has no price column), but the continuation pass then swallowed the
+    whole page into the PREVIOUS page's table using that page's band
+    geometry - clipping the left edge off every description ("pply of
+    SITRANS...") and collapsing 20 source rows into one row whose
+    product_name was the table header plus several merged line items.
+    """
+    try:
+        tables = page.find_tables().tables
+    except Exception:  # noqa: BLE001 - pymupdf raises broadly on odd pages
+        return False
+
+    for table in tables:
+        try:
+            extracted = table.extract()
+        except Exception:  # noqa: BLE001
+            continue
+        for row in extracted[:HEADER_SCAN_ROWS]:
+            fields = {
+                classify_header_word(str(cell))
+                for cell in row
+                if cell and str(cell).strip()
+            }
+            fields.discard(None)
+            if "description" in fields and len(fields) >= HEADER_MIN_FIELDS:
+                return True
+    return False
+
+
 def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[LogicalRow] | None:
     """Try extracting rows from `page_no` using `region`'s bands directly,
     with no header on this page - used when the immediately-following page
@@ -73,6 +113,8 @@ def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[
         return None
     page = doc[page_no]
     if _page_starts_new_section(page):
+        return None
+    if _page_has_own_table_header(page):
         return None
     if not _page_has_money(page):
         return None

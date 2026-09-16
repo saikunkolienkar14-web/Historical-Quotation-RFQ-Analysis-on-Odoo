@@ -20,6 +20,8 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from boq_coords.money import (
     arithmetic_ok,
+    canonical_raw,
+    combine_price_status,
     parse_price,
     parse_quantity,
     price_in_bounds,
@@ -94,9 +96,16 @@ class TestMoney(unittest.TestCase):
         self.assertEqual(parse_price("SAR 45,000").currency, "SAR")
         self.assertEqual(parse_price("45,00,000/-").currency, "INR")
 
-    def test_malformed_grouping_rejected(self):
-        # "1,00,00" is not valid Indian OR Western grouping - spill detector.
-        self.assertIsNone(parse_price("1,00,00").value)
+    def test_uneven_grouping_still_parses(self):
+        # Price-field fix decision: don't validate comma-grouping width.
+        # "1,00,00" isn't valid Indian OR Western grouping (an OCR-uneven
+        # group), but Indian lakh-style documents break positional-grouping
+        # assumptions in exactly this way and the number must still come
+        # through rather than being dropped - grouping width is no longer
+        # part of the grammar, only "digits, optionally comma-grouped, one
+        # optional decimal" is.
+        self.assertEqual(parse_price("1,00,00").value, 10000)
+        self.assertEqual(parse_price("2,70,04,00").value, 2700400)
 
     # --- Plausibility bounds (v1 has none of these for price) ---
 
@@ -127,6 +136,61 @@ class TestMoney(unittest.TestCase):
         self.assertTrue(arithmetic_ok(2, 9_200_000, 18_400_000))
         self.assertFalse(arithmetic_ok(2, 9_200_000, 999_999))
         self.assertTrue(arithmetic_ok(None, None, None))  # nothing to check
+
+    # --- Indian lakh-style grouping of any width (price fix requirement 3) ---
+
+    def test_indian_lakh_grouping_any_width_parses(self):
+        self.assertEqual(parse_price("27,00,400").value, 2_700_400)
+
+    # --- Per-row currency, not document-wide (price fix requirement 4) ---
+
+    def test_usd_row_in_otherwise_inr_document_not_defaulted_to_inr(self):
+        p = parse_price("$46900/-")
+        self.assertEqual(p.value, 46900)
+        self.assertEqual(p.currency, "USD")
+
+    # --- price_status / canonicalization (price fix requirement 6) ---
+
+    def test_quoted_phrasings_canonicalize_to_same_token_and_status(self):
+        for phrasing in ("Quoted", "QUOTED", "To be Quoted", "TBQ", "Price on Request"):
+            p = parse_price(phrasing)
+            self.assertEqual(p.status, "QUOTED", phrasing)
+            self.assertIsNone(p.value, phrasing)
+            self.assertEqual(canonical_raw(p), "QUOTED", phrasing)
+
+    def test_included_phrasings_canonicalize_to_same_token_and_status(self):
+        for phrasing in ("Included", "Inclusive", "Included Above", "Incl.", "Bundled", "Part of above"):
+            p = parse_price(phrasing)
+            self.assertEqual(p.status, "INCLUDED", phrasing)
+            self.assertIsNone(p.value, phrasing)
+            self.assertEqual(canonical_raw(p), "INCLUDED", phrasing)
+
+    def test_negated_quoted_or_included_is_not_canonicalized(self):
+        # "Not Quoted"/"Not Included" are a distinct real sentinel - the
+        # opposite meaning of QUOTED/INCLUDED - and must not collapse into
+        # either canonical token.
+        for phrasing in ("Not Quoted", "Not Included"):
+            p = parse_price(phrasing)
+            self.assertNotIn(p.status, ("QUOTED", "INCLUDED"), phrasing)
+            self.assertNotEqual(canonical_raw(p), "QUOTED", phrasing)
+            self.assertNotEqual(canonical_raw(p), "INCLUDED", phrasing)
+
+    def test_numeric_price_status(self):
+        self.assertEqual(parse_price("45,00,000").status, "NUMERIC")
+
+    def test_missing_price_status_for_blank_and_unrecognized_text(self):
+        self.assertEqual(parse_price("").status, "MISSING")
+        self.assertEqual(parse_price("Power Supply: 230 VAC, 50 Hz").status, "MISSING")
+
+    def test_combine_price_status_numeric_wins(self):
+        # A lump-sum ("1 Lot") row: total is stated and numeric, unit price
+        # was never broken out - the row must still read as priced.
+        self.assertEqual(combine_price_status("MISSING", "NUMERIC"), "NUMERIC")
+
+    def test_combine_price_status_quoted_and_included(self):
+        self.assertEqual(combine_price_status("QUOTED", "QUOTED"), "QUOTED_SEPARATELY")
+        self.assertEqual(combine_price_status("INCLUDED", "INCLUDED"), "INCLUDED")
+        self.assertEqual(combine_price_status("MISSING", "MISSING"), "MISSING")
 
 
 class TestHeaderClassification(unittest.TestCase):

@@ -13,7 +13,7 @@ import re
 from dataclasses import dataclass, field as dc_field
 
 from boq_coords.geometry import Line, Word, cluster_lines, join_words, median
-from boq_coords.money import parse_price, parse_quantity
+from boq_coords.money import parse_price, parse_quantity, resolve_quantity_and_unit
 from boq_coords.vocab import MAX_ITEM_NUMBER, STOP_SECTION_MARKERS, normalize_label
 
 ITEM_NUMBER_RX = re.compile(r"^\(?\d{1,3}(?:\.\d+)*[.)]?$")
@@ -32,6 +32,11 @@ class LogicalRow:
     # together by x0 alone - that scrambled reading order in testing, so
     # line structure is preserved explicitly instead.
     line_cells: list[tuple[Line, dict[str, list[Word]]]] = dc_field(default_factory=list)
+
+    # Geometry-derived warnings attached by the caller (ruled.py) after
+    # segmentation, e.g. "PRICE_CELL_SPANS_MULTIPLE_ROWS" - purely additive,
+    # never read by segment_rows itself, never changes any cell's content.
+    flags: list[str] = dc_field(default_factory=list)
 
     @property
     def cells(self) -> dict[str, list[Word]]:
@@ -142,6 +147,16 @@ LETTERHEAD_BOILERPLATE_PHRASES = [
     "corporate hq",
     "registered office",
     "satra plaza",
+    # The postal-address half of the same letterhead/footer block, which
+    # wraps across its own lines and so escaped the phrases above - these
+    # were bleeding onto the END of real item descriptions (41 rows had
+    # "...Navi Mumbai 400703 Maharashtra INDIA" inside product_name).
+    # Deliberately specific to this company's own address: a bare token
+    # like "limited" would match legitimate item text ("limited to...").
+    "palm beach road",
+    "navi mumbai 400703",
+    "maharashtra india",
+    "automation private limited",
 ]
 
 
@@ -164,6 +179,59 @@ def _has_price(cells: dict[str, list[Word]]) -> bool:
             if p.value is not None or p.is_placeholder:
                 return True
     return False
+
+
+def _is_self_contained_item_line(cells: dict[str, list[Word]]) -> bool:
+    """True if a single physical line, on its own, already carries a
+    complete priced line item - its own valid price AND its own
+    unit-qualified quantity. Used to catch bundled, unnumbered sub-items
+    (e.g. "PORTA CABIN ... 1 SET 25,64,400 25,64,400" sitting under a
+    parent item with no item-number anchor of its own) that would
+    otherwise be swept into the parent's row and have their independent
+    prices concatenated into one unparseable string (confirmed real-corpus
+    bug: Q2501N005, item 8's bundled sub-items). Requiring BOTH a valid
+    price and a valid quantity+unit reading (not price alone) keeps this
+    conservative - a stray number landing alone in a price band essentially
+    never also carries a recognized-unit quantity on the same line."""
+    if not _has_price(cells):
+        return False
+    qty_text = join_words(cells.get("quantity", []))
+    unit_text = join_words(cells.get("unit", []))
+    pq = resolve_quantity_and_unit(qty_text, unit_text)
+    return pq.value is not None
+
+
+def _split_self_contained_subitems(row: LogicalRow) -> list[LogicalRow]:
+    """Split a provisional row into several when it contains TWO OR MORE
+    independently self-contained item lines - each such line is its own
+    real, distinct, independently-priced item that boundary detection
+    merged together only because it lacked its own item-number anchor. An
+    ordinary row (even with a long wrapped multi-line description) has at
+    most one such line and is returned unchanged.
+
+    Splits fall AFTER each self-contained line: that line is the closing
+    data line of its own sub-item (its heading/description precedes it
+    within the block), so everything up to and including it belongs to the
+    current sub-item, and the next physical line starts the next one. Any
+    trailing description-only tail after the last self-contained line (no
+    price, no item_no) is left for _merge_bundled_lots to fold into the
+    preceding split-out row, exactly as it already does for genuine
+    bundled-lot continuations."""
+    self_contained_idx = [
+        i for i, (_, cells) in enumerate(row.line_cells)
+        if _is_self_contained_item_line(cells)
+    ]
+    if len(self_contained_idx) < 2:
+        return [row]
+
+    out: list[LogicalRow] = []
+    start = 0
+    for i in self_contained_idx:
+        out.append(LogicalRow(line_cells=row.line_cells[start:i + 1]))
+        start = i + 1
+    if start < len(row.line_cells):
+        out.append(LogicalRow(line_cells=row.line_cells[start:]))
+    return out
 
 
 def _derive_boundaries_from_desc_gaps(classified: list[dict], anchor_yc: list[float]) -> list[float]:
@@ -251,7 +319,16 @@ def segment_rows(words: list[Word], bands, ruling_ys: list[float] | None = None)
         row = LogicalRow(line_cells=[(c["line"], c["cells"]) for c in row_lines])
         rows.append(row)
 
-    return _merge_bundled_lots(rows)
+    # Split out bundled, unnumbered sub-items (see
+    # _split_self_contained_subitems) before the merge pass below - each
+    # split-out row already has its own price, so _merge_bundled_lots'
+    # "no item_no and no price -> merge into preceding row" rule correctly
+    # leaves them as their own rows.
+    split_rows: list[LogicalRow] = []
+    for row in rows:
+        split_rows.extend(_split_self_contained_subitems(row))
+
+    return _merge_bundled_lots(split_rows)
 
 
 def _merge_bundled_lots(rows: list[LogicalRow]) -> list[LogicalRow]:
