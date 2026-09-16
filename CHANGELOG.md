@@ -1,5 +1,125 @@
 # Changelog
 
+## Version 2.5.0 - Reconcile & Normalize (Makes, Models, Units)
+
+### Problem
+
+Requirement 5 asks to merge parsed attachment data with the Odoo dump and
+standardize makes, models and units. The merge already existed
+(`build_knowledge_bank.py`); normalization was cosmetic only
+(case/whitespace), so one manufacturer was split across many values -
+`SIEMENS AG, GERMANY` (887 rows), `SIEMENS` (490), `SIEMENS AG GERMANY`
+(73), ... - 290 distinct makes and 343 distinct models in total. Plain
+fuzzy matching isn't safe here: `OXYMAT 61` and `OXYMAT 64` are
+near-identical strings but different products.
+
+### Added
+
+- `knowledge_bank/canonicalize.py`: deterministic rules only - split
+  multi-make alternates on `/` and `OR` (kept as one sorted `|`-joined
+  value), drop `EQUIVALENT`-style filler, strip country and legal-form
+  words, group separator-insensitive variants under their most frequent
+  spelling, then apply human-curated `make_aliases.csv` /
+  `model_aliases.csv` (in `Quotation_Data/07_knowledge_bank/`, gitignored).
+- New columns in both knowledge banks: `make_canonical`,
+  `make_canonical_basis`, `model_canonical`, `model_canonical_basis`
+  (`COSMETIC` / `RULE` / `ALIAS`) and `unit_class` (`COUNT` / `BUNDLE` /
+  `LENGTH` / `TIME` / `MASS` / `VOLUME` / `AREA`), so unit prices are only
+  compared like-for-like.
+- `knowledge_bank/suggest_aliases.py`: writes `alias_suggestions.csv` for
+  review, never applied automatically. Proposes on abbreviation
+  (`MAXUM ED II` → `MAXUM EDITION II`), plural, fuzzy score (reusing
+  `match_customers.similarity_score`) and whole-token containment (makes
+  only). Never proposes across differing digit runs or roman numerals;
+  truncated values (`VALMET(SIEMENS`) are listed for a manual call.
+- `build_quotation_bank.py` rolls up `make_canonical` / `model_canonical`;
+  the coords slim view uses them and carries `unit_class`.
+- 23 new tests (`tests/test_canonicalize.py`, `tests/test_suggest_aliases.py`).
+
+### Result
+
+Rules alone, alias tables still empty: distinct makes 290 → 229, models
+343 → 306; SIEMENS spellings share one value on 1,508 rows. Every
+pre-existing knowledge-bank column is byte-identical. In the quotation
+bank only the make/model rollups changed, and counts only fell - 46
+quotations had counted one vendor twice under different spellings. The
+suggester currently proposes 29 make + 12 model aliases and flags 39
+truncated values; none are applied yet.
+
+### Not done
+
+Product-name standardization (deferred - v1 has no product-name field).
+Some make values are description prose leaked by the parser
+(`EQV INTEL I3 PROCESSOR 4 GB RAM…`); that's a parser fix, not an alias.
+
+### Housekeeping
+
+Removed regenerable/obsolete local files (all gitignored): root `run_*.log`
+files, `__pycache__` folders, the boq_coords eval folders
+`03g_`/`03h_`/`03j_`/`03k_`/`03l_`/`03n_`, the LLM-route data
+`03c_quotation_boq_text` + `03d_extracted_boq` (so `extract_boq.py` has no
+inputs until regenerated), `extract_boq_text_run.log`, and the superseded
+manual Odoo dump `odoo_match_customer/Contact (res.partner).csv`. Backup
+folders were kept.
+
+
+## Version 2.4.0 - Slim Coords View, "Others" Industry Detail, Odoo Source Switch
+
+### Added
+
+- `knowledge_bank_items_coords_slim.csv`: an analyst-facing projection of
+  the full coords knowledge bank (`SLIM_COLUMN_MAP`) - boq_coords-internal
+  QA columns and raw/derived duplicate pairs dropped; the guardrail columns
+  (`data_source`, `price_basis`, `date_source`/`date_ambiguous`,
+  `item_confidence`) kept. The full file is unchanged.
+- `x_studio_specify_others` (free text Odoo fills only when
+  `x_studio_type_of_industry` is "Others") exported and carried as its own
+  column through `customer_industry_proxy.csv` (`industry_specify_others`),
+  `customer_enriched(_coords).csv` (`matched_industry_specify_others`,
+  `matched_order_industry_specify_others`) and both knowledge banks. The
+  industry value itself is never rewritten. 662 of 4,721 orders have one.
+
+### Changed
+
+- Live Odoo source switched to `employee-copy.odoo.com` (4,721 orders /
+  1,175 partners, a superset of the previous `test-sai.odoo.com` export's
+  4,580 / 1,163). `odoo_export/.env` - the file `export_customers.py`
+  actually loads - had a trailing slash in `ODOO_URL` causing 404s and was
+  out of sync with the root `.env`; fixed and synced. Full chain re-run:
+  RFQ matches unchanged at 2,384; knowledge bank 40,742 → 40,883 rows.
+
+
+## Version 2.3.0 - Customer Matching + Knowledge Bank for `boq_coords`
+
+### Problem
+
+`boq_coords` had no customer matching, so its item extraction couldn't be
+evaluated the way v1's is. It also has no document-level customer-name
+extraction of its own.
+
+### Added
+
+- `odoo_match_customer/match_customers.py`: the per-document override →
+  RFQ exact match → fuzzy name decision extracted into
+  `match_quotation()`. Verified byte-identical output on the full corpus.
+- `boq_coords/match_customers_coords.py`: borrows `customer` /
+  `quotation_number` / date per document from v1's `quotations.csv` (joined
+  on `source_path`) and reuses `match_quotation()`. Writes
+  `06_customer_matching_coords/`.
+- `knowledge_bank/build_knowledge_bank_coords.py`: the knowledge-bank join
+  over boq_coords' items, keeping its richer schema (`product_name`,
+  `parent_item_no`, `item_level`, `price_status`, `total_price_source`,
+  `validation_error`). Writes `07_knowledge_bank_coords/`; no
+  `ODOO_ORDER_ONLY` rows.
+
+### Result
+
+50-document smoke test (49 unique PDFs): 22 RFQ matches, 9 name-exact,
+10 review, 5 low, 1 no-match, 2 missing customer; all 641 items joined
+to a document. 490 of 641 have no resolvable price - worth checking
+before a full-corpus run.
+
+
 ## Version 2.2.0 - `boq_coords` Smoke Test + Spanned-Price-Cell Flag
 
 ### Problem

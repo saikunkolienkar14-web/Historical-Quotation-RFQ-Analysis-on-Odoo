@@ -176,10 +176,14 @@ file too.
 Stage 1's output is the separate `Quotation_Preprocessed/` tree — there is
 no `01_` folder.
 
-The **lettered** folders (`03c_`, `03d_`, `03f_`, `03g_`, `03h_`, `03j_`,
-`03k_`, `03l_`) are ad-hoc experiment and evaluation runs for
-`boq_coords/` and the LLM route — **not pipeline stages**. Don't read from
-them as if they were current, and don't wire them into the join.
+The **lettered** folders are not pipeline stages. The only one left is
+`03f_structured_coords/`, `boq_coords/`'s output, which feeds only its
+own evaluation-only `*_coords` path, never the main join. Any new
+`03x_` folder is an ad-hoc experiment run: don't read it as current, and
+don't wire it into the join. The old experiment runs (`03g_`–`03n_`) and
+the LLM route's data (`03c_quotation_boq_text/`, `03d_extracted_boq/`)
+were deleted on 2026-09-16, so `extract_boq.py` has no inputs until
+those are regenerated.
 
 `Quotation_Data/_backup_<date>/` holds snapshots taken before a stage was
 re-run in place.
