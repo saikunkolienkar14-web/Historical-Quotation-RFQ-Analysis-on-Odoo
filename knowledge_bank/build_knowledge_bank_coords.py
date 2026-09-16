@@ -69,6 +69,7 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 sys.path.insert(0, str(PROJECT_ROOT))
+sys.path.insert(0, str(PROJECT_ROOT.parent))
 
 from build_knowledge_bank import (  # noqa: E402
     format_number,
@@ -83,6 +84,7 @@ from canonicalize import (  # noqa: E402
     apply_canonical_columns,
     load_aliases,
 )
+from boq_coords.money import arithmetic_ok  # noqa: E402
 
 
 # ============================================================
@@ -174,6 +176,8 @@ OUTPUT_COLUMNS = [
     "unit_price_final",
     "total_price_final",
     "price_basis",
+    "price_quality",
+    "arithmetic_check",
 
     # Customer
     "matched_customer_id",
@@ -260,6 +264,8 @@ SLIM_COLUMN_MAP = {
     "unit_price_final": "unit_price",
     "total_price_final": "total_price",
     "price_basis": "price_basis",
+    "price_quality": "price_quality",
+    "arithmetic_check": "arithmetic_check",
     "currency": "currency",
     "document_currency": "document_currency",
 
@@ -340,6 +346,49 @@ def blank_row() -> dict:
     }
 
 
+def classify_price_quality(price_basis, price_status, validation_error) -> str:
+    """
+    Rolls up boq_coords' own per-item price signals - already captured at
+    extraction time by money.parse_price + validate.py's rules, no new
+    parsing happens here - into one column, the same way price_basis
+    already summarizes REPORTED vs DERIVED vs NONE.
+
+    "FLAGGED" covers every PRICE_* validate.py code (PRICE_OUT_OF_RANGE,
+    PRICE_PARSE_FAILURE, PRICE_CELL_SPANS_MULTIPLE_ROWS, PRICE_ABSENT, ...)
+    via a substring check - matching them individually would need
+    updating here every time validate.py adds one.
+    """
+
+    if "PRICE_" in (validation_error or ""):
+        return "FLAGGED"
+
+    if price_basis == "NONE":
+
+        if price_status in ("QUOTED_SEPARATELY", "INCLUDED"):
+            return "NON_NUMERIC"
+
+        return "NO_PRICE"
+
+    return "TRUSTED"
+
+
+def check_arithmetic(unit_price, total_price, quantity_raw) -> str:
+    """
+    Confirms resolve_prices()'s REPORTED/DERIVED_FROM_* combination
+    (shared with the v1 pipeline) didn't introduce an inconsistency,
+    using boq_coords' own tested arithmetic_ok(). The per-item raw
+    cells are already trustworthy (see module docstring) - this checks
+    the resolved values that reach analysis.
+    """
+
+    quantity = to_number(quantity_raw)
+
+    if unit_price is None or total_price is None or quantity is None:
+        return ""
+
+    return "OK" if arithmetic_ok(quantity, unit_price, total_price) else "MISMATCH"
+
+
 def build_coords_item_row(item, document, order) -> dict:
     """
     One boq_coords item row, joined to its document's customer match and
@@ -399,6 +448,16 @@ def build_coords_item_row(item, document, order) -> dict:
     row["unit_price_final"] = format_number(unit_final)
     row["total_price_final"] = format_number(total_final)
     row["price_basis"] = basis
+
+    row["price_quality"] = classify_price_quality(
+        basis,
+        item.get("price_status", ""),
+        item.get("validation_error", ""),
+    )
+
+    row["arithmetic_check"] = check_arithmetic(
+        unit_final, total_final, item.get("quantity", "")
+    )
 
     # ---- Customer -----------------------------------------------------
 
@@ -540,6 +599,9 @@ def review_reasons(row: dict) -> list[str]:
 
     if row["validation_error"]:
         reasons.append("BOQ_COORDS_VALIDATION_ERROR")
+
+    if row["arithmetic_check"] == "MISMATCH":
+        reasons.append("PRICE_ARITHMETIC_MISMATCH")
 
     return reasons
 

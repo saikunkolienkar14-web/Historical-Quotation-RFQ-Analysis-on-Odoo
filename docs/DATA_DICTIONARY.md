@@ -288,6 +288,39 @@ table derives its own `quotation_key` instead:
 | `n_items_excluded_negative` | Items excluded from `quoted_value_total` for having a negative price (see `IMPLAUSIBLE_NEGATIVE_PRICE` above) - **never silently summed** |
 | `review_flags` | Distinct `; `-joined `knowledge_bank_review.csv` reasons across the quotation's rows |
 
+
+## knowledge_bank_items_coords.csv / _slim.csv (knowledge_bank/build_knowledge_bank_coords.py)
+
+Same join as `knowledge_bank_items.csv`, sourced from `boq_coords/`'s own
+item extraction instead of `quotation_parser_v1.py`'s - an
+evaluation-only path, not wired into the main knowledge bank (see
+`CLAUDE.md`). `data_source` is `COORDS_ITEM` (no `ODOO_ORDER_ONLY` rows
+here - those don't depend on which extractor produced the attachment
+rows). `_slim.csv` is an analyst-facing projection (40 of the full
+file's 64 columns) with the same guardrail columns kept. Differences from
+`knowledge_bank_items.csv`:
+
+| Field | Description |
+|---|---|
+| `product_name`, `description` | `description` is boq_coords' `description_full`; `product_name` is a separate short heading, not merged in |
+| `parent_item_no`, `item_level` | Item hierarchy (`"2.1"` → parent `"2"`, level 2), derived at extraction from `item_no`'s own structure |
+| `price_status`, `total_price_source`, `validation_error` | boq_coords-internal QA fields from extraction (`money.py` + `validate.py`) - not on the main knowledge bank, dropped from `_slim.csv` |
+| `currency`, `document_currency` | `currency` is the boq_coords item's own stated currency (e.g. a SAR/USD line inside an INR quote), kept distinct from `document_currency` (the whole document's currency, borrowed from `quotations.csv`) |
+| `price_quality` | Rolls up boq_coords' own per-item price signals into one column - **`TRUSTED`** (has a `price_basis` of `REPORTED`/`DERIVED_FROM_UNIT`/`DERIVED_FROM_TOTAL`, no `PRICE_*` flag) / **`FLAGGED`** (`validation_error` contains a `PRICE_*` code - `PRICE_OUT_OF_RANGE`, `PRICE_PARSE_FAILURE`, `PRICE_CELL_SPANS_MULTIPLE_ROWS`, `PRICE_ABSENT`) / **`NON_NUMERIC`** (`price_basis` is `NONE` but the row has a `QUOTED_SEPARATELY`/`INCLUDED` sentinel) / **`NO_PRICE`** (`price_basis` is `NONE`, no sentinel, no flag). No new parsing - a pure classification of fields the row already carries |
+| `arithmetic_check` | `OK` / `MISMATCH` / blank (not all three present) - re-checks `unit_price_final × quantity ≈ total_price_final` (via `boq_coords.money.arithmetic_ok`) on the *resolved* values, since `resolve_prices()`'s REPORTED/DERIVED combination is shared with the v1 pipeline. `MISMATCH` also lands in `knowledge_bank_review_coords.csv` as `PRICE_ARITHMETIC_MISMATCH` |
+
+**Why this check exists only here, not on `knowledge_bank_items.csv`.**
+Re-parsing v1's price columns with `boq_coords/money.py`'s stricter,
+anchored grammar (2026-09-16) found that 60% of `total_price_raw` cells
+with any text aren't actually a price at all (quantity/spec/address text
+that leaked into the price column) - a materially bigger version of the
+known `IMPLAUSIBLE_NEGATIVE_PRICE` defect. `boq_coords` doesn't have this
+problem: it already parses with that same strict grammar at extraction
+time, which is why `price_quality`/`arithmetic_check` are a cheap
+rollup here rather than a new parsing pass. Fixing it in v1 would mean
+re-parsing all 3,876 documents - deliberately out of scope for this
+change; see `PROJECT_NOTES.md`.
+
 **Picking one representative value** where a quotation spans >1 document:
 prefer the row whose `date_source == ODOO_ORDER` (structured, reliable),
 then the row with the highest `document_confidence`, then the first

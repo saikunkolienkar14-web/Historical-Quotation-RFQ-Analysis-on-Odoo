@@ -105,6 +105,18 @@ price per `COUNT` (NOS). Never fuzzy-merge makes or models in code:
 `OXYMAT 61` and `OXYMAT 64` are different products — new merges go
 through `suggest_aliases.py` and a human-reviewed alias table.
 
+**`knowledge_bank_items_coords.csv` has `price_quality` / `arithmetic_check`;
+`knowledge_bank_items.csv` (v1) does not.** boq_coords already parses
+prices with a strict, anchored grammar at extraction
+(`boq_coords/money.py`), so this is a cheap rollup of signals already on
+the row — not a new parsing pass, and not something applied to v1's
+price columns. v1's `unit_price_final`/`total_price_final` carry no
+equivalent check: measured 2026-09-16, 60% of its `total_price_raw`
+cells with any text aren't actually a price (quantity/spec/address text
+that leaked into the price column) — bigger than the known
+`IMPLAUSIBLE_NEGATIVE_PRICE` issue, deliberately left unfixed here since
+fixing it means re-parsing all 3,876 documents. See `PROJECT_NOTES.md`.
+
 **`quotation_number` is a bridge key, not a primary key.** It is ~95%
 populated but not unique, and junk values (`EMAIL`, `Verbal`, `1`, `R1`)
 leak in from a bare `ref` label. Use `source_path` as the unique

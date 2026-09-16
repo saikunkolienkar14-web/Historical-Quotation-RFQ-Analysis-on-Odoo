@@ -84,16 +84,40 @@ PDFs after manifest dedup): all 49 resolved a `quotations.csv`
 counterpart; customer matching gave 22 RFQ exact matches, 9 name-exact,
 10 review, 5 low-confidence, 1 no-match, 2 missing-customer; the item
 join matched all 641 extracted items to a document, with 490 of those
-641 having no resolvable price (`price_basis=NONE`) — noticeably higher
-than v1's corpus rate, worth checking before a full-corpus run.
+641 having `price_basis=NONE` — but `price_quality` (added below) shows
+447 of those are legitimately non-numeric (`QUOTED_SEPARATELY`/
+`INCLUDED`, printed on the document as "included above" etc.), not
+missing data; only ~43 are genuinely priceless or flagged.
 `build_knowledge_bank_coords.py` also writes a slim, analyst-facing
-`knowledge_bank_items_coords_slim.csv` (36 columns vs. the full file's
-55) alongside the full audit file — boq_coords-internal QA columns
+`knowledge_bank_items_coords_slim.csv` (40 columns vs. the full file's
+64) alongside the full audit file — boq_coords-internal QA columns
 (`parent_item_no`, `item_level`, `price_status`, `total_price_source`,
 `validation_error`) and raw/derived duplicate pairs are dropped, but
 `data_source` / `price_basis` / `date_source` / `date_ambiguous` /
 `item_confidence` are kept so the slim file stays safe to analyze on its
 own.
+
+**Price plausibility check, coords side only (2026-09-16).**
+Re-parsing v1's `unit_price_raw`/`total_price_raw` with
+`boq_coords/money.py`'s stricter, anchored grammar surfaced a real
+defect much bigger than the known `IMPLAUSIBLE_NEGATIVE_PRICE` issue:
+of 18,775 `total_price_raw` cells with any text, 60% (11,183) aren't
+actually a price at all under the strict grammar — `'1 No.'`, a street
+address, `'Ring Heater 230 VAC Length 180 MM'`, `'@30,000 PER MAN DAY'`
+had leaked into the price column. Where the strict parser does find a
+number it agrees with v1's own parse 97% of the time, so this is a
+presence/absence defect, not a magnitude one. Per explicit decision,
+**this is not being fixed or flagged in `quotation_parser_v1.py` or
+`build_knowledge_bank.py`** — that would mean re-parsing all 3,876
+documents, out of scope here (see Known issues / Future work). Instead,
+`build_knowledge_bank_coords.py` gained `price_quality`
+(`TRUSTED`/`FLAGGED`/`NON_NUMERIC`/`NO_PRICE`) and `arithmetic_check`
+(`OK`/`MISMATCH`), both a pure rollup of signals boq_coords' own
+extraction already captures (`money.parse_price` + `validate.py`) — no
+new parsing. On the 641-row sample: 136 `TRUSTED`, 447 `NON_NUMERIC`,
+58 `FLAGGED` (matches the existing `PRICE_*` `validation_error` codes
+exactly), 0 `NO_PRICE`; `arithmetic_check` is `OK` on all 83 checkable
+rows, `MISMATCH` on none.
 
 ### Completed
 
@@ -204,6 +228,17 @@ reaches here) — keep both in sync if the source changes again.
   and measures 0% negative prices corpus-wide — see
   [`docs/COORDS_EXTRACTOR.md`](docs/COORDS_EXTRACTOR.md#known-limitations)
   for what it does *not* yet catch.
+
+- **v1's price columns hide a bigger, unflagged version of the same
+  defect class.** Re-parsing `total_price_raw` with `boq_coords/money.py`'s
+  strict grammar (2026-09-16) shows 60% of cells with any text aren't a
+  price at all (quantity/spec/address text in the price column) — not
+  just negative, just wrong. Not currently flagged anywhere in
+  `knowledge_bank_review.csv`, and deliberately left that way per
+  explicit decision not to touch `quotation_parser_v1.py` or
+  `build_knowledge_bank.py` for this — see the boq_coords section above.
+  `knowledge_bank_items_coords.csv`'s new `price_quality` column has no
+  v1 equivalent for this reason.
 
 - **Matching figures (current, post-refresh, employee-copy.odoo.com
   export).** RFQ matching resolves 2,384 of 3,876 quotations (61.5%)
