@@ -157,9 +157,9 @@ to this customer).
 ## knowledge_bank_items.csv (knowledge_bank/build_knowledge_bank.py)
 
 The item-level knowledge bank (`Quotation_Data/07_knowledge_bank/`) - the
-flat analytical table joining what was quoted to whom, and when. **40,742
-rows** (after the customer-matching refresh described in
-`PROJECT_NOTES.md` - was 41,673 before the RFQ-number fix propagated).
+flat analytical table joining what was quoted to whom, and when. **40,883
+rows** (employee-copy.odoo.com export, 2026-09-16 - see
+`PROJECT_NOTES.md`).
 
 Two kinds of row, distinguished by `data_source`:
 
@@ -175,8 +175,13 @@ Two kinds of row, distinguished by `data_source`:
 | description, make, model, version, quantity, unit | Item fields exactly as parsed - unmodified passthrough from `quotation_items.csv` |
 | unit_price, total_price, unit_price_raw, total_price_raw | Prices exactly as parsed (numeric and raw text forms) |
 | item_confidence | `HIGH`/`MEDIUM`/`LOW` from the parser. **52% are LOW** - segment or weight by this rather than treating all rows equally |
-| make_normalized, model_normalized | Uppercased, whitespace-collapsed, edge-punctuation-stripped forms for grouping. **Cosmetic differences only** - genuinely different spellings of one manufacturer (`SIEMENS AG, GERMANY` vs `SIEMENS`) are intentionally NOT merged yet |
+| make_normalized, model_normalized | Uppercased, whitespace-collapsed, edge-punctuation-stripped forms. **Cosmetic differences only** - kept as the intermediate tier; group by the `*_canonical` columns below instead |
 | unit_normalized | Canonical unit (`Nos`/`No`/`nos` → `NOS`, `Mtrs` → `METER`). An unrecognized unit is uppercased, not dropped |
+| make_canonical | **Group makes by this.** From `make_normalized` via `knowledge_bank/canonicalize.py`: alternates split on `/` and `OR`, filler (`EQUIVALENT`, `APPROVED MAKE`) dropped, country and legal-form words stripped (`SIEMENS AG, GERMANY` → `SIEMENS`), separator-insensitive variants shown under their most frequent spelling, then `make_aliases.csv` applied. Multi-make alternates stay one value, parts sorted and `|`-joined (`E&H\|EMERSON\|FORBES MARSHALL`). Blank when `make_normalized` is blank |
+| make_canonical_basis | `COSMETIC` (same as `make_normalized`) / `RULE` (changed by the rules only) / `ALIAS` (at least one part resolved via `make_aliases.csv`) |
+| model_canonical | **Group models by this.** Separator-insensitive variants (`ULTRAMAT23` / `ULTRAMAT 23`) shown under their most frequent spelling, then `model_aliases.csv` applied. Never fuzzy-merged: `OXYMAT 61` and `OXYMAT 64` stay distinct |
+| model_canonical_basis | `COSMETIC` / `RULE` / `ALIAS`, as for makes |
+| unit_class | `COUNT` (NOS, PCS, EACH, UNIT) / `BUNDLE` (SET, LOT, JOB) / `LENGTH` / `TIME` / `MASS` / `VOLUME` / `AREA`; blank for an unrecognized unit. **Only compare unit prices within one class** - a price per SET is not a price per NOS |
 | unit_price_final, total_price_final | The price to analyze - reported where available, otherwise derived from the other value and `quantity` |
 | price_basis | How the two fields above were obtained: `REPORTED` / `DERIVED_FROM_UNIT` / `DERIVED_FROM_TOTAL` / `NONE`. **Always check this before treating a price as quoted** |
 | matched_customer_id, matched_customer_name, matched_industry, matched_industry_specify_others, matched_industry_confidence, customer_match_status, customer_match_score, matched_city, matched_state, matched_country, customer_type, regions | Customer fields carried from `customer_enriched.csv`. On Odoo-only rows these come straight from the order, and `customer_match_status` is `ODOO_ONLY` |
@@ -194,7 +199,7 @@ rows in `quotation_items.csv`, so it would be a permanently empty column.
 
 ## knowledge_bank_review.csv (knowledge_bank/build_knowledge_bank.py)
 
-Rows needing a human look - 29,080 of 40,742. One row per flagged record;
+Rows needing a human look - 29,080 of 40,883. One row per flagged record;
 `reason` is a `;`-joined list, so a row can carry several.
 
 | Reason code | Count | Meaning |
@@ -212,11 +217,42 @@ Rows needing a human look - 29,080 of 40,742. One row per flagged record;
 per-column fill rates for the same run (aggregate only - no customer
 names, per project convention).
 
+## make_aliases.csv / model_aliases.csv / alias_suggestions.csv (knowledge_bank/)
+
+Human-curated alias tables in `Quotation_Data/07_knowledge_bank/`
+(gitignored, like `customer_name_overrides.csv`), read by both
+knowledge-bank builders. Missing file = empty table.
+
+| Field | Description |
+|---|---|
+| alias | A spelling to replace. Matched separator- and case-insensitively, so one row covers `MAXUM ED II`, `Maxum Ed. II`, `MAXUMEDII` |
+| canonical | The value to use instead (stored uppercase) |
+| note | Free text - why the mapping was accepted |
+
+For makes the alias applies per alternate part, after country/legal-form
+stripping - so `MICHELL INSTRUMENTS → MICHELL` also fixes
+`AMETEK/MICHELL INSTRUMENTS`. Aliases do not chain.
+
+`alias_suggestions.csv` is written by `suggest_aliases.py` for review -
+nothing in it is applied automatically. Copy accepted rows into the alias
+tables and rebuild.
+
+| Field | Description |
+|---|---|
+| field | `MAKE` / `MODEL` |
+| alias, proposed_canonical | Less frequent spelling → the more frequent one it most likely means (chains already resolved to the final target) |
+| alias_rows, canonical_rows | Row counts behind each spelling |
+| score | Fuzzy similarity (`match_customers.similarity_score`), for context |
+| reason | `ABBREVIATION` (token-by-token prefix, e.g. `ED`/`EDITION`) / `PLURAL` / `SIMILAR` (score ≥ 0.75) / `CONTAINS` (makes only, whole-token containment), with `_VIA_CHAIN` when the target was reached through another proposal; `TRUNCATED` rows (unbalanced `(`/`[`) carry no proposal and need a manual decision |
+
+Never proposed: pairs whose digit runs or roman numerals differ
+(`OXYMAT 61`/`64`, `MAXUM II`/`III`), and anything truncated.
+
 
 ## knowledge_bank_quotations.csv (knowledge_bank/build_quotation_bank.py)
 
 The **quotation-level** rollup of `knowledge_bank_items.csv` - one row per
-distinct quotation (**4,935 rows**), instead of one row per line item.
+distinct quotation (**5,075 rows**), instead of one row per line item.
 Answers "what did we quote on Q24AKIC10077, to whom, when, and for how
 much" directly.
 
@@ -245,8 +281,8 @@ table derives its own `quotation_key` instead:
 | `quoted_value_total` | Sum of `total_price_final` over priced items only. **Check `quoted_value_basis` and `pct_items_priced` before treating this as the full quote value** |
 | `quoted_value_basis` | `REPORTED` (every priced item was `REPORTED`) / `MIXED_DERIVED` (some items were `DERIVED_*`) / `PARTIAL` (fewer than all items had a usable price) / `NONE` |
 | `currency` | Representative currency for the quotation |
-| `n_distinct_makes`, `makes_quoted` | Distinct `make_normalized` values across the quotation's items, `; `-joined (capped at 10, `…+N more` beyond that) |
-| `n_distinct_models`, `models_quoted` | Same, for `model_normalized` |
+| `n_distinct_makes`, `makes_quoted` | Distinct `make_canonical` values across the quotation's items, `; `-joined (capped at 10, `…+N more` beyond that). A multi-make alternate (`A\|B`) counts as one |
+| `n_distinct_models`, `models_quoted` | Same, for `model_canonical` |
 | `document_confidence` | Representative parser confidence |
 | `n_items_high`, `n_items_medium`, `n_items_low` | Item count by `item_confidence` |
 | `n_items_excluded_negative` | Items excluded from `quoted_value_total` for having a negative price (see `IMPLAUSIBLE_NEGATIVE_PRICE` above) - **never silently summed** |

@@ -47,6 +47,13 @@ from pathlib import Path
 
 import pandas as pd
 
+from canonicalize import (
+    MAKE_ALIASES_CSV,
+    MODEL_ALIASES_CSV,
+    apply_canonical_columns,
+    load_aliases,
+)
+
 
 # ============================================================
 # CONFIGURATION
@@ -137,6 +144,13 @@ OUTPUT_COLUMNS = [
     "make_normalized",
     "model_normalized",
     "unit_normalized",
+
+    # Canonical (canonicalize.py - rules + alias tables, basis recorded)
+    "make_canonical",
+    "make_canonical_basis",
+    "model_canonical",
+    "model_canonical_basis",
+    "unit_class",
 
     # Derived price
     "unit_price_final",
@@ -1139,6 +1153,22 @@ def main():
     order_only_row_count = (
         len(output_rows) - attachment_row_count
     )
+
+    # --------------------------------------------------------
+    # CANONICAL MAKE / MODEL / UNIT CLASS
+    #
+    # Runs over all rows at once: display spellings are the most
+    # frequent spelling across the whole corpus. ODOO_ORDER_ONLY rows
+    # have blank make/model/unit, so their canonical columns stay blank.
+    # --------------------------------------------------------
+
+    make_aliases = load_aliases(MAKE_ALIASES_CSV)
+    model_aliases = load_aliases(MODEL_ALIASES_CSV)
+
+    print(f"Make aliases loaded   : {len(make_aliases)}")
+    print(f"Model aliases loaded  : {len(model_aliases)}")
+
+    apply_canonical_columns(output_rows, make_aliases, model_aliases)
 
     # --------------------------------------------------------
     # REVIEW ROWS

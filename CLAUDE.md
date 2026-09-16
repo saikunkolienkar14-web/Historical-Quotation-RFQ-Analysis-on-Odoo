@@ -42,6 +42,11 @@ standardization opportunities.
 | 7 | `odoo_match_customer/match_customers.py` | `03_structured_current/` + `05_odoo_export/` | `06_customer_matching/` |
 | 8 | `knowledge_bank/build_knowledge_bank.py` | `03_structured_current/` + `06_` + `05_` | `07_knowledge_bank/knowledge_bank_items.csv` |
 | 9 | `knowledge_bank/build_quotation_bank.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/knowledge_bank_quotations.csv` |
+| Review | `knowledge_bank/suggest_aliases.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/alias_suggestions.csv` |
+
+Stage 8 reads the human-curated `07_knowledge_bank/make_aliases.csv` and
+`model_aliases.csv` (via `knowledge_bank/canonicalize.py`), which are
+seeded by reviewing `alias_suggestions.csv`.
 
 All output paths are under `Quotation_Data/`. `quotation_parser_v1.py` is
 the **parser of record**; `boq_coords/` is a second, independent
@@ -91,6 +96,15 @@ is regex-extracted from the PDF.
 items are `item_confidence == LOW`. Weight or split by it rather than
 treating every row as equally trustworthy.
 
+**Group by canonical makes/models; compare unit prices within one
+`unit_class`.** Use `make_canonical` / `model_canonical`, not the raw or
+`*_normalized` columns — only the canonical ones merge spelling variants
+(`SIEMENS AG, GERMANY` → `SIEMENS`). A multi-make alternate is one value
+(`E&H|EMERSON`). A price per `BUNDLE` (SET/LOT) is not comparable to a
+price per `COUNT` (NOS). Never fuzzy-merge makes or models in code:
+`OXYMAT 61` and `OXYMAT 64` are different products — new merges go
+through `suggest_aliases.py` and a human-reviewed alias table.
+
 **`quotation_number` is a bridge key, not a primary key.** It is ~95%
 populated but not unique, and junk values (`EMAIL`, `Verbal`, `1`, `R1`)
 leak in from a bare `ref` label. Use `source_path` as the unique
@@ -123,6 +137,11 @@ Run from the project root with the venv active:
     python odoo_match_customer\match_customers.py > run_match.log 2>&1
     python knowledge_bank\build_knowledge_bank.py > run_kb.log 2>&1
     python knowledge_bank\build_quotation_bank.py > run_qb.log 2>&1
+
+Make/model alias review (after a knowledge-bank build; rebuild stages 8–9
+once accepted rows are copied into `make_aliases.csv` / `model_aliases.csv`):
+
+    python knowledge_bank\suggest_aliases.py > run_aliases.log 2>&1
 
 Tests:
 

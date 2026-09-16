@@ -540,16 +540,16 @@ def build_quotation_row(
         "currency": pick_best_scalar(group, "currency"),
 
         "n_distinct_makes": len(
-            distinct_non_blank(item_rows["make_normalized"])
+            distinct_non_blank(item_rows["make_canonical"])
         ),
         "makes_quoted": join_capped(
-            distinct_non_blank(item_rows["make_normalized"])
+            distinct_non_blank(item_rows["make_canonical"])
         ),
         "n_distinct_models": len(
-            distinct_non_blank(item_rows["model_normalized"])
+            distinct_non_blank(item_rows["model_canonical"])
         ),
         "models_quoted": join_capped(
-            distinct_non_blank(item_rows["model_normalized"])
+            distinct_non_blank(item_rows["model_canonical"])
         ),
 
         "document_confidence": pick_best_scalar(group, "document_confidence"),

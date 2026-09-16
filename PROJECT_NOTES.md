@@ -38,14 +38,14 @@ figures" below for the up-to-date numbers; the stale-figures issue
 called out in earlier versions of this doc is resolved.
 
 The **item-level knowledge bank** exists
-(`07_knowledge_bank/knowledge_bank_items.csv`, 40,742 rows, rebuilt on
+(`07_knowledge_bank/knowledge_bank_items.csv`, 40,883 rows, rebuilt on
 the refreshed match above): one row per parsed line item joined to its
 customer/industry/order, plus one row per Odoo order no document
-resolved to, with conservative make/model/unit normalization,
+resolved to, with canonical make/model values and unit classes,
 provenance-tagged derived prices, and a resolved date dimension.
 
 The **quotation-level knowledge bank** also exists
-(`07_knowledge_bank/knowledge_bank_quotations.csv`, 4,935 rows,
+(`07_knowledge_bank/knowledge_bank_quotations.csv`, 5,075 rows,
 `knowledge_bank/build_quotation_bank.py`): the item-level bank rolled up
 to one row per quotation, keyed on a derived `quotation_key` rather than
 the raw `quotation_number` field (see "Known issues" below for why),
@@ -110,6 +110,9 @@ own.
   resolved date dimension
 - Quotation-level rollup (`build_quotation_bank.py`) with a derived,
   collision-free `quotation_key`
+- Reconcile & normalize (requirement 5): canonical make/model values and
+  unit classes (`knowledge_bank/canonicalize.py`), plus a reviewed
+  alias-table workflow (`suggest_aliases.py`) — see Design notes
 
 
 ## Pipeline scripts
@@ -151,6 +154,20 @@ text, and scrambled/fragmented layouts.
 customer can have orders across different industries. Each customer is
 assigned their most common industry across all their orders, ties broken
 by the most recent order date.
+
+**Why makes/models are canonicalized by rules + reviewed aliases, not
+fuzzy matching.** Requirement 5's merge half was already the
+knowledge-bank join; the gap was consolidation. Plain fuzzy scoring
+can't tell `OXYMAT 61` from `OXYMAT 64` (near-identical strings,
+different products), so `canonicalize.py` applies only deterministic
+rules (split alternates, strip country/legal-form words,
+separator-insensitive grouping) plus a human-curated alias table.
+Fuzzy scoring lives in `suggest_aliases.py`, which only proposes rows
+for review — the same review → override loop as customer matching. Raw,
+cosmetic (`*_normalized`) and canonical values sit side by side with a
+`*_canonical_basis` column. Units were already canonical (9 values);
+`unit_class` was added so unit prices are only compared within
+COUNT/BUNDLE/LENGTH/etc.
 
 **"Others" industry detail.** `x_studio_type_of_industry` has an
 "Others" option backed by a companion free-text field,
@@ -207,9 +224,18 @@ reaches here) — keep both in sync if the source changes again.
   header. Two rounds of targeted fixes measurably improved this — see
   `CHANGELOG.md` v1.3.0/v1.3.1.
 
-- **Equivalent makes are not consolidated.** `SIEMENS AG, GERMANY` (887
-  rows) and `SIEMENS` (490) remain separate under the deliberately
-  conservative normalization in v1.8.0.
+- **Make/model consolidation needs its alias tables reviewed.** Rules
+  alone (no alias table) take distinct makes from 290 to 229 and models
+  from 343 to 306 — e.g. SIEMENS spellings (`SIEMENS AG, GERMANY`, `SIEMENS AG
+  GERMANY`, `SIEMENS, GERMANY`, …) now share `make_canonical = SIEMENS`
+  on 1,508 rows. The remainder needs judgement:
+  `suggest_aliases.py` currently proposes 29 make and 12 model aliases
+  (e.g. `MICHELL INSTRUMENTS → MICHELL`, `MAXUM ED II → MAXUM EDITION
+  II`) plus 39 truncated values (`VALMET(SIEMENS`) that need a manual
+  call. None are applied until copied into `make_aliases.csv` /
+  `model_aliases.csv`. Some make values are prose that leaked from the
+  description column (`EQV INTEL I3 PROCESSOR 4 GB RAM…`) — a parser
+  issue, not something aliasing should paper over.
 
 - **Dates need care in time-series work.** 9,931 knowledge-bank rows are
   flagged `date_ambiguous` (day and month both ≤ 12, day-first assumed),
@@ -285,8 +311,9 @@ reaches here) — keep both in sync if the source changes again.
      it does not correct the attribution, only stops it from being
      silently trusted. See `docs/COORDS_EXTRACTOR.md#known-limitations`.
 
-3. **Fuzzy make/model consolidation** — deferred deliberately; real
-   duplicate clusters are now visible in the knowledge bank to calibrate
-   a threshold against.
+3. **Product-name standardization** — deferred from requirement 5
+   (makes/models/units were done first). v1 has no product-name field;
+   the likely route is a `product_family` column from a reviewed keyword
+   rule table over `description` / `model_canonical`.
 
 4. **NLP / machine learning preparation** — not yet scoped.

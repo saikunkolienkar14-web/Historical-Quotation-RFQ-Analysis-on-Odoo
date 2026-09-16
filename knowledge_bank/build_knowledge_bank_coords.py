@@ -77,6 +77,12 @@ from build_knowledge_bank import (  # noqa: E402
     resolve_date,
     resolve_prices,
 )
+from canonicalize import (  # noqa: E402
+    MAKE_ALIASES_CSV,
+    MODEL_ALIASES_CSV,
+    apply_canonical_columns,
+    load_aliases,
+)
 
 
 # ============================================================
@@ -156,6 +162,13 @@ OUTPUT_COLUMNS = [
     "make_normalized",
     "model_normalized",
     "unit_normalized",
+
+    # Canonical (canonicalize.py - rules + alias tables, basis recorded)
+    "make_canonical",
+    "make_canonical_basis",
+    "model_canonical",
+    "model_canonical_basis",
+    "unit_class",
 
     # Derived price
     "unit_price_final",
@@ -238,10 +251,11 @@ SLIM_COLUMN_MAP = {
 
     "product_name": "product_name",
     "description": "description",
-    "make_normalized": "make",
-    "model_normalized": "model",
+    "make_canonical": "make",
+    "model_canonical": "model",
     "quantity": "quantity",
     "unit_normalized": "unit",
+    "unit_class": "unit_class",
 
     "unit_price_final": "unit_price",
     "total_price_final": "total_price",
@@ -601,6 +615,16 @@ def main():
         output_rows.append(
             build_coords_item_row(item, document, order)
         )
+
+    # Same alias tables as build_knowledge_bank.py. Display spellings are
+    # chosen from this file's own rows, so on a small --limit sample a
+    # rules-only variant may display differently than in the main bank;
+    # alias-table hits are identical in both.
+    apply_canonical_columns(
+        output_rows,
+        load_aliases(MAKE_ALIASES_CSV),
+        load_aliases(MODEL_ALIASES_CSV),
+    )
 
     # --------------------------------------------------------
     # REVIEW ROWS
