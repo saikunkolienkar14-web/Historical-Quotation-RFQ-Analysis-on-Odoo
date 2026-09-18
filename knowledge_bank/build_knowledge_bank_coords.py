@@ -84,6 +84,13 @@ from canonicalize import (  # noqa: E402
     apply_canonical_columns,
     load_aliases,
 )
+from product_family import (  # noqa: E402
+    DESCRIPTION_FAMILY_CSV,
+    MODEL_FAMILY_CSV,
+    apply_product_family_columns,
+    load_description_rules,
+    load_model_rules,
+)
 from boq_coords.money import arithmetic_ok  # noqa: E402
 
 
@@ -171,6 +178,10 @@ OUTPUT_COLUMNS = [
     "model_canonical",
     "model_canonical_basis",
     "unit_class",
+
+    # Product family (product_family.py - rule tables over model/description)
+    "product_family",
+    "product_family_basis",
 
     # Derived price
     "unit_price_final",
@@ -260,6 +271,7 @@ SLIM_COLUMN_MAP = {
     "quantity": "quantity",
     "unit_normalized": "unit",
     "unit_class": "unit_class",
+    "product_family": "product_family",
 
     "unit_price_final": "unit_price",
     "total_price_final": "total_price",
@@ -686,6 +698,12 @@ def main():
         output_rows,
         load_aliases(MAKE_ALIASES_CSV),
         load_aliases(MODEL_ALIASES_CSV),
+    )
+
+    apply_product_family_columns(
+        output_rows,
+        load_model_rules(MODEL_FAMILY_CSV),
+        load_description_rules(DESCRIPTION_FAMILY_CSV),
     )
 
     # --------------------------------------------------------

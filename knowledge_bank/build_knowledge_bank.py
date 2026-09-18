@@ -53,6 +53,13 @@ from canonicalize import (
     apply_canonical_columns,
     load_aliases,
 )
+from product_family import (
+    DESCRIPTION_FAMILY_CSV,
+    MODEL_FAMILY_CSV,
+    apply_product_family_columns,
+    load_description_rules,
+    load_model_rules,
+)
 
 
 # ============================================================
@@ -151,6 +158,10 @@ OUTPUT_COLUMNS = [
     "model_canonical",
     "model_canonical_basis",
     "unit_class",
+
+    # Product family (product_family.py - rule tables over model/description)
+    "product_family",
+    "product_family_basis",
 
     # Derived price
     "unit_price_final",
@@ -1169,6 +1180,14 @@ def main():
     print(f"Model aliases loaded  : {len(model_aliases)}")
 
     apply_canonical_columns(output_rows, make_aliases, model_aliases)
+
+    model_family_rules = load_model_rules(MODEL_FAMILY_CSV)
+    description_family_rules = load_description_rules(DESCRIPTION_FAMILY_CSV)
+
+    print(f"Model family rules loaded       : {len(model_family_rules)}")
+    print(f"Description family rules loaded : {len(description_family_rules)}")
+
+    apply_product_family_columns(output_rows, model_family_rules, description_family_rules)
 
     # --------------------------------------------------------
     # REVIEW ROWS

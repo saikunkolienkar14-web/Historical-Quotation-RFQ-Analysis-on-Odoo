@@ -177,6 +177,8 @@ every truly-priceless row before it gets here) — see the table above.
 - Reconcile & normalize (requirement 5): canonical make/model values and
   unit classes (`knowledge_bank/canonicalize.py`), plus a reviewed
   alias-table workflow (`suggest_aliases.py`) — see Design notes
+- Product family classification (`knowledge_bank/product_family.py`,
+  starter rule tables — needs domain review, see Future work)
 
 
 ## Pipeline scripts
@@ -418,9 +420,30 @@ reaches here) — keep both in sync if the source changes again.
    for this round per user direction; not yet assessed for whether it
    clusters in a few documents or is spread evenly.
 
-3. **Product-name standardization** — deferred from requirement 5
-   (makes/models/units were done first). v1 has no product-name field;
-   the likely route is a `product_family` column from a reviewed keyword
-   rule table over `description` / `model_canonical`.
+3. **Product-name standardization — landed 2026-09-18 as a starter,
+   needs domain review.** `product_family` / `product_family_basis`
+   (`knowledge_bank/product_family.py`) check `model_canonical` against
+   `model_family_rules.csv` first (precise, prefix match), then
+   `description` against `description_family_rules.csv` (broader
+   coverage, first-match-wins phrase rules), blank on no match. This is
+   a genuinely different problem from make/model consolidation — there
+   was no existing family signal to build from, so the rule tables were
+   authored from general product-line knowledge, not confirmed against
+   anything in this repo, and **need your domain review before being
+   trusted** (same caution `alias_suggestions.csv` needed). Measured on
+   the main knowledge bank (38,487 `ATTACHMENT_ITEM` rows) with the
+   16-rule/6-rule starter tables: **19.5% coverage** (7,510 rows: 6,523
+   via description rules, 987 via model rules) — inherently partial,
+   since only 5.5% of rows have a recognized `model_canonical` and
+   68.3% have any `description` at all. Top families: `SAMPLING SYSTEM`
+   (1,827), `SERVICES` (1,747), `GAS ANALYZER` (1,333),
+   `GAS CHROMATOGRAPH` (547), `OXYGEN ANALYZER` (345). On the coords
+   knowledge bank (300-doc sample, 3,099 rows): 49.6% coverage (higher
+   density of analyzer/sampling-system items in that sample).
+   `knowledge_bank/suggest_product_families.py` ranks still-uncategorized
+   `model_canonical` values and description phrases by row count for
+   extending the tables — no algorithmic way to propose a family *name*
+   the way `suggest_aliases.py` could propose a make/model merge, so
+   this only ranks candidates, never proposes the label itself.
 
 4. **NLP / machine learning preparation** — not yet scoped.

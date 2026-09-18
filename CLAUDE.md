@@ -43,10 +43,14 @@ standardization opportunities.
 | 8 | `knowledge_bank/build_knowledge_bank.py` | `03_structured_current/` + `06_` + `05_` | `07_knowledge_bank/knowledge_bank_items.csv` |
 | 9 | `knowledge_bank/build_quotation_bank.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/knowledge_bank_quotations.csv` |
 | Review | `knowledge_bank/suggest_aliases.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/alias_suggestions.csv` |
+| Review | `knowledge_bank/suggest_product_families.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/product_family_suggestions.csv` |
 
 Stage 8 reads the human-curated `07_knowledge_bank/make_aliases.csv` and
 `model_aliases.csv` (via `knowledge_bank/canonicalize.py`), which are
-seeded by reviewing `alias_suggestions.csv`.
+seeded by reviewing `alias_suggestions.csv`. It also reads
+`model_family_rules.csv` / `description_family_rules.csv` (via
+`knowledge_bank/product_family.py`), seeded by reviewing
+`product_family_suggestions.csv` — see Data rules below.
 
 All output paths are under `Quotation_Data/`. `quotation_parser_v1.py` is
 the **parser of record**; `boq_coords/` is a second, independent
@@ -105,6 +109,17 @@ price per `COUNT` (NOS). Never fuzzy-merge makes or models in code:
 `OXYMAT 61` and `OXYMAT 64` are different products — new merges go
 through `suggest_aliases.py` and a human-reviewed alias table.
 
+**`product_family` is blank for most rows — that's expected, not a
+defect.** Only 5.5% of items have a recognized `model_canonical` and
+68.3% have any `description` at all, so coverage is inherently partial
+(19.5% on the main knowledge bank with the starter tables). Group by
+`product_family` for "commonly quoted modules" analysis, but don't treat
+a blank value as "uncategorized junk" — it usually just means neither
+rule table matched. The starter rule tables
+(`Quotation_Data/07_knowledge_bank/model_family_rules.csv` /
+`description_family_rules.csv`) are drafts needing domain review before
+being trusted — see `PROJECT_NOTES.md` Future Work #3.
+
 **`knowledge_bank_items_coords.csv` has `price_quality` / `arithmetic_check`;
 `knowledge_bank_items.csv` (v1) does not.** boq_coords already parses
 prices with a strict, anchored grammar at extraction
@@ -154,6 +169,11 @@ Make/model alias review (after a knowledge-bank build; rebuild stages 8–9
 once accepted rows are copied into `make_aliases.csv` / `model_aliases.csv`):
 
     python knowledge_bank\suggest_aliases.py > run_aliases.log 2>&1
+
+Product family rule review (same rebuild-after-editing pattern, into
+`model_family_rules.csv` / `description_family_rules.csv`):
+
+    python knowledge_bank\suggest_product_families.py > run_product_families.log 2>&1
 
 Tests:
 
