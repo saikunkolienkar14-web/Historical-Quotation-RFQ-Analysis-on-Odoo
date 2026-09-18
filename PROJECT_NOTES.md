@@ -79,36 +79,40 @@ output. It reuses v1's already-extracted `customer` /
 `source_path`) rather than re-implementing that extraction, and reuses
 `odoo_match_customer.match_customers.match_quotation()` unchanged
 (extracted from that script's `main()` loop so both paths share one
-matching implementation). Scaled smoke-tested twice: 50 documents
-(2026-09-16, 49 unique PDFs after manifest dedup) then 200 documents
-(2026-09-18, 198 unique PDFs; 185 `RULED` / 13 `NO_BOQ_TABLE`).
-Figures held up, scaling roughly linearly with corpus size. **Both runs
-below predate the 2026-09-18 price-bug fixes** (item counts, row counts,
-`PRICE_OUT_OF_RANGE`/`PRICE_CELL_SPANS_MULTIPLE_ROWS` figures) — see
-Future Work #2 below for the post-fix 200-doc numbers
-(2,374 items, `PRICE_OUT_OF_RANGE` down to 103 rows/11 docs, all 31
-spanned-price rows now correctly blank):
+matching implementation). Scaled smoke-tested three times: 50 documents
+(2026-09-16, 49 unique PDFs), 200 documents (2026-09-18, 198 unique,
+pre-price-bug-fix), then 300 documents (2026-09-18, 298 unique, POST the
+price-bug fixes below — `python -m boq_coords --limit 300` took **7.38
+minutes / 442.7s (≈1.49s/doc)**, slower than the ~0.4s/doc measured
+before the fixes' added per-page content classification; worth watching
+if this compounds at full-corpus scale). 281 `RULED` / 17 `NO_BOQ_TABLE`.
+Figures held up, scaling roughly linearly with corpus size:
 
-| | 50-doc run | 200-doc run (pre-fix) |
-|---|---|---|
-| Documents / items | 49 docs / 641 items | 198 docs / 2,226 items |
-| All docs resolved a `quotations.csv` counterpart | yes (49/49) | yes (198/198) |
-| RFQ exact / name-exact / review / low-conf / no-match / missing | 22 / 9 / 10 / 5 / 1 / 2 | 80 / 39 / 28 / 29 / 18 / 4 |
-| Items joined to a document | 641/641 | 2,226/2,226 |
-| `price_quality`: TRUSTED / NON_NUMERIC / FLAGGED / NO_PRICE | 136 / 447 / 58 / 0 | 534 / 1,402 / 290 / 0 |
-| `arithmetic_check`: OK / MISMATCH (of checkable rows) | 83 / 0 | 458 / 8 |
-| `validation_error`, top codes (row counts) | — | `ITEM_NO_MALFORMED` 509, `PRICE_ABSENT` 154, `PRICE_OUT_OF_RANGE` 110 (17 of 184 docs with a table, 9.2%), `PRICE_CELL_SPANS_MULTIPLE_ROWS` 31 (6 docs, 3.3%), `PRICE_ARITHMETIC_MISMATCH` 8, `PRICE_PARSE_FAILURE` 7 |
-| Distinct makes/models: raw → canonical | 26 → 22 / 24 → 23 | 54 → 46 / 73 → 68 |
+| | 50-doc (pre-fix) | 200-doc (pre-fix) | 300-doc (post-fix) |
+|---|---|---|---|
+| Documents / items | 49 / 641 | 198 / 2,226 | 298 / 3,099 |
+| All docs resolved a `quotations.csv` counterpart | yes (49/49) | yes (198/198) | yes (298/298) |
+| RFQ exact / name-exact / review / low-conf / no-match / missing / ambiguous | 22/9/10/5/1/2/0 | 80/39/28/29/18/4/0 | 131/51/39/47/22/7/1 |
+| Items joined to a document | 641/641 | 2,226/2,226 | 3,099/3,099 |
+| `price_quality`: TRUSTED / NON_NUMERIC / FLAGGED / NO_PRICE | 136/447/58/0 | 534/1,402/290/0 | 884/1,835/380/0 |
+| `arithmetic_check`: OK / MISMATCH (checkable rows) | 83/0 | 458/8 | 666/12 |
+| `PRICE_OUT_OF_RANGE` (rows / docs / % of docs with a table) | — | 110 / 17 / 9.2% | 132 / 22 / 7.9% |
+| `PRICE_CELL_SPANS_MULTIPLE_ROWS` (rows / docs) | — | 31 / 6 | 57 / 12 |
+| `CONTINUATION_BANDS_REINFERRED` (rows / docs) | n/a (fix landed later) | n/a | 708 / 50 |
+| Distinct makes/models: raw → canonical | 26→22 / 24→23 | 54→46 / 73→68 | 75→62 / 231→225 |
 
-The 8 `arithmetic_check` mismatches only appeared at 200-doc scale (0 at
-50) — expected, since it's a rare-event check; all 8 are correctly
-cross-referenced into `knowledge_bank_review_coords.csv` as
-`PRICE_ARITHMETIC_MISMATCH`, hand-verified. One new, benign
-characteristic surfaced at this scale: 267 `(source_path, item_no)`
-pairs repeat within a document (574 rows) — a document with multiple
-BOQ tables (e.g. an equipment list plus a separate AMC/service table)
-restarts item numbering at 1 per table. Not a join bug; `item_no` alone
-just isn't a unique key within a multi-table document.
+Confirmed at 300-doc scale, post-fix: **all 57/57**
+`PRICE_CELL_SPANS_MULTIPLE_ROWS` rows have both numeric price fields
+blank (matches the 200-doc post-fix result of 31/31 exactly). Self-
+consistency (`scripts/score.py --self-consistency`) on the 300-doc
+extraction: 0% negative price, 98.12% arithmetic-ok (of 638 checkable),
+99.98% raw-text traceability (4,038 of 4,039 — one new non-verbatim row
+appeared at this scale, not yet investigated, worth a look before
+full-corpus). The `arithmetic_check` mismatches (8→12) and
+`(source_path, item_no)` repeats (a document with multiple BOQ tables
+restarts numbering per table, not a join bug — 267 pairs/574 rows at
+200-doc scale) are both rare-event / structural characteristics that
+scale with corpus size, not new defects.
 
 `build_knowledge_bank_coords.py` also writes a slim, analyst-facing
 `knowledge_bank_items_coords_slim.csv` (40 columns vs. the full file's
@@ -137,10 +141,9 @@ documents, out of scope here (see Known issues / Future work). Instead,
 (`OK`/`MISMATCH`), both a pure rollup of signals boq_coords' own
 extraction already captures (`money.parse_price` + `validate.py`) — no
 new parsing. `FLAGGED` always matches the existing `PRICE_*`
-`validation_error` codes exactly, `NO_PRICE` stayed at 0 across both
-smoke tests (boq_coords' own `PRICE_ABSENT` rule already catches every
-truly-priceless row before it gets here) — see the table above for both
-runs' figures.
+`validation_error` codes exactly, `NO_PRICE` stayed at 0 across all
+three smoke tests (boq_coords' own `PRICE_ABSENT` rule already catches
+every truly-priceless row before it gets here) — see the table above.
 
 ### Completed
 
@@ -384,6 +387,14 @@ reaches here) — keep both in sync if the source changes again.
    - Regression coverage: `tests/test_price_bug_fixes.py` (13 tests,
      including real-document cases against the exact fixtures named
      above — not just synthetic logic checks).
+   - **Reconfirmed at 300-doc scale (2026-09-18, post-fix):** all 57/57
+     `PRICE_CELL_SPANS_MULTIPLE_ROWS` rows have both numeric price fields
+     blank (matches 200-doc's 31/31 exactly); `CONTINUATION_BANDS_REINFERRED`
+     fired on 708 rows across 50 documents; `PRICE_OUT_OF_RANGE` 132
+     rows / 22 docs (7.9% of documents with a table, down from 9.2%
+     pre-fix); self-consistency 0% negative, 98.12% arithmetic-ok, 99.98%
+     raw-text traceable (one new non-verbatim row, not yet investigated).
+     See the table above.
 
    **Remaining before a full-corpus run:** `ITEM_NO_MALFORMED` is the
    single most common flag at 200-doc scale (509 of 725 flagged rows in
