@@ -79,15 +79,32 @@ output. It reuses v1's already-extracted `customer` /
 `source_path`) rather than re-implementing that extraction, and reuses
 `odoo_match_customer.match_customers.match_quotation()` unchanged
 (extracted from that script's `main()` loop so both paths share one
-matching implementation). 50-document smoke test (2026-09-16, 49 unique
-PDFs after manifest dedup): all 49 resolved a `quotations.csv`
-counterpart; customer matching gave 22 RFQ exact matches, 9 name-exact,
-10 review, 5 low-confidence, 1 no-match, 2 missing-customer; the item
-join matched all 641 extracted items to a document, with 490 of those
-641 having `price_basis=NONE` — but `price_quality` (added below) shows
-447 of those are legitimately non-numeric (`QUOTED_SEPARATELY`/
-`INCLUDED`, printed on the document as "included above" etc.), not
-missing data; only ~43 are genuinely priceless or flagged.
+matching implementation). Scaled smoke-tested twice: 50 documents
+(2026-09-16, 49 unique PDFs after manifest dedup) then 200 documents
+(2026-09-18, 198 unique PDFs; 185 `RULED` / 13 `NO_BOQ_TABLE`).
+Figures held up, scaling roughly linearly with corpus size:
+
+| | 50-doc run | 200-doc run |
+|---|---|---|
+| Documents / items | 49 docs / 641 items | 198 docs / 2,226 items |
+| All docs resolved a `quotations.csv` counterpart | yes (49/49) | yes (198/198) |
+| RFQ exact / name-exact / review / low-conf / no-match / missing | 22 / 9 / 10 / 5 / 1 / 2 | 80 / 39 / 28 / 29 / 18 / 4 |
+| Items joined to a document | 641/641 | 2,226/2,226 |
+| `price_quality`: TRUSTED / NON_NUMERIC / FLAGGED / NO_PRICE | 136 / 447 / 58 / 0 | 534 / 1,402 / 290 / 0 |
+| `arithmetic_check`: OK / MISMATCH (of checkable rows) | 83 / 0 | 458 / 8 |
+| `validation_error`, top codes (row counts) | — | `ITEM_NO_MALFORMED` 509, `PRICE_ABSENT` 154, `PRICE_OUT_OF_RANGE` 110 (17 of 184 docs with a table, 9.2%), `PRICE_CELL_SPANS_MULTIPLE_ROWS` 31 (6 docs, 3.3%), `PRICE_ARITHMETIC_MISMATCH` 8, `PRICE_PARSE_FAILURE` 7 |
+| Distinct makes/models: raw → canonical | 26 → 22 / 24 → 23 | 54 → 46 / 73 → 68 |
+
+The 8 `arithmetic_check` mismatches only appeared at 200-doc scale (0 at
+50) — expected, since it's a rare-event check; all 8 are correctly
+cross-referenced into `knowledge_bank_review_coords.csv` as
+`PRICE_ARITHMETIC_MISMATCH`, hand-verified. One new, benign
+characteristic surfaced at this scale: 267 `(source_path, item_no)`
+pairs repeat within a document (574 rows) — a document with multiple
+BOQ tables (e.g. an equipment list plus a separate AMC/service table)
+restarts item numbering at 1 per table. Not a join bug; `item_no` alone
+just isn't a unique key within a multi-table document.
+
 `build_knowledge_bank_coords.py` also writes a slim, analyst-facing
 `knowledge_bank_items_coords_slim.csv` (40 columns vs. the full file's
 64) alongside the full audit file — boq_coords-internal QA columns
@@ -114,10 +131,11 @@ documents, out of scope here (see Known issues / Future work). Instead,
 (`TRUSTED`/`FLAGGED`/`NON_NUMERIC`/`NO_PRICE`) and `arithmetic_check`
 (`OK`/`MISMATCH`), both a pure rollup of signals boq_coords' own
 extraction already captures (`money.parse_price` + `validate.py`) — no
-new parsing. On the 641-row sample: 136 `TRUSTED`, 447 `NON_NUMERIC`,
-58 `FLAGGED` (matches the existing `PRICE_*` `validation_error` codes
-exactly), 0 `NO_PRICE`; `arithmetic_check` is `OK` on all 83 checkable
-rows, `MISMATCH` on none.
+new parsing. `FLAGGED` always matches the existing `PRICE_*`
+`validation_error` codes exactly, `NO_PRICE` stayed at 0 across both
+smoke tests (boq_coords' own `PRICE_ABSENT` rule already catches every
+truly-priceless row before it gets here) — see the table above for both
+runs' figures.
 
 ### Completed
 
@@ -320,19 +338,20 @@ reaches here) — keep both in sync if the source changes again.
    golden set's stage-2 sampling round (35 more hand-labelled documents,
    `scripts/sample_golden.py`), and a decision on the LLM-fallback step
    for validation-failing rows (`validate.py`'s six rules already flag
-   which rows would need it). A 50-document smoke test
-   (`python -m boq_coords --limit 50`, 2026-09-12) re-confirmed the
-   documented self-consistency numbers (0% negative price, 100%
-   arithmetic-ok on checkable rows, 100% raw-text traceability) and
-   surfaced two real bugs worth fixing before promotion — both
-   root-caused and documented in
+   which rows would need it). Smoke-tested at 50 docs (2026-09-12,
+   confirming the documented self-consistency numbers: 0% negative price,
+   100% arithmetic-ok on checkable rows, 100% raw-text traceability) then
+   again at 200 docs (2026-09-18, see the table above) — no new failure
+   mode appeared at 4x scale, and both known bugs below remain the only
+   ones tracked. Both are root-caused and documented in
    `docs/COORDS_EXTRACTOR.md#known-limitations`:
    - A continuation page whose table columns physically shift (e.g. a
      "summary" table followed by a differently-laid-out "detailed spec"
      table) gets its column bands reused verbatim, misreading a combined
      qty+unit cell's leading digit as a price. **Already flagged**
-     (`PRICE_OUT_OF_RANGE` + `confidence=LOW`) — measured at 35 rows /
-     15 documents (7.6%) of the existing `03f_structured_coords` sample.
+     (`PRICE_OUT_OF_RANGE` + `confidence=LOW`) — measured (2026-09-18,
+     200-doc sample) at 110 rows across 17 of 184 documents with a
+     detected table (9.2%), up from 7.6% at 50-doc scale.
    - A merged/rowspan price cell in a ruled table (one price stated once
      for a group of items) gets attributed to the wrong item in the
      group by the row-boundary heuristic. This was silent
@@ -344,7 +363,15 @@ reaches here) — keep both in sync if the source changes again.
      prices, fixed before landing) and `validate.py` flags it
      `PRICE_CELL_SPANS_MULTIPLE_ROWS`, `confidence=LOW`. Additive only —
      it does not correct the attribution, only stops it from being
-     silently trusted. See `docs/COORDS_EXTRACTOR.md#known-limitations`.
+     silently trusted. Measured (2026-09-18, 200-doc sample) at 31 rows
+     across 6 documents (3.3%). See
+     `docs/COORDS_EXTRACTOR.md#known-limitations`.
+   - New at 200-doc scale: `ITEM_NO_MALFORMED` is by far the most common
+     flag (509 of 725 flagged rows) — the row's own sequential index was
+     substituted for a non-clean item number (see `banded.is_clean_item_no`).
+     Not a new bug, just newly visible at this sample size; not yet
+     assessed for whether it clusters in a few documents or is spread
+     evenly. Worth a look before a full-corpus run.
 
 3. **Product-name standardization** — deferred from requirement 5
    (makes/models/units were done first). v1 has no product-name field;
