@@ -106,13 +106,27 @@ Confirmed at 300-doc scale, post-fix: **all 57/57**
 blank (matches the 200-doc post-fix result of 31/31 exactly). Self-
 consistency (`scripts/score.py --self-consistency`) on the 300-doc
 extraction: 0% negative price, 98.12% arithmetic-ok (of 638 checkable),
-99.98% raw-text traceability (4,038 of 4,039 — one new non-verbatim row
-appeared at this scale, not yet investigated, worth a look before
-full-corpus). The `arithmetic_check` mismatches (8→12) and
+**100.00% raw-text traceability** (was 99.98%, 4,038/4,039, before a
+scorer fix below). The `arithmetic_check` mismatches (8→12) and
 `(source_path, item_no)` repeats (a document with multiple BOQ tables
 restarts numbering per table, not a join bug — 267 pairs/574 rows at
 200-doc scale) are both rare-event / structural characteristics that
 scale with corpus size, not new defects.
+
+**The one non-verbatim row was a scorer gap, not a data defect
+(investigated 2026-09-18).** `scripts/score.py`'s self-consistency
+verbatim check didn't know about `total_price_source` - a `"derived"`
+total (quantity × unit_price, used only when the source states no total
+of its own) was never itself printed in the source document, so it can
+never legitimately appear verbatim, exactly the exemption
+`validate.py`'s own Rule 1 already makes. The flagged row (`PTFE TUBE`,
+item 1.2: `unit_price` stated as `"Rs 45,000"`, no total stated,
+`total_price=4,500,000` correctly derived as `100 × 45,000`) had
+`validation_error=''`/`confidence='HIGH'` all along - the pipeline itself
+never mistrusted this row, only the separate scorer did. Fixed by adding
+the same exemption to `score.py`'s verbatim check; 3 new tests
+(`tests/test_score.py`). Not something to watch before a full-corpus
+run - it was a false alarm.
 
 `build_knowledge_bank_coords.py` also writes a slim, analyst-facing
 `knowledge_bank_items_coords_slim.csv` (40 columns vs. the full file's

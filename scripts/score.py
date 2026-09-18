@@ -92,7 +92,17 @@ def self_consistency(rows: list[dict], label: str) -> None:
     for r in rows:
         raw = r.get("raw_row_text", "") or ""
         raw_digits = "".join(c for c in raw if c.isdigit())
+        # A "derived" total_price (quantity x unit_price, used only when
+        # the source states no total of its own - see money fix
+        # requirement 1) was never itself written anywhere in the source
+        # text, so it can never legitimately appear verbatim - the same
+        # exemption validate.py's own Rule 1 already makes. Without this,
+        # every derived total in the corpus is a guaranteed false
+        # "non-verbatim" flag here, unrelated to extraction quality.
+        total_is_derived = r.get("total_price_source") == "derived"
         for f in ("unit_price", "total_price", "quantity"):
+            if f == "total_price" and total_is_derived:
+                continue
             v = r.get(f)
             if v in (None, ""):
                 continue
