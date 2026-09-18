@@ -16,9 +16,17 @@ Row validator - Step 4 of the plan. Every extracted row must pass:
   7. Price cell span - the row's price came from a table cell that visibly
                       spans more than one physical row (ruled.py's
                       _spanned_price_ranges) - one price stated once for a
-                      GROUP of items, not this item alone. The value itself
-                      is real, in-range, and passes every other rule, so
-                      nothing else catches it.
+                      GROUP of items, not this item alone. __main__.py
+                      already withholds the numeric value for such a row
+                      (unit_price/total_price are blank); this rule just
+                      makes that reduced certainty visible in
+                      validation_error too.
+  8. Continuation bands reinferred - the row came from an unheaded
+                      continuation page whose column bands were freshly
+                      inferred from that page's own words (rows.py's
+                      _unheaded_continuation_rows), not reused from the
+                      parent table's header - a real value, but a less
+                      certain one than a header-matched band.
 
 Rows are never dropped - a failing row gets confidence=LOW and the failed
 rule name(s) in validation_error, same as the plan specifies.
@@ -156,6 +164,11 @@ def validate_row(row: dict) -> list[str]:
     # never suppress or alter one of the other six rules' findings.
     if row.get("_price_cell_spans_multiple_rows"):
         errors.append("PRICE_CELL_SPANS_MULTIPLE_ROWS")
+
+    # Rule 8: continuation-page bands were reinferred, not reused (see
+    # module docstring and rows._unheaded_continuation_rows).
+    if row.get("_continuation_bands_reinferred"):
+        errors.append("CONTINUATION_BANDS_REINFERRED")
 
     return errors
 

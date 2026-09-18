@@ -12,7 +12,8 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from boq_coords.geometry import ColumnBand
+from boq_coords.geometry import ColumnBand, Word, cluster_lines, join_words, median
+from boq_coords.money import parse_price, parse_quantity
 from boq_coords.vocab import classify_header_word, is_ambiguous_total_price_header
 
 MAX_HEADER_START = 6
@@ -163,6 +164,221 @@ def build_bands_from_table(table, header: HeaderMatch) -> list[ColumnBand]:
         bands.append(ColumnBand(field=field, x0=min(xs), x1=max(xs)))
 
     return resolve_duplicate_price_bands(bands)
+
+
+# Minimum width (pt) an inferred column must have to be trusted - a split
+# that would produce a narrower column means the gap-based clustering
+# below picked a spurious boundary (e.g. two closely-kerned words in the
+# same real column), not a genuine column edge.
+MIN_INFERRED_BAND_WIDTH = 5.0
+
+# A gap between consecutive word x0-positions is treated as a real column
+# boundary only when it's BOTH an absolute outlier and a clear outlier
+# relative to this page's own typical intra-column word spacing - a fixed
+# threshold alone doesn't adapt across documents with different fonts/
+# layouts, and a purely relative one misfires on a page with almost no
+# text. Confirmed against real continuation pages during development.
+MIN_COLUMN_GAP = 15.0
+COLUMN_GAP_SIGNIFICANCE = 3.0
+
+# Fraction of a cluster's own lines that must parse as money/quantity for
+# that cluster to be classified as a price/quantity column. Confirmed
+# necessary against a real document (Q25N10067R1_Bechtel_RIL NMD): a
+# cluster whose ONLY content is prose that happens to sit in a genuine
+# gap must not be mistaken for a price column just because a gap exists.
+CONTENT_CLASSIFICATION_THRESHOLD = 0.6
+
+
+# A bare 1-2 digit number with no comma grouping/decimal/currency parses
+# as valid "money" under money.parse_price's deliberately permissive
+# grammar (this corpus often has no currency symbol at all) - but it is
+# far more likely an item number or quantity in that shape. Item_no's own
+# column would otherwise satisfy the money check just as well as a real
+# price column and get misclassified. price_in_bounds' own MIN_*_PRICE
+# floors (1000) already encode "this corpus's prices are never this
+# small"; this reuses that same domain knowledge at a looser threshold
+# (only to tell columns apart, not to validate a final price).
+MIN_PRICE_LIKE_VALUE = 100.0
+
+
+def _looks_like_price(text: str) -> bool:
+    parsed = parse_price(text)
+    if parsed.is_placeholder:
+        return True
+    return parsed.value is not None and parsed.value >= MIN_PRICE_LIKE_VALUE
+
+
+def bands_capture_price(words: list[Word], bands: list[ColumnBand]) -> bool:
+    """True when `bands`' price field(s), applied to `words`, mostly
+    contain money (or a recognized placeholder) - i.e. these bands
+    already fit this page's own words.
+
+    Used by rows._unheaded_continuation_rows as a gate: only attempt
+    infer_bands_from_words (a less certain fallback) when the parent
+    table's REUSED bands demonstrably don't fit this continuation page -
+    never replace bands that are already working. Confirmed as a real
+    regression risk, not a hypothetical one: Q2501N005's continuation
+    pages (no item_no column at all, so row splitting for the bundled
+    PORTA CABIN/DATALOGGER/DUST MONITOR sub-items relies entirely on
+    correctly recognizing each one's own price line) have no layout
+    shift, and unconditionally reinferring there produced a worse split
+    than the perfectly good reused bands, re-breaking a previously-fixed
+    row-merging bug (tests.test_boq_coords_integration.TestBundledSubItems).
+
+    True (nothing to check) when `bands` has no price field at all.
+    """
+    price_fields = [f for f in ("unit_price", "total_price") if f in {b.field for b in bands}]
+    if not price_fields:
+        return True
+
+    lines = cluster_lines(words)
+    if not lines:
+        return False
+
+    checked = 0
+    plausible = 0
+    for line in lines:
+        cell_words: dict[str, list[Word]] = {}
+        for w in line.words:
+            for band in bands:
+                if band.contains(w):
+                    cell_words.setdefault(band.field, []).append(w)
+                    break
+        for field in price_fields:
+            if field not in cell_words:
+                continue
+            checked += 1
+            if _looks_like_price(join_words(cell_words[field])):
+                plausible += 1
+
+    if checked == 0:
+        return False
+    return (plausible / checked) >= CONTENT_CLASSIFICATION_THRESHOLD
+
+
+def _column_gaps(words: list[Word]) -> list[float]:
+    """x-positions where a real column boundary most likely sits."""
+    xs = sorted(w.x0 for w in words)
+    if len(xs) < 2:
+        return []
+    gaps = [xs[i + 1] - xs[i] for i in range(len(xs) - 1)]
+    baseline = median(gaps) or 1.0
+    threshold = max(MIN_COLUMN_GAP, COLUMN_GAP_SIGNIFICANCE * baseline)
+    return [xs[i + 1] for i in range(len(gaps)) if gaps[i] >= threshold]
+
+
+def infer_bands_from_words(words: list[Word], field_order: list[str]) -> list[ColumnBand] | None:
+    """Header-free column-band inference for an unheaded continuation page
+    (rows._unheaded_continuation_rows). There is no header row on such a
+    page to rebuild bands from the way build_bands_from_table() does.
+
+    Deliberately does NOT assume the continuation page has the same
+    NUMBER of visual columns as the parent table, only roughly the same
+    left-to-right ORDER - the documented bug shape
+    (docs/COORDS_EXTRACTOR.md#known-limitations) is specifically a
+    "detailed spec" page that CRAMS several of the parent table's columns
+    into fewer, differently-positioned ones (a combined qty+unit cell, a
+    single placeholder covering both price columns), so forcing exactly
+    len(field_order) bands guarantees a wrong split on the real case this
+    exists to fix.
+
+    Instead: cluster words by x-gap significance (_column_gaps) into
+    however many groups the page's own geometry actually supports, then
+    classify each cluster by its own CONTENT - a cluster whose lines
+    mostly parse as money becomes a price column (parse_quantity's own
+    regex already recognizes an embedded unit, e.g. "1 No.", so a single
+    cluster is enough to recover a merged qty+unit cell without a
+    separate unit band), the leftmost remaining cluster becomes item_no
+    when one is wanted, and whatever is left becomes description.
+
+    Returns None - never a confident-but-wrong guess - whenever there
+    aren't at least 2 real column clusters, no cluster classifies as a
+    price column (a price field was expected but nothing recovered one),
+    or nothing is left for description. The caller falls back to reusing
+    the parent table's own bands (this function's pre-fix behavior)
+    whenever this returns None.
+    """
+    if not words:
+        return None
+
+    price_fields = [f for f in field_order if f in ("unit_price", "total_price")]
+    wants_quantity = "quantity" in field_order
+    wants_item_no = "item_no" in field_order
+
+    boundaries = _column_gaps(words)
+    left = min(w.x0 for w in words)
+    right = max(w.x1 for w in words) + 1.0
+    edges = [left, *boundaries, right]
+    if len(edges) < 3:  # fewer than 2 real columns found
+        return None
+
+    clusters: list[tuple[float, float]] = []
+    for lo, hi in zip(edges, edges[1:]):
+        if hi - lo < MIN_INFERRED_BAND_WIDTH:
+            return None
+        clusters.append((lo, hi))
+
+    lines = cluster_lines(words)
+    if not lines:
+        return None
+
+    def texts_in(lo: float, hi: float) -> list[str]:
+        return [
+            join_words(in_cluster)
+            for line in lines
+            if (in_cluster := [w for w in line.words if lo <= w.xc < hi])
+        ]
+
+    def classifies_as(texts: list[str], check) -> bool:
+        if not texts:
+            return False
+        hits = sum(1 for t in texts if check(t))
+        return (hits / len(texts)) >= CONTENT_CLASSIFICATION_THRESHOLD
+
+    cluster_texts = [texts_in(lo, hi) for lo, hi in clusters]
+
+    money_idx = [
+        i for i, texts in enumerate(cluster_texts)
+        if classifies_as(texts, _looks_like_price)
+    ]
+    if price_fields and not money_idx:
+        return None
+
+    assigned: dict[int, str] = {}
+    if len(money_idx) == 1 and price_fields:
+        assigned[money_idx[0]] = "total_price" if "total_price" in price_fields else price_fields[0]
+    elif len(money_idx) >= 2 and price_fields:
+        # This corpus's near-universal convention is unit price left of
+        # total price (see resolve_duplicate_price_bands above).
+        if "unit_price" in price_fields:
+            assigned[money_idx[0]] = "unit_price"
+        if "total_price" in price_fields:
+            assigned[money_idx[-1]] = "total_price"
+
+    if wants_quantity:
+        qty_idx = [
+            i for i, texts in enumerate(cluster_texts)
+            if i not in assigned and classifies_as(texts, lambda t: parse_quantity(t).value is not None)
+        ]
+        if qty_idx:
+            assigned[qty_idx[0]] = "quantity"
+
+    remaining = [i for i in range(len(clusters)) if i not in assigned]
+    if wants_item_no and remaining and remaining[0] == 0:
+        assigned[0] = "item_no"
+        remaining = remaining[1:]
+
+    if not remaining or "description" not in field_order:
+        return None
+
+    bands = [ColumnBand(field=field, x0=clusters[i][0], x1=clusters[i][1]) for i, field in assigned.items()]
+    bands.append(ColumnBand(
+        field="description",
+        x0=clusters[remaining[0]][0],
+        x1=clusters[remaining[-1]][1],
+    ))
+
+    return bands
 
 
 def resolve_duplicate_price_bands(bands: list[ColumnBand]) -> list[ColumnBand]:

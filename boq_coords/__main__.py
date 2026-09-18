@@ -142,6 +142,25 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                 price_status = combine_price_status(up.status, tp.status)
                 currency = up.currency or tp.currency or ""
 
+                # A price cell that visibly spans several physical rows in
+                # the source table (ruled._spanned_price_ranges) still has
+                # its raw text attributed to whichever row segment_rows
+                # bucketed it into by y-centre - not necessarily the right
+                # item (see that function's docstring). Withhold the
+                # derived numeric value here rather than let a plausible-
+                # but-wrong number reach unit_price/total_price; the raw
+                # text is untouched (unit_price_raw/total_price_raw below)
+                # so it's never lost, just not attributed to this specific
+                # item. No redistribution across the spanned group is
+                # attempted - no precedent for that in this codebase, and
+                # splitting a stated price would fabricate a number the
+                # document never wrote.
+                is_spanned_price = "PRICE_CELL_SPANS_MULTIPLE_ROWS" in row.flags
+                unit_price_value = None if is_spanned_price else up.value
+                if is_spanned_price:
+                    total_price_value = None
+                    total_price_source = ""
+
                 # An item_no that isn't a single well-formed anchor (e.g.
                 # unsplit sub-items concatenated into "2 .1 .2 .3", or a
                 # stray non-numeric token swept in) is never emitted
@@ -170,7 +189,7 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     "quantity_raw": qty_raw,
                     "unit": pq.unit or "",
                     "unit_price_raw": canonical_raw(up),
-                    "unit_price": up.value if up.value is not None else "",
+                    "unit_price": unit_price_value if unit_price_value is not None else "",
                     "total_price_raw": canonical_raw(tp),
                     "total_price": total_price_value if total_price_value is not None else "",
                     "total_price_source": total_price_source,
@@ -178,12 +197,14 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     "currency": currency,
                     "raw_row_text": row.raw_row_text(),
                     "confidence": "HIGH",
-                    # Private input to validate.py's PRICE_CELL_SPANS_MULTIPLE_ROWS
-                    # rule (see ruled._spanned_price_ranges) - dropped from the
-                    # written CSV by emit.py's extrasaction="ignore", never a
-                    # real output column.
-                    "_price_cell_spans_multiple_rows":
-                        "PRICE_CELL_SPANS_MULTIPLE_ROWS" in row.flags,
+                    # Private inputs to validate.py's rules 7/8 (see
+                    # ruled._spanned_price_ranges and
+                    # rows._unheaded_continuation_rows) - dropped from the
+                    # written CSV by emit.py's extrasaction="ignore", never
+                    # real output columns.
+                    "_price_cell_spans_multiple_rows": is_spanned_price,
+                    "_continuation_bands_reinferred":
+                        "CONTINUATION_BANDS_REINFERRED" in row.flags,
                 }
                 out_row = apply_validation(out_row)
                 out_rows.append(out_row)

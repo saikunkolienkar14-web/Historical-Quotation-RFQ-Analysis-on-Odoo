@@ -82,9 +82,14 @@ output. It reuses v1's already-extracted `customer` /
 matching implementation). Scaled smoke-tested twice: 50 documents
 (2026-09-16, 49 unique PDFs after manifest dedup) then 200 documents
 (2026-09-18, 198 unique PDFs; 185 `RULED` / 13 `NO_BOQ_TABLE`).
-Figures held up, scaling roughly linearly with corpus size:
+Figures held up, scaling roughly linearly with corpus size. **Both runs
+below predate the 2026-09-18 price-bug fixes** (item counts, row counts,
+`PRICE_OUT_OF_RANGE`/`PRICE_CELL_SPANS_MULTIPLE_ROWS` figures) — see
+Future Work #2 below for the post-fix 200-doc numbers
+(2,374 items, `PRICE_OUT_OF_RANGE` down to 103 rows/11 docs, all 31
+spanned-price rows now correctly blank):
 
-| | 50-doc run | 200-doc run |
+| | 50-doc run | 200-doc run (pre-fix) |
 |---|---|---|
 | Documents / items | 49 docs / 641 items | 198 docs / 2,226 items |
 | All docs resolved a `quotations.csv` counterpart | yes (49/49) | yes (198/198) |
@@ -338,40 +343,55 @@ reaches here) — keep both in sync if the source changes again.
    golden set's stage-2 sampling round (35 more hand-labelled documents,
    `scripts/sample_golden.py`), and a decision on the LLM-fallback step
    for validation-failing rows (`validate.py`'s six rules already flag
-   which rows would need it). Smoke-tested at 50 docs (2026-09-12,
-   confirming the documented self-consistency numbers: 0% negative price,
-   100% arithmetic-ok on checkable rows, 100% raw-text traceability) then
-   again at 200 docs (2026-09-18, see the table above) — no new failure
-   mode appeared at 4x scale, and both known bugs below remain the only
-   ones tracked. Both are root-caused and documented in
-   `docs/COORDS_EXTRACTOR.md#known-limitations`:
-   - A continuation page whose table columns physically shift (e.g. a
-     "summary" table followed by a differently-laid-out "detailed spec"
-     table) gets its column bands reused verbatim, misreading a combined
-     qty+unit cell's leading digit as a price. **Already flagged**
-     (`PRICE_OUT_OF_RANGE` + `confidence=LOW`) — measured (2026-09-18,
-     200-doc sample) at 110 rows across 17 of 184 documents with a
-     detected table (9.2%), up from 7.6% at 50-doc scale.
-   - A merged/rowspan price cell in a ruled table (one price stated once
-     for a group of items) gets attributed to the wrong item in the
-     group by the row-boundary heuristic. This was silent
-     (`confidence=HIGH`, no flag) until 2026-09-12: `ruled.py` now
-     detects a price cell taller than ~1.4x its own row's other named
-     columns (comparing within the row, not against a table-wide
-     baseline — the first version of this check compared against a
-     corpus-wide median and over-flagged ordinary two-line-wrapped
-     prices, fixed before landing) and `validate.py` flags it
-     `PRICE_CELL_SPANS_MULTIPLE_ROWS`, `confidence=LOW`. Additive only —
-     it does not correct the attribution, only stops it from being
-     silently trusted. Measured (2026-09-18, 200-doc sample) at 31 rows
-     across 6 documents (3.3%). See
-     `docs/COORDS_EXTRACTOR.md#known-limitations`.
-   - New at 200-doc scale: `ITEM_NO_MALFORMED` is by far the most common
-     flag (509 of 725 flagged rows) — the row's own sequential index was
-     substituted for a non-clean item number (see `banded.is_clean_item_no`).
-     Not a new bug, just newly visible at this sample size; not yet
-     assessed for whether it clusters in a few documents or is spread
-     evenly. Worth a look before a full-corpus run.
+   which rows would need it). Smoke-tested at 50 docs (2026-09-12), then
+   200 docs (2026-09-18, see the table above) — no new failure mode
+   appeared at 4x scale.
+
+   **Both previously-known price bugs are now fixed, not just flagged**
+   (2026-09-18 — item-number handling was explicitly left out of scope
+   for this round). Full detail in
+   `docs/COORDS_EXTRACTOR.md#known-limitations`; summary:
+   - **Continuation-page column shift.** `columns.bands_capture_price()`
+     now gates `rows._unheaded_continuation_rows`: the parent table's
+     reused bands are kept unless they demonstrably don't fit the
+     continuation page's own words, and only then does
+     `columns.infer_bands_from_words()` recover real bands by clustering
+     words on x-gap significance and classifying each cluster by content
+     (money-parsing → price; `parse_quantity`-parsing → quantity, which
+     already handles an embedded unit like `"1 No."`) rather than
+     assuming a fixed column count. Measured (200-doc sample,
+     before → after): `PRICE_OUT_OF_RANGE` rows 110 → 103, documents
+     affected 17 → 11 (9.2% → 6.0%); the new
+     `CONTINUATION_BANDS_REINFERRED` flag fired on 670 rows across 45
+     documents (22.7%) with real quantity/unit/price recovered, not just
+     fewer flags; total extracted rows rose 2,226 → 2,374. Getting this
+     gate right took two iterations — an ungated version regressed a
+     previously-correct document (`Q2501N005`, no layout shift at all)
+     by replacing working bands with a worse inferred split; see
+     `bands_capture_price`'s docstring.
+   - **Merged/rowspan price cell.** `__main__.py` now withholds the
+     numeric `unit_price`/`total_price` on any row
+     `ruled._spanned_price_ranges` flags (raw text stays, per "raw stays
+     beside derived" below) — detection (landed 2026-09-12) is
+     unchanged, but the wrong-item attribution no longer survives into
+     the numeric fields. No redistribution of the spanned total across
+     the group's items is attempted (would fabricate a number the
+     document never wrote). Measured (200-doc sample): all 31 flagged
+     rows across 6 documents now have both numeric price fields blank.
+   - Self-consistency held after both fixes (200-doc sample): 0%
+     negative price, 100% raw-text traceability, arithmetic-ok on
+     checkable rows 98.0% (up from ~97%).
+   - Regression coverage: `tests/test_price_bug_fixes.py` (13 tests,
+     including real-document cases against the exact fixtures named
+     above — not just synthetic logic checks).
+
+   **Remaining before a full-corpus run:** `ITEM_NO_MALFORMED` is the
+   single most common flag at 200-doc scale (509 of 725 flagged rows in
+   the pre-fix run) — the row's own sequential index was substituted for
+   a non-clean item number (`banded.is_clean_item_no`). Not a new bug,
+   just newly visible at this sample size, and explicitly out of scope
+   for this round per user direction; not yet assessed for whether it
+   clusters in a few documents or is spread evenly.
 
 3. **Product-name standardization** — deferred from requirement 5
    (makes/models/units were done first). v1 has no product-name field;

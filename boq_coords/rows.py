@@ -5,15 +5,21 @@ find_header() both succeed - a continuation page that has no ruling/no
 repeated header (just more priced lines flowing from the previous page)
 won't produce its own TableRegion. This module bridges that gap: after
 gathering headered regions, it checks the page immediately following each
-region for unheaded continuation content using the SAME column bands (band
-x-edges are stable across pages here - confirmed empirically, every sampled
-page in this corpus is 595.32 x 841.92 with identical letterhead geometry).
+region for unheaded continuation content, preferring bands freshly
+inferred from that page's own words (columns.infer_bands_from_words) over
+the parent table's bands - most continuation pages do keep the same x-edges
+(every sampled page in this corpus is 595.32 x 841.92 with identical
+letterhead geometry), but a real subset shift layout mid-document, and
+reusing stale bands there misreads a combined qty+unit cell's leading
+digit as a price (see _unheaded_continuation_rows and
+docs/COORDS_EXTRACTOR.md#known-limitations).
 """
 from __future__ import annotations
 
 from dataclasses import dataclass
 
 from boq_coords.banded import LogicalRow, segment_rows
+from boq_coords.columns import bands_capture_price, infer_bands_from_words
 from boq_coords.geometry import Word
 from boq_coords.locate import (
     LETTERHEAD_BOTTOM_MIN_Y,
@@ -103,12 +109,26 @@ def _page_has_own_table_header(page) -> bool:
 
 
 def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[LogicalRow] | None:
-    """Try extracting rows from `page_no` using `region`'s bands directly,
-    with no header on this page - used when the immediately-following page
-    has no qualifying TableRegion of its own but visibly continues the
-    priced table (plan §Multi-page stitching, point 3: "no header ->
-    dropped, not emitted" refers to a REPEATED header; an ABSENT header is
-    the continuation signal itself)."""
+    """Try extracting rows from `page_no` with no header on this page -
+    used when the immediately-following page has no qualifying TableRegion
+    of its own but visibly continues the priced table (plan §Multi-page
+    stitching, point 3: "no header -> dropped, not emitted" refers to a
+    REPEATED header; an ABSENT header is the continuation signal itself).
+
+    Column bands: there's no header row here to rebuild bands from (no
+    columns.build_bands_from_table() call is possible), so this reuses
+    `region.bands` (this function's entire pre-fix behavior) UNLESS
+    columns.bands_capture_price() shows those bands demonstrably don't
+    fit this page's own words - only then does it fall back to
+    columns.infer_bands_from_words() to recover real bands. Order
+    matters here: trying inference first and using it whenever it looks
+    internally plausible was confirmed to regress a previously-working
+    document (Q2501N005 - see bands_capture_price's docstring) by
+    replacing perfectly good reused bands with a worse inferred split.
+    Reused bands failing is the actual bug signal
+    (docs/COORDS_EXTRACTOR.md#known-limitations: a combined qty+unit cell
+    sliding under a stale reused price band, its leading digit misread as
+    a price) - inference is a fallback for that failure, not a default."""
     if page_no >= doc.page_count:
         return None
     page = doc[page_no]
@@ -129,11 +149,20 @@ def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[
     if not words:
         return None
 
+    inferred_bands = None
+    if not bands_capture_price(words, region.bands):
+        field_order = [b.field for b in sorted(region.bands, key=lambda b: b.x0)]
+        inferred_bands = infer_bands_from_words(words, field_order)
+    bands = inferred_bands if inferred_bands is not None else region.bands
+
     ruling_ys = _ruling_line_ys(page, TableRegion(
-        page_no=page_no, table=None, header=region.header, bands=region.bands,
+        page_no=page_no, table=None, header=region.header, bands=bands,
         bbox=(x0, y_top, x1, y_bottom), score=0,
     ))
-    rows = segment_rows(words, region.bands, ruling_ys=ruling_ys or None)
+    rows = segment_rows(words, bands, ruling_ys=ruling_ys or None)
+    if rows and inferred_bands is not None:
+        for row in rows:
+            row.flags.append("CONTINUATION_BANDS_REINFERRED")
     return rows or None
 
 

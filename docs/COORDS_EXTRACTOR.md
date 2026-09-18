@@ -251,39 +251,51 @@ for the layout-stratified sampling methodology used to build it).
   the wrong item's row. In every observed instance this affects only the
   `description` text — item numbers, prices, quantities, make, and model
   have stayed correct on the same documents.
-- **Continuation page whose columns physically shift (flagged, not
-  silent).** `rows._unheaded_continuation_rows` reuses the ORIGINAL
-  region's column bands verbatim on an unheaded continuation page,
-  assuming the same x-positions still apply. On documents where a
-  "summary" table (page N, e.g. `Sr.No / Description / Qty / Unit Price /
-  Total Price`) is followed by a "detailed spec" table (page N+1+) that
-  crams the same fields into fewer, differently-positioned columns (e.g.
-  a combined `"1 No."` qty+unit cell and a single `"Quoted"` placeholder
-  covering both price columns, both physically shifted right of where the
-  original bands expect them), the reused bands split the merged cell
-  wrong: the leading digit of the qty+unit cell (`"1"`, `"20"`, `"80"`)
-  lands in `unit_price` instead, `quantity`/`unit` come out blank, and the
-  placeholder still correctly lands in `total_price`. **Confirmed
-  root-caused** on `Q24S10074_VOC_GC.pdf` (page 2 → 3) and
-  `Q25N10067*_Bechtel_RIL NMD*.pdf` (all 3 revisions) during a 50-document
-  smoke test (2026-09-12). Measured prevalence against the existing
-  `03f_structured_coords/quotation_items.csv` sample (198 documents): 35
-  rows across 15 documents (7.6% of that sample) carry the exact
-  signature (`PRICE_OUT_OF_RANGE:unit_price` with both `quantity` and
-  `unit` blank). **Not silent** — `validate.py`'s price-bounds rule
-  reliably catches the resulting sub-1000 "price" and flags
-  `confidence=LOW`, so these rows are already excluded by the
-  confidence-segmentation rule in `CLAUDE.md`. Fixing it at the source
-  would mean re-detecting column bands per continuation page (e.g. from
-  that page's own word-cluster geometry) rather than trusting the
-  original region's bands to still apply — a real design change, not a
-  one-line patch, and one that should be validated against the golden set
-  before landing (see Future work in `PROJECT_NOTES.md`).
+- **Continuation page whose columns physically shift — fixed 2026-09-18.**
+  `rows._unheaded_continuation_rows` used to reuse the ORIGINAL region's
+  column bands verbatim on an unheaded continuation page, assuming the
+  same x-positions still applied. On documents where a "summary" table
+  (page N, e.g. `Sr.No / Description / Qty / Unit Price / Total Price`)
+  is followed by a "detailed spec" table (page N+1+) that crams the same
+  fields into fewer, differently-positioned columns (e.g. a combined
+  `"1 No."` qty+unit cell and a single `"Quoted"` placeholder covering
+  both price columns), the reused bands split the merged cell wrong: the
+  leading digit landed in `unit_price`, `quantity`/`unit` came out blank.
+  **Confirmed root-caused** on `Q24S10074_VOC_GC.pdf` (page 2 → 3) and
+  `Q25N10067*_Bechtel_RIL NMD*.pdf` (all 3 revisions).
+
+  **Fix:** `columns.bands_capture_price()` first checks whether the
+  reused bands' price field(s) already parse as money on this page's own
+  words - if so, they're left alone (confirmed necessary: unconditionally
+  reinferring even when the reused bands already work regressed a
+  previously-correct document, `Q2501N005` - see that function's
+  docstring). Only when the reused bands demonstrably don't fit does
+  `columns.infer_bands_from_words()` run: it clusters words by x-gap
+  significance (not a fixed column count - the real bug shape is fewer,
+  compressed columns, not just shifted ones) and classifies each cluster
+  by its own content (money-parsing → a price column;
+  `money.parse_quantity`-parsing, which already recognizes an embedded
+  unit like `"1 No."` → quantity) rather than by position alone. Returns
+  `None` — never a confident-but-wrong guess — whenever no cluster
+  classifies as a price column but one was expected; the caller falls
+  back to the reused bands exactly as before the fix.
+
+  Measured on a 200-document sample (2026-09-18, before → after this
+  fix): `PRICE_OUT_OF_RANGE` rows 110 → 103, documents affected 17 → 11
+  (9.2% → 6.0% of documents with a table). The new
+  `CONTINUATION_BANDS_REINFERRED` flag fired on 670 rows across 45
+  documents (22.7% of the sample) - real quantity/unit/price recovered
+  on rows that previously had none, not just fewer flags; total
+  extracted rows rose 2,226 → 2,374 as previously merged/dropped items
+  split out correctly. Self-consistency held (0% negative price, 100%
+  raw-text traceability, arithmetic-ok on checkable rows 98.0%, up from
+  ~97%). Confirmed via a real-document regression test,
+  `tests/test_price_bug_fixes.py`.
 - **Merged/rowspan price cell in a "summary" table attributed to the
-  wrong item — now flagged, not fixed at the source.** When a ruled
-  table's price column is a single cell spanning several item rows (the
-  document states one price once, for a small group of items, rather than
-  per-row — confirmed via `page.find_tables()`'s own
+  wrong item — detection landed 2026-09-12, corrected 2026-09-18.** When
+  a ruled table's price column is a single cell spanning several item
+  rows (the document states one price once, for a small group of items,
+  rather than per-row — confirmed via `page.find_tables()`'s own
   `table.rows[i].cells` structure, where the merged cell is non-`None`
   only on the first row of the span and `None` on the rows below it),
   `banded.segment_rows` still assigns the price text to whichever
@@ -293,26 +305,28 @@ for the layout-stratified sampling methodology used to build it).
   `Q24S10074_VOC_GC.pdf`: the source table states one price (₹96,50,000)
   once, spanning the rows for items 1–4 ("Gas Chromatograph with SHS"
   through "Sample heat tracer line"); the pipeline attributes it entirely
-  to item 3 ("Sample Probe") instead. This used to be silent
-  (`confidence=HIGH`, no `validation_error`) — **fixed by adding a
-  detection-only rule, not by correcting the attribution**:
+  to item 3 ("Sample Probe") instead.
+
   `ruled._spanned_price_ranges` reads `region.table.rows[i].cells`
   directly and flags a price cell as spanned when it is taller than
   ~1.4× the height of that SAME row's other named columns (item_no,
   description, quantity, ...) — comparing within the row, not against a
   table-wide baseline, so an ordinary row whose price genuinely wraps to
   two lines (matching that row's own equally-tall siblings) is not
-  flagged. `rows_from_region` then marks every `LogicalRow` whose own
-  y-range falls inside a spanned cell's range, and
-  `validate.py`'s new `PRICE_CELL_SPANS_MULTIPLE_ROWS` rule turns that
-  into `confidence=LOW` — purely additive, never changes any emitted
-  value. Confirmed on a 50-document smoke test (2026-09-12, before/after
-  the fix) to catch the known case and, after excluding a phantom
-  unnamed border-column from the row baseline (a real false-positive
-  found in the same smoke test — see `Q25AKIC10080_Blue
-  NH3_LINDE_20012025.pdf`), not to over-flag ordinary two-line-wrapped
-  prices. **The wrong-item attribution itself is not corrected** — that
-  would mean redesigning row-boundary derivation to recognize spans, a
-  bigger change that should wait for golden-set validation; for now the
-  row is simply and reliably marked for human review instead of silently
-  trusted.
+  flagged. This detection landed 2026-09-12 as flag-only
+  (`confidence=LOW`, `PRICE_CELL_SPANS_MULTIPLE_ROWS`) — the wrong-item
+  attribution itself was left uncorrected, so a plausible-but-wrong
+  number still reached `unit_price`/`total_price`.
+
+  **Fixed 2026-09-18:** `__main__.py` now withholds the numeric
+  `unit_price`/`total_price` on any row `_spanned_price_ranges` flags -
+  the raw text stays (`unit_price_raw`/`total_price_raw`, per this
+  project's "raw stays beside derived" rule) on whichever row the
+  y-centre bucketing actually attributed it to, but the derived number is
+  never trusted on a row this uncertain. **No redistribution of the
+  spanned total across the group's items is attempted** - no precedent
+  for that in this codebase, and splitting a stated price would fabricate
+  a number the document never wrote; a flagged row is honestly priceless,
+  not silently wrong. Confirmed on the 200-document sample (2026-09-18):
+  all 31 flagged rows across 6 documents now have both numeric price
+  fields blank. See `tests/test_price_bug_fixes.py`.
