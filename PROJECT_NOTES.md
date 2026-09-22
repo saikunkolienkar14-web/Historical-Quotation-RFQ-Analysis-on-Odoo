@@ -420,6 +420,80 @@ reaches here) — keep both in sync if the source changes again.
    for this round per user direction; not yet assessed for whether it
    clusters in a few documents or is spread evenly.
 
+   **Full-corpus extraction run completed 2026-09-21** (3,586 documents,
+   21,067 rows). Self-consistency held at full scale, matching the
+   300-doc sample: 0% negative price, 99.15% arithmetic-ok (of 7,543
+   checkable), 100.00% raw-text traceability. `RULED` 3,323 /
+   `NO_BOQ_TABLE` 263.
+
+   **Discovered and fixed during the full-corpus run: `Downloads/` (v1's
+   input) and `Quotation PDFs/raw/` (boq_coords' input) had diverged into
+   two different, only-partially-overlapping source trees** — 3,825 vs.
+   3,551 PDFs, only 2,890 in common. 661 PDFs existed only in
+   `Quotation PDFs/raw/`; since `match_customers_coords.py` borrows
+   `customer`/`quotation_number` from v1's `quotations.csv` rather than
+   re-extracting them, every one of those 661 documents (95% dated 2026)
+   came back `customer_match_status=MISSING` — a document-level MISSING
+   rate of 22.5% of the full corpus, well above v1's own ~4% baseline.
+   Root-caused by directly diffing the two folders and confirming 0 of
+   the 657 affected coords documents existed anywhere under `Downloads/`
+   — a v1 re-run alone, without addressing the source divergence, would
+   have fixed nothing.
+
+   Fixed by: (1) copying the 662 raw-only PDFs into `Downloads/`
+   (preserving their `Quotation PDFs/raw/<folder>/` structure; originals
+   in both locations untouched, nothing deleted), taking `Downloads/`
+   to 4,538 PDFs; (2) running `quotation_pdf_preprocessor.py` over the
+   merged set (4,538/4,538 succeeded, 36 image-based/OCR); (3) running
+   `quotation_parser_v1.py` **pointed directly at
+   `Quotation_Preprocessed/text/`** rather than its usual
+   `03_preprocessed_text_2/` input, since stages 2-3
+   (`preprocess_quotation_text.py`, `"remove_repeated _messagev2.py"`)
+   are missing from this checkout (see the note below) — customer name
+   and quotation number are both extracted from only the first ~80 lines
+   of a document, before where letterhead/footer boilerplate repeats, so
+   skipping the cleaning stages doesn't meaningfully affect the one thing
+   this catch-up run needed (`quotations.csv`'s `customer` /
+   `quotation_number` columns); BOQ item quality in v1's *own* output for
+   the newly-added documents may be lower than the rest of the corpus as
+   a result, but that doesn't reach `boq_coords`, which extracts items
+   independently. `INPUT_FOLDER` was reverted to
+   `Quotation_Data/03_preprocessed_text_2` immediately after this one run.
+   `quotation_parser_v1.py`'s prior output was backed up to
+   `Quotation_Data/_backup_2026-09-21_03_structured_current_prev/` first.
+
+   Re-running `match_customers_coords.py` + `build_knowledge_bank_coords.py`
+   against the refreshed `quotations.csv` (4,538 rows, up from 3,876)
+   closed the gap completely:
+
+   | | Before fix | After fix |
+   |---|---|---|
+   | coords docs with no `quotations.csv` match | 657 | **0** |
+   | Document-level MISSING | 807 (22.5%) | **166 (4.6%)** |
+   | Item-level MISSING | 4,178 (19.8%) | **983 (4.7%)** |
+   | RFQ_MATCH (items) | 10,253 | **12,736** |
+   | `date_source=NONE` (items) | 3,766 | **454** |
+
+   MISSING now sits close to v1's own ~4% baseline, as expected once the
+   two source trees were reconciled. **Note for the next full run of the
+   main (non-coords) pipeline**: `03_structured_current/quotations.csv`
+   and `quotation_items.csv` now reflect the temporary
+   `Quotation_Preprocessed/text/`-input run (4,538 docs) rather than the
+   documented `03_preprocessed_text_2/` path — re-running
+   `odoo_match_customer/match_customers.py` → `build_knowledge_bank.py`
+   would pick this up too, which is probably desirable (same corpus gap
+   affects the main join) but hasn't been done as part of this round.
+
+   **Missing pipeline scripts, still unresolved.**
+   `preprocess_quotation_text.py` and `"remove_repeated _messagev2.py"`
+   (documented stages 2-3) do not exist anywhere in this checkout, even
+   though their output folders (`02_clean_text/`, `03_preprocessed_text_2/`)
+   do — confirmed a second time during this round. The pipeline cannot be
+   reproduced end-to-end from a fresh clone until these are restored from
+   wherever they last ran, or rewritten. Not blocking day-to-day work
+   (the catch-up run above worked around it for one narrow purpose), but
+   flagged here so it doesn't get lost.
+
 3. **Product-name standardization — landed 2026-09-18 as a starter,
    needs domain review.** `product_family` / `product_family_basis`
    (`knowledge_bank/product_family.py`) check `model_canonical` against
