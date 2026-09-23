@@ -1,0 +1,735 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION. In reference to 
+the same, please find enclosed our quotation for Design & Engineering, Manufacturing 
+and Supply of analyser system as per your requirement. 
+ 
+TECHNICAL OFFER 
+ 
+ADAGE QUOTE REF: 
+Q25X10037R1 
+DATED : 06.01.2026 
+BID TYPE : Firm 
+PROJECT TITLE: 
+MRQ for DEW POINT & MOISTURE ANALYZER FOR PTA7 PROJECT 
+INQUIRY DETAILS: 
+RFQ No: JT-G25P08-D1GPT-JN0015-CTI-Q-10 
+CUSTOMER: 
+
+Kind Attention : 
+CTCI Beijing Co., Ltd 
+END USER: 
+
+Reliance Industries Limited, DMD 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Clarifications/Assumptions 
+SECTION-2: Revision History 
+SECTION-3: Technical Literature 
+SECTION-4: Scope Definition 
+
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr. Himanshu Kapoor 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9460219551 
+Himanshu@adage-automation.com 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+
+SECTION 1 : CLARIFICATIONS/ASSUMPTIONS 
+ 
+This covers the outlines offering philosopy and considerations in our 
+detailed offer. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 1: ASSUMPTIONS/CLARIFICATIONS 
+
+1. CTCI will provide single point UPS(2 hrs), Non UPS feeder connectivity near analyser rack 
+assembly, further distribution in analyser cabinet will be done by Adage. 
+ 
+2. CTCI will provide all utility and process headers near analyser rack assembly, further distribution 
+shall be done by Adage. 
+ 
+3. Wetted part MOC of Sample line for moisture tags shall be SS316 with EP coating. 
+ 
+4. All field mounted SHS cabinets shall be SS316 
+ 
+5. Power distribution boxes shall be of FCG / Flexpro / Stahl/ flameproof make. 
+ 
+6. All Cable gland shall be Brass with Ni/Cr plated Flameproof, double compression type. 
+ 
+7. Analyser shall be installed near to the process such as 10meters. 
+ 
+8. Sample shall be return to ATM Vent/Low pressure flare header assembly. 
+ 
+9. Easidew Series 4-20mA analogue output is available instead of HART output. 
+ 
+10. 4-20mA and RS485 output is available in 5100HD TDLAS Analyser instead of HART 
+ 
+11. Response time of the Easidew Series Moisture Sensor is T63 <10 sec. and T90 is up to 4 minutes. 
+ 
+12. Response time of TDLAS 5100HD analyser is T90<60 Seconds 
+ 
+13. As per OEM in Al2O3 only PPM measurement is possible. Hence we have quoted a TDLAS type 
+moisture analyser Model 5100HD Make : Ametek for 0-5% range. 
+ 
+14. For Tag number 107-AT-13802 2 Analysers are consider as per below:- 
+ 
+1 No. TDLAS Analyser for % measurement 
+1 No. Al2O3 Analyser for ppm measurement 
+ 
+15. Accuracy for TDLAS type Moisture analyser for 0-5% range is 2% FSR. 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+
+ 
+
+SECTION 2 : REVISION HISTORY 
+ 
+ This covers the offer revision history with remarks. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Revision History 
+ 
+Rev No. 
+Date 
+Revision Details 
+R0 
+12.12.2025 
+Initial submission – Technical offer 
+R1 
+06.01.2026 
+R1 Submission after observation from CTCI vide email dated 24.12.2025 and 
+26.12.2025(Changes highlighted in Yellow) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+SECTION 3 : TECHNICAL LITERATURE 
+ 
+ This covers the detailed offer & SOW for the complete package. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SUMMARY OF ANALYZERS IN FIELD RACK ASSEMBLY 
+ 
+Sr. No. Tag No. 
+Description 
+Make and Model Qty 
+Price 
+1.1 
+107-AT-01121 
+Moisture Analyser System for 
+C7-155A Expander Outlet 
+Moisture 
+Ametek 
+5100HD 
+1 No. 
+Quoted 
+1.2 
+107-AT-13802 
+2 Stream Moisture Analyser 
+System for Hydrogen from CA 
+Moisture 
+Ametek 
+5100HD (for % 
+Measurement) 
+ 
+Michell 
+Easidew Series 
+(for PPM 
+Measurement) 
+1 No. 
+Quoted 
+1.3 
+107-AT-61121 
+Moisture Analyser System for 
+C7-155B Expander Outlet 
+Moisture 
+Ametek 
+5100HD 
+1 No. 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+DETAILED OFFER OF ANALYZERS MOUNTED ON 
+FIELD SKID 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+S.N. 
+Item Description 
+Qty. 
+Price (INR) 
+1 
+TDLAS Moisture Analyzer 
+Tag Nos: 107-AT-01121 
+Service: C7-155A Expander Outlet Moisture 
+Model: 5100HD 
+Make: Ametek 
+Hazardous Area Classification: Zone 2, IIC 
+Type: TDLAS 
+Measurement Component: H2O 
+Measurement Range: 0-5% 
+Accuracy: 2%FSR 
+
+Return Details: ATM Vent 
+1 No. 
+
+Quoted 
+1.A 
+Sample Probe: 
+- 
+1.5’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No. 
+
+Quoted 
+1.B 
+Sample Transportation Line 
+- 
+1/4’’ SS316 HTT+EP Line – 10 Meters 
+ 
+1 Lot 
+Quoted 
+1.1c 
+Sample Handling system as below: 
+- 
+Isolation Ball Valves, Air Filter regulators for Utility connections 
+- 
+Sample Isolation Valve 
+- 
+SHS components are mounted on Field rack assembly 
+ 
+All Make shall Be as per RIL AVL 
+1 Lot 
+Quoted 
+1.1d 
+Field Rack Assembly with canopy 
+- 
+Above sample handling system with Analyser unit shall be 
+mounted on a MS painted skid 
+- 
+With signal JB 
+- 
+With Power supply Ex-d JB 
+- 
+With Utility headers 
+All Make shall Be as per RIL AVL 
+1 Lot 
+Quoted 
+2. 
+TDLAS Moisture Analyzer for % Measurement 
+Tag Nos: 107-AT-13802 
+Service: Hydrogen from CA Moisture 
+Model: 5100HD 
+Make: Ametek 
+Hazardous Area Classification: Zone 2, IIC 
+Type: TDLAS 
+Measurement Component: H2O 
+1 No. 
+
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Measurement Range: 0-5% 
+Accuracy: 2%FSR 
+
+Return Details: ATM Vent 
+ 
+TDLAS Moisture Analyzer for PPM Measurement 
+Tag Nos: 107-AT-13802 
+Service: Hydrogen from CA Moisture 
+Model: Easidew pro 
+Make: Michell 
+Hazardous Area Classification: Zone 2, IIC 
+Type: Al2O3 
+Measurement Component: H2O 
+Measurement Range: 0-5ppm 
+Accuracy: ±2°C dew point 
+
+Return Details: ATM Vent 
+
+2.A 
+Sample Probe: 
+- 
+1.5’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+2 Nos. 
+
+Quoted 
+2.B 
+Sample Transportation Line 
+- 
+1/4’’ SS316 HTT+EP Line – 10 Meters x 2 
+1 Lot 
+Quoted 
+2.C 
+Sample Handling system as below: 
+- 
+Isolation Ball Valves, Air Filter regulators for Utility connections 
+- 
+Sample Isolation Valve, Three-way Ball Valve, Flow cell 
+assembly for Al2O3 Moisture, Rotameter 
+- 
+SHS components are mounted on Field rack assembly 
+ 
+All Make shall Be as per RIL AVL 
+1 Lot 
+Quoted 
+2.D 
+Field Rack Assembly with canopy 
+- 
+Above sample handling system with Analyser unit shall be 
+mounted on a MS painted skid 
+- 
+With signal JB 
+- 
+With Power supply Ex-d JB 
+- 
+With Utility headers 
+All Make shall Be as per RIL AVL 
+1 Lot 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+3 
+TDLAS Moisture Analyzer 
+Tag Nos: 107-AT-61121 
+Service: C7-155B Expander Outlet Moisture 
+Model: 5100HD 
+Make: Ametek 
+Hazardous Area Classification: Zone 2, IIC 
+Type: TDLAS 
+Measurement Component: H2O 
+Measurement Range: 0-5% 
+Accuracy: 2%FSR 
+
+Return Details: ATM Vent 
+
+3.A 
+Sample Probe: 
+- 
+1.5’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+2 Nos 
+Quoted 
+ 
+3.B 
+Sample Transportation Line 
+- 
+1/4’’ SS316 HTT+EP Line – 10 Meters 
+1 Lot 
+Quoted 
+3.C 
+Sample Handling system as below: 
+- 
+Isolation Ball Valves, Air Filter regulators for Utility connections 
+- 
+Sample Isolation Valve 
+- 
+SHS components are mounted on Field rack assembly 
+ 
+All Make shall Be as per RIL AVL 
+1 Lot 
+Quoted 
+3.D 
+Field Rack Assembly with canopy 
+- 
+Above sample handling system with Analyser unit shall be 
+mounted on a MS painted skid 
+- 
+With signal JB 
+- 
+With Power supply Ex-d JB 
+- 
+With Utility headers 
+All Make shall Be as per RIL AVL 
+1 Lot 
+Quoted 
+4 
+Startup & Commissioning spares for Moisture analyzer 
+• 
+Filter Element X 1 No 
+• 
+Oring Set for TDLAS Analyser X 1 No. 
+1 Set 
+Quoted 
+5 
+Mandatory spares for Moisture analyser 
+• 
+Complete Moisture Probe Assembly X 1 No. 
+• 
+Display Keyboard for TDLAS Analyser X 1 No. 
+• 
+PCB customer Connection Board X 1 No. 
+• 
+PCB Detector 5100 X 1 No. 
+• 
+Power Supply 180W 7.5AX24VDC X 1 No. 
+1 Set 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+6 
+Supervision of installation & commissioning 
+ 
+Lumpsum 
+Quoted 
+7 
+Packing & Forwarding charges 
+1 No 
+Quoted 
+8 
+Transportation up to Site charges 
+1 No 
+Quoted 
+7 
+Project documentation 
+1 No 
+Quoted 
+8 
+FAT at Goa works 
+1 No 
+Quoted 
+9 
+Training at Goa works 
+1 No. 
+Quoted 
+10 
+Training at Site 
+1 No. 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: SCOPE DEFINITION 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of 
+complete analyzer system, Site acceptance test for analyzer package shall be as per MR. 
+• 
+All Analyzerscomplete with all hardware, software and necessary accessories 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analyzersand Shelter & accessories (as per Commercial 
+Terms) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyzer system 
+• 
+Supply of spares and consumables as per MR requirements (If ordered) 
+• 
+Training at site as per MR requirements (If ordered). 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation 
+of Analyzers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, pre-fabricated 
+electrical traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer shelter 
+& sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzer Shelters/Cabinets/Racks, Internal Shifting from 
+Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of field Cable and cable trays for Power supply / analog and Digital signal / serial 
+communication cables/field tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery 
+limit near each Analyzer Shelter/Cabinet/Rack in field.

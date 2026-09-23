@@ -1,0 +1,124 @@
+Quotation Number: Q25G10077R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit price (INR)
+1
+Ethylene Analyser
+1 No.
+92,50,000/-
+H2 Analyser
+1 No.
+1.1
+Heated Sample Handling System
+1 No.
+1.2
+Analyzer Cabinet with Ex-proof AC
+1 No.
+2
+FAT at Adage Factory
+1 Lot
+Inclusive
+3
+Packing, forwarding & transportation up to
+Site charges
+1 Lot
+1,50,000/-
+4
+Supervision of installation &
+commissioning
+Lumpsum
+2,00,000/-
+5
+Project Documentation
+1 Lot
+Inclusive
+6
+1⁄4” OD SS316 HTT Tube
+Per Meter
+4,500/-
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+Ethylene and H2 Analyser
+Tag Numbers: AT- 1601.1, AT-1601.2
+Analyzer No 1 for C2H4: Ultramat 6F
+Measuring principle: NDIR
+Make: SIEMENS
+Hazardous Area classification: Zone 2 IIC
+IP Rating: IP65
+Analyzer No 2 for H2: Calomat 6F
+Measuring principle: TCD
+Make: SIEMENS
+Hazardous Area classification: Zone 2 IIC
+IP Rating: IP65
+Process Condition
+-
+Temperature (Nor): 85 deg C
+-
+Pressure (Nor): 8 bar
+Fast-loop sample vent to flare header
+Measuring Ranges:
+-
+C2H4: 0-100 Vol%
+-
+H2: 0-100 Vol%
+Analyzer Outputs for H2:
+-
+4-20 mA Analog output
+-
+RS – 485 Modbus Serial output
+-
+Fault Alarms.
+Analyzer Outputs for Ethylene:
+-
+4-20 mA Analog output
+-
+RS – 485 Modbus Serial output
+-
+Fault Alarms.
+Utilities Required:
+-
+Power supply: 110 VAC, 50HZ UPS Power supply
+-
+5- 6 Kg/cm2 Instrument Air, Free of Oil, Dust &
+Moisture
+1 Set.
+Quoted
+1.1
+Sample Probe (Common for C2H4 and H2)
+-
+Fixed probe with welded isolation valve
+-
+1.5’’ 300# RF Flange
+1 Lot
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+1.2
+Sample Line (Common for C2H4 and H2)
+-
+1⁄4” SS316 HTT line : per meter
+Per mtr.
+Quoted
+1.3
+Heated Sample Handling system (Common for C2H4
+and H2) :
+-
+Shall consist of Ball valve, Pressure indicator, Fast
+loop filter, flowmeter for Bypass, NRV, Pressure
+regulator, flowmeter with low flow switch x 2, fine
+filter x 2
+-
+SHS components shall be mounted inside SS304
+heated enclosure.
+Note
+- All field power and signal cables shall be in customer’s

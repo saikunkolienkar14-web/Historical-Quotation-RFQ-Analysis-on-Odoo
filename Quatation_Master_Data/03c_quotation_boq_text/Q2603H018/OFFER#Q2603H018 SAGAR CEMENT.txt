@@ -1,0 +1,75 @@
+Quotation Number: Q2603H018
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+CALORIFIC VALUE ANALYSER
+Service : Syn Gas
+Model : CWD Basic
+Make: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring range:
+• Calorific value: 0 - 2390 kcal/m3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for handling
+Impurities such as Tar, Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump,
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack, MOC: CRCA.
+Analyser Specifications:
+Calorimeter Type CWD- for Measurement of Calorific Value
+•
+Kind of Gas: Syn Gas
+•
+Power supply 230VAC, 50 Hz
+Output:
+•
+Individual 4-20 mA analog output for Calorific value
+•
+Digital Outputs
+Note : The primary SHS should be kept as close as possible to the sampling
+location.
+1 SETS
+73,10,000 73,10,000
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS,Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+@ 4200 PER METER
+3
+Service charges for supervision of installation & commissioning
+Lodging and boarding to be arranged by the customer. To and Fro charges to
+be claimed at actuals (ACII TIER/flight).
+@30000 PER MAN DAY
+Features of the offered system.
+Analyzer system offered with primary SHS consisting of diesel bubbler, water bubbler and knock out drum
+for removal of rugged impurities like tar , naphthalene there by allowing only pure sample to enter into the
+analyser there by increasing the reliability of the offered system .
+Direct Measurement Principle: Utilizes combustion-based measurement, ensuring accurate determination of
+actual calorific value (CV) rather than calculated estimates.
+High Accuracy for Variable Gas Composition: Reliable performance even with fluctuating or unknown gas
+mixtures such as coke oven gas, blast furnace gas, and syngas.
+No Cross Sensitivity: Measures total energy content of the gas, eliminating errors due to individual gas
+component interference.
+Robust Design for Harsh Conditions: Suitable for dirty and contaminated gases, resulting in reduced
+maintenance requirements.
+Continuous Real-Time Analysis: Provides fast and continuous CV output for effective process monitoring and
+control. Wide Application Range: Capable of handling low and high calorific value gases with optional
+support gas arrangement.
+Low Maintenance & Operating Cost: Simple design without complex components like gas chromatographs,
+leading to lower lifecycle costs.Safe Operation: Enclosed combustion system with no open flame and no gas
+emissions ensures high operational safety.

@@ -1,0 +1,118 @@
+Quotation Number: Q25G10117R0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+A
+1 No
+Analyser Shelter (AH-1)
+Quoted
+Quoted
+1
+1 No
+GC - 306-AT-1201
+Quoted
+Quoted
+B
+1 No
+Analyser Shelter (AH-2)
+Quoted
+Quoted
+2
+1 No
+GC - 302-AT-2601
+Quoted
+Quoted
+3
+1 No
+GC - 302-AT-2701
+Quoted
+Quoted
+4
+1 No
+GC - 305-AT-2701 (Lighter HC)
+Quoted
+Quoted
+5
+1 No
+GC - 305-AT-2701 (Total Sulfur + Oxygenates)
+Quoted
+Quoted
+6
+1 No
+GC - 305-AT-2701(NH3)
+Quoted
+Quoted
+7
+1 No
+GC - 305-AT-2701 (Arsine + Phosphine)
+Quoted
+Quoted
+8
+1 Lot
+Design Engineering & Project Documentation
+Quoted
+Quoted
+9
+1 Lot
+FAT at Adage Works
+Quoted
+Quoted
+10
+1 Lot
+Training at Site for 5 Man-days in 3 batches
+Quoted
+Quoted
+11
+1 Lot
+Packing, Forwading & Transportation upto Site
+charges
+Quoted
+Quoted
+12
+Per Diem Supervision of installation & commissioning
+Quoted
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Item
+Qty
+Description
+Unit Price
+Total Price
+13
+1 Set
+Startup & Commissioning spares
+Quoted
+Quoted
+14
+1 Lot
+Consumable spares
+Quoted
+Quoted
+15
+1 Set
+Mandatory spares
+Quoted
+Quoted
+16
+1 Set
+2 Years O&M spares
+Quoted
+Quoted
+17
+1 Lot
+PWCAMC for 3 years
+Quoted
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. All Makes shall be as per EIL Approved vendor list.
+2. Standard power and signal cables upto battery limit of Analyser Shelter by L&T. Further internal

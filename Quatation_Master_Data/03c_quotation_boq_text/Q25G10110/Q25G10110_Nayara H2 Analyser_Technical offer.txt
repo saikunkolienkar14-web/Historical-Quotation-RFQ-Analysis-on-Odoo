@@ -1,0 +1,164 @@
+Quotation Number: Q25G10110
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+H2 Analyser
+Quoted
+Quoted
+2
+1
+Supervision of installation & Commissioning
+Quoted
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+Hydrogen Analyser
+Make: Siemens
+Model: Calomat 6E
+Hazardous Area Classification: Zone 2 llB , T3
+Mounting Location: Inside Analyzer cabinet
+Phase : Gas
+Measuring Range: 0-1%
+Ambient Temperature: 5 – 45 °C (Customer To Confirm)
+IP Rating: IP20
+Process Conditions at sample Inlet
+-
+Temperature (Op): 39°C
+-
+Inlet Pressure (Op): 2.3 kg/cm2g
+-
+Sample Vent to Common ATM Vent header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Utilities Required:
+-
+230 VAC 50Hz UPS Power Supply
+-
+Instrument air @5-6 Kg/cm2.
+Notes
+-
+Field Power and signal cables upto Analyser cabinet shall be
+provided by customer. Further distribution is in Adage
+scope.
+-
+4-20mA analog output shall be provided upto analyzer
+cabinet.
+1 No
+Quoted
+1.1
+Sample Probe
+-
+Fixed probe with isolation valve
+-
+MOC: SS316
+1 No
+Quoted
+1.2
+Sample Transportation Tube
+-
+1/4’’ SS316 Line for supply, Qty: 10 Meters
+10 mtrs
+Quoted
+1.3
+Sample Handling system
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass
+1 No
+Quoted
+rotameter, Sample Rotameter with low flow switch, NRV,
+SRV, fine filter, etc
+-
+SHS components shall be mounted inside Analyser Cabinet
+on a plate.
+1.4
+Calibration cylinders
+-
+10L calibration cylinder (1+1) with double stage cylinder
+regulator.
+1 No
+Quoted
+1.5
+Analyser cabinet:
+-
+800mm x 800mm x 2100mm (Approx dimension),
+MOC: SS316 2mm thick
+-
+With JBs
+-
+PDB
+1 Set
+Quoted
+SECTION 3: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares
+Yes
+6
+Supply of Mandatory spares- OPTIONAL
+7
+Consumables spares- OPTIONAL
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+17
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+18
+Supply of 2 years O&M spares - OPTIONAL
+19
+Training at Site- OPTIONAL
+20
+Training at Goa facility- OPTIONAL
+21

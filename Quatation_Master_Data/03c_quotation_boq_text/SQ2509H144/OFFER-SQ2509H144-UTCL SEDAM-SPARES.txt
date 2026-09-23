@@ -1,0 +1,113 @@
+Quotation Number: SQ2509H144
+BOQ Status: FOUND
+
+Date: 04-09-2025
+Ref: Q25260285-SQ2509H144
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+5.00
+27,122.00
+135,610.00
+1
+Nos.
+PUMP, DIAPHRAGM;
+TYPE: SAMPLE GAS, FLOW RATE:
+25 L/MIN, OPERATING PRESSURE:
+25 PSI;
+FFT: W/PTFE INTERNALS,
+MAXIMUM VACUUM: 22 HG,
+FREQUENCY: 50 HZ;
+MANUFACTURER: TECHNICS,
+MODEL NO: TID-15
+Nos.
+10.00
+20,475.00
+204,750.00
+3
+Nos
+28209010
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (White Color) MOC
+PTFE
+100.00
+447.00
+44,700.00
+4
+Mtrs
+100.00
+5,355.00
+535,500.00
+5
+Nos
+48519036
+Sample Gas Cooler with Dual Gas
+Path Heat Exchanger 230 VAC, 50 Hz
+without Perilstatic Pump
+4.00
+99,750.00
+399,000.00
+6
+Nos.
+18710001
+Condensate Monitor
+4.00
+18,475.00
+73,900.00
+7
+Nos
+48519036
+Sample Gas Cooler with Dual Gas
+Path Heat Exchanger 230 VAC, 50 Hz
+without Perilstatic Pump
+4.00
+99,750.00
+399,000.00
+8
+2
+REGRET
+5.00
+REGRET
+REGRET
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+28708004
+Neoprene Tube For Peristaltic Pump
+Date: 04-09-2025
+Ref: Q25260285-SQ2509H144
+Nos.
+18710001
+Condensate Monitor
+4.00
+18,475.00
+73,900.00
+9
+Nos
+20.00
+28,004.00
+560,080.00
+10
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+20.00
+2,835.00
+56,700.00
+11
+Packets
+18901002
+Acid Filter Body Moulded Glass with
+TEFLON/PTFE & Viton O Ring With
+filter element
+Date: 04-09-2025
+Ref: Q25260285-SQ2509H144

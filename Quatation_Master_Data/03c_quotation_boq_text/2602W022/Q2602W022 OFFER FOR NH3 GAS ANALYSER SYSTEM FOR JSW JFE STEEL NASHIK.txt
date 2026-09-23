@@ -1,0 +1,87 @@
+Quotation Number: Q2602W022
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+TUNABLE LASER DOIDE GAS ANALYSER SYSTEM FOR
+MEASURMENT OF NH3 AT FURNACE
+PRINCIPLE: TUNABLE LASER DIODE SPECTROMETER
+MAKE: AIROPTICS
+MODEL: GAS EYE
+ENCLOSURE RATING: IP66 RATED
+MOUNTING LOCATION:
+ANALYSER TRASNMITTER RECEIVER UNIT ON SKID
+AREA CLASSIFICATION: SAFE
+MEASURING COMPONENT:
+1. NH3 (RANGE: 0- 5 %) FOR 2 TAPPINGS
+2. NH3 (RANGE: 0- 500 PPM) FOR 3 TAPPINGS
+PROCESS CONDITION:
+TEMPERATURE (Op/DESIGN): 750-900 DEG
+PRESSURE (Op/DESIGN): 5 mmWc
+WITH 5 NO SAMPLE TAPPING
+WITH SAMPLE HANDLING SYSTEM
+AVAILABLE OUTPUTS:
+4 X ANALOG OUTPUT 4-20MA
+8 X DIGITAL OUTPUTS (PURGE FAIL).
+MODBUS RTU
+UTILITIES:
+N2/INSTRUMENT AIR @ 4-6 BAR NEAR THE SKID.
+110VAC, 50 HZ POWER SUPPLY
+1Set
+61,00,000.00
+61,00,000.00
+2
+PREFABRICATED HEAT TRACE TUBE
+PORT SIZE : 1⁄4” PTFE TUBE,
+POWER SUPPLY : 230 VAC , 50 Hz
+WITH JUNCTION BOX & END SEAL CONNECTORS
+20 X 5 =100 METERS
+100
+Mtrs
+4,000
+4,00,000.00
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+BOARDING – LODGING – LOCAL CONVEYANCE, WORK
+PERMIT TO BE ARRANGED BY CUSTOMER
+TO AND FRO CHARGES ( II TIER/ ECONOMY AIR TICKET)
+WILL BE CLAIMED AT ATCUALS
+Per
+Man
+day
+40,000.00
+40,000.00
+/Manday
+Clarifications:
+1. NH3 analyser with transmitter & receiver unit installed at 180 deg arrangement will mounted
+on skid & same will be kept on field in safe area.
+2. Special cables for connecting transmitter & receiver is considered in our scope.
+3. All Power, signal & communication cable is in customer scope.
+4. 110 VAC UPS & Non-UPS power supply near skid shall be made available by customer.
+5. N2/Instrument air free from oil/moisture/dust @ 4-6 bar pressure is required for sensor &
+process purging same is in customer scope.
+6. SS tubing for purging is in customer scope.
+7. Sample gas after measurement can be taken back to process, same is in customer scope.
+8. Please provide 100% sample gas composition of the furnace.
+SECTION 2: NOTE & SCOPE
+•
+N2/Instrument Air {Free From Water Droplets or Moisture} @ 4 - 6 Kg/Cm2 to be provided by the
+Customer for purging of probe, dust and flow monitor.
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope
+•
+Please note that UPS power shall be provide near panel by customer.
+•
+Please note that laying of signal/power cable trays shall be in customer’s scope.
+•
+Power Supply Utilities required are:
+•
+Power Supply: 230 VAC, 50 Hz (Non-Ups)-
+•
+Power Supply: 110/230 VAC, 50 Hz (Ups) –

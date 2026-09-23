@@ -1,0 +1,108 @@
+Quotation Number: Q26G10122
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Product Hydrogen (H2) Analyzer
+Tag No: AT-102
+54,90,000/-
+54,90,000/-
+2
+1
+Site Supervision & Support
+(Per Diem)
+45,000/-
+45,000/-
+3
+1
+Inspection and Testing
+Inclusive
+Inclusive
+4
+1
+Documentation
+Inclusive
+Inclusive
+5
+1
+Packing & Forwarding
+60,000/-
+60,000/-
+6
+1
+Transportation
+60,000/-
+60,000/-
+SECTION 2: TECHNICAL LITERATURE
+1
+Hydrogen Analyser
+Tag No: AT-102
+Service: H2 Product gas
+Make: Siemens
+Model: Calomat 6F
+Hazardous Area Classification: Zone 1 llC T4, ExP
+Repeatability: < 1% of the current measuring range
+Mounting Location: Analyzer cabinet with Single Ex-Proof AC
+Measuring range: Hydrogen: 60 - 100%
+Return: To Low Pressure vent header
+Process Conditions at sample Inlet
+-
+Temperature (Op): 32 °C
+-
+Pressure (Op): 15.10 Barg
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Utilities Required:
+-
+230 VAC 50Hz UPS Power Supply
+-
+Instrument air @5-6 Kg/cm2.
+Notes:
+-
+Field Power and signal cables upto Analyser cabinet shall be
+provided by customer. Further distribution is in Adage scope.
+-
+4-20mA analog output shall be provided upto analyzer cabinet.
+1 No
+Quoted
+Sample Probe:
+-
+Manual Retractable Type Probe with isolation ball valv
+-
+MOC: SS316
+-
+1.5”, 300# RF connection
+1 No
+Quoted
+Sample Line:
+-
+1/4’’ SS316 Tube, Qty: 15 meters
+1 No
+Quoted
+Primary Sample Handling System
+-
+Filters, Pressure regulator, Ball valve, SRV etc
+-
+PSHS components shall be mounted inside SS316 enclosure.
+1 No
+Quoted
+Sample Handling system
+-
+Ball valve, Flow Meter, Inline filter, needle valve, SOV,etc.
+-
+SSHS components shall be mounted inside Analyser Cabinet on
+a plate.
+1 No
+Quoted
+Calibration cylinders
+-
+10L calibration cylinder (1+1) with double stage cylinder

@@ -1,0 +1,74 @@
+Quotation Number: Q26W10223
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Extractive Laser Analyser
+36,00,000/-
+36,00,000/-
+2
+1 Lot
+Design Engineering & Project Documentation
+Inclusive
+Inclusive
+3
+1 Lot
+FAT at Adage Factory
+Inclusive
+Inclusive
+4
+1 No
+Packing, Forwarding & Transportation upto Site
+1,00,000/-
+1,00,000/-
+5
+Lumpsum Charges for supervision of installation &
+commissioning
+1,00,000/-
+1,00,000/-
+SECTION 2: TECHNICAL LITERATURE
+1
+Extractive O2 Laser Analyser
+Tag No: AT-134010B
+MODEL: Gas Eye
+MAKE: Air Optics
+Mounting location: Open Skid with canopy
+GC Hazardous Area Classification: Zone 2, llC T3
+Principle: TDLS
+Range : 0-5%
+Sample out: To ATM Vent
+IP66 rated
+Response time: 100 Milliseconds
+Pre-requisites for our system (Customers Scope):
+-
+Existing Sample Probe
+-
+Existing Primary SHS
+-
+Existing Secondary SHS and accessories
+Our system shall consist of the following (Indicated in P&ID):
+-
+Flow Meter x 1 Nos.
+-
+Fine Filter x 1 Nos.
+-
+Spool piece
+Analyser Output
+-
+4-20 Ma Analog output
+-
+8 x Digital outputs
+Remarks:
+-
+A Tapping point shall be taken before fine filter in the existing
+system and same shall be given as an input to our proposed
+system.
+-
+Extractive Laser analyser shall run in Parallel to the
+Paramagnetic Oxygen Analyser.
+1 No
+Quoted

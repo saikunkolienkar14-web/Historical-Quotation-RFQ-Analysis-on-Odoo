@@ -1,0 +1,41 @@
+Quotation Number: SQ2507E248
+BOQ Status: FOUND
+
+Date: 02-07-2025
+Ref: Q25260185-SQ2507E248
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+2.00
+178,649.00
+357,298.00
+1
+-With All accessories
+-Without Ring Heater & Ceramic Filter
+Nos
+18728008
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder (RHS)
+3.00
+13,564.00
+40,692.00
+2
+Nos
+18728007
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder (LHS)
+3.00
+13,564.00
+40,692.00
+3
+Nos
+18416003
+Sample Gas Probe Assembly for
+CEMS 9502 with 3/4" BSP (F) &
+ball Valve + Flange

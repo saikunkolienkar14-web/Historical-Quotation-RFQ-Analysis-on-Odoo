@@ -1,0 +1,24 @@
+Quotation Number: SQ2502W019
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+TOTAL PRICE
+[INR]
+1
+CONFIGURATION OF 2 NOS. PARAMETER AT INCINERATOR
+STACKS AND CONNECTIVITY TO MPPCB
+•
+PRIMARY TEMPERATURE
+•
+SECONDARY TEMPERATURE
+1
+70,000.00
+❖ Adage Scope:
+1. Configuration of the provided signal in Data Acquisition System.
+2. Extending our help and expertise to process data connectivity at MPPCB.
+3. Establishing connectivity of above-mentioned parameters to MPPCB.
+4. The above-mentioned job will be carried out remotely with necessary support and assistance.
+❖ Customer Scope:
+1. 4-20 mA signal shall be provided for both parameters at our existing CEMS Panel.
+2. Power / signal Cabling shall be in scope of customer.

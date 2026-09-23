@@ -1,0 +1,31 @@
+Quotation Number: Q2503E037R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF ONLINE H2
+MONITORING
+Make: SIEMENS AG
+Model: CALOMAT6E
+Component to be measured : H2
+System specifications:
+•
+With Sample Handling System
+•
+With Microprocessor Based H2 Analyzer
+•
+With Calibration Cylinders
+1 No.
+QUOTED
+QUOTED
+2
+ERECTION,
+INSTALLATION & COMMISSIONING
+QUOTED LUMPSUM

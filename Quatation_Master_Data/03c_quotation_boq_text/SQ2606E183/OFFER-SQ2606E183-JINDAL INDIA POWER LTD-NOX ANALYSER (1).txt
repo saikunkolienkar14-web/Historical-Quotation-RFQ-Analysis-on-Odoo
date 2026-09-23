@@ -1,0 +1,25 @@
+Quotation Number: SQ2606E183
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+FOR NEW ANALYSER
+[INR]
+UNIT PRICE
+FOR BUYBACK OF
+ANALYSER
+[INR]
+1
+Oxide of Nitrogen (NO - NO2 – NOX)
+Analyzer
+Based on Chemiluminescence principle
+230 V, 50 Hz. power supply
+Measuring Range: 0-1 ppm / 0-10 ppm
+Lower Detection Limit: <0.2 ppb
+Communication: Ethernet, USB
+Make: Envea / Teledyne / ACOEM/ Adage
+Analytics
+1.00
+13,67,000.00
+10,62,000.00

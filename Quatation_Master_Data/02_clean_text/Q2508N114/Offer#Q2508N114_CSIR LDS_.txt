@@ -1,0 +1,225 @@
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+CUSTOMER
+
+COUNCIL OF SCIENTIFIC AND INDUSTRIAL RESEARCH–
+INDIAN INSTITUTE OF PETROLEUM (CSIR–IIP)
+HARIDWAR RD, IIP, MOHKAMPUR
+DEHRADUN 248005
+UTTARAKHAND UK
+INDIA
+
+SUBJECT: Quotation for NH3 Gas Analyser
+
+KIND ATTENTION: Mr. Santosh Kumar Shaw
+
+Dear Sir,
+
+We thank you for your inquiry and are pleased to quote as per enclosed specification on terms stated below.
+If you have any questions or require additional information, please feel free to contact us.
+
+Table of Contents: -
+Section 1: SUMMARY OF PRICES
+Section 2: SCOPE DEFINATION
+Section 3: COMMERCIAL CONDITIONS
+
+Our Quotation No: Q2508N114
+Dated: 15.10.2025
+
+Contact persons :
+Mr. Rajesh Gupta
+Email: rajesh@adage-automation.com
+Mob: +91 9163262766
+(Adage – Delhi)
+
+Mr. Saheel Patil
+Email: p.saheel@adage-automation.com
+Mob: +919405372867
+(Adage-Goa-HO)
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+PART A: SUMMARY OF PRICES
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF NH3
+IN-SITU LDS 6 LASER DIODE SPECTROMETER
+Make: Siemens Ag, Germany
+Central Unit - 1 No
+Power Supply: 100 ... 240 V Ac; 50 ... 60 Hz
+Output: 4 ... 20 Ma
+Enclosure Rating: IP20
+Linearity: Better Than 1%
+CD 6 Sensors Pair-1 Set
+Power Supply:24 Vdc From Central Unit Via Hybrid Cable
+Measurement Path: 0.3 ... 12 M
+Enclosure Rating: IP65
+Without Ex Protection
+Loop Cable
+Hybrid Cable:1 X 10 Meters
+1 NO
+
+QUOTED
+
+QUOTED
+
+2
+DATALOGGER (WITHOUT PC)
+Data Logger System With Software
+Inclusive Of Subscription Charges For One Year, After Which Charges
+@Quoted/- Per Component Shall Be Applicable Per Year.
+Note: Internet Connectivity @ 1mbps Speed With Static Public Ip Shall
+Be Provided By Customer For Data Connectivity.
+1 NO
+
+QUOTED
+
+QUOTED
+
+3
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (Acii Tier/Flight).
+@ QUOTED PER MAN DAY
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 2: NOTE, UTILITIES & SCOPE DEFINATION
+•
+External Cabling, Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+Customer to provide Instrument Air /N2 which should be oil & moisture free @ 4-6 bar.
+•
+This Offered system is suitable for Safe area and should be kept in an airconditioned room
+•
+Special cable from analyser sensor unit to central unit is considered as 10 meters.
+•
+Internet connectivity @ 1MBPS speed with static public IP shall be provided by customer
+for data connectivity
+•
+Power Supply Utilities to be provided as below:
+•
+Power Supply: 230 VAC, 50 Hz (UPS)
+230 VAC, 50 Hz (NON- UPS)
+
+Our Scope of Supply and Work Includes:
+•
+Design, Engineering and Supply of system as per Summary of Prices
+•
+Supervision of Installation and Commissioning of the complete System
+•
+Project Management and Project Documentation
+
+Our Scope of Supply Does Not Include:
+•
+All Erection and Installation Activity.
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Welding of flanges or mounting of purge air unit and instrument on the stack/duct.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals.
+•
+Supply and laying of Cable and cable trays for Power supply / Analog and Digital signal / serial
+communication cables etc.
+•
+Laying of trays/structural and support for field tubing.
+•
+All utilities as mentioned above.
+•
+For any delay in commissioning due to reasons not attributed to M/S Adage, commissioning
+charges shall be as per quoted man days
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 3: COMMERCIAL CONDITIONS
+Price Basis
+Ex – Works, Goa, India.
+Packing & Forwarding
+Charges
+Extra 2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 16 weeks from the date of Drawing Approval .
+Storage Charges
+The storage charges shall be applicable @0.5% of the order value per week after inspection or
+scheduled delivery.
+Offer validity
+90 days.
+Payment Terms
+20% Advance with the Purchase Order, 20 % with Drawing Approval and Balance 60 % against
+Proforma Invoice on readiness of material prior to dispatch.
+Warranty Clause
+Against manufacturing defects for 12 months from the date of Commissioning or 18 months from
+the date of shipment whichever is earlier.
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 5: TECHNICAL FEATURE OF GAS ANALYSER FOR ALL APPLICATION
+TDLS based LDS 6
+Measuring component: (based on your requirement)
+The siemens laser analyzer model LDS6 has a unique patented feature in which it
+is a life time calibrated analyzer. This has been achieved by its unique design of
+inbuilt calibration cells through which the laser light is passed, and the laser diode
+is calibrated by almost 24 times per second all the time during its operation. This
+special feature is a patented technology from siemens and gives the immense
+benefit of reduction in maintenance costs towards calibration cylinders and also
+eases of maintenance.
+The LDS 6 is a certified instrument for emission monitoring. The analyzer is TÜV
+certified as per EN14181 and also MCERTS of UK.
+Key features include:
+• in-situ principle, no gas sampling
+• three measuring points simultaneously
+• temperature up to 1200 °c
+•
+ex-
+version
+available
+(optional)
+
+Fig. : LDS 6 in situ laser gas analyzer
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+COMPONENTS OF LDS6 & CD6
+
+LDS6 central unit + CD6 sensor heads
+▪ Measurement system consists of 1 LDS6 central unit and 1 pair of CD6 sensor heads
+▪
+Communication LDS6 ↔ CD6 realized by glass fiber-based hybrid cable
+
+LDS6 CENTRAL UNIT
+CD6 SENSOR HEAD WITH PURGE TUBE
+CD6 SENSOR PAIR

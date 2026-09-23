@@ -1,0 +1,181 @@
+Quotation Number: Q25N10083R5
+BOQ Status: FOUND
+
+Description
+Qty
+Price (INR)
+1
+Pressure regulator
+1 No.
+Quoted
+2
+Fast loop filter
+1 No.
+Quoted
+3
+Inline filter
+1 No.
+Quoted
+4
+Temperature gauge
+1 No.
+Quoted
+5
+Non return valve
+1 No.
+Quoted
+6
+Sample Flow meter
+1 No.
+Quoted
+7
+2-way Ball valve
+1 No.
+Quoted
+8
+3-way Ball valve
+1 No.
+Quoted
+9
+Pressure gauge
+1 No.
+Quoted
+10
+Bypass Flow meter
+1 No.
+Quoted
+11
+AOV
+1 No.
+Quoted
+12
+Filter element
+1 No.
+Quoted
+13
+GC Column
+1 No.
+Quoted
+14
+Wrench hex key (Allen key set)
+1 No.
+Quoted
+15
+Valve repair kit
+1 No.
+Quoted
+16
+Fuse
+1 No.
+Quoted
+17
+FPD detector repairing kit (FPD, KIT, repair ignitor)
+1 No.
+Quoted
+2 Years O&M Spare list (Optionally Quoted)
+1
+As per Adage recommendation
+MOD50 Valve repairing kit
+1 No.
+EPC Module
+1 No.
+SOV
+1 No.
+Fuse
+1 No.
+Columns set
+1 No.
+Comments from Bechtel dtd: 18.11.2025 and ADAGE compliance as below:
+1. As the detail BOM with make and MOC is not provided for each component it would be purely
+vendor responsibility to ensure that the system is designed as per RPMS requirement. If during
+detailed engineering , any component added or change in MOC envisaged for system operation it
+shall be taken care by Adage without any cost impact.
+ADAGE RESPONSE: Noted & Confirmed.
+SECTION 3: Scope Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares
+Yes
+6
+Supply of Mandatory spares
+Yes
+7
+Consumables spares- OPTIONAL
+-
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site
+Yes
+12
+Insurance
+Yes
+13
+Storage of supplied system at site
+Yes
+14
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+15
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+16
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+17
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+18
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+19
+Supply of 2 years O&M spares - OPTIONAL
+-
+20
+Training at Site
+Yes
+21
+Training at Goa facility
+Yes
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+At Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from the date of PO
+Offer validity
+3 Months

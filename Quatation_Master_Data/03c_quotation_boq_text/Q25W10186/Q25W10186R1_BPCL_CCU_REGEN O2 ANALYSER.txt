@@ -1,0 +1,54 @@
+Quotation Number: Q25W10186R1
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Oxygen Analyser - 1OAR107
+1 No
+1,35,79,250
+2
+1
+Project Documentation
+1 No
+Inc
+3
+1
+FAT at Adage Factory
+1 No
+1,00,000
+4
+1
+Packing, Forwarding & Transportation upto Site
+1 No
+1,00,000
+5
+1
+Supervision of installation & Commissioning & SAT
+1 No
+3,00,000
+6
+1
+Training at Site
+1 No
+1,00,000
+7
+1
+Consumable & Commissioning spares
+1 No
+Inc
+8
+1
+Mandatory Spares
+1 No
+Inc
+TOTAL
+₹1,41,79,250
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. 230 VAC Non-UPS has been considered for HTT power supply.
+2. All field Power & Signal cables upto battery limit at Field Rack end shall be in customer’s scope.
+3. BPCL to confirm Sample transportation length from tapping till analyser, Currently 10 meter line
+lengty is considered.

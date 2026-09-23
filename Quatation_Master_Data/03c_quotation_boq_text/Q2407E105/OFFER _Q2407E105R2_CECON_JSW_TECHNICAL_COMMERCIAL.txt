@@ -1,0 +1,70 @@
+Quotation Number: Q2407E105R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CALORIFIC VALUE ANALYSER- BFG+COG
+TAG NO: AT- 201
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+Calorific value : 720- 4010 Kcal/m3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System
+for handling Impurities such as Tar,
+Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack , MOC: CRCA.
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of
+Calorific Value
+• Kind of Gas: Mixed Gas
+• Power supply 230V, 50 Hz
+• Power consumption: 185 VA
+Output:
+• Individual 4-20 mA analog output for Calorific
+value
+• Digital Outputs
+1 Nos.
+57,00,000
+57,00,000
+Note: The primary SHS should be kept as close as possible to the sampling location.
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+@3,500 PER METER
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air
+Ticket/ AC II Train Fare To Be Arranged by Customer)
+@30,000 PER MAN DAY
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+Plant Nitrogen required @ 4-6 Bar
+•
+Power Supply Utilities required are:
+• Power Supply: 230 VAC, 50 Hz (Non-UPS)
+• Power Supply: 230 VAC, 50 Hz (UPS)

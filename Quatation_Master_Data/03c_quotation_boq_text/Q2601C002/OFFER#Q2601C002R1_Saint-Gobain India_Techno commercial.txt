@@ -1,0 +1,39 @@
+Quotation Number: Q2601C002R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF HYDROGEN,
+OXYGEN & MOISTURE (DEW POINT)
+With Sample Handling System completely wired and tubed
+With Calibration Gas Cylinders
+Gas Analyser for the measurement of Hydrogen (H2)
+Model: Calomat 6E
+Make: Siemens AG
+Gas Analyser for the measurement of Trace Oxygen (O2)
+Model: GPR-1500
+Make: Analytical Instruments Inc
+Gas Analyser for the measurement of Dewpoint
+Model: EASIDEW
+Make: Michell Instruments
+(For details, please refer enclosed System Overview)
+1 SET
+26,10,000
+26,10,000
+2
+Tube for sample gas transportation
+MOC: SS;
+Tube Size: 1⁄4’’
+@650 Per Meter
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To And FRO Air Ticket/
+Ac II Train Fare To Be Arranged By Customer)
+@30,000 Per Man Day

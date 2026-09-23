@@ -1,0 +1,64 @@
+Quotation Number: Q2504B018
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED ANALYSER FOR MEASUREMENT OF SO2, SO3
+Make: AIROPTIC
+Model: GASEYE
+Operating principle: TDLAS
+Component to be measured: SO2, SO3
+Mounting location: Extractive type
+Measuring range: SO2 : 0-10 vol%
+SO3 :0-10 vol%
+With sample collection enclosure
+With sample handling system consisting of:
+•
+With Heated Flow Through Cell for Mounting of Laser
+Analyzers
+•
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar near field rack
+•
+230VAC, 50 Hz power supply
+1 SET
+63,96,000
+63,96,000
+2
+SAMPLE GAS TRANSPORTATION TUBE
+MOC: SS
+Tube size: 1⁄2”
+@650 per meter
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+@30,000 per man day
+•
+Analyzer drain line shall be connected to the plant nearest drain, the tubing for the same shall be in Customer’s scope.
+•
+External Cabling, Tubing, and all Associated Erection Hardware shall be in Customer’s Scope.
+•
+Plant Instrument air required shall be oil, dust free @4-6 bar
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (Non-UPS)
+Power Supply: 230 VAC, 50 Hz (UPS)

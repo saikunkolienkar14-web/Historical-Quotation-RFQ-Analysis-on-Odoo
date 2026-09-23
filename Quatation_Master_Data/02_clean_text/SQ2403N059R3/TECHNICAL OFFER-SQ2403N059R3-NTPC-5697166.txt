@@ -1,0 +1,665 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+TO,
+
+MEJA URJA NIGAM LIMITED
+VILLAGE: KOHDAR, LALTARA (TEHSIL: MEJA)
+DISTRICT: PRAYAGRAJ (ALLAHABAD)
+STATE: UTTAR PRADESH
+INDIA
+
+SUBJECT: QUOTATION FOR DATA CONNECTIVITY & INDUSTRIAL PC
+
+TENDER NO: GEM/2024/B/5697166; DTD: 12-12-2024
+
+KIND ATTENTION: PURCHASE DEPARTMENT
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If
+you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: COMMERCIAL TERMS & CONDITIONS
+
+OFFER NO: SQ2403N059R3
+OFFER DATE: 20-12-2024
+
+Contact persons :
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Alok Gupta
+Email: alok@adage-automation.com
+Mob: +91 7506039677
+(Adage-Goa-HO)
+
+Mr. Kasif Ali
+Email: kasif@adage-automation.com
+Mob: +91 9460055601
+(Adage-Regional)
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir,
+
+This is in context to your requirement for Online Gas Analyser and we thank you for the same,
+
+Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in India and
+worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in the industrial field of Steel,
+Cement, Power, Fertilizers, Chemical & Petrochemicals, Oil & Gas etc. We are an ISO 9000:2015 & OHSAS 18001:
+2007 certified company.
+
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG, Germany for the Indian market
+for Process Gas Analyzers. We have 11 Offices across India with subsidiary companies in Sharjah, UAE & New
+Jersey, USA and we have 200+ Specialist Engineers and a modern state of the art Factory in Goa. We have
+already installed more than 5,000 Analyser Systems & more than 10,000 Analyzers in India. At the present
+moment, we enjoy a leadership position in the Indian Industry. We are also the largest exporter of Gas Analytical
+Systems from India to over 40 countries in Europe, Africa, Middle East, Far East and South America.
+
+Our State of the art application Lab and the Regional Repair Centre (RRC) is under a joint investment from SIEMENS AG
+Germany. Adage have been awarded in 2018 by the Ministry of Industries, Govt of India as one of the India’s Small
+Giants, which is an initiative to recognize the top performing companies in terms of sustainable growth and
+innovations.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 1: SUMMARY OF PRICES - SUPPLY
+
+SL.
+NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+10
+FGD CEMS DATA CONNECTIVITY
+10.1
+ADDITION OF TAGS (PARAMETERS) IN LOCAL DAS
+8
+QUOTED
+QUOTED
+10.2
+CONNECTIVITY OF TAGS (PARAMETERS) TO CPCB
+8
+QUOTED
+QUOTED
+10.3
+REMOTE CALIBRATION OF SYSTEM (SO2, NO)
+2
+QUOTED
+QUOTED
+10.4
+CPCB CONNECTIVITY (CAMERA)
+3
+QUOTED
+QUOTED
+20
+INSTALLATION OF INDUSTRIAL PC
+20.1
+SUPPLY & INSTALLTION OF INDUSTRIAL PC
+1
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+CUSTOMER SCOPE OF WORK
+SR. NO.
+DESCRIPTION
+1
+(A) RS485 SIGNAL CABLE LAYING FROM BOTH FGD SYSTEM (INDIVIDUAL) JB TO ADAGE PANEL.
+(B) RS485 SIGNAL CABLE GROUTING, TERMINATION.
+2
+(A) FURNISHING MODBUS DETAILS OF ALL THE REQUIRED TAGS (PARAMETERS) AS PER ANNEXURE 1.
+(B) DATA THROUGH RS485 MODBUS FROM ANALYZERS SHOULD BE COMING SMOOTHLY.
+(C) REMOTE CALIBRATION PROCEDURE TO BE PROVIDED ALONG WITH TRIGERRING DETAILS (MODBUS
+ADDRESS). ALL THE HARDWARE REGARDING REMOTE CALIBRATION SHALL BE PROVIDED.
+3
+FOR CAMERA CONNECTIVITY GENRATING /PROVIDING RTSP URL. (FROM NVR)
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+Ex works, Goa
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%.
+GST
+30AADCA1647D1ZF
+HSN/SAC Code
+For Supply: 90330000; For Service: 998333
+Freight Charges
+Inclusive
+Insurances
+Inclusive
+Delivery
+Within 16 weeks from the date of receipt of PO.
+Offer validity
+120 Days.
+Payment Terms
+100% payment shall be released within 30 days after receipt and acceptance of
+materials at MUNPL Store& submission of Invoice.
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Samaresh Dey
+
+samaresh@adage-automation.com
+
++91 9769012864
+
+ADAGE- GOA
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+TENDER NO.: GEM/2024/B/5697166 Date: 12-12-2024
+
+DATE: 20-12-2024
+
+DEVIATIONS
+
+Technical deviations, if any
+NIL
+Commercial deviations, if any
+1. Penalty
+Adage: This is a call-based service contract so penalty not
+applicable.
+
+2. Deputation of service engineer
+Adage: 7-10 days prior intimation required for deputation of
+service engineer for preventive maintenance.
+
+3. Security deposit (SD): Applicable if any
+Adage: Security Deposited shall not be accepted for service.
+
+4. Performance Bank Guarantee (PBG): Applicable if any
+Adage: PBG shall not be accepted for service.
+
+5. Earnest Money Deposit (EMD): Applicable if any
+Adage: EMD shall not be accepted for service.
+
+6. Warranty:
+Adage: 1 Year from the date of supply for any manufacturing
+defects only.
+
+7. Response Time:
+Adage: M/s Adage Service Engineer will respond to any call
+/mail/ requirement from MUNPL within 48 hours during
+daytime in working days and within 72 Hours in case of
+Saturday/Sunday/Holiday.
+
+8. Contract Period:
+Adage: 2 Year.
+
+9. Payment Terms
+Adage: 100% payment shall be released within 30 days after
+receipt and acceptance of materials at MUNPL Store&
+submission of Invoice.
+
+10. For Sr. No. 20 of PO, one no. of Industrial PC to be supplied,
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+installed, and commissioned within 3 months of the PO date.
+Adage: For Sr. No. 20 of PO, one no. of Industrial PC to be
+supplied, installed, and commissioned within 5 months of the
+PO date.
+
+11. During the visit contractor TA has to attend the defect related
+to Modbus data transmission etc as per the scope of this
+contract.
+Adage: MUNPL to ensure Mod bus data out from the FGD
+CEMS analysers is healthy and readable from unit 1 and 2
+communication JB.
+
+Stamp & Signature of the Bidder
+
+Samaresh Day
+samaresh@adage-automation.com
++91 9769012864
+ADAGE- GOA
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+To,
+
+Date: 20-12-2024
+
+MEJA URJA NIGAM PVT. LTD.
+
+KIND ATTENTION: CONTRACT CELL
+
+Sub: Tender No.: GEM/2024/B/5697166 Date: 12-12-2024.
+
+Dear Sir,
+We Adage Automation Pvt. Limited, do hereby confirm that Mr. Samaresh Dey, GM-CSD, Adage Automation Pvt.
+Limited, L-26B, Phase II, Verna Industrial Area, Goa- 403722, is authorized to sign the bid, negotiate and conclude the
+agreement on our behalf with you against your Tender No.: GEM/2024/B/5697166 Date: 12-12-2024.
+
+We confirm that we shall be bound by all the whatsoever we shall commit.
+
+Yours faithfully,
+
+Adage Automation
+Pvt Limited
+L-26B, Phase II, Vema Industrial Area,
+Vema,
+Goa - 403722,
+INDIA
+Tel:0832-6620500,
+Fax:
+0832-6620599
+www.adage-automation.com
+Sub: E-Payments
+Dear Sir,
+IjWe
+request
+& authorized
+you to effect e payment
+to my jour
+Bank accounts
+as per the details given
+below.
+Bank Account
+Name
+: Adage Automation
+Private Limited
+Bank Account
+Number
+: 056451000001
+Branch Name & Address Of Bank
+: Plot No.X-513,Technocity,
+Mahape Navi Mumbai Maharashtra
+400701
+EmailId
+: amit@adage-automation.com
+Permanent
+Account
+No.(PAN)
+: AADCA1647D
+Name Of the Auth Signatory
+: Amit Kakkar
+Contact
+Person
+: Amit Kakkar
+Contact
+No.
+: +91 9819310615
+IFSC Code
+: ICIC0000564
+MICR Code
+: 400229034
+Type Of Account
+: Cash Credit
+I, hereby declare that the particulars
+given above are correct.
+If the transaction
+is delayed or not effected
+at all for reason of incomplete
+or incorrect
+information,
+I would not hold the user institution
+responsible.
+I
+hereby authorize
+Bank (as mention
+above) to credit
+my above mentioned
+account wit
+ount of
+installment
+& I agree to discharge the responsibility
+expected
+of me as participant,
+Ep;:~~~
+me.
+I
+<ZI
+~.;..
+o
+='
+Date:
+03.08.2017
+~'-~-------
+-
+.~
+11 "
+•
+Mandatory
+fields cannot ne left Bank.
+•
+Kindly attached
+blank cancelled
+cheque with this Mandate Form.
+Bankers Attention
+-
+Bank Stamp:
+Date:
+.
+Note:
+One Cancelled cheque also required
+CORPORATE
+HQ & REGISTERED
+OFFICE
+Adage Automation
+Private Limited
+SATRA PLAZA ,Office No: 506,Sector
+19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra,lNDIA
+Email:
+info@adage-automation.com
+ISO 9001 : 2008
+
+Government of India
+Form GST REG-06
+[See Rule 10(1)]
+
+Registration Certificate
+
+Registration Number :30AADCA1647D1ZF
+
+This is a system generated digitally signed Registration Certificate issued based on the deemed approval of the application for
+registration
+1.
+Legal Name
+ADAGE AUTOMATION PRIVATE LIMITED
+2.
+Trade Name, if any
+ADAGE AUTOMATION PRIVATE LIMITED
+3.
+Constitution of Business
+Private Limited Company
+4.
+Address of Principal Place of
+Business
+L26 B, Verna Industrial Area, Phase II, Verna, South Goa, Goa,
+403722
+5.
+Date of Liability
+01/07/2017
+6.
+Period of Validity
+From
+01/07/2017
+To
+NA
+7.
+Type of Registration
+Regular
+8.
+Particulars of Approving Authority
+Signature
+Name
+Designation
+Jurisdictional Office
+9. Date of issue of Certificate
+25/09/2017
+Note: The registration certificate is required to be prominently displayed at all places of business in the State.
+
+Annexure A
+
+Details of Additional Places of Business
+
+Total Number of Additional Places of Business in the State 0
+
+GSTIN
+30AADCA1647D1ZF
+Legal Name
+ADAGE AUTOMATION PRIVATE LIMITED
+Trade Name, if any
+ADAGE AUTOMATION PRIVATE LIMITED
+
+Annexure B
+
+Details of Managing / Whole-time Directors and Key Managerial Persons
+
+GSTIN
+30AADCA1647D1ZF
+Legal Name
+ADAGE AUTOMATION PRIVATE LIMITED
+Trade Name, if any
+ADAGE AUTOMATION PRIVATE LIMITED
+1
+Name ABHIJIT CHATTERJEE
+Designation/Status Managing Director
+Resident of State Maharashtra
+
+8/3/23, 12:43 PM
+Print : Udyam Registration Certificate
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+1/2
+UDYAM REGISTRATION CERTIFICATE
+UDYAM REGISTRATION NUMBER
+UDYAM-GA-02-0000534
+NAME OF ENTERPRISE
+M/S ADAGE AUTOMATION PRIVATE LIMITED
+TYPE OF ENTERPRISE *
+SNo. Classification Year Enterprise Type Classification Date
+1
+2023-24
+Medium
+09/05/2023
+2
+2022-23
+Medium
+26/06/2022
+3
+2021-22
+Medium
+16/05/2021
+4
+2020-21
+Medium
+16/09/2020
+MAJOR ACTIVITY
+MANUFACTURING
+SOCIAL CATEGORY OF
+ENTREPRENEUR
+GENERAL
+NAME OF UNIT(S)
+S.No.
+Udyog Aadhaar
+Memorandum
+Unit(s) Name
+1
+GA02B0000120
+ADAGE AUTOMATION PVT LTD
+2
+ADAGE AUTOMATION PVT LTD UNIT II
+OFFICAL ADDRESS OF ENTERPRISE
+Flat/Door/Block
+No.
+PLOT NO L26B,
+Name of
+Premises/
+Building
+ADAGE
+AUTOMATION
+PVT LTD
+Village/Town
+VERNA
+Block
+PHASE II
+Road/Street/Lane
+VERNA
+INDUSTRIAL
+ESTATE
+City
+VERNA
+State
+GOA
+District
+SOUTH GOA , Pin
+403722
+Mobile
+9819310615
+Email:
+amit@adage-
+automation.com
+DATE OF INCORPORATION /
+REGISTRATION OF ENTERPRISE
+30/08/2001
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS
+30/08/2001
+NATIONAL INDUSTRY
+CLASSIFICATION CODE(S)
+SNo.
+NIC 2 Digit
+NIC 4 Digit
+NIC 5 Digit
+Activity
+1
+26 -
+Manufacture of
+computer,
+electronic and
+optical products
+2651 -
+Manufacture of
+measuring,
+testing,
+navigating and
+control
+equipment
+26511 -
+Manufacture of
+physical
+properties
+testing and
+inspection
+equipment
+Manufacturing
+
+8/3/23, 12:43 PM
+Print : Udyam Registration Certificate
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+2/2
+2
+32 - Other
+manufacturing
+3290 - Other
+manufacturing
+n.e.c.
+32909 -
+Manufacture of
+other articles
+n.e.c.
+Manufacturing
+3
+74 - Other
+professional,
+scientific and
+technical
+activities
+7490 - Other
+professional,
+scientific and
+technical
+activities n.e.c.
+74909 - Other
+professional,
+scientific and
+technical
+activities n.e.c.
+Services
+DATE OF UDYAM REGISTRATION
+16/09/2020
+* In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per
+the provisions of Notification No. S.O. 2119(E) dated 26.06.2020 issued by the M/o MSME.
+Disclaimer: This is computer generated statement, no signature required. Printed from https://udyamregistration.gov.in & Date of printing:-
+03/08/2023
+For any assistance, you may contact:
+1. District Industries Centre:
+GOA ( GOA )
+2. MSME-DFO:
+GOA ( GOA )

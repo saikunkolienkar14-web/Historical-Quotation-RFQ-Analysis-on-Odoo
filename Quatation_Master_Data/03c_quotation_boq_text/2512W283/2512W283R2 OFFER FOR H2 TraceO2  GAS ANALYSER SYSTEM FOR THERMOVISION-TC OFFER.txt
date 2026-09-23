@@ -1,0 +1,85 @@
+Quotation Number: Q2512W283r2
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+ONLINE GAS ANALYSER SYSTEM FOR MEASUREMENT
+OF H2
+WITH SAMPLE HANDLING SYSTEM
+WITH VORTEX COOLER
+WITH MICROPROCESSOR BASED GAS ANALYSER
+CALOMAT 6E – 1 NO
+For Hydrogen (H2) Measurement
+MAKE: SIEMENS AG, GERMANY
+01
+No
+QUOTED
+QUOTED
+2
+ONLINE GAS ANALYSER SYSTEM FOR MEASUREMENT
+OF H2 Trace O2
+WITH SAMPLE HANDLING SYSTEM
+WITH 2 TAPPING FOR HYDROGEN ANALYSER
+WITH 3 TAPPING FOR OXYGEN ANALYSER
+WITH VORTEX COOLER
+WITH MICROPROCESSOR BASED GAS ANALYSER
+CALOMAT 6E – 1 NO
+For Hydrogen (H2) Measurement
+MAKE: SIEMENS AG, GERMANY
+OXYGEN PPM ANALYSER – 1 NO
+For Oxygen (O2) Measurement
+MAKE: SYSTECH/SOUTHLA /EQUIVALENT
+01
+No
+QUOTED
+QUOTED
+3
+ONLINE GAS ANALYSER SYSTEM FOR MEASUREMENT
+OF O2 IN PROCESS GAS
+WITH SAMPLE HANDLING SYSTEM
+WITH 2 TAPPING POINT
+WITH VORTEX COOLER
+WITH MICROPROCESSOR BASED GAS ANALYSER
+OXYGEN PPM ANALYSER – 1 NO
+For Oxygen (O2) Measurement
+MAKE: SYSTECH/SOUTHLA /EQUIVALENT
+01
+No
+QUOTED
+QUOTED
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Man
+days
+QUOTED
+QUOTED
+Note:
+1. PLC for automatic operation of Gas Analyzer System & Selection of stream will be in
+customer’s scope.
+2. SS tubing for sample gas transportation is in scope of customer.
+3. Calibration gas cylinder is in customer scope.
+SECTION 2: NOTE & SCOPE
+•
+N2 Air {Free From Water Droplets or Moisture} @ 4 - 6 Kg/Cm2 to be provided by the Customer
+for purging of analyser transmitter receiver pair & dust monitor.
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope
+•
+Cable from Analyzer panel to Scavenging panel & Ring Heater Power Supply are in customer’s scope.
+Any signal cable, power cable or SS tubbing is in scope of customer.
+•
+Please note that laying of signal/power cable trays shall be in customer’s scope.
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (Non-Ups)
+Power Supply: 220 VAC, 50 Hz (Ups)

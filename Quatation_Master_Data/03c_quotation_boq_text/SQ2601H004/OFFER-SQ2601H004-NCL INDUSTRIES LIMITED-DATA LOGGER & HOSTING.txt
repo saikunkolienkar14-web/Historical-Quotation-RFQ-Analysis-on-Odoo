@@ -1,0 +1,36 @@
+Quotation Number: SQ2601H004
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Data Logger with integration facility, along with the
+following accessories and services:
+• One (1) year data hosting service
+• 5 Port Unmanaged Ethernet Switch
+Note: Remote Support for commissioning Inclusive.
+2
+2,25,000.00
+4,50,000.00
+2
+Yearly Data Transmission-Per Data Logger (Applicable
+from the Second Year)
+2
+20,000.00
+40,000.00
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+•
+RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal cables for
+the same shall be in customer scope.
+•
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+•
+Internet for the data logger shall be made available at site by customer preferably broadband connection. Internet
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS)
+•
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

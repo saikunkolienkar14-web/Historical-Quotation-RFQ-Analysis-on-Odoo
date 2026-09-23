@@ -1,0 +1,24 @@
+Quotation Number: SQ2510X037R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR. NO.
+DESCRIPTION
+PART NO.
+QTY
+UNIT PRICE
+[USD]
+TOTAL PRICE
+[USD]
+1
+Ceramic filter element (for gas probe)
+28903020
+2
+475
+950
+2
+Filter element (for particulate, liquid)
+18106001
+2
+65
+130

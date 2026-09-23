@@ -1,0 +1,112 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price(INR)
+1
+2-AR-304
+MEG GC
+1 No
+53,00,000/-
+2
+-
+Autochageover system for carrier gas
+(Optionally Quoted)
+1 No
+2,50,000/-
+3
+-
+FAT at Adage Factory
+1 Lot
+Inclusive
+4
+-
+Project Documentation
+1 Lot
+Inclusive
+5
+-
+Supervision of installation and
+commissioning
+Lumpsum
+2,00,000/-
+6
+-
+Commissioning spares
+1 Lot
+3,00,000/-
+7
+-
+2 Years O&M spares
+List attached
+1 Lot
+14,00,000/-
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS COMMON FOR BOTH STREAMS
+TAG NO: 2-AR-304
+-
+Supply Pressure (Nor): 2 Kg/cm2
+-
+Temperature (Nor): 100 Degree C
+-
+Sample Return: To Vent Header/ Flare header (With Flame
+arrestor)
+Service: NC-303 TOP OUT
+1.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Sample phase: Gas
+No of Streams: Single stream
+Mounting location : inside Existing Analyser shelter
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.2
+Calibration blend with regulators
+1 No
+Quoted
+2
+Autochageover system for carrier gas
+1 No
+Optionally
+Quoted
+3
+FAT at Adage Factory
+1 No
+Inclusive
+4
+Project Documentation
+1 No
+Inclusive
+5
+Supervision of installation and commissioning
+Lump
+sum
+Quoted
+6
+Commissioning spares
+-
+Set of filter element
+-
+Set of Oring
+-
+Set of Fuses
+1 Lot
+Quoted
+7
+2 Years O&M spares
+-
+List attached
+1 Lot
+Quoted
+Notes :

@@ -1,0 +1,154 @@
+Quotation Number: SQ2605E160
+BOQ Status: FOUND
+
+Date: 03-07-2026
+Ref: Q26270209-SQ2605E160
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28601163
+Ultramat 23, 230 VAC
+,CO-250/1250mg/m3,
+NO-400/2000mg/m3,
+SO2-400/2000MG/M3,
+PARAMAGNETIC O2
+1.00
+2,040,000.00
+2,040,000.00
+1
+Nos
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+1.00
+122,500.00
+122,500.00
+2
+Nos
+18611011
+Signal Splitter
+3.00
+20,086.00
+60,258.00
+3
+Nos
+18606070
+CPU 1214C,- S7 1200-14 DI 24V DC;
+10 DO RELAY 2A; 2 AI 0 - 10V DC
+1.00
+41,025.00
+41,025.00
+4
+Nos
+28726035
+Water stop filter with two
+female connectors, NPT1/8"-4/
+6 PVDF
+1.00
+23,813.00
+23,813.00
+5
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+36,809.00
+36,809.00
+6
+Nos.
+28602054
+Cartridge Filter
+2.00
+52,440.00
+104,880.00
+7
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+2,888.00
+2,888.00
+8
+Packets
+18604035
+Controller with digital display for
+Sample Gas Cooler
+1.00
+39,720.00
+39,720.00
+9
+Nos
+Date: 03-07-2026
+Ref: Q26270209-SQ2605E160
+28708021
+Peridtaltic Pump, 10 RPM,110/230
+V,50 Hz,
+1.00
+44,100.00
+44,100.00
+10
+Nos
+28602105
+Detector SO2 - Ultramat 23 channel 2
+1.00
+476,000.00
+476,000.00
+11
+Nos
+28602046
+Detector NO Channel 1 - Ultramt 23
+1.00
+320,530.00
+320,530.00
+12
+Nos
+28602206
+Detector, CO, U23
+1.00
+274,560.00
+274,560.00
+13
+Nos
+28602002
+LCD Display Ultramat 23
+1.00
+177,928.00
+177,928.00
+14
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+133,410.00
+133,410.00
+15
+Nos
+78309054
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Pulsating,
+MOC Brass
+1.00
+11,286.00
+11,286.00
+16
+Nos
+78409060
+Solenoid Valve 2/2 Way 1/4” NPT (F)
+230 VAC, NC, 4 MM Orifice, Universal
+MOC SS316
+1.00
+16,950.00
+16,950.00
+17
+Nos
+Date: 03-07-2026
+Ref: Q26270209-SQ2605E160

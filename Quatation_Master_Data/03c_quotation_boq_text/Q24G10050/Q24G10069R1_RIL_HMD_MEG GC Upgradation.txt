@@ -1,0 +1,155 @@
+Quotation Number: Q24G10069R1
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price(INR)
+1
+2-AR-304
+MEG2 GC
+1 No
+57,50,000/-
+2
+AR-304
+MEG1 GC
+1 No
+57,50,000/-
+3
+-
+FAT at Adage Factory (without SCS)
+Power on test and response will be
+shown with standard gas.
+1 Lot
+Inclusive
+4
+-
+GC Documentation
+1 Lot
+Inclusive
+5
+-
+8 Hours OEM Repeatability Test report
+2 No
+Inclusive
+6
+-
+Supervision of installation and
+commissioning for 2 GCs
+Lumpsum
+2,00,000/-
+TOTAL SUPPLY PRICE
+1,17,00,000/-
+OPTIONAL PRICE (As per RIL Requirement)
+1
+-
+Auto-changeover system for carrier gas
+suitable for 2+2 Cylinder bank with
+pressure switches, headers, skid with
+canopy and other accessories as per RIL
+Standard.
+1
+3,50,000/-
+2
+-
+Commissioning Spares
+1. Set of fuses (5 nos.)
+2. Set of O ring (5 nos.)
+3. Filter element
+1 Each
+25,000/-
+3
+-
+2 Years O & M spares as below.
+Item
+Qty
+Price
+Power Supply Module
+1
+81,567
+Detector board
+1
+6,98,078
+SVCM Module repairing kit
+1
+1,52,508
+Valve, Model 50 repairing kit
+1
+1,17,291
+Fuel restrictor
+1
+67,197
+Combustion air restrictor
+1
+1,34,394
+EPCM board
+1
+3,25,965
+Set of columns
+1
+2,02,400
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS COMMON FOR BOTH STREAMS
+TAG NO: 2-AR-304
+-
+Supply Pressure (Nor): 2 Kg/cm2
+-
+Temperature (Nor): 100 Degree C
+-
+Sample Return: To Vent Header/ Flare header (With Flame
+arrestor)
+Service: NC-303 TOP OUT
+1.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Sample phase: Gas
+No of Streams: Single stream
+Mounting location : inside Existing Analyser shelter
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.2
+Calibration blend with regulators (Inox / Equivalent)
+1 No
+Quoted
+2
+PROCESS CONDITIONS COMMON FOR BOTH STREAMS
+TAG NO: AR-304
+-
+Supply Pressure (Nor): 2 Kg/cm2
+-
+Temperature (Nor): 100 Degree C
+-
+Sample Return: To Vent Header/ Flare header (With Flame
+arrestor)
+Service: NC-303 TOP OUT
+2.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, llB+H2, T3
+1 No
+Quoted
+Sample phase: Gas
+No of Streams: Single stream
+Mounting location: inside Existing Analyser shelter
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+2.2
+Calibration blend with regulators (Inox / Equivalent)
+1 No
+Quoted
+Notes :

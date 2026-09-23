@@ -1,0 +1,759 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Customer:
+
+SIEMENS LIMITED
+RC-TH DI PA AP
+2922/320-323 NEW PETCHBURI ROAD
+BANGKOK 10310, THAILAND
+
+SUBJECT: QUOTATION FOR KILN INLET SYSTEM
+
+KIND ATTENTION: MR. PATTHANAPONG WATTHANANONKIT
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If you
+have any questions or require additional information, please feel free to contact us.
+
+Table of Contents: -
+
+SECTION 1: SUMMARY OF PRICES
+SECTION 2: NOTE AND SCOPE DEFINITION
+SECTION 3: COMMERCIAL TERMS AND CONDITIONS
+SECTION 4: BILL OF MATERIAL
+
+Our Quotation No: Q2501X002
+
+Dated: 15.01.2025
+
+Contact persons:
+Mr. Pankaj Lad
+Email: pankaj@adage-automation.com
+Mob: + 91 7767871972
+(Adage-Goa-HO)
+
+Saheel Patil
+Email: p.saheel@adage-automation.com
+Mob: + 91 9405372867
+(Adage-Goa-HO)
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+INTRODUCTION:
+
+It is important to know the exact value of CO, NO & O2 at the kiln inlet to monitor accurately the
+burning conditions.
+CHALLENGES:
+Gas analyzer equipment in Cement Plants must be able to withstand a very tough environment:-
+ High gas temperature up to 1400 Deg C
+ High dust concentration up to 2000 g/m3
+ High content of Alkalis, Sulfates and Chlorides
+ In addition, high level of mechanical stress and strain
+ Usual Complaint of wrong O2 reading due to False Air
+
+ Use of pet coke as fuel (with High Sulphur content) / AlternateFuels
+Resource(AFR’s)
+
+Conventional gas sampling systems with water cooling have a number of serious weak points:
+
+ they block up easily because of the condensation that forms due to the low
+operating temperature
+
+ lime deposits and corrosion with water as coolant
+ caking of material on the probe causes excessive mechanical stress
+ High cost for maintenance and low reliabili
+
+Partial Reference List - Overseas Installations
+
+COMPANY
+LOCATION
+ANALYZER MODEL
+
+ASHAKACEM (LAFARGE)
+NIGERIA
+ULTRAMAT 23 & OXYMAT 61
+
+ARM CEMENT
+KENYA
+ULTRAMAT 23 & OXYMAT 61
+
+TORORO CEMNENT
+UGANDA
+ULTRAMAT 23 & OXYMAT 61
+
+OHORONGO CEMENT
+NAMIBIA
+ULTRAMAT 23 & OXYMAT 61
+
+MOMBASA CEMENT
+MOMBASA
+ULTRAMAT 23 & OXYMAT 61
+
+NATIONAL CEMENT SHARE
+COMPANY
+ETHIOPIA
+ULTRAMAT 23 & OXYMAT 61
+
+COMPANY
+LOCATION
+ANALYZER MODEL
+
+OMAN CEMENT
+OMAN
+ULTRAMAT 23 & OXYMAT 61
+
+APODI CEMENT
+BRAZIL
+ULTRAMAT 23 & OXYMAT 61
+
+STAR CEMENT
+RAK, UAE
+ULTRAMAT 23 & OXYMAT 61
+
+CONTINENTAL CEMENT
+CHINA
+ULTRAMAT 23 & OXYMAT 61
+
+AALBORG CEMENT
+MALAYSIA
+ULTRAMAT 23 & OXYMAT 61
+
+MAX CEMENT
+MYANMAR
+ULTRAMAT 23 & OXYMAT 61
+
+COMPANY
+LOCATION
+ANALYZER MODEL
+
+ETHIO CEMENT
+ADDIS ABBA, ETHIOPIA
+ULTRAMAT 23 & OXYMAT 61
+
+INDOPRATA CEMENT
+INDONESIA
+ULTRAMAT 23 & OXYMAT 61
+
+AL SALAM CEMENT
+SUDAN
+ULTRAMAT 23 & OXYMAT 61
+
+DIMOND CEMENT
+MALI
+ULTRAMAT 23 & OXYMAT 61
+
+DIAMOND COMPANY LTD.
+GHANA
+ULTRAMAT 23 & OXYMAT 61
+
+COMPANY
+LOCATION
+ANALYZER MODEL
+
+CIMERWA CEMENT LTD.
+RWANADA
+ULTRAMAT 23 & OXYMAT 61
+
+NATIONAL CEMENT CO. LTD.
+EMALI,KENYA
+ULTRAMAT 23 & OXYMAT 61
+
+SHAYONA CEMENT CO.
+MALAWI
+ULTRAMAT 23 & OXYMAT 61
+
+NCN-DIAMOND MALBAZA
+NIGER
+ULTRAMAT 23 & OXYMAT 61
+
+DIAMOND CEMENT CONGO
+CONGO
+ULTRAMAT 23 & OXYMAT 61
+
+COMPANY
+LOCATION
+ANALYZER MODEL
+
+DIAMOND CEMENT GUINEA
+GUINEA
+ULTRAMAT 23 & OXYMAT 61
+
+HELWAN CEMENT
+EGYPT
+ULTRAMAT 23 & OXYMAT 61
+
+NATIONAL CEMENT CO. LTD.
+KALOLENI
+ULTRAMAT 23 & OXYMAT 61
+
+PIONEER CEMENT
+FUJAIRAH,UAE
+ULTRAMAT 23
+
+SHARJHA CEMENT
+SHARJHA,UAE
+ULTRAMAT 23
+
+UNION-RAK CEMENT
+UAE
+ULTRAMAT 23
+
+OMPANY
+LOCATION
+ANALYZER MODEL
+
+JK CEMENT
+FUJAIRAH
+ULTRAMAT 23 & OXYMAT 61
+
+MALBAZA CEMENT
+NIGER
+ULTRAMAT 23 & OXYMAT 61
+
+CEMEX
+SPAIN - ALCANAR
+ULTRAMAT 23
+
+CEMEX
+SPAIN - CASTILLEJO
+ULTRAMAT 23
+
+CEMEX
+SPAIN - MORATA
+ULTRAMAT 23
+
+EMIRATES CEMENT
+UAE
+ULTRAMAT 23
+
+COMPANY
+LOCATION
+ANALYZER MODEL
+
+COSMOS CEMENT
+NEPAL
+ULTRAMAT 23
+
+SONAPUR CEMENT
+NEPAL
+ULTRAMAT 23
+
+C-G CEMENT
+NEPAL
+ULTRAMAT 23
+
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+
+The Problems & Our Solutions
+
+THE ADVANCED KAS PROBE WITH ADDITIONAL FEATURES:
+
+The problems with the gas analysis in cement rotary kilns can be minimized or eliminated by
+using our patented Gas sampling system.
+
+ CAKING OF MATERIAL ON THE PROBE
+Minor deposits are removed during regular automatic retraction by air blasting of
+probe with compressed air.
+
+ HIGH MAINTENANCE COSTS
+Thanks to the high operating temperature and the effective method of cleaning our
+system can achieve periods of maintenance free operation up to three months.
+
+ FAIL SAFE ARRANGEMENT
+In case of power or water-cooling failure this technology helps to retract the probe
+automatically and saves it from bending due to overheat.
+
+ NEWLY DESIGNED HEAT EXCHANGER
+Newly designed heat exchanger comes with bigger coil and fan for high cooling
+efficiency.
+
+ ADDITIONAL SULFUR ELIMINATION FACILITY
+Separate sulphur removal facility with scrubber filter.
+
+ HIGH COOLING EFFICIENCY OF NEWLY DESIGNED GAS COOLER.
+Newly designed gas cooler provides higher cooling efficiency & moisture removal for
+better life of Analyser.
+
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+
+Electric & Pneumatic Motor Based Fail-Safe Arrangement for Probe Retraction System
+New Designed Advanced Heat Exchanger Assembly
+
+Highlights for Improved components:
+
+Advantages and Benefits
+➢ The New Retraction System with Electric & Pneumatic Motor
+
+ Newly designed heat exchanger assembly
+with Flow sensor used for automatic
+retraction in case of water flow interruption.
+ Water tank designed with level sensors &
+automatic make up water filling facility.
+ VFD controlled large heat exchanger for
+better water cooling depending on the water
+temperature.
+ Electrical &
+pneumatic
+motor-based
+retraction
+system
+with
+Modern
+Water-cooled probe.
+
+ This technology comes
+with automatic retraction
+of probe by pneumatic
+motor in case of power
+failure.
+
+ User can manually control the probe
+with these gear arrangements.
+Manual Switch-over option
+
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+
+➢ The SS Filter with KAS Probe Head
+
+Actual Site Photos of Filter and Probe Head
+Conditions after 30 days of operation
+
+Easy to Open and Maintain -
+Reduced Time and ease of maintenance.
+
+ No Special Tools needed to dismantle the Filter -
+Reduced Time and ease of maintenance.
+
+ No Glass Wool Gaskets Necessary –
+Reduced Inventory
+
+ Old Filter is of 135 mm Length. New Filter of 250
+mm length
+Increased surface area. More sampling time...
+Increased availability
+
+ Filter of Sintered SS. Having more retention of
+Particles.
+Increased Filtration
+
+ Filter Easy to Clean with long Life.
+Reduced Inventory...
+Reduced Down Time....
+
+Advanced Probe Head KAS 9002
+
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+
+High dust accumulation on the probe
+New Modified Counter Flange with Scrapper & Air Blaster for Heavy Dust load
+
+➢ Counter Flange with Scrapper
+
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+
+New Modified Kiln Inlet Probe
+
+➢ Kiln Inlet Probe
+
+ Straight Tube Design.
+
+ Higher Thickness for Probe.
+ Superior Internal reinforcement to withstand bending.
+
+ External Probe Surface Cleaning.
+
+ Internal Probe tube back purge.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 1: SUMMARY OF PRICES
+SR NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(USD)
+TOTAL PRICE
+(USD)
+1
+
+GAS ANALYSER SYSYTEM FOR MEASUREMENT AT KILN INLET
+With Closed Loop Water Cooled Probe – 3 Meters
+With Redundant Retraction System – Electrcial & Pneumatic Motor
+With Scavenging Box for Dual Stage Auto Probe Cleaning
+With Sample Handling System
+With Touch Screen Graphic – HMI
+With Microprocessor Based Analyzer
+With IP54 Panel
+Note:
+Following Shall Be In Siemens Scope Of Supply.
+1. Gas Analyser.
+2. Calibration Gas Cylinders.
+3. Sample Gas Line.
+1 SET
+60000
+60000
+As a part of the Cement Kiln Inlet System package, Adage recommends compulsory bundling the following additional parts
+and services
+2
+Mandatory Parts Package :
+i)
+Spare Kiln Inlet Probe.
+ii) Spare Probe Filter .
+iii) Bag of spares including SOV, Retraction system spares ,etc
+1 SET
+10000
+3
+Mandatory Commissioning by Adage expert, which will include 2 visits . The 1st
+one during pre-commissioning & for supervision of the installation of the probe &
+retraction system and bushing tube and the 2nd visit for final commissioning
+Note : Air Tickets accommodation and local conveyance by customer
+2 Visits
+Included.
+4
+Preventive Maintenance Visit during the first 24 months of system installation,
+which will include 3 visits every year, which is total 6 visits to end customer site.
+Note: Air Tickets by Adage
+2 years
+10000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 2- NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM
+
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+Gas Analyser and Calibration Gas Cylinders Shall Be in Siemens Scope Of Supply
+•
+Plant Instrument air & Nitrogen required @ 4-6 bar
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (UPS)
+230 VAC, 50 Hz (NON- UPS)
+415 VAC, 50 Hz (NON- UPS)
+
+Our Scope of Supply and Work Includes:
+
+•
+Design, Engineering and Supply as per Summary of Prices
+•
+Supervision of Installation and Commissioning of the complete System
+•
+Project Management and Project Documentation
+
+Our Scope of Supply Does Not Include:
+
+•
+All Erection and Installation Activity.
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals.
+•
+Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal /
+serial communication cables etc.
+•
+Laying of trays/structural and support for field tubing.
+•
+All utilities as mentioned above.
+•
+M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3- COMMERCIAL TERMS AND CONDITIONS
+Price Basis
+Ex works, Goa
+Packing Charges
+2 % In Case of Air Freight or 3.5 % for Sea Worthy Packing
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of drawing Approval.
+Offer validity
+30 days.
+Payment Terms
+20% Advance with the Purchase Order, Balance 80 % against Proforma Invoice on
+readiness of material prior to dispatch.
+Warranty Clause
+12 months from the date of Commissioning or 18 months from the date of dispatch,
+whichever is earlier.
+
+For Adage Automation Pvt. Limited
+
+Mr. Pankaj Lad
+Email: pankaj@adage-automation.com
+Mob: + 91 7767871972
+(Adage-Goa-HO)
+
+Mr. Saheel Patil
+Email: p.saheel@adage-automation.com
+Mob: + 91 8668816625
+(Adage-Goa-HO)
+
+SOLUTION PARTNER ANALYTICAL
+PROBE CONDITIONING UNIT
+COMPRESSED AIR
+@ 5-6 BAR
+FROM FIELD
+GAS CONDITIONING UNIT
+FRESH WATER
+INLET FROM
+FIELD
+ELECTRIC MOTOR
+PNEUMATIC MOTOR
+RU01
+SV01
+HE01
+WFS01
+EXTERNAL TUBES IN
+CUSTOMERS SCOPE
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: BILL OF MATERIAL FOR KILN INLET APPLICATION
+DESCRIPTION
+LEGENDS
+QTY
+CLOSED LOOP WATER COOLED PROBE – KAS PROBE
+PROBE LENGTH: 3000 mm
+WITH PROBE HEAD
+WITH RING HEATER
+WITH SS FILTER (IMPORTED)
+WITH BUSHING TUBE, FLANGES & MOUNTING ACCESSORIES
+
+KPRB 01
+
+1 PC
+SCAVENGING PANEL
+WITH DOUBLE STAGE CLEANING OF PROBE FACILITY
+WITH SOLENOID VALVES,
+COMPLETELY TUBED, PREFABRICATED & TESTED
+
+SV 01
+
+1 PC
+HEAT EXCHANGER
+FOR MAINTAINING THE WATER TEMP OF CLOSED LOOP WATER SYSTEM OF
+KAS PROBE
+
+HE 01
+
+1 PC
+WATER FILTER STATION
+WITH SUPERIOR IMPORTED FILTER ASSEMBLY
+WITH BALL VALVE
+WITH COMPLETELY TUBED, & BRASS FITTINGS
+
+WFS 01
+
+1 PC
+AIR FILTER STATION
+AIR FILTER REGULATOR
+WITH PRESSURE SWITCH
+WITH COMPLETELY TUBED, & BRASS FITTINGS
+
+AFS 01
+
+1 PC
+CLOSED LOOP WATER COOLING SYSTEM CONSISTING OF:
+RECIRCULATION COOLING WATER PUMP (CP01)
+TEMP. INDICATOR WITH ALARM CONTACT (TI02)
+LEVEL SWITCH WITH CONTACT FOR WATER TANK (HWL & LWL)
+FLOW SWITCH (FS 01)
+
+WS 01
+
+1 SET
+SAMPLE GAS PUMP
+FOR SAMPLE GAS LINE
+POWER SUPPLY: 230 VAC, 50HZ
+MAKE: KNF / BUHLER, GERMANY
+
+MP 01
+
+1 PC
+SAMPLE GAS COOLER
+TYPE: REFRIGERATION
+MAKE: ADAGE
+
+GC 01
+
+1 PC
+PERISTALTIC PUMP
+MAKE: ASF THOMAS, GERMANY
+
+PP 01
+
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3/2 SOLENOID VALVE
+MAKE: ASCO/BURKERT
+
+SV 10
+
+1 PC
+CONDENSATE MONITOR
+WITH MEMBRANE FILTER
+WITH SWITCHING UNIT
+MAKE: ADAGE
+
+CM 01
+
+1 PC
+NEEDLE VALVE
+MAKE: ADAGE
+
+NV 01-02
+
+2 PC
+FLOW MONITOR
+MAKE: ADAGE
+
+FMO1
+
+1 PC
+5 WAY BALL VALVE
+FOR SPAN & ZERO GAS LINE
+MAKE: EM TECHNIK, GERMANY.
+
+BV 03
+
+1 PC
+TOUCH SCREEN GRAPHIC MMI
+PROVIDED ON THE FRONT OF PANEL
+FOR DISPLAY OF ALARM, WARNING, DIAGNOSTICS, HELP & TEXT MESSAGE &
+FAULT LOG BOOK
+
+MMI 01
+
+1 PC
+GAS CONDITIONING CABINET
+ABOVE ITEMS WILL BE MOUNTED INSIDE THIS CABINET, COMPLETELY
+TUBED, WIRED AND FUNCTIONALLY TESTED.
+SIZE & EXACT DIMENSIONS OF THE PANEL SHALL BE INFORMED AFTER
+DETAILED ENGINEERING.
+
+CAB 01
+1 PC

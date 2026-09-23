@@ -1,0 +1,945 @@
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+Dear Sir/Madam, 
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to 
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing 
+and Supply of analyzer system as per your requirement. 
+ 
+TECHNICAL OFFER 
+
+ADAGE QUOTE REF: 
+Q2510103T0 
+DATED : 22.09.2025 
+BID TYPE : Firm 
+PROJECT TITLE: 
+Supply of Analyser for GOP plant, RIL VMD 
+INQUIRY DETAILS: 
+RFX No: 1000226151 
+CUSTOMER: 
+Kind Attention : Mr Arvind K Verma 
+RIL VMD 
+END USER: 
+Reliance Industries Limited 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Summary Of Prices 
+SECTION-2: Technical Literature 
+SECTION-3: Scope Definition 
+SECTION-4: Commercial Terms & Condition 
+SECTION-5 : Detailed GC Offer 
+ 
+Kindly review and do let us know if you have any queries 
+Kind Regards 
+ 
+Mr Tejas Rivonkar 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9284270984
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to briefly 
+introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. Our 
+expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for various 
+industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ SECTION 1: SUMMARY OF PRICES 
+ 
+Item 
+Qty 
+Description 
+Unit Price 
+Total Price 
+1 
+1 No 
+4 Stream GC (Option 1) - Valmet 
+Quoted 
+Quoted 
+2 
+1 No 
+2 Stream TDLS – Ametek 5100HD 
+Quoted 
+Quoted 
+3 
+1 No 
+2 Stream TDLS – Ametek 5100HD 
+Quoted 
+Quoted 
+4 
+1 No 
+Design Engineering & Project Documentation 
+Quoted 
+Quoted 
+5 
+1 No 
+FAT at Adage Works 
+Inclusive 
+Inclusive 
+6 
+1 No 
+Packing, Forwading & Transportation upto Site 
+charges 
+Quoted 
+Quoted 
+7 
+Lumpsum Supervision of installation & commissioning & SAT 
+Quoted 
+Quoted 
+TOTAL PACKAGE PRICE 
+Quoted 
+
+ 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS 
+ 
+1. All Field power and signal cable shall be in RIL scope of supply 
+ 
+2. Instrument air @5-7 Kg/cm2g shall be provided at existing analyser shelter. 
+ 
+3. Existing PDB’s, JB’s (ASJB,DSJB,CSJB), Headers shall be used at existing shelter. 
+ 
+4. Serial output shall be terminated at communication JB at existing shelter side, further distribution 
+shall be in RIL scope. 
+ 
+5. All makes shall be as per RIL Approved vendor list. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+SECTION 3: TECHNICAL LITERATURE 
+ 
+A 
+ PROCESS CONDITIONS 
+Stream 1 
+- 
+Supply Pressure (Nor): 23.8 Kg/cm2g 
+- 
+Temperature (Nor): 50 Deg C 
+Service: Acetylene Converter Feed Inlet 
+ 
+Stream 2 
+- 
+Supply Pressure (Nor): 23.2 Kg/cm2g 
+- 
+Temperature (Nor): 40 Deg C 
+Service: Intermediate Stream 
+ 
+Stream 3 
+- 
+Supply Pressure (Nor): 21.9 Kg/cm2g 
+- 
+Temperature (Nor): -1.1 Deg C 
+Service: Acetylene converter Outlet 
+Stream 4 
+- 
+Supply Pressure (Nor): 29.55 Kg/cm2g 
+- 
+Temperature (Nor): 15-25 Deg C 
+Service: CO in H2 Stream 
+As per MR Requirement 
+1 
+OPTION 1 
+4 Stream GC 
+Tag No: AR-3001 
+MODEL: MAXUM EDITION II, 
+MAKE: Valmet 
+Mounting : Inside existing analyser shelter 
+GC Hazardous Area Classification: Zone 1, llB+H2 T3 
+No of Streams: 4 
+Refer detailed GC offer below 
+Sample return to : Flare header/vent header (Existing at 
+shelter) 
+Analyzer Outputs: 
+- 
+Individual 4-20 mA Analog output. 
+- 
+RS-485/ Ethernet Modbus/TCP IP Serial Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+1.1 
+Sample Probe 
+- 
+probe with welded isolation valve 
+ 
+4 No 
+ 
+Quoted 
+1.2 
+Sample transportation tube for Stream 1 - 4 
+- 
+¼ ’’SS316 Tube, Qty : 50 Meters for each stream 
+ 
+200 Meters 
+ 
+Quoted 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+1.3 
+Primary sample handling system x 4 No ( Streams 1-4) 
+- 
+Ball valve, Coarse filter, Pressure regulator, SRV 
+- 
+Shall be mounted inside SS316 enclosure (600(W) x 
+600(H) x 350(D)) 
+ 
+Common Secondary Sample Handling system as below: 
+- 
+Ball valve, pressure indicator, Flowmeter for bypass & 
+return, NRV, SRV, Fastloop filter (non-redundant), Air 
+operated valves, Fine filter etc. 
+- 
+shall be mounted inside SS316 SHS box (800(W) x 
+1000(H) x 350(D)) on outer side of existing analyzer shelter 
+ 
+1 No 
+Quoted 
+1.4 
+Autochangover unit 
+- 
+carrier gas cylinder for 6 months operation from the date of 
+commissioning 
+- 
+Suitable for 2+2 cylinder bank 
+Calibration blend x 1 No with double stage CPR 
+- 
+Shall be supplied for 1 year operation from the date of 
+commissioning. 
+ 
+1 Set 
+Quoted 
+2 
+OPTION 2 
+2 Stream TDLS x 1No 
+Tag No: AR-3001 
+MODEL: 5100HD 
+MAKE: Ametek 
+Mounting : Inside existing analyser shelter 
+Hazardous Area Classification: Zone 1, llC T3 
+No of Streams: 2 
+Injection: Parallel injection 
+Measuring range: Acetylene : 0-2% (Stream 1) 
+ Acetylene : 0-0.1% (Stream 2) 
+Sample return to : Flare header/vent header (Existing at 
+shelter) 
+2 Stream TDLS x 1 No 
+Tag No: AR-3001 
+MODEL: 5100HD 
+MAKE: Ametek 
+Mounting : Inside existing analyser shelter 
+Hazardous Area Classification: Zone 1, llC T3 
+No of Streams: 2 
+Injection: Parallel injection 
+Measuring range: Acetylene : 0-10ppm (Stream 3) 
+ CO : 0-200ppm (Stream 4) 
+Sample return to : Flare header/vent header (Existing at 
+shelter) 
+ 
+2 No 
+ 
+Quoted 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+2.1 
+Sample Probe 
+- 
+probe with welded isolation valve 
+ 
+4 No 
+ 
+Quoted 
+2.2 
+Sample transportation tube for Stream 1- 4 
+- 
+¼ ’’SS316 Tube, Qty : 50 Meters for each stream 
+ 
+200 Meters 
+ 
+Quoted 
+2.3 
+Primary sample handling system x 4 No ( Streams 1-4) 
+- 
+Ball valve, Coarse filter, Pressure regulator, SRV 
+- 
+With cabinet heater 
+- 
+Shall be mounted inside SS316 enclosure (600(W) x 
+600(H) x 350(D)) 
+ 
+ Secondary Sample Handling system for stream 1 & 2 
+- 
+Ball valve, pressure indicator, Flowmeter for bypass & 
+return, NRV, SRV, coalescing filter (non - redundant),Fine 
+filter etc. 
+- 
+shall be mounted inside SS316 SHS box (800(W) x 
+1000(H) x 350(D)) on outer side of existing analyzer shelter 
+ 
+Secondary Sample Handling system for stream 3 & 4 
+- 
+Ball valve, pressure indicator, Flowmeter for bypass & 
+return, NRV, SRV, coalescing filter (non - redundant),Fine 
+filter etc. 
+- 
+shall be mounted inside SS316 SHS box (800(W) x 
+1000(H) x 350(D)) on outer side of existing analyzer shelter 
+ 
+1 Set 
+Quoted 
+2.4 
+Calibration cylinder with double stage CPR for Analyser 1 
+- 
+Individual 10L Calibration cylinder for Zero & Span Shall be 
+supplied for 1 year operation from the date of 
+commissioning. 
+ 
+Calibration cylinder with double stage CPR for Analyser 2 
+- 
+Individual 10L Calibration cylinder for Zero & Span Shall be 
+supplied for 1 year operation from the date of 
+commissioning. 
+ 
+1 Set 
+Quoted 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 
+
+ 
+
+ 
+
+ 
+SECTION 3 : SCOPE MATRIX 
+Sr. 
+No. 
+Description 
+Scope 
+Adage 
+Customer 
+1 
+Design, engineering & supply of analyser as per offer 
+Yes 
+ 
+2 
+Sample Tapping Nozzle Flange 
+ 
+Yes 
+3 
+Sample Probe 
+Yes 
+ 
+4 
+Sample transportation tube from PSHS till SHS 
+Yes 
+ 
+5 
+JBs & PDPs with required TBs & MCBS and other Accessories at 
+existing shelter 
+ 
+Yes 
+6 
+Inspection & Testing 
+Yes 
+ 
+7 
+Project Management & Project Documentation 
+Yes 
+ 
+8 
+Factory Acceptance Test at Adage Works 
+Yes 
+ 
+9 
+Packing forwarding 
+Yes 
+ 
+10 
+Freight up to site 
+Yes 
+ 
+11 
+Storage of supplied system at site 
+ 
+Yes 
+12 
+Mobilization of supplied system from Stores to location. 
+ 
+Yes 
+13 
+Installation of supplied system at site 
+ Yes 
+ 
+14 
+Supply of Standard Field Cables including signal, power 
+ 
+Yes 
+15 
+Laying of Power cable, signal cable, Sample line and Airline etc at 
+site 
+ 
+Yes 
+16 
+laying of Trays (Power, Signal, Sample line, Air etc) 
+ 
+Yes 
+17 
+Provision of dry instrument Air 
+ 
+Yes 
+18 
+Provision of Plant Nitrogen 
+ 
+Yes 
+19 
+Provision of Power (UPS and NON-UPS) at one location near 
+Battery limit. 
+ 
+Yes 
+20 
+Supervision of Installation and Commissioning 
+Yes 
+ 
+21 
+4-20mA, RS485, TCP/IP from field/ AH to DCS 
+ 
+Yes 
+22 
+Site Acceptance Test & Handover 
+Yes 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 
+SECTION 4: COMMERCIAL TERMS & CONDITION 
+Price Basis 
+FOR Site 
+Packing Charges 
+Inclusive 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN Code 
+90271000 
+Freight Charges 
+Inclusive 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 08 months from the date of PO 
+Offer validity 
+90 days. 
+Payment Terms 
+Shall be discussed during commercial stage 
+Guarantee Clause 
+ 
+Against manufacturing defects for 12 months from the date of Commissioning or 
+18 months from the date of dispatch whichever is earlier. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 
+SECTION 5: DETAILED GC OFFER 
+
+Hardware Configuration 
+ Maxum Oven: Single Isothermal Air Bath 
+ Detector: Thermal Conductivity (IS-TCD) 
+ Flame Ionization 
+ Electronic Pressure Control Modules: 3 (Type EPC3) 
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way 
+(SS) Sample Valve: Model 50 Vapor Inject 
+Column Valve: Model 50 
+Human Machine Interface: Local Color Touch Screen 
+Network: 2x Ethernet 10/100 Mb (twisted 
+pair) with RJ45 connectors 
+Modbus Data Format: 32-bit IEEE Floating Point 
+Analog Outputs: 6 
+Analog Inputs: 4 
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault) 
+Digital Inputs: 8 
+I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's 
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s) 
+Engraved Plastic Tag: Included 
+Other Tubing and Valves: Stainless Steel 
+IP Rating: IP54, Category 2. 
+
+ Analytical configuration 
+ Number of Streams: 4 
+ Number of Calibration Blends: 1 
+Validation: Automatic (with calibration standard) 
+Calibration: Automatic via SVCM pneumatic outputs 
+Stream Switching: Automatic via SVCM pneumatic outputs 
+Repeatability Test: 8 Hours 
+ 
+ Analyzer Certification 
+Area Classification: IECEx IIB + H2 T3 (200°C) Gb 
+
+Outputs for Stream Switching and Calibration 
+Double pneumatic outputs: 2 
+Single pneumatic outputs: 8 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 
+Utility Requirements 
+ Carrier: Hydrogen (99.999%) 
+ FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%) 
+Flame Detector Fuel: Hydrogen (99.999%) 
+System Power: 100-130 V, 47-63 Hz 
+Circuit 2: 1600 VA 
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2) 
+Valve Actuation Gas: 120 psig 
+ 
+ Stream Number 
+1 
+Stream Tag 
+Stream-1 
+Stream name 
+MONITORING CONVERTER PERFORMANCE 
+Aggregate Vapor 
+State Sample Analyzer 
+ 
+Chemical Name 
+Min 
+Normal 
+Max 
+Measuring Range 
+Low - High 
+Unit 
+Repeatability Train AO 
+HYDROGEN 
+1,51 
+Not Measured 
+VOL% 
+METHANE 
+0,17 
+Not Measured 
+VOL% 
+ACETYLENE 
+0,8 
+0 - 2 
+VOL% 
+0,5 (% RSD) 
+R1 
+X 
+ETHYLENE 
+74,42 
+Not Measured 
+VOL% 
+ETHANE 
+22,69 
+Not Measured 
+VOL% 
+PROPYLENE 
+0,41 
+Not Measured 
+VOL% 
+ 
+ Cycle Time : 3 Mins 
+ 
+ Stream Number 
+2 
+Stream Tag 
+Stream-1 
+Stream name 
+MONITORING CONVERTER PERFORMANCE 
+Aggregate Vapor 
+State Sample Analyzer 
+Chemical Name 
+Min 
+Normal 
+Max 
+Measuring Range 
+Low - High 
+Unit 
+Repeatability Train AO 
+HYDROGEN 
+0,07 
+Not Measured 
+VOL% 
+METHANE 
+0,18 
+Not Measured 
+VOL% 
+ACETYLENE 
+0,08 
+0 - 0,1 
+VOL% 
+1 (% RSD) 
+L1 
+X 
+ETHYLENE 
+75,5 
+Not Measured 
+VOL% 
+ETHANE 
+23,75 
+Not Measured 
+VOL% 
+PROPYLENE 
+0,41 
+Not Measured 
+VOL% 
+Stream Note 
+See stream 1 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ Cycle Time : 3 Mins 
+
+ Stream Number 
+3 
+Stream Tag 
+Stream-1 
+Stream name 
+MONITORING CONVERTER PERFORMANCE 
+Aggregate Vapor 
+ State Sample Analyzer 
+
+Chemical Name 
+Min 
+Normal 
+Max 
+Measuring Range 
+Low - High 
+Unit 
+Repeatability Train AO 
+HYDROGEN 
+0,08 
+Not Measured 
+VOL% 
+METHANE 
+0,18 
+Not Measured 
+VOL% 
+ACETYLENE 
+0 - 10 
+PPMV 
+3 (% RSD) 
+L1 
+X 
+ETHYLENE 
+75,49 
+Not Measured 
+VOL% 
+ETHANE 
+23,83 
+Not Measured 
+VOL% 
+PROPYLENE 
+0,41 
+Not Measured 
+VOL% 
+ CARBON MONOXIDE 10 Not Measured PPMV 
+ 
+ Cycle Time : 3 Mins 
+ 
+ Stream Number 
+4 
+Stream Tag 
+Stream-1 
+Stream name 
+MONITORING CONVERTER PERFORMANCE 
+Aggregate Vapor 
+ State Sample Analyzer 
+ 
+Chemical Name 
+Min 
+Normal 
+Max 
+Measuring Range 
+Low - High 
+Unit 
+Repeatability Train AO 
+HYDROGEN 
+95 
+Not Measured 
+VOL% 
+METHANE 
+5 
+Not Measured 
+VOL% 
+CARBON 
+MONOXIDE 
+100 
+0 - 200 
+PPMV 
+2 (% RSD) 
+R2 
+X 
+ Cycle Time : 3 Mins 
+
+UTILITY REQUIREMENT
+SIEMENS GC
+MAXUM - II
+LEGENDS
+1. 110VAC 50HZ UPS POWER SUPPLY FOR GC
+2. 230VAC 50HZ NON UPS FOR HTT, HPR
+3. INSTRUMENT AIR, 3.5 TO 6 BAR
+TYPICAL P&ID OF GAS CHROMATOGRAPH
+LEGENDS AS APPLICABLE
+ITEM
+DESCRIPTION
+GC
+ GAS CHROMATOGRAPH
+PSHS PRIMARY SAMPLE HANDLING SYSTEM
+SSHS SECONDARY SAMPLE HANDLING SYSTEM
+PI
+ PRESSURE INDICATOR
+BV
+ BALL VALVE
+NV
+ NEEDLE VALVE
+NRV NON RETURN VALVE
+CF
+ COALESING FASTLOOP FILTER
+TSV
+ THERMAL SHUTOFF VALVE
+HPR HEATED PRESSURE REGULATOR
+HTT
+ HEAT TRACER TUBE
+MFM METAL TUBE FLOWMETER
+FF
+ FINE FILTER
+SRV SAFETY RELIEF VALVE
+AOV AIR OPERATED VALVE
+FH
+ FLARE HEADER
+TI
+ TEMPERATURE INDICATOR
+ACU AUTO CHANGEOVER UNIT
+
+UTILITY REQUIREMENT
+5100
+HD
+(AMETEK)
+LEGENDS
+1. 110VAC 50HZ UPS POWER SUPPLY FOR GC
+2. 230VAC 50HZ NON UPS FOR HTT, HPR
+3. INSTRUMENT AIR, 3.5 TO 6 BAR
+TYPICAL P&ID OF GAS CHROMATOGRAPH
+LEGENDS AS APPLICABLE
+ITEM
+DESCRIPTION
+GC
+ GAS CHROMATOGRAPH
+PSHS PRIMARY SAMPLE HANDLING SYSTEM
+SSHS SECONDARY SAMPLE HANDLING SYSTEM
+PI
+ PRESSURE INDICATOR
+BV
+ BALL VALVE
+NV
+ NEEDLE VALVE
+NRV NON RETURN VALVE
+CF
+ COALESING FASTLOOP FILTER
+TSV
+ THERMAL SHUTOFF VALVE
+HPR HEATED PRESSURE REGULATOR
+HTT
+ HEAT TRACER TUBE
+MFM METAL TUBE FLOWMETER
+FF
+ FINE FILTER
+SRV SAFETY RELIEF VALVE
+AOV AIR OPERATED VALVE
+FH
+ FLARE HEADER
+TI
+ TEMPERATURE INDICATOR
+ACU AUTO CHANGEOVER UNIT
+
+UTILITY REQUIREMENT
+5100
+HD
+(AMETEK)
+LEGENDS
+1. 110VAC 50HZ UPS POWER SUPPLY FOR GC
+2. 230VAC 50HZ NON UPS FOR HTT, HPR
+3. INSTRUMENT AIR, 3.5 TO 6 BAR
+TYPICAL P&ID OF GAS CHROMATOGRAPH
+LEGENDS AS APPLICABLE
+ITEM
+DESCRIPTION
+GC
+ GAS CHROMATOGRAPH
+PSHS PRIMARY SAMPLE HANDLING SYSTEM
+SSHS SECONDARY SAMPLE HANDLING SYSTEM
+PI
+ PRESSURE INDICATOR
+BV
+ BALL VALVE
+NV
+ NEEDLE VALVE
+NRV NON RETURN VALVE
+CF
+ COALESING FASTLOOP FILTER
+TSV
+ THERMAL SHUTOFF VALVE
+HPR HEATED PRESSURE REGULATOR
+HTT
+ HEAT TRACER TUBE
+MFM METAL TUBE FLOWMETER
+FF
+ FINE FILTER
+SRV SAFETY RELIEF VALVE
+AOV AIR OPERATED VALVE
+FH
+ FLARE HEADER
+TI
+ TEMPERATURE INDICATOR
+ACU AUTO CHANGEOVER UNIT

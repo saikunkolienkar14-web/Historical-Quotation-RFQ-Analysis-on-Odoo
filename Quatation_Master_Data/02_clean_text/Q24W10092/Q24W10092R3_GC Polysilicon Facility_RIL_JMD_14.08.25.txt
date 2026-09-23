@@ -1,0 +1,4023 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+With reference to your inquiry for Gas Chromatograph Analyser System for your Esteemed Polysilicon
+Project, please find enclosed our quotation for design, engineering, manufacture and Supply of analyzer
+system.
+
+TECHNICAL OFFER
+
+ADAGE QUOTE REF:
+Q24W10092R3
+DATED : 14.08.2025
+BID TYPE : FIRM
+PROJECT TITLE:
+Supply of Gas Chromatograph for Polysilicon Facility at RIL Jamnagar
+INQUIRY DETAILS:
+RIL RFQ NO. :1000160297
+
+CUSTOMER:
+
+Kind Attention : Mr.Hemant Dixit
+Reliance Industries Limited
+END USER:
+
+Reliance Industries Limited
+REFERENCE:
+Various Discussions and final technical requirements (Attached
+Excel Sheet) via email dtd. 11.07.25
+We are pleased to submit proposal for the analyser system along with a brief introduction about our
+company.
+The contents are as follows:
+
+Section-1: Scope of supply
+Section-2: Scope of services
+Section-3: Summary of prices
+Section-4: Technical Literature
+Section-5: Responsibility matrix
+Section-6: Commercial terms & conditions
+
+We look forward to hear from you for any clarifications to move forward for commercial discussions.
+
+Kind Regards
+
+Mr Damu Shelke
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9823840039
+damu@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+This is in context to your requirement of for Gas analysis System & We Thank you for the same.
+
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring &
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc
+
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60%
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to
+over 40 countries in Africa, Mid East, Far East and South America.
+
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our
+State of the art factory with its highly sophisticated infrastructure is second to none in India.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Comments resolution sheet : With reference to the meeting dtd. 12.08.25 between M/s RIL, Worley and
+Adage regarding final comments on Technical Offer & Schematic drawings.
+
+Sr.
+No
+M/s RIL & Worley comments received on
+12.08.2025 on Technical Offer Q24W10092R2 &
+Schematic drawing.
+ADAGE Reply dtd: 13.08.25
+1
+It was discussed & agreed that Plant N2 purging
+connection to be provided near each & every tapping.
+The same shall be specified in the offer.
+RIL informed Worley to provide Plant N2 piping upto
+all the GC tapping points. The same to be updated in
+the Process P&IDs also.
+Noted. We have considered N2 purging
+arrangement at each primary SHS with
+1/2” OD connection.
+These will be used to purge sample line
+and SHS components before
+maintenance activity. Analyser/GC
+purging is not applicable.
+
+2
+RIL informed that any Purging / draining / venting to
+be connected to closed loop only. Due to flammability
+of sample, Atmospheric vent is not acceptable.
+
+a) Purge N2 to be connected to hose
+and further connection to safe
+location by RIL. Adage shall
+provide BH connection near each
+Secondary SHS.
+b) Draining, Sample shall be
+connected to close drain. Pressure
+of each point is already indicated
+in drg. Drain point to be decided
+by Worley.
+c) Venting, the analyser vent is
+connected to common Gas vent
+recovery system for each AH. The
+Gas vent recovery outlet is
+connected to vent header with
+Max pressure of 0.5kg/cm2g.
+Adage scope is limited to AH
+battery limit.
+
+3
+Even though Sample Bomb requirement is specified in
+the RPMS, RIL confirmed that the Sample Bombs
+shown in Sample Conditioning System (SCS) drawing
+& Offer shall be deleted.
+Sample bomb arrangement is not
+required and hence removed from the
+offer and drg.
+4
+Even though Validation tank requirement is specified
+in the RPMS, RIL confirmed that the Validation tank
+shall be deleted. Adage is requested to keep (retain)
+the provision from sample line for connecting to the
+validation tank.
+
+Noted & validation tank is deleted from
+offer. We have kept the provision for
+connecting the sample line to validation
+tank for future requirement.
+5
+Adage to provide Calibration blends for all GCs (even
+a) Noted for vapor blends
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+for Liquid stream GCs). Adage informed that it is
+difficult to provide Calibration blend for Liquid stream
+GCs (since the Shelf life is very low). In view of the
+same, RIL agreed that offline GC shall be used for
+validation of Sample streams in online GC.
+Additionally, for Site Acceptance Test (SAT), Adage to
+provide the Liquid stream Calibration blend for
+checking of GCs
+b) For liquid blends which are
+commercially not available or
+available with very low volume
+with limited shelf life, results from
+offline GC (lab) shall be used to
+validate process GC during normal
+operation at site.
+However, during pre-
+commissioning/SAT, liquid bottles
+shall be procured / imported by
+Adage as available from the
+commercial market.
+6
+RIL confirmed that Back pressure in Vent Header shall
+be 0.5 Kg/cm2g. All Venting shall be connected to the
+Vent Header only.
+GC outlet shall also be vented to Vent header only
+(and not through the Atmospheric vent).
+Confirmed
+7
+Isolation valve shall be provided at the downstream of
+Filter FF14 (2 micron). Adage agreed for the same.
+Noted & updated in the schematic
+drawing.
+8
+Adage to explore the possibility of providing “Double
+containment rolled tubing coil (i.e. one tube inside
+another tube)” with Heat tracing, etc.
+This may be required from few streams.
+RIL/Worley to identify the streams.
+Adage is exploring this with sub vendors.
+
+9
+Adage to provide Pressure values at each location
+such as Inlets, outlets, Back pressure regulator, etc in
+the SCS drawings in the offer stage only
+Noted & updated in the revised schematic
+drawing.
+10
+The Excel file “GC measuring components ranges”
+shall be considered as basis for GC measuring
+components & ranges. The same to be provided in
+offer as Annexure
+Noted & attached as ANN-1
+11
+RIL confirmed the Moisture Analyzer ranges shall be 0
+to 1000 ppm
+Noted and updated in revised offer.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SCOPE OF SUPPLY
+
+1. 3 x Shelter and Redundant HVAC
+2. 6 x GCs with Sampling System
+3. 1 x H2 Analyser with Sampling System
+4. 4x Moisture Analyser with Sampling System
+5. 1x Analyser Management System
+6. 1 Lot x Mandatory Spares.
+7. 1 Lot x Startup and Commissioning Spares
+8. 1 Lot x Consumables Spares
+9. 1 set x Documentation.
+
+SECTION 2: SCOPE OF SERVICES
+
+1. Engineering, Integration of GC based analyser system customized to the proccess data sheet.
+2. Supervision for installation, commissioning & training.
+3. SAT & handover.
+4. Services during warranty.
+
+SHORT DESCRIPTION OF THE OFFERED SYSTEM
+
+The offered system is based on MAXUM II GCs for both Liquid & Gas applications for complex Polysilicon
+process. The sample from the process is tapped and conditioned for any particles in the Primary sampling
+system with a self cleaning filter. This Sample is transported to the secondary sampling system fitted with
+fastloop redundant filters. The sample from the fastloop is transported back to the process for liquid
+samples.
+The sample from the analysers are also collected in the gas recovery system & transported back to the
+vent header operated at 0.5kg/cm2g.
+
+All the probes, transportation line, Calibration & carrier gases (suitable for 6 months operation after SAT)
+with regulators shall be supplied by Adage. Further refilling to be taken care by RIL.
+
+All the GCs and Analysers are having a provision to be connected to DCS through MODBUS TCP/IP for
+signal and alarm reporting. These signals are also connected to the Analyser Management System (AMS)
+for day to day maintenance.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3: SCOPE OF WORK (as per attached Excel sheet dtd: 11.08.25)
+
+Tag wise summary of the Measurements Components for various streams.
+
+Analyzer House No.: E255 AS 320001
+
+GC No.1 : AT-01317185
+
+No of Streams: 3
+
+Stream 1:
+PFD Stream no. 125T
+Stream Tag no.: AE-01317185
+Cycle Time : 30 Min
+
+Crude TCS/STC to T-12504 A/B
+
+Sample Phase: Liquid
+
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppm
+
+PHOSPHORUS TRICHLORIDE
+
+ppm
+
+HEXACHLORODISILANE
+
+ppb
+
+METHYL DICHLOROSILANE
+METHYL DICHLOROSILANE
+ppm
+0-70
+MONOCHLOROSILANE
+
+ppm
+
+BORON TRICHLORIDE
+
+ppm
+
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-150
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-1
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-25
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-100
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+ppm
+0-350
+ALUMINUM CHLORIDE
+ppb
+
+HYDROGEN
+
+ppm
+NITROGEN
+
+ppb
+
+Stream 2:
+PFD Stream no. 122
+Stream Tag no.: AE-318050
+Cycle Time : 30 Min
+
+TCS/STC to T-12504 A/B
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppm
+
+PHOSPHORUS TRICHLORIDE
+
+ppm
+
+HEXACHLORODISILANE
+
+ppb
+
+METHYL DICHLOROSILANE
+METHYL DICHLOROSILANE
+ppm
+0-80
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+wt %
+0-1
+BORON TRICHLORIDE
+BORON TRICHLORIDE
+ppm
+0-25
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-250
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-2
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-35
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-100
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+ppm
+0-250
+ALUMINUM CHLORIDE
+
+ppb
+
+HYDROGEN
+
+ppm
+
+NITROGEN
+
+ppb
+
+Stream 3:
+PFD Stream no. 125T
+Stream Tag no.: AE-02317185
+Cycle Time : 30 Min
+
+Crude TCS/STC to T-12504 A/B
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppm
+
+PHOSPHORUS TRICHLORIDE
+
+ppm
+
+HEXACHLORODISILANE
+
+ppb
+
+METHYL DICHLOROSILANE
+METHYL DICHLOROSILANE
+ppm
+0-70
+MONOCHLOROSILANE
+
+ppm
+
+BORON TRICHLORIDE
+
+ppm
+
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-150
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-1
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-25
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-100
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+ppm
+0-350
+ALUMINUM CHLORIDE
+ppb
+
+HYDROGEN
+
+ppm
+NITROGEN
+
+ppb
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GC No.2 : AT-320050
+
+No of Streams: 7
+
+Stream 1:
+PFD Stream no. 210
+Stream Tag no.: AE-320050
+Cycle Time : 45 Min
+
+Chlorosilanes feed to C-32001
+
+Sample Phase: Liquid
+
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppm
+
+PHOSPHORUS TRICHLORIDE
+
+ppm
+
+HEXACHLORODISILANE
+
+ppb
+
+METHYL DICHLOROSILANE
+METHYL DICHLOROSILANE
+ppm
+0-30
+MONOCHLOROSILANE
+
+ppb
+
+BORON TRICHLORIDE
+BORON TRICHLORIDE
+ppm
+0-40
+HYDROGEN CHLORIDE
+
+ppm
+
+DICHLOROSILANE
+DICHLOROSILANE
+ppm
+0-1200
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-30
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-100
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+ppm
+0-500
+ALUMINUM CHLORIDE
+ppb
+
+HYDROGEN
+
+ppm
+
+NITROGEN
+
+ppb
+
+Stream 2:
+PFD Stream no. 205
+Stream Tag no.: AE-320044
+Cycle Time : 12 Min
+
+TCS to C-32001
+
+Sample Phase: Liquid
+
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PHOSPHORUS TRICHLORIDE
+ppb
+
+METHYL DICHLOROSILANE
+
+ppm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+MONOCHLOROSILANE
+
+ppm
+
+BORON TRICHLORIDE
+
+ppm
+
+HYDROGEN CHLORIDE
+
+ppm
+
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-1
+TRICHLOROSILANE
+
+wt %
+
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppm
+0-1000
+METHYL TRICHLOROSILANE
+ppb
+
+HYDROGEN
+
+ppm
+ALUMINUM CHLORIDE
+ppb
+
+NITROGEN
+
+ppb
+
+Stream 3:
+PFD Stream no. 217
+Stream Tag no.: AE-320049
+Cycle Time : 45 Min
+
+Crude Column bottoms to E-32003
+
+Sample Phase: Liquid
+
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppm
+
+PHOSPHORUS TRICHLORIDE
+PHOSPHORUS TRICHLORIDE
+ppm
+0-80
+HEXACHLORODISILANE
+
+ppb
+
+METHYL DICHLOROSILANE
+
+ppm
+
+BORON TRICHLORIDE
+
+ppb
+
+DICHLOROSILANE
+
+ppb
+
+TRICHLOROSILANE
+TRICHLOROSILANE
+ppm
+0-1000
+SILICON TETRACHLORIDE
+
+wt %
+
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+ppm
+0-500
+ALUMINUM CHLORIDE
+
+ppb
+
+Stream 4:
+PFD Stream no. 154
+Stream Tag no.: AE-330043
+Cycle Time : 12 Min
+
+Recovered Chlorosilanes to STC purification
+
+Sample Phase: Liquid
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+wt %
+
+IRON (III) CHLORIDE
+
+ppm
+
+PHOSPHORUS TRICHLORIDE
+
+ppm
+
+HEXACHLORODISILANE
+
+wt %
+
+METHYL DICHLOROSILANE
+
+ppm
+
+MONOCHLOROSILANE
+
+ppm
+
+BORON TRICHLORIDE
+
+ppb
+
+HYDROGEN CHLORIDE
+
+ppm
+
+DICHLOROSILANE
+DICHLOROSILANE
+ppm
+0-1000
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-10
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-100
+METHYL TRICHLOROSILANE
+
+ppm
+
+ALUMINUM CHLORIDE
+
+wt %
+
+HYDROGEN
+
+ppm
+
+Stream 5:
+PFD Stream no. 211
+Stream Tag no.: AE-330066
+Cycle Time : 45 Min
+
+STC impurities from PP-33001 A/B
+
+Sample Phase: Liquid
+
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+wt %
+0-20
+IRON (III) CHLORIDE
+
+wt %
+
+PHOSPHORUS TRICHLORIDE
+PHOSPHORUS TRICHLORIDE
+wt %
+0-10
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+wt %
+0-25
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-45
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+wt %
+0-20
+ALUMINUM CHLORIDE
+
+wt %
+
+Stream 6:
+PFD Stream no. 357
+Stream Tag no.: AE-035040
+Cycle Time : 12 Min
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Heavy impurities from C-03501 to V-11204
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PHOSPHORUS TRICHLORIDE
+
+ppb
+
+METHYL DICHLOROSILANE
+METHYL DICHLOROSILANE
+wt %
+0-10
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-50
+SILICON TETRACHLORIDE
+
+wt %
+
+METHYL TRICHLOROSILANE
+
+ppb
+
+Stream 7:
+PFD Stream no. 383
+Stream Tag no.: AE-038187
+Cycle Time : 12 Min
+
+Light impurities to V-11204
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PHOSPHORUS TRICHLORIDE
+ppb
+
+METHYL DICHLOROSILANE
+
+ppb
+
+MONOCHLOROSILANE
+
+ppm
+
+BORON TRICHLORIDE
+BORON TRICHLORIDE
+wt %
+0-15
+HYDROGEN CHLORIDE
+
+wt %
+
+DICHLOROSILANE
+
+wt %
+
+TRICHLOROSILANE
+
+wt %
+
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppm
+0-500
+METHYL TRICHLOROSILANE
+ppb
+
+HYDROGEN
+
+ppb
+
+ALUMINUM CHLORIDE
+
+NITROGEN
+
+ppm
+
+Analyzer House No.: E255 AS 050001
+
+GC No.3 : AT-37050372
+
+No of Streams: 2+2(Spare)
+
+Stream 1:
+PFD Stream no. 501
+Stream Tag no.: AE-37050372
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Cycle Time : 15 Min
+
+TCS/H2 feed to CVD reactors 'CVD #37 inlet'
+
+Sample Phase: Gas
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-20
+HYDROGEN CHLORIDE
+ppb
+
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-2
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-100
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppb
+0-10 ppm
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+NITROGEN
+ppb
+
+Stream 2:
+PFD Stream no. 501
+Stream Tag no.: AE-38050372
+Cycle Time : 15 Min
+
+TCS/H2 feed to CVD reactors 'CVD #38 inlet'
+
+Sample Phase: Gas
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-20
+HYDROGEN CHLORIDE
+ppb
+
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-2
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-100
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppb
+0-10 ppm
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+NITROGEN
+
+ppb
+
+Stream 3: Spare
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-20
+HYDROGEN CHLORIDE
+ppb
+
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-2
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-100
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppb
+0-10 ppm
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+NITROGEN
+
+ppb
+
+Stream 4: Spare
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-20
+HYDROGEN CHLORIDE
+ppb
+
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-2
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-100
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppb
+0-10 ppm
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+NITROGEN
+
+ppb
+
+GC No. 4: AT-37050446
+
+No of Streams: 2+2(Spare)
+
+Stream 1:
+PFD Stream no. 503
+Stream Tag no.: AE-37050446
+Cycle Time : 15 Min
+
+CVD Off gas to C-06001 'CVD #37 outlet‘
+
+Sample Phase: Gas
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+ppm
+
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+ppm
+0-200
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+ppm
+0-500
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-500
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+wt %
+0-2
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-10
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-65
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-45
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+NITROGEN
+ppb
+
+Stream 2:
+PFD Stream no. 503
+Stream Tag no.: AE-38050446
+Cycle Time : 15 Min
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+CVD Off gas to C-06001 'CVD #38 outlet‘
+Sample Phase: Gas
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+
+ppm
+
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+ppm
+0-200
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+ppm
+0-500
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-500
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+wt %
+0-2
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-10
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-65
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-45
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+NITROGEN
+
+ppb
+
+Stream 3: Spare
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+
+ppm
+
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+ppm
+0-200
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+ppm
+0-500
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-500
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+wt %
+0-2
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-10
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-65
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-45
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+NITROGEN
+
+ppb
+
+Stream 4: Spare
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+
+ppm
+
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+ppm
+0-200
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+ppm
+0-500
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-500
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+wt %
+0-2
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-10
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-65
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-45
+HYDROGEN
+HYDROGEN
+wt %
+0-10
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+NITROGEN
+
+ppb
+
+Analyzer House No.: E255 AS 060001
+
+GC No.5 : AT-060051
+
+No of Streams: 6
+
+Stream 1:
+PFD Stream no. 615
+Stream Tag no.: AE-060051
+Cycle Time : 20 Min
+
+CVD OGR Second condensate to E-06007
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppb
+
+HEXACHLORODISILANE
+
+ppb
+
+MONOCHLOROSILANE
+
+ppm
+
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-1000
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-10
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-65
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-55
+HYDROGEN
+HYDROGEN
+ppm
+0-35
+
+Stream 2:
+PFD Stream no. 725
+Stream Tag no.: AE-070042
+Cycle Time : 15 Min
+
+C-07001 Distillate to T- 12509
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+METHYL DICHLOROSILANE
+
+ppb
+
+MONOCHLOROSILANE
+
+ppm
+
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-100
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-5
+TRICHLOROSILANE
+
+wt %
+
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+ppm
+0-20
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+HYDROGEN
+
+ppm
+
+Stream 3:
+PFD Stream no. 602
+Stream Tag no.: AE-060047
+Cycle Time : 45 Min
+
+Condensate from C-06001 to T-12508
+
+Sample Phase: Liquid
+Note: Silicon is calculated by difference, Si =100%-sum(other components)
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+SILICON
+wt %
+0-3
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+wt %
+0-2
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+wt %
+0-6
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+ppm
+0-30
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-100
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-1
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-25
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-70
+HYDROGEN
+HYDROGEN
+ppm
+0-25
+
+Stream 4:
+PFD Stream no. 701
+Stream Tag no.: AE-070044
+Cycle Time : 20 Min
+
+Feed from T-12508 to C-07001
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+
+ppm
+
+PENTACHLORODISILANE
+
+ppm
+
+HEXACHLORODISILANE
+
+ppm
+
+METHYL DICHLOROSILANE
+
+ppb
+
+MONOCHLOROSILANE
+
+ppm
+
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+ppm
+0-30
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-2
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-70
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-50
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+METHYL
+TRICHLORODISILANE
+
+ppm
+
+HYDROGEN
+
+ppm
+
+Stream 5:
+PFD Stream no. 708
+Stream Tag no.: AE-070043
+Cycle Time : 45 Min
+
+Recycle STC from E-07003
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+SILICON
+
+ppm
+
+PENTACHLORODISILANE
+PENTACHLORODISILANE
+ppm
+0-500
+HEXACHLORODISILANE
+HEXACHLORODISILANE
+ppm
+0-1200
+METHYL DICHLOROSILANE
+
+ppb
+
+DICHLOROSILANE
+
+ppb
+
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-1
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-100
+METHYL TRICHLOROSILANE
+METHYL TRICHLOROSILANE
+ppm
+0-60
+
+Stream 6:
+PFD Stream no. 620
+Stream Tag no.: AE-060054
+
+Cycle Time : 20 Min
+
+C-06002 bottoms to E-06007
+
+Sample Phase: Liquid
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppm
+
+HEXACHLORODISILANE
+
+ppm
+
+METHYL DICHLOROSILANE
+
+ppb
+
+MONOCHLOROSILANE
+
+ppm
+
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+wt %
+0-0.5
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-5
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-35
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-80
+METHYL TRICHLOROSILANE
+
+ppm
+
+HYDROGEN
+
+ppm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GC No.6 : AT-060049
+
+No of Streams: 1
+
+Stream 1:
+PFD Stream no. 716
+Stream Tag no.: AE-060049
+Cycle Time : 20 Min
+
+Regen H2 to V- 06101
+
+Sample Phase: Vapor
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+PENTACHLORODISILANE
+
+ppb
+
+METHYL DICHLOROSILANE
+
+ppm
+
+MONOCHLOROSILANE
+MONOCHLOROSILANE
+wt %
+0-5
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+wt %
+0-75
+DICHLOROSILANE
+DICHLOROSILANE
+wt %
+0-12
+TRICHLOROSILANE
+TRICHLOROSILANE
+wt %
+0-10
+SILICON TETRACHLORIDE
+SILICON TETRACHLORIDE
+wt %
+0-15
+METHYL TRICHLOROSILANE
+
+ppm
+
+HYDROGEN
+HYDROGEN
+wt %
+0-25
+NITROGEN
+
+ppb
+
+H2 Analyser: AT-060052
+
+Stream Composition
+Components required by RIL
+UOM
+Offered Measuring
+ranges by ADAGE
+HYDROGEN CHLORIDE
+HYDROGEN CHLORIDE
+mol%
+0-1
+HYDROGEN
+
+wt %
+
+Field Rack
+
+Moisture Analyzer: AT-060052
+PFD Stream no. 709 (H2)
+Range 0-1000 ppm
+
+2 sets of Pura IS sensors and Easidew IS Analyzer.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1
+Analyzer House with Redundant HVAC
+Tag No: E255 AS 320001
+GC Tag No.: AT-01317185 & AT-320050
+
+Inside Shelter: Zone 1 Gr. IIC, T4. (in case of HVAC failure).
+Outside Shelter: Zone 1 Gr. IIC, T4.
+
+MAKE: ADAGE
+
+Analyzer Shelter Design & Construction as per RIL
+standards:
+-
+Dimensions- 5 Mtrs X 3 Mtrs X 3 Mtrs
+-
+MOC-SS316
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+1 mtr Long Canopy on all sides & four corners.
+
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, Exd
+-
+ISJB
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes
+-
+PLC with redundant power supply & I/O cards (CPU is non
+redundant)
+
+HVAC Specifications: Make: ADAGE
+-
+MOC: SS316
+-
+Redundant HVAC
+-
+Capacity – 5 Tr (Each)
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 15
+meters from ground, MOC: SS316
+
+Chemical Filter (SS316) X 1 No
+Other Miscellaneous items:
+-
+SS Wash Basin
+
+With Auto changeover System for Carrier Gas
+-
+Consisting of Auto changeover regulator.
+-
+Auto change over skid (for 4+4 cylinders bank) for N2 with
+Canopy
+-
+Auto change over skid (for 2+2 cylinders bank) for He with
+Canopy
+
+Network Components:
+-
+Ethernet to FO Switch x 2 No
+-
+LIU patch panel, patch cords x 2 sets
+-
+Ethernet cable – As required
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Diff pressure transmitter
+1
+Humidity Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, Siemens S7 1200 / S7 1500, as per RIL std.
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB.
+1 LOT
+Electrical fittings & components
+
+230 VAC Switch Socket for UPS (Inside shelter)
+1
+230 VAC Switch Socket for Non-UPS (Inside shelter)
+1
+Pneumatic Hooter
+1
+3 Way Beacon Xenon Flashing type
+3
+2 Way Beacon Cluster LED Steady type
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Ladder
+1
+SS Work bench (900 x 600 x 750)
+1
+SS Wash Basin
+1
+Table and chair
+1
+Portable Fire Extinguisher
+1
+Double Compression Cable gland IP 65, Ex'd', Zone 2 IIC T4, PESO certified. MOC
+Shall be Ni Cr plated Brass.
+1
+SS Spare plugs shall be IP 65, Ex'd', zone 2 IIC T4, PESO certified, Dual (Ex'e' /
+Ex'd') Certified
+1
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, , double compression type certified flame proof cables glands, Utility
+Headers with Air filter & Other Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2
+Gas Chromatograph
+(Mounted inside AH-Tag no: E255 AS 320001)
+
+Tag No : AT-01317185
+Make: Valmet
+Model: Maxum II
+Detector: Thermal Conductivity (IS-TCD)
+Pulse Discharge - Helium Ionization Detection
+Sample Phase: Liquid
+Power supply: 230VAC UPS
+GC Output: Serial Communication (MODBUS TCP/IP)
+Analyzer Fault Alarm, '2 nos. contact outputs for Fault /
+Failure Alarms
+
+Remarks:
+1) The measuring components, CT and its ranges are as
+Mentioned above. Also, ANN-1 is attached for the same.
+2) GCs are suitable for General purpose and are mounted
+inside X purge cabinet to meet Zone 1 IIC requirements.
+This will be mounted inside AH.
+
+Sample Probe
+-
+Fixed probe with isolation ball valve as per RPMS-SD-J10-
+038
+-
+1.5" 300# RF
+-
+MOC: SS316
+
+3 Nos
+Quoted
+
+Primary Sample Handling System:
+-
+With self-cleaning Filter, Ball valve & NRV mounted inside
+enclosure near tapping point.
+-
+N2 Purge arrangement with Ball valve & AFR.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+3 Nos
+Quoted
+
+Sample Transportation Tube:
+-
+3/4’’ HTT SS316, Qty: 250 Meters for Sample Inlet/Stream
+-
+3/4’’ HTT SS316, Qty: 250 Meters for Sample
+Return/Stream
+
+1500
+Meters
+Quoted
+
+Secondary Sample Handling System:
+-
+With redundant fast loop filter, Fast loop rotameter,
+Sample rotameter with flow switch, AOV & other
+accessories. MOC shall be SS316L.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+Detailed BOQ shall be as per enclosed drg. (Schematic for GC
+Tag No. AT-01317185)
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Pneumatic Vent Master for GC Tag No. AT-01317185 & AT-
+320050
+Make: Dr. Vent
+Outlet Pressure: 0.5 Kg/cm2g
+1 No
+Quoted
+
+Liquid Bottle & Carrier gases (for N2 & He)
+-
+Liquid bottle 1 sets
+-
+47L N2 Carrier Gas Cylinders 3 sets (1 working set + 1
+Hot standby set + 1 Cold standby set) with Auto
+changeover regulator for FAT & 6 months operation from
+date of SAT.
+-
+47L He Carrier Gas Cylinders 3 sets (1 working set + 1
+Hot standby set + 1 Cold standby set) with Auto
+changeover regulator for FAT & 6 months operation from
+date of SAT.
+
+Total No. of cylinders shall be (8 Nos. x N2 and 4 Nos. x He)
+common for all the GCs mounted inside the analyser house.
+
+4 Nos. x N2 & 2 Nos. x He, cylinder shall be supplied and will be
+considered as Cold standby kept in the stores.
+
+1 Lot
+Quoted
+3
+Gas Chromatograph
+(Mounted inside AH-Tag no: E255 AS 320001)
+
+Tag No : AT-320050
+Make: Valmet
+Model: Maxum II
+Detector: Thermal Conductivity (IS-TCD)
+Pulse Discharge - Helium Ionization Detection
+Sample Phase: Liquid
+Power supply: 230VAC UPS
+GC Output: Serial Communication (MODBUS TCP/IP)
+Analyzer Fault Alarm, '2 nos. contact outputs for Fault /
+Failure Alarms
+
+Remarks:
+1) The measuring components, CT and its ranges are as
+Mentioned above. Also, ANN-1 is attached for the same.
+2) GCs are suitable for General purpose and are mounted
+inside X purge cabinet to meet Zone 1 IIC requirements.
+This will be mounted inside AH.
+
+1 No
+Quoted
+
+Sample Probe
+-
+Fixed probe with isolation ball valve as per RPMS-SD-J10-
+038
+7 Nos
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+1.5" 300# RF
+-
+MOC: SS316
+
+Primary Sample Handling System:
+-
+With self-cleaning Filter, Ball valve & NRV mounted inside
+enclosure near tapping point.
+-
+N2 Purge arrangement with Ball valve & AFR.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+7 Nos
+Quoted
+
+Sample Transportation Tube:
+For Tag No.: AE-320044, AE-330043 & AE-038187
+
+-
+3/4’’ SS316 HTT, Qty: 250 Meters for Sample Inlet - (for 3
+streams)
+-
+3/4’’ SS316 HTT, Qty: 250 Meters for Sample Return- (for
+3 streams)
+
+1500
+Meters
+Quoted
+
+Sample Transportation Tube:
+For Tag No.: AE-320050, AE-320049, AE-330066 & AE-035040
+
+-
+3/4’’ SS316 Insulated tube, Qty: 250 Meters for Sample
+Inlet - (for 4 streams)
+-
+3/4’’ SS316 Insulated tube, Qty: 250 Meters for Sample
+Return- (for 4 streams)
+
+2000
+Meters
+Quoted
+
+Secondary Sample Handling System:
+-
+With redundant fast loop filter, Fast loop rotameter,
+Sample rotameter with flow switch, AOV & other
+accessories. MOC shall be SS316.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+Detailed BOQ shall be as per enclosed drg. (Schematic for GC
+Tag No. AT-320050)
+
+3 Nos
+Quoted
+
+Fast Loop Pump Skid with Power JB and Skid with canopy
+(Pump in nonredundant configuration)
+
+5 Nos.
+Quoted
+
+Liquid Bottle & Carrier gases (for N2 & He)
+-
+Liquid bottle 1 sets
+-
+47L Carrier Gas Cylinders (already covered in above GC)
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4
+Analyzer House with Redundant HVAC
+Tag no: E255 AS 050001
+GC Tag No.: AT-37050372 & AT-37050446
+
+Inside Shelter: Zone 1 Gr. IIC, T4. (in case of HVAC failure).
+Outside Shelter: Zone 1 Gr. IIC, T4.
+
+MAKE: ADAGE
+
+Analyzer Shelter Design & Construction as per RIL
+standards:
+-
+Dimensions- 4 Mtrs X 3 Mtrs X 3 Mtrs
+-
+MOC-SS316
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+1 mtr Long Canopy on all sides & four corners.
+
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, Exd
+-
+ISJB
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes
+-
+PLC with redundant power supply & I/O cards (CPU is non
+redundant)
+
+HVAC Specifications: Make: ADAGE
+-
+MOC: SS316
+-
+Redundant HVAC
+-
+Capacity – 5 Tr (Each)
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 15
+meters from ground, MOC: SS316
+
+Chemical Filter (SS316) X 1 No
+Other Miscellaneous items:
+-
+SS Wash Basin
+
+With Auto changeover System for Carrier Gas
+-
+Consisting of Auto changeover regulator.
+-
+Auto change over skid (for 4+4 cylinders bank) for N2 with
+Canopy
+-
+Auto change over skid (for 2+2 cylinders bank) for He with
+Canopy
+
+Network Components:
+-
+Ethernet to FO Switch x 2 No
+-
+LIU patch panel, patch cords x 2 sets
+-
+Ethernet cable – As required
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Diff pressure transmitter
+1
+Humidity Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, Siemens S7 1200 / S7 1500, as per RIL std.
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB.
+1 LOT
+Electrical fittings & components
+
+230 VAC Switch Socket for UPS (Inside shelter)
+1
+230 VAC Switch Socket for Non-UPS (Inside shelter)
+1
+Pneumatic Hooter
+1
+3 Way Beacon Xenon Flashing type
+3
+2 Way Beacon Cluster LED Steady type
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Ladder
+1
+SS Work bench (900 x 600 x 750)
+1
+SS Wash Basin
+1
+Table and chair
+1
+Portable Fire Extinguisher
+1
+Double Compression Cable gland IP 65, Ex'd', Zone 2 IIC T4, PESO certified. MOC
+Shall be Ni Cr plated Brass.
+1
+SS Spare plugs shall be IP 65, Ex'd', zone 2 IIC T4, PESO certified, Dual (Ex'e' /
+Ex'd') Certified
+1
+Armoured XLPE Cables, Fire resistant cables for Emergency shut down and F&G
+System, double compression type certified flame proof cables glands, Utility Headers
+with Air filter & Other Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+5
+Gas Chromatograph
+(Mounted inside AH-Tag no: E255 AS 050001)
+
+Tag No : AT-37050372
+Make: Valmet
+Model: Maxum II
+Detector: Thermal Conductivity (IS-TCD)
+Pulse Discharge - Helium Ionization Detection
+Sample Phase: GAS
+Power supply: 230VAC UPS
+GC Output: Serial Communication (MODBUS TCP/IP)
+Analyzer Fault Alarm, '2 nos. contact outputs for Fault /
+Failure Alarms
+
+Remarks:
+1) The measuring components, CT and its ranges are as
+Mentioned above. Also, ANN-1 is attached for the same.
+2) GCs are suitable for General purpose and are mounted
+inside X purge cabinet to meet Zone 1 IIC requirements.
+This will be mounted inside AH.
+3) This GC is having capability to integrate additional 2
+streams in future. GC is already configured & hardware’s
+are already available in GC.
+4) Probes, transportation line & Secondary sample handling
+system to be procured by RIL separately in future as and
+when required (currently excluded by ADAGE).
+
+1 No
+Quoted
+
+Sample Probe
+-
+Heated Sample probe
+-
+1.5" 300# RF
+-
+Probe pipe MOC: SS316L
+
+2 Nos
+Quoted
+
+Sample Transportation Tube:
+-
+1/4’’ HTT SS316 tube, Qty: 250 Meters for Sample Inlet
+
+500
+Meters
+Quoted
+
+Primary Sample Handling System:
+-
+Cabinet Heater
+-
+Pressure reduction system
+-
+Redundant Filter arrangement
+-
+Mounted inside enclosure near tapping point.
+-
+N2 Purge arrangement with Ball valve & AFR.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+2 Nos
+Quoted
+
+Secondary Sample Handling System:
+-
+With redundant fast loop filter, Fast loop rotameter,
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Sample rotameter with flow switch, AOV & other
+accessories. MOC shall be SS316.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+Detailed BOQ shall be as per enclosed drg. (Schematic for GC
+Tag No. AT-37050372)
+
+Pneumatic Vent Master for GC Tag No. AT-37050372 & AT-
+37050446
+Make: Dr. Vent
+Outlet Pressure: 0.5 Kg/cm2g
+
+1 No
+Quoted
+
+Calibration blend and Carrier gas cylinder.
+-
+10L calibration blend 2 sets (1 working + 1 standby) for
+FAT & 6 months operation from date of SAT (Differed
+Delivery)
+-
+Dual stage pressure regulator with Inlet & outlet PG: 1 no.
+per working cylinder/Blend
+-
+47L N2 Carrier Gas Cylinders 3 sets (1 working set + 1
+Hot standby set + 1 Cold standby set) with Auto
+changeover regulator for FAT & 6 months operation from
+date of SAT.
+-
+47L He Carrier Gas Cylinders 3 sets (1 working set + 1
+Hot standby set + 1 Cold standby set) with Auto
+changeover regulator for FAT & 6 months operation from
+date of SAT.
+
+Total No. of cylinders shall be (8 Nos. x N2 and 4 Nos. x He)
+common for all the GCs mounted inside the analyser house.
+
+4 Nos. x N2 & 2 Nos. x He, cylinder shall be supplied and will be
+considered as Cold standby kept in the stores.
+1 Lot
+Quoted
+6
+Gas Chromatograph
+(Mounted inside AH-Tag no: E255 AS 050001)
+
+Tag No : AT-37050446
+Make: Valmet
+Model: Maxum II
+Detector: Thermal Conductivity (IS-TCD) x 2
+Sample Phase: GAS
+Power supply: 230VAC UPS
+GC Output: Serial Communication (MODBUS TCP/IP)
+Analyzer Fault Alarm, '2 nos. contact outputs for Fault /
+Failure Alarms
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Remarks:
+1) The measuring components, CT and its ranges are as
+Mentioned above. Also, ANN-1 is attached for the same.
+2) GCs are suitable for General purpose and are mounted
+inside X purge cabinet to meet Zone 1 IIC requirements.
+This will be mounted inside AH.
+3) This GC is having capability to integrate additional 2
+streams in future. GC is already configured & hardware’s
+are already available in GC.
+4) Probes, transportation line & Secondary sample handling
+system to be procured by RIL separately in future as and
+when required (currently excluded by ADAGE).
+
+Sample Probe
+-
+Heated Sample probe
+-
+1.5" 300# RF
+-
+Probe pipe MOC: SS316L
+
+2 Nos
+Quoted
+
+Sample Transportation Tube:
+-
+1/4’’ HTT SS316 tube, Qty: 250 Meters for Sample Inlet
+
+500
+Meters
+Quoted
+
+Primary Sample Handling System:
+-
+Cabinet Heater
+-
+Pressure reduction system
+-
+Redundant Filter arrangement
+-
+Mounted inside enclosure near tapping point.
+-
+N2 Purge arrangement with Ball valve & AFR.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+2 Nos
+
+Quoted
+
+Secondary Sample Handling System:
+-
+With redundant fast loop filter, Fast loop rotameter,
+Sample rotameter with flow switch, AOV & other
+accessories. MOC shall be SS316.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+Detailed BOQ shall be as per enclosed drg. (Schematic for GC
+Tag No. AT-37050446)
+1 No
+Quoted
+
+Calibration blend and Carrier gas cylinder.
+-
+10L calibration blend 2 sets (1 working + 1 standby) for
+FAT & 6 months operation from date of SAT (Differed
+Delivery)
+-
+Dual stage pressure regulator with Inlet & outlet PG: 1 no.
+per working cylinder/Blend
+-
+47L Carrier Gas Cylinders (already covered in above GC)
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+7
+Analyzer House with Redundant HVAC
+Tag no: E255 AS 060001
+GC Tag No.: AT-060051 & AT-060049
+H2 Analyser: AT-060052
+Inside Shelter: Zone 1 Gr. IIC, T4. (in case of HVAC failure).
+Outside Shelter: Zone 1 Gr. IIC, T4.
+
+MAKE: ADAGE
+
+Analyzer Shelter Design & Construction as per RIL
+standards:
+-
+Dimensions- 5 Mtrs X 3 Mtrs X 3 Mtrs
+-
+MOC-SS316
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+1 mtr Long Canopy on all sides & four corners.
+
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, Exd
+-
+ISJB
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes
+-
+PLC with redundant power supply & I/O cards (CPU is non
+redundant)
+
+HVAC Specifications: Make: ADAGE
+-
+MOC: SS316
+-
+Redundant HVAC
+-
+Capacity – 5 Tr (Each)
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 15
+meters from ground, MOC: SS316
+
+Chemical Filter (SS316) X 1 No
+Other Miscellaneous items:
+-
+SS Wash Basin
+
+With Auto changeover System for Carrier Gas
+-
+Consisting of Auto changeover regulator.
+-
+Auto change over skid (for 4+4 cylinders bank) for N2 with
+Canopy
+-
+Auto change over skid (for 2+2 cylinders bank) for He with
+Canopy
+
+Network Components:
+-
+Ethernet to FO Switch x 2 No
+-
+LIU patch panel, patch cords x 2 sets
+-
+Ethernet cable – As required
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Diff pressure transmitter
+1
+Humidity Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, Siemens S7 1200 / S7 1500, as per RIL std.
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB.
+1 LOT
+Electrical fittings & components
+
+230 VAC Switch Socket for UPS (Inside shelter)
+1
+230 VAC Switch Socket for Non-UPS (Inside shelter)
+1
+Pneumatic Hooter
+1
+3 Way Beacon Xenon Flashing type
+3
+2 Way Beacon Cluster LED Steady type
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Ladder
+1
+SS Work bench (900 x 600 x 750)
+1
+SS Wash Basin
+1
+Table and chair
+1
+Portable Fire Extinguisher
+1
+Double Compression Cable gland IP 65, Ex'd', Zone 2 IIC T4, PESO certified. MOC
+Shall be Ni Cr plated Brass.
+1
+SS Spare plugs shall be IP 65, Ex'd', zone 2 IIC T4, PESO certified, Dual (Ex'e' /
+Ex'd') Certified
+1
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, double compression type certified flame proof cables glands, Utility Headers
+with Air filter & Other Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+8
+Gas Chromatograph
+(Mounted inside AH-Tag no: E255 AS 060001)
+
+Tag No : AT-060051
+Make: Valmet
+Model: Maxum II
+Detector: Thermal Conductivity (IS-TCD)
+Pulse Discharge - Helium Ionization Detection
+Sample Phase: Liquid
+Power supply: 230VAC UPS
+GC Output: Serial Communication (MODBUS TCP/IP)
+Analyzer Fault Alarm, '2 nos. contact outputs for Fault /
+Failure Alarms
+
+Remarks:
+1) The measuring components, CT and its ranges are as
+Mentioned above. Also, ANN-1 is attached for the same.
+2) GCs are suitable for General purpose and are mounted
+inside X purge cabinet to meet Zone 1 IIC requirements.
+This will be mounted inside AH.
+
+1 No
+Quoted
+
+Sample Probe
+-
+Fixed probe with isolation ball valve as per RPMS-SD-J10-
+038
+-
+1.5" 300# RF
+-
+MOC: SS316
+6 Nos
+Quoted
+
+Sample Transportation Tube:
+-
+3/4’’ HTT SS316, Qty: 250 Meters for Sample Inlet/Stream
+-
+3/4’’ HTT SS316, Qty: 250 Meters for Sample
+Return/Stream
+
+3000
+Meters
+Quoted
+
+Primary Sample Handling System:
+-
+With self-cleaning Filter, Ball valve & NRV mounted inside
+enclosure near tapping point.
+-
+N2 Purge arrangement with Ball valve & AFR.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+6 Nos
+Quoted
+
+Secondary Sample Handling System:
+-
+With redundant fast loop filter, Fast loop rotameter,
+Sample rotameter with flow switch, AOV & other
+accessories. MOC shall be SS316.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+Detailed BOQ shall be as per enclosed drg. (Schematic for GC
+Tag No. AT-060051)
+3 Nos
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Pneumatic Vent Master for GC/Analyser Tag No. AT-060051,
+AT-060049 & AE-060052
+Make: Dr. Vent
+Outlet Pressure: 0.5 Kg/cm2g
+
+1 No
+Quoted
+
+Fast Loop Pump Skid with Power JB and Skid with canopy
+(Pump in nonredundant configuration)
+
+5 Nos.
+Quoted
+
+Liquid Bottle & Carrier gases (for N2 & He)
+-
+Liquid bottle 1 sets
+-
+47L N2 Carrier Gas Cylinders 3 sets (1 working set + 1
+Hot standby set + 1 Cold standby set) with Auto
+changeover regulator for FAT & 6 months operation from
+date of SAT.
+-
+47L He Carrier Gas Cylinders 3 sets (1 working set + 1
+Hot standby set + 1 Cold standby set) with Auto
+changeover regulator for FAT & 6 months operation from
+date of SAT.
+
+Total No. of cylinders shall be (8 Nos. x N2 and 4 Nos. x He)
+common for all the GCs mounted inside the analyser house.
+
+4 Nos. x N2 & 2 Nos. x He, cylinder shall be supplied and will be
+considered as Cold standby kept in the stores.
+
+1 Lot
+Quoted
+9
+Gas Chromatograph
+(Mounted inside AH-Tag no: E255 AS 060001)
+
+Tag No : AT-060049
+Make: Valmet
+Model: Maxum II
+Detector: Thermal Conductivity (IS-TCD)
+Pulse Discharge - Helium Ionization Detection
+Sample Phase: GAS
+Power supply: 230VAC UPS
+GC Output: Serial Communication (MODBUS TCP/IP)
+Analyzer Fault Alarm, '2 nos. contact outputs for Fault /
+Failure Alarms
+
+Remarks:
+1) The measuring components, CT and its ranges are as
+Mentioned above. Also, ANN-1 is attached for the same.
+2) GCs are suitable for General purpose and are mounted
+inside X purge cabinet to meet Zone 1 IIC requirements.
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+This will be mounted inside AH.
+
+Sample Probe
+-
+Fixed probe with isolation ball valve as per RPMS-SD-J10-
+038
+-
+1.5" 300# RF
+-
+MOC: SS316
+
+1 No
+Quoted
+
+Sample Transportation Tube:
+-
+1/4’’ SS316 tube, Qty: 250 Meters for Sample Inlet
+250
+Meters
+Quoted
+
+Primary Sample Handling System:
+-
+Redundant Filter arrangement mounted inside enclosure
+near tapping point.
+-
+N2 Purge arrangement with Ball valve & AFR.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+1 No
+Quoted
+
+Secondary Sample Handling System:
+-
+With redundant fast loop filter, Fast loop rotameter,
+Sample rotameter with flow switch, AOV & other
+accessories. MOC shall be SS316.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+
+Detailed BOQ shall be as per enclosed drg. (Schematic for GC
+Tag No. AT-060049)
+
+1 No
+Quoted
+
+Calibration blend and Carrier gas cylinder.
+-
+10L calibration blend 2 sets (1 working + 1 standby) for
+FAT & 6 months operation from date of SAT (Differed
+Delivery)
+-
+Dual stage pressure regulator with Inlet & outlet PG: 1 no.
+per working cylinder/Blend
+-
+47L Carrier Gas Cylinders (already covered in above GC).
+
+1 Lot
+Quoted
+10
+H2 in HCl suitable for Zone 1
+(Mounted inside AH-Tag no: E255 AS 060001)
+
+Make: Siemens
+Model No.: CALOMAT 62 with X-purge
+
+Stream Tag no: AE-060052
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Sample Probe
+-
+Fixed probe with isolation ball valve as per RPMS-SD-J10-
+038
+-
+1.5" 300# RF
+-
+MOC: SS316L
+1 No
+Quoted
+
+Sample Transportation Tube:
+-
+1/4’’ SS316 tube, Qty: 250 Meters for Sample Inlet
+
+250
+Meters
+Quoted
+
+Sample Handling System
+-
+With filter, Fast loop rotameter, Sample rotameter with flow
+switch, Solenoid valve & other accessories. MOC shall be
+SS316.
+-
+Enclosure MOC: SS316 with IP 65 without cutout.
+1 No.
+Quoted
+
+Calibration blend and Carrier gas cylinder.
+-
+10L calibration blend 2 sets (1 working + 1 standby) for
+FAT & 6 months operation from date of SAT (Differed
+Delivery)
+-
+Dual stage pressure regulator with Inlet & outlet PG: 1 no.
+per working cylinder/Blend
+-
+47L Carrier Gas Cylinders 3 sets (1 working set + 1 Hot
+standby set + 1 Cold standby set) with Auto changeover
+regulator for FAT & 6 months operation from date of SAT.
+
+1 Lot
+Quoted
+11
+Moisture Analyser
+Make: Mitchell
+Stream Tag no: AE-060052
+Range: 0 – 1000 ppm
+
+2 sets of Pura IS sensors and 2 sets of Easidew IS
+With Local display
+
+Mounting Location - Field mounted rack
+Hazardous Area Classification: Zone 1, Gr. IIC, T3
+Sample Phase: Gas
+Supply: 24VDC loop powered
+Analyser output for Moisture:
+-
+4-20 mA analog output
+
+2 Set
+Quoted
+
+Sample Probe
+-
+Fixed probe with isolation ball valve as per RPMS-SD-J10-
+038
+-
+1.5" 300# RF
+-
+MOC: SS316
+
+4 Nos
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Sample Transportation Tube:
+-
+1/4’’ SS316 HTT EP, Qty: 10 Meters for Sample Inlet
+
+40 Meters
+Quoted
+12
+Analyzer Management System as per RIL Specification.
+
+- Panel for AMS which shall be kept in Control room.
+- Software shall be suitable to connect 50 nos. Analyzers.
+- Shall be suitable for connecting with RIL IT network.
+
+- Serial Communication between GC & PLC system with AMS &
+DCS shall be on redundant Modbus TCP/IP protocol.
+- All accessories (such as Media converters, Ethernet switches,
+Ethernet Cables & connectors, patch panels, pigtails, etc.)
+required for interface on both Shelter & DCS side shall be in
+bidder's scope of supply.
+- FO Splicing shall be in Bidder's scope.
+
+Note:
+FO Cable is Customer scope. Single Mode FO cable shall be
+supplied by Customer.
+
+1 Set
+Quoted
+13
+Mandatory Spares
+
+As per attached mandatory spare List
+1 Lot
+Quoted
+14
+Start-up & Commissioning Spares
+
+Irrespective of any list, these spares shall be considered by
+Adage
+1 Lot
+Quoted
+15
+Consumables, such as Calibration gases, Carrier / fuel gases &
+other required consumables such as filters, reagent, chemicals,
+etc. required during pre-commissioning, commissioning, SAT &
+for continuous Analyzer operation for the period of 6 months from
+SAT.
+
+1 Lot
+Quoted
+16
+Charges for Supervision of Installation and Commissioning
+
+(Above 40 days, Per Diem charges shall be applicable)
+
+Lumpsum
+for 40
+man days
+Quoted
+17
+Training at Adage works
+Lumpsum
+for 10
+man days
+Quoted
+18
+Integrated FAT at Goa Works with SCS and GCs as per RIL
+ITP/QAP
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+19
+Design Engineering and Project Documentation for the
+Project
+1 Lot
+Quoted
+20
+2-Years Operational Spares as per Adage Recommendations.
+
+The detailed List shall be provided post order during DDE
+
+1 Lot
+Not Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyzer as per offer/BOQ.
+Yes
+
+2
+Analyser House with HVAC
+Yes
+
+3
+Analyser Cabinet with AC
+Yes
+
+4
+Sample Tapping Nozzle Flange
+
+Yes
+5
+Process Isolation Valve at tapping point
+Yes
+
+6
+Sample Probe with flanges gaskets and nut bolts.
+Yes
+
+7
+Sample Transportation Line (Bare SS316 tube)
+Yes
+
+8
+Sample Transportation Line (Special tubes like EHT, EP, Sulfinert, etc)
+Yes
+
+9
+Sample Return Line
+Yes
+
+10
+Isolation Valve at process return point
+
+Yes
+11
+Supply of Calibration Cylinders with accessories
+Yes
+
+12
+Supply of Carrier Gas cylinders
+Yes
+
+13
+Auto change over regulator with Accessories
+Yes
+
+14
+Network Components
+Yes
+
+15
+Signal JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+
+16
+Intermediate JBs
+Yes
+
+17
+Sample Conditioning System
+Yes
+
+18
+Supply of startup and commissioning spares
+Yes
+
+19
+Supply of Mandatory spares
+Yes
+
+20
+Consumables spares
+Yes
+
+21
+Inspection & Testing
+Yes
+
+22
+Project Management & Project Documentation
+Yes
+
+23
+Factory Acceptance Test at Adage Works
+Yes
+
+24
+8 Hours Repeatability Test reports
+Yes
+
+25
+Packing forwarding
+Yes
+
+26
+Freight up to site including Insurance
+Yes
+27
+Storage of supplied system at site
+
+Yes
+28
+Civil foundation as required
+
+Yes
+29
+Mobilization of supplied system from Stores to location.
+
+Yes
+30
+Installation of supplied system at site
+
+Yes
+31
+Supply of Standard Field Cables including signal, power & FO.
+
+Yes
+32
+Field supporting structure for cables, transportation tubes etc.
+
+Yes
+33
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+
+Yes
+34
+laying of Trays (Power, Signal, Sample line, Air etc)
+
+Yes
+35
+Provision of dry instrument Air
+
+Yes
+36
+Provision of Plant Nitrogen
+
+Yes
+37
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+
+Yes
+38
+Supervision of Installation and Commissioning
+Yes
+
+39
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+40
+Site Acceptance Test & Handover
+Yes
+Yes
+41
+Refilling of Calibration Cylinders
+
+Yes
+42
+Refilling of Carrier Gas cylinders
+
+Yes
+43
+Supply of 2 years O&M spares – OPTIONAL
+
+44
+Training at Site- OPTIONAL
+
+45
+Training at Goa facility- OPTIONAL
+
+46
+AMC after standard warranty (12/18) – OPTIONAL
+
+47
+CAMC after standard warranty (12/18) – OPTIONAL
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 5: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO.
+Offer validity
+Up to 30th September 2025
+Payment Terms
+As per Adage & RIL standard payment terms (As per past PO)
+Guarantee Clause
+
+Against manufacturing defects for 24 months from the date of Commissioning or
+36 months from the date of dispatch whichever is earlier.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tentative Project Execution Schedule from the date of Accepted PO
+
+1.
+KOM with basic drawings
+4 Weeks
+2.
+Detailed Engineering (Drawing Submission)
+8 Weeks
+3.
+Order Placement of Major Items (Including Analysers)
+10 Weeks
+4.
+Receipt of Drawing Approval from Customer
+14 Weeks
+5.
+Material Receipt at Adage Factory except GCs
+28 Weeks
+6.
+System Integration
+42 Weeks
+7.
+FAT & Punch Point Clearence
+46 Weeks
+8.
+Packing & Dispatch
+50 Weeks
+9.
+I & C
+TBA
+10. SAT
+TBA
+
+SUGGESTED FAT PROCESS
+
+Integrated FAT will be carried out at Adage Goa works as per approved FAT procedures. As calibration
+blends for the process of calibration are not readily available in the commercial market, in those cases,
+Only zero baseline check will be offered for GCs with pure N2. The GC repeatibility test reports (8hrs) from
+OEM will be made available for review during FAT.
+
+Sr No
+Category
+Offered Items
+1
+Start up & Commissioning Spares
+We confirm that the required startup & commissioning spares shall be handcarried (irrespective of any list) by
+Adage Engineer during commissioning.
+2
+Consumables required for comissioning & 6 months operation after
+SAT
+This includes refilling of calibration gases, Carrier / fuel gases & other required consumables such as filters,
+reagent, chemicals, etc.
+3
+The supplier shall supply 5% spare each for sampling system
+accessories and purge controllers as per MR
+5% or max 1 no spare of below sampling component will be considered.
+1. Metal tube rotameter for bypass & supply(with low flow switch) - 2 Nos.
+2. Pressure regulator - 1 No.
+3. Pressure gauge - 1 No.
+4. Air operated valve - 1 No.
+5. Solenoid valve - 1 No.
+6. Inline filter - 2 Nos.
+7. Non return valve - 2 Nos.
+8. Safety relief valve - 2 Nos.
+9. Fittings (1/2", 1/4'' & 1/8'' Sizes for SHS) - 1 Each type
+4
+The supplier shall supply 5% spare (subject to minimum 1 no. of each
+type) for safety PLC modules like I/O cards, processor cards, power
+supply cards, communication cards, Interface cards, Bulk power
+supply (24VDC) etc.
+1- PLC I/O Card – 1 No
+2- Power Supply- 1 No
+3- PLC Processor Card – 1 No
+4- PLC Communication Card – 1 No
+MANDATORY SPARE PART LIST AGAINST ADAGE OFFER NO. Q24W10092R3 DTD 14.08.2025
+Note : Our scope is limited to supply above spares as per MR Requirement. Analyser spares are excluded as this is not part of MR requirement.
+
+SR NO.
+ITEM
+ITEM
+DESCRIPTION
+1
+BV
+BALL VALVE
+2
+AFR
+AIR FILTER REGULATOR
+3
+FM
+METAL TUBE FLOWMETER
+4
+TEE
+TEE
+5
+BHU
+BULK HEAD UNIT
+7
+CF
+COALESCING FILTER
+8
+NRV
+NON RETURN VALVE
+9
+SRV
+SAFETY RELIEF VALVE
+10
+FF
+FINE FILTER
+11
+CPR
+CYLINDER PRESSURE REGULATOR WITH INLET
+& OUTLET GAUGES
+12
+BPR
+BACK PRESSURE REGULATOR
+AOVD
+AIR OPERATED VALVE DOUBLE BLOCK AND
+BLEED
+AOV
+AIR OPERATED VALVE
+14
+PI
+PRESSURE INDICATOR
+15
+-
+INSTRUMENT AIR LINE
+19
+3BV
+3 WAY BALL VALVE
+20
+CH
+CABINET HEATER
+21
+NV
+NEEDLE VALVE
+22
+SF
+SELF CLEANING FILTER
+23
+EHT
+ELECTRICAL HEAT TRACER
+//
+//
+//
+//
+//
+//
+LEGENDS SHEET
+
+SAMPLE TAKE OFF POINT / FIELD
+OUTSIDE SHELTER
+INSIDE SHELTER
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+// //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+AE-01317185
+PHASE: LIQUID
+SCHEMATIC FOR GC TAG NO. AT-01317185
+AE-318050
+PHASE: LIQUID
+AE-02317185
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+RETURN LINE
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+SAMPLE TAKE OFF POINT / FIELD
+OUTSIDE SHELTER
+INSIDE SHELTER
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+AE-330066
+PHASE: LIQUID
+AE-035040
+PHASE: LIQUID
+AE-038187
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+RETURN LINE
+SCHEMATIC FOR GC TAG NO: AT-320050
+//
+//
+//
+// //
+AE-320049
+PHASE: LIQUID
+AE-330043
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+//
+//
+//
+//
+//
+////
+//
+AE-320050
+PHASE: LIQUID
+AE-320044
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+SCHEMATIC FOR GC TAG NO : AT-37050372
+AE-37050372
+PHASE: VAPOUR
+//
+//
+//
+AE-38050372
+PHASE: VAPOUR
+SAMPLE TAKE OFF POINT / FIELD
+OUTSIDE SHELTER
+INSIDE SHELTER
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+SCHEMATIC FOR GC TAG NO : AT-37050446
+AE-37050446
+PHASE: VAPOUR
+//
+//
+//
+AE-38050446
+PHASE: VAPOUR
+SAMPLE TAKE OFF POINT / FIELD
+OUTSIDE SHELTER
+INSIDE SHELTER
+
+SAMPLE TAKE OFF POINT / FIELD
+OUTSIDE SHELTER
+INSIDE SHELTER
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+AE-070043
+PHASE: LIQUID
+AE-060054
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+SCHEMATIC FOR GC TAG NO: AT-060051
+//
+//
+//
+// //
+AE-060047
+PHASE: LIQUID
+AE-070044
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+//
+//
+//
+//
+//
+//
+//
+//
+////
+//
+//
+//
+//
+AE-060051
+PHASE: LIQUID
+AE-070042
+PHASE: LIQUID
+RETURN LINE
+RETURN LINE
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+SCHEMATIC FOR GC TAG NO : AT-060049
+AE-060049
+PHASE: VAPOUR
+//
+//
+//
+SAMPLE TAKE OFF POINT / FIELD
+OUTSIDE SHELTER
+INSIDE SHELTER
+
+3
+H
+G
+F
+E
+D
+C
+B
+A
+H
+G
+F
+E
+D
+C
+B
+A
+TITLE : GAD FOR ANALYSER SHELTER
+-
+FOOT PRINT : 11 MTRS X 6 MTRS
+CANOPY : 1 M EXTENDED ALL 4 SIDES
+
+3
+H
+G
+F
+E
+D
+C
+B
+A
+H
+G
+F
+E
+D
+C
+B
+A
+TITLE : GAD FOR ANALYSER SHELTER
+-
+FOOT PRINT : 10 MTRS X 6 MTRS
+CANOPY : 1 M EXTENDED ALL 4 SIDES
+
+3
+H
+G
+F
+E
+D
+C
+B
+A
+H
+G
+F
+E
+D
+C
+B
+A
+TITLE : GAD FOR ANALYSER SHELTER
+-
+FOOT PRINT : 11 MTRS X 6 MTRS
+CANOPY : 1 M EXTENDED ALL 4 SIDES

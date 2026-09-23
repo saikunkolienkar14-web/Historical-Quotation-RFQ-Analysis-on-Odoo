@@ -1,0 +1,41 @@
+Quotation Number: 2526G014
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF ONLINE H2
+MONITORING
+Make: SIEMENS AG
+Model: CALOMAT6
+Ingress Protection: IP20
+Component to be measured : H2
+System specifications:
+
+With Sample Handling System
+
+With Microprocessor Based H2 Analyzer
+
+With Calibration Cylinders
+Analyzer output:
+
+4-20 mA
+
+RS485 Serial Modbus Communication
+2 Nos.
+14,50,000/-
+29,00,000/-
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+(Boarding – Lodging – Local Conveyance-Food, To and fro Air
+Ticket/ AC II Train Fare to be Arranged by Customer)
+Per Diem
+INCLUSIVE
+(Incase beyond 3 mandays, per diem
+charges shall be applicable)

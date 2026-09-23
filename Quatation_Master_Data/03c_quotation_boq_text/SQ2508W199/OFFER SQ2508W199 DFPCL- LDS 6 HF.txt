@@ -1,0 +1,27 @@
+Quotation Number: SQ2508W199
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR. NO.
+DESCRIPTION
+PART NO.
+QTY
+TOTAL PRICE
+[INR]
+1
+SERIAL No: - N1-H5-103635
+
+Repairing of Opto – module.
+
+Configuration of laser firmware
+
+Calibration of analyzer
+
+Temperature configuration of laser
+28604055
+1.00
+17,85,000.00
+2
+ PCB 2 Board
+28602162
+1.00

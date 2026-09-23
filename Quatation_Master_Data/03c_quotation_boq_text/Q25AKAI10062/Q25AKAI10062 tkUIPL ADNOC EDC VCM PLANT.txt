@@ -1,0 +1,73 @@
+Quotation Number: Q25AKAI10062
+BOQ Status: FOUND
+
+Scope of Supply and Price List
+Section 3:
+Technical Description of AH1 Analysers
+Section 4:
+Technical Description of AH2 Analysers
+Section 5:
+Technical Description of AH3 Analysers
+Section 6:
+Technical Description of Cabinet Analysers
+Section 7:
+Technical Description of In-situ Analysers
+Section 8:
+Technical Description of AMADAS
+Attachments with the offer.
+Annexure:1 ............ Shelter Layout
+Annexure:2 ............ Cabinet GAD
+Annexure:3 ............ Utility and power consumption
+Offer Revision History
+Revision
+Description
+Date
+0
+Initial-FEED
+02.04.2025
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Q25AKAI10062
+Section 1: General Notes and Clarifications
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Q25AKAI10062
+This covers the outlines offering philosophy and considerations in our detailed offer.
+1. Quoted prices are in US $.
+2. FEED Stage Offer, not valid for ordering.
+3. The sample probe shall be of welded construction tube with 3⁄4 inch gate valve as per below details with all
+matching counter flanges, gaskets and nut bolts. This probe will be same for all the tags unless otherwise
+specified.
+4. For Photometer Analyzer Tages with Servomex make analyzers, we have offered analyser suitable for
+hazardous area Zone 2 IIB T3. All analysers (Servomex) are Servotough 2500 F series.
+5. The Licensor PID is considered for minimum typical sample schematic.
+6. Wetted part MOC of Sample line for moisture tags shall be SS316 / Hastelloy with EP treatment.
+7. Calibration gas one time supply during SAT / commissioning. Further filling to be taken care by Customer.
+8. Fuel gas and carrier gas cylinders shall be supplied once during SAT/Commissioning & further filling by
+customer. However, accessories like ACU, valves, gauges along with cylinder rack will be supplied by AKAI.
+9. Customer to provide all utility and process headers near each shelter/Cabinet, further distribution in Cabinet /
+Shelter shall be ensured by AKAI.
+10. On/Off valves (AOV) for supply line for automatic sample cutoff inside SCS for analyzers mounted in Shelter /
+Cabinet has been considered.
+11. All bare SS316 tubes supplied as part of Shelter / Cabinet shall be PVC coated externally.
+12. All field mounted cabinets, PSCS, SSCS, analyser shelter (Inside & outside including canopy), HVAC and
+Panel AC MOC shall be SS316 epoxy painted
+13. Liquid recovery is considered for AH-1 & AH-3 only & MOC shall be SS316 and SS316 with PTFE lined tank
+respectively. And all other components wetted part MOC shall be SS316 / PTFE lined SS316 or Hastelloy as
+applicable.
+14. Gas vent recovery system is considered for all Analyzer Houses and All vents of the Analyser shall be
+connected to a vent recovery system with N2 eductor / Pump (redundant), to re-inject the sample flow into the
+into the flare.
+15. Common alignment kit is considered for in-situ TDLAS Analyser.
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Q25AKAI10062

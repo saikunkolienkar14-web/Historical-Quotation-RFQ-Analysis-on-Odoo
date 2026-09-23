@@ -1,0 +1,443 @@
+Quotation Number: Q25W10201R3
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+O2 Gas Analyser, Tag No.: QI-0001
+12,10,000
+12,10,000
+2
+1
+O2 Gas Analyser, Tag No.: QI-0053
+29,50,000
+29,50,000
+3
+1
+Moisture Analyser, Tag No.: QI-0054
+4
+1
+H2 Gas Purity Analyser, Tag No.: QI-0055
+5
+1
+O2 Gas Analyser, Tag No.: QI-0083
+18,30,000
+18,30,000
+6
+1
+Moisture Analyser, Tag No.: QI-0075
+20,05,000
+20,05,000
+7
+1
+H2 Gas Analyser, Tag No.: QI-0076
+8
+1
+O2 Gas Analyser, Tag No.: QI-0098
+26,55,000
+26,55,000
+9
+1
+Moisture Analyser, Tag No.: QI-0100
+10
+1
+H2 Gas Analyser, Tag No.: QI-0102
+11
+1
+Two years Operation spares, as per attached list
+3,00,000
+3,00,000
+12
+1
+Supervision of Commissioning (Per Diem)
+30,000
+30,000
+13
+1
+Training at site (Per Diem) - Optional
+30,000
+30,000
+SECTION 3: TECHNICAL LITERATURE
+1
+O2 ANALYZER
+MODEL: GPR-2500
+MAKE: Michell
+Operating Principle: Electrochemical
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Accuracy: ±1% of the range
+Response Time: < 2 minutes
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0001: 0 to 2%
+Communication output shall be 4-20mA analog output only.
+1 No.
+Quoted
+Integration and supply of SHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, Water cooler, TSV, Pressure regulator, filter,
+needle valve, Flowmeter with low flow switch, etc. and
+same shall be mounted on 2 mm thick CRCA plates on
+field Skid of SS304.
+-
+Canopy for skid, MOC: CRCA
+1 No.
+Quoted
+Sample Transportation tube
+-
+1/4” OD SS316 HTT
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter O2 gas cylinder with cylinder pressure regulators
+-
+10 Liter N2 gas cylinder with cylinder pressure regulators
+1 Set
+Quoted
+2
+O2 ANALYZER
+MODEL: GPR-1500
+MAKE: Michell
+Operating Principle: Electrochemical
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Accuracy: ±2% of the range
+Response Time: < 2 Minutes
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0053: 0 to 10000 PPM
+Communication output shall be 4-20mA analog output only.
+1 No.
+Quoted
+3
+MOISTURE ANALYZER
+MODEL: HF5-EX Transmitter & HC2-IE102-EX Probe
+MAKE: Rotronic
+Operating Principle: Metal-Oxide Moisture Sensor technology
+Hazardous Area Classification: Zone1, IIC
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Accuracy: ±0.8% of the range
+Response Time: < 5 Sec
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0054: 0 to 2%
+Communication output shall be 4-20mA analog output.
+1 No.
+Quoted
+4
+H2 ANALYZER
+MODEL: XTC601
+MAKE: Michell
+Operating Principle: Thermal Conductivity
+Hazardous Area Classification: II 2 G D Ex db IIB +H2 T6 Gb
+Mounting Location: in Field Primary SHS
+Phase: Gas
+1 No.
+Quoted
+Power Supply: 24VDC
+Accuracy: ±1% of the range
+Response Time: < 20 Sec
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0055 : 95 to 100%
+Communication output shall be 4-20mA analog output for
+measuring component + alarm contact.
+Integration and supply of common SHS System for tag No.
+QI-0053, QI-0054 & QI-0055:
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted on 2 mm thick CRCA plates on field Skid of
+SS304.
+-
+Canopy for skid, MOC: CRCA
+1 No.
+Quoted
+Common Sample Transportation tube for Tag No. QI-0053, QI-
+0054 & QI-0055
+-
+1/4” OD SS316 EP HTT
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter O2 gas cylinder with cylinder pressure regulators
+-
+10 Liter H2 gas cylinder with cylinder pressure regulators
+-
+10 Liter N2 gas cylinder with cylinder pressure regulators
+1 Set
+Quoted
+5
+O2 ANALYZER
+MODEL: XTP601
+MAKE: Michell
+Operating Principle: Paramagnetic
+Hazardous Area Classification: II 2 G D Ex db IIB +H2 T6 Gb
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC
+Accuracy: ±1% of the range
+Response Time: < 15 Sec
+Transportation Time: < 15 Sec
+1 No.
+Quoted
+Measuring Range:
+-
+TAG No.- QI-0083 : 19 to 50%
+Communication output shall be 4-20mA analog output for
+measuring component + alarm contact.
+Integration and supply of SHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, Water cooler, TSV, Pressure regulator, filter,
+needle valve, Flowmeter with low flow switch, etc. and
+same shall be mounted inside wall mounted on 2 mm thick
+CRCA plates on field Skid of SS304.
+-
+Canopy for skid, MOC: CRCA
+1 No.
+Quoted
+Sample Transportation tube for Tag No. QI-0083
+-
+1/4” OD SS316 Tube
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter O2 gas cylinder with cylinder pressure regulators
+-
+10 Liter N2 gas cylinder with cylinder pressure regulators
+1 Set
+Quoted
+6
+MOISTURE ANALYZER
+MODEL: HF5-EX Transmitter & HC2-IE102-EX Probe
+MAKE: Rotronic
+Operating Principle: Metal-Oxide Moisture Sensor technology
+Hazardous Area Classification: Zone1, IIC
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Accuracy: ±0.8% of the range
+Response Time: < 5 Sec
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0075: 0 to 2%
+Communication output shall be 4-20mA analog output.
+1 No.
+Quoted
+7
+H2 ANALYZER
+MODEL: XTC601
+MAKE: Michell
+Operating Principle: Thermal Conductivity
+Hazardous Area Classification: II 2 G D Ex db IIB +H2 T6 Gb
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC
+Accuracy: ±1% of the range
+Response Time: < 20 Sec
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0076 : 0 to 2%
+Communication output shall be 4-20mA analog output for
+measuring component + alarm contact.
+1 No.
+Quoted
+Integration and supply of common SHS System for tag No.
+QI-0075 & QI-0076
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted on 2 mm thick CRCA plates on field Skid of
+SS304.
+-
+Canopy for skid, MOC: CRCA
+1 No.
+Quoted
+Common Sample Transportation tube for Tag No. QI-0075 &
+QI-0076
+-
+1/4” OD SS316 EP Tube
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter H2 gas cylinder with cylinder pressure regulators
+-
+10 Liter N2 gas cylinder with cylinder pressure regulators
+1 Sets
+Quoted
+8
+O2 ANALYZER
+MODEL: GPR-1500
+MAKE: Michell
+1 No.
+Quoted
+Operating Principle: Electrochemical
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Accuracy: ±1% of the range
+Response Time: < 2 Minutes
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0098: 0 to 500 PPM
+Communication output shall be 4-20mA analog output only.
+9
+MOISTURE ANALYZER
+MODEL: EASIDEW I.S. DEW-POINT TRANSMITTER
+MAKE: Michell
+Operating Principle: Metal-Oxide Moisture Sensor technology
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Accuracy: ±2 °C (±3.6 °F) dew point
+Response Time: 5 mins to T95 (dry to wet)
+Transportation Time: < 15 Sec
+Measuring Range:
+-
+TAG No.- QI-0100: 0 to 500 PPMV
+Communication output shall be 4-20mA analog output.
+1 No.
+Quoted
+10
+H2 ANALYZER
+MODEL: XTC601
+MAKE: Michell
+Operating Principle: Thermal Conductivity
+Hazardous Area Classification: II 2 G D Ex db IIB +H2 T6 Gb
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC
+Accuracy: ±1% of the range
+Response Time: < 20 Sec
+Transportation Time: < 15 Sec
+1 No.
+Quoted
+Measuring Range:
+-
+TAG No.- QI-0102 : 0 to 500 PPM
+Communication output shall be 4-20mA analog output for
+measuring component + alarm contact.
+Integration and supply of common SHS System for tag No.
+QI-0098, QI-0100 & QI-0102:
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted on 2 mm thick CRCA plates on field Skid of
+SS304.
+-
+Canopy for skid, MOC: CRCA
+1 No.
+Quoted
+Sample Transportation tube for Tag No. QI-0098, QI-0100 &
+QI-0102
+-
+1/4” OD SS316 EP Tube
+6 meters
+Quoted
+SECTION 4: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of Mandatory spares
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+12
+Provision of dry instrument Air, Plant N2, Cooling Water & power feeders
+near battery limit.
+Yes
+13
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+14
+Supervision of Commissioning SAT & Handover
+Yes
+15
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+16
+Supply of 2 years O&M spares
+Yes
+17
+Training at Site- Per Diem (Optional)
+Yes
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+As quoted
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from the date PO receipt.
+Offer validity
+February 2026

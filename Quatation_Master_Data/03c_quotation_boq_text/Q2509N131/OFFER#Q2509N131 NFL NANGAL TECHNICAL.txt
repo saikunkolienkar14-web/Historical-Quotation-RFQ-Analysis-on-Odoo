@@ -1,0 +1,38 @@
+Quotation Number: Q2509N131
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price (INR)
+1
+GAS ANALYSER SYSTEM FOR CO2 MEASURMENT
+Make: Siemens
+Model: ULTRAMAT 6F
+Area Classification: Zone 1,IIC,T5
+Mounting Location: Inside Existing Air Conditioned Analyzer Room
+Component to be measured: CO2
+Analyzer & SHS Shall Be Mounted Inside IP54 Panel
+Measuring Range:
+• CO2: 0-10 PPM
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 SET
+QUOTED
+QUOTED
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+@QUOTED PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II Train Fare
+to be arranged by Customer)
+PER
+DIEM
+@QUOTED PER MANDAY

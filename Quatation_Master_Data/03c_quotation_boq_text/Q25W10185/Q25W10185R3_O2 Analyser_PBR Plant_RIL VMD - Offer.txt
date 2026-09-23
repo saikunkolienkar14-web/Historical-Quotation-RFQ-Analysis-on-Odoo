@@ -1,0 +1,197 @@
+Quotation Number: Q25W10185R3
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Electrochemical O2 Sensor x 2 No with common
+Controller
+Quoted
+Quoted
+2
+1 No
+Project Documentation
+Quoted
+Quoted
+3
+1 No
+FAT at Adage Works
+Quoted
+Quoted
+4
+1 No
+Packing, Forwarding & Transportation upto Site
+charges
+Quoted
+Quoted
+5
+Lumpsum Supervision of installation & commissioning & SAT
+Quoted
+Quoted
+6
+1 No
+Mandatory spares
+1 No of sensor
+Quoted
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS TAG NO: AT
+1-2
+-
+Supply Pressure (Nor/Max): 3/6 Kg/cm2g
+-
+Temperature (Nor/Max): 37/70 Deg C
+As per MR
+Requirement
+1.1
+Electrochemical O2
+MODEL: DFOX Sensor x 2 No with Common Moisture.IQ Controller & DFOC Cable
+MAKE: GE Panametics
+Mounting : On Rack with canopy
+Hazardous Area Classification: Zone 1 llC T3
+No of Streams: 1
+Measuring range : 0 – 10000 ppm
+Accuracy : +/- 3% of reading or 2 ppm
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Potential free contacts for fault & other alarms.
+Note :
+-
+Offer model is inline with RIL requirement ‘’IQ-7-6-1-1-1-0-0-DFOX-4-1-0-
+DFOC-1-2-0-0’’.
+-
+2 No of O2 sensor with common Moisture.IQ controller is quoted.
+1 Set
+1.1
+Sampling probe
+-
+Probe tube with welded isolation valve x 2 No
+1.2
+Sample transportation Line :
+-
+1/4’’ SS316 HTT Line for stream 1 , Qty : 20 meters considered
+-
+1/4’’ SS316 HTT Line for stream 2 , Qty : 20 meters considered
+1.3
+Primary SHS
+-
+Shall consist of ball valve, phase separator, ALD, Coalescing filter & HPR
+Secondary SHS
+-
+Shall be as per the typical scheme attached.
+-
+JB’s, Vent header with flame arrestor, Flare header & other Accessories
+1.4
+Calibration cylinders
+-
+Individual 10L O2 & N2 calibration cylinder with cylinder rack
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 3 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Sampling Probe with isolation valve
+Yes
+4
+Sample transportation tube from tapping till SHS
+Yes
+5
+JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+6
+Inspection & Testing
+Yes
+7
+Project Management & Project Documentation
+Yes
+8
+Factory Acceptance Test at Adage Works
+Yes
+9
+Packing forwarding
+Yes
+10
+Freight up to site
+Yes
+11
+Storage of supplied system at site
+Yes
+12
+Mobilization of supplied system from Stores to location.
+Yes
+13
+Installation of supplied system at site
+Yes
+14
+Supply of Standard Field Cables including signal, power
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at
+site
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc)
+Yes
+17
+Provision of dry instrument Air
+Yes
+18
+Provision of Plant Nitrogen
+Yes
+19
+Provision of Power (UPS and NON-UPS) at one location near
+Battery limit.
+Yes
+20
+Supervision of Installation and Commissioning
+Yes
+21
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+22
+Site Acceptance Test & Handover
+Yes
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+90 days.

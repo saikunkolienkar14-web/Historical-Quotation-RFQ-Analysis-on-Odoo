@@ -1,0 +1,80 @@
+Quotation Number: Q25W10140
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Total Price(INR)
+1.
+Oxygen analyser system for oxidiser application
+1 No.
+Quoted
+2.
+FAT
+1 Lot
+Inclusive
+3.
+Project Documentation
+1 Lot
+Inclusive
+4.
+Transportation Till Site
+1 Lot
+Quoted
+5.
+Packing and Forwading charges
+1 Lot
+Quoted
+6.
+Supervision of installation and commissioning
+Per manday
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1.
+Oxygen Analyzer
+Service: Gasifier
+Make: Ametek(Barben Analytical)
+Model: OXYvisor
+Operating Principle: Optical Quench Luminescence Technology
+Area Classification: Zone-2 Gr. IIC
+Mounting Location: Skid Mounted
+Component to be measured : Oxygen
+Measurement Range : 0-5%
+Process Conditions
+Temperature (Min/Norm): 25 Deg C / 135 Deg C
+Pressure (Min/Norm): 1.7kg/cm2-g / 50.6kg/cm2-g
+With Flow Through Cell for Mounting of sensor
+Mounting of Analyser on Field Rack
+Analyzer output:
+4-20 mA
+RS485 Modbus
+Note : Analyser is Ex-d.
+1 No.
+QUOTED
+1.A
+Sample Welded Probe Assembly
+MOC: Hastelloy with 1.5” 600# Flange
+1 No.
+QUOTED
+1.B
+Pressure Regulator Assembly
+Wetted MOC: Hastelloy
+Note : Makes shall be As per RIL AVL.
+1 No.
+QUOTED
+1.C
+Sample Transportation tube:
+Sample Tubing: 1/4” SS316L HTT Tube
+Note : Makes shall be As per RIL AVL.
+15Mtrs
+QUOTED
+1.D
+Filed Mounted Self standing MS painted Rack with canopy:
+-
+With isolation ball valves, Filter Assembly, Rotameter etc.
+-
+With Manual calibration arrangement
+-
+With return header assembly
+Note : Makes shall be As per RIL AVL.
+1 Set
+QUOTED

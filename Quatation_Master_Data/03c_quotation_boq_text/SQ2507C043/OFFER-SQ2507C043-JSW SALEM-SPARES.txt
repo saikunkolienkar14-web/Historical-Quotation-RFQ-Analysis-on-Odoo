@@ -1,0 +1,96 @@
+Quotation Number: SQ2507C043
+BOQ Status: FOUND
+
+Date: 19-07-2025
+Ref: Q25260213-SQ2507C043
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602036
+IR source - Ultramat 23
+1.00
+121,957.00
+121,957.00
+2
+[As per Last PO:
+DOLVI-HL/24-25/4100462476 Dated
+26-08-2024]
+Nos
+1.00
+85,000.00
+85,000.00
+3
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+12,115.00
+12,115.00
+4
+[As per Last PO:
+SHIVATELEGH/ORISSA/24-25/03601
+01094 Dated 24-06-2024]
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+1,668.00
+1,668.00
+5
+[As per Last PO:
+DOLVI-HL/25-26/4100503108 Dated
+26-04-2025]
+Packets
+28602054
+Cartridge Filter
+1.00
+7,500.00
+7,500.00
+6
+[As per Last PO:
+DOLVI-HL/24-25/4100462476 Dated
+26-08-2024]
+Nos
+78309050
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Purging,
+MOC Brass
+1.00
+7,429.00
+7,429.00
+7
+[As per Last PO:
+VJNR/115200/CAP/C/4700151158
+Dated 05-07-2025]
+Nos
+78309054
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Pulsating,
+MOC Brass
+1.00
+10,816.00
+10,816.00
+8
+1
+28602020
+Detector CO - U23
+1.00
+216,775.00
+216,775.00
+Nos
+28602007
+O2 Sensor Ultramat 23-
+Electrochemical
+[As per Last PO:
+VJNR/115200/CAP/C/4700151158
+Dated 05-07-2025]
+Date: 19-07-2025
+Ref: Q25260213-SQ2507C043

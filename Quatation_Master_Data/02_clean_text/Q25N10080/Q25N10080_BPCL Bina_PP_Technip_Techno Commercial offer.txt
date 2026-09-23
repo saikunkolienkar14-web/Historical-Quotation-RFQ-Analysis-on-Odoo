@@ -1,0 +1,7814 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which
+includes analysers as per your requirement.
+
+TECHNO COMMERCIAL OFFER
+
+ADAGE QUOTE REF:
+Q26N10102
+DATED : 20.02.2026
+BID TYPE : Firm
+PROJECT TITLE:
+EPCC Tender for PP Project of Bina Petrochem & Refinery Expansion
+Project
+INQUIRY DETAILS:
+Enquiry Received via Enqueue portal on 16th Jan 2026
+CUSTOMER:
+
+Kind Attention: Mr Sunil Kumar
+Technip Energies India limited, Noida
+
+END USER:
+
+BPCL BINA
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Offering Basis
+SECTION-2: Summary Of Prices
+SECTION-3: Commercial Terms & Condition
+SECTION-4: Technical Literature
+SECTION-5: Scope Definition
+SECTION-6: Detailed GC Offer
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Tejas Rivonkar
+ADAGE AUTOMATION PVT LIMITED
+MOB: +91 9284270984
+tejas@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: OFFERING BASIS
+
+1. As per licensor document provided in MR, please refer to the below table to understand the GC
+configuration.
+
+GC Configuration sheet
+
+GC
+No.
+Stream No. and detail
+GC configuration
+GC Model
+GC-1
+310-AI 01129A/B
+(Hydrogen to Purification)
+1. This shall be 4 Stream Sequential GC.
+
+2. Sequential Analysis between 310-AI-01129(H2 to
+Purification), 310-AI-12203(H2 to Reaction), 310-AI-
+01120(Ethylene to purification), 310-AI-10417(Ethylene
+to reaction).
+Maxum II
+310-AI-12203A/B
+(Hydrogen to reaction)
+310-AI-01120A/B/C/D
+(Ethylene to purification)
+310-AI-10417A/B/C/D
+(Ethylene to Reaction)
+GC-2
+310-AI-01126A/B/C/D/E/F
+(propylene to Purification)
+1. This shall be 4 Stream Sequential GC.
+
+2. Sequential Analysis between 310-AI-01126(propylene to
+Purification), 310-AI-20505(Propylene to charge pump),
+310-AI-40312(CO Analysis of Backup cycle gas 1), 310-
+AI-4314(CO Analysis of Backup cycle gas 2).
+
+Maxum II
+310-AI-20505A/B/C/D/E/F
+(propylene to Charge
+pump)
+310-AI-40312(CO
+Analysis of backup Cycle
+gas 1)
+310-AI-43314(CO
+Analysis of backup Cycle
+gas 2)
+GC-3
+310-AI-01130A/B
+(Arsine, Phosphine)
+1. This shall be 2 Stream Sequential GC.
+
+2. Sequential Analysis between 310-AI-01130(Arsine,
+Phosphine of Propylene purification)), 310-AI-
+20506(Arsine, Phosphine of Propylene to charge pump)
+
+Maxum II
+310-AI-20506A/B
+(Arsine, Phosphine)
+GC-4
+310-AI-01130C
+(NH3)
+1. This shall be 2 Stream Sequential GC.
+
+2. Sequential Analysis between 310-AI-01130(Ammonia of
+Propylene purification)), 310-AI-20506(Ammonia of
+Propylene to charge pump)
+
+Maxum II
+310-AI-20506C
+(NH3)
+GC-5
+310-AI-40312
+(Cycle gas from
+compressor 1)
+
+1. Dedicated GC for cycle gas compressor 1
+Maxum II
+GC-6
+310-AI-403314
+(Cycle gas from
+compressor 2)
+1. Dedicated GC for cycle gas compressor 2
+Maxum II
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GC-7
+310-AI-52515
+(Lights Recycle)
+1. This shall be 7 Stream Sequential GC.
+
+2. Sequential Injection shall be done between Recycle gas
+streams ( 5 Streams) & Cycle gas streams(2 streams)
+
+3. Sequential Analysis between 310-AI-52515(Lights
+Recycle), 310-AI-52608A (Column overhead), 310-AI-
+
+4. 52704(Recovered propylene), 310-AI-52811(Column
+Trails), 310-AI-40312(Backup of cycle gas compressor
+1), 310-AI-403314(Backup of cycle gas compressor 2)
+
+Maxum II
+310-AI-52608A
+(Column overhead)
+310-AI-52704
+(Recovered propylene)
+310-AI-52811
+(Column Trails)
+310-AI-40312
+(Backup of Cycle gas
+from compressor 1)
+310-AI-52310A
+(After cooler liquid)
+310-AI-403314
+(Backup of Cycle gas
+from compressor 2)
+
+We have Quoted below Make analysers:
+
+1. Gas Chromatograph
+Make: Valmet, Model: Maxum II
+The communication output shall be ethernet/ RS 485 serial modbus output & 4-20mA analog output
+for each measuring component. This also has digital outputs for customer configuration.
+
+2. UV based Total Sulfur Analyser
+Make: PAC, Model: NSure
+The communication output shall be ethernet RS 485 serial modbus output & 4-20mA analog output
+for measuring component. This also has digital outputs for customer configuration.
+
+3. Paramagnetic Oxygen Analyser
+Make:Mitchell instruments, Model: XTP601
+The communication output shall be RS 485 serial modbus output & 4-20mA analog output for
+measuring component. This also has digital outputs for customer configuration.
+
+4. Electrochemical Oxygen Analyser
+Model :OXYIQ; Make: GE Penametrics
+The output shall be 4-20mA analog output for measuring component. This also has digital outputs
+for customer configuration.
+
+5. AL2O3 Moisture Analyser
+Model : Easidew Pro XP; Make: Michell instruments
+The output shall be 4-20mA analog output for measuring component. This also has digital outputs
+for customer configuration.
+
+6. Conductivity Analyser
+Make: Forbes Marshall; Model Transmitter : Aqua2Trans; Sensor Model : FM8310
+The communication output shall be 4-20mA HART output for measuring component. This also has
+digital outputs for customer configuration.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+7. pH Analyser
+Make: Forbes Marshall; Model Transmitter : Aqua2Trans; Sensor Model : Polilyte Plus H S8 120
+The communication output shall be 4-20mA HART output for measuring component. This also has
+digital outputs for customer configuration.
+
+8. TOC Analyser condensate (UV Pursulphate Oxidation)
+Make: Forbes Marshall; Model : FMTOC101
+The communication output shall be 4-20mA analog and RS485 output for measuring component.
+This also has digital outputs for customer configuration.
+
+9. HC Analyser condensate (UV Fluroscence)
+Make: Forbes Marshall; Model : CX2000
+The communication output shall be 4-20mA analog and RS485 output for measuring component.
+This also has digital outputs for customer configuration.
+
+10. Hydrocarbon Analyser (Gas)
+Make: Siemens, Model: Fidamat 6
+The communication output shall be ethernet RS 485 serial modbus output & 4-20mA analog output
+for measuring component. This also has digital outputs for customer configuration.
+
+14. The following electrical supplies shall be available at each analyser shelter and field cabinet/rack
+assembly:
+o 110 VAC +/- 3 %, 50 HZ single phase UPS backed. This supply will be for
+analysers, shelter PLC, PLC purge unit, heated pressure regulators and wall
+sockets.
+o 415 VAC 50 Hz 3 phase. Typically used for HVAC systems(230 VAC shall be derivedd from
+same)
+
+15. All field Power & Signal cable shall be in Technip scope of supply.
+
+16. Any interconnecting Signal cable between instruments/ Power cable for HPR, HTT shall be in Adage
+scope of supply.
+
+16. All moisture sensors shall be located as close as possible to sample tapping, 10 meter distance is
+considered for all moisture tags.
+
+17. The Consumable Chemicals, Calibration Liquids (for Liquid Analyzers),Carrier Gas Cylinder (as
+applicable) & Calibration Gas Cylinders shall be supplied for each analyzer by Adage, for successful
+completion of Factory Acceptance Test (FAT), commissioning & Site Acceptance Test (SAT) and 1 year
+operation after SAT .
+
+18. All filters are provided in SHS shall be in Redundant Configuration as per EIL MR specification.
+
+19. Network hardware at shelter side (Both shelters) shall be in Adage scope of supply, However FO cable,
+Network hardware at AMS side shall be in Technip scope of supply.
+
+20. All 4-20Ma Hardwire Analog output signal cable for connection to DCS shall be in Technip scope of
+supply.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+21. All field analysers, Analog/Serial output shall be terminated at Analog signal JB/Communication JB.
+Further distribution shall be in Technip scope of supply.
+
+22. For GC’s, All fastloop Sample return shall be directed to low pressure header & Analyser vent shall be
+returned to flare header through vent master at each shelter.
+
+23. For all liquid analysers, sample shall be returned to Drain header.
+
+24. All makes shall be as per EIL Approved vendor list as per Annexure 1.
+
+25. Analyser system shall be designed in consideration to the normal operating pressure & Temperature
+conditions. However to mitigate the design conditions suitable Accessories are considered.
+
+26. Electrochemical O2 sensors shall be mounted near to tapping at 10 meters distance.
+
+27. PSHS for Gas design shall be as per Licensor scheme below
+
+27. PSHS for Liquid design shall be as per Licensor scheme below.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+28. Typical Secondary SHS design shall be as per Licensor P&ID (As applicable for different tags)
+
+29. Refer Section 5: Detailed GC offer for tagwise GC configuration.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: SUMMARY OF PRICES
+
+Sr.
+No.
+Stream Names
+Tag No
+Item Description
+Qty
+Total Price
+A
+-
+
+310-AS-001
+
+8x3x3 Meter shelter
+1
+16625000
+B
+-
+
+310-AS-002
+
+4x3x3 Meter shelter
+1
+15350000
+Hydrogen Stream
+1
+Hydrogen purification
+310-AI-01127
+H2O Analyser
+1 No
+2800000
+2
+Hydrogen Purification
+310-AI-01128
+Electrochemical O2 Analyser
+
+1 No
+3500000
+3
+Hydrogen
+Purification/Reaction
+&
+Ethylene Purification/
+Reaction
+310-AI-01129
+310-AI-12203
+310-AI-01120
+310-AI-10417
+4 Stream Gas Chromatograph
+1 No
+16750000
+4
+Hydrogen Reaction
+310-AI-12201
+H2O Analyser
+1 No
+2800000
+5
+Hydrogen Reaction
+310-AI-12202
+Electrochemical O2 Analyser
+1 No
+3500000
+Ethylene Stream
+6
+Ethylene Purification
+310-AI-01119
+H2O Analyser
+1 No
+2800000
+7
+Ethylene Purification
+310-AI-01118
+Electrochemical O2 Analyser
+1 No
+3500000
+8
+Ethylene Reaction
+310-AI-10416
+H2O Analyser
+1 No
+2800000
+9
+Ethylene Reaction
+310-AI-10415
+Electrochemical O2 Analyser
+1 No
+3500000
+Propylene Stream
+10
+
+Propylene
+Purification/Reaction
+
+310-AI-01123
+310-AI-20502
+2 Stream Total sulfur Analyser
+
+1 No
+
+13000000
+11
+
+Propylene Purification
+
+310-AI-01124
+H2O Analyser
+1 No
+2800000
+12
+
+Propylene Purification
+310-AI-01125
+Electrochemical O2 Analyser
+1 No
+3500000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+13
+Propylene
+Purification/Charge
+pump
+&
+Cycle Gas
+compressor 1 & 2
+310-AI-01126
+310-AI-20505
+310-AI-40312
+310-AI-43314
+
+4 Stream Gas Chromatograph
+
+1 No
+19290000
+14
+Propylene
+Purification/Charge
+pump
+
+310-AI-01130
+310-AI-20506
+2 Stream Gas Chromatograph
+(Arsine, Phosphine)
+
+1 No
+
+15590000
+15
+Propylene
+Purification/Charge
+pump
+
+310-AI-
+01130C
+310-AI-
+20506C
+2 Stream Gas Chromatograph
+(Ammonia)
+
+1 No
+
+13090000
+16
+Propylene Charge
+pump
+310-AI-20503
+H2O Analyser
+
+1 No
+2800000
+17
+Propylene Charge
+pump
+310-AI-20504
+Electrochemical O2 Analyser
+1 No
+3500000
+Regeneration Nitrogen Stream
+18
+
+Regeneration
+Nitrogen
+
+310-AI-21201
+H2O Analyser
+1 No
+2800000
+19
+
+Regeneration
+Nitrogen
+
+310-AI-21202
+Electrochemical O2 Analyser
+1 No
+3500000
+20
+
+Regeneration
+Nitrogen
+
+310-AI-21203
+Hydrocarbon Analyser (FID)
+1 No
+Not Quoted
+Nitrogen to Purification stream
+21
+
+Nitrogen purification
+
+310-AI-90101
+Hydrocarbon Analyser (FID)
+1 No
+5010000
+22
+
+Nitrogen purification
+
+310-AI-90102
+Electrochemical O2 Analyser
+1 No
+2800000
+23
+
+Nitrogen purification
+
+310-AI-90103
+H2O Analyser
+1 No
+3500000
+Cycle Gas Compressor 1
+24
+
+Cycle Gas
+Compressor 1
+
+310-AI-40312
+Cycle Gas GC
+1 No
+11200000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Cycle Gas Compressor 2
+25
+
+Cycle Gas
+Compressor 2
+
+310-AI-43314
+Cycle Gas GC
+1 No
+11250000
+Recyle Gas Stream
+26
+Recycle Gas
+&
+Backup Cycle gas
+310-AI-52310
+310-AI-52515
+310-AI-52608
+310-AI-52704
+310-AI-52811
+310-AI-40312
+310-AI-43314
+7 Stream Gas chromatograph
+1 No
+18780000
+Extruder Feed Hopper/ Vent filter
+27
+
+Extruder feed hooper/
+Vent filter
+
+310-AI-70301
+HC Detector
+1 No
+350000
+28
+
+Extruder feed hooper/
+Vent filter
+
+310-AI-70307
+Paramagnetic O2 Analyser
+1 No
+3300000
+Bagging bin Exhaust vent
+29
+
+Bagging bin Exhaust
+
+310-AI-85201
+310-AI-85301
+310-AI-85401
+310-AI-86201
+310-AI-80403
+5 Stream HC (FID)
+1 No
+8800000
+Bulk loading bin Exhaust vent
+30
+
+Bulk loading bin
+Exhaust vent
+
+310-AI-86301
+HC Analyser
+1 No
+6600000
+Propane Purge Stream
+31
+
+Propane Purge
+
+310-AI-52812
+H2O Analyser
+1 No
+3500000
+Purified Nitrogen from OSBL
+32
+
+Purified N2
+
+310-AI-90106
+Electrochemical O2 Analyser
+1 No
+2800000
+33
+
+Purified N2
+
+310-AI-90107
+H2O Analyser
+1 No
+3500000
+Steam Condensate to OSBL
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+34
+
+Steam Condensate
+
+310-AI-90203
+310-AI-90204
+Conductivity analyser
+pH analyser
+1 No
+1300000
+35
+
+Steam Condensate
+
+310-AI-90205
+HC in water
+1 No
+5200000
+Cooling water/Bearing CW return to OSBL
+36
+
+Cooling water return
+
+310-AI-90104
+TOC Analyser
+1 No
+6300000
+37
+
+Bearing cooling water
+
+310-AI-90105
+TOC Analyser
+1 No
+6300000
+Vent steam condenser
+38
+
+Vent steam
+condenser
+
+310-AI-90202
+HC in water
+1 No
+5200000
+39
+
+310-AI-
+XXXXXC
+H2O Portable Analyser
+1 No
+1200000
+40
+
+310-AI-
+XXXXXA
+H2O Portable Analyser
+1 No
+1100000
+41
+
+310-AI-
+XXXXXB
+O2+LEL Portable analyser
+1 No
+350000
+42
+-
+-
+24 Hours Repeatability test
+reports for review
+1 No
+1900000
+43
+-
+-
+Project Engineering &
+Documentation
+1 Lot
+1500000
+44
+-
+-
+FAT at Adage Factory
+1 Lot
+600000
+45
+-
+-
+Supervision of installation &
+Commissioning (40 Days with 4
+visits)
+Lumpsum
+1700000
+46
+-
+-
+Supervision of installation &
+Commissioning (Per Diem)
+Per Diem
+50000
+47
+-
+-
+Training at Site (For 1 Day)
+1 Lot
+50000
+48
+-
+-
+Commissioning Spares
+As per Annexure 2
+1 Lot
+300000
+49
+-
+-
+Consumable spares for 1 year
+operations
+As per Annexure 2
+1 Lot
+6900000
+50
+-
+-
+Mandatory Spares
+As per Annexure 2
+1 Lot
+15800000
+TOTAL PACKAGE PRICE 29,09,35,000/-
+51
+-
+-
+2 Years O&M spares
+As per Annexure 2
+1 Lot
+8800000
+52
+-
+-
+
+CAMC for 5 years
+Lumpsum
+56000000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+CPT BPCL Bina
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO receipt.
+Offer validity
+30 Days
+Payment Terms
+Shall be discussed during commercial Negotiation
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 4: TECHNICAL LITERATURE
+
+A.
+ANALYSER SHELTER – 310-AS-001
+
+AREA CLASSIFICATION: ZONE 1, IIB+H2 INSIDE HOUSE
+ZONE 2, IIC OUTSIDE HOUSE
+MAKE: ADAGE
+The shelter shall house below analysers:
+4 Stream GC ( 310-AI-01129/12203/01120/10417)
+2 Stream Total Sulfur Analyser (310-AI-01123/20502)
+4 Stream GC (310-AI-01126/20505/40312/43314)
+2 Stream GC (310-AI-01130A/B/20506A/B)
+2 Stream GC (310-AI-01130C/20506C)
+HC Analyser (310-AI-21203) – HOLD
+HC Analyser (310-AI-90101)
+Paramagnetic O2 Analyser (310-AI-70307)
+
+Analyser Shelter Design & Construction:
+-
+Dimensions- 8 Mtrs X 3 Mtrs X 3 Mtrs , MOC-SS304
+-
+Construction Ribbed interlock type sandwich construction with
+mineral wool insulation.
+-
+Overhang roof canopy ,MOC: SS304 1000mm from all sides
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+Mineral wool Insulation thickness in mm 80 mm
+-
+Floor Anti-slip & non corrosive aluminium Chequered plates
+-
+Panic bar & auto door closure Provided on each door
+-
+4 x Barometric adjustable louvers with screened aluminium
+-
+4 x Lifting lugs, Top Lift
+-
+Cable tray Aluminium, cable tray with cover
+-
+Cable Entry To Shelter: Through MCT Block.
+-
+Tube Entry To Shelter: Through Gromet.
+-
+Cable Tray: FRP Cable Tray
+
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, LM6, Exd
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes, LM6, Exd
+-
+PLC: with redundant power supply & CPU. Communication & IO
+cards are non redundant
+-
+Annunciator panel.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+HVAC Specifications:
+Make: ADAGE
+-
+MOC: SS304
+-
+Redundant HVAC With Automatic Changeover
+-
+Capacity – 7.5 Tr (Each), with 5 Air changes
+-
+With Common Chemical Filter
+-
+Single Blower
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 6 meters from
+the Shelter, MOC: SS304, 2mm thick
+-
+All mounting accessories, hardware to install HVAC fresh air
+stack shall be in Adage scope of supply.
+
+Other Miscellaneous items:
+-
+SS Wash Basin
+-
+Table and chair
+
+With Auto changeover System x 2 No for Carrier Gas(H2 & Helium)
+(Common for 3 GC’s, FID, Sufur Analyser)
+-
+Consisting of Auto changeover regulator.
+-
+Auto change over skid (2+2 cylinder bank) with Canopy
+
+With Vent Master for Sample vent return to Flare header
+
+Network Hardware at Shelter side:
+-
+Ethernet to FO switch x 1 No
+-
+FO patch panel, Patch cords x 1 No
+
+FO Cable, Network hardware at AMS side shall be in Technip
+scope of supply
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+3
+LEL detector in the fresh air duct
+3
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Humidity Transmitter
+1
+Diff pressure Gauge and Differential pressure transmitter
+1
+Temp Tx with Display
+1
+Safe Guard PLC with redundancy at power supply & CPU (Communication & I/O cards are non
+redundant), Siemens S71500
+1
+Exd PLC Panel (For mounting PLC)
+1
+Electrical Panels: Zone 1 IIC
+PDBs, Intermediate PDB, JBs Interface JBs / Power JB cum isolation switch for incomer power
+cable for UPS, NON-UPS and HVAC termination. Rack for PDBs & warning Panel, 415 VAC
+Emergency Power Supply distribution with necessary Isolation Switches/ JBs for HVAC
+1 LOT
+Electrical fittings & components
+
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+2
+3 Way Beacon
+3
+2 Way Beacon
+2
+Manual Call Point
+4
+LED Tube lights inside
+5
+LED Tube lights outside
+5
+Tube light with battery backup
+2
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Ladder
+1
+SS Work bench (900 x 600 x 750)
+1
+SS Wash Basin
+1
+Table and chair
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables, Fire resistant cables for Emergency shut down and F&G System, double
+compression type certified flame proof cables glands, Utility Headers with Air filter & Other
+Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+B.
+ANALYSER SHELTER – 310-AS-002
+
+AREA CLASSIFICATION: ZONE 1, IIB+H2 INSIDE HOUSE
+ZONE 2, IIC OUTSIDE HOUSE
+MAKE: ADAGE
+The shelter shall house :
+Cycle Gas GC for compressor 1 (310-AI-40312)
+Cycle Gas GC for compressor 2 (310-AI-43314)
+7 Stream Recycle GC
+
+Analyser Shelter Design & Construction:
+-
+Dimensions- 4 Mtrs X 3 Mtrs X 3 Mtrs , MOC-SS304
+-
+Construction Ribbed interlock type sandwich construction with
+mineral wool insulation.
+-
+Overhang roof canopy ,MOC: SS304 1000mm from all sides
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+Mineral wool Insulation thickness in mm 80 mm
+-
+Floor Anti-slip & non corrosive aluminium Chequered plates
+-
+Panic bar & auto door closure Provided on each door
+-
+4 x Barometric adjustable louvers with screened aluminium
+-
+4 x Lifting lugs, Top Lift
+-
+Cable tray Aluminium, cable tray with cover
+-
+Cable Entry To Shelter: Through MCT Block.
+-
+Tube Entry To Shelter: Through Gromet.
+-
+Cable Tray: FRP Cable Tray
+
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, LM6, Exd
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes, LM6, Exd
+-
+PLC: with redundant power supply & CPU. Communication & IO
+cards are non redundant
+-
+Annunciator panel.
+
+HVAC Specifications:
+Make: ADAGE
+-
+MOC: SS304
+-
+Redundant HVAC With Automatic Changeover
+-
+Capacity – 5 Tr (Each), with 5 Air changes
+-
+With Common Chemical Filter
+-
+Single Blower
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 6 meters from
+the Shelter, MOC: SS304, 2mm thick
+-
+All mounting accessories, hardware to install HVAC fresh air
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+stack shall be in Adage scope of supply.
+
+Other Miscellaneous items:
+-
+SS Wash Basin
+-
+Table and chair
+
+With Auto changeover System for Carrier Gas x 2 No (Hydrogen &
+N2) (Common for 3 GC’s )
+-
+Consisting of Auto changeover regulator.
+-
+Auto change over skid (2+2 cylinder bank) with Canopy
+
+With Vent Master for Sample vent return to Flare header
+
+Network Hardware at Shelter side:
+-
+Ethernet to FO Switch x 1 No
+-
+FO patch panel, Patch cords x 1 No
+
+FO Cable, Network hardware at AMS side shall be in Technip
+scope of supply
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+3
+LEL detector in the fresh air duct
+3
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Humidity Transmitter
+1
+Diff pressure Gauge and Differential pressure transmitter
+1
+Temp Tx with Display
+1
+Safe Guard PLC with redundancy at power supply & CPU (Communication & I/O cards are non
+redundant), Siemens S71500
+1
+Purge controller for PLC Panel Make : P&F
+1
+Electrical Panels: Zone 1 IIC
+PDBs, Intermediate PDBs (FEPL/FCG/Flexpro),JBs Interface JBs / Power JB (Phoenix Mecano)
+cum isolation switch for incomer power cable for UPS, NON-UPS and HVAC termination. Rack for
+PDBs & warning Panel, 415 VAC Emergency Power Supply distribution with necessary Isolation
+Switches/ JBs for HVAC
+1 LOT
+Electrical fittings & components
+
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+3
+3 Way Beacon
+3
+2 Way Beacon
+2
+Manual Call Point
+4
+LED Tube lights inside
+5
+LED Tube lights outside
+5
+Tube light with battery backup
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Ladder
+1
+SS Work bench (900 x 600 x 750)
+1
+SS Wash Basin
+1
+Table and chair
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables, Fire resistant cables for Emergency shut down and F&G System, double
+compression type certified flame proof cables glands, Utility Headers with Air filter & Other
+Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Hydrogen Stream
+1
+Tag No: 310-AI-01127
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 20/27 Kg/cm2g
+-
+Temperature (Op/Design): 30 to 40/80 Deg C
+Service: Hydrogen to Purification
+
+As per MR Requirement
+1.1
+AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro XP
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside Enclosure mounted on free standing rack
+with canopy with Ex-D indicator.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-50 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485 Output
+-
+Digital Outputs
+
+1 No
+Quoted
+1.2
+Sample Probe:
+-
+Directly from tapping point (Probe is not required since line size is
+2’’)
+
+Not Quoted
+
+1.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+1.4
+With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2
+Tag No: 310-AI-01128
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 20/27 Kg/cm2g
+-
+Temperature (Op/Design): 30 to 40/80 Deg C
+Service: Hydrogen to Purification
+
+As per MR Requirement
+2.1
+Electrochemical O2 Analyser
+MAKE: GE Panametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with canopy
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-1 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+1 No
+Quoted
+2.2
+Sample Probe:
+-
+Directly from tapping point (Probe is not required since line size is
+2’’)
+
+Not Quoted
+2.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+2.4
+Sample handling system:
+-
+Ball valve, Pressure gauge, redundant filter, pressure regulator,
+SRV, needle valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3
+Tag No: 310-AI-01129/12203/01120/10417
+PROCESS CONDITIONS (01129-H2 Purification)
+-
+Supply Pressure (Op/Design): 20/27 Kg/cm2g
+-
+Temperature (Op/Design): 30 to 40/80 Deg C
+
+PROCESS CONDITIONS (12203-H2 Reaction)
+-
+Supply Pressure (Op/Design): 43/51 Kg/cm2g
+-
+Temperature (Op/Design): 40/65 Deg C
+PROCESS CONDITIONS (01120-Ethylene Purification)
+-
+Supply Pressure (Op/Design): 40/64 Kg/cm2g
+-
+Temperature (Op/Design): 33/ -29 to 25 Deg C
+PROCESS CONDITIONS (10417-Ethylene Reaction)
+-
+Supply Pressure (Op/Design): 32.5 to 41/55 Kg/cm2g
+-
+Temperature (Op/Design): 40/ -29 to 125 Deg C
+Service 1: Hydrogen purification/Reaction
+Service 2: Ethylene purification/Reaction
+
+As per MR Requirement
+3.1
+4 Stream Sequential Gas Chromatograph
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Mounting Location: Inside Analyser shelter 310-AS-001
+
+Return Details:
+-
+Fastloop Sample return to: Low pressure header
+-
+Analyser vent return to : Flare header through vent master.
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+1 No
+Quoted
+3.2
+Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+Probe is not required for Stream 1 & 2 as line size is less then 2’’
+
+2 No
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for stream 1, Qty: 124 Meters
+-
+1/4’’ SS316 Tube for stream 2, Qty: 94 Meters
+-
+1/4’’ SS316 Tube for stream 3, Qty: 124 Meters
+-
+1/4’’ SS316 Tube for stream 4, Qty: 84 Meters
+
+1 Lot
+
+Quoted
+3.4
+Primary sample handling system x 4 No
+-
+Ball valve, coarse filter, pressure regulator & SRV
+-
+Shall be mounted inside SS304 enclosure
+Common Sample Handling system as below:
+-
+Ball valve, AOV, Pressure indicator, Fastloop filter (Redundant
+configuration), Pressure regulator, Flowmeter for bypass & supply
+with low flow switch, AFR, NRV, fine filter etc
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+
+1 Set
+
+Quoted
+3.5
+Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the
+date of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4
+Tag No: 310-AI-12201
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 29.1/64 Kg/cm2g
+-
+Temperature (Op/Design): 40/-29 to 65 Deg C
+Service: Hydrogen Reaction
+
+As per MR Requirement
+4.1
+Moisture Sensor
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside Enclosure mounted on free standing rack
+with canopy with Ex-D indicator.
+Principle: AL2O3
+Measuring range: 0-5 ppmv
+Phase: Gas
+
+Return Details:
+-
+Sample Return to: Flare header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+
+1 No
+Quoted
+4.2
+Sample Probe:
+-
+Directly from tapping point (Probe is not required since line size is
+2’’)
+
+Not Quoted
+4.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+4.4
+With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+5
+Tag No: 310-AI-12202
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 43.4/51 Kg/cm2g
+-
+Temperature (Op/Design): 40/65Deg C
+Service: Hydrogen Reaction
+
+As per MR Requirement
+5.1
+Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-1 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+
+1 No
+Quoted
+5.2
+Sample Probe:
+-
+Directly from tapping point (Probe is not required since line size is
+2’’)
+
+Not Quoted
+
+5.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+5.4
+Sample handling system:
+-
+Ball valve, Pressure gauge, redundant filter, pressure regulator,
+SRV, needle valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Ethylene Stream
+6
+Tag No: 310-AI-01119
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 40/64 Kg/cm2g
+-
+Temperature (Op/Design): 33/-29 to 65 Deg C
+Service: Ethylene Purification
+
+As per MR Requirement
+6.1
+Moisture Sensor
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside Enclosure mounted on free standing rack
+with canopy with Ex-D indicator.
+Principle: AL2O3
+Measuring range: 0-1 ppmv
+Phase: Gas
+
+Return Details:
+-
+Sample Return to: Flare header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital output
+
+1 No
+Quoted
+6.2
+Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+Quoted
+6.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+6.4
+With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+7
+Tag No: 310-AI-01118
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 40/64 Kg/cm2g
+-
+Temperature (Op/Design): 33/-29 to 65Deg C
+Service: Ethylene Purification
+
+As per MR Requirement
+7.1
+Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-1 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+
+1 No
+Quoted
+7.2
+Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+
+Quoted
+7.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+7.4
+Sample handling system:
+-
+Ball valve, Pressure gauge, redundant filter, pressure regulator,
+SRV, needle valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+8
+Tag No: 310-AI-10416
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 41/55 Kg/cm2g
+-
+Temperature (Op/Design): 40/-29 to 125 Deg C
+Service: Ethylene Reaction
+
+As per MR Requirement
+8.1
+Moisture Sensor
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside Enclosure mounted on free standing rack
+with canopy with Ex-D indicator.
+Principle: AL2O3
+Measuring range: 0-1 ppmv
+Phase: Gas
+
+Return Details:
+-
+Sample Return to: Flare header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital output
+
+1 No
+Quoted
+8.2
+Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+Quoted
+8.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+8.4
+With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+9
+Tag No: 310-AI-10415
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 41/55 Kg/cm2g
+-
+Temperature (Op/Design): 40/-29 to 65Deg C
+Service: Ethylene Purification
+
+As per MR Requirement
+9.1
+Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-1 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+
+1 No
+Quoted
+9.2
+Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+
+Quoted
+9.3
+Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+9.4
+Sample handling system:
+-
+Ball valve, Pressure gauge, redundant filter, pressure regulator,
+SRV, needle valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Propylene Stream
+10
+Tag No: 340-AI-01123/20502
+PROCESS CONDITIONS (01123-Stream 1)
+-
+Supply Pressure (Op/Design): 27/60.5 Kg/cm2g
+-
+Temperature (Op/Design): 40 /-46 to 85 Deg C
+
+PROCESS CONDITIONS (20502-Stream 2)
+-
+Supply Pressure (Op/Design): 19.9/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 90 Deg C
+Service 1: Propylene to purification
+Service 2: Propylene to charge pump
+
+As per MR Requirement
+10.1 2 Stream Sulfur Analyser
+MAKE: PAC
+MODEL: Nsure
+Hazardous Area Classification: Zone 1, llC, T3
+Mounting Location: Inside Analyser shelter 310-AS-001
+Tapping Phase : Liquid, Injection Phase: Gas
+Measuring range: 0-1 PPMW (Both streams)
+PPMV to PPMW conversion shall be done in DCS
+
+Return Details:
+-
+Fastloop Sample return to: Low pressure header
+-
+Analyser vent return to : Flare header through vent master.
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+1 No
+Quoted
+10.2 Common Probe (With Propylene GC)
+
+Not Quoted
+10.3 Sample Transportation Line for Supply
+-
+Common with Propylene GC
+
+Not Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+10.4 Primary sample handling system (Common with Propylene GC)
+Common Sample Handling system :
+-
+Tapping shall be taken After fastloop of Propylene GC SHS.
+-
+With Dual level AOV (Stream switching & Calibration), Fine filter,
+ball valve
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+
+1 Set
+
+Quoted
+10.5 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the
+date of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+11
+Tag No: 310-AI-01124
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 27/60.5 Kg/cm2g
+-
+Temperature (Op/Design): 40 to -46/85 Deg C
+Service: Propylene to purification
+
+As per MR Requirement
+11.1 AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy with EXD Indicator
+IP Rating: IP66
+Sample phase: Liquid
+Range: 0-3 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Digital Outputs
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+11.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+
+Quoted
+11.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+11.4 With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+12
+Tag No: 310-AI-01125
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 27/60.5 Kg/cm2g
+-
+Temperature (Op/Design): 40/ -46 to 85 Deg C
+Service: Propylene purification
+
+As per MR Requirement
+12.1 Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Liquid
+Range: 0-1 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+1 No
+Quoted
+12.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+12.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+12.4 With HPR at tapping point
+Sample handling system:
+-
+Ball valve, Pressure gauge, filter, SRV, needle valve etc
+-
+With SS304 Enclosure
+-
+Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+Quoted
+13
+Tag No: 310-AI-01126/20505/40312/43314
+PROCESS CONDITIONS (01126-Propylene Purification)
+-
+Supply Pressure (Op/Design): 27/60.5 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 85 Deg C
+
+PROCESS CONDITIONS (20505- Propylene charge pump)
+-
+Supply Pressure (Op/Design): 19.9/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 90 Deg C
+PROCESS CONDITIONS (40312-Cycle gas Compressor 1)
+-
+Supply Pressure (Op/Design): 34.51/41.7 Kg/cm2g
+-
+Temperature (Op/Design): 73/ 150 Deg C
+PROCESS CONDITIONS (43314-Cycle gas Compressor 2)
+-
+Supply Pressure (Op/Design): 19.66/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 75/ 150 Deg C
+Service 1: Propylene Purification/ Charge pump
+Service 2: Cycle gas compressor 1/2
+
+As per MR Requirement
+13.1 4 Stream Sequential Gas Chromatograph
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Mounting Location: Inside Analyser shelter 310-AS-001
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour
+Return Details:
+-
+Fastloop Sample return to: Low pressure header
+-
+Analyser vent return to : Flare header through vent master.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+CO Analysis of Cycle gas Compressors 1 & 2(service on Demand) is
+considered as stream 3 & 4
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+13.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+Probe shall be common for Cycle gas compressor 1 & 2
+
+2 No
+
+Quoted
+13.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Sulfinert Tube for stream 1, Qty: 124 Meters
+-
+1/4’’ SS316 Sulfinert Tube for stream 2, Qty: 100 Meters
+-
+1/4’’ SS316 Tube for stream 3, Qty: Per meter (Between Shelter 1
+&2)
+1/4’’ SS316 Tube for stream 4, Qty: Per meter (Between Shelter 1
+&2)
+
+1 Lot
+
+Quoted
+13.4 Primary sample handling system x 2 No
+-
+Ball valve, coarse filter, Heated pressure regulator & SRV
+-
+Shall be mounted inside SS304 enclosure
+Common Sample Handling system as below:
+-
+Ball valve, AOV, Pressure indicator, Fastloop filter (Redundant
+configuration), Pressure regulator, Flowmeter for bypass & supply
+with low flow switch, AFR, NRV, fine filter etc
+-
+Tapping for CO Analysis of cycle gas compressor 1 & 2 shall be
+taken after fastloop of Cycle gas SHS.
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+
+1 Set
+
+Quoted
+13.5 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the
+date of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+14
+Tag No: 340-AI-01130/20506
+PROCESS CONDITIONS (01130-Propylene Purification)
+-
+Supply Pressure (Op/Design): 27/60.5 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 85 Deg C
+
+PROCESS CONDITIONS (20506- Propylene charge pump)
+-
+Supply Pressure (Op/Design): 19.9/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 90 Deg C
+Service 1: Propylene purification
+Service 2: Propylene charge pump
+
+As per MR Requirement
+14.1 2 Stream Sequential Gas Chromatograph (Arsine & Phosphine
+measurement)
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: General purpose
+Mounting Location: Inside X purged cabinet inside 310-AS-001
+Sample State at Tapping: Liquid, Sample State at Analyzer: Vapour
+
+Return Details:
+-
+Fastloop Sample return to: Low pressure header
+-
+Analyser vent return to : Flare header through vent master.
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+1 No
+Quoted
+14.2 Sample Probe:
+-
+Common sample probe of Propylene GC
+
+Not Quoted
+
+14.3 Sample Transportation Line for Supply
+-
+Common sample tubing of Propylene GC
+
+Not Quoted
+
+14.4 Primary sample handling system
+-
+Common PSHS of Propylene GC
+
+Not Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+14.5 Common Sample Handling system as below:
+-
+Sample tapping after fastloop of Propylene GC
+-
+With Dual level AOV, flowmeter with low flow switch, Filter
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+1 Set
+Quoted
+14.6 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the
+date of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+15
+Tag No: 340-AI-01130/20506
+PROCESS CONDITIONS (01130-Propylene Purification)
+-
+Supply Pressure (Op/Design): 27/60.5 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 85 Deg C
+
+PROCESS CONDITIONS (20506- Propylene charge pump)
+-
+Supply Pressure (Op/Design): 19.9/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 40/-46 to 90 Deg C
+Service 1: Propylene purification
+Service 2: Propylene charge pump
+
+As per MR Requirement
+15.1 2 Stream Sequential Gas Chromatograph (Ammonia measurement)
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: General purpose
+Mounting Location: Inside X purged cabinet inside 310-AS-001
+Sample State at Tapping: Liquid, Sample State at Analyzer: Vapour
+
+Return Details:
+-
+Fastloop Sample return to: Low pressure header
+-
+Analyser vent return to : Flare header through vent master.
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+15.2 Sample Probe:
+-
+Common sample probe of Propylene GC
+
+Not Quoted
+
+15.3 Sample Transportation Line for Supply
+-
+Common sample tubing of Propylene GC
+
+Not Quoted
+
+15.4 Primary sample handling system
+-
+Common PSHS of Propylene GC
+
+Not Quoted
+
+15.5 Common Sample Handling system as below:
+-
+Sample tapping after fastloop of Propylene GC
+-
+With Dual level AOV, flowmeter with low flow switch, Filter
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+
+1 Set
+
+Quoted
+15.6 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the
+date of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+16
+Tag No: 310-AI-20503
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 19.9/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 40 / -46 to 90 Deg C
+Service: Propylene to charge pump
+
+As per MR Requirement
+16.1 AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy with EXD Indicator
+IP Rating: IP66
+Sample phase: Liquid
+Range: 0-2 ppmv
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Digital Outputs
+16.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+16.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+16.4 With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+17
+Tag No: 310-AI-20504
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 19.9/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 40/ -46 to 90 Deg C
+Service: Propylene Charge pump
+
+As per MR Requirement
+17.1 Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Liquid
+Range: 0-1 ppmv
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+17.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+17.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316HTT Tube for supply, Qty: 10 Meters
+10 meters
+Quoted
+17.4 Sample handling system:
+-
+Ball valve, Pressure gauge, filter, Heated pressure regulator, SRV,
+needle valve etc
+-
+With SS304 Enclosure
+-
+Cabinet heater
+-
+ASJB,DSJB,PDB, headers & other Accessories
+1 Set
+Quoted
+Regeneration N2 Stream
+18
+Tag No: 310-AI-21201
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.67/10.2 Kg/cm2g
+-
+Temperature (Op/Design): 290 / 365 Deg C
+Service: Regeneration N2 Stream
+
+As per MR Requirement
+18.1 AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-10 ppmv
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Digital Outputs
+18.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+18.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+18.4 With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+19
+Tag No: 310-AI-21202
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.67/10.2 Kg/cm2g
+-
+Temperature (Op/Design): 290/ 365 Deg C
+Service: Regeneration N2 Stream
+
+As per MR Requirement
+19.1 Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-10 ppmv
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+19.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+19.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+10 Meters
+Quoted
+19.4 Sample handling system:
+-
+Ball valve, Pressure gauge, filter, pressure regulator, SRV, needle
+valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+1 Set
+Quoted
+20
+Tag No: 310-AI-21203
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.67/10.3 Kg/cm2g
+-
+Temperature (Op/Design): 290/ 365 Deg C
+Service: Regeneration N2 Stream
+
+As per MR Requirement
+20.1 HC Analyser (On HOLD as Measuring range is on higher side
+compared to normal composition of 0%)
+MAKE: Siemens
+MODEL: Fidamat 6
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside X-Purged Cabinet inside AS-01
+Sample phase: Gas
+Range: 0-25%
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Serial output
+-
+Digital Outputs
+O No
+Not Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Nitrogen to purification stream
+21
+Tag No: 310-AI-90101
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 6.5/10.5 Kg/cm2g
+-
+Temperature (Op/Design): 30/ 65 Deg C
+Service: N2 to Purification stream
+
+As per MR Requirement
+21.1 HC Analyser
+MAKE: Siemens
+MODEL: Fidamat 6
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside X-Purged Cabinet inside AS-01
+Sample phase: Gas
+Range: 0-1000 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+21.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+1 No
+Quoted
+21.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 124 Meters
+
+124 Meters
+
+Quoted
+21.4 Sample handling system:
+-
+Ball valve, filter(Redundant), needle valve, Flowmeter with low flow
+switch, Bypass rotameter, NRV, Pressure regulator etc
+1 Set
+Quoted
+21.5 Calibration & Carrier gas cylinder for 1 year operation
+-
+Zero & Span calibration cylinder with pressure regulator & Cylinder
+rack
+-
+H2 carrier gas cylinder (Common ACU unit inside shelter AS-01)
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+22
+Tag No: 310-AI-90103
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.67/10.2 Kg/cm2g
+-
+Temperature (Op/Design): 290 / 365 Deg C
+Service: Nitrogen to Purification stream
+
+As per MR Requirement
+22.1 AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy with EXD indicator
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-2 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Digital Outputs
+1 No
+Quoted
+22.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+22.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+22.4 With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+23
+Tag No: 310-AI-90102
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.67/10.2 Kg/cm2g
+-
+Temperature (Op/Design): 290/ 365 Deg C
+Service: Regeneration N2 Stream
+
+As per MR Requirement
+23.1 Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-3 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+1 No
+Quoted
+23.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+1 No
+Quoted
+23.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+10 Meters
+Quoted
+23.4 Sample handling system:
+-
+Ball valve, Pressure gauge, filter, pressure regulator, SRV, needle
+valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Cycle Gas Compressor 1
+24
+Tag No: 310-AI-40312
+PROCESS CONDITIONS
+-
+Supply Pressure (Op/Design): 34.51/41.7 Kg/cm2g
+-
+Temperature (Op/Design): 73/ 150 Deg C
+Service: Cycle Gas from Compressor
+
+As per MR
+Requirement
+
+24.1 Cycle Gas GC
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Mounting Location: Inside Analyser shelter 310-AS-001
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+
+CO Measurement of this GC is done in Propylene GC
+Backup of Cycle gas stream shall be done in Recycle gas GC
+1 No
+Quoted
+24.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+
+Quoted
+24.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 HTT Tube for stream 1, Qty: 75 Meters
+
+75 Meters
+
+Quoted
+24.4 Heated Primary sample handling system
+-
+Shall be as per Licensor drawing for PSHS
+-
+Shall be mounted inside SS304 enclosure
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Heated Secondary Sample Handling system as below:
+-
+Ball valve, AOV, Pressure indicator, Fastloop filter (Redundant
+configuration), Pressure regulator, Flowmeter for bypass & supply
+with low flow switch, AFR, NRV, fine filter etc
+-
+With cabinet heater
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+24.5 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the date
+of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+Cycle Gas Compressor 2
+25
+Tag No: 310-AI-43314
+PROCESS CONDITIONS
+-
+Supply Pressure (Op/Design): 19.66/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 75/ 150 Deg C
+
+Service: Cycle gas from compressor 2
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+25.1 Cycle Gas GC
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Mounting Location: Inside Analyser shelter 310-AS-001
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+CO Measurement of this GC is done in Propylene GC
+Backup of Cycle gas stream shall be done in Recycle gas GC
+1 No
+Quoted
+25.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+
+1 No
+
+Quoted
+25.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 HTT Tube for stream 1, Qty: 94 Meters
+
+94 meters
+
+Quoted
+25.4 Heated Primary sample handling system
+-
+Shall be as per Licensor drawing for PSHS
+-
+Shall be mounted inside SS304 enclosure
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Heated Sample Handling system as below:
+-
+Ball valve, AOV, Pressure indicator, Fastloop filter (Redundant
+configuration), Pressure regulator, Flowmeter for bypass & supply
+with low flow switch, AFR, NRV, fine filter etc
+-
+With Cabinet heater
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+25.5 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the date
+of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Recycle Gas Streams
+26
+Tag No: 310-AI-
+52310/52515/52608/52704/52811
+/40312/43314
+PROCESS CONDITIONS (After cooler Liquid)
+-
+Supply Pressure (Op/Design): 41.49/49.3 Kg/cm2g
+-
+Temperature (Op/Design): 40/ -46 to 150 Deg C
+Phase: Liquid
+
+PROCESS CONDITIONS (Lights Recycle)
+-
+Supply Pressure (Op/Design): 26.17/49.3 Kg/cm2g
+-
+Temperature (Op/Design): 30/ -90 to 49.5 Deg C
+Phase: Gas
+PROCESS CONDITIONS (Column Overhead)
+-
+Supply Pressure (Op/Design): 22.16/28.1 Kg/cm2g
+-
+Temperature (Op/Design): 40/ 100 Deg C
+Phase: Gas
+
+PROCESS CONDITIONS (Recovered propylene)
+-
+Supply Pressure (Op/Design): 22.21/28.1 Kg/cm2g
+-
+Temperature (Op/Design): 55/ -46 to 100 Deg C
+Phase: Gas
+PROCESS CONDITIONS (Column Tails)
+-
+Supply Pressure (Op/Design): 22.51/28.3 Kg/cm2g
+-
+Temperature (Op/Design): 63/ 100 Deg C
+Phase: Liquid
+PROCESS CONDITIONS (Cycle Gas compressor 1)
+-
+Supply Pressure (Op/Design): 34.51/41.7 Kg/cm2g
+-
+Temperature (Op/Design): 73/ 150 Deg C
+Phase: Gas
+PROCESS CONDITIONS (Cycle Gas compressor 2)
+-
+Supply Pressure (Op/Design): 19.66/26.6 Kg/cm2g
+-
+Temperature (Op/Design): 75/ 150 Deg C
+Phase: Gas
+
+Backup of Cycle gas stream shall be done in Recycle gas GC
+As per Requirement
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+26.1 Recycle Gas GC
+MAKE: Valmet
+MODEL: Maxum ll
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Mounting Location: Inside Analyser shelter 310-AS-002
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour
+Streams : 7 No
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component.
+-
+Ethernet TCP IP / Modbus RS 485 Serial output
+-
+Digital Outputs for system faults & other diagnostics
+1 No
+Quoted
+26.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 600# RF Flange
+Probe is not required for Column trail stream since line size is 2’’
+Common Probe for Cycle gas compressor 1 & 2
+
+4 No
+
+Quoted
+26.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for stream 1, Qty: 164 Meters
+-
+1/4’’ SS316 Tube for stream 2, Qty: 156 Meters
+-
+1/4’’ SS316 Tube for stream 3, Qty: 132 Meters
+-
+1/4’’ SS316 Tube for stream 4, Qty: 97 Meters
+-
+1/4’’ SS316 Tube for stream 5, Qty: 124 Meters
+
+Tubing for Cycle gas compressor 1 & 2 shall be common
+
+1 Lot
+
+Quoted
+26.4 Primary sample handling system x 3 No
+-
+Ball valve, coarse filter, pressure regulator & SRV
+-
+Shall be mounted inside SS304 enclosure
+Primary sample handling system x 2 No
+-
+Ball valve, coarse filter, Heated pressure regulator & SRV
+-
+Shall be mounted inside SS304 enclosure
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Common Non Heated Sample Handling system as below:
+-
+Ball valve, AOV, Pressure indicator, Fastloop filter (Redundant
+configuration), Pressure regulator, Flowmeter for bypass & supply
+with low flow switch, AFR, NRV, fine filter etc
+-
+Tapping after fastloop of Cycle gas compressor 1 & 2 GC shall be
+taken for measurement in Recycle Gas GC.
+-
+SHS components are mounted inside SS304 Enclosure outside
+analyser shelter.
+26.5 Carrier gas cylinders
+-
+Carrier gas cylinders shall be supplied for 1 year operation from the
+date of commissioning.
+Calibration gas cylinders
+-
+Calibration blend shall be supplied for 1 year operation from the date
+of commissioning.
+-
+With cylinder rack & canopy.
+
+1 Lot
+
+Quoted
+
+Extruder Feed Hooper / Vent
+27
+Tag No: 310-AI-70301
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): ATM/0.07 Kg/cm2g
+-
+Temperature (Op/Design): 70/ 100 Deg C
+Service: Extruder Feed Hooper/Vent
+
+As per MR Requirement
+27.1 Inline LEL detector
+MAKE: Respo
+Hazardous Area Classification: Zone 2, llA,llB, T3
+
+1 No
+Quoted
+28
+Tag No: 310-AI-70307
+PROCESS CONDITIONS
+-
+Supply Pressure (Op/Design): ATM/0.07 Kg/cm2g
+-
+Temperature (Op/Design): 70/ 100 Deg C
+Service: Extruder Feed Hooper/Vent
+
+As per MR Requirement
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+28.1 Paramagnetic O2 Analyser
+MAKE: Mitchell instruments
+MODEL: XTP601
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: mounted on skid with canopy
+IP Rating: IP65
+Sample phase: Gas
+Range: 0-10%
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Modbus serial output
+-
+Digital Outputs
+1 No
+Quoted
+28.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+1 No
+Quoted
+28.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 206 Meters
+206 Meters
+Quoted
+28.4 Sample handling system:
+-
+Ball valve, Pressure gauge, filter, pressure regulator, SRV, needle
+valve, Bypass Flowmeter & Sample flowmeter with low flow switch,
+Sample gas pump etc
+-
+Inside SS304 Enclosure mounted on rack
+-
+MS Skid with SS canopy
+-
+ASJB, DSJB, CSJB, Exd
+-
+PDB, Exd
+-
+Headers & other accessories
+
+1 Set
+Quoted
+28.5 Calibration & Carrier gas cylinder for 1 year operation
+-
+Zero & Span calibration cylinder with pressure regulator & Cylinder
+rack
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Bagging bin Exhaust vent
+29
+Tag No: 310-AI-85201/85301/85401/86201/80403
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): ATM/0.07 Kg/cm2g
+-
+Temperature (Op/Design): 30/ 100 Deg C
+Service: Bagging bin Exhaust vent
+
+As per MR Requirement
+29.1 5 Stream HC Analyser
+MAKE: Siemens
+MODEL: Fidamat 6 (With internal Pump)
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside X-Purged Cabinet with Redundant
+Exproof AC
+Sample phase: Gas
+Range: 0-200 Mg/nm3
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Serial output
+-
+Digital Outputs
+With Stream switching using AOV with SOV through DCS
+1 No
+Quoted
+29.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+5 No
+Quoted
+29.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters for each stream
+50 Meters
+Quoted
+29.4 Common Sample handling system:
+-
+Ball valve, filter(Redundant), needle valve, Flowmeter with low flow
+switch, Bypass rotameter, NRV etc
+-
+Plate mounted inside SS304 Cabinet
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+29.5 Analyser Cabinet
+-
+1000mm x 800mm x 2100mm, SS304, IP65
+-
+With Purge controller
+-
+With redundant Exproof AC
+-
+ASJB, DSJB, CSJB, Exd
+-
+PDB, Exd
+-
+Headers & other accessories
+1 Set
+Quoted
+29.6 Calibration & Carrier gas cylinder for 1 year operation
+-
+Zero & Span calibration cylinder with pressure regulator &
+Cylinder rack
+-
+H2 carrier gas cylinder
+-
+With Autochangover unit suitable for 2+2 cylinder bank
+1 Lot
+Quoted
+Bulk loading bin exhaust vent
+30
+Tag No: 310-AI-86301
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): ATM/0.07 Kg/cm2g
+-
+Temperature (Op/Design): 30/ 100 Deg C
+Service: Bulk loading bin exhaust vent
+
+As per MR Requirement
+30.1 HC Analyser
+MAKE: Siemens
+MODEL: Fidamat 6 (With internal Pump)
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside X-Purged Cabinet with Redundant
+Exproof AC
+Sample phase: Gas
+Range: 0-200 Mg/nm3
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Serial output
+-
+Digital Outputs
+
+1 No
+Quoted
+30.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+30.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+10 Meters
+Quoted
+30.4 Sample handling system:
+-
+Ball valve, filter(Redundant), needle valve, Flowmeter with low flow
+switch, Bypass rotameter, NRV etc
+-
+Plate mounted inside SS304 Cabinet
+1 Set
+Quoted
+30.5 Analyser Cabinet
+-
+1000mm x 800mm x 2100mm, SS304, IP65
+-
+With Purge controller
+-
+With redundant Exproof AC
+-
+ASJB, DSJB, CSJB, Exd
+-
+PDB, Exd
+-
+Headers & other accessories
+
+1 Set
+Quoted
+30.6 Calibration & Carrier gas cylinder for 1 year operation
+-
+Zero & Span calibration cylinder with pressure regulator & Cylinder
+rack
+-
+H2 carrier gas cylinder
+-
+With Autochangover unit suitable for 2+2 cylinder bank
+1 Lot
+Quoted
+Propane Purge stream
+31
+Tag No: 310-AI-52812
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 22.5/28.3 Kg/cm2g
+-
+Temperature (Op/Design): 62 / -46 to 85 Deg C
+Service: Propane purge stream
+
+As per MR Requirement
+31.1 AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-10 ppmv
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Digital Outputs
+31.2 Sample Probe:
+-
+Directly from tapping point.
+Probe is not required as line size is 2’’
+
+Not Quoted
+
+31.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+31.4 With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+
+Purified Nitrogen from OSBL
+32
+Tag No: 310-AI-90107
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 6/10.5 Kg/cm2g
+-
+Temperature (Op/Design): 30 / 65 Deg C
+Service: Purified N2 from OSBL
+
+As per MR Requirement
+32.1 AL2O3 Moisture
+MAKE: Mitchell instruments
+MODEL: Easidew Pro
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-2 ppmv
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Digital Outputs
+32.2 Sample Probe:
+-
+Directly from tapping (As line size is 2’’)
+
+Not Quoted
+32.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 EP HTT Tube for supply, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+32.4 With HPR at tapping point
+Heated Sample handling system:
+-
+Ball valve, redundant filter, SRV, Flowmeter with low flow switch,
+needle valve etc
+-
+With SS304 Enclosure, Cabinet heater
+-
+ASJB, DSJB, PDB, headers & other Accessories
+
+1 Set
+
+Quoted
+33
+Tag No: 310-AI-90106
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 6/10.5 Kg/cm2g
+-
+Temperature (Op/Design): 30 / 65 Deg C
+Service: Purified N2 from OSBL
+
+As per MR Requirement
+33.1 Electrochemical O2 Analyser
+MAKE: GE Penametrics
+MODEL: DELTA F
+Hazardous Area Classification: Zone 2, llA,llB, T3
+Mounting Location: Inside SS304 Enclosure on MS skid with SS
+canopy.
+IP Rating: IP66
+Sample phase: Gas
+Range: 0-3 ppmv
+Return Details:
+-
+Sample Return to: Flare header/Vent header
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital Outputs
+33.2 Sample Probe:
+-
+Directly from tapping (As line size is 2’’)
+
+Not Quoted
+
+33.3 Sample Transportation Line for Supply
+-
+1/4’’ SS316 Tube for supply, Qty: 10 Meters
+10 Meters
+Quoted
+33.4 Sample handling system:
+-
+Ball valve, Pressure gauge, filter, pressure regulator, SRV, needle
+valve etc
+-
+With SS304 Enclosure
+-
+ASJB,DSJB,PDB, headers & other Accessories
+
+1 Set
+Quoted
+Steam Condensate to OSBL
+34
+Tag No: 310-AI-90203
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 7.68/13 Kg/cm2g
+-
+Temperature (Op/Design): 98.1/120 Deg C
+Service: Steam condensate
+
+As per MR Requirement
+34.1 Conductivity Sensor
+MAKE: Forbes Marshall
+MODEL: Aqua2Trans + FM8310
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Open rack mounted with canopy
+Principle: Contacting conductivity
+Measuring range: 0-1 us/cm2
+pH Sensor
+MAKE: Forbes Marshall
+MODEL: Aqua2Trans + FM1104
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: Open rack mounted with canopy
+Measuring range: 0-14 pH
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Drain header
+
+Analyzer Outputs:
+-
+4-20 mA HART output
+-
+Digital outputs
+34.2 Common Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+1 No
+Quoted
+34.3 Common Sample Transportation Line for Supply
+-
+1/2’’ SS316 Tube, Qty: 10 Meters
+
+10 Meters
+
+Quoted
+34.4 Common Secondary Sample Handling system as below:
+-
+Ball valve, Pressure indicator, Pressure regulator, Flowmeter with
+low flow switch, Strainer, NRV, Thermal shutoff valve, Temperature
+gauge, Flow through cell.
+-
+With Heat exchanger
+
+1 Set
+
+Quoted
+34.5 Analyser Rack
+-
+MS Skid with canopy
+-
+ASJB, DSJB, Exd
+-
+Drain Header
+1 Set
+Quoted
+34.6 With buffer solution for 1 year operation from date of SAT
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+35
+Tag No: 310-AI-90205
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 7.68/13 Kg/cm2g
+-
+Temperature (Op/Design): 98.1/120 Deg C
+Service: Steam condensate
+
+As per MR Requirement
+35.1 HC Analyser
+MAKE: Forbes Marshall
+MODEL: CX2000
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: inside X-Purged cabinet with Redundant Exproof
+AC
+Principle: UV Fluroscence
+Measuring range: 0-20 ppmw
+
+Return Details:
+-
+Sample Return to: Drain header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Modbus serial output
+-
+Digital outputs
+
+1 No
+Quoted
+35.2 Sample Probe:
+-
+Directly from Tapping point
+Probe not required as line size is 2’’
+
+Not Quoted
+35.3 Sample Transportation Line for Supply
+-
+1/2’’ SS316 Tube for supply, Qty: 30 meters
+
+30 meters
+
+Quoted
+35.4 Secondary Sample Handling system as below:
+-
+Ball valve, Pressure indicator, Flowmeter for bypass & supply with
+low flow switch, Strainer, NRV, fine filter etc
+-
+With Heat exchanger, TSV, TG
+
+1 Set
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+35.5 Analyser Cabinet
+-
+1000 mm x 800 mm x 2100 mm, SS304 insulated Enclosure
+-
+With Purge controller
+-
+With Redundant Exproof AC
+-
+ASJB, DSJB, Exd
+-
+PDB, Exd
+-
+Headers & accessories
+1 Set
+Quoted
+35.6 With buffer solution for 1 year operation from date of SAT
+1 Lot
+Quoted
+Cooling water/Bearing CW Return to OSBL
+36
+Tag No: 310-AI-90104
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.5/10.2 Kg/cm2g
+-
+Temperature (Op/Design): 45/65 Deg C
+Service: Cooling Water Return to OSBL
+
+As per MR Requirement
+36.1 TOC Analyser
+MAKE: Forbes Marshall
+MODEL: FMTOC 101
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: inside X-Purged cabinet with Redundant Exproof
+AC
+Principle: UV persulphate oxidation
+Measuring range: 0-50 mg/l
+
+Return Details:
+-
+Sample Return to: Drain header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital outputs
+
+With Instrument air @2.2 bar as carrier gas
+
+1 No
+Quoted
+36.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+36.3 Sample Transportation Line for Supply
+-
+1/2’’ SS316 Tube for supply, Qty: 50 Meters
+
+50 Meters
+
+Quoted
+36.4 Secondary Sample Handling system as below:
+-
+Ball valve, Pressure indicator, Flowmeter for bypass & supply with
+low flow switch, Strainer, NRV, fine filter etc
+
+1 Set
+
+Quoted
+36.5 Analyser Cabinet
+-
+1000 mm x 800 mm x 2100 mm, SS304 insulated Enclosure
+-
+With Purge controller
+-
+With Redundant Exproof AC
+-
+ASJB, DSJB, Exd
+-
+PDB, Exd
+-
+Headers & accessories
+1 Set
+Quoted
+36.6 With buffer solution for 1 year operation from date of SAT
+1 Lot
+Quoted
+37
+Tag No: 310-AI-90105
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): 2.5/10.2 Kg/cm2g
+-
+Temperature (Op/Design): 45/65 Deg C
+Service: Cooling Water Return to OSBL
+
+As per MR Requirement
+37.1 TOC Analyser
+MAKE: Forbes Marshall
+MODEL: FMTOC 101
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: inside X-Purged cabinet with Redundant Exproof
+AC
+Principle: UV persulphate oxidation
+Measuring range: 0-50 mg/l
+
+Return Details:
+-
+Sample Return to: Drain header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital outputs
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+With Instrument air @2.2 bar as carrier gas
+
+37.2 Sample Probe:
+-
+Manual sample retractable probe, MOC: SS316
+-
+1.5’’ 300# RF Flange
+1 No
+Quoted
+37.3 Sample Transportation Line for Supply
+-
+1/2’’ SS316 Tube for supply, Qty: 50 Meters
+
+50 Meters
+
+Quoted
+37.4 Secondary Sample Handling system as below:
+-
+Ball valve, Pressure indicator, Flowmeter for bypass & supply with
+low flow switch, Strainer, NRV, fine filter etc
+
+1 Set
+
+Quoted
+37.5 Analyser Cabinet
+-
+1000 mm x 800 mm x 2100 mm, SS304 insulated Enclosure
+-
+With Purge controller
+-
+With Redundant Exproof AC
+-
+ASJB, DSJB, Exd
+-
+PDB, Exd
+-
+Headers & accessories
+1 Set
+Quoted
+37.6 With buffer solution for 1 year operation from date of SAT
+1 Lot
+Quoted
+38
+Tag No: 310-AI-90202
+PROCESS CONDITIONS (SUPPLY)
+-
+Supply Pressure (Op/Design): ATM/3.5 Kg/cm2g
+-
+Temperature (Op/Design): 98/240 Deg C
+Service: Steam condensate
+
+As per MR Requirement
+38.1 HC Analyser
+MAKE: Forbes Marshall
+MODEL: CX2000
+Hazardous Area Classification: Zone 2, llA/llB, T3
+Mounting Location: inside X-Purged cabinet with Redundant Exproof
+AC
+Principle: UV Fluroscence
+Measuring range: 0-10 ppmw
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Return Details:
+-
+Sample Return to: Drain header
+
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Digital outputs
+
+38.2 Sample Probe:
+-
+Directly from Tapping point
+Probe not required as line size is 2’’
+
+Not Quoted
+38.3 Sample Transportation Line for Supply
+-
+1/2’’ SS316 Tube for supply, Qty: Per meter
+
+Per meter
+
+Quoted
+38.4 Secondary Sample Handling system as below:
+-
+Ball valve, Pressure indicator, Flowmeter for bypass & supply with
+low flow switch, Strainer, NRV, fine filter etc
+-
+With Heat exchanger, TSV, TG
+
+1 Set
+
+Quoted
+38.5 Analyser Cabinet
+-
+1000 mm x 800 mm x 2100 mm, SS304 insulated Enclosure
+-
+With Purge controller
+-
+With Redundant Exproof AC
+-
+ASJB, DSJB, Exd
+-
+PDB, Exd
+-
+Headers & accessories
+1 Set
+Quoted
+38.6 With buffer solution for 1 year operation from date of SAT
+1 Lot
+Quoted
+
+39
+H2O Portable Analyser
+Make: Cosa Xentaur
+Model: XPDM
+Hazardous Area classification: Zone 1, llC, T3
+1 No
+Quoted
+
+40
+O2 Portable Analyser
+Make: Mitchell instruments
+Model: GPR 1200
+Hazardous Area classification: Zone 1, llC, T3
+1 No
+Quoted
+
+41
+O2+LEL Portable analyser
+Make: Dragger
+Model: XAM 2500
+Hazardous Area classification: Zone 1, llC, T3
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Section 5: Scope Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyzer as per offer/MR
+Requirement
+Yes
+
+2
+Analyser House with HVAC
+Yes
+
+3
+Sample Tapping Nozzle Flange
+
+Yes
+5
+Process Isolation Valve at tapping point
+
+Yes
+6
+Sample Probe with flanges gaskets and nut bolts.
+Yes
+
+7
+Sample Transportation Line (Bare SS316 tube)
+Yes
+
+8
+Sample Transportation Line (Special tubes like EHT, EP etc)
+Yes
+
+9
+Sample Return Line
+
+Yes
+10
+Isolation Valve at process return point
+
+Yes
+11
+Supply of Calibration Cylinders with accessories
+Yes
+
+12
+Supply of Carrier Gas cylinders
+Yes
+
+13
+Auto change over regulator with Accessories
+Yes
+
+14
+Network Components
+Yes
+
+15
+Signal JBs & PDPs with required TBs & MCBS and other
+Accessories
+Yes
+
+16
+Intermediate JBs
+Yes
+
+17
+Sample Conditioning System
+Yes
+
+18
+Supply of startup and commissioning spares
+Yes
+
+19
+Supply of Mandatory spares
+Yes
+
+20
+Consumables spares
+Yes
+
+21
+Inspection & Testing
+Yes
+
+22
+Project Management & Project Documentation
+Yes
+
+23
+Factory Acceptance Test at Adage Works
+Yes
+
+24
+Packing forwarding
+Yes
+
+25
+Freight up to site including Insurance
+
+Yes
+26
+Storage of supplied system at site
+
+Yes
+27
+Civil foundation as required
+
+Yes
+28
+Mobilization of supplied system from Stores to location.
+
+Yes
+29
+Installation of supplied system at site
+
+Yes
+30
+Supply of Standard Field Cables including signal, power & FO.
+
+Yes
+31
+Field supporting structure for cables, transportation tubes etc.
+
+Yes
+32
+Laying of Power cable, signal cable, Sample line and Airline etc at
+site
+
+Yes
+33
+laying of Trays (Power, Signal, Sample line, Air etc)
+
+Yes
+34
+Provision of dry instrument Air
+
+Yes
+35
+Provision of Plant Nitrogen
+
+Yes
+36
+Provision of Power (UPS and NON-UPS) at one location near
+Battery limit.
+
+Yes
+37
+Supervision of Installation and Commissioning
+Yes
+
+38
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+39
+Site Acceptance Test & Handover
+Yes
+Yes
+40
+Refilling of Calibration Cylinders
+
+Yes
+41
+Refilling of Carrier Gas cylinders
+
+Yes
+42
+Supply of 2 years O&M spares (Optional)
+Yes
+
+43
+Training at Site
+Yes
+
+44
+CAMC after standard warranty (12/18)
+Yes
+
+Tag Number: GC1-H2&C2H4
+
+Hardware Configuration
+Maxum Oven: Single Isothermal Air Bath
+Detector: Flame Ionization ( 2 X )
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: 1
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Methanator: Included
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 (Sulfinert®) Vapor Inject
+Model 50 Vapor Inject
+Column Valve: Model 50 (Sulfinert®)
+Model 50
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 18
+Analog Inputs: 16
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+I2C 8 AO's, 8 AI's, 2 DI's
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Sulfinert® Treated Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+1.1 Analytical Configuration
+Number of Streams: 4
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 1
+Single pneumatic outputs: 8
+
+Analyzer Certification
+Area Classification: IECEx IIB + H2 T3 (200°C) Gb
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+(From the Catalytic Air Treater provided, if ordered)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 100-130 V, 47-63 Hz
+Circuit 2: 1730 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Stream Number
+1
+Stream Tag
+AI-01129
+Stream name
+Hydrogen to Purification
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+CHLORIDES
+DIOXIDE
+MONIXIDE
+
+Stream Note
+• Cycle time 6 min.
+• All streams are measured serially.
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0
+99
+Not Measured
+VOL%
+NITROGEN
+0
+650
+Not Measured
+PPMV
+CHLORINE +
+0
+1
+Not Measured
+PPMV
+CARBON
+0
+20
+0 - 20
+PPMV
+3 (% RSD)
+R1
+X
+CARBON
+0
+10
+0 - 10
+PPMV
+5 (% RSD)
+R1
+X
+WATER
+0
+50
+Not Measured
+PPMV
+METHANE
+0
+1000
+Not Measured
+PPMV
+
+Stream Number
+2
+Stream Tag
+AI-12203
+Stream name
+Hydrogen to Reaction
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+CHLORIDES
+DIOXIDE
+MONIXIDE
+
+Stream Note
+• See Stream 1
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0
+99
+Not Measured
+VOL%
+NITROGEN
+0
+650
+Not Measured
+PPMV
+CHLORINE +
+0
+1
+Not Measured
+PPMV
+CARBON
+0
+0,1
+0 - 2
+PPMV
+5 (% RSD)
+R1
+X
+CARBON
+0
+0,1
+0 - 2
+PPMV
+5 (% RSD)
+R1
+X
+WATER
+0
+0,1
+Not Measured
+PPMV
+METHANE
+0
+Bal
+Not Measured
+PPMV
+
+Stream Number
+3
+Stream Tag
+AI-01120
+Stream name
+Ethylene to Purification
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+ETHYLENE
+0
+99,5
+Not Measured
+VOL%
+HYDROGEN
+0
+2
+Not Measured
+PPMV
+NITROGEN
+0
+1
+Not Measured
+PPMV
+METHANE+ETHANE
+0
+500
+Not Measured
+PPMV
+ETHANE
+0
+300
+Not Measured
+PPMV
+ACETYLENE
+0
+1
+0 - 1
+PPMV
+10 (% RSD)
+R2
+X
+C3 & HEAVIER
+0
+1
+Not Measured
+PPMV
+CARBON MONIXIDE
+0
+0,03
+0 - 0,5
+PPMV
+10 (% RSD)
+R1
+X
+CARBON DIOXIDE
+0
+2
+0 - 2
+PPMV
+5 (% RSD)
+R1
+X
+OXYGEN
+0
+1
+Not Measured
+PPMV
+WATER
+0
+1
+Not Measured
+PPMV
+5 (% RSD)
+C1
+X
+
+OXYGENATED
+SOLVENT
+0
+1
+Not Measured
+PPMV
+CHLORIDE
+0
+5
+Not Measured
+PPMW
+NITROGEN OXIDE
+0
+5
+Not Measured
+PPMV
+PROPADIENE
+0
+1
+Not Measured
+PPMW
+
+Stream Note
+• See Stream 1
+ALCOHOL AS
+METHANOL
+0
+6
+0 - 6
+PPMV
+TOTAL CARBONYL
+0
+1
+Not Measured
+PPMV
+COS
+0
+0,05
+Not Measured
+PPMV
+ARSINE
+0
+0,03
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+1
+Not Measured
+PPMV
+OIL
+0
+5
+Not Measured
+PPMW
+METHYLACETYLENE
+0
+1
+Not Measured
+PPMV
+PHOSPHINE
+0
+0,03
+Not Measured
+PPMV
+
+Stream Number
+4
+Stream Tag
+AI-10417
+Stream name
+Ethylene to Reaction
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+ETHYLENE
+0
+99,5
+Not Measured
+VOL%
+HYDROGEN
+0
+2
+Not Measured
+PPMV
+NITROGEN
+0
+1
+Not Measured
+PPMV
+METHANE+ETHANE
+0
+500
+Not Measured
+PPMV
+ETHANE
+0
+300
+Not Measured
+PPMV
+ACETYLENE
+0
+1
+0 - 1
+PPMV
+10 (% RSD)
+R2
+X
+C3 & HEAVIER
+0
+1
+Not Measured
+PPMV
+CARBON MONIXIDE
+0
+0,03
+0 - 1
+PPMV
+10 (% RSD)
+R1
+X
+CARBON DIOXIDE
+0
+0,1
+0 - 2
+PPMV
+5 (% RSD)
+R1
+X
+OXYGEN
+0
+0,1
+Not Measured
+PPMV
+WATER
+0
+0,1
+Not Measured
+PPMV
+5 (% RSD)
+C1
+X
+
+OXYGENATED
+SOLVENT
+0
+0,1
+Not Measured
+PPMV
+CHLORIDE
+0
+5
+Not Measured
+PPMW
+NITROGEN OXIDE
+0
+5
+Not Measured
+PPMV
+PROPADIENE
+0
+1
+Not Measured
+PPMW
+
+Stream Note
+• See Stream
+ALCOHOL AS
+METHANOL
+0
+0,1
+0 - 6
+PPMV
+TOTAL CARBONYL
+0
+1
+Not Measured
+PPMV
+COS
+0
+0,05
+Not Measured
+PPMV
+ARSINE
+0
+0,03
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+1
+Not Measured
+PPMV
+OIL
+0
+5
+Not Measured
+PPMW
+METHYLACETYLENE
+0
+1
+Not Measured
+PPMV
+PHOSPHINE
+0
+0,03
+Not Measured
+PPMV
+
+Tag Number: GC2 - Propylene
+
+Hardware Configuration
+Maxum Oven: Single Isothermal Air Bath
+Detector: Flame Ionization ( 3 X )
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: 3
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Methanator: Included
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 (Sulfinert®) Vapor Inject
+Model 50 Vapor Inject
+Column Valve: Model 50 (Sulfinert®)
+Model 50
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 18
+Analog Inputs: 16
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+I2C 8 AO's, 8 AI's, 2 DI's
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Sulfinert® Treated Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+2.1 MAXUM II -GC2 - Propylene (continued)
+Analytical Configuration
+Number of Streams: 4
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 1
+Single pneumatic outputs: 8
+
+Analyzer Certification
+Area Classification: IECEx IIB + H2 T3 (200°C) Gb
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+(From the Catalytic Air Treater provided, if ordered)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 100-130 V, 47-63 Hz
+Circuit 2: 1810 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Stream Number
+1
+Stream Tag
+AI-01126
+Stream name
+Propylene to Purification
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+ACETYLENE
+
+PROPADIENE
+
+MONOXIDE
+
+C12)
+
+(AS METHANOL)
+
+COMPOUNDS
+
+CONDENSABLE
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+PROPYLENE
+0
+99,5
+Not Measured
+WT%
+PROPANE
+0
+0,5
+Not Measured
+WT%
+METHYL
+0
+2
+0 - 2
+PPMW
+5 (% RSD)
+C1
+X
+METHANE
+0
+100
+Not Measured
+PPMV
+ETHANE
+0
+200
+Not Measured
+PPMV
+ETHYLENE
+0
+10
+0 - 10
+PPMV
+5 (% RSD)
+R1
+X
+ACETYLENE
+0
+2
+0 - 2
+PPMW
+5 (% RSD)
+R1
+X
+ACETYLENE +
+0
+2
+Not Measured
+PPMW
+1,3-BUTADIENE
+0
+3
+Not Measured
+PPMW
+BUTENE
+0
+10
+Not Measured
+PPMV
+TOTAL C4S
+0
+10
+Not Measured
+PPMW
+HEXANE+NONENE
+0
+5
+Not Measured
+PPMW
+CYCLOPENTADIENE
+0
+0,05
+Not Measured
+PPMV
+C5+
+0
+10
+Not Measured
+PPMW
+HYDROGEN
+0
+1
+Not Measured
+PPMW
+CARBON
+0
+0,03
+0 - 1
+PPMV
+5 (% RSD)
+L1
+X
+CARBON DIOXIDE
+0
+1
+0 - 1
+PPMW
+5 (% RSD)
+L1
+X
+GREEN OIL (C8 -
+0
+20
+Not Measured
+PPMV
+OXYGEN
+0
+1
+Not Measured
+PPMW
+WATER
+0
+1
+Not Measured
+PPMW
+TOTAL ALCOHOL
+0
+5
+0 - 5
+PPMW
+5 (% RSD)
+R2
+X
+TOTAL CHLORINE
+0
+1
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+0,5
+Not Measured
+PPMW
+TOTAL CARBONYL
+0
+1
+Not Measured
+PPMV
+COs
+0
+0,02
+Not Measured
+PPMV
+NON
+0
+100
+Not Measured
+PPMV
+PENTENES
+0
+10
+Not Measured
+PPMV
+ISOPROPANOL
+0
+1
+Not Measured
+PPMW
+ARSINE
+0
+0,02
+Not Measured
+PPMW
+
+PHOSPHIENE
+0
+0,03
+Not Measured
+PPMW
+AMMONIA
+0
+0,2
+Not Measured
+PPMW
+OXYGENATED
+SOLVENT
+0
+10
+Not Measured
+PPMW
+
+Stream Note
+• Cycle time 6 min, method 1 for streams 1-2, cycle time 3 min, method 2 for streams 3-4
+• Units are mixed. Applications is provided in PPMV and the necessary results are converted into PPMW
+after measurement.
+• All streams are measured serially.
+
+Stream Number
+2
+Stream Tag
+AI-20505
+Stream name
+Propylene to Charge Pump
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+ACETYLENE
+
+PROPADIENE
+
+MONOXIDE
+
+C12)
+
+(AS METHANOL)
+
+COMPOUNDS
+
+CONDENSABLE
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+PROPYLENE
+0
+99,5
+Not Measured
+WT%
+PROPANE
+0
+0,5
+Not Measured
+WT%
+METHYL
+0
+0,1
+0 - 2
+PPMW
+5 (% RSD)
+C1
+X
+METHANE
+0
+0
+Not Measured
+PPMV
+ETHANE
+0
+117
+Not Measured
+PPMV
+ETHYLENE
+0
+1,9
+0 - 10
+PPMV
+5 (% RSD)
+R1
+X
+ACETYLENE
+0
+0,1
+0 - 2
+PPMW
+5 (% RSD)
+R1
+X
+ACETYLENE +
+0
+0,1
+Not Measured
+PPMW
+1,3-BUTADIENE
+0
+0,1
+Not Measured
+PPMW
+BUTENE
+0
+10
+Not Measured
+PPMV
+TOTAL C4S
+0
+10
+Not Measured
+PPMW
+HEXANE+NONENE
+0
+5
+Not Measured
+PPMW
+CYCLOPENTADIENE
+0
+0,05
+Not Measured
+PPMV
+C5+
+0
+10
+Not Measured
+PPMW
+HYDROGEN
+0
+0,1
+Not Measured
+PPMW
+CARBON
+0
+0
+0 - 1
+PPMV
+5 (% RSD)
+L1
+X
+CARBON DIOXIDE
+0
+0,1
+0 - 1
+PPMW
+5 (% RSD)
+L1
+X
+GREEN OIL (C8 -
+0
+20
+Not Measured
+PPMV
+OXYGEN
+0
+0
+Not Measured
+PPMW
+WATER
+0
+0,1
+Not Measured
+PPMW
+TOTAL ALCOHOL
+0
+0,1
+0 - 2
+PPMW
+10 (% RSD)
+R2
+X
+TOTAL CHLORINE
+0
+1
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+0,1
+Not Measured
+PPMW
+TOTAL CARBONYL
+0
+0,1
+Not Measured
+PPMV
+COs
+0
+0,02
+Not Measured
+PPMV
+NON
+0
+0
+Not Measured
+PPMV
+PENTENES
+0
+10
+Not Measured
+PPMV
+ISOPROPANOL
+0
+0,1
+Not Measured
+PPMW
+ARSINE
+0
+0,01
+Not Measured
+PPMW
+
+PHOSPHINE
+0
+0,01
+Not Measured
+PPMW
+AMMONIA
+0
+0,1
+Not Measured
+PPMW
+OXYGENATED
+SOLVENT
+0
+0,1
+Not Measured
+PPMW
+
+Stream Number
+3
+Stream Tag
+AI-40114 / 40115 / 40116 / 40117 / 40118 / 40119
+Stream name
+Cycle Gas from Compressor
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,04
+0,28
+0,46
+Not Measured
+WT%
+METHANE
+0
+0
+0,07
+Not Measured
+WT%
+NITROGEN
+1,26
+2,91
+3,66
+Not Measured
+WT%
+ETHYLENE
+0
+0
+1,36
+Not Measured
+WT%
+ETHANE
+0
+0
+2,24
+Not Measured
+WT%
+PROPYLENE
+81,8
+86,35
+86,8
+Not Measured
+WT%
+PROPANE
+10,69
+10,85
+11,47
+Not Measured
+WT%
+CARBON
+MONOXIDE
+
+Stream Note
+• See Stream 1
+
+0
+0
+0
+0 - 10
+PPMV
+5 (% RSD)
+L1
+X
+
+Stream Number
+4
+Stream Tag
+AI-40114 / 40115 / 40116 / 40117 / 40118 / 40119
+Stream name
+Cycle Gas from Compressor
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,02
+0,34
+0,46
+Not Measured
+WT%
+METHANE
+0,04
+0,06
+0,07
+Not Measured
+WT%
+NITROGEN
+9,18
+11,29
+3,66
+Not Measured
+WT%
+ETHYLENE
+19,59
+20,06
+1,36
+Not Measured
+WT%
+ETHANE
+0,55
+0,95
+2,24
+Not Measured
+WT%
+PROPYLENE
+60,63
+61,96
+86,8
+Not Measured
+WT%
+PROPANE
+7,56
+7,58
+11,47
+Not Measured
+WT%
+CARBON
+MONOXIDE
+
+Stream Note
+• See Stream 1
+
+0
+0
+0
+0 - 10
+PPMV
+5 (% RSD)
+L1
+X
+
+Tag Number: GC3 - AsH3, PH3
+
+Hardware Configuration
+Maxum Oven: Dual Airless
+Detector: Pulse Discharge - Helium Ionization Detection
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: 1
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Valco Vapor Inject
+Column Valve: Live T
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 10
+Analog Inputs: 8
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 6
+I2C 8 AO's, 8 AI's, 2 DI's
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Maximum Ambient Temperature: 35°C due to VICI detector electronic limitations
+Tubing: Sulfinert® Treated Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+Analytical Configuration
+Number of Streams: 2
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+
+3.1 MAXUM II -GC3 - AsH3, PH3 (continued)
+
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 7
+Single pneumatic outputs: 4
+Analyzer Certification
+Area Classification: - General purpose
+
+Utility Requirements
+Carrier: Helium (99.998%)
+System Power: 100-130 V, 47-63 Hz
+Circuit 2: 1120 VA
+Instrument Air: 0.07 SCF/min (2 L/min) at 70 psig (4.9 Kg/cm2)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Stream Number
+1
+Stream Tag
+AI-01130
+Stream name
+Propylene to Purification
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+PROPYLENE
+0
+99,5
+Not Measured
+WT%
+PROPANE
+0
+0,5
+Not Measured
+WT%
+METHYL
+ACETYLENE
+0
+2
+Not Measured
+PPMW
+METHANE
+0
+100
+Not Measured
+PPMV
+ETHANE
+0
+200
+Not Measured
+PPMV
+ETHYLENE
+0
+10
+Not Measured
+PPMV
+ACETYLENE
+0
+2
+Not Measured
+PPMW
+ACETYLENE +
+PROPADIENE
+0
+2
+Not Measured
+PPMW
+1,3 BUTADIENE
+0
+3
+Not Measured
+PPMW
+BUTENE
+0
+10
+Not Measured
+PPMV
+TOTAL C4'S
+0
+10
+Not Measured
+PPMW
+HEXANE+NONENE
+0
+5
+Not Measured
+PPMW
+CYCLOPENTADIENE
+0
+0,05
+Not Measured
+PPMV
+C5+
+0
+10
+Not Measured
+PPMW
+HYDROGEN
+0
+1
+Not Measured
+PPMW
+CARBON
+MONOXIDE
+0
+0,03
+Not Measured
+PPMV
+CARBON DIOXIDE
+0
+1
+Not Measured
+PPMW
+GREEN OIL (C8 -
+C12)
+0
+20
+Not Measured
+PPMV
+OXYGEN
+0
+1
+Not Measured
+PPMW
+WATER
+0
+1
+Not Measured
+PPMW
+TOTAL ALCOHOL
+(AS METHANOL)
+0
+5
+Not Measured
+PPMW
+TOTAL CHLORINE
+0
+1
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+0,5
+Not Measured
+PPMW
+TOTAL CARBONYL
+COMPOUNDS
+0
+1
+Not Measured
+PPMV
+COs
+0
+0,02
+Not Measured
+PPMV
+NON
+CONDENSABLE
+
+0
+
+100
+Not Measured
+PPMV
+PENTENES
+0
+10
+Not Measured
+PPMV
+ISOPROPANOL
+0
+1
+Not Measured
+PPMW
+
+ARSINE
+(MEASUREMENT 0-
+500 PPMV)
+PHOSPHIENE
+(MEASUREMENT 0-
+500 PPMV)
+AMMONIA (SEE GC
+7)
+OXYGENATED
+SOLVENT
+
+Stream Note
+• Cycle time 6 min.
+• LOD 30 PPBV for AsH3 and PH3
+
+0
+0,02
+0 - 0,1
+PPMW
+10 (% FS)
+R1
+X
+0
+0,03
+0 - 0,1
+PPMW
+10 (% FS)
+R2
+X
+0
+0,2
+Not Measured
+PPMW
+0
+10
+Not Measured
+PPMW
+
+Stream Number
+2
+Stream Tag
+AI-20506
+Stream name
+Propylene to Charge Pump
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+PROPYLENE
+0
+99,5
+Not Measured
+WT%
+PROPANE
+0
+0,5
+Not Measured
+WT%
+METHYL
+ACETYLENE
+0
+0,1
+Not Measured
+PPMW
+METHANE
+0
+0
+Not Measured
+PPMV
+ETHANE
+0
+117
+Not Measured
+PPMV
+ETHYLENE
+0
+1,9
+Not Measured
+PPMV
+ACETYLENE
+0
+0,1
+Not Measured
+PPMW
+ACETYLENE +
+PROPADIENE
+0
+0,1
+Not Measured
+PPMW
+1,3 BUTADIENE
+0
+0,1
+Not Measured
+PPMW
+BUTENE
+0
+10
+Not Measured
+PPMV
+TOTAL C4'S
+0
+10
+Not Measured
+PPMW
+HEXANE+NONENE
+0
+5
+Not Measured
+PPMW
+CYCLOPENTADIENE
+0
+0,05
+Not Measured
+PPMV
+C5+
+0
+10
+Not Measured
+PPMW
+HYDROGEN
+0
+0,1
+Not Measured
+PPMW
+CARBON
+MONOXIDE
+0
+0
+Not Measured
+PPMV
+CARBON DIOXIDE
+0
+0,1
+Not Measured
+PPMW
+GREEN OIL (C8 -
+C12)
+0
+20
+Not Measured
+PPMV
+OXYGEN
+0
+0
+Not Measured
+PPMW
+WATER
+0
+0,1
+Not Measured
+PPMW
+TOTAL ALCOHOL
+(AS METHANOL)
+0
+0,1
+Not Measured
+PPMW
+TOTAL CHLORINE
+0
+1
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+0,1
+Not Measured
+PPMW
+TOTAL CARBONYL
+COMPOUNDS
+0
+0,1
+Not Measured
+PPMV
+COs
+0
+0,02
+Not Measured
+PPMV
+NON
+CONDENSABLE
+0
+0
+Not Measured
+PPMV
+
+PENTENES
+0
+10
+Not Measured
+PPMV
+ISOPROPANOL
+0
+0,1
+Not Measured
+PPMW
+
+ARSINE
+(MEASUREMENT 0-
+500 PPMV)
+PHOSPHIENE
+(MEASUREMENT 0-
+500 PPMV)
+AMMONIA (SEE GC
+7)
+OXYGENATED
+SOLVENT
+
+Stream Note
+• See stream 1
+
+0
+0,01
+0 - 0,1
+PPMW
+10 (% FS)
+R1
+X
+0
+0,01
+0 - 0,1
+PPMW
+10 (% FS)
+R2
+X
+0
+0,1
+Not Measured
+PPMW
+0
+0,1
+Not Measured
+PPMW
+
+Tag Number: GC4 - Cycle Gas
+
+Hardware Configuration
+Maxum Modular Oven: Left - None
+Right - Large oven, large module, 3 valves
+Detector: Thermal Conductivity
+Intercolumn Detector: Included (if applicable)
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 1 (Type EPC3)
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 6
+Analog Inputs: 4
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 1.
+
+Analytical Configuration
+Number of Streams: 1
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 4
+Single pneumatic outputs: 4
+
+4.1 MAXUM II -GC4 - Cycle Gas (continued)
+Analyzer Certification
+Area Classification: IECEx IIC T4 (135°C) Gb
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+Nitrogen (99.998%)
+System Power: 24V DC Internal Power Supply (for external 115 V / 230 V)
+Instrument Air: 0.07 SCF/min (2 L/min) at 70 psig (4.9 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Stream Number
+1
+Stream Tag
+AI-40114 / 40115 / 40116 / 40117 / 40118 / 40119
+Stream name
+Cycle Gas from Compressor
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,04
+0,28
+0,46
+0 - 15
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0
+0,07
+Not Measured
+WT%
+NITROGEN
+1,26
+2,91
+3,66
+0 - 100
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+0
+1,36
+0 - 10
+WT%
+1 (% RSD)
+R1
+X
+ETHANE
+0
+0
+2,24
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+81,8
+86,35
+86,8
+0 - 100
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+10,69
+10,85
+11,47
+0 - 25
+WT%
+1 (% RSD)
+R2
+X
+CARBON
+MONOXIDE
+0
+0
+0
+Not Measured
+PPMV
+
+Stream Note
+• Cycle time 3 min
+• Applications is provided in VOL% and the results are converted into WT% after measurement.
+
+Tag Number: GC5 - Cycle Gas-2
+
+Hardware Configuration
+Maxum Modular Oven: Left - None
+Right - Large oven, large module, 3 valves
+Detector: Thermal Conductivity
+Intercolumn Detector: Included (if applicable)
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 1 (Type EPC3)
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 6
+Analog Inputs: 4
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 1.
+
+Analytical Configuration
+Number of Streams: 1
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 4
+Single pneumatic outputs: 4
+
+Page 33 of 55
+
+5.1 MAXUM II -GC5 - Cycle Gas-2 (continued)
+Analyzer Certification
+Area Classification: IECEx IIC T4 (135°C) Gb
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+Nitrogen (99.998%)
+System Power: 24V DC Internal Power Supply (for external 115 V / 230 V)
+Instrument Air: 0.07 SCF/min (2 L/min) at 70 psig (4.9 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Page 34 of 55
+
+Stream Number
+1
+Stream Tag
+AI-40114 / 40115 / 40116 / 40117 / 40118 / 40119
+Stream name
+Cycle Gas from Compressor
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0
+0,02
+0,34
+0 - 15
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0,04
+0,06
+Not Measured
+WT%
+NITROGEN
+0
+9,18
+11,29
+0 - 100
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+19,59
+20,06
+0 - 50
+WT%
+1 (% RSD)
+R1
+X
+ETHANE
+0
+0,55
+0,95
+0 - 10
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+0
+60,63
+61,96
+0 - 75
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+0
+7,56
+7,58
+0 - 30
+WT%
+1 (% RSD)
+R2
+X
+CARBON
+MONOXIDE
+0
+0
+0
+Not Measured
+PPMV
+
+Stream Note
+• Cycle time 3 min
+• Applications is provided in VOL% and the results are converted into WT% after measurement.
+
+Page 36 of 55
+
+Tag Number: GC6 - Recycle Gas
+
+Hardware Configuration
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+Flame Ionization
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Methanator: Included
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 14
+Analog Inputs: 12
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 10
+Analog and Digital I/O Boards: I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+I2C 8 AO's, 8 AI's, 2 DI's
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+Analytical Configuration
+Number of Streams: 7
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+
+Page 37 of 55
+
+7.1 MAXUM II -GC6 - Recycle Gas (continued)
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 2
+Single pneumatic outputs: 8
+Analyzer Certification
+Area Classification: IECEx IIB + H2 T3 (200°C) Gb
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+Nitrogen (99.998%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+(From the Catalytic Air Treater provided, if ordered)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 100-130 V, 47-63 Hz
+Circuit 2: 1650 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Page 38 of 55
+
+7.1 MAXUM II -GC6 - Recycle Gas (continued)
+Pricing quoted is based on the following specific application information
+Stream Number
+1
+Stream Tag
+AI-52310
+Stream name
+Aftercooler Liquid
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,02
+0,04
+0,06
+0 - 5
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0,02
+0,05
+Not Measured
+WT%
+NITROGEN
+1,69
+2,92
+3,3
+0 - 10
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+0,66
+7,94
+0 - 20
+WT%
+1 (% RSD)
+R1
+X
+ETHANE
+0
+0,4
+1
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+79,84
+84,05
+87
+0 - 100
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+9,89
+10,23
+10,93
+0 - 15
+WT%
+1 (% RSD)
+R2
+X
+
+Stream Note
+• Cycle time 3 min, method 1 for streams 1-5, Cycle time 3 min, method 2 for streams 6-7
+• Applications is provided in VOL% and the results are converted into WT% after measurement.
+• All streams are measured serially.
+
+Page 39 of 55
+
+Stream Number
+2
+Stream Tag
+AI-52515
+Stream name
+Lights Recycle
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,7
+1,65
+3,46
+0 - 45
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0,22
+0,45
+Not Measured
+WT%
+NITROGEN
+54,19
+75,17
+76,9
+0 - 100
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+1,38
+19,74
+0 - 25
+WT%
+1 (% RSD)
+R1
+X
+ETHANE
+0
+0,61
+1,31
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+17,41
+19,73
+20,67
+0 - 25
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+1,85
+1,92
+2,06
+0 - 15
+WT%
+1 (% RSD)
+R2
+X
+Stream Note
+• See Stream 1
+
+Page 40 of 55
+
+Stream Number
+3
+Stream Tag
+AI-52608
+Stream name
+Column Overhead
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,03
+0,14
+0,18
+0 - 15
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0,03
+0,17
+Not Measured
+WT%
+NITROGEN
+1,89
+12,34
+13,52
+0 - 25
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+1,43
+17,59
+0 - 40
+WT%
+1 (% RSD)
+R1
+X
+ETHANE
+0
+0,91
+1,81
+0 - 25
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+74,12
+76,94
+81,25
+0 - 100
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+5,54
+5,57
+7,27
+0 - 15
+WT%
+1 (% RSD)
+R2
+X
+Stream Note
+• See Stream 1
+
+Page 41 of 55
+
+Stream Number
+4
+Stream Tag
+AI-52704
+Stream name
+Recovered Propylene
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0
+0
+0
+0 - 0,5
+WT%
+2 (% RSD)
+R3
+X
+METHANE
+0
+0
+0,02
+Not Measured
+WT%
+NITROGEN
+0
+0,78
+0,82
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+0,01
+0,56
+0 - 500
+PPMV
+2 (% RSD)
+C1
+X
+ETHANE
+0
+0
+0,91
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+88,58
+90,56
+92,24
+0 - 100
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+6,93
+8,8
+9,14
+0 - 30
+WT%
+1 (% RSD)
+R2
+X
+Stream Note
+• See Stream 1
+
+Page 42 of 55
+
+Stream Number
+5
+Stream Tag
+AI-52811
+Stream name
+Column Tails
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0
+0
+0
+0 - 0,5
+WT%
+2 (% RSD)
+R3
+X
+METHANE
+0
+0
+0
+Not Measured
+WT%
+NITROGEN
+0
+0
+0
+0 - 1
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+0
+0
+0 - 500
+PPMV
+2 (% RSD)
+C1
+X
+ETHANE
+0
+0
+0
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+6,4
+12,53
+17,11
+0 - 70
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+82,89
+87,47
+93,6
+0 - 100
+WT%
+1 (% RSD)
+R2
+X
+Stream Note
+• See Stream 1
+
+Page 43 of 55
+
+Stream Number
+6
+Stream Tag
+AI-40114 / 40115 / 40116 / 40117 / 40118 / 40119
+Stream name
+Cycle Gas from Compressor
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0,04
+0,28
+0,46
+0 - 15
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0
+0,07
+Not Measured
+WT%
+NITROGEN
+1,26
+2,91
+3,66
+0 - 100
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+0
+1,36
+0 - 10
+WT%
+1 (% RSD)
+R1
+X
+ETHANE
+0
+0
+2,24
+0 - 5
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+81,8
+86,35
+86,8
+0 - 100
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+10,69
+10,85
+11,47
+0 - 25
+WT%
+1 (% RSD)
+R2
+X
+CARBON
+MONOXIDE
+
+Stream Note
+• See Stream 1
+
+0
+0
+0
+0 - 10
+PPMV
+5 (% RSD)
+C2
+X
+
+Page 44 of 55
+
+Stream Number
+7
+Stream Tag
+AI-40114 / 40115 / 40116 / 40117 / 40118 / 40119
+Stream name
+Cycle Gas from Compressor
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+HYDROGEN
+0
+0,02
+0,34
+0 - 15
+WT%
+1 (% RSD)
+R3
+X
+METHANE
+0
+0,04
+0,06
+Not Measured
+WT%
+NITROGEN
+0
+9,18
+11,29
+0 - 100
+WT%
+1 (% RSD)
+R1
+X
+ETHYLENE
+0
+19,59
+20,06
+0 - 50
+WT%
+2 (% RSD)
+R1
+X
+ETHANE
+0
+0,55
+0,95
+0 - 10
+WT%
+1 (% RSD)
+R1
+X
+PROPYLENE
+0
+60,63
+61,96
+0 - 75
+WT%
+1 (% RSD)
+R2
+X
+PROPANE
+0
+7,56
+7,58
+0 - 30
+WT%
+1 (% RSD)
+R2
+X
+CARBON
+MONOXIDE
+
+Stream Note
+• See Stream 1
+
+0
+0
+0
+0 - 10
+PPMV
+5 (% RSD)
+C2
+X
+
+Page 46 of 55
+
+1.1 MAXUM II
+
+Tag Number: GC7 - NH3
+
+Hardware Configuration
+Maxum Oven: Dual Airless
+Detector: Pulse Discharge - Helium Ionization Detection
+Intercolumn Detector: Included (if applicable)
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 2 (Type EPC3)
+Isolation Valve: SSO (Sulfinert®)
+Sample Valve: Model 50 (Sulfinert®) Vapor Inject
+Column Valve: Model 50 (Sulfinert®)
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 2
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 4
+Separation amplifier for flow contact: Not included
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Maximum Ambient Temperature: 35°C due to VICI detector electronic limitations
+Tubing: Sulfinert® Treated Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+Analytical Configuration
+Number of Streams: 2
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 24 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 1
+Single pneumatic outputs: 4
+
+Page 47 of 55
+
+8.1 MAXUM II -GC7 - NH3 (continued)
+Analyzer Certification
+Area Classification: - General purpose
+
+Utility Requirements
+Carrier: Helium (99.998%)
+System Power: 100-130 V, 47-63 Hz
+Circuit 2: 1120 VA
+Instrument Air: 0.07 SCF/min (2 L/min) at 70 psig (4.9 Kg/cm2)
+
+Sample Inlet Conditions
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is
+recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+Page 48 of 55
+
+Stream Number
+1
+Stream Tag
+AI-01130
+Stream name
+Propylene to Purification
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+PROPYLENE
+0
+99,5
+Not Measured
+WT%
+PROPANE
+0
+0,5
+Not Measured
+WT%
+METHYL
+ACETYLENE
+0
+2
+Not Measured
+PPMW
+METHANE
+0
+100
+Not Measured
+PPMV
+ETHANE
+0
+200
+Not Measured
+PPMV
+ETHYLENE
+0
+10
+Not Measured
+PPMV
+ACETYLENE
+0
+2
+Not Measured
+PPMW
+ACETYLENE +
+PROPADIENE
+0
+2
+Not Measured
+PPMW
+1,3 BUTADIENE
+0
+3
+Not Measured
+PPMW
+BUTENE
+0
+10
+Not Measured
+PPMV
+TOTAL C4'S
+0
+10
+Not Measured
+PPMW
+HEXANE+NONENE
+0
+5
+Not Measured
+PPMW
+CYCLOPENTADIENE
+0
+0,05
+Not Measured
+PPMV
+C5+
+0
+10
+Not Measured
+PPMW
+HYDROGEN
+0
+1
+Not Measured
+PPMW
+CARBON
+MONOXIDE
+0
+0,03
+Not Measured
+PPMV
+CARBON DIOXIDE
+0
+1
+Not Measured
+PPMW
+GREEN OIL (C8 -
+C12)
+0
+20
+Not Measured
+PPMV
+OXYGEN
+0
+1
+Not Measured
+PPMW
+WATER
+0
+1
+Not Measured
+PPMW
+TOTAL ALCOHOL
+(AS METHANOL)
+0
+5
+Not Measured
+PPMW
+TOTAL CHLORINE
+0
+1
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+0,5
+Not Measured
+PPMW
+TOTAL CARBONYL
+COMPOUNDS
+0
+1
+Not Measured
+PPMV
+COs
+0
+0,02
+Not Measured
+PPMV
+NON
+CONDENSABLE
+0
+100
+Not Measured
+PPMV
+
+Page 49 of 55
+
+PENTENES
+0
+10
+Not Measured
+PPMV
+ISOPROPANOL
+0
+1
+Not Measured
+PPMW
+ARSINE
+0
+0,02
+Not Measured
+PPMW
+
+Page 50 of 55
+
+PHOSPHIENE
+AMMONIA (0-2,5
+PPMV)
+OXYGENATED
+SOLVENT
+
+Stream Note
+• Cycle time 6 min
+• LOD for ammonia is approx. 0.15 ppmV
+• streams measured serially
+
+0
+0,03
+Not Measured
+PPMW
+0
+0,2
+0 - 1
+PPMW
+5 (% RSD)
+R1
+X
+0
+10
+Not Measured
+PPMW
+
+Page 51 of 55
+
+Stream Number
+2
+Stream Tag
+AI-20506
+Stream name
+Propylene to Charge Pump
+Aggregate State Sample Point
+Vapor
+Aggregate State Sample Analyzer
+Vapor
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability Train AO
+PROPYLENE
+0
+99,5
+Not Measured
+WT%
+PROPANE
+0
+0,5
+Not Measured
+WT%
+METHYL
+ACETYLENE
+0
+0,1
+Not Measured
+PPMW
+METHANE
+0
+0
+Not Measured
+PPMV
+ETHANE
+0
+117
+Not Measured
+PPMV
+ETHYLENE
+0
+1,9
+Not Measured
+PPMV
+ACETYLENE
+0
+0,1
+Not Measured
+PPMW
+ACETYLENE +
+PROPADIENE
+0
+0,1
+Not Measured
+PPMW
+1,3 BUTADIENE
+0
+0,1
+Not Measured
+PPMW
+BUTENE
+0
+10
+Not Measured
+PPMV
+TOTAL C4'S
+0
+10
+Not Measured
+PPMW
+HEXANE+NONENE
+0
+5
+Not Measured
+PPMW
+CYCLOPENTADIENE
+0
+0,05
+Not Measured
+PPMV
+C5+
+0
+10
+Not Measured
+PPMW
+HYDROGEN
+0
+0,1
+Not Measured
+PPMW
+CARBON
+MONOXIDE
+0
+0
+Not Measured
+PPMV
+CARBON DIOXIDE
+0
+0,1
+Not Measured
+PPMW
+GREEN OIL (C8 -
+C12)
+0
+20
+Not Measured
+PPMV
+OXYGEN
+0
+0
+Not Measured
+PPMW
+WATER
+0
+0,1
+Not Measured
+PPMW
+TOTAL ALCOHOL
+(AS METHANOL)
+0
+0,1
+Not Measured
+PPMW
+TOTAL CHLORINE
+0
+1
+Not Measured
+PPMV
+TOTAL SULPHUR
+0
+0,1
+Not Measured
+PPMW
+TOTAL CARBONYL
+COMPOUNDS
+0
+0,1
+Not Measured
+PPMV
+COs
+0
+0,02
+Not Measured
+PPMV
+NON
+CONDENSABLE
+0
+0
+Not Measured
+PPMV
+
+Page 52 of 55
+
+PENTENES
+0
+10
+Not Measured
+PPMV
+ISOPROPANOL
+0
+0,1
+Not Measured
+PPMW
+ARSINE
+0
+0,01
+Not Measured
+PPMW
+
+Page 53 of 55
+
+PHOSPHIENE
+AMMONIA (0-2,5
+PPMV)
+OXYGENATED
+SOLVENT
+
+Stream Note
+• See Stream 1
+0
+0,01
+Not Measured
+PPMW
+0
+0,1
+0 - 1
+PPMW
+5 (% RSD)
+R1
+X
+0
+0,1
+Not Measured
+PPMW

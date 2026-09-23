@@ -1,0 +1,56 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+GOA/Goa,
+Daman & Diu
+Extra Charge Details (Tax Type --- Extra Charge Amount --- Unit)
+Freight % - FRA1 - 2 %
+Ins. on total bill % - Y019 - 1 %
+Forwad/Pack charge % - Y021 - 1 %
+Packaging charge (%) - Y098 - 2 %
+Item Details
+Brief Desc:AUTO CONDENSATE PUMP, 24 VDC ,ADAGE ,GAS
+Detailed Desc:General Instruction to Vendor: Last ref.
+Enquiry:1103797764 and Qtn No :/Dated :2025/07/09 Purchase order
+text: Short text: AUTO CONDENSATE PUMP, 24 VDC ,ADAGE ,GAS No
+Details are available Long Text: ITEM NAME:AUTO CONDENSATE PUMP, 24
+VDC ITEM MAKE:ADAGE ITEM MODEL:NF 30KPDC PARENT EQUIPMENT
+MODEL:GAS ANALYZER ACCESSORIES PARENT EQUIPMENT MAKE:ADAGE
+AUTOMATION SPECIAL FEATURES:NO SPECIAL FEATURES
+Accepted
+Item No: 10
+Material No: 5532A0600
+Quantity(UOM): 5.000 (NOS)
+Basic
+Rate:
+21100.00
+Lead
+Time(Days):
+90
+HSN Code: 90330000
+Invoicing Region:
+Goa
+Tax Description:
+All CGST-SGST/IGST @ 18% Creditable --- (R3)
+Comments:
+Extra Charges:
+Tax
+Amount
+Freight %-FRA1
+2 %
+Ins. on total bill %-Y019
+1 %
+Forwad/Pack charge %-
+Y021
+1 %
+Packaging charge (%)-
+Y098
+2 %
+Declaration
+I hereby declare that I am providing the material in the same capacity (Dealer/Distributor, Manufacturer) as
+registered in Tata Steel and quoting this RFQ as
+DEALER/DISTRIBUTOR
+I hereby declare that there is no deviation in technical/functional specification against the material/services
+mentioned in RFQ and the submitted Quote.
+Agree
+Note: Please select all rows and then Print to get the Complete Item List

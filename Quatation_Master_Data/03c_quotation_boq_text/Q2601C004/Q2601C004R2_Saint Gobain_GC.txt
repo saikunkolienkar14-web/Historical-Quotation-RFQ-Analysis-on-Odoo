@@ -1,0 +1,56 @@
+Quotation Number: Q2601C004R2
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS CHROMATOGRAPH FOR LNG APPLICATION
+Service: LNG
+Make: Valmet
+Model: MAXUM MMO
+Area Classification: Suitable to IECEx Zone 1
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature: 45 Deg C
+•
+Pressure: 6 bar
+Measuring Ranges:
+•
+As per Signal range details provided in the excel sheet
+With Sample handling system Consisting of:
+•
+With Ball Valves, Filter, Pressure Regulator& other components
+as required.
+•
+With Calibration Blend and Carrier Gas Cylinders for 1 year
+operation only
+•
+Refer to Section 4 for complete BOM details
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS TCP/IP
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+98,00,000/-
+98,00,000/-
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1/4”
+25
+MTRS
+INCLUSIVE
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per
+Diem
+@30,000/- PER DIEM

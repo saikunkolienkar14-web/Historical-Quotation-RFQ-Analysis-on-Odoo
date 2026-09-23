@@ -1,0 +1,190 @@
+Quotation Number: Q25N10078
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+H2S analyzer in Acid Gas
+Tag No.: IP39-AT-010001
+Service: Acid Gas
+Make: AMETEK
+Model: 993X Gas Analyzer
+Operating Principle: UV spectroscopy
+Area Classification: Zone 2, IIA/IIB, T3, Exp
+Mounting Location: Field Rack with canopy
+Component to be measured: H2S.
+Measuring Ranges: H2S: 0 - 10 PPMV
+Power Supply: 110 VAC, 50 Hz, 550 Watts with HAG probe
+Process Conditions at sample Inlet
+-
+Temperature (Operating): 40 °C
+-
+Inlet Pressure (Operating): 2.7-2.8 Kg/cm2g
+-
+Sample Return to Acid Flare.
+Sample Probe Details: Designed & Supplied by Ametek.
+-
+Heater Acid gas Probe (HAG), Make: Ametek
+-
+Area Classification: Zone 2, IIA/IIB, T3
+-
+Connection: 1.5" 150# Flanged
+-
+Power Supply: 110 VAC/230 VAC, 50/60 Hz
+Tubing Details:
+-
+1/4” SS316 EHT Duplex Tube 15 Mtr Max.
+-
+Power Supply: 230 VAC, 50/60 Hz, 70 Watts/Meter
+Calibration:
+-
+Auto Zero & Manual Span
+-
+With Calibration cylinders, 10 litre Capacity and Cylinder
+pressure regulators
+-
+Type of gas for Zero calibration: Plant N2
+-
+Type of gas for Span calibration: H2S
+-
+Calibration line tubing MOC: SS316
+-
+Calibration cylinders: 2 Sets.
+1 No
+Quoted
+Analyser Shall be mounted on Field Rack
+-
+Field rack MOC: SS304
+-
+With Canopy Extending 500mm in all Directions
+-
+Power Distribution Panel MOC: LM6, Junction Boxes, header
+and accessories
+Analyzer Specifications:
+-
+Accuracy: ±1.0% full-scale of standard ranges
+-
+Linearity: Better than ±1% of full scale
+-
+Repeatability: Better than ±0.5% of full scale range
+-
+Zero drift: Better than 2% of full-scale range, with auto zero
+disabled, over 24-hour period
+-
+Response time: < 30 Seconds
+-
+Ambient temperature: Rated up to 50 Deg C.
+Analyzer Output:
+-
+4-20mA output for each measuring component.
+-
+RS485 Modbus port; RS232/RS485 service port
+-
+Five Pot free relay contacts (2A, 240 V)
+Utility Requirement:
+-
+110/240 VAC, 50 Hz UPS Power Supply – 500W (For
+Analyser + HAG Probe)
+-
+Instrument Air is required @ 5-7 Barg (80-100 psig) (Oil &
+Dust free) Near Analyser Skid
+-
+240 VAC, 50 Hz UPS Power Supply for heat tracing – 66W
+per meter
+Note:
+-
+All the electrical components shall be CCOE/PESO
+Certified.
+2
+H2S analyzer in Acid Gas
+Tag No.: IP39-AT-010002
+Service: Acid Gas
+Make: AMETEK
+Model: 993X Gas Analyzer
+Operating Principle: UV spectroscopy
+Area Classification: Zone 2, IIA/IIB, T3, Exp
+Mounting Location: Field Rack with canopy
+Component to be measured: H2S.
+Measuring Ranges: H2S: 0 - 10 PPMV
+1 No
+Quoted
+Power Supply: 110 VAC, 50 Hz, 550 Watts with HAG probe
+Process Conditions at sample Inlet
+-
+Temperature (Operating): 40 °C
+-
+Inlet Pressure (Operating): 2.7-2.8 Kg/cm2g
+-
+Sample Return to Acid Flare.
+Sample Probe Details: Designed & Supplied by Ametek.
+-
+Heater Acid gas Probe (HAG), Make: Ametek
+-
+Area Classification: Zone 2, IIA/IIB, T3
+-
+Connection: 1.5" 150# Flanged
+-
+Power Supply: 110 VAC/230 VAC, 50/60 Hz
+Tubing Details:
+-
+1/4” SS316 EHT Duplex Tube 15 Mtr Max.
+-
+Power Supply: 230 VAC, 50/60 Hz, 66 Watts/Meter
+Calibration:
+-
+Auto Zero & Manual Span
+-
+With Calibration cylinders, 10 litre Capacity and Cylinder
+pressure regulators
+-
+Type of gas for Zero calibration: Plant N2
+-
+Type of gas for Span calibration: H2S
+-
+Calibration line tubing MOC: SS316
+-
+Calibration cylinders: 2 Sets.
+Analyser Shall be mounted on Field Rack
+-
+Field rack MOC: SS304
+-
+With Canopy Extending 500mm in all Directions
+-
+Power Distribution Panel MOC: LM6, Junction Boxes, header
+and accessories
+Analyzer Specifications:
+-
+Accuracy: ±1.0% full-scale of standard ranges
+-
+Linearity: Better than ±1% of full scale
+-
+Repeatability: Better than ±0.5% of full scale range
+-
+Zero drift: Better than 2% of full-scale range, with auto zero
+disabled, over 24-hour period
+-
+Response time: < 30 Seconds
+-
+Ambient temperature: Rated up to 50 Deg C.
+Analyzer Output:
+-
+4-20mA output for each measuring component.
+-
+RS485 Modbus port; RS232/RS485 service port
+-
+Five Pot free relay contacts (2A, 240 V)
+Utility Requirement:
+-
+110VAC, 50 Hz UPS Power Supply – 500W (For Analyser +
+HAG Probe)
+-
+Instrument Air is required @ 5-7 Barg (80-100 psig) (Oil &
+Dust free) Near Analyser Skid
+-
+240 VAC, 50 Hz UPS Power Supply for heat tracing – 66W
+per meter
+Note:
+-
+All the electrical components shall be CCOE/PESO
+Certified.

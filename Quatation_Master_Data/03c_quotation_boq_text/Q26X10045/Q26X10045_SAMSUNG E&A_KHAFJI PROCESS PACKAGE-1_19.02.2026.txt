@@ -1,0 +1,2895 @@
+Quotation Number: Q26X10045
+BOQ Status: FOUND
+
+Section3: Price Summary & Scope of supply
+S.n.
+TAG
+Item Description
+Installed
+in
+Make
+Qty
+Unit Price
+US$
+Total Price US$
+PK- P1
+1
+K70-AS-01
+Analyser Shelter with
+HVAC - 6mX3m
+Field
+Adage
+1
+3,16,000
+3,16,000
+1.A
+K70-11-AIT-10101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,36,000
+1,36,000
+1.B
+K70-11-AIT-11301
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+1.C
+K70-21-AT-10101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+1.D
+K70-41-AIT-10501
+Gas Chromatograph
+Cabinet
+Valmet
+1
+1,36,000
+1,36,000
+1.E
+K70-41-AIT-13101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,36,000
+1,36,000
+2
+K70-AS-02
+Analyser Shelter with
+HVAC - 6mX3m
+Field
+Adage
+1
+3,16,000
+3,16,000
+2.A
+K70-12-AIT-20101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,36,000
+1,36,000
+2.B
+K70-12-AIT-21301
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+2.C
+K70-22-AIT-20101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+2.D
+K70-42-AIT-20501
+Gas Chromatograph
+Cabinet
+Valmet
+1
+1,36,000
+1,36,000
+2.E
+K70-42-AIT-23101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,36,000
+1,36,000
+3
+K70-AS-03
+Analyser Shelter with
+HVAC - 6mX3m
+Field
+Adage
+1
+3,16,000
+3,16,000
+3.A
+K70-11-AIT-10501
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+3.B
+K70-11-AIT-10601
+Gas Chromatograph
+(HC)
+Shelter
+Valmet
+1
+1,08,000
+1,08,000
+3.C
+K70-11-AIT-15101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+3.D
+K70-11-AIT-15201
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+4
+K71-AS-01
+Analyser Shelter with
+HVAC - 4mX3m
+Field
+Adage
+1
+2,93,000
+2,93,000
+4.A
+K71-11-AIT-11101
+Gas Chromatograph
+(H2S/CO2)
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+4.B
+K71-11-AIT-12001
+Gas Chromatograph
+(HC/H2S/CO2)
+Shelter
+Valmet
+1
+1,23,000
+1,23,000
+4.C
+K71-31-AIT-10202
+Gas Chromatograph
+(HC)
+Shelter
+Valmet
+1
+99,500
+99,500
+5
+K73-AS-01
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+5.A
+K73-11-AIT-10401
+Gas Chromatograph
+(HC)
+Shelter
+Valmet
+1
+1,36,000
+1,36,000
+6
+K74-AS-01
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+6.A
+K74-11-AIT-11001
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,86,000
+1,86,000
+7
+K76-AS-01
+Analyser Shelter with
+HVAC - 4mX3m
+Field
+Adage
+1
+2,93,000
+2,93,000
+7.A
+K70-13-AIT-30402
+Gas Chromatograph
+(HC)
+Shelter
+Valmet
+1
+1,08,000
+1,08,000
+7.B
+K70-14-AIT-40402
+Gas Chromatograph
+(HC)
+Shelter
+Valmet
+1
+1,08,000
+1,08,000
+8
+K76-AS-02
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+8.A
+K76-21-AIT-11101
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,23,000
+1,23,000
+9
+K79-AS-01
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+9.A
+K79-01-AIT-10201
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,11,000
+1,11,000
+10
+K79-AS-02
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+10.A
+K79-01-AIT-10104
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,15,000
+1,15,000
+11
+K79-AS-03
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+11.A
+K79-01-AIT-10203
+Gas Chromatograph
+Shelter
+Valmet
+1
+1,66,000
+1,66,000
+12
+K76-AS-03
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+12.A
+K76-21-AIT-10401
+O2 and Combustible
+Field
+Ametek
+1
+55,000
+55,000
+K76-21-AIT-10402
+12.B
+K76-21-AIT-10403
+CEMS (SO2,NO,CO,
+CO2 and O2)
+Shelter
+Siemens
+1
+76,000
+76,000
+13
+K76-AS-04
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+13.A
+K76-21-AIT-10501
+O2 and Combustible
+Field
+Ametek
+1
+55,000
+55,000
+K76-21-AIT-10502
+13.B
+K76-21-AIT-10503
+CEMS (SO2,NO,CO,
+CO2 and O2)
+Shelter
+Siemens
+1
+76,000
+76,000
+14
+K76-AS-05
+Analyser Shelter with
+HVAC - 3mX3m
+Field
+Adage
+1
+2,88,000
+2,88,000
+14.A
+K76-21-AIT-11601
+O2 and Combustible
+Field
+Ametek
+1
+55,000
+55,000
+K76-21-AIT-11602
+14.B
+K76-21-AIT-11603
+CEMS (SO2,NO,CO,
+CO2 and O2)
+Shelter
+Siemens
+1
+76,000
+76,000
+16
+K76-61-AIT-11101
+K76-61-AIT-12101
+K76-61-AIT-11687
+K76-61-AIT-14101
+K76-61-AIT-16101
+K76-61-AIT-18101
+K76-61-AIT-19101
+K76-61-AIT-12687
+K76-61-AIT-13687
+K76-61-AIT-14687
+K76-61-AIT-15687
+K76-61-AIT-16687
+K76-61-AIT-17687
+H2S Analyser for Oily
+water Sump vent
+Cabinet
+KECO
+16
+2,73,000
+43,68,000
+K76-61-AIT-18687
+K76-61-AIT-19687
+K76-61-AIT-19387
+17
+K76-61-AIT-10101
+H2S Analyser for Vent
+Gas
+Rack
+Drager/Honeywell
+10
+9,000
+90,000
+K76-61-AIT-10686
+K76-61-AIT-13101
+K76-61-AIT-13686
+K76-61-AIT-15101
+K76-61-AIT-15686
+K76-61-AIT-17101
+K76-61-AIT-17686
+K76-61-AIT-19301
+K76-61-AIT-19386
+18
+K70-13-AIT-30401
+H2S Analyser for
+Stripped sour Water
+Rack
+KECO
+2
+2,73,000
+5,46,000
+K70-14-AIT-40401
+19
+K78-11-AIT-10601
+H2S Analyser
+Rack
+KECO
+3
+1,22,000
+5,46,000
+K78-11-AT-10101
+K78-11-AT-10201
+20
+K76-15-AIT-
+50601E
+H2S Analyser
+Cabinet
+Forbes Marshall
+1
+68,000
+68,000
+21
+K79-31-AIT-10501
+Calorific Value Analyser
+Cabinet
+Process Insights
+1
+1,60,000
+1,60,000
+22
+K70-11-AIT-11302
+H2O analyser
+Field
+Rack
+Hold
+6
+Most of the
+subvendors
+regretted to
+Quote.
+Kindly let
+us know
+the specific
+make if
+any.
+Most of the
+subvendors
+regretted to
+Quote. Kindly let
+us know the
+specific make if
+any.
+K70-11-AIT-11401
+K70-12-AIT-21302
+K70-12-AIT-21401
+K70-31-AIT-10201
+K70-32-AIT-20201
+23
+K74-11-AIT-10201
+H2O analyser
+Field
+Rack
+Michell
+2
+28,000
+56,000
+K74-11-AIT-10101
+24
+K76-14-AIT-40401
+H2O analyser
+Field
+Rack
+Michell
+1
+28,000
+28,000
+25
+K76-15-AIT-50201
+Chlorine Analyser
+Field
+Rack
+Emerson / E&H
+5
+27,000
+1,35,000
+K76-16-AIT-60201
+K76-16-AIT-60601
+K76-63-AIT-30501
+K91-11-AIT-10301
+26
+K76-15-AIT-50101
+Conductivity and pH
+Analyser
+Field
+Rack
+Emerson / E&H
+1
+14,500
+14,500
+K76-15-AIT-50102
+27
+K76-15-AIT 50601A
+Conductivity and pH
+Analyser
+Field
+Rack
+Emerson / E&H
+1
+14,500
+14,500
+K76-15-AIT-
+50601B
+28
+K76-31-AIT-12801
+pH Analyser
+Field
+Rack
+Emerson / E&H
+2
+12,500
+25,000
+K76-31-AIT-12802
+29
+K76-63-AIT-30502
+pH and Turbidity
+Analyser
+Field
+Rack
+Emerson / E&H
+1
+17,500
+17,500
+30
+K91-11-AIT-10501
+pH, Conductivity,
+Turbidity
+Field
+Rack
+Emerson / E&H
+1
+19,500
+19,500
+31
+K76-01-AIT-10103
+Oxygen Analyser
+Field
+Rack
+HOLD
+1
+Process
+Datasheet
+Required
+Process
+Datasheet
+Required
+K76-01-AIT-10301
+32
+K76-31-AIT-10401
+Dissolved Oxygen
+Analyser
+Field
+Rack
+Emerson / E&H
+1
+17,500
+17,500
+K76-31-AIT-12901
+33
+K76-15-AIT-50104
+TOC Analyser
+Cabinet
+Hach / E&H / PI
+2
+46,000
+92,000
+K76-15-AIT-
+50601D
+34
+K76-15-AIT-50103
+VOC Analyser (LEL
+Detector)
+Cabinet
+Dreger/Crowcon
+2
+8,000
+16,000
+K76-15-AIT-
+50601C
+35
+AMS Software
+Analyser Management
+System cabinet with
+necessary hardware’s,
+networking components
+Cabinet
+Siemens
+1 Lot
+2,20,000
+2,20,000
+36
+DAS Software
+Data Acquisition system
+cabinet with necessary
+hardware’s, networking
+components
+Cabinet
+Ellipse
+1 Lot
+18,000
+18,000
+37
+__
+Commissioning Spares
+Spares
+1 Lot
+5,000
+5,000
+38
+Services
+FAT at Adage Goa
+Works
+Per Diem
+5,000
+5,000
+39
+Services
+System Design and
+Engineering and PM
+1 Lot
+1,00,000
+1,00,000
+40
+Optional 2 years
+Spares
+2 Years O&M Spares
+1 Lot
+3,50,000
+3,50,000
+Section 4: Technical Literature for Analysers
+Process data
+S.N.
+Qty.
+Item
+Description
+1-14
+14
+Analyser Shelter
+Make: Adage
+Tag no.
+Dimensions
+K70-AS-01
+6 x 3 x 3 M
+K70-AS-02
+6 x 3 x 3 M
+K70-AS-03
+6 x 3 x 3 M
+K71-AS-01
+4 x 3 x 3 M
+K73-AS-01
+3 x 3 x 3 M
+K74-AS-01
+3 x 3 x 3 M
+K76-AS-01
+3 x 3 x 3 M
+K76-AS-02
+3 x 3 x 3 M
+K79-AS-01
+3 x 3 x 3 M
+K79-AS-02
+3 x 3 x 3 M
+K79-AS-03
+4 x 3 x 3 M
+K76-AS-03
+3 x 3 x 3 M
+K76-AS-04
+3 x 3 x 3 M
+K76-AS-05
+3 x 3 x 3 M
+Area Classification:
+−
+Outside shelter- Zone 2 Gr IIB T3
+−
+Inside shelter- Zone 1 Gr IIB T3
+Analyzer Shelter Design & Construction Details:
+−
+MOC – Galvanized steel duly painted.
+−
+Shelters shall be rainproof and dustproof and shall be
+designed to with stand the environmental conditions.
+−
+Shelter interior shall be large enough to allow adequate
+access and Space for maintenance and repair activities.
+−
+Construction Ribbed interlock type sandwich construction
+with mineral wool insulation.
+−
+Base frame-Fabricated from MC 200mmx75mmx10mm
+(min.), structural carbon steel channel (IS 2062 Gr. E250
+or equivalent) or I-beam, fully welded, Painted with zinc
+rich primer and PU topcoat for corrosion protection.
+−
+External wall thickness in mm 1.5 mm thick galvanized
+carbon steel, finished with a grey double-pack epoxy paint.
+−
+Internal shelter walls shall be 1.5 mm minimum thickness
+galvanized carbon steel, finished with white epoxy paint.
+−
+Mineral wool Insulation thickness in mm 80 mm thick
+Polyurethane (40 Kg/m3 min density) or Equivalent on
+walls, Roof and floor
+−
+provided with a slip resistant integrated floor, galvanized
+steel checkered plate with black double-layer epoxy paint.
+−
+2x Doors – Located at opposite ends of the shelter on long
+walls, outward opening and sized as 915 x 2100mm Main
+& Exit.
+−
+Safety window / inspection window shall be installed in
+each shelter door. Glass shall be laminated or tempered
+safety glass.
+−
+All doors shall be equipped with quick-opening bars (panic
+bars) on the inside, which shall override exterior locks.
+−
+Detachable sunshade covers 1.2 m (4 ft) long shall be
+attached on all four sides of the shelter.
+−
+Cable entry to be provided in shelter through MCT block
+with 50% extra space for cables.
+−
+Tube entry to be provided in shelter through bulkhead
+plate.
+−
+4x Lifting lugs shall be provided
+−
+Fiberglass cable tray included within the shelter
+14 X 1
+lot
+Shelter Accessories
+2 x Power Isolation switches Ex’D cast copper-free aluminium
+IP66 for UPS (230VAC) & non-UPS (480VAC) Suitable for Zone 2
+llB T3
+1 x Power distribution box Ex’D cast copper-free aluminium IP66
+for UPS (230VAC) including Miniature Circuit breakers (MCB) with
+external aluminium handle with padlock able in off position.
+4sq.mm terminals, cable entry at the bottom.
+1 x Power distribution box Ex’D cast copper-free aluminium
+IP66for non-UPS (480VAC) including Miniature Circuit breakers
+(MCB) with external aluminium handle with padlock able in off
+position. 16sq.mm, 4sq mm terminals, cable entry at the bottom.
+Signal junction boxes Ex’e type
+−
+Analog Signal Junction Box MOC: 316SS/ UV protected
+GRP
+−
+Digital Signal Junction Box MOC: 316SS/ UV protected
+GRP
+−
+Analog F&G Junction Box MOC: 316SS/ UV protected
+GRP
+Interior LED Lights Suitable for Zone 1 llB T3
+Illumination level: 500 LUX
+2 x Emergency tube light with Battery Backup
+Suitable for Zone 1 llB+H2 T3
+Exterior Area Lighting – LED
+Suitable for Zone 1 llB T3
+Illumination level: 400 LUX
+Light Switches for Internal & External Lighting 2ea
+2 x 230V Receptacle
+Temperature Indicator and Humidity Indicator Included inside the
+shelter.
+1x Auxiliary Fan control unit
+14 X 1
+lot
+Utility Headers
+−
+1’’ 316SS Instrument Air Header with Pressure Gauge,
+Filters and Primary isolation valve. Valves: Branch
+connections to include 1/4" ball valves for each user
+−
+Taps: Taps with valves, provided. All unused taps to be
+plugged.
+−
+1" 316SS Plant N2 Header, with Pressure Gauge, Filters
+and Primary isolation valve.
+−
+Valves: Branch connections to include 1/4" ball valves for
+each user
+−
+Taps: Taps with valves, provided. All unused taps to be
+plugged.
+−
+2" 316SS Atm. Vent Header with Flame Arrestor & HC
+Diffuser (2 Nos)
+−
+2" 316SS Flare Header
+−
+2" 316SS Closed Drain Header
+−
+3/4" Potable Water header
+14 X
+1 lot
+F&G Detectors
+Detectors shall be integrated into the plant wide gas detection
+system to provide alarm indication and alarm management.
+−
+Toxic gas detector
+−
+Combustible gas detector
+−
+Oxygen Deficiency
+−
+Smoke Detector
+−
+fire extinguisher
+−
+3x Audible Alarms(horns), one outside at each door, one
+inside shelter
+−
+3x three-way Beacons [Blue Red & Magenta colour
+beacon] (two at each door and one at inside AH.)
+−
+2x Manual call point
+−
+Alarm Annunciator panel
+−
+Include installation, wiring, termination
+14 X 1
+Dual 6-Pack Rack with Cage
+& lock arrangement.
+Construction Description for Dual 6-Pack Cylinder Rack
+Frame: Frame will be constructed of steel channel with horizontal
+strut. Joints will be seal welded and ground smooth. Framework
+will be Metallized except for struts.
+Lifting Devices: Two (2) Galvanized Steel lifting eyes shall be
+attached to the upper cross channel at each end and shall
+be designed to lift the total weight of the rack with all equipment
+installed.
+Sun Shade: Included
+External Cage MOC Galvanized steel painted with lock
+arrangement: Included
+Carrier Gas Change Over Station
+Quantity: One (1)
+Service: Hydrogen
+Material: Aluminum Panel, Stainless Steel equipment and tubing
+components.
+Flow Capacity: 0.06 Cv
+Outlet Pressure Range: 0-200 psig
+Gauges: Inlet and Outlet gauges included
+Connections: 1/4” FNPT
+Includes: CGA Fitting, Stainless Steel Braided Flex Hose,
+Isolation Ball Valve and Dual Pressure Transmitters.
+14 X 1
+Network Enclosure
+MOC SS316 Purge cabinet using x type purge controller certified
+for Zone 1 IIB T3
+Included below items in network enclosure
+2x Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Fiber Optics Patch Panel (12 Pair Fiber Optic connections)
+Included pre-wired to the communication circuits
+14 X 1
+Integration
+Integration and tubing of analysers and SCS on AH walls Included
+14 X 2
+HVAC System
+Area Classification: Zone2, IIB, T3 (IECEx Certified)
+Make: Adage
+−
+Pressurization and HVAC systems for analyser shelters
+shall comply with NFPA 496.
+−
+MOC: Galvanized steel duly painted.
+−
+Dual HVAC units (working and standby)
+−
+With dust filter
+−
+Fresh Air Duct with Rain cap and bird Mesh with
+necessary support/structure, 3 Mtrs above shelter, MOC:
+GI
+−
+Air Changes: Minimum 6 Air Changes Per Hour.
+−
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min
+2.5mmWC)
+−
+HVAC systems shall maintain 24°C (75°F) indoor air
+temperature (±5°F throughout the shelter).
+−
+HVAC systems shall be fitted with a humidistat to control
+humidity levels within the shelter.
+−
+With Roof mounted auxiliary ventilation fan for fresh air
+intake during failure of both HVAC or shelter pressure
+failure and an internal flammable/toxic gas leak or oxygen
+deficiency event.
+−
+Dust filters shall be mounted on top of the shelter which is
+common for both the HVAC.
+−
+With auto switching facility between working and standby
+HVAC unit.
+−
+With power and control panel for each HVAC.
+For details, please refer enclosed datasheet- Annexure 1
+1A
+9
+Gas Chromatograph
+Tag no: K70-11-AIT-10501, K70-11-AIT-11301, K70-11-AIT-15101
+K70-11-AIT-15201, K70-12-AIT-21301, K70-21-AIT-10101
+K70-22-AIT-20101 K76-21-AIT-11101 K79-01-AIT-10104
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : TCD
+Accuracy : Depend on Blend accuracy
+Response Time: 5 minute
+Electrical Protection : Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal : 4-20mA NON HART
+Commnnuication : Modbus TCP/IP
+Power Supply : 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer to Datasheet
+Upstream Operating Temperature (Maximum): Refer to Datasheet
+Fluid Phase: Gas
+please refer enclosed catalogue - Appendix 2
+9
+Sample Tapping flange
+Sample Tapping flange with Isolation Valve
+MOC: SS316L
+Connection 2" Flange 600# RF matting flange with bolts &
+gaskets.
+50mX9
+Heated Sample Line
+1⁄4” OD SS316 Heated Sample line with Accessories
+9
+Heated Pre-SCS
+Heated PSCS components shall be mounted inside SS316
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+-
+1xCabinet Heater
+All wetted parts and Double compression type fittings shall be of
+SS316L NACE Compliant
+9
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4’’OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet Heater
+All wetted parts and Double compression type fittings shall be of
+SS316L NACE Compliant
+2
+1
+Gas Chromatograph
+Tag no: K71-31-AIT-10202
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : TCD
+Accuracy : Depend on Blend accuracy
+Response Time: 6 minute
+Electrical Protection : Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal : 4-20mA NON HART
+Commnnuication : Modbus TCP/IP
+Power Supply : 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer to Datasheet
+Upstream Operating Temperature (Maximum): Refer to Datasheet
+Fluid Phase: Gas
+please refer enclosed catalogue - Appendix 2
+1
+Sample Tapping flange
+Sample Tapping flange with Isolation Valve
+MOC: SS316L
+Connection 2" Flange 600# RF matting flange with bolts &
+gaskets.
+50m
+Heated Sample Line
+1⁄4” OD SS316 Heated Sample line with Accessories
+1
+Heated Pre-SCS
+Heated PSCS components shall be mounted inside SS316
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+-
+1xCabinet Heater
+All wetted parts and Double compression type fittings shall be of
+SS316L NACE Compliant
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4’’OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet Heater
+All wetted parts and Double compression type fittings shall be of
+SS316L NACE Compliant
+3
+1
+Gas Chromatograph
+Tag no: K79-01-AIT-10203
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : FPD and TCD
+Accuracy : Depend on Blend accuracy
+Response Time: 6 Minute
+Electrical Protection: Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+1
+Pre-SCS
+PSCS components shall be mounted inside SS316 heated
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+All wetted parts and Double compression type fittings shall be of
+SS316L NACE compliant.
+50m
+Heated Sample Line
+1⁄4” OD SS316+Sulfinert Heated Sample line with Accessories
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Back pressure regulator
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet heater
+All wetted parts and Double compression type fittings shall be of
+SS316L NACE compliant.
+4
+1
+Gas Chromatograph
+Tag no: K74-11-AIT-11001
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : TCD and FPD
+Accuracy : Depend on Blend accuracy
+Response Time: 5 minutes
+Electrical Protection: Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+50m
+Sample tube
+1⁄2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 enclosure
+wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Back pressure regulator
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+5
+1
+Gas Chromatograph
+Tag no: K79-01-AIT-10201
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : TCD
+Accuracy : Depend on Blend accuracy
+Response Time: 6 Minutes
+Electrical Protection: Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+1
+Pre-SCS
+PSCS components shall be mounted inside SS316 heated
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+Double compression type fittings shall be of SS316L
+50m
+Heated Sample Line
+1⁄4” OD SS316 Heated Sample line with Accessories
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Back pressure regulator
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet heater
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+6
+1
+Gas Chromatograph
+Tag no: K79-01-AIT-10201
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : TCD & FID
+Accuracy : Depend on Blend accuracy
+Response Time:5 Minutes
+Electrical Protection: Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+1
+Pre-SCS
+PSCS components shall be mounted inside SS316 heated
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+Double compression type fittings shall be of SS316L
+50m
+Heated Sample Line
+1⁄4” OD SS316+Sulfinert Heated Sample line with Accessories
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Back pressure regulator
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet heater
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+7
+1
+Gas Chromatograph
+Tag no: K70-11-AIT-10601
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : FID
+Accuracy : Depend on Blend accuracy
+Response Time:5 Minutes
+Electrical Protection: Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample line
+1⁄2” OD SS316L Tube
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 enclosure
+wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4’’OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Sparger Unit
+8
+2
+Gas Chromatograph
+Tag no: K70-13-AIT-30402, K70-14-AIT-30402
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : FID
+Accuracy : Depend on Blend accuracy
+Response Time: 4 Minutes
+Electrical Protection : Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal : 4-20mA NON HART
+Communication : Modbus TCP/IP
+Power Supply : 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+2
+Sample Tapping flange
+Sample Tapping flange with Isolation Valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50mX2
+Sample line
+1⁄2” OD SS316L Tube
+2
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4’’OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Sparger Unit
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+9
+7
+Gas Chromatograph
+Tag no: K70-11-AIT-10101 / K70-12-AIT-20101
+K70-41-AIT-10501 / K70-42-AIT-20501
+K70-41-AIT-13101 / K70-42-AIT-23101
+K73-11-AIT-10401
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Valmet
+Model: Maxum II
+GC Ingress Protection : IP54
+Measuring Principle : TCD/FPD/FID
+Accuracy : Depend on Blend accuracy
+Response Time: 6 Minutes
+Electrical Protection: Ex ec ib nC pxb pyb IIB+H2 Gb
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Refer Datasheet
+Upstream Operating Temperature (Maximum): Refer Datasheet
+please refer enclosed catalogue - Appendix 2
+7
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+7
+Pre-SCS
+PSCS components shall be mounted inside SS316 heated
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+Double compression type fittings shall be of SS316L
+50mX7
+Heated Sample Line
+1⁄4” OD SS316 Heated Sample line with Accessories
+7
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Back pressure regulator
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet heater
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+10.A
+3
+O2 and Combustible
+Analyser
+Tag no: K76-21-AIT-10401 and 10402
+K76-21-AIT-10501 and 10502
+K76-21-AIT-11601 and 11602
+Installed in: Field
+Make: Ametek
+Model: WDG VC
+Ingress Protection : IP65
+Measuring Principle : Zirconia for Oxygen
+Catalytic Detector for Combustible
+Response Time: Less than 30 Seconds
+Electrical Protection: Ex pz IIC T3 Gc
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Not Specified
+Upstream Operating Temperature (Maximum): Not Specified
+Fluid Phase: Gas
+please refer enclosed catalogue - Appendix 2
+3
+RCU Unit
+RCU components shall be mounted inside SS316 enclosure.
+RCU comprising of the following components:
+-
+Ball valve
+-
+Solenoid Valve for Calibration
+-
+Air filter regulator assembly
+-
+Sample flowmeter glass tube flowmeter 1⁄4”OD
+10.B
+3
+CEMS Analyser
+Tag no: K76-21-AIT-10403
+K76-21-AIT-10503
+K76-21-AIT-11603
+Installed in: Attachment 1_KAR-1701_Analyzer
+Package_Datasheet
+Make: Sick/ Siemens
+Model: S720 / Ultarmat 23
+Ingress Protection : IP65 for Sick and IP20(mounted inside IP65
+Purged Box)
+Measuring Principle : NDIR for (SO2, NO,CO and CO2)
+Paramagnetic (for Oxygen)
+Response Time: Less then 10 Seconds
+Electrical Protection: Ex-d for Sick / Ex-P for Ultramat 23
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus TCP/IP
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Not Specified
+Upstream Operating Temperature (Maximum): Not Specified
+Fluid Phase: Gas
+please refer enclosed catalogue - Appendix 2
+3
+Heated Sample Probe
+Fixed type Heated sample probe Assembly
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+With Blow Back Arrangement
+Make : Buhler / M&C
+50mX3
+Sample Tube
+1⁄4” OD Heated Tube Assembly with 4 Tubes
+3
+Sample Conditioning system
+SCS components shall be mounted inside SS316 enclosure.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Sample Pump
+-
+Coalescing Guard Filter
+-
+Sample Cooler with Drain Pump
+-
+Condensate Trap with Alarm Relay
+-
+Solenoid Valves
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+11
+16
+H2S Analyser for Oily Water
+Sump Vent
+Tag nos:
+K76-61-AIT-11101
+K76-61-AIT-12101
+K76-61-AIT-11687
+K76-61-AIT-14101
+K76-61-AIT-16101
+K76-61-AIT-18101
+K76-61-AIT-19101
+K76-61-AIT-12687
+K76-61-AIT-13687
+K76-61-AIT-14687
+K76-61-AIT-15687
+K76-61-AIT-16687
+K76-61-AIT-17687
+K76-61-AIT-18687
+K76-61-AIT-19687
+K76-61-AIT-19387
+Installed in: Field Rack Assembly
+Make: KECO
+Model: 205 Permastream
+GC Ingress Protection : IP65
+Measuring Principle : Permastream and Tape method
+Accuracy : ±2%
+Response Time: Application based
+Electrical Protection: Ex-P type
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Not Specified
+Upstream Operating Temperature (Maximum): Not Specified
+Fluid Phase: Liquid
+please refer enclosed catalogue - Appendix 2
+16
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+50mX16
+Sample Tube
+1⁄2” OD SS316L heated Sample Line
+16
+Sample Conditioning System Sample Conditioning system shall be completely tubed in a
+suitable enclosure
+SCS comprising of the following components:
+-
+Isolation Ball valve
+-
+Permastream stripper
+-
+Condensable collection Pot
+-
+Flow switch
+-
+Liquid shut off valve
+-
+Carrier and sample gas flow meter assembly
+16
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+12
+10
+H2S Analyser for vent Gas
+Tag Nos. K76-61-AIT-10101, K76-61-AIT-10686,
+K76-61-AIT-13101,K76-61-AIT-13686,
+K76-61-AIT-15101, K76-61-AIT-15686,
+K76-61-AIT-17101, K76-61-AIT-17686,
+K76-61-AIT-19301, K76-61-AIT-19386
+Installed in: Field Rack Assembly
+Make: Honeywell / Dreger
+GC Ingress Protection : IP65
+Measuring Principle : Electrochemical
+Response Time: Less Thsn 60 Seconds
+Electrical Protection: Ex-D
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Upstream Operating Pressure (Maximum): Not Specified
+Upstream Operating Temperature (Maximum): Not Specified
+please refer enclosed catalogue - Appendix 2
+10
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+50mX10
+Sample Tube
+1⁄4” OD SS316 Sample Tube
+10
+Sample Conditioning System Sample Conditioning system shall be completely tubed in a
+suitable enclosure SCS comprising of the following components:
+-
+Isolation Ball valve
+-
+Flow cell Assembly
+-
+Flow switch
+10
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+11
+2
+H2S Analyser for stripped
+sour water
+Tag nos:
+K70-13-AIT-30401, K70-14-AIT-40401
+Installed in: Field Rack Assembly
+Make: KECO
+Model: 205 Permastream
+GC Ingress Protection : IP65
+Measuring Principle : Permastream and Tape method
+Accuracy : ±2%
+Response Time: Application based
+Electrical Protection: Ex-P type
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Not Specified
+Upstream Operating Temperature (Maximum): Not Specified
+Fluid Phase: Liquid
+please refer enclosed catalogue - Appendix 2
+2
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+50mX2
+Sample Tube
+1⁄2” OD SS316L heated Sample Line
+2
+Sample Conditioning System Sample Conditioning system shall be completely tubed in a
+suitable enclosure
+SCS comprising of the following components:
+-
+Isolation Ball valve
+-
+Permastream stripper
+-
+Condensable collection Pot
+-
+Flow switch
+-
+Liquid shut off valve
+Carrier and sample gas flow meter assembly
+2
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+12
+3
+H2S Analyser in sulfur
+Tag nos:
+K78-11-AIT-10601
+K78-11-AIT-10101
+K78-11-AIT-10201
+Installed in: Field Rack Assembly
+Make: KECO
+Model: T2212
+GC Ingress Protection : IP65
+Measuring Principle : Tape Detector
+Accuracy : ±2%
+Response Time: Application based
+Electrical Protection: Ex-P type
+Analog Signal: 4-20mA NON-HART
+Communication: Modbus
+Power Supply: 230VAC, 60 Hz
+Upstream Operating Pressure (Maximum): Not Specified
+Upstream Operating Temperature (Maximum): Not Specified
+Fluid Phase: Liquid
+please refer enclosed catalogue - Appendix 2
+3
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+50mX3
+Sample tubing
+1⁄4” OD SS316 Tube
+3
+Sample Conditioning System Sample Conditioning system shall be completely tubed in a
+suitable enclosure
+3
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+13
+1
+H2S Analyser
+Tag no: K76-a5-AIT-50601E
+Make: Forbes Marshall
+Model: Cx2000
+Ingress Protection : IP55
+Measuring Principle : UV
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 5 Minutes
+Electrical Protection: Exp
+Analog Signal: 4-20mA
+Power Supply: 2230VAC, 50Hz
+Service: Boiler Feed Water, Analyser drain to cooling tower basin
+Upstream Operating Pressure (Maximum): 30.8Psig
+Upstream Operating Temperature (Maximum): 111Deg F
+Fluid Phase: Liquid
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample Tube
+1⁄2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+1
+Field Cabinet
+1x Analyzer Cabinet:
+−
+Cabinet shall be made of SS304 sheet in welded
+construction.
+−
+Dimensions: 2100H x 800L x 800D
+−
+Front door (double leaf) shall be made of 2mm th. SS316
+sheet.
+−
+Top, rear and side sheet shall be made of 1.5 mm th.
+SS304 sheet.
+−
+Bottom sheet will be made of 1.5mm th. SS304 sheet.
+−
+Side gland plate will be made of 2.5mm th. SS304 sheet.
+−
+Side support angle and vertical c-channel will be made of
+2mm th. SS304 sheet.
+−
+Base frame will be made of ISMC 100 ms channel.
+−
+Stiffner shall be provided on doors
+−
+Finish: buff finish
+−
+shade for base frame: black
+−
+Protection class: - IP54 (without cutouts)
+−
+Top cover with 4 nos eye bolts
+−
+Analyzer foundation By Client
+−
+Includes Utility Headers.
+−
+1x 1’’ 316SS Instrument Air Header with Pressure Gauge,
+Dual Filters and Primary isolation valve in redundant
+configuration.
+−
+1x 2" 316SS Closed Drain Header
+Includes Power & Signal Jb
+1 x Analog Signal Junction Box (Analyser signal) GRP, Ex ‘e’
+IECEx Certified for Hazardous Area Zone 1 IIB,
+1 x Digital Signal Junction Box, (Non-F&G Signals) GRP, Ex ‘e’
+IECEx Certified for Hazardous Area Zone 1 IIB,
+1 x UPS Power distribution Panel,
+Analyzer shall be powered (230VAC 60Hz single phase) from UPS
+power supplies.
+MOC: Exd, Aluminium , IP66
+Incoming power supply for the distribution boards shall be by using
+two pole MCCB.
+1 x non-UPS Power distribution Panel,
+AC shall be powered (415VAC 60Hz 3 phase) from non-UPS
+power supplies.
+MOC: Exd, Aluminium , IP66
+Incoming power supply for the distribution boards shall be by using
+four pole MCCB.
+1x internal light
+1x Beacons and audible alarms
+1x temperature indicator
+1x Toxic gas Detector
+1x Auxiliary ventilation fan [6 air changes per hour of fresh air.]
+Included local Hand/Off/Automatic control selector switch
+2 x Ex-proof cabinet Air conditioner
+Refrigeration Capacity: 1 TR
+Structure
+Skid of SS
+Total Evaporation Section is Insulated with FR Chemically
+Cross linked Polyethylene insulation of 20mm thk with Inner
+Aluminum Foil
+Physical characteristics
+Dimensions: 550 x 650 x 1400(h) mm
+Box type Air Pre filter
+Condenser Coil: Air Cooled, Fin Tube Type Condenser Coil
+Condenser Fan: Axial Type Motor Certified for GAS group IIC
+Compressor: Hermetically sealed with Exd certified TB for Gas
+group IIC ZONE 1
+Refrigerant: R134a Qty(appx): 0.950Kgs
+Power supply: 415V, 3 Ph., 60 Hz
+14
+2
+H2O Analyser
+Tag no: K74-11-AIT-110201, K74-11-AIT-10101
+Make: Michell
+Model: Easydew Pro xp
+Ingress Protection : IP66
+Measuring Principle : Aluminium Oxide
+Response Time: 5 mins to T95 (dry to wet),5Sec wet to dry
+Electrical Protection: Ex db ia IIC T6 Gb
+Analog Signal: 4-20mA NON-HART
+Power Supply: 24VDC
+Accuracy : ±2°C within a range of -60°C to 20°C (Dew point)
+± 3°C within a range of —110°C to —60°C (Dew Point)
+Repeatability : ± 0.5°C in range of -60°C to 20°C (Dew Point)
+± 1.0°C in range of —110°C to —60°C (Dew Point)
+K74-11-AIT-10101 & K74-11-AIT-10201
+Service: NGL Product
+Upstream Operating Pressure (Maximum): 478.6 PSIG
+Upstream Operating Temperature (Maximum): 112.3 °F
+Fluid Phase: Liquid
+2
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 600# RF matting flange with bolts &
+gaskets.
+10mX2
+Sample Tube
+1⁄4” OD SS316 Electropolished Tube
+2
+Sample Conditioning System
+SCS components shall be mounted inside SS316L enclosure
+mounted on field rack
+SCS comprising of the following components:
+-
+1x Pressure indicator
+-
+2x Ball valve
+-
+1x Fast-loop flowmeter
+-
+1x Sample flowmeter with low flow alarm
+-
+1x Non return valve
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+Valves/Wetted parts are of SS316L Double compression type
+fittings and tubing shall be of SS316L.
+2
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+15
+1
+H2O Analyser
+Tag no: K76-14-AIT-40401
+Make: Michell
+Model: Easydew Pro xp
+Ingress Protection : IP66
+Measuring Principle : Aluminium Oxide
+Response Time: 5 mins to T95 (dry to wet),5Sec wet to dry
+Electrical Protection: Ex db ia IIC T6 Gb
+Analog Signal: 4-20mA NON-HART
+Power Supply: 24VDC
+Accuracy : ±2°C within a range of -60°C to 20°C (Dew point)
+± 3°C within a range of —110°C to —60°C (Dew Point)
+Repeatability : ± 0.5°C in range of -60°C to 20°C (Dew Point)
+± 1.0°C in range of —110°C to —60°C (Dew Point)
+Service: Instrument Air
+Upstream Operating Pressure (Maximum): 137 PSIG
+Upstream Operating Temperature (Maximum): 129 °F
+Fluid Phase: Gas
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 600# RF matting flange with bolts &
+gaskets.
+10m
+Sample Tube
+1⁄4” OD SS316 Electropolished Tube
+1
+Sample Conditioning System
+SCS components shall be mounted inside SS316L enclosure
+mounted on field rack
+SCS comprising of the following components:
+-
+1x Pressure indicator
+-
+2x Ball valve
+-
+1x Fast-loop flowmeter
+-
+1x Sample flowmeter with low flow alarm
+-
+1x Non return valve
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+Valves/Wetted parts are of SS316L Double compression type
+fittings and tubing shall be of SS316L.
+1
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+16
+1
+Calorific Value Analyser
+Tag no: K79-31-AIT-10501
+Make: Cosa Xentaur / Union
+Model: 9800 Series / CWD series
+Ingress Protection : IP65 NEMA4
+Measuring Principle : Residual Oxygen Measurement
+Accuracy : ± 1% full scale
+Response Time: Less Than 30 Seconds
+Electrical Protection: ATEX Ex Ib px IIC T3 Gb
+Analog Signal: 4-20mA
+Digital Signal : RS485
+Power Supply: 230VAC, 60 Hz
+Service: LP Flare Gas
+Upstream Operating Pressure (Maximum): 10 PSIG
+Upstream Operating Temperature (Maximum): 581Deg C
+Fluid Phase: Gas
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 900# RF matting flange with bolts &
+gaskets.
+1
+Pre-SCS
+PSCS components shall be mounted inside SS316 heated
+enclosure with glass window.
+PSCS comprising of the following components:
+-
+1x Ball valve 1⁄4’’ OD SS316 2way
+-
+1x Coarse filter 1⁄4’’ OD SS316
+-
+1x Pressure Regulator, Single stage, 1/4"NPTF SS316
+Double compression type fittings shall be of SS316L
+1
+Sample conditioning system
+SCS components shall be mounted inside SS316 IP66 heated
+enclosure wall mounted outside analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop metal tube flowmeter
+-
+Air operated valve (3way) DBB for stream/calibration
+-
+Air operated valve (3way) for ARV
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Non return valve
+-
+Pressure relief valve
+-
+Back pressure regulator
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+1x Sample line flushing arrangement including AFR with
+isolation valve
+-
+Temperature gauge
+-
+Cabinet heater
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+17
+5
+Chlorine Analyser
+Tag no: K76-15-AIT-50201, K76-16-AIT-60201, K76-16-AIT-
+60601, K76-63-AIT-30501 and K91-11-AIT-10301
+Make: Emerson / E&H
+Model: FRC Sensor and 1066 Transmitter
+Ingress Protection : IP65
+Measuring Principle : Amperometry
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Service: Make up, Treated , Drinking, sea and Utility water
+Upstream Operating Pressure (Maximum): Please refer datasheet
+Upstream Operating Temperature (Maximum): Please refer
+datasheet
+Fluid Phase: Liquid
+5
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50mX5
+Sample Tube
+1/2” OD SS316 Tube
+5
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+5
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+18
+1
+pH Analyser
+Conductivity Analyser
+Tag no: K75-31-AIT-11402 K75-31-AIT-12603
+K75-31-AIT-11201K75-31-AIT-11401
+K75-32-AIT-21402 K75-32-AIT-22603
+K75-32-AIT-21201 K75-32-AIT-21401
+Make: Emerson / E&H
+Sensor Model pH: 3900 Series / Memosens
+Sensor Model Conductivity: 400 Series / Memosens
+Transmitter Model: 1066 / CM42
+Ingress Protection: IP65
+Measuring Principle: Electrode based
+Accuracy: Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Service: Analyser Drain to cooling tower basin
+Upstream Operating Pressure (Maximum): 95PSIG
+Upstream Operating Temperature (Maximum): 111Deg F
+Fluid Phase: Liquid
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample Tube
+1/2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+1
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+19
+1
+pH Analyser
+Conductivity Analyser
+Tag no: K76-15-AIT-50601A & K76-15-AIT-50601B
+Make: Emerson / E&H
+Sensor Model pH: 3900 Series / Memosens
+Sensor Model Conductivity: 400 Series / Memosens
+Transmitter Model : 1066 / CM42
+Ingress Protection : IP65
+Measuring Principle : Electrode based
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Service: Cooling water
+Upstream Operating Pressure (Maximum): 30.8PSIG
+Upstream Operating Temperature (Maximum): 111Deg F
+Fluid Phase: Liquid
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample Tube
+1/2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+1
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+20
+2
+pH Analyser
+Tag no: K76-31-AIT-12801 & K76-31-AIT-12802
+Make: Emerson / E&H
+Sensor Model pH: 3900 Series / Memosens
+Transmitter Model : 1066 / CM42
+Ingress Protection : IP65
+Measuring Principle : Electrode based
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+With Accessories for Immersion of sensor in tank
+Service: Neutralized Water
+Upstream Operating Pressure (Maximum): 132PSIG
+Upstream Operating Temperature (Maximum): 117Deg F
+Fluid Phase: Liquid
+21
+1
+pH Analyser
+Turbidity Analyser
+Tag no:
+Make: E&H
+Sensor Model pH: Memosens
+Sensor Model Turbindity: Turbimax
+Transmitter Model : 1066 / CM42
+Ingress Protection : IP65
+Measuring Principle : Electrode based
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Service: Water Pump to irrigation process
+Upstream Operating Pressure (Maximum): 132PSIG
+Upstream Operating Temperature (Maximum): 117Deg F
+Fluid Phase: Liquid
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample Tube
+1/2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+1
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+22
+1
+pH Analyser
+Conductivity Analyser
+Turbidity Analyser
+Tag no: K91-11-AIT-10501
+Make: E&H
+Sensor Model pH & Conductivity : Memosens
+Sensor Model Turbidity: Turbimax
+Transmitter Model : CM42
+Ingress Protection : IP65
+Measuring Principle : Electrode based
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Service: Desalinated Water
+Upstream Operating Pressure (Maximum): 58PSIG
+Upstream Operating Temperature (Maximum): 117Deg F
+Fluid Phase: Liquid
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample Tube
+1/2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+1
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+23
+1
+DO Analyser
+Tag no: K76-31-AIT-10401 & K76-31-AIT-12901
+Make: E&H
+Sensor Model DO: Memosens
+Transmitter Model : CM42
+Ingress Protection : IP65
+Measuring Principle : Electrode based
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia IIC T5 Ga
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Service: Boiler Feed Water, Deaerator overflow
+Upstream Operating Pressure (Maximum): as per datasheet
+Upstream Operating Temperature (Maximum): as per datasheet
+Fluid Phase: Liquid
+1
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50m
+Sample Tube
+1/2” OD SS316 Tube
+1
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+1
+Field Rack
+Rack Description:
+Fabricated from Structural Steel channel and angle. Joints and
+seams shall be fully welded Rack shall be SS316L without paint.
+Rack Dimensions: 1200mm W x 1800mm H
+Ground Pads: Two Stainless Steel Ground Pads will be installed
+on the rack. One on each side.
+Lifting Devices: Two (2) lifting eyes shall be attached to the top at
+each side and shall be designed to lift the total weight of the rack
+with all equipment installed.
+Equipment Mounting Strut: Galvanized Steel/ SS
+Including
+Junction box in GRP Ex II 2GD Ex e IIC T Gb , IP66. Ambient
+temperature -40 +55°C. External dimension 305x147x110mm.
+(approx.)
+24
+2
+TOC Analyser
+Tag no: K76-15-AIT-50103 & K76-15-AIT-50104
+Make: Hach
+Model: Biotector
+Ingress Protection : IP55
+Measuring Principle : Persulfate and IR
+Accuracy : Accuracy depends on the accuracy of the laboratory
+method used to calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Exp
+Analog Signal: 4-20mA
+Power Supply: 2230VAC, 50Hz
+Service: Boiler Feed Water, Analyser drain to cooling tower basin
+Upstream Operating Pressure (Maximum): 30.8Psig
+Upstream Operating Temperature (Maximum): 111Deg F
+Fluid Phase: Liquid
+2
+Sample Probe
+Fixed type sample probe shall be of welding construction.
+With Isolation valve
+MOC: SS316L
+Connection 2" Flange 150# RF matting flange with bolts &
+gaskets.
+50mX2
+Sample Tube
+1/2” OD SS316 Tube
+2
+Sample conditioning system
+SCS components shall be mounted on Analyser Filed rack
+assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter metal tube flowmeter 1⁄4”OD low flow
+alarm
+-
+Sample Cooler
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of
+SS316L.
+2
+Field Cabinet
+1x Analyzer Cabinet:
+−
+Cabinet shall be made of SS304 sheet in welded
+construction.
+−
+Dimensions: 2100H x 800L x 800D
+−
+Front door (double leaf) shall be made of 2mm th. SS316
+sheet.
+−
+Top, rear and side sheet shall be made of 1.5 mm th.
+SS304 sheet.
+−
+Bottom sheet will be made of 1.5mm th. SS304 sheet.
+−
+Side gland plate will be made of 2.5mm th. SS304 sheet.
+−
+Side support angle and vertical c-channel will be made of
+2mm th. SS304 sheet.
+−
+Base frame will be made of ISMC 100 ms channel.
+−
+Stiffner shall be provided on doors
+−
+Finish: buff finish
+−
+shade for base frame: black
+−
+Protection class: - IP54 (without cutouts)
+−
+Top cover with 4 nos eye bolts
+−
+Analyzer foundation By Client
+−
+Includes Utility Headers.
+−
+1x 1’’ 316SS Instrument Air Header with Pressure Gauge,
+Dual Filters and Primary isolation valve in redundant
+configuration.
+−
+1x 2" 316SS Closed Drain Header
+Includes Power & Signal Jb
+1 x Analog Signal Junction Box (Analyser signal) GRP, Ex ‘e’
+IECEx Certified for Hazardous Area Zone 1 IIB,
+1 x Digital Signal Junction Box, (Non-F&G Signals) GRP, Ex ‘e’
+IECEx Certified for Hazardous Area Zone 1 IIB,
+1 x UPS Power distribution Panel,
+Analyzer shall be powered (230VAC 60Hz single phase) from UPS
+power supplies.
+MOC: Exd, Aluminium , IP66
+Incoming power supply for the distribution boards shall be by using
+two pole MCCB.
+1 x non-UPS Power distribution Panel,
+AC shall be powered (415VAC 60Hz 3 phase) from non-UPS
+power supplies.
+MOC: Exd, Aluminium , IP66
+Incoming power supply for the distribution boards shall be by using
+four pole MCCB.
+1x internal light
+1x Beacons and audible alarms
+1x temperature indicator
+1x Toxic gas Detector
+1x Auxiliary ventilation fan [6 air changes per hour of fresh air.]
+Included local Hand/Off/Automatic control selector switch
+2 x Ex-proof cabinet Air conditioner
+Refrigeration Capacity: 1 TR
+Structure
+Skid of SS
+Total Evaporation Section is Insulated with FR Chemically
+Cross linked Polyethylene insulation of 20mm thk with Inner
+Aluminum Foil
+Physical characteristics
+Dimensions: 550 x 650 x 1400(h) mm
+Box type Air Pre filter
+Condenser Coil: Air Cooled, Fin Tube Type Condenser Coil
+Condenser Fan: Axial Type Motor Certified for GAS group IIC
+Compressor: Hermetically sealed with Exd certified TB for Gas
+group IIC ZONE 1
+Refrigerant: R134a Qty(appx): 0.950Kgs
+Power supply: 415V, 3 Ph., 60 Hz

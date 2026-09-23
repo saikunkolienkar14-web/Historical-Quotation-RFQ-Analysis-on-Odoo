@@ -1,0 +1,179 @@
+Quotation Number: Q2502B014R1
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE (INR)
+TOTAL PRICE (INR)
+1
+NOX ANALYZER SCR INLET & OUTLET
+Service: SCR Inlet & Outlet (Reactor A & B)
+Mounting Location: Inside Containerized Porta Cabin
+Area Classification: Safe Area
+Make: Siemens, Model: ULTRAMAT23
+Process Conditions at SCR Inlet/Outlet:
+•
+As per details provided in the RFQ document
+Measuring Range at SCR Inlet:
+•
+NOX: 0-500 ppm (Reactor A & B)
+Measuring Range at SCR Outlet:
+•
+NOX: 0-200 ppm (Reactor A & B)
+4 No.
+QUOTED
+QUOTED
+2
+SAMPLE HANDLING SYSTEM FOR NOX ANALYZER AT SCR
+INLET & OUTLET
+Sample Handling System:
+•
+BOM and scheme as per section 4 of the offer.
+Panel Specification:
+•
+Total Analyser panels- 2 Nos
+Reactor A- Inlet and Outlet- 1 No
+Reactor B- Inlet and Outlet- 1 No
+•
+MOC: CRCA
+4 No.
+QUOTED
+QUOTED
+MOUNTING ACCESSORIES WITH STUB, COUNTER FLANGES,
+MATING FLANGES & FASTNERS FOR NOX ANALYSERS
+4 No.
+QUOTED
+QUOTED
+AIR CONDITIONER FOR SCR NOX ANALYSER PANEL OR
+CONTAINER
+Since analyser panel shall be mounted inside AC porta cabin,
+hence additional panel AC for panel is not required. 1 x Split
+AC per porta cabin to be considered
+2 No.
+QUOTED
+QUOTED
+3
+CALIBRATION GAS CYLINDERS for NOX ANALYZER AT SCR
+INLET & OUTLET
+Calibration Cylinder with dual stage Regulator:
+•
+10 Ltrs Span Gas cylinder.
+•
+10 Ltrs Zero Gas cylinder.
+•
+Gas cylinders shall be mounted on the cylinder
+rack outside panel
+4 Set
+QUOTED
+QUOTED
+4
+CONTAINERIZED PORTA CABIN FOR NOX ANALYZER
+For SCR Inlet and Outlet for Reactor A- 1 no
+For SCR Inlet and Outlet for Reactor B- 1 no
+2 No.
+QUOTED
+QUOTED
+6
+SUPERVISION OF ERECTION, TOTAL COMMISIONING AND
+HANDING OVER OF THE OFFERED SYSTEM
+4 No.
+QUOTED
+QUOTED
+A: MAIN SUPPLY- FGD INLET & OUTLET
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE (INR)
+TOTAL PRICE (INR)
+8
+SO2 ANALYZER FGD INLET & OUTLET
+Service: FGD Inlet & Outlet
+Mounting Location: Inside Containerized Porta Cabin
+Area Classification: Safe Area
+Make: Siemens, Model: ULTRAMAT23
+Process Conditions at FGD Inlet/Outlet:
+•
+As per details provided in the RFQ document
+Measuring Range at FGD Inlet:
+•
+SO2: 0-500 ppm
+Measuring Range at FGD Outlet:
+•
+SO2: 0-200 ppm
+2 No.
+QUOTED
+QUOTED
+9
+SAMPLE HANDLING SYSTEM FOR SO2 ANALYZER FGD INLET
+& OUTLET
+Sample Handling System:
+•
+BOM and scheme as per section 4 of the offer.
+Panel Specification:
+•
+Total Analyser panels- 1 Nos
+FGD Inlet and Outlet- 1 No
+•
+MOC: CRCA
+2 No.
+QUOTED
+QUOTED
+MOUNTING ACCESSORIES WITH STUB, COUNTER FLANGES,
+MATING FLANGES & FASTNERS FOR SO2 ANALYSERS
+2 No.
+QUOTED
+QUOTED
+AIR CONDITIONER FOR FGD SO2 ANALYSER PANEL OR
+CONTAINER
+Since analyser panel shall be mounted inside AC porta cabin,
+hence additional panel AC for panel is not required. Since
+both the FGD Inlet and Outlet Systems are to be mounted
+inside common panel, once 1 AC would be required for the
+porta cabin.
+1 No.
+QUOTED
+QUOTED
+10
+CALIBRATION GAS CYLINDERS for SO2 ANALYZER AT FGD
+INLET & OUTLET
+Calibration Cylinder with dual stage Regulator:
+•
+10 Ltrs Span Gas cylinder.
+•
+10 Ltrs Zero Gas cylinder.
+•
+Gas cylinders shall be mounted on the cylinder
+rack outside panel
+2 Sets
+QUOTED
+QUOTED
+11
+CONTAINERIZED PORTA CABIN FOR FGD ANALYZER
+For FGD Inlet and Outlet- 1 no
+1 No.
+QUOTED
+QUOTED
+12
+SUPERVISION OF ERECTION, TOTAL COMMISIONING AND
+HANDING OVER OF THE OFFERED SYSTEM
+2 No.
+QUOTED
+QUOTED
+B: MANDATORY SPARES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE (INR)
+TOTAL PRICE (INR)
+1
+MANDATORY SPARES- NOX ANALYSER (SCR INLET &
+OUTLET)
+1 Lot
+QUOTED
+QUOTED
+2
+MANDATORY SPARES- SO2 ANALYSER (FGD INLET &
+OUTLET)
+1 Lot
+QUOTED
+QUOTED

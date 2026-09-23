@@ -1,0 +1,70 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+Tube Assembly for KAS Length 3500 mm (Single Tube),
+MOC SS Special alloy -New Design
+PART NO: 18418084
+01 Nos
+Rs 3,88,080
+Rs 3,88,080
+2
+CPU 1214C,- S7 1200-14 DI 24V DC; 10 DO RELAY 2A; 2 AI
+0 - 10V DC
+PART NO: 18606070
+01 Nos
+Rs 53,169
+Rs 53,169
+3
+Siemens Drive AC DRIVE 2.2 KV 415 VAC
+PART NO: 18516002
+01 Nos
+Rs 44,328
+Rs 44,328
+4
+Cartridge Filter
+PART NO: 28602054
+05 Nos
+Rs 11,138
+Rs 55,690
+5
+MMI 7"Display with I/O card Support
+PART NO: 18610051
+01 Nos
+Rs 1,48,992
+Rs 1,48,992
+6
+Detector CO - (10000 PPM)
+PART NO: 28602020
+03 Nos
+Rs 2,86,143
+Rs 8,58,429
+7
+Detector CO - (16000 PPM)
+PART NO: 28602020
+03 Nos
+Rs 2,86,143
+Rs 8,58,429
+8
+Detector, NO, Channel 2
+PART NO: 28602058
+02 Nos
+Rs 3,93,518
+Rs 7,87,036
+9
+Adapter (LCD) Board Oxymat 6/61
+PART NO: 28602014
+01 Nos
+Rs 50,529
+Rs 50,529
+10
+Keypad - Ultramat 23
+PART NO: 28602037
+01 Nos
+Rs 90,532
+Rs 90,532
+`

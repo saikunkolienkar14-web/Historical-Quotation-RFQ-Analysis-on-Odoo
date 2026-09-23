@@ -1,0 +1,330 @@
+Ref No.: SQ2509C058
+Date:
+12-09-2025
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+To,
+JSW Steel Ltd., Salem Works
+Mecheri, Pottaneri – 636453
+Tamil Nadu, India
+REFERENCE/RFQ
+: Event RFP - 1300327274-3100829659.
+
+KIND ATTENTION
+: Purchase Deptt.
+
+SUBJECT
+
+: AMC for CAAQMS
+
+Dear Sir,
+
+We thank you for your enquiry and with reference to the same, please find below our quotation AMC for CAAQMS
+as per your requirement.
+
+PART A TECHNICAL SCOPE............................................................................................................PAGE 02
+PART B SUMMARY OF PRICES......................................................................................................PAGE 05
+PART C COMMERCIAL TERMS AND CONDITION.......................................................................PAGE 06
+We hope that the above would serve your purpose, however in case of any further clarifications please feel
+free to contact us.
+
+Thanking you and assuring you our best services and attention at all times.
+
+Yours faithfully,
+FOR ADAGE AUTOMATION PVT. LIMITED
+
+Samaresh Dey
+
+Satya Prakash Dhaked
+samaresh@adage-automation.com
+
+dhaked@adage-automation.com
+
++91 9769012864
+
++91 9234146689
+ADAGE- GOA
+
+ADAGE- GOA
+
+CONTACT PERSONS:
+
+Mr. Rahul Sharma
+Email: rahul@adage-automation.com
+Mob: +91 6350 245 425
+(Adage-Banglore)
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 97690 12864
+(Adage-Goa-HO)
+
+Mr. Satya Prakash Dhaked
+Email: dhaked@adage-automation.com
+Mob: + 919234146689
+(Adage-Goa-HO)
+
+Ref No.: SQ2509C058
+Date:
+12-09-2025
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+PART A: TECHNICAL SCOPE
+
+1. The scope of work for the Annual Maintenance Contract (AMC) includes the maintenance of 4
+Continuous Ambient Air Quality Monitoring Stations (CAAQMS) and 1 PM10 analyzer at CPP#2, as
+detailed below. The AMC covers a total of 21 analyzers and 3 calibrators for the one-year period
+from 01.07.2025 to 30.06.2026.
+
+CAAQ#1 - CPP2
+• PM10- metone,BAM1020
+• PM2.5 metone,BAM1020
+• SO2-Teledyne,M100E
+• Nox -Teledyne,M200E
+• CO- -Teledyne,M300E
+
+AAQ#2 # OHC
+• PM10- metone,BAM1020
+• PM2.5 metone,BAM1020
+• SO2-Teledyne,T100
+• NOx(NO,NO2 &NOX), Thermofisher, Model 42i
+• CO- Thermofisher, Model 48i
+• Calibrator -Teledyne,T700
+
+CAAQ#3 - GH
+• PM10- metone,BAM1020
+• PM2.5 metone,BAM1020
+• SO2-Teledyne,T100
+• NOx(NO,NO2 &NOX), Thermofisher, Model 42i
+• CO- Thermofisher, Model 48i
+• Calibrator -Teledyne,T700
+
+AAQ#4 - GH
+• PM10- metone,BAM1020
+• PM2.5 metone,BAM1020
+• SO2-Teledyne,T100
+• NOx(NO,NO2 &NOX), Thermofisher, Model 42i
+• CO- Thermofisher, Model 48i
+• Calibrator -Teledyne,T700
+
+CPP-II-Coal yard
+• PM10- metone,BAM1020
+
+Ref No.: SQ2509C058
+Date:
+12-09-2025
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2. The AMC activity shall be strictly adhered to JSW#s Safety
+and Environmental policy.
+
+3. Total 4 Visits per year to be conducted by your technical executive (per visit contain 3 days) to
+check the performance of all AAQ monitors, Calibration and preventive maintenance.
+
+4. Emergency visit 2 times/year is inclusive of AMC cost (Problem to be attended within 24 Hrs from
+the time of information given by JSW).
+Adage Reply: Emergency visit shall be attended within 72 working hrs.
+
+5.Calibration of PM 10 & PM 2.5 analyser using reference cell by the vendor scope.
+Adage Reply: Required calibration cylinder and reference cell shall be in JSW Scope.
+
+6.Calibration of CAAQMS monitors shall be carried out as and when required, and a certificate with
+a validity of three months from each AMC visit shall be provided by the vendor.
+
+7. The performance of all AAQ monitors, Calibration and preventive maintenance work will be
+completed on every visit or three days and additional man days will not accountable in JSW.
+Adage Reply: Additional visit shall be chargeable on pro-rata basis.
+
+8. Mandatory/recommended consumables/spares details shall be provided after completion of 1st
+AMC visit.
+
+9. Healthiness & functional checking of all AAQ monitors/Analyzers shall be carried out during visit.
+
+10. Functional checking of all accessories connected to the PM2.5, PM10, SO2, NOx, CO
+monitors/analyzers shall be carried out.
+
+11. For software management online & offline support to be provided by vendor.
+Adage Reply: Noted & confirmed, required software shall be in JSW scope.
+
+12. Troubleshooting in perspective of software to confirm hardware issues.
+
+13. Based on the requirement software versions are to be updated to the required
+analyzers/monitors.
+Adage Reply: Required charges for software shall be paid by JSW separately.
+
+14. Tools and Tackles to AMC shall be vendor scope.
+Adage Reply: Ordinary tools shall be provided by JSW.
+
+I. Exclusions to the AMC Agreement:
+
+Ref No.: SQ2509C058
+Date:
+12-09-2025
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+A) Exclusions -The AMC does not include the following:
+
+❖
+Repair of damage resulting from accident, neglect or misuse (including absence of voltage
+protection), environmental stresses including dust/water/ storm or any cause other than ordinary
+use.
+
+❖
+Performing service in connection with relocation of machines or adding or removing accessories,
+devices or addition of cards & other peripheral devices.
+
+❖
+Electrical /other work external to system & other devices not covered by this agreement.
+
+❖
+Requirement of spares shall be in JSW Limited scope.
+
+❖
+Required calibration gas cylinder shall be arrange by M/s JSW Limited scope.
+
+❖
+Incase of supporting manpower required for house keeping and other mechanical & electrical
+work shall be arrange by M/s JSW Limited.
+
+B) Care of equipment
+
+M/s JSW Limited. shall give full access to the equipment to enable the M/s Adage to provide
+maintenance services & make available to their representative, appropriate personnel from the M/s
+JSW Limited who are familiar with plant & provide suitable working space & facilities as well as
+storage space for keeping of maintenance equipment & spare if the need arises.
+
+Ref No.: SQ2509C058
+Date:
+12-09-2025
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+PART B: SUMMARY OF PRICES
+
+CAMC CHARGES FOR ONE YEAR CONTRACT
+SR. NO
+ITEM DESCRIPTION
+UoM Quantity
+Rate
+Basic Amount (in INR)
+1.
+Charges for AMC
+contract.
+
+Qtr.
+
+4
+
+Quoted
+Quoted
+
+SPECIAL NOTE:
+
+1.
+Working time shall be as per industrial norms i.e. 8 hrs. per day.
+2.
+Adage engineer shall follow all the safety rules and regulations of M/s JSW Limited.
+3.
+Lifting & shifting of material in M/s JSW Limited.
+
+Ref No.: SQ2509C058
+Date:
+12-09-2025
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+PART C: COMMERCIAL TERMS AND CONDITIONS
+Taxes
+Extra as applicable.
+Offer validity
+30 days.
+Payment Terms
+Within 07 Days after submission of our Invoice after Service Visit.
+Our Bank account
+Details are as
+follows:
+
+Our Bank Details:
+Kotak Mahindra Bank Limited
+Account No.: 6449378755
+IFSC Code: KKBK0002495
+
+Yours faithfully,
+For Adage Automation Pvt. Limited
+
+Samaresh Dey
+
+Satya Prakash Dhaked
+samaresh@adage-automation.com
+
+dhaked@adage-automation.com
+
++91 9769012864
+
++91 9234146689
+ADAGE- GOA
+
+ADAGE-GOA

@@ -1,0 +1,562 @@
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+To,
+
+Client: Saudi Arabia Sensing Solutions Company Ltd.
+
+End User : Ibn Rushd & YANSAB
+
+Kind Attention:
+Rania Alamin
+Sr. Proposal Specialist
+
+Subject:
+RFx5500729509,SAS-25-0199 | RFx5500729457,SAS-25-0200 |
+
+Project:
+
+1. 83-AT-011 COD analyzer to be replaced due to obsolescence.
+
+2. To Replace IBNRUSHD Wastewater Analysers 015-79-Ait- 700/702/703
+
+Bid Type:
+
+Firm Techno-Commercial Rev 0
+
+Dear Sir/Madam,
+
+We thank you for your interest in Adage Kanoo Industrial Company Products and with reference to the
+same please find enclosed our quotation for COD & pH as per your requirement.
+
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned.
+
+Yours sincerely,
+
+Adil Bin Muhammed
+Mobile: +966547623190
+Email: adil@adage-kanoo.com
+
+Our Quotation No: Q25AKIC10098
+Date: 14.05.2025
+
+Contact persons:
+
+Mr. Liyaqath Jabbar
+(General Manager)
+Email: liyaqath.jabbar@adagekanoo.com
+Mob: +973 34185588
+
+Mr. Adil Bin Muhammed
+Email: adil@adage-kanoo.com
+Mob: +966547623190
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+PRICE SUMMARY
+YANSAB Scope
+
+S.N.
+Item Description
+Qty.
+Unit Price (US$)
+Total Price (US$)
+1
+77-AT-060 COD analyser with SCS
+1
+$ 196,012.75
+
+$ 196,012.75
+
+Sample transportation tube
+35m
+Included
+Included
+i
+Supply of start-up and commissioning spares
+1
+Included
+Included
+ii
+Documentation
+1
+Included
+Included
+iii
+FAT at AKIC facility in Jubail, KSA
+2 days
+Included
+Included
+iv
+SAT & Commissioning
+3 days
+Included
+Included
+
+Total
+$196,012.75
+
+Ibn Rushd Scope
+
+S.N.
+Item Description
+Qty.
+Unit Price (US$)
+Total Price (US$)
+1
+015-79AIT702 COD analyser with SCS
+1
+$227,443.73
+$227,443.73
+
+Sample transportation tube
+35m
+Included
+Included
+2
+pH analyser with SCS
+2
+Included
+Included
+
+Sample transportation tube
+70m
+Included
+Included
+i
+Supply of start-up and commissioning spares
+1
+Included
+Included
+ii
+Documentation
+1
+Included
+Included
+iii
+FAT at AKIC facility in Jubail, KSA
+2 days
+Included
+Included
+iv
+SAT & Commissioning
+4 days
+Included
+Included
+
+Total Excluding VAT
+$227,443.73
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+TECHNICAL DESCRIPTION
+
+S.N.
+Qty
+Item
+Technical Description
+1
+1
+COD analyser
+Tag No:
+77-AT-060
+Plant:
+YANSAB
+Service:
+IR WASTEWATER TO GLYCOL OFFSPEC TANK
+Area Classification
+Class 1 Div 2
+Make
+LAR (Process Insights)
+Model
+TOCUltra COD_o-measurement
+Range
+0-15000
+Principle
+High Temperature Oxidation
+Stream
+one
+Power supply:
+115VAC 50/60Hz
+Operation mode:
+Discontinuous batch operation
+Housing Material
+Stainless steel 1.4301 colorless powder coated , paint
+layer max.200μm
+Dimensions
+W 848 x H 1100 x D 635 mm (Standard housing)
+Protection class
+for housing:
+115VAC,ATEX / UKEX Zone 1 / IECEx T4 IP54 with
+Heat-Pipe 5-35°C; Ex db eb pxb [ib] IIC T4 Gb
+
+Process Parameters
+Sample Pressure
+4 Bar- 10bar
+Sample temp
+40 °C- 60 °C
+Return Pressure
+Atmosphere
+Phase
+Liquid
+
+1.1
+1
+Sample probe
+
+Retractable Probe- Make: Conax/ Genie
+-
+1x Manual Retractable Probe, SS316 with Flange connection: 2" #300 RF
+SS316
+-
+1x Isolation valve (1/2") SS316.
+
+1.3
+1
+Sample
+Conditioning
+system
+
+SCS components shall be mounted inside SS316 enclosure with metal window
+mounted outside existing analyser House/Cabinet.
+SCS comprising of the following components:
+-
+2x Ball valve 1/2’’ OD SS316
+-
+1x Pressure Regulator
+-
+1x Pressure Gauge 63mm BE 1/2’’NPT with accessories
+-
+1x Fast-loop Filter 1/2’’ connection
+-
+1x Fast-loop Metal tube flowmeter 1/2’’OD
+-
+2 x differential pressure switch between filter
+-
+1x Sample flowmeter metal tube flowmeter 1/2’’OD low flow switch
+-
+1x Non return valve
+-
+1x Pressure relief valve 1/2’’ OD SS316
+-
+1x Needle valve
+
+Double compression type fittings shall be of SS316L.
+1.4
+35m
+Sample
+Transportation
+Tube
+
+Sample line: 1/2 "OD SS316 bare tube with connection fillings x 25 m
+Return line : 1/2 "OD SS316 bare tube with connection fillings x 10 m
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+2
+1
+COD Analyser
+Tag No:
+015-79AIT702
+Plant:
+Ibn Rushd PET-II
+Service:
+PUMP DISCHARGE AT PET-II WASTE WATER
+Area Classification
+Class 1 Div 2
+Make
+LAR (Process Insights)
+Model
+TOCUltra COD_o-measurement
+Range
+0-15000
+Principle
+High Temperature Oxidation
+Stream
+one
+Power supply:
+115VAC 50/60Hz
+Operation mode:
+Discontinuous batch operation
+Housing Material
+Stainless steel 1.4301 colorless powder coated , paint
+layer max.200μm
+
+Dimensions
+W 848 x H 1100 x D 635 mm (Standard housing)
+Protection class
+for housing:
+115VAC,ATEX / UKEX Zone 1 / IECEx T4 IP54 with
+Heat-Pipe 5-35°C; Ex db eb pxb [ib] IIC T4 Gb
+
+Process Parameters
+Sample Pressure
+6 Bar- 10 Bar
+Sample temp
+45°C - 60 °C
+Return Pressure
+Atmosphere
+Phase
+Liquid
+2.1
+1
+Sample probe
+
+Retractable Probe Make: Conax/ Genie
+-
+1x Manual Retractable Probe, SS316 with Flange connection: 2" #300 RF
+SS316
+-
+1x Isolation valve (1/2") SS316.
+
+2.2
+1
+Sample
+Conditioning
+system
+
+SCS components shall be mounted inside SS316 enclosure with metal window
+mounted outside existing analyser House/Cabinet.
+SCS comprising of the following components:
+-
+2x Ball valve 1/2’’ OD SS316
+-
+1x Pressure Regulator
+-
+1x Pressure Gauge 63mm BE 1/2’’NPT with accessories
+-
+1x Fast-loop Filter 1/2’’ connection
+-
+1x Fast-loop Metal tube flowmeter 1/2’’OD
+-
+2 x differential pressure switch between filter
+-
+1x Sample flowmeter metal tube flowmeter 1/2’’OD low flow switch
+-
+1x Non return valve
+-
+1x Pressure relief valve 1/2’’ OD SS316
+-
+1x Needle valve
+
+Double compression type fittings shall be of SS316L.
+2.3
+35m
+Sample
+Transportation
+Tube
+Sample line: 1/2 "OD SS316 bare tube with connection fillings x 25 m
+Return line : 1/2 "OD SS316 bare tube with connection fillings x 10 m
+
+3
+2
+pH analyser
+Make: Emerson
+PH Sensor: 3900-01-10 with 10 meters cable
+Transmitter : 1066-P-HT-73 (24 VDC+4-20mA output + HART)
+With 2" Pipe Mounting Kit
+
+3.1
+2
+Sample probe
+
+Retractable Probe Make: Conax/ Genie
+-
+1x Manual Retractable Probe, SS316 with Flange connection: 2" #300 RF
+SS316
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+-
+1x Isolation valve (1/2") SS316.
+
+3.2
+2
+Sample
+Conditioning
+system
+
+SCS comprising of the following components:
+-
+1x Ball valve 1/2’’ OD SS316
+-
+1x Pressure Regulator
+-
+1x Pressure Gauge 63mm BE 1/2’’NPT with accessories
+-
+1x Strainer 1/2’’ connection
+-
+2 x differential pressure switch between filter
+-
+1x Sample flowmeter metal tube flowmeter 1/2’’OD low flow switch
+-
+1x Pressure relief valve 1/2’’ OD SS316
+-
+1x Needle valve
+-
+1x flow through cell SS316
+SCS components shall be mounted on plate.
+Double compression type fittings shall be of SS316L.
+3.3
+70m
+Sample
+Transportation
+Tube
+Sample line: 1/2 "OD SS316 bare tube with connection fillings - 25 x 2 m
+Return line : 1/2 "OD SS316 bare tube with connection fillings – 10 x 2 m
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+Scope Matrix
+Sr.
+No.
+Description
+Scope
+AKIC
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Analyser House/Cabinet/Rack
+
+Yes
+3
+Power Distribution panels, signal JBs, switches
+
+Yes
+3
+Sample Tapping Nozzle Flange
+Yes
+4
+Process Isolation Valve at tapping point
+Yes
+5
+Isolation Valve at process return point
+Yes
+6
+Supply of start-up and commissioning spares
+Yes
+7
+Supply of Mandatory spares- OPTIONAL
+No
+-
+8
+Consumables spares- OPTIONAL
+No
+9
+Inspection, Testing, Project Management & Project Documentation
+Yes
+10
+Factory Acceptance Test at AKIC Works
+Yes
+11
+Packing
+Yes
+12
+Freight up to site including Insurance
+Yes
+13
+Storage of supplied system at site
+Yes
+14
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+
+Yes
+15
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+(if required)
+
+Yes
+16
+Analyser output 4-20mA/RS485/TCP/IP from field/ AH to DCS.
+Yes
+17
+SAT & Commissioning
+Yes
+18
+Supply Calibration Cylinders & Carrier Gas cylinders with Auto change
+over Regulator.
+NA
+NA
+19
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+NA
+NA
+20
+Supply of 2 years O&M spares - OPTIONAL
+NA
+21
+Training at Site- OPTIONAL
+NA
+22
+Training at Goa facility- OPTIONAL
+NA
+23
+AMC after standard warranty (12/18) - OPTIONAL
+NA
+24
+CAMC after standard warranty (12/18) - OPTIONAL
+NA
+
+*NA : NOT APPLICABLE (Not Quoted)
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+COMMERCIAL TERMS
+
+Prices Quoted
+Ex-works AKIC, Al Jubail
+Excluding VAT
+Freight
+Shall be extra as applicable.
+Packing
+Inclusive
+Delivery
+6-7 months from the date of drawing approval.
+Warranty
+12 months from date of commissioning or 18 months from the date of supply whichever is
+earlier.
+Offer Validity
+30 Days
+Payment Terms
+30% Advance Upon award of the PO
+20% Upon approval of detail design Package
+30% Upon submission of unpriced PO copy of analyzers
+15% Upon completion of FAT
+5% Upon completion of SAT & Commissioning

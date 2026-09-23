@@ -1,0 +1,310 @@
+Quotation Number: Q25S10079
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+SULFUR ANALYSER
+Tag No: AI 12317
+Service: Combined VGO Feed (VGOHDS Feed)
+Make: AMETEK
+Model: ASOMA 682T-HP
+Principle: X-ray transmission (XRT)
+Hazardous classification: Zone 2 IIA/IIB
+No of stream: 1
+Analyser ambient Temperature: - 5 to 55 deg C
+Sample phase: Liquid
+Measuring Range: 0 to 3.5 Wt %
+With Density input for dynamic density
+Mounting location: Shall be mounted inside cabinet with Single AC.
+Process condition at Sample inlet:
+-
+Temperature (Op/Design)) – 143/180 Deg C
+-
+Pressure (Op/Design) – 4/ 35 Kg/cm2g
+Sample return:
+-
+Temperature (Op/Design)) – 143/180 Deg C
+-
+Pressure (Op/Design) – 4/ 35 Kg/cm2g
+1 No
+Quoted
+1.a
+Retractable sample probe with isolation valve
+1 No
+Quoted
+1.b
+Sample transportation line for Supply
+-
+1⁄2’’ SS316 Tube, Qty: 20 Meters
+Sample transportation line for Return
+-
+1⁄2’’ SS316 Tube Qty: 20 Meters
+40
+Meters
+Quoted
+1.c
+Design and supply of Secondary SHS System consisting of:
+SS304 Enclosure, PI, TG, Fast loop filter, Rotameter and other
+accessories etc. required for proper functioning of analyzer.
+1 Lot
+Quoted
+1.d
+Analyser Cabinet
+-
+Analyser Cabinet, Dimension shall be confirmed during detailed
+engineering, MOC: SS304, 2 mm thick
+-
+IP65 Rated
+-
+Single AC, Make ADAGE
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+Headers and other required accessories
+1 Lot
+Quoted
+1.e
+Validation tank Assembly for calibration/validation
+1 Lot
+Quoted
+1.f
+Fast loop pump in redundant configuration with all other
+accessories
+1 Lot
+Quoted
+1.g
+With 100 Liter recovery tank with Redundant Sample recovery
+pump with other accessories
+1 Lot
+Quoted
+2
+SULFUR ANALYSER
+Tag No: AI 12318
+Service: Diesel Product (VGOHDS LSD)
+Model: NSure
+Make: PAC
+Principle: UV Fluorescence
+Hazardous Area Classification: Zone 2 IIA/IIB
+No of stream: 1
+Analyzer ambient Temperature: 0 to 40 deg C
+Sample phase: Liquid
+Measuring Range: 0-50 ppmw
+With Density input for dynamic density
+Mounting location: Shall be mounted inside cabinet with Single AC.
+Process condition at Sample inlet:
+-
+Temperature (Op/Design)) – 40/120 Deg C
+-
+Pressure (Op/Design) – 6/ 17.15 Kg/cm2g
+Sample return:
+-
+Temperature (Op/Design)) – 40/120 Deg C
+-
+Pressure (Op/Design) – 6/ 17.15 Kg/cm2g
+1 No
+Quoted
+2.a
+Retractable sample probe with isolation valve
+1 No
+Quoted
+2.b
+Sample transportation line for Supply
+-
+1⁄2’’ SS316 Tube, Qty: 20 Meters
+Sample transportation line for Return
+-
+1⁄2’’ SS316 Tube Qty: 20 Meters
+40
+Meters
+Quoted
+2.c
+Design and supply of Secondary SHS System consisting of:
+SS304 Enclosure, PI, TG, Fast loop filter, Rotameter, Heat exchanger
+and other accessories etc. required for proper functioning of analyzer.
+1 Lot
+Quoted
+2.d
+Analyser Cabinet
+-
+Analyser Cabinet, Dimension shall be confirmed during detailed
+1 Lot
+Quoted
+engineering) MOC: SS304, 2 mm thick
+-
+IP65 Rated
+-
+Single AC, Make ADAGE
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+Headers and other required accessories
+2.e
+Validation tank Assembly for calibration/validation
+1 Lot
+Quoted
+2.f
+Fast loop pump in redundant configuration with all other
+accessories
+1 Lot
+Quoted
+2.g
+With 100 Liter recovery tank with Redundant Sample recovery
+pump with other accessories
+1 Lot
+Quoted
+3
+SULFUR ANALYSER
+Tag No: AI 12311
+Service: Combined Diesel Feed (DHDS Feed)
+Make: AMETEK
+Model: ASOMA 682T-HP
+Principle: X-ray transmission (XRT)
+Hazardous classification: Zone 2 IIA/IIB
+No of stream: 1
+Analyser ambient Temperature: - 5 to 55 deg C
+Sample phase: Liquid
+Measuring Range: 0 to 1.5 Wt %
+With Density input for dynamic density
+Mounting location: Shall be mounted inside cabinet with Single AC.
+Process condition at Sample inlet:
+-
+Temperature (Op/Design)) – 40-152/167.2 Deg C
+-
+Pressure (Op/Design) – 5-7/ 15 Kg/cm2g
+Sample return:
+-
+Temperature (Op/Design)) – 40-152/167.2 Deg C
+-
+Pressure (Op/Design) – 5-7/ 15 Kg/cm2g
+1 No
+Quoted
+3.a
+Retractable sample probe with isolation valve
+1 No
+Quoted
+3.b
+Sample transportation line for Supply
+-
+1⁄2’’ SS316 Tube, Qty: 20 Meters
+Sample transportation line for Return
+-
+1⁄2’’ SS316 Tube Qty: 20 Meters
+40
+Meters
+Quoted
+3.c
+Design and supply of Secondary SHS System consisting of:
+SS304 Enclosure, PI, TG, Fast loop filter, Rotameter and other
+1 Lot
+Quoted
+accessories etc. required for proper functioning of analyzer.
+3.d
+Analyser Cabinet
+-
+Analyser Cabinet, Dimension shall be confirmed during detailed
+engineering) MOC: SS304, 2 mm thick
+-
+IP65 Rated
+-
+Single AC, Make ADAGE
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+Headers and other required accessories
+1 Lot
+Quoted
+3.e
+Validation tank Assembly for calibration/validation
+1 Lot
+Quoted
+3.f
+Fast loop pump in redundant configuration with all other
+accessories
+1 Lot
+Quoted
+3.g
+With 100 Liter recovery tank with Redundant Sample recovery
+pump with other accessories
+1 Lot
+Quoted
+4
+SULFUR ANALYSER
+Tag No: AI 12310
+Service: Diesel Product (DHDS LSD)
+Model: NSure
+Make: PAC
+Principle: UV Fluorescence
+Hazardous Area Classification: Zone 2 IIA/IIB
+No of stream: 1
+Analyzer ambient Temperature: 0 to 40 deg C
+Sample phase: Liquid
+Measuring Range: 0-50 ppmw
+With Density input for dynamic density
+Mounting location: Shall be mounted inside cabinet with Single AC.
+Process condition at Sample inlet:
+-
+Temperature (Op/Design)) – 40-89/104 Deg C
+-
+Pressure (Op/Design) – 8-11/ 22.5 Kg/cm2g
+Sample return:
+-
+Temperature (Op/Design)) – 40-89/104 Deg C
+-
+Pressure (Op/Design) – 8-11/ 22.5 Kg/cm2g
+1 No
+Quoted
+4.a
+Retractable sample probe with isolation valve
+1 No
+Quoted
+4.b
+Sample transportation line for Supply
+-
+1⁄2’’ SS316 Tube, Qty: 20 Meters
+Sample transportation line for Return
+-
+1⁄2’’ SS316 Tube Qty: 20 Meters
+40
+Meters
+Quoted
+4.c
+Design and supply of Secondary SHS System consisting of:
+SS304 Enclosure, PI, TG, Fast loop filter, Rotameter and other
+accessories etc. required for proper functioning of analyzer.
+1 Lot
+Quoted
+4.d
+Analyser Cabinet
+-
+Analyser Cabinet, Dimension shall be confirmed during detailed
+engineering) MOC: SS304, 2 mm thick
+-
+IP65 Rated
+-
+Single AC, Make ADAGE
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+Headers and other required accessories
+1 Lot
+Quoted
+4.e
+Validation tank Assembly for calibration/validation
+1 Lot
+Quoted
+4.f
+Fast loop pump in redundant configuration with all other
+accessories
+1 Lot
+Quoted
+4.g
+With 100 Liter recovery tank with Redundant Sample recovery
+pump with other accessories
+1 Lot
+Quoted

@@ -1,0 +1,396 @@
+Quotation Number: Q25G10098
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price
+1.1
+Nitrogen to
+Purification
+Nitrogen to
+User
+&
+Regeneration
+Nitrogen
+AE-90101
+Total Hydrocarbon Analyser
+1 No
+2,82,00,000
+1.2
+AE-90103
+Moisture Analyser
+1 No
+1.3
+AE-90102
+Electrochemical Oxygen Analyser
+system
+1 No
+1.4
+AE-11102
+Moisture Analyser
+1 No
+1.5
+AE-11101
+Electrochemical Oxygen Analyser
+system
+1 No
+1.6
+AE-21201
+Moisture Analyser
+1 No
+1.7
+AE-21202
+Electrochemical Oxygen Analyser
+system
+1 No
+1.8
+AE-21203
+Total Hydrocarbon Analyser
+1 No
+2.1
+Hydrogen to
+Reaction and
+Hydrogen to
+Purification
+and
+Ethylene to
+Purification
+and Ethylene
+to Reaction
+AE-01127
+AE-12201
+Moisture Analyser
+2Nos
+2,95,00,000
+2.2
+AE-01128
+AE-12202
+Electrochemical Oxygen Analyser
+system
+2Nos
+2.3
+AE-01119
+AE-10416
+Moisture Analyser
+2Nos
+2.4
+AE-01118
+AE-10415
+Electrochemical Oxygen Analyser
+system
+2Nos
+2.5
+AE-01129
+AE-12203
+Gas chromatograph for hydrogen
+purification
+Note: Timed Cycle Analysis
+1 No
+3.1
+Propylene to
+Purification
+And
+Propylene to
+Charge pump
+AE-01124
+AE-20503
+Moisture Analyser
+2Nos
+4,60,00,000
+3.2
+AE-01125
+AE-20504
+Electrochemical Oxygen Analyser
+system
+2Nos
+3.3
+AE-01126
+AE-20505
+Gas chromatograph for propylene
+purification
+Note: Timed Cycle Analysis
+1 No
+3.4
+AE-01123
+AE-20502
+2 Stream Total Sulfur Analyser
+Note: Timed Cycle Analysis
+1 No
+3.5
+AE-01130
+AE-01131
+AE-20506
+AE-20507
+Gas chromatograph for propylene
+purification for measurement of
+Arsine, Phosphine & Ammonia
+Note: Timed Cycle Analysis
+1 No
+2,25,00,000
+4
+Cycle Gas
+from
+Compressor
+AE-40312
+Gas chromatograph system for cycle
+gas
+1 No
+2,30,00,000
+5
+Vent
+Recovery
+System
+AE-52310
+AE-52515
+AE-52608
+AE-52704
+AE-52811
+Gas chromatograph system for Vent
+gas
+Note: Timed Cycle Analysis
+1 No
+3,00,00,000
+6
+Propane
+Purge
+AE-52812
+Moisture Analyser
+1 No
+35,00,000
+7
+AE-86201
+HC Analyser
+1 No
+52,00,000
+8
+AE-86301
+HC Analyser
+1 No
+52,00,000
+9
+AE-90104
+TOC Analyser
+1 No
+46,00,000
+10
+AE-90105
+TOC Analyser
+1 No
+46,00,000
+11
+AE-11902
+HC Analyser
+1 No
+52,00,000
+12
+AE-90203
+Conductivity Analyser
+1 No
+5,50,000
+13
+AE-80403
+HC Analyser
+1 No
+52,00,000
+14
+AE-85201
+HC Analyser
+1 No
+52,00,000
+15
+AE-85301
+HC Analyser
+1 No
+52,00,000
+16
+AE-85401
+HC Analyser
+1 No
+52,00,000
+17
+AE-90106
+Electrochemical Oxygen Analyser
+system
+1 No
+32,00,000
+18
+AE- 90107
+Moisture Analyser
+1 No
+35,00,000
+19
+AE-90204
+pH Analyser
+1 No
+6,00,000
+20
+AE-90205
+HC Analyser
+1 No
+57,00,000
+21
+AS-01
+Analyser shelter with redundant
+HVAC for mounting of above gas
+chromatographs – 03 Nos., sulfur
+analyser-1 No., THC -02 Nos. (PPU
+plant) – 8mts (L) X 3mts (W) X 3
+mts (H)
+1 No.
+2,10,00,000
+22
+AS-02
+Analyser shelter with redundant
+HVAC for mounting of gas
+chromatographs – 2 No.(PPU plant)
+4mts (L) X 3mts (W) X 3 mts (H)
+1 No
+1,85,00,000
+BUTENE-1
+23
+-
+AS-01
+Analyser shelter with redundant
+HVAC for mounting of BELOW gas
+chromatographs - 04 Nos.
+(BUTENE-1 plant) - 5mts (W) X
+3mts (H) X 3 mts (L)
+1 No
+1,90,00,000
+24
+-
+AT-1202
+HC Analyser
+1 No
+57,00,000
+25
+Ethylene
+Purification
+AT-2001A
+Gas chromatograph system
+1 Nos
+1,80,00,000
+26
+Ethylene
+Purification
+AT-2001B
+Gas chromatograph system
+1 Nos
+1,80,00,000
+27
+-
+AT-2002A
+Moisture Analyser
+1 No
+35,00,000
+28
+-
+AT-2003
+Moisture Analyser
+1 No
+35,00,000
+29
+Recycle
+Column
+Reflux Drum
+AT-4501
+Gas chromatograph system
+1 No
+2,28,00,000
+30
+BUTENE-1
+Column
+Reflux Drum
+AT-4701
+Gas chromatograph system
+1 No
+1,90,00,000
+31
+-
+AT-5201A
+Moisture Analyser
+1 No
+35,00,000
+32
+-
+AT-5201B
+Moisture Analyser
+1 No
+35,00,000
+33
+-
+-
+Inspection & Factory Acceptance
+tests (FAT)
+1 Lot
+3,00,000
+34
+-
+-
+Erection, Pre-commissioning and
+Commissioning Spares
+1 Lot
+1,00,000
+35
+-
+-
+Mandatory Spares common for PPU
+& BUTENE-1
+1 Lot
+4,60,00,000
+36
+-
+-
+2 years Operational and
+Maintenance Spares for as per
+Adage recommendation
+1 Lot
+85,00,000
+37
+-
+-
+Consumables for 1 year operation
+after SAT
+1 Lot
+11,00,000
+38
+-
+-
+Packing & forwarding
+1 Lot
+3,00,000
+39
+-
+-
+Special Tools & Tackles
+Shall be supplied as required
+1 Lot
+1,25,000
+40
+-
+-
+Transportation
+1 Lot
+6,00,000
+41
+-
+-
+Supervision during Erection and
+Installation (Per Diem rates)
+Per diem
+50,000
+42
+-
+-
+Documentation
+1 Lot
+3,50,000
+43
+-
+-
+Training as per specification
+Lumpsum
+3,00,000
+44
+-
+-

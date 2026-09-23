@@ -1,0 +1,1041 @@
+www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+
+To, 
+
+Customer: SAMSUNG Group, Samsung E&A Co., Ltd, South Korea 
+End User: EMIRATES BIOTECH L.L.C, Dubai 
+ 
+Attention: 
+JUN LEE | jun0311.lee@samsung.com 
+
+Subject: 
+Requirement of Liquid and CEMS analyser system for UAE Emirates Biotech PLA facility 
+ 
+Reference: 
+Doc. No.: KAR701 dated 28.07.2025 
+ 
+Dear Sir, 
+ 
+Refer to your subject RFQ we are pleased to submit our proposal as under: 
+The proposed CEMS and liquid analyser systems are designed for safe area installation. For any tags without 
+specified measuring ranges, standard ranges have been assumed. Utilities such as instrument air, nitrogen, and 
+cooling water shall be provided by the customer, along with all field cabling/tubing to stack, vent, and drain 
+points outside the battery limit. Customer will also ensure connectivity to relevant authorities. MODBUS TCP/IP 
+output will be available from the CEMS analyser panels. Tentative distances from process tapping points to analyser 
+cabinets are considered as 50 m for each CEMS cabinet and 15 m for each extractive liquid analyser system. 
+CEMS (Tags CEMS-01 & CEMS-02 – Hot Oil Heater & Boiler): 
+• 
+Systems are housed in IP54-rated cabinets, to be installed in an existing shelter or temperature-controlled room 
+(5–45 °C). 
+• 
+Stack process details are pending; the customer is requested to provide the completed stack details sheet to 
+confirm flowmeter and SHS compatibility. 
+• 
+Each panel includes temperature and pressure measurements and a combustible gas detector. 
+Liquid Analyser Systems: 
+• 
+Boiler Feed Water (Tags 6400-AT-6403 pH, 6400-AT-6404 Conductivity, 6400-AT-6402 DO): Due to high 
+temperature (~200 °C), an extractive sampling system with heat exchanger has been included, as per the 
+P&ID. 
+• 
+Cooling Water Return (Tags 6500-AT-6501 pH, 6500-AT-6502 Conductivity): Due to high pressure (~8.5 bar), 
+sensors will be installed in an extractive system with pressure regulation, per the P&ID. 
+• 
+Waste Water (Tag 6400-AT-6401 pH): Direct in-situ measurement is feasible and included. 
+Kindly review the offer and do let us know in case of any clarifications. 
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned. 
+ 
+Yours sincerely, 
+ 
+Ganesh Govindaraj 
+
+ 
+Megha Palan 
+Email: govind@adage-kanoo.com 
+
+ 
+Email: sales@adage-kanoo.com 
+ 
+ Our Quotation No: Q2508AKAI018 
+Date: 11.08.2025 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+ 
+A. TABLE OF CONTENTS 
+ 
+Section 
+Section Title 
+1.0 
+Summary of Prices 
+2.0 
+Note & Scope Definition 
+3.0 
+Commercial Terms & Conditions 
+4.0 
+Bill of Material 
+
+ 
+ Revision History 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Rev 
+Date 
+Revision detail 
+0 
+11.08.2025 
+Initial submission 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+SECTION 1: SUMMARY OF PRICES 
+Sr. 
+No. 
+Description 
+Qty 
+Unit 
+Price 
+(INR) 
+Total 
+Price 
+(INR) 
+1 
+CEMS measurement at Hot Oil Heater 
+Tag No: CEMS-01 
+Service: Hot Oil Heater 
+Make: Siemens 
+Model: ULTRAMAT23 
+Operating Principle: NDIR 
+Area Classification: Safe Area 
+Sampling Technique: Hot Extraction 
+Mounting Location: Analyser Cabinet shall be mounted inside temperature 
+controlled room 
+ 
+Process Conditions at Sample Inlet: 
+• 
+Pressure (Nor/Design): Atm 
+• 
+Temperature (Nor/Design): To be provided by customer 
+ 
+Measuring Range: 
+• 
+CO2: 0-5/25% 
+• 
+O2: 0-5/25% 
+• 
+NO: 0-500/2500 ppm 
+• 
+SO2: 0-500/2500 ppm 
+• 
+CH4: 0-20/100% 
+ 
+With Sample Conditioning System: 
+• 
+With Manually Welded Probe 
+• 
+With Safe area components like Gas Cooler, Pump, Ball Valves, etc 
+• 
+Refer to detailed BOM provided in Section 4 
+ 
+Analyser Outputs: 
+• 
+Digital Outputs 
+• 
+4-20mA Analog Outputs 
+1 No 
+QUOTED 
+QUOTED 
+1.1 
+Stack Flowmeter, Temperature and Pressure Transmitter 
+Area Classification: Safe Area 
+Mounting Location: In-situ Mounted 
+Flowmeter Operating Principle: Ultrasonic 
+1 No 
+QUOTED 
+QUOTED 
+1.2 
+Combustible Detector 
+Area Classification: Safe Area 
+Mounting Location: Inside CEMS Cabinet 
+1 No 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+2 
+CEMS measurement at Boiler 
+Tag No: CEMS-02 
+Service: Boiler 
+Make: Siemens 
+Model: ULTRAMAT23 
+Operating Principle: NDIR 
+Area Classification: Safe Area 
+Sampling Technique: Hot Extraction 
+Mounting Location: Analyser Cabinet shall be mounted inside temperature 
+controlled room 
+ 
+Process Conditions at Sample Inlet: 
+• 
+Pressure (Nor/Design): Atm 
+• 
+Temperature (Nor/Design): To be provided by customer 
+ 
+Measuring Range: 
+• 
+O2: 0-25% 
+• 
+NOX: To be provided by customer 
+ 
+With Sample Conditioning System: 
+• 
+With Manually Welded Probe 
+• 
+With Safe area components like Gas Cooler, Pump, Ball Valves, etc 
+• 
+Refer to detailed BOM provided in Section 4 
+ 
+Analyser Outputs: 
+• 
+Digital Outputs 
+• 
+4-20mA Analog Outputs 
+ 
+1 No 
+QUOTED 
+QUOTED 
+2.1 
+Stack Flowmeter, Temperature and Pressure Transmitter 
+Area Classification: Safe Area 
+Mounting Location: In-situ Mounted 
+Flowmeter Operating Principle: Ultrasonic 
+1 No 
+QUOTED 
+QUOTED 
+2.2 
+Combustible Detector 
+Area Classification: Safe Area 
+Mounting Location: Inside CEMS Cabinet 
+1 No 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+ 
+3 
+Liquid Analyser System-Boiler Feed Water 
+Area Classification: Safe Area 
+Sampling Technique: Extractive 
+Mounting Location: Shall be mounted on field rack 
+ 
+Sl No 
+Tag No 
+Parameter 
+Make 
+1 
+6400-AT-6403 
+pH 
+E&H/Horiba/Equivalent 
+2 
+6400-AT-6404 
+Conductivity 
+E&H/Horiba/Equivalent 
+3 
+6400-AT-6402 
+Dissolved Oxygen 
+E&H/Horiba/Equivalent 
+ 
+Process Conditions at Sample Inlet: 
+• 
+Pressure (Nor/Design): OP 1.4 / DP 3.5 Barg 
+• 
+Temperature (Nor/Design): OT 110 / DT 200 Deg C 
+ 
+Measuring Range: 
+• 
+pH: 0-14 
+• 
+Conductivity: 10 µS/cm 
+• 
+DO: To be provided by customer 
+ 
+With Sample Conditioning System: 
+• 
+With Ball Valves, Pressure Regulator, Heat Exchanger, Flowmeter, 
+etc 
+• 
+Refer to detailed BOM provided in Section 4 
+ 
+Analyser Outputs: 
+• 
+4-20mA Analog Output 
+ 
+Notes: 
+• 
+Customer to provide tapping point with Isolation ball Valve 
+ 
+1 Lot 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+4 
+Liquid Analyser System-Cooling Water Return 
+Area Classification: Safe Area 
+Sampling Technique: Extractive 
+Mounting Location: Shall be mounted on field rack 
+ 
+Sl No 
+Tag No 
+Parameter 
+Make 
+1 
+6500-AT-6501 
+pH 
+E&H/Horiba/Equivalent 
+2 
+6500-AT-6502 
+Conductivity 
+E&H/Horiba/Equivalent 
+ 
+Process Conditions at Sample Inlet: 
+• 
+Pressure (Nor/Design): OP 4.0 / DP 8.0 Barg 
+• 
+Temperature (Nor/Design): OT 45 / DT 85 Deg C 
+ 
+Measuring Range: 
+• 
+pH: 0-14 
+Conductivity: 10 µS/cm 
+ 
+With Sample Conditioning System: 
+• 
+With Ball Valves, Flowmeter, etc 
+• 
+Refer to detailed BOM provided in Section 4 
+ 
+Analyser Outputs: 
+• 
+4-20mA Analog Output 
+ 
+Notes: 
+• 
+Customer to provide tapping point with Isolation ball Valve 
+ 
+1 Lot 
+QUOTED 
+QUOTED 
+5 
+Liquid Analyser System-Waste Water 
+Area Classification: Safe Area 
+Sampling Technique: In-situ Mounted 
+ 
+Sl No 
+Tag No 
+Parameter 
+Make 
+1 
+6400-AT-6401 
+pH 
+E&H/Horiba/Equivalent 
+ 
+Process Conditions at Sample Inlet: 
+• 
+Pressure (Nor/Design): ATM 
+• 
+Temperature (Nor/Design): OP 40 / DT 85 
+ 
+Measuring Range: 
+• 
+pH: 0-14 
+
+Analyser Outputs: 
+• 
+4-20mA Analog Output 
+ 
+1 Lot 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+
+ 
+
+6 
+Heat Trace Tube for Sample Gas Transportation 
+
+ 
+Typical Self-Regulated Heat Traced Sample Lines 
+MOC: SS316 
+Tube size: ¼” 
+With all necessary accessories and JB’S 
+Shall be Simplex self regulating type 
+100 mtrs 
+(50mtrs x 2) 
+Quoted 
+Quoted 
+ 
+7 
+Sample Tube for Sample Gas Transportation 
+MOC: SS316 
+Tube size: ¼” 
+30 mtrs 
+(15mtrs x 2) 
+Quoted 
+Quoted 
+ 
+8 
+Supervision of Installation and Commissioning Charges 
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, 
+Visa charges is to be arranged by customer) 
+Per Diem 
+Quoted Per Diem 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Section 2: Note & Scope Definition 
+ 
+• 
+External Cabling, Tubing, and all Associated Erection Hardware shall be in Customer’s Scope. 
+• 
+Plant Instrument air/nitrogen required @ 4-6 bar to be provided by customer if required 
+• 
+Cooling water is required 
+• 
+Analyzer Panel shall be mounted inside temperature controlled room provided by customer where ambient 
+temperature is maintained between 5 to 45 Deg C. 
+• 
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope 
+Power Supply Utilities required are: 
+• 
+Power Supply: 230 VAC, 50 Hz (Non-UPS) 
+• 
+Power Supply: 230 VAC, 50 Hz (UPS) 
+
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, Engineering and Supply as per Summary of Prices 
+• 
+Supervision of Installation and Commissioning of the complete System 
+• 
+Project Management and Project Documentation 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+All Erection and Installation Activity. 
+• 
+Analyser Panel shall be mounted inside temperature controlled room where ambient temperature is 
+maintained between 5 to 45 Deg C. 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals. (Adage shall provide assistance) 
+• 
+Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal / 
+serial communication cables etc. 
+• 
+Laying of trays/structural and support for field tubing. 
+• 
+All utilities as mentioned above. 
+• 
+M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering. 
+
+ 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Section 3: Commercial Terms & Conditions 
+ 
+Price Basis 
+Ex-works AKAI 
+Packing Charges 
+3.5% of the basic order value for sea-worthy packing 
+Freight Charges 
+Shall be extra as applicable. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 08 months from the date of drawing Approval. 
+Offer validity 
+30 days. 
+Payment Terms 
+To be decided by AKAI 
+Warranty Clause 
+Against manufacturing defects for 12 months from the date of Commissioning or 18 
+months from the date of dispatch, whichever is earlier. 
+Storage Charges 
+The storage charges shall be applicable @0.5% of the order value per week after 
+inspection or scheduled delivery 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Section 4: Bill of Material 
+ 
+BILL OF MATERIAL-CEMS Measurement 
+Sr 
+No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+NO/SO2/CO2/O2 Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+1.1 
+GA 
+SO2 Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Gas Probe 
+Adage 
+# 
+Nos 
+1 
+3 
+BB 
+Blowback Unit 
+Adage 
+# 
+Nos 
+1 
+4 
+MP 
+Sample Gas Pump 
+Buhler/KNF 
+# 
+Nos 
+1 
+5 
+NV 
+Needle Valve 
+Baldota 
+# 
+Nos 
+2 
+6 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+1 
+7 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+8 
+3SV 
+3 way Solenoid Valve 
+Asco/Burkert 
+# 
+Nos 
+1 
+9 
+3BV 
+3 way Ball Valve 
+Em Technik 
+# 
+Nos 
+1 
+10 
+ 
+Ball Valve Manifold 
+# 
+# 
+Nos 
+1 
+11 
+PLC 
+Programmable Logic Controller 
+Siemens 
+S7-1200 
+Nos 
+1 
+12 
+MMI 
+Human Machine Interface 
+Adage 
+# 
+Nos 
+1 
+13 
+ 
+Analyser Panel, MOC: CRCA, Approx: 800 x 800 x 
+2100 mm 
+Rittal 
+# 
+Nos 
+1 
+14 
+ 
+Fittings & Tubing (PTFE/PVDF) 
+Em Technik 
+# 
+Lot 
+1 
+15 
+ 
+Zero & Span Gas Cylinders with Pressure Regulators 
+# 
+# 
+Nos 
+5 
+16 
+ 
+NO to NO2 convertor 
+Fuji 
+# 
+Nos 
+1 
+#- Shall be provided post order 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+BILL OF MATERIAL-CEMS Measurement 
+Sr 
+No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+NO/O2 Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Gas Probe 
+Adage 
+# 
+Nos 
+1 
+3 
+BB 
+Blowback Unit 
+Adage 
+# 
+Nos 
+1 
+4 
+MP 
+Sample Gas Pump 
+Buhler/KNF 
+# 
+Nos 
+1 
+5 
+NV 
+Needle Valve 
+Baldota 
+# 
+Nos 
+1 
+6 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+1 
+7 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+8 
+3SV 
+3 way Solenoid Valve 
+Asco/Burkert 
+# 
+Nos 
+1 
+9 
+3BV 
+3 way Ball Valve 
+Em Technik 
+# 
+Nos 
+1 
+10 
+5BV 
+5 Way Ball Valve 
+Em Technik 
+# 
+Nos 
+1 
+11 
+PLC 
+Programmable Logic Controller 
+Siemens 
+S7-1200 
+Nos 
+1 
+12 
+MMI 
+Human Machine Interface 
+Adage 
+# 
+Nos 
+1 
+13 
+ 
+Analyser Panel, MOC: CRCA, Approx: 600 x 600 x 
+2100 mm 
+Rittal 
+# 
+Nos 
+1 
+14 
+ 
+Fittings & Tubing (PTFE/PVDF) 
+Em Technik 
+# 
+Lot 
+1 
+15 
+ 
+Zero & Span Gas Cylinders with Pressure Regulators 
+# 
+# 
+Nos 
+2 
+16 
+ 
+NO to NO2 convertor 
+Fuji 
+# 
+Nos 
+1 
+#- Shall be provided post order 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+BILL OF MATERIAL-Boiler Feed Water 
+Sr 
+No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+ 
+pH Sensor, Common Transmitter and Flow 
+through cell 
+E&H/Horiba/Equivalent 
+# 
+Nos 
+1 
+1.1 
+ 
+Conductivity Sensor, Common Transmitter and 
+Flow through cell 
+E&H/Horiba/Equivalent 
+# 
+Nos 
+1 
+1.2 
+ 
+Dissolved Oxygen Sensor, Common Transmitter 
+and Flow through cell 
+E&H/Horiba/Equivalent 
+# 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+2BV 
+Ball Valve 
+Hylok/Equivalent 
+# 
+Nos 
+1 
+3 
+HE 
+Heat Exchanger arrangement 
+# 
+# 
+Nos 
+1 
+4 
+PI 
+Pressure Indicator 
+Wika 
+# 
+Nos 
+1 
+5 
+PR 
+Pressure Regulator 
+Hylok/Equivalent 
+# 
+Nos 
+1 
+6 
+SRV 
+Safety Relief Valve 
+Hylok/Equivalent 
+# 
+Nos 
+1 
+7 
+NV 
+Needle Valve 
+Baldota 
+# 
+Nos 
+3 
+8 
+FM 
+Sample Flowmeter 
+Adage 
+# 
+Nos 
+3 
+#- Shall be provided post order 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+BILL OF MATERIAL-Cooling Return Water 
+Sr 
+No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+ 
+pH Sensor, Common Transmitter and Flow 
+through cell 
+E&H/Horiba/Equivalent 
+# 
+Nos 
+1 
+1.1 
+ 
+Conductivity Sensor, Common Transmitter and 
+Flow through cell 
+E&H/Horiba/Equivalent 
+# 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+2BV 
+Ball Valve 
+Hylok/Equivalent 
+# 
+Nos 
+1 
+3 
+PI 
+Pressure Indicator 
+Wika 
+# 
+Nos 
+1 
+4 
+PR 
+Pressure Regulator 
+Hylok/Equivalent 
+# 
+Nos 
+1 
+5 
+SRV 
+Safety Relief Valve 
+Hylok/Equivalent 
+# 
+Nos 
+1 
+6 
+NV 
+Needle Valve 
+Baldota 
+# 
+Nos 
+2 
+7 
+FM 
+Sample Flowmeter 
+Adage 
+# 
+Nos 
+2 
+#- Shall be provided post order

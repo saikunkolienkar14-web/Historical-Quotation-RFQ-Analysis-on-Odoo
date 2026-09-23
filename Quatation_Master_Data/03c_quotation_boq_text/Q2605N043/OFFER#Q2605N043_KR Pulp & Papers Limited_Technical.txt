@@ -1,0 +1,72 @@
+Quotation Number: Q2605N043
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+Gas Analysis system for measurement of CO,NO,SO2,O2 at stack
+With Gas sampling probe
+With Auto probe cleaning facility
+With Blow back unit
+With Sample handling system
+With IP54 panel
+With Calibration gas cylinders
+With Microprocessor based analyser
+With touch screen graphic color display – 7“
+Ultramat 23 – 01 No.
+For measurement of
+Carbon Monoxide (CO)
+Nitric Oxide (NO)
+Sulphur Dioxide (SO2)
+Oxygen (O2)
+Analyzer make: Siemens Ag, Germany
+Note: According to the latest CPCB guidelines, compensation can be done
+using either O2 or CO2, we have done the same using O2. Hence CO2
+measurement is not quoted.
+1 Set
+Quoted
+Quoted
+2
+Heat trace tube for sample gas transportation
+Moc: PTFE, Tube Size: 1⁄4”
+Along with JB’S and accessories
+@Quoted Per Meter
+3
+Datalogger (without PC)
+Data Logger System with Software for connecting the System to
+CPCB & SPCB.
+Inclusive of Subscription charges for one year, After which charges
+@Quoted/- Per component shall be applicable per year.
+Note: SIM Card For Datalogger And All Bill Payments Shall Be In
+Customer's Scope
+1 Set
+Quoted
+Quoted
+Note: Please confirm the thickness of the stack where the dust monitor will be mounted.
+4
+Dust Monitor
+Make: E&H, Germany
+Analyser Model No.: SB-30
+Measurement Principle: Scattered Light Intensity (Backward
+Scattering)
+Output: 0/2/4 ... 20 mA
+Automatic Self-Test
+Digital outputs 3 relay contacts for status signals
+Power supply: voltage 230 VAC
+Power consumption ≤ 4 W
+Note: Utility requirement: Instrument air free from oil, dust &
+moisture at 4/6 bar to be provided by the customer.
+1 set
+Quoted
+Quoted
+5
+Service charges for supervision of installation & commissioning
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/
+Ac II Train Fare To Be arranged by customer)
+@Quoted Per Man Day

@@ -1,0 +1,67 @@
+Quotation Number: Q25W10174R2
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+TDLS Based Oxygen Analyzer
+Tag no: AT6509
+Service: Flue Gas
+Area Classification: Zone 1 Gr IIA/IIB, T4
+MODEL: Gas Eye
+Make: Air optic Poland
+Analyzer Type: Cross Duct Type
+Mounting: In-situ, directly on the stack
+Principle of operation: TDLAS
+Enclosure rating: IP66 rated
+Measurement Ranges
+-
+O2: 0 - 21%
+Process Connection:
+-
+Process Connection: 4” #300RF
+Path Length: To be provided by customer.
+Process Conditions
+-
+Temperature (nor): 800 - 1100 Deg C
+-
+Pressure (nor): -50 MMWC
+Individual Utility Panel (SS Plate) with Purge Accessories:
+-
+MOC of plate: SS316, 2mm Thick mounted on Stack directly
+-
+Air filter Regulator, Ball Valve, tubings and fittings and other
+accessories as required.
+-
+Loop Cable
+Available Outputs:
+-
+4 x Analog output 4-20mA for measuring component
+-
+8 x Digital Outputs (Purge fail).
+-
+MODBUS RTU (Optional)
+Utilities:
+-
+Instruments Air/ N2 @ 4-6 Bar near the purge plate.
+-
+24 VDC power supply
+-
+Process Purge Flow Rates: 5-50 l/min
+1 No
+Quoted
+-
+Sensor Purge Flow Rates: 0.2/7 l/min
+-
+Power Consumption: 30 VA max
+Analyser Features:
+-
+Local User Interface: Human Machine Interface (HMI) LCD
+backlight display located on the transmitter housing lid
+-
+Self-Calibration Features: Internal reference gas compartment
+is used for closed loop control of the zero and span drift.
+With Cylinder for Span Check.
+Notes:
+-

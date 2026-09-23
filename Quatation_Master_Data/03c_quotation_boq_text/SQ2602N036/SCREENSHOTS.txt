@@ -1,0 +1,14 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+SN Auction QUOTATION DETAILS TEMPLATE — ADDITIONAL INFO
+OTG Order to GRN : 20/02/2026 06:00 PM oa ; 20/03/2026 06:00 PM fr] ee
+ITEM * a Wa ([) BASICPRICE* |, {"] PANDF CHARGES , {] PANDF CHARGES VALUE-PERUNIT , [_} FREIGHT |, |
+Q) vmoscooena rman =
+ADDITIONAL INFO
+Destination Inco Terms * Inco Terms 2 (Delivery Location) *
+PALI CEMENT WORKS-PCO01 FOR-Free on Road v PALI CEMENT WORKS
+Mode of Dispatch P and F charges Delivery Text *
+RD-By Road v Inclusive v Within 20 weeks from the date of receipt of Purchase Order
+Freight Scope * Quote Manual
+| > |

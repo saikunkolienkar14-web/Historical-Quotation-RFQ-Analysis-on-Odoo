@@ -1,0 +1,124 @@
+Quotation Number: Q2503H09R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER-COKE OVEN
+GAS
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Mounting Location: Inside Existing Analyser Room Area
+Classification: Safe Area
+Measuring Range:
+
+CV: 3500 to 5000 Kcal/Nm3
+Primary Sample Handling System Consisting of:
+
+Pre-Sample Conditioning & Purification System
+consisting of Diesel Bubbler, Water Bubbler, High
+Impact Chamber.
+Secondary Handling System Consisting of:
+
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve.
+
+Coalescing Filter, Pressure regulators.
+
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+
+Shall be mounted on rack inside existing analyser
+room, MOC: CRCA.
+ANALYZER SPECIFICATIONS:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+ Kind of Gas: Coke Oven Gas
+ Power supply 230V, 50 Hz
+ Power consumption: 185 VA
+Output:
+ Individual 4-20 mA analog output for Calorific value,
+Wobbe Index and Specific gravity resp.
+ RS232 Serial Output
+2 SETS
+56,90,000
+1,13,80,000
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+2
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER MIXED GAS
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Mounting Location: Inside Existing Analyser Room
+Area Classification: Safe Area
+Measuring Range:
+• CV: 700 to 1500 Kcal/Nm3
+Primary Sample Handling System Consisting of:
+
+Pre-Sample Conditioning & Purification System
+consisting of Diesel Bubbler, Water Bubbler, High Impact
+Chamber.
+Secondary Handling System Consisting of:
+
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve.
+
+Coalescing Filter, Pressure regulators.
+
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+
+Shall be mounted on rack inside existing analyser room,
+MOC: CRCA.
+ANALYZER SPECIFICATIONS:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+ Kind of Gas: Mixed Gas
+ Power supply 230V, 50 Hz
+ Power consumption: 185 VA
+
+Output:
+ Individual 4-20 mA analog output for Calorific value, Wobbe
+Index and Specific gravity resp.
+ RS232 Serial Output
+1 SET
+56,90,000
+56,90,000
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+@ 3,950 PER METER
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+4
+Service charges for supervision of installation & commissioning
+Lodging and boarding to be arranged by the customer. To and Fro
+charges to be claimed at actuals (ACII TIER/flight).
+@30,000 PER MAN DAY
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+External Cabling, Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope.
+
+Customer shall provide Instrument Air/plant Nitrogen should be oil & moisture free @ 4-6 bar .
+
+Plant Water & Diesel is required as a utility for primary Sample handling System.
+
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (UPS)
+230 VAC, 50 Hz (NON- UPS)

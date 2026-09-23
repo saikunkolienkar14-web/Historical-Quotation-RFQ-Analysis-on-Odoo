@@ -1,0 +1,181 @@
+Quotation Number: Q25G10106T0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+O2 Analyzer – Extraction type, Tag No.: AT-1001
+Quoted
+Quoted
+2
+1
+Hydrogen Analyzer - Extraction Type, Tag No.: AT-1002 Quoted
+Quoted
+3
+1
+Commissioning, Mandatory and two years operational
+spares.
+(Spares List attached as per Adage recommendation)
+Quoted
+Quoted
+4
+1
+Supervision of installation & Commissioning for
+10 days
+Quoted
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1
+O2 ANALYZER TO BE PLACED IN FIELD RACK
+1 No.
+Quoted
+Sample Probe:
+-
+1.5’’ 300# RF flange
+-
+Probe tube with welded isolation valve
+Customer to provide the process dimension details.
+1 No.
+Quoted
+PSHS system for Nitrogen Stream
+-
+Isolation Ball valve, filter, pressure gauge, pressure
+regulator, Flow meter with Low flow switch etc., and same
+shall be mounted inside wall mounted CRCA enclosure on
+field Skid.
+1 No.
+Quoted
+Sample Tubing
+1/4" OD SS316- from Tapping to PSHS
+5 Mtrs
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+10 Liter gas cylinder with cylinder pressure regulators.
+1 Set
+Quoted
+TAG NO: AT-1001
+Service: Hydrogen
+MODEL: oxy.iq oxygen transmitter
+MAKE: GE Panametrics
+IP Rating: IP20 (shall be mounted inside IP65 rated SHS
+Enclosure).
+Range: 0-1%
+Power: 24VDC loop powered
+Hazardous Area Classification: Intrinsically safe, Class 1, Div 2,
+Groups ABCD
+Cable Length: 2 meters
+Mounting Location: in Field Primary SHS
+We shall provide 1/2" flange connection for sample outlet of the
+analyser, at the Analyzer Rack. Further connection to low
+pressure header shall be in customer scope.
+Communication output shall be 4-20mA analog output only.
+2
+H2 ANALYZER TO BE PLACED IN FIELD RACK
+TAG NO: AT-1002
+Service: Oxygen
+MODEL: XMTCpro Thermal Conductivity Transmitter
+MAKE: GE Panametrics
+Enclosure Package: Aluminum enclosure, explosion proof, with
+display
+IP Rating: IP66
+Range: 0-2%
+Power : 24VDC
+Hazardous Area Classification: Zone-2, Group IIC, T4
+Mounting Location: in Field Primary SHS
+We shall provide 1/2" flange connection for sample outlet of the
+analyser, at the Analyzer Rack. Further connection to low
+pressure header shall be in customer scope.
+Communication output shall be 4-20mA analog output with
+RS485.
+1 No.
+Quoted
+Sample Probe:
+-
+1.5’’ 300# RF flange
+-
+Probe tube with welded isolation valve
+Customer to provide the process dimension details.
+1 No.
+Quoted
+PSHS system for Nitrogen Stream
+-
+Isolation Ball valve, filter, pressure gauge, pressure
+regulator, Flow meter with low flow switch etc., and same
+shall be mounted inside wall mounted CRCA enclosure on
+field Skid.
+1 No.
+Quoted
+Sample Tubing
+1/4" OD SS316- from Tapping to PSHS
+5 Mtrs
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+10 Liter gas cylinder with cylinder pressure regulators.
+1 Set
+Quoted
+SECTION 4: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of Mandatory spares, as per adage recommendation
+Yes
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+12
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+13
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+14
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+15
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+16
+Supply of 2 years O&M spares, as per adage recommendation
+Yes
+17
+Training at Site- OPTIONAL
+18
+Training at Goa facility- OPTIONAL
+19

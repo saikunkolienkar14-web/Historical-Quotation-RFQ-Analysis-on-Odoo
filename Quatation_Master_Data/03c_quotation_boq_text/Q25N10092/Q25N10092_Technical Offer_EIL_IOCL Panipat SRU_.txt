@@ -1,0 +1,245 @@
+Quotation Number: Q25N10092
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+GROUP A- H2S/THC Analyser
+Tag No : 414-AT-1101
+Service: H2S/THC analyser on amine acid gas header
+Make: AMETEK, Model: IPS4
+Analyser : IP65/NEMA 4X enclosure.
+Operating Principle: Multiwave UV/IR
+Area Classification: Zone 2, IIA/IIB, T3
+Mounting Location: Field Cabinet with AC
+Component to be measured: H2S , THC
+Measuring Ranges: H2S: 0 - 100 VOL%, THC: 0 - 5 VOL%
+Power Supply: 110 VAC, 50/60 Hz,
+Power Consumption: 750 Watts
+Analyser Shall be mounted on Field cabinet
+-
+Field cabinet MOC: SS316,
+-
+With Canopy Extending 500mm in all Directions MOC:SS304
+-
+Power Distribution Panel, LM6, Junction Boxes, header and
+accessories.
+-
+With Ex-Proof AC.
+Process Conditions at sample Inlet
+-
+Temperature (Design/Operating): 150/60 °C
+-
+Inlet Pressure (Design/Operating): 35/0.7 Kg/cm2g
+-
+Sample Return to Process line.
+Sample Probe Details: Designed & Supplied by Ametek.
+-
+Heater Acid gas Probe (HAG), Make: Ametek
+-
+Area Classification: Zone 2, IIB + H2, T3
+-
+Connection: 2" 150# RF Flanged
+-
+Power Supply: 110 VAC, 50/60 Hz, 150 Watts
+Tubing Details:
+-
+1/4” SS316 EHT Duplex Tube 10 Mtr Max.
+-
+Power Supply: 230 VAC, 50/60 Hz, 70 Watts/Meter
+Calibration:
+-
+Auto Zero & Manual Span
+1 No
+Quoted
+-
+With Calibration cylinders, 10 litre Capacity and Cylinder
+pressure regulators for 6 months Operation after SAT.
+-
+Type of gas for Zero calibration: Plant N2
+-
+Type of gas for span: H2S X 1NOS, THC X 1NOS
+-
+Calibration line tubing MOC: SS316
+-
+Calibration cylinders: 2 Sets.
+Analyzer Specifications:
+-
+Linearity: UV: 1% of full-scale range
+-
+Accuracy: UV: 1% of full-scale range
+-
+Repeatability: UV: 1% of full-scale range
+-
+Stability: 0.5% of full-scale range
+-
+Zero drift: <1.0% of full-scale range over 24 hours
+-
+Response time: < 30 Seconds
+-
+Ambient temperature: Rated up to 50 Deg C.
+Analyzer Output:
+-
+Local display
+-
+RS485 Modbus
+-
+Isolated outputs (standard: 4-20 mA)
+-
+Dry relay contacts (NO, 100VA, 240 V)
+Utility Requirement:
+-
+110VAC,750W 50 Hz UPS Power Supply for Analyser
+-
+120VAC, 50Hz, 150W UPS Power Supply for HAG Probe
+-
+230VAC, 50Hz Non-UPS, 70W per meter for HTT
+-
+Instrument Air/Plant N2 is required @ 5 - 7 Barg (80-100
+psig) (Oil & Dust free) for analyser approximately
+consumption shall be 150 LPM.
+-
+Instrument air @ 2.1 Bar (30L/Min) required for HAG probe.
+Note:
+All the electrical components shall be CCOE/PESO Certified.
+2
+GROUP B- H2 MEASUREMENT ANALYSER
+Tag No.: 416-AT-3401
+Service: H2 Analyser for process gas from quench column
+Make: AMETEK
+Model: 934 Gas Analyzer
+Operating Principle: TCD Detector
+Area Classification: Zone 2, IIA/IIB, T3
+Mounting Location: Field Cabinet with AC
+1 No
+Quoted
+Component to be measured: H2.
+Measuring Ranges: H2: 0 - 8 VOL%
+Power Supply: 110 VAC, 50 Hz, 550 Watts with HAG probe
+Analyser Shall be mounted on Field cabinet
+-
+Field cabinet MOC: SS316,
+-
+With Canopy Extending 500mm in all Directions MOC:SS304
+-
+Power Distribution Panel, LM6, Junction Boxes, header and
+accessories.
+-
+With Ex-Proof AC.
+Process Conditions at sample Inlet
+-
+Temperature (Design/Operating): 175/57 °C
+-
+Inlet Pressure (Design/Operating Nor(Min)): 3.5/0.1(-5)
+Kg/cm2g
+-
+Sample Return to Process line.
+Sample Probe Details: Designed & Supplied by Ametek.
+-
+Heater Acid gas Probe (HAG), Make: Ametek
+-
+Area Classification: Zone 2, IIA/IIB, T3
+-
+Connection: 2" 150# Flanged
+-
+Power Supply: 110 VAC/230 VAC, 50/60 Hz
+Tubing Details:
+-
+1/4” SS316 EHT Duplex Tube 10 Mtr Max.
+-
+Power Supply: 230 VAC, 50/60 Hz, 70 Watts/Meter
+-
+Make: Thermon/Ametek
+Calibration:
+-
+Auto Zero & Manual Span
+-
+With Calibration cylinders, 10 litre Capacity and Cylinder
+pressure regulators
+-
+Type of gas for Zero calibration: Plant N2
+-
+Type of gas for span: H2 X 1NOS
+-
+Calibration line tubing MOC: SS316
+-
+Calibration cylinders: 2 Sets.
+Analyzer Specifications:
+-
+Accuracy: ±1.0% full-scale of standard ranges
+-
+Linearity: Better than ±1% of full scale
+-
+Repeatability: Better than ±0.5% of full scale range
+-
+Zero drift: Better than 2% of full-scale range, with auto zero
+disabled, over 24-hour period
+-
+Response time: < 30 Seconds
+-
+Ambient temperature: Rated up to 50 Deg C.
+Analyzer Output:
+-
+4-20mA output for each measuring component.
+-
+RS485 Modbus port; RS232/RS485 service port
+-
+Five Pot free relay contacts (2A, 240 V)
+Utility Requirement:
+-
+110 VAC, 50 Hz UPS Power Supply – 500W for Analyser
+-
+120VAC, 50Hz, 150W UPS Power Supply for HAG Probe
+-
+Instrument Air is required @ 5-7 Barg (80-100 psig) (Oil &
+Dust free) Near Analyser Skid
+-
+240 VAC, 50 Hz UPS Power Supply for heat tracing – 70W
+per meter
+Note:
+-
+All the electrical components shall be CCOE/PESO
+Certified.
+3
+GROUP C- TDLS Based Oxygen Analyzer
+Tag Nos.: 452-AE/AT-3101
+Service: At Arch of Heater 452-H1001
+Hazardous Area: Zone-2 Gr, IIA/IIB, T3
+Make: Air optic Poland
+Model: Gas Eye
+Mounting Location: In-situ Cross Duct Type.
+Principle: TDLAS (Tunable Diode Laser Absorption
+Spectroscopy)
+Enclosure Protection: IP66
+Process Parameters:
+-
+Temperature (Design/Operating): 810/1000 °C
+-
+Inlet Pressure (Design/Operating): (-50 to +25)/- 2.5 mmwc
+Measuring Range:
+-
+0-10 Vol% O2
+Analyzer Output:
+-
+With 4-20 mA Analog output
+-
+With RS-485 MODBUS Serial Output
+-
+Potential free contacts for fault
+1 No
+Quoted
+Utilities:
+-
+Instruments Air/ N2 @ 4-6 Bar near the purge plate.
+-
+110VAC, 50 Hz power supply
+Analyzer Features:
+-
+Local User Interface: Human Machine Interface (HMI) LCD
+backlight display located on the transmitter housing lid
+-
+Self-Calibration Features: Internal reference gas compartment
+is used for closed loop control of the zero and span drift.
+Remarks:
+-

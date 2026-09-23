@@ -1,0 +1,185 @@
+Quotation Number: SQ2501E002R2
+BOQ Status: FOUND
+
+REFERENCE/RFQ No: EMAIL ENQUIRY ON 12.09.2025
+KIND ATTENTION: PURCHASE DEPARTMENT
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28612100
+Differential pressure sensor for
+CWD2005
+1.00
+39,000.00
+39,000.00
+1
+02402199924
+Nos
+28612060
+ELECTRONIC WITH PRESSURE
+SENSOR GAS INLET ; PART NO :
+CW05-S-E-SENPIGA
+1.00
+29,500.00
+29,500.00
+2
+02402199965
+Nos
+28612059
+Electronic pressure sensor gas
+1.00
+50,500.00
+50,500.00
+3
+02402199966
+Nos
+28612099
+Air Fan Type 24VDC with DP Sensor,
+P/N 02402499998 (Old
+02403199982), Union
+1.00
+375,612.00
+375,612.00
+4
+02403199982
+Nos
+28612010
+PURY250 S ,Thermoelectric gas
+cooler with integrated stainless steel
+pre-filter and condensate pump
+1.00
+668,400.00
+668,400.00
+5
+03100199997
+Nos
+28612096
+Specific Gravity Sensor, Measuring
+range 0,2 – 2,2 dv,
+1.00
+735,242.00
+735,242.00
+6
+02402199978
+Nos
+28612018
+Electronic Module Intern for
+CWD2005
+1.00
+261,550.00
+261,550.00
+7
+02402199976
+Nos
+28612049
+Module- Union Instrument
+1.00
+294,240.00
+294,240.00
+8
+02402199975
+Nos
+28728025
+Pressure regulator type 912N/112,Pin
+max. : 17,2 bar,Range: 30 - 60 mbar
+(spring blue)
+1.00
+61,610.00
+61,610.00
+9
+84401199896
+Nos
+Ref: Q24250431-SQ2501E002R2
+Date: 15-09-2025
+28612097
+Regulator for CWD2005 Inlet
+Pressure: max. 50 mbar Outlet
+Pressure: 4 mbar
+1.00
+212,871.00
+212,871.00
+10
+02401199947
+Nos
+28728003
+RGLTR,100 MBR;10-30 MBR;NPT
+FEM THRDED- Pressure Regulator
+Sample Gas
+1.00
+19,480.00
+19,480.00
+11
+02401199986
+Nos
+28932041
+Solenoid valve block equipped with 2
+solenoid valves, P/N 02401199803
+(Old 02401199845), UNION
+1.00
+243,745.00
+243,745.00
+12
+02401199803
+Nos
+28932020
+PUMP,BELLOW, P/N 07301399998,
+UNION
+1.00
+76,700.00
+76,700.00
+13
+07301399998
+Nos
+28612056
+Thermopile with 24 thermo elements,
+Diameter: 1,0mm
+1.00
+155,476.00
+155,476.00
+14
+02403199997
+Nos
+28612066
+Heat exchanger 0,2mm incl gasket
+1.00
+83,722.00
+83,722.00
+15
+02401199894
+Nos
+1.00
+75,164.00
+75,164.00
+16
+02402199985
+Nos
+28612057
+Ignition electrode
+1.00
+37,953.00
+37,953.00
+17
+02402199987
+Nos
+28932050
+Central Unit for CWD 2005 Without
+Conversion Kit, Controller 10", P/N
+87402199995, Union
+1.00
+459,832.00
+459,832.00
+18
+87402199995
+Nos
+28612048
+Transformer, Ignition; Detail : Ignition
+Transformer with Ignition Lead And
+Plug
+Ref: Q24250431-SQ2501E002R2
+Date: 15-09-2025

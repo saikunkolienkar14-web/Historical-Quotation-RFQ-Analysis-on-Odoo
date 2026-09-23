@@ -1,0 +1,85 @@
+Quotation Number: Q2504N060R4
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR DRY GAS APPLICATION
+Service: Common gas duct before gasholder
+Application: Dry Gas (BOF Process)
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: CO2/CO/O2
+Model 2: CALOMAT 6E
+Component to be measured: H2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature: upto 850 Deg C
+•
+Pressure: -3 mbar
+Measuring Ranges:
+•
+CO2: 0-50%
+•
+CO: 0-100%
+•
+O2: 0-25%
+•
+H2: 0-100%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System.
+•
+With Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopad
+50 mtrs
+(25 mtrs/probe)
+@QUOTED PER METER
+3
+TUBING
+1⁄4” SS- 30 mtrs (calibration line, condensate drain)
+1⁄2” SS- 25 mtrs (vent line, outer purging line)
+LUMPSUM
+INCLUSIVE
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per Diem
+@QUOTED PER DIEM
+Notes:
+1. Customer to provide distance from the probe to the panel for sample gas pump sizing and selection. For now, we have
+considered as per Adage Job No: NB19/4246, SMI PO NO.: 4700021204 Dated: 06.02.2019

@@ -1,0 +1,344 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION. In reference to
+the same, please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+BUDGETARY OFFER
+
+ADAGE QUOTE REF:
+Q26S10105R0
+DATED : 28.04.2026
+BID TYPE : BQ
+PROJECT TITLE:
+Upgradation of AMETEK 880NSL to AMETEK 888 NSL Analyzer.
+INQUIRY DETAILS:
+Enquiry received via mail from Mr.A Ajit Kumar dated: 16.02.2026
+CUSTOMER:
+
+Kind Attention : Mr.A Ajit Kumar
+Mangalore Refinery and Petrochemicals Limited (MRPL)
+END USER:
+
+Mangalore Refinery and Petrochemicals Limited (MRPL)
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: SUMMARY OF PRICES
+SECTION-2: TECHNICAL LITERATURE
+SECTION-3: COMMERCIAL TERMS AND CONDITIONS
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Sanjit Sardessai
+ADAGE AUTOMATION PVT LIMITED
+sanjit@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introfuce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES (UPGRADATION OF EXISTING ANALYSER)
+
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+3 Nos
+Upgradation of 880 to 888 NSL Analyser
+2,55,00,000/-
+7,65,00,000/-
+2
+1 Lot
+Mandatory Spares of 888 Analyser as per
+Annexure A
+2,46,50,000/-
+2,46,50,000/-
+3
+3 Lots
+Installation & commissioning charges
+2,50,000/-
+7,50,000/-
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: TECHNICAL LITERATURE
+
+Why Upgrade to AMETEK 888 from 880?
+
+Ametek 880
+
+Ametek 888
+
+1. Increased Reliability – Improved thermal management extends electronics life and reduces
+unexpected failures.
+2. Predictive Diagnostics – Smart monitoring detects early warning signs, minimizing unplanned
+downtime.
+3. Better Process Protection – Automatic flow control and flange temperature alarms help prevent
+analyzer damage.
+4. Higher Ambient Capability – Operates in hotter environments without requiring additional cooling
+systems.
+5. Modern Connectivity – Ethernet, Modbus, and web-based interface allow remote monitoring and
+easier integration with DCS systems.
+6. Direct Replacement Design – Engineered for easier upgrade from existing 880-NSL installations
+with minimal modification.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Upgradation of 880 to 888 NSL Analyser
+
+1
+Air Demand Analyser:
+
+Make: AMETEK
+Model: 888
+Hazardous Area Classification: Zone 2 IIC T3
+Principle: Non-dispersive UV
+Analyzer mounting: Pipe mounted Direct on tapping point with
+canopy
+Measuring Range: H2S 0 – 2 MOL%, SO2 0 – 1 MOL%.
+
+Probe Details:
+-
+Fixed Probe, MOC: SS316L
+-
+2” 150# RF flange.
+-
+With Hot air & condensate steam blowback.
+
+Utility Requirement:
+-
+110 VAC, 50/60 Hz UPS Power Supply For Analyser.
+-
+Power Consumption: 550 Watts
+-
+Steam for blowback
+-
+Instrument Air/N2 is required @ 5-7 Bar (80-100 psig) (Oil &
+Dust free) for analyser and aspirator.
+
+Analyzer Outputs:
+-
+Four 4-20 mA, H2S (0-2 VOL%), SO2(0-1 VOL%),
+-
+RS485 Serial Communication Port, two-wire.
+
+Analyzer Specifications:
+-
+Accuracy: H2S and SO2: ±1% of full scale
+-
+Reproducibility: ±1% of full scale
+-
+Speed of response :90% in less than 15 seconds
+-
+Ambient conditions: -20 to 60°C
+-
+Ingress Protection: IP65
+-
+Enclosure material: SS316
+
+Calibration
+-
+Zero calibration is done via Instrument air.
+-
+Span calibration is done internally & hence calibration cylinder is
+not required.
+
+3 Nos
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+Ex works, Goa
+Packing Charges
+Inclusive.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from date of PO
+Offer validity
+30 days.
+Payment Terms
+20% Advance with the Purchase Order, 20 % against drawing approval, Balance
+60 % against Proforma Invoice on readiness of material prior to dispatch.
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.
+
+Sr No.
+Description
+QTY
+1 Measuring Cell Rebuild Kit
+1
+2 888 Demister Pad Kit:
+Includes SST Pads (QTY: 2) and Teflon Pads (QTY: 2)
+1
+3 Conax Gland Seal
+1
+4 Battery, Fuse, and Varistors Kit
+1
+5 888 Flash Lamp Lens Replacement Kit
+1
+6 Assembly, PCB Xenon Lamp Board, RoHS
+1
+7 Detector CAL Filter Assembly
+1
+8 Detector Printed Circuit Board (PCB), RoHS
+1
+9 Assembly, Pressure Sensors on Bracket
+1
+10 Power Supply DIN Rail Mount Output 24 VDC 5A 120 W
+1
+11 Assembly PCB DC/DC Converter
+1
+12 Temperature Signal Converter, 24 VDC, IECEx and SIL-2 CER
+1
+13 Assembly, Sensor Interface, RoHS, Serial Number Re- quired (S/n:XXXX)
+1
+14 Programmed, AMEVision Board (Host Display Board), Serial Number Required
+1
+15 Assembly, PCB, Host Display MCU Board
+1
+16 LCD Display, Color, 4.2", 1/4 VGA, 480 X 272, 3.3 V
+1
+17 Keypad, Host Interface, SST
+1
+18 Gauge, Pressure, Dual 200 KPA/30 PSIG Back Center Mount
+1
+19 Proportional Valve
+1
+20 Regulator, Manifold Block, 1–100 PSIG
+1
+21 Regulator, Proportional Valve, 0–25 PSIG
+1
+22 Valve Solenoid 12 VDC 3-Way
+1
+23 Assembly, 888 Pressure Transducer with Connector
+1
+24 Toggle Valve
+1
+25 Check Valve, Aspirator
+1
+26 Check Valve, Zero Flush
+1
+27 Orifice, Division 2 Electronic Section Purge, 200 Micron
+1
+28 Orifice, Pressure Transducer Purge, 50 Micron
+1
+29 Orifice, Trickle Purge between Aspirator and Zero Flush Valves, 150 Micron
+1
+30 120 VAC, Complete Heater Assembly, with RTDs, Cartridge and Plate, ATEX/IECEx Zone 1
+1
+31 RTD, Cell, 12", Formed
+1
+32 RTD, Demister, 8"
+1
+33 RTD, Flange, 24", Formed
+1
+34 Gasket, Double Block SJ Ball Valve
+1
+35 WP.FILTER BAND PASS .5D 232NM
+1
+36 WP.FILTER BAND PASS .5D 280NM
+1
+37 WP.FILTER BAND PASS 0.5D 254NM
+1
+38 WP.FILTER BAND PASS .5D 400NM
+1
+ANNEXURE-A
+Mandatory Spares Ametek ADA 888

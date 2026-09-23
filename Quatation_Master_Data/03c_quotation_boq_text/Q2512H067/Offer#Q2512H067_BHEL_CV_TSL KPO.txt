@@ -1,0 +1,113 @@
+Quotation Number: Q2512H067
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR COG
+MODEL: CWD
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 1500-4000 Kcal/Nm3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for Single
+tapping system for handling Impurities such as Tar,
+Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: Coke Oven Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value, Wobbe Index
+and Specific gravity resp.
+1 SET
+62,00,000
+62,00,000
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+2
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR BFG
+MODEL: CWD
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 800- 2000 Kcal/Nm3
+Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: BF Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+Individual 4-20 mA analog output for Calorific value, Wobbe Index and
+Specific gravity resp.
+1 SET
+59,50,000
+59,50,000
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+TUBE SIZE: 1⁄2”
+WITH NECESSARY JB’s AND ACCESSORIES
+@4500 PER METER
+4
+ESERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+CCOMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (Ac II Tier/Flight).
+@30000 PER METER
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005

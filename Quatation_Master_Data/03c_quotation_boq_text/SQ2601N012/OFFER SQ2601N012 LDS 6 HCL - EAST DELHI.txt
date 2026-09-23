@@ -1,0 +1,20 @@
+Quotation Number: SQ2601N012
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR. NO.
+DESCRIPTION
+TOTAL PRICE [INR]
+1
+Repairing of Lds 6 analyzer Sr No: - N1-C8-100691
+
+Replacement of Opto – module.
+
+Configuration of laser firmware.
+
+Temperature configuration of laser.
+
+Replacement of PCB1.
+
+Replacement of power supply.
+20,20,000.00

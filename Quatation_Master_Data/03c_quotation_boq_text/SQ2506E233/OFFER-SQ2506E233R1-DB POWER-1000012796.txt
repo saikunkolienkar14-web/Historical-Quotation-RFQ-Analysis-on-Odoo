@@ -1,0 +1,69 @@
+Quotation Number: SQ2506E233R1
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+D-R 820 F SP Inlet filter 148x148mm
+suitable for D-R 820 F
+- inlet filter for D-R 820 F probe
+- dimension: 148x148mm
+1
+18,651.00
+18,651.00
+2
+3-way ball valve suitable for D-R 820F
+- 3/2-way ball valve G1/2" for D-R 820 F Sonde
+- incl. 90° swivel drive 85240VAC/DC
+-incl. 3 sealings
+-incl. distance shaft
+1
+4,44,554.00
+4,44,554.00
+3
+D-R 820 F T Set brushes suitable for D-R 820 F
+consisting of:
+- 4x brush
+- 1x extension
+- for probe cleaning
+1
+1,57,341.00
+1,57,341.00
+4
+D-R 820 F SP P-L200-D13-E
+suitable for D-R 820 F
+- sample nozzle for probe
+- l=190 mm, id=13 mm
+- with flange od=64 mm
+- material 1.4571
+- for flue gas velocity 2-14m/s
+- incl. gasket and screws
+1
+1,42,591.00 1,42,591.00
+5
+D-R 820 F SP Filter mat 120x120mm
+suitable for D-R 820 F
+- filter mat for inlet filter of probe
+- dimension: 120x120mm
+1
+2,036.00
+2,036.00
+6
+D-R 820 SP Solenoid valve 230 V
+suitable for D-R 820 F
+- for probe 230 V
+- for switching of dilution air
+1
+1,67,852.00
+1,67,852.00
+7
+D-R 820 F T Pin wrench
+suitable for D-R 820 F
+- tool for demounting of injector
+1
+10,683.00
+10,683.00

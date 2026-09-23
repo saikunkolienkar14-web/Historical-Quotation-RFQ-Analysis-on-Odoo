@@ -1,0 +1,28 @@
+Quotation Number: SQ2504E114R2
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT RATE
+[INR]
+TOTAL RATE
+[INR]
+1.
+AMC Charges for CV Analyser Maintenance
+Price shall be considered below
+1. Quaterly preventive maintenance visit.
+2. Backup support from Adage Automation
+8 nos.
+visit
+45,000.00
+3,60,000.00
+2.
+AMC Charges for CV Analyser Maintenance
+Price shall be considered below
+1. Emergency visit.
+2. Backup support from Adage Automation
+4 nos.
+visit
+45,000.00
+1,80,000.00
+**1 no. visit consists of 1 day.

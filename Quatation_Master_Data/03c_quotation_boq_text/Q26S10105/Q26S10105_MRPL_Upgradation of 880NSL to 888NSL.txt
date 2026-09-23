@@ -1,0 +1,109 @@
+Quotation Number: Q26S10105R0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+3 Nos
+Upgradation of 880 to 888 NSL Analyser
+2,55,00,000/-
+7,65,00,000/-
+2
+1 Lot
+Mandatory Spares of 888 Analyser as per
+Annexure A
+2,46,50,000/-
+2,46,50,000/-
+3
+3 Lots
+Installation & commissioning charges
+2,50,000/-
+7,50,000/-
+SECTION 2: TECHNICAL LITERATURE
+Why Upgrade to AMETEK 888 from 880?
+Ametek 880
+Ametek 888
+1. Increased Reliability – Improved thermal management extends electronics life and reduces
+unexpected failures.
+2. Predictive Diagnostics – Smart monitoring detects early warning signs, minimizing unplanned
+downtime.
+3. Better Process Protection – Automatic flow control and flange temperature alarms help prevent
+analyzer damage.
+4. Higher Ambient Capability – Operates in hotter environments without requiring additional cooling
+systems.
+5. Modern Connectivity – Ethernet, Modbus, and web-based interface allow remote monitoring and
+easier integration with DCS systems.
+6. Direct Replacement Design – Engineered for easier upgrade from existing 880-NSL installations
+with minimal modification.
+Upgradation of 880 to 888 NSL Analyser
+1
+Air Demand Analyser:
+Make: AMETEK
+Model: 888
+Hazardous Area Classification: Zone 2 IIC T3
+Principle: Non-dispersive UV
+Analyzer mounting: Pipe mounted Direct on tapping point with
+canopy
+Measuring Range: H2S 0 – 2 MOL%, SO2 0 – 1 MOL%.
+Probe Details:
+-
+Fixed Probe, MOC: SS316L
+-
+2” 150# RF flange.
+-
+With Hot air & condensate steam blowback.
+Utility Requirement:
+-
+110 VAC, 50/60 Hz UPS Power Supply For Analyser.
+-
+Power Consumption: 550 Watts
+-
+Steam for blowback
+-
+Instrument Air/N2 is required @ 5-7 Bar (80-100 psig) (Oil &
+Dust free) for analyser and aspirator.
+Analyzer Outputs:
+-
+Four 4-20 mA, H2S (0-2 VOL%), SO2(0-1 VOL%),
+-
+RS485 Serial Communication Port, two-wire.
+Analyzer Specifications:
+-
+Accuracy: H2S and SO2: ±1% of full scale
+-
+Reproducibility: ±1% of full scale
+-
+Speed of response :90% in less than 15 seconds
+-
+Ambient conditions: -20 to 60°C
+-
+Ingress Protection: IP65
+-
+Enclosure material: SS316
+Calibration
+-
+Zero calibration is done via Instrument air.
+-
+Span calibration is done internally & hence calibration cylinder is
+not required.
+3 Nos
+Quoted
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+Inclusive.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from date of PO
+Offer validity
+30 days.

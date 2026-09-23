@@ -1,0 +1,337 @@
+Quotation Number: Q2604N030
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+Unit Price
+(INR)
+1
+CABINET 1
+Area Classification: Zone 2, IIC, T1
+Consisting of the following Analysers
+-
+With Trace Oxygen Analyser (tag no: 08AT0135002)
+Make : E&H
+Model: Oxy5500
+Measuring Range : 0- 15 ppm
+-
+With Moisture Analyser (tag no : 08AT0135003)
+Make : Air Optics
+Model : GasEye Extractive
+Measuring Range: 0- 60 ppm
+With filed mounted Primary sample handling system with mounting
+plate.
+With Secondary Sample Handling System comprising of the following
+-
+Ball Valves
+-
+Flow monitors
+-
+Pressure Regulator with Pressure Indicator
+-
+solenoid valves, filters etc
+-
+Above shall be completely tubed and wired and mounted in a panel
+With Sample Handling Tubes and fittings from Analyser panel to
+Bulkhead plates
+1 Set
+QUOTED
+Note: Please note that since this is an export offer, all the calibration gas cylinders and associated accessories
+like cylinder pressure regulators shall be in Air liquid's scope.
+SECTION 1: SUMMARY OF PRICES
+2
+CABINET 2
+Area Classification: Zone 2, IIC, T1
+Consisting of the following Analysers
+-
+With Trace Oxygen Analyser ( tag no : 08AT0235002)
+Make: E&H
+Model: Oxy5500
+Measuring Range : 0- 15 ppm
+-
+With Moisture Analyser ( tag no : 08AT0235003)
+Make : Air Optics
+Model : GasEye Extractive
+Measuring Range: 0- 60 ppm
+With filed mounted Primary sample handling system with mounting
+plate.
+With Secondary Sample Handling System comprising of the following
+-
+Ball Valves
+-
+Flow monitors
+-
+Pressure Regulator with Pressure Indicator
+-
+solenoid valves, filters etc
+-
+Above shall be completely tubed and wired and mounted in a panel
+With Sample Handling Tubes and fittings from Analyser panel to
+Bulkhead plates
+1 Set
+QUOTED
+Note: Please note that since this is an export offer, all the calibration gas cylinders and associated accessories
+like cylinder pressure regulators shall be in Air liquid's scope.
+3
+CABINET 3
+Area Classification: Zone 2, IIC, T1
+Consisting of the following Analysers
+-
+With Trace Oxygen Analyser ( tag no: 92AT0035502)
+Make : E&H
+Model: Oxy5500
+Measuring Range : 0- 15 ppm
+-
+With Moisture Analyser ( tag no: 92AT0035503)
+Make : Air Optics
+Model : GasEye Extractive
+Measuring Range: 0- 60 ppm
+With filed mounted Primary sample handling system with mounting
+plate.
+With Secondary Sample Handling System comprising of the following
+-
+Ball Valves
+-
+Flow monitors
+-
+Pressure Regulator with Pressure Indicator
+-
+solenoid valves, filters etc
+-
+Above shall be completely tubed and wired and mounted in a panel
+With Sample Handling Tubes and fittings from Analyser panel to
+Bulkhead plates
+1 Set
+QUOTED
+Note: Please note that since this is an export offer, all the calibration gas cylinders and associated accessories
+like cylinder pressure regulators shall be in Air liquid's scope.
+4
+CABINET 4
+Area Classification: Zone 2, IIC, T1
+Consisting of the following Analysers
+-
+Analyser for measurement of N2(tag no: 92AT0035501A) and CO2
+(tag no: 92AT0035501B)
+Make : Valmet
+Model : Maxum GC
+Stream Note • Cycle time 4 min
+• N2: LOD 10ppmV and ALARM/TRIP LEVEL: 300 ppmv
+• CO2: LOD 0,1 ppmV and ALARM/TRIP LEVEL: 2 ppmv
+•
+Maxum Oven: Dual Airless
+•
+Detector: Thermal Conductivity (IS-TCD) Flame Ionization
+•
+Catalytic Air Treater: Included (Shipped Separately)
+•
+Network: 2x Ethernet 10/100 Mb (twisted pair) with RJ45 connectors
+•
+Modbus Data Format: 32-bit IEEE Floating Point
+•
+Analog Outputs: 2
+•
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+•
+Digital Inputs: 4
+Sample Handling System comprising of the following
+-
+Ball Valves
+-
+Flow monitors
+-
+Pressure Regulator with Pressure Indicator
+-
+solenoid valves, filters etc
+-
+Above shall be completely tubed and wired and mounted in a panel
+With Sample Handling Tubes and fittings from Analyser panel to
+Bulkhead plates
+1 Set
+QUOTED
+Note:
+1. Please note that since this is an export offer, all the calibration gas cylinders and associated
+accessories like cylinder pressure regulators shall be in Air liquide's scope.
+2. Please note that the above 4 cabinets shall be mounted in a temperature controlled room by the
+customer.
+5
+CABINET 5 ( FIELD MOUNTED )
+Area Classification: Zone 2, IIC, T1
+Consisting of the following
+-
+Oxygen Analyser (tag no:08AT013001)
+Make : Siemens AG Germany
+Model : Oxymat 61
+Measuring range : 0- 2.5 %
+Sample Handling System comprising of the following
+-
+Ball Valves
+-
+Flow monitors
+-
+Pressure Regulator with Pressure Indicator
+-
+solenoid valves, filters etc
+-
+Above shall be completely tubed and wired and mounted in a
+panel with heater
+1 Set
+Quoted
+Note: Please note that since this is an export offer, all the calibration gas cylinders and associated accessories
+like cylinder pressure regulators shall be in Air Liquide's scope.
+6
+CABINET 6 ( FIELD MOUNTED )
+Area Classification: Zone 2, IIC, T1
+Consisting of the following
+-
+Oxygen Analyser (tag no:08AT023001)
+Make : Siemens AG Germany
+Model : Oxymat 61
+Measuring range : 0- 2.5 %
+Sample Handling System comprising of the following
+-
+Ball Valves
+-
+Flow monitors
+-
+Pressure Regulator with Pressure Indicator
+-
+solenoid valves, filters etc
+-
+Above shall be completely tubed and wired and mounted in a
+panel with heater
+1 Set
+Quoted
+Note: Please note that since this is an export offer, all the calibration gas cylinders and associated accessories
+like cylinder pressure regulators shall be in Air liquide's scope.
+LIQUID ANALYSERS
+1
+pH ANALYSER FOR COOLING WATER
+Tag nos : 90AT 0110002, 90AT 0210002
+Area Classification : Safe
+Make : Emerson
+Model : Rosemount 3900
+Sensor: 3900-02-10 with 4.6 meters cable
+Transmitter: 1066-P-HT-60 (24 VDC+4-20mA output + HART )
+2" Pipe Mounting Kit PN :23820-00
+1/2"NPT Flow thru tee one Numbers,
+MOC- SS316
+Sensor temperature and pressure : –10° to 100°C , 100 psig
+Range: 0-14 Ph
+With sample conditioning system consisting of pressure regulator ,
+pressure guage and flowmeter.
+2 Set
+QUOTED
+2
+pH ANALYSER FOR WASTE WATER
+Tag no: 91AT 0030001
+Area Classification : Safe
+Make : Emerson
+Model : Rosemount 396
+PH Sensor: 396P-02-10-55 with 4.6 meters cable
+Transmitter : 1066-P-HT-60 (24 VDC+4-20mA output+HART)
+2" Pipe Mounting Kit PN :23820-00
+SS tag plate PN: 9240048-00
+1/2"NPT Flow thru tee one Numbers, MOC- SS316-Emerson vendor
+Sensor temperature and pressure :0 -100 °C,Hemi-bulb: 0 to 150 psig (0 to
+10.34 barg)
+Range: 0-14 pH
+With sample conditioning system consisting of pressure regulator ,
+pressure guage and flowmeter.
+1 Set
+QUOTED
+3
+CONDUCTIVITY ANALYZER
+Tag nos: 08AT 0130003,08AT 0230003
+Area Classification : Zone 2, IIC, T1
+Analyser Certification for transmitter :ATEX with Ex ia IIC T4 Ga.
+Make : Emerson
+Model : Rosemount 400
+Cond. Sensor: 400-12 (Cell Constant: 0.1)
+Transmitter : 1066-C-HT-73(24 VDC+4-20mA output+HART)
+2" Pipe Mounting Kit PN :23820-00
+1/2"NPT Flow thru tee one Numbers, MOC- SS316
+Sensor Pressure & Temperature: 0 to 105 °C, 250 psig
+Range : 0.1 - 2000 μS/cm
+With sample conditioning system consisting of pressure regulator ,
+pressure guage and flowmeter.
+2 Set
+QUOTED
+4
+CONDUCTIVITY ANALYZER
+Tag Nos: 90AT 0110001,90AT 0210001,90AT 0114001A,90AT
+0114001B,90AT 0114001C,90AT 0214001A,90AT 0214001B,90AT
+0214001C
+Area Classification : Safe
+Make : Emerson
+Model : Rosemount 402
+Conductivity Sensor: 402-11-31 ( Retractable) ;
+Cell Constant: 0.01
+11⁄4" Ball Valve Assembly PN:23765-00
+Transmitter: 1066-C-HT-60 (24 VDC+4-20mA output+HART)
+2" Pipe Mounting Kit PN :23820-00
+Sensor Pressure & Temperature: 0 to 100 °C, 200 psig
+Range : 0.01 - 200 μS/cm
+8 Sets
+QUOTED
+5
+CONDUCTIVITY ANALYZER
+Tag no: 90AT 0014003
+Area Classification : Safe
+Make : Emerson
+Model : Rosemount 402
+Cond. Sensor: 402-12-31 ( Retractable)
+Cell Constant: 0.1
+11⁄4" Ball Valve Assembly PN:23765-00
+Transmitter: 1066-C-HT-60(24 VDC+4-20mA output+ HART)
+2" Pipe Mounting Kit PN :23820-00
+Sensor Pressure & Temperature: 0 to 100 °C, 200 psig
+Range: 0.1 - 2000 μS/cm
+1Set
+QUOTED
+6
+TURBIDITY ANALYZER
+Tag no: 90AT 0014003
+Area Classification : Safe
+Make : Emerson
+Model : Rosemount T1056 Turbidimeter
+Sensor: ISO Sensor
+Transmitter : T1056 - 02 - 10 - 20 - 32-7 with 6.1 mtr integral cable
+With mounting plate having pre mounted Needle valve , rotameter etc
+Pipe/Wall mounting kit PN:23820-00
+Turdidity sensor Pressure & Temperature : 5 to 35 °C,30 psig
+Range : 0-200 NTU
+1Set
+QUOTED
+7
+Service charges for supervision of installation & commissioning
+(boarding – lodging – local conveyance & to & fro air ticket, work permit & visa
+to be arranged by customer)
+@Quoted per man
+day
+NOTES
+Liquid Analysers
+1. For pH tags Please note that Retractable assembly is not suitable for the high pressure values
+provided in the data sheets, hence we have quoted with extractive type configuration with
+flowthrough cell and pressure regulator.
+2. For tags 08AT 0130003,08AT 0230003 the offered analysers extractive configuration instead of
+immersion type as per technical specification due to high pressure limitation .
+3. The offered analysers are ATEX with Ex ia IIC T4 certified and will be applicable only for the
+transmitters.
+4. Please note that for turbidity analyser retractable assembly with wiper is not applicable
+Wiper or any cleaning mechanism is required when the range of the turbidity is more than 200
+NTU however required range specified in TS is 10 NTU. Secondly, the offered design of turbidity
+analyser is such that the sensor within the debubbler mechanism which has constant flow rate
+keeping the sensor clean. Also the sensor design is flush and is at an angle of 45 degrees, which
+does not allow the impurities to hold on to the sensors for long.
+General notes applicable for all analysers
+•
+Please note that certifications like UL, FM, CSA, CE, etc are not applicable for this project.
+•
+Please note that suitable insulation and hot box if required any in cryogenic service shall be in
+air liquide’s scope.
+•
+Please note that for Electrical PDBs the makes have note been specified , hence we will quote
+with Flexpro and FEPL make .
+•
+Please note that since this is an export offer, all the calibration gas cylinders and associated
+accessories like cylinder pressure regulators shall be in Air liquide's scope.

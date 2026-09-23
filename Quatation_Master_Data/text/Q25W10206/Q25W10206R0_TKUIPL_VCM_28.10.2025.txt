@@ -1,0 +1,850 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to 
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing 
+and Supply of analyzer system as per your requirement. 
+ 
+TECHNICAL OFFER 
+ 
+ADAGE QUOTE REF: 
+Q24W10206 
+DATED : 28.10.2025 
+BID TYPE : Firm 
+PROJECT TITLE: 
+Analyzer Package for VINYLS PROGRAM 1000 KTA VINYL CHLORIDE 
+MONOMER (VCM) 
+INQUIRY DETAILS: 
+RFQ No: JT-N23P02-D11NPV-JN0001-TIN-Q-00 
+CUSTOMER: 
+
+Kind Attention : 
+Thyssenkrupp Uhde India Pvt. Ltd. 
+END USER: 
+
+Reliance Chemicals and Materials Limited 
+Nagothane Manufacturing Division, India 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Clarifications/Assumptions 
+SECTION-2: Revision History 
+SECTION-3: Technical Literature 
+SECTION-4: Scope Defination 
+
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr. Himanshu Kapoor 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9460219551 
+Himanshu@adage-automation.com 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+
+SECTION 1 : CLARIFICATIONS/ASSUMPTIONS 
+ 
+This covers the outlines offering philosopy and considerations in our 
+detailed offer. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 1: ASSUMPTIONS/CLARIFICATIONS 
+ 
+1. Assumptions and clarifications shall be as per our final technical offer Q25W10131R6 for VCM 
+Analyser package. Additionally please refer below points. 
+ 
+2. 3 Stream Chlorine analyser for Tag No. 021AT151033 shall be mounted inside Field Mounted 
+SS316 Cabinet type 20 painted with Ex-Proof Panel Air conditioner unit. Fast loop and spend 
+sample shall be returned to SOW via liquid recovery system(Part of offering). 
+ 
+3. Stream selection for Chlorine analyser shall be dobe from DCS. 
+ 
+4. 3 Stream gas chromatograph for Tag No. 021AT141011 shall be mounted inside existing shelter 
+assembly PV021-SHR-001 (AH-1). Spend sample shall be returned to SOW via existing common 
+liquid recovery system. Fast Loop Return to MP-PV021-P141001A/B/C (Return piping by TKIS) 
+ 
+5. Wetted part MOC for SHS shall be SS316L as indicated in Datasheets. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+
+ 
+SECTION 2 : REVISION HISTORY 
+ 
+ This covers the offer revision history with remarks. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+Revision History 
+ 
+Rev No. 
+Date 
+Revision Details 
+R0 
+28.10.2025 
+Initial submission – Technical offer 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+
+SECTION 3 : TECHNICAL LITERATURE 
+ 
+ This covers the detailed offer & SOW for the complete package. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+SUMMARY OF ANALYZERS IN AH. 
+Mounting configuration for AH-1(Train-1 and Train-2) Analyzers 
+Sr No 
+Tag Number 
+Analyzer Type 
+Make/Model 
+ 
+Wetted Part MOC 
+ 
+1.1 
+021AT141011 
+022AT141011 
+3 Stream Process 
+Gas Chromatograph 
+(FID) 
+Applied Analytics 
+OMA300 
+Analyzer : Hastelloy 
+SHS : SS316L 
+
+Field Cabinet Mounted Analyzers 
+1.1 
+021AT151033 
+022AT151033 
+3 Stream Chlorine Analyser 
+(UV-VIS spectrophotometer) 
+Applied Analytics 
+OMA300 
+Analyzer: SS316L 
+SHS : SS316L 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+DETAILED OFFER OF ANALYZERS MOUNTED INSIDE 
+ANALYZER HOUSE 1 
+(TRAIN-1 & TRAIN-2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+S.N. 
+Item Description 
+Qty. 
+Price (INR) 
+1 
+3 Stream Gas Chromatograph 
+Tag No: 021AT141011 / 022AT141011 
+Service1: Furnance Feed EDC 
+Service2: Furnance Feed EDC 
+Service3: Furnance Feed EDC 
+MODEL: Maxum ll 
+MAKE: Valmet 
+Hazardous Area Classification: Zone 1, IIB+H2, T3 
+Type: FID Detector 
+CT time: 12-13 Minute 
+Mounting Location: Inside AH1 Tag PV021-SHR-001 
+Streams: 3 
+ 
+Str-1 Measurement range 
+ 
+Str-2 Measurement Range 
+ 
+Str-3 Measurement Range 
+
+1 Nos for 
+each train 
+
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+Process Conditions for Str -1 AP131012 
+- 
+Supply Pressure (Operating): 10.2 Kg/cm2g 
+- 
+Temperature (Operating): 127°C 
+ 
+Process Conditions for Str -2 AP131010 
+- 
+Supply Pressure (Operating): 9.8 Kg/cm2g 
+- 
+Temperature (Operating): 38°C 
+ 
+Process Conditions for Str -3 AP141011 
+- 
+Supply Pressure (Operating): 40.5 Kg/cm2g 
+- 
+Temperature (Operating): 114°C 
+ 
+Return Details: 
+- 
+Sample Return to: Spend sample to SOW via Liquid recovery 
+system by vendor, further connection by TKIS 
+- 
+Fastloop Return to: MP-PV021-P141001A/B/C (Return piping 
+by TKIS) 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+
+The wetted part MOC for all the SHS components including 
+sample probes, SCS and Transportation line Wetted part shall 
+be SS316L. Analyzer wetted part MOC : Hastelloy 
+ 
+Common fast loop return for Tag 021AT151001, 021AT141011 
+and 021AT141001 
+ 
+Valmet assume 2-Chloro-1,3-Butadiene as chloroprene 
+measurement. 
+1.1a 
+Sample Probe: 
+- 
+1.5’’ 300# RF Flange 
+- 
+Probe tube, MOC: S316L with welded isolation valve 
+ 
+2 Nos for 
+each train 
+Quoted 
+ 
+1.1b 
+Sample Transportation Line 
+- 
+1/2’’ SS316L Prefab Insulated tube for stream 1, 275 Meters 
+- 
+1/2’’ SS316L Prefab Insulated tube for stream 2, 275 Meters 
+- 
+Stream 3 shall be from analyser tag 021AT141001 
+1 Lot for 
+each train 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+- 
+1’’ pipe (Common) for fast loop return (190 Meters by RIL) 
+ 
+Note : 
+- 
+Stream 3 is fed to this GC from analyser tag 021AT14001. 
+- 
+Common fast loop return for Tag 021AT151001, 
+021AT141011 and 021AT141001 
+
+1.1c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 type 20 coated 
+Enclosure 
+- 
+Existing Liquid recovery system is considered 
+ 
+1 No for 
+each train 
+Quoted 
+1.1d 
+Calibration cylinders 
+- 
+With calibration blend along with cylinder pressure regulator 
+- 
+With Auto change over regulators with Skid with canopy 
+ 
+Carrier Gas Detail : Grade 5 Hydrogen(in RIL Scope) 
+Fuel Gas Detail : Grade 5 Hydrogen(in RIL Scope) 
+1 Each 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+DETAILED OFFER OF ANALYZERS MOUNTED IN 
+FIELD CABINET 
+ (TRAIN-1 and TRAIN-2) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+S.N. 
+Item Description 
+Qty. 
+Price (INR) 
+1.1 
+3 Stream Chlorine Analyzer 
+ 
+Tag No: 021AT151033 / 022AT151033 
+Service1: Recycle EDC 
+Service2: Recycle EDC 
+Service3: Recycle EDC 
+MODEL: OMA300 
+MAKE: Applied Analytics 
+Hazardous Area Classification: Zone 1, IIC, T3 
+Detector: UV-Vis spectrophotometer 
+Mounting Location: Field Cabinet with Ex-Proof Air conditioner 
+Streams: 3 
+Sample Phase: Liquid 
+Measurement range : 0-50ppm 
+ 
+Process Conditions for Str -1 AP151033 
+- 
+Supply Pressure (Operating): 7.1 Kg/cm2g 
+- 
+Temperature (Operating): 50°C 
+ 
+Process Conditions for Str -2 AP151034 
+- 
+Supply Pressure (Operating): 1.3 Kg/cm2g 
+- 
+Temperature (Operating):51°C 
+ 
+Process Conditions for Str -3 AP151035 
+- 
+Supply Pressure (Operating): 1.2 Kg/cm2g 
+- 
+Temperature (Operating): 50°C 
+ 
+Return Details: 
+- 
+Sample Return to: Spend sample and fast loop sample shall 
+be return to SOW via Liquid recovery system by vendor, 
+further connection by TKIS 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1 No for 
+each train 
+Quoted 
+1.1a 
+Sample Probe: 
+- 
+2’’ 300# FF Flange; MOC SS316L 
+- 
+Probe tube, MOC: SS316L, with welded isolation valve 
+MOC SS316L 
+1 Nos for 
+each train 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+1.1b 
+Sample Probe: 
+- 
+2’’ 150# FF Flange; MOC SS316L 
+- 
+Probe tube, MOC: SS316L, with welded isolation valve 
+MOC SS316L 
+2 Nos for 
+each train 
+Quoted 
+ 
+1.1c 
+Sample Transportation tube: 
+- 
+1/2’’ SS316L Prefab Insulated tube for stream 1, 50 Meters 
+- 
+1/2’’ SS316L Prefab Insulated tube for stream 2, 50 Meters 
+- 
+1/2’’ SS316L Prefab Insulated tube for stream 2, 50 Meters 
+- 
+ 
+1 Lot for 
+each train 
+Quoted 
+1.1d 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 type 20 coated 
+Enclosure 
+- 
+Existing Liquid recovery system is considered 
+ 
+1 No for 
+each train 
+Quoted 
+1.1e 
+Calibration cylinders 
+- 
+With calibration blend along with cylinder pressure regulator 
+- 
+With Auto change over regulators with Skid with canopy 
+
+1 Each 
+Quoted 
+1.1f 
+Analyzer Cabinet Assembly MOC : SS316 Type 20 Painted 
+- 
+With utility headers 
+- 
+With Power supply PDP’s 
+- 
+With signal JB’s 
+- 
+With Non-redundant Ex-Proof Air conditioner 
+
+1.1g 
+Liquid Recovery system, SS316L100 Ltr capacity and redundant 
+Pump (SS316L) configuration 
+1 Lot for 
+each train 
+Quoted 
+2 
+Startup & Commissioning spares for Chlorine analyzer 
+• 
+Colimators x 1 No. 
+• 
+600 Micron 1.8 Meter Fiber optic cable x 1No. 
+1 Set 
+Quoted 
+3 
+Mandatory spares for chlorine analyser 
+• 
+Nova-II light source replacement x 1 No. 
+• 
+FFKM O ring x 4 No 
+1 Set 
+Quoted 
+4 
+Supervision of installation & commissioning 
+ 
+Lumpsum 
+Quoted 
+5 
+Packing & Forwarding charges 
+1 No 
+Quoted 
+6 
+Transportation up to Site charges 
+1 No 
+Quoted 
+7 
+Project documentation 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+8 
+FAT at Goa works 
+1 No 
+Quoted 
+9 
+Training at Goa works 
+1 No. 
+Quoted 
+10 
+Training at Site 
+1 No. 
+Quoted 
+11 
+OEM Functional Test reports for all analyzers with certified 
+blends 
+1 No. 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: SCOPE DEFINITION 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of 
+complete analyzer system, Site acceptance test for analyzer package shall be as per MR. 
+• 
+All Analyzerscomplete with all hardware, software and necessary accessories 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analyzersand Shelter & accessories (as per Commercial 
+Terms) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyzer system 
+• 
+Supply of spares and consumables as per MR requirements (If ordered) 
+• 
+Training at site as per MR requirements (If ordered). 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation 
+of Analyzers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, pre-fabricated 
+electrical traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer shelter 
+& sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzer Shelters/Cabinets/Racks, Internal Shifting from 
+Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of field Cable and cable trays for Power supply / analog and Digital signal / serial 
+communication cables/field tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery 
+limit near each Analyzer Shelter/Cabinet/Rack in field.

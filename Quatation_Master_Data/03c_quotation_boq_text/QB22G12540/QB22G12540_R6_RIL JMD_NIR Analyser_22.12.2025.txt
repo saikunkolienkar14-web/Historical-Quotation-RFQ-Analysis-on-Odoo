@@ -1,0 +1,663 @@
+Quotation Number: QB22G12540_R6
+BOQ Status: FOUND
+
+Qty
+Description
+Total Price (INR)
+1
+40515-13206
+1 No.
+Dual Beam NIR O analyzer.
+2,59,47,500/-
+1.1
+506-03-000006
+6 Nos.
+Model Development (Old Properties)
+1.2
+20788-10001
+1 No.
+Software – OmniView
+1.3
+11711-00021
+1 No.
+Software – Solo Predictor
+1.4
+45310-10001
+1 No.
+Stability Monitoring System
+1.5
+36100-00005
+1 No.
+Crate NIR-O Analyzer
+1.6
+405-02-002823
+2 Nos.
+Multi-Purpose Flow Cell (MPFC)
+26,51,000/-
+1.7
+405-02-000362
+4 Nos.
+Ultra-Low OH Fiber Optic Cable (20
+mtrs)
+11,16,000/-
+1.8
+12522-016rC
+# 1 No.
+O-Ring Kit For 10 mm Path 1Length
+NIR Multipurpose Flowcell
+65,000/-
+1.9
+40611-10001
+# 1 Lot
+NIR-O Spare Part Assembly
+(Set of 8 Pc.)
+6,14,000/-
+1.10 11711-00031
+1 No.
+Software- Solo
+Method development software
+package
+8,17,000/-
+1.11
+-
+1 No
+Safe area Monitor mounted inside
+analyser house
+1,00,000/-
+1.12 BRS30 Switch
+1 No
+Ethernet to FO converter is
+considered along with required Patch
+Panel and Patch cords at the PIB
+end.
+2,10,000/-
+Notes:
+#: Mandatory Spares
+OPTION: 2 (NEW ANALYSER WITH ADDITION OF NEW PARAMETERS)
+Sr
+No
+Part No.
+Qty
+Description
+Total Price (INR)
+2
+40515-13206
+1 No.
+Dual Beam NIR O analyzer.
+3,59,88,000/-
+2.1
+506-03-000006
+6 Nos
+Model Development (Old Properties)
+2.2
+506-03-000006
+12 Nos
+Model Development (New Properties)
+2.3
+20788-10001
+1 No.
+Software – OmniView
+2.4
+11711-00021
+1 No.
+Software – Solo Predictor
+2.5
+45310-10001
+1 No.
+Stability Monitoring System
+2.6
+36100-00005
+1 No.
+Crate NIR-O Analyzer
+2.7
+405-02-002823
+2 Nos.
+Multi-Purpose Flow Cell (MPFC)
+26,50,000/-
+2.8
+405-02-000362
+4 Nos.
+Ultra-Low OH Fiber Optic Cable (20
+mtrs)
+11,16,000/-
+2.9
+12522-016rC
+# 1 No.
+O-Ring Kit For 10 mm Path 1Length
+NIR Multipurpose Flowcell
+65,000/-
+2.10 40611-10001
+# 1 Lot
+NIR-O Spare Part Assembly
+(Set of 8 Pc.)
+6,14,000/-
+2.11 11711-00031
+1 No.
+Software- Solo
+Method development software
+package
+8,17,000/-
+2.12
+-
+1 No
+Safe area Monitor mounted inside
+analyser house
+1,00,000/-
+2.13 BRS30 Switch
+1 No
+Ethernet to FO converter is
+considered along with required Patch
+Panel and Patch cords at the PIB
+end.
+2,10,000/-
+Notes:
+#: Mandatory Spares
+Notes
+A) Scope Matrix:
+1. Old Model data can be retrieved by RIL and send to Adage to upload on the new GW-
+NIR-O after 2 months from PO placement.
+2. Analyzer is configured for four streams. Existing SHS, flow cell and FO will be retained.
+Spare flow cell and FO cables are offered, and can be ordered by RIL
+3. A minimum of 20 sample spectra along with the associated laboratory analyses must be
+submitted for each parameter with each request for off-site model maintenance.
+4. A maximum of 3 updates per model per year. Only models for above mentioned
+parameters will be updated.
+If too few data is provided or data is missing for a certain parameter that parameter will
+not be updated and update will be done during the next model update phase.
+5. No NIR model for residue, sulphur, H2S liquid phase and H2S vapor phase is offered.
+Cetane index is a calculated value. So no NIR model is required.
+SECTION 2: SUMMARY OF PRICES FOR SERVICES
+1
+Supervision Of Installation & Commissioning Charges
+50,000/-
+Per Diem
+2
+Packing Forwarding And Transportation Charges
+1,50,000/-
+3
+Project Documentation
+Inclusive
+4
+Training Charges At Site For 2 Days
+1,00,000/-
+SECTION 3: TECHNICAL LITERATURE
+OPTION: 1 (NEW ANALYSER WITH OLD PARAMETERS)
+1
+NIR – O Analyzer
+Model: NIR-O
+Make: Process Insights (Guided Wave)
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2
+1 Set
+Quoted
+1
+Dual Beam NIR O analyzer.
+Area Classification: Certified, X- Purge, Zone 1 IIB+H2
+Controller (solid state) included Installed inside analyzer housing;
+ATEX Certified
+Number of Channels: 6
+Range: XNIR (1000-2100 nm)
+Power Supply: 110 VAC
+Temperature Management System
+Communication protocol: Modbus TCP/IP included
+Utility Details Required for Analyzer:
+110 VAC UPS: 2000 Watts
+Instrument air @5-6 kg/cm2g (Oil & water drop free)
+1 No
+Quoted
+1.1
+Model Upgradation for Measured Properties
+Sr
+No
+Existing
+Properties (Strm 1
+to Strm 3)
+Range
+Unit
+Normal
+1
+RVP @ 38 Deg C
+-
+-
+0.7
+2
+RON
+80 - 110
+OCT
+No.
+92
+3
+DIST @10%
+30 - 100
+°C
+50
+4
+DIST @50%
+70 - 150
+°C
+125
+5
+DIST @90%
+90 - 200
+°C
+150
+6
+ENDPOINT
+0 - 250
+°C
+215
+7
+RESIDUE (Not
+Measured)
+0 - 5
+%VOL
+2
+1 Lot
+Quoted
+1.2
+Software – OmniView
+Analyzer control software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+1.3
+Software – Solo Predictor
+Prediction Engine for calibration models developed in Solo.
+No method development software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+1.4
+Stability Monitoring System
+According to ASTM D6122
+Includes validation standard
+Installed inside NIR-O analyzer
+Uses one channel of NIR-O
+Real time monitoring of NIR-O performance
+1 No
+Quoted
+1.5
+Crate NIR-O Analyzer
+1 No
+Quoted
+1.6
+Multi-Purpose Flow Cell (MPFC)
+Body Material: Stainless Steel
+Range: 400-2100 nm
+SMA
+Kalrez 6375
+2 Nos
+Quoted
+1.7
+Ultra-Low OH Fiber Optic Cable
+Fiber Length: 20 meters
+Core Material: Fused Silica
+Core Diameter: 500 micron
+Connectors: SMA/SMA
+4 Nos
+Quoted
+1.8
+Kit O-Ring
+O-Ring Kit For 10 mm Path 1Length NIR Multipurpose Flowcell
+1 No
+Quoted
+1.9
+NIR-O Spare Part Assembly
+(Set of 8 Pcs.)
+1 No
+Quoted
+1.10 Software- Solo
+Method development software package
+1 No
+Quoted
+1.11 Safe area Monitor for Data check and configuration mounted
+in Analyser House.
+-
+Make: DELL / HP
+-
+Table Top Mount Type
+-
+Size: 24”
+-
+Ports. 2 x HDMI.
+-
+Power Supply: 230V, 50Hz
+1 No
+Quoted
+1.12 Ethernet to FO switch
+Make: Hirschmann
+Model: BOBCAT BRS30 Switch
+1 No
+Quoted
+OPTION: 2 (NEW ANALYSER WITH ADDITION OF NEW PARAMETERS)
+2
+NIR – O Analyzer
+Model: NIR-O
+Make: Process Insights (Guided Wave)
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2
+1 Set
+Quoted
+2
+Dual Beam NIR O analyzer.
+Area Classification: Certified, X- Purge, Zone 1 IIB+H2
+Controller (solid state) included Installed inside analyzer housing;
+ATEX Certified
+Number of Channels: 6
+Range: XNIR (1000-2100 nm)
+Power Supply: 110 VAC
+Temperature Management System
+Communication protocol: Modbus TCP/IP included
+Utility Details Required for Analyzer:
+110 VAC UPS: 2000 Watts
+Instrument air @5-6 kg/cm2g (Oil & water drop free)
+1 No
+Quoted
+2.1
+&
+2.2
+Measured Properties
+Sr
+No
+Existing
+Properties (Strm 1
+to Strm 3)
+Range
+Unit
+Normal
+1
+RVP @ 38 Deg C
+-
+-
+0.7
+2
+RON
+80 - 110
+OCT
+No.
+92
+3
+DIST @10%
+30 - 100
+°C
+50
+4
+DIST @50%
+70 - 150
+°C
+125
+5
+DIST @90%
+90 - 200
+°C
+150
+6
+ENDPOINT
+0 - 250
+°C
+215
+7
+RESIDUE
+0 - 5
+%VOL
+2
+Sr
+No
+New Properties
+(Strm 1 to Strm 3)
+Range
+Unit
+Normal
+1
+RVP @ 38 Deg C
+35 - 90
+kPa
+60
+2
+RON / MON
+80 - 100 /
+70 - 95
+Numb
+er
+92 / 82
+3
+E 70 oC
+20 - 50
+%
+30
+4
+E 100 oC
+30 - 100
+%
+60
+-
+-
+5
+E 150 oC
+50 - 100
+%
+90
+6
+E 180 oC (FBP)
+60 - 100
+%
+95
+7
+Benzene
+0 - 5
+%
+1
+8
+Aromatics
+10 - 50
+%
+35
+9
+Olifins
+5 - 50
+%
+20
+10
+Sulphur (Not
+Measured)
+0 - 100
+ppmw
+9 (Limit) /
+10
+(Value)
+11
+H2S (liquid Phase)
+(Not Measured)
+0 - 20
+ppm
+8 (Limit) /
+5 (Value)
+12
+H2S (Vapour
+Phase)
+(Not Measured)
+0 - 500
+ppm
+7 (Limit) /
+20
+(Value)
+13
+IBP
+0 - 50
+°C
+6 (Limit) /
+20
+(Value)
+Sr
+No
+New Properties
+(Strm 4)
+Range
+Unit
+Normal
+1
+Cetane no
+45 - 60
+-
+2
+FP
+30 - 90
+°C
+-
+3
+Cetane index
+30 - 60
+-
+4
+D95
+0 - 400
+-
+2.3
+Software – OmniView
+Analyzer control software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+2.4
+Software – Solo Predictor
+Prediction Engine for calibration models developed in Solo.
+No method development software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+2.5
+Stability Monitoring System
+According to ASTM D6122
+Includes validation standard
+Installed inside NIR-O analyzer
+Uses one channel of NIR-O
+Real time monitoring of NIR-O performance
+1 No
+Quoted
+2.6
+Crate NIR-O Analyzer
+1 No
+Quoted
+2.7
+Multi-Purpose Flow Cell (MPFC)
+Body Material: Stainless Steel
+Range: 400-2100 nm
+SMA
+Kalrez 6375
+3 Nos
+Quoted
+2.8
+Ultra-Low OH Fiber Optic Cable
+Fiber Length: 20 meters
+Core Material: Fused Silica
+Core Diameter: 500 micron
+Connectors: SMA/SMA
+4 Nos
+Quoted
+2.9
+Kit O-Ring
+O-Ring Kit For 10 mm Path 1Length NIR Multipurpose Flowcell
+1 No
+Quoted
+2.10 NIR-O Spare Part Assembly
+(Set of 8 Pcs.)
+1 No
+Quoted
+2.11 Software- Solo
+Method development software package
+1 No
+Quoted
+2.12 Safe area Monitor for Data check and configuration mounted
+in Analyser House.
+-
+Make: DELL / HP
+-
+Table Top Mount Type
+-
+Size: 24”
+-
+Ports. 2 x HDMI.
+-
+Power Supply: 230V, 50Hz
+1 No
+Quoted
+2.13 Ethernet to FO switch
+Make: Hirschmann
+Model: BOBCAT BRS30 Switch
+1 No
+Quoted
+SECTION 4: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+6
+Supply of Mandatory spares- Quoted
+Yes
+7
+Consumables spares- Not Applicable
+-
+-
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+17
+Training at Site
+Yes
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex – Works, Goa, India.
+Packing Charges
+3 % of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN CODE
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from the date of receipt of PO
+Offer validity
+30 days.

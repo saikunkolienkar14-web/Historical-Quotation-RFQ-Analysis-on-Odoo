@@ -1,0 +1,36 @@
+Quotation Number: SQ2601W004
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+01
+SGA CARD
+FOR ULTRAMAT 23 ANALYSER
+PART NUMBER: 18610028
+MAKE: SIEMENS
+01 No.
+1,12,500.00
+1,12,500.00
+02
+DATA LOGGER/ IOT DEVICE
+FOR DATA TRANSMISSION FROM PLANT TO
+CPCB/SPCB
+MAKE: ADAGE
+01 No.
+2,50,000.00
+2,50,000.00
+03
+COMMISSIOING
+Lumsum
+50,000.00
+50,000.00
+Note:
+1. We have considered data transmission for period of 1 year inclusive in above
+price.
+2. From 2nd year onwards per stack yearly renewal charges will be applicable
+Ref : SQ2601W004
+Dated :6.1.2026

@@ -1,0 +1,74 @@
+Quotation Number: Q2503N029
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+OPTION 1 - C2H2 & CH4 MEAUREMENT USING TDLS
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF C2H2 & CH4
+Measuring Principle: Laser Based
+Make: Airoptics
+Model: Gas Eye MG
+Protection Class: IP66
+Measurement Ranges: 0 – 10 ppm
+Accuracy: 2% of the measured value
+Precision: 1% of the measured value
+Detection Limit: < 0.01 ppm
+Response time below 0.1 sec
+With Calibration Gas Cylinder
+With Sample Handling System Consisting Of :
+Filters, Ball Valves, Pressure Regulators etc
+1 SET
+55,20,000
+55,20,000
+OPTION 2 - C2H2 MEAUREMENT USING TDLS
+2
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF C2H2
+Measuring Principle: Laser Based
+Make: Airoptics
+Model: Gas Eye SG
+Protection Class: IP66
+Measurement Ranges: 0 –10 ppm
+Accuracy: 2% of the measured value
+Precision: 1% of the measured value
+Detection Limit: < 0.01 ppm
+Response time below 0.1 sec
+With Calibration Gas Cylinder
+With Sample Handling System Consisting Of :
+Filters, Ball Valves, Pressure Regulators etc.
+1 SET
+39,90,000
+39,90,000
+OPTION 3 - C2H2 MEAUREMENT USING TDLS & CH4 USING THC
+3
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF C2H2 & CH4
+With Sample Handling System Consisting Of :
+Filters, Ball Valves, Pressure Regulators etc
+With Microprocessor Based Analysers
+With IP54 Panel
+With Calibration Gas Cylinder
+Gas Eye SG – 1 No
+Make: Airoptics
+For C2H2 Measurement
+FIDAMAT6– 1 NO.
+Make: Siemens Ag, Germany
+For THC Measurement
+1 SET
+62,40,000
+62,40,000
+4
+SS TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: 1⁄2’’ SS
+@650 PER METER
+5
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer.To And Fro
+Charges To Be Claimed At Actuals (Acii Tier/Flight)
+@30000 PER MAN DAY

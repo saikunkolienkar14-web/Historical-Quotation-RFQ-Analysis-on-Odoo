@@ -1,0 +1,935 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to 
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing and Supply of 
+analyzer system as per your requirement. 
+ 
+COMMERCIAL OFFER 
+
+ADAGE QUOTE REF: 
+Q25G10093R5 
+DATED : 15.05.2026 
+BID TYPE : Firm 
+PROJECT TITLE: 
+LLDPE/HDPE Swing Units (2 Nos.) For Bina Petrochemical And Refinery 
+Expansion Project (Bprep) 
+ 
+INQUIRY DETAILS: 
+MR No: BBEP-IN-QJ-J6-001, Rev.P0 
+Enquiry received via mail Dtd. 27.05.2026 
+ 
+CUSTOMER: 
+
+Kind Attention: Mr. Sathish kumar 
+L&T Energy Hydrocarbon Engineering 
+END USER: 
+
+BHARAT PETROLEUM CORPORATION LTD. (BPCL), Bina 
+ 
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Offering Basis 
+SECTION-2: Summery Of Prices 
+SECTION-3: Commercial Terms & Condition 
+ 
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+ 
+Mr. Sanjit Sardessai 
+ADAGE AUTOMATION PVT LIMITED 
+sanjit@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+ 
+16 offices across India 
+ 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+ 
+A team of over 300 professionals, including 200+ specialist engineers 
+ 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 1: OFFERING BASIS 
+ 
+A) GC configuration as per licensor document. 
+ 
+GC Configuration sheet 
+GC 
+No.
+Stream No. and detail 
+GC configuration 
+GC Model 
+GCs Mounted Inside Analyzer Shelter (AS-03) 
+GC-1 
+320-AT-2001001 
+(Ethylene from Supply) 
+1. The analyzer shall be configured as a 6-stream 
+sequential Gas Chromatograph (GC) 
+ 
+2. Sequential analysis shall be carried out between 
+Hydrogen, Ethylene, Cycle Gas 1, Cycle Gas 2, 
+Vent Recovery 1 & Vent Recovery 2 streams. 
+ 
+3. Manual stream switching selection box as 
+indicated in the dwg Att-5.6 &AE-J-SS 1103.009 
+(EN) shall be provided at field level for Hydrogen 
+and Ethylene processes. 
+ 
+4. Selected streams shall be routed to the 
+Secondary Sample Handling System (SSHS), 
+where 1 stream shall be selected from 6 streams 
+by means of AOVs. i.e. 1 stream shall be 
+measured at a time in the GC 
+ 
+5. The GC shall also function as a backup analyser 
+for CO and CO₂ measurements of Reactor Cycle 
+Gas and CO2 measurements of Vent Recovery 
+Lights Recycle Gas streams through automatic 
+switching logic 
+
+Maxum II 
+320-AT-2108051 
+(Ethylene from Deoxo Vessel) 
+320-AT-2113051 
+(Ethylene from Dryers) 
+320-AT-2110051 
+(Ethylene to Reaction) 
+320-AT-1221050 
+(Hydrogen from Supply) 
+320-AT-1207051 
+(Hydrogen to reaction) 
+320-AT-4002001 
+(Backup CO, CO2 Analysis of 
+Reactor Cycle gas 1) 
+320-AT-5210001 
+(Backup CO2 Analysis of Vent 
+Recovery Lights Recycle gas 1) 
+320-AT-4302001 
+(Backup CO, CO2 Analysis of 
+Reactor Cycle gas 2) 
+320-AT-5510001 
+(Backup CO2 Analysis of Vent 
+Recovery Lights Recycle gas 2) 
+GC-2 
+320-AT-2115052 
+(Regeneration Nitrogen from 
+Purification Vessels)
+This is a single stream GC which shall be connected to 
+ESD 
+Maxum II 
+GC-3 
+320-AT-2115051 
+(Regeneration Nitrogen from 
+Purification Vessels) 
+This is a single stream GC which shall be connected to 
+DCS 
+ 
+Maxum II 
+GCs Mounted Inside Analyzer Shelter (AS-01) 
+GC-4 
+320-AT-4002001 
+(Reactor Cycle Gas 1) 
+Dedicated GC for Reactor Cycle Gas compressor 1 
+Maxum II 
+GC-5 
+320-AT-5210001 
+(Vent Recovery Lights Recycle 
+Gas 1) 
+This GC shall measure Vent Recovery Lights Recycle Gas 
+as long as GC measuring Reactor Cycle Gas Composition 
+is not under maintenance. In case GC for Tag 320-AT-
+4002001 is under maintenance DCS shall provide signal 
+for Stream Switching, then only Reactor Cycle Gas shall 
+Maxum II 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+be measured in the GC by Automatic Stream Switching. 
+ 
+GCs Mounted Inside Analyzer Shelter (AS-02) 
+GC-6 
+330-AT-4302001 
+(Reactor Cycle Gas 2) 
+Dedicated GC for Reactor Cycle gas compressor 2 
+Maxum II 
+GC-7 
+320-AT-5210001 
+(Vent Recovery Lights Recycle 
+Gas 2) 
+This GC shall measure Vent Recovery Lights Recycle Gas 
+as long as GC measuring Reactor Cycle Gas Composition 
+is not under maintenance. In case GC for Tag 320-AT-
+4302001 is under maintenance DCS shall provide signal 
+for Stream Switching, then only Reactor Cycle Gas shall 
+be measured in the GC by Automatic Stream Switching. 
+ 
+Maxum II 
+ 
+B) We have Quoted below Make analysers: 
+ 
+1. Gas Chromatograph 
+ 
+Make: Valmet, Model: Maxum II 
+The communication output shall be ethernet/ RS 485 serial modbus output & 4-20mA analog output 
+for each measuring component. This also has digital outputs for customer configuration. 
+ 
+2. Paramagnetic Oxygen Analyser 
+ 
+Make: Siemens, Model: Oxymat 6F 
+The communication output shall be RS 485 serial modbus output & 4-20mA analog output for 
+measuring component. This also has digital outputs for customer configuration. 
+ 
+3. Electrochemical Oxygen Analyser 
+Make: GE Penametrics (Baker Hughes); Model: OXYIQ / D-FOX 
+The output shall be 4-20mA analog output for measuring component. 
+ 
+4. AL2O3 Moisture Analyser 
+Make: Michell instruments / COSA Xentaur; Model: Easidew Pro XP/ HDT 
+The output shall be 4-20mA analog output for measuring component. 
+ 
+5. Wobbe Index Analyser 
+Make: COSA Xentaur: Model: 9800 
+The output shall be 2 x isolated 4-20mA, with programmable span Backlit LCD screen Malfunction 
+relay 
+ 
+6. Conductivity Analyser 
+Make: Forbes Marshall; Model Transmitter : Aqua2Trans; Sensor Model : FM8310 
+The communication output shall be 4-20mA HART output for measuring component. This also has 
+digital outputs for customer configuration. 
+ 
+7. TOC Analyser condensate (UV Pursulphate Oxidation) 
+Make: Forbes Marshall / HACH; Model: FMTOC101/ Bio Tector 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+The communication output shall be 4-20mA analog and RS485 output for measuring component. 
+This also has digital outputs for customer configuration. 
+ 
+8. HC Analyser condensate (UV Fluorescence) 
+Make: Forbes Marshall; Model: CX2000 
+The communication output shall be 4-20mA analog and RS485 output for measuring component. 
+This also has digital outputs for customer configuration. 
+ 
+C) Clarifications: 
+ 
+1. The following electrical supplies shall be available at each analyser shelter and field cabinet/rack 
+assembly: 
+o 110 VAC +/- 3 %, 50 HZ single phase UPS backed. This supply will be for 
+analysers, shelter PLC, PLC purge unit, heated pressure regulators and wall 
+sockets. 
+o 415 VAC 50 Hz 3 phase. Typically used for HVAC systems (230 VAC shall be derived from 
+same by Adage) 
+ 
+2. All Standard field Power & Signal cable upto battery limit shall be in L&T scope of supply. 
+ 
+3. Any interconnecting Signal cable between instruments/ Power cable for HPR, HTT shall be in 
+Adage scope of supply. 
+ 
+4. All moisture sensors shall be located as close as possible to sample tapping,10 meter distance is 
+considered for all moisture tags. 
+ 
+5. The Consumable Chemicals, Calibration Liquids (for Liquid Analyzers), Carrier Gas Cylinder (as 
+applicable) & Calibration Gas Cylinders shall be supplied for each analyzer by Adage, for successful 
+completion of Factory Acceptance Test (FAT), commissioning & Site Acceptance Test (SAT) and 1 
+year operation after SAT. 
+ 
+6. All filters are provided in SHS shall be in Redundant Configuration as per MR specification. 
+ 
+7. Network hardware at shelter side shall be in Adage scope of supply, However FO cable, Network 
+hardware at AMS side shall be in L&T scope of supply. 
+ 
+8. All 4-20mA Hardwire Analog output signal cable for connection to DCS shall be in L&T scope of 
+supply. 
+9. All field analysers, Analog/Serial output shall be terminated at Analog signal JB/Communication JB. 
+Further distribution shall be in L&T scope of supply. 
+ 
+10. For all GC’s except Reactor Cycle Gas GCs, fast loop Sample return shall be directed to low 
+pressure header & Analyzer vent shall be returned to flare header through vent master at each 
+shelter. 
+ 
+11. For all liquid analyzers, sample shall be returned to Drain header. 
+ 
+12. All makes shall be as per Approved vendor list as per Annexure 11 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+13. Analyzer system shall be designed in consideration to the normal operating pressure & 
+Temperature conditions. However, to mitigate the design conditions suitable Accessories are 
+considered. 
+ 
+14. PSHS for Gas design shall be as per Licensor scheme below 
+
+15. PSHS for Liquid design shall be as per Licensor scheme below. 
+
+16. Typical Secondary SHS design shall be as per Licensor P&ID (As applicable for different tags) 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+17. Welded Sample Probe shall be as per below shown type. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 2: SUMMARY OF PRICES 
+ 
+Sr. 
+No. 
+Tag Nos 
+Item Description 
+Qty 
+Unit 
+Price(INR) 
+Total 
+Price(INR) 
+1-5 
+320-AE-1005050 
+320-AE-1008050 
+320-AE-1040050 
+320-AE-1027050 
+320-AE-1031050 
+H2O Analyser 
+5 Nos 
+18,70,000 
+93,50,000 
+6-7 
+320-AE-1421050 
+320-AE-1420050 
+H2O Analyser 
+2 Nos 
+18,70,000 
+37,40,000 
+8 
+320-AE-1108050A 
+H2O Analyser 
+1 No 
+38,00,000 
+38,00,000 
+9 
+320-AE-1108050B 
+O2 Analyser 
+1 No 
+10 
+320-AE-1112050A 
+H2O Analyser 
+1 No 
+38,00,000 
+38,00,000 
+11 
+320-AE-1112050B 
+O2 Analyser 
+1 No 
+12 
+320-AE-1207051C 
+H2O Analyser 
+1 No 
+Included in 
+Sr No 14 
+Included in 
+Sr No 14 
+13 
+320-AE-1221050C 
+H2O Analyser 
+1 No 
+Included in 
+Sr No 14 
+Included in 
+Sr No 14 
+14 
+320-AE-2001001 
+320-AE-2108051 
+320-AE-2110051 
+320-AE-2113051 
++ 
+320-AE-1221050 
+320-AE-1207051 
++ 
+320-AE-4002001 
++ 
+320- AE-5210001 
++ 
+330-AE-4302001 
++ 
+330-AE- 5510001 
+Gas Chromatograph 
+(Ethylene Stream) 
++ 
+(Hydrogen Purification) 
++ 
+(CO, CO2 Backup of Reactor Cycle 
+Gas 1) 
++ 
+(CO2 Backup of Vent Recovery 
+Lights Recycle Gas 1) 
++ 
+(CO, CO2 Backup of Reactor Cycle 
+Gas 2) 
++ 
+(CO2 Backup of Vent Recovery 
+Lights Recycle Gas 2) 
+ 
+1 No 
+3,78,00,000 
+3,78,00,000 
+15 
+320-AE-2001001G 
+320-AE-2108051F 
+H2O Analyser 
+4 No 
+Included in 
+Sr No 14 
+Included in 
+Sr No 14 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+320-AE-2113051F 
+320-AE-2110051F 
+16 
+320-AE-2001001H 
+320-AE-2108051E 
+320-AE-2113051E 
+320-AE-2110051E 
+O2 Analyser 
+Note: As per F2F discussion dtd. 
+15.04.2026, Common oxygen 
+analyser is considered in SSHS for 
+all 4 streams. 
+1 No 
+Included in 
+Sr No 14 
+Included in 
+Sr No 14 
+17 
+320-AE-2115052 
+Gas Chromatograph 
+(Regeneration Nitrogen Stream 
+connected to ESD) 
+1 No 
+63,13,000 
+63,13,000 
+18 
+320-AE-2115051 
+Gas Chromatograph 
+(Regeneration Nitrogen Stream 
+connected to DCS) 
+1 No 
+73,00,000 
+73,00,000 
+19 
+320-AE-2115051D 
+H2O Analyser 
+1 No 
+20 
+320-AE-2115051C 
+O2 Analyser (Paramagnetic) 
+Note: As per F2F discussion dtd. 
+15.04.2026, Oxygen analyser to be 
+mounted inside AS-03 
+1 No 
+38,00,000 
+38,00,000 
+21 
+320-AE-4002001 
+Gas Chromatograph 
+(Reactor Cycle Gas) 
+1 No 
+1,30,00,000 
+1,30,00,000 
+21.a 
+320- AE-5210001 
+(Vent Recovery Lights Recycle Gas) 
+1 No 
+1,35,00,000 
+1,35,00,000 
+22 
+330-AE-4302001 
+Gas Chromatograph 
+(Reactor Cycle Gas) 
+1 No 
+1,30,00,000 
+1,30,00,000 
+22.a 
+330-AE- 5510001 
+(Vent Recovery Lights Recycle Gas) 
+1 No 
+1,35,00,000 
+1,35,00,000 
+23-30 
+320-AE-4203004 
+320-AE-4208004 
+320-AE-4210004 
+320-AE-4212004 
+330-AE-4503004 
+330-AE-4508004 
+330-AE-4510004 
+330-AE-4512004 
+Total Hydrocarbon (THC) Analyser 
+ 
+* We understand this will be directly 
+on mounted on process line having 
+ambient pressure. If line is 
+pressurized / please refer to the take 
+off price of required SHS. 
+8 Nos 
+300,000 
+24,00,000 
+31-32 
+320-AE-9001006 
+320-AE-9011006 
+Wobbe Index Analyser 
+2 Nos 
+2,20,00,000 
+4,40,00,000 
+33 
+320-AE-9102005 
+TOC Analyser 
+1 No 
+50,00,000 
+50,00,000 
+34 
+320-AE-9113007 
+HC Analyser 
+1 No 
+47,00,000 
+47,00,000 
+35 
+320-AE-9113006 
+Conductivity Analyzer 
+1 No 
+7,60,000 
+7,60,000 
+36 
+320-AT-XXXXXX3 
+Portable Analyzer – H2O PPM 
+1 No 
+12,50,000 
+12,50,000 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+38 
+320-AT-XXXXXX1 
+Portable Analyzer – O2 PPM 
+1 No 
+10,00,000 
+10,00,000 
+37& 
+39 
+320-AT-XXXXXX4 
+320-AT-XXXXXX2 
+Portable Detector – O2 +LEL %VOL 
+1 No 
+4,80,000 
+4,80,000 
+40 
+320-AT-XXXXXX5 
+Additive Handling Enclosure- O2 
+Analyzer % VOL 
+Note:2 Nos Detectors considered for 
+Additive handling room. 
+2 Nos 
+1,50,000 
+3,00,000 
+41-43 
+320-AT-XXXXXX6 
+320-AT-XXXXXX7 
+330-AT-XXXXXX1 
+Particle Analyzer (Lube Oil) 
+Make: MPfiltri 
+3 Nos 
+26,00,000 
+78,00,000 
+44-46 
+320-AT-XXXXXX8 
+320-AT-XXXXXX9 
+330-AT-XXXXXX2 
+Moisture Analyzer (Lube Oil) 
+Make: MPfiltri 
+3 Nos 
+Included in 
+Sr No 41-43 
+Included in 
+Sr No 41-43 
+47 
+SHELTER – 1 
+Analyzer Shelter (3 x 3 x 3) 
+1 No 
+1,64,00,000 
+1,64,00,000 
+48 
+SHELTER - 2 
+Analyzer Shelter (3 x 3 x 3) 
+1 No 
+1,64,00,000 
+1,64,00,000 
+49 
+SHELTER - 3 
+Analyzer Shelter (4 x 3 x 3) 
+1 No 
+1,80,00,000 
+1,80,00,000 
+50 
+- 
+Supervision of installation and 
+Commissioning 
+Per 
+Diem 
+50,000 
+50,000 
+51 
+- 
+Startup and Commissioning Spares 
+1 Lot 
+50,000 
+50,000 
+52 
+ 
+Calibration, Carrier Cylinders & 
+Consumables Spares for 1 year 
+operation. 
+1 lot 
+91,00,000 
+91,00,000 
+53 
+- 
+Mandatory Spares 
+1 Lot 
+1,65,00,000 
+1,65,00,000 
+54 
+- 
+2 years Operational and 
+Maintenance Spares 
+1 Lot 
+1,07,00,000 
+1,07,00,000 
+55 
+- 
+Operation & Maintenance training at 
+Vendor works 
+Minimum 2 days for 6 Person 
+2 
+Days 
+100,000 
+100,000 
+56 
+CPCAMC: Comprehensive Post Commissioning Annual 
+Maintenance Contract (CPCAMC) for Gas Chromatograph 
+Analyzer with Shelter for 5 years. 
+1 Lot 
+6,00,00,000 
+6,00,00,000 
+57 
+NCPCAMC: Non-Comprehensive Post Commissioning 
+Annual Maintenance Contract for 5 years. 
+1 Lot 
+1,18,00,000 
+1,18,00,000 
+58 
+- 
+Inspection and Testing 
+1 Lot 
+5,00,000 
+5,00,000 
+59 
+- 
+Design Engineering and Project 
+Documentation 
+1 Lot 
+16,00,000 
+16,00,000 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Unit Rates 
+ 
+1 
+Signal Cables (4P, 1.0 Sq mm 
+Per Meter 
+450/- 
+2 
+Power Cables (3C, 2.5 Sq mm) 
+Per Meter 
+250/- 
+3 
+½” SS316 Insulated Tube 
+Per Meter 
+3000/- 
+4 
+½" SS316 EP Tube 
+Per Meter 
+9000/- 
+5 
+½” SS316 HTT Tube 
+Per Meter 
+6500/- 
+6 
+¼” SS316 Tube 
+Per Meter 
+1000/- 
+7 
+¼” SS316 EP HTT Tube 
+Per Meter 
+10000/- 
+8 
+¼” SS316 HTT Tube 
+Per Meter 
+5000/- 
+
+Optional Quoted 
+ 
+1 
+Probe, SHS, Analyser Rack etc.. Which are require 
+to install Moisture & Oxygen analyser which are 
+currently club with Gas chromatograph and install 
+in the PSHS of Gas chromatograph. 
+1 Lot 
+9,00,000 
+9,00,000 
+2 
+Analyser inspection and testing at analyser 
+manufacturing facility along with 4 persons 
+minimum (2 EPC contractor, 1 OEM,1 Licensor) 
+1 No 
+To Be 
+Quoted Later 
+To Be 
+Quoted Later 
+3 
+Cabinet with Non redundant Ex-Proof AC assembly 
+Note: This is Complete Take off price for analyser 
+cabinet with PDPs, headers, JBs & Ex-Proof AC 
+1 No 
+12,00,000 
+12,00,000 
+4 
+Electrochemical O2 Analyser 
+Make: GE Panametrics Model: D-FOX 
+Note: 1 No D-FOX Sensor with Single Channel 
+Controller 
+1 No 
+50,50,000 
+50,50,000 
+5 
+Workstation with GC Software 
+1 No 
+700,000 
+700,000 
+6 
+THC (LEL%) detector SHS 
+Note: Consisting of Probe, Skid, Aspirator, JBs 
+1 No 
+11,00,000 
+11,00,000 
+7 
+Fast Loop Pump Skid 
+1 No 
+16,00,000 
+16,00,000 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: COMMERCIAL TERMS & CONDITION 
+ 
+Price Basis 
+Ex works, Goa 
+Packing Charges 
+2% of the basic order value. 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN Code 
+90271000 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 12 months from the date PO receipt. 
+Offer validity 
+30 Days 
+Payment Terms 
+30% Advance with the Purchase Order, 20 % against drawing approval in 
+CODE 2, Balance 50 % against Proforma Invoice on readiness of material prior 
+to dispatch.
+Guarantee Clause 
+ 
+Against manufacturing defects for 12 months from the date of Commissioning or 
+18 months from the date of dispatch whichever is earlier.

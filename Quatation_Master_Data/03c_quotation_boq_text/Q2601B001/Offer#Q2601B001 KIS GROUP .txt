@@ -1,0 +1,52 @@
+Quotation Number: Q2601B001
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR BIOGAS APPLICATION FOR
+MEASUREMENT OF CH4, CO2, O2, H2S & N2
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+MODEL: INCA4001
+MAKE: UNION AG GERMANY
+ANALYZER SPECIFICATIONS:
+Multi-Gas Analyzer INCA4001
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Oxygen (O2) (Measuring Principle: EC)
+Hydrogen Sulphide (H2S) (Measuring Principle: EC)
+Nitrogen (N2): N2 Measurement Shall be Calculative Basis
+•
+Kind of Gas: Biogas
+•
+Power supply 110/230VAC, 50/60 Hz
+•
+Max. Power consumption: 250 VA
+OUTPUT:
+•
+Modbus TCP/IP Output
+1 SET
+QUOTED
+QUOTED
+2
+SAMPLE TUBE FOR GAS TRANSPORTATION
+MOC: SS
+SIZE: 1⁄4’’
+CUSTOMER SCOPE
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and fro
+charges to be claimed at actuals (ACII tier/flight)
+@QUOTED PER MANDAY

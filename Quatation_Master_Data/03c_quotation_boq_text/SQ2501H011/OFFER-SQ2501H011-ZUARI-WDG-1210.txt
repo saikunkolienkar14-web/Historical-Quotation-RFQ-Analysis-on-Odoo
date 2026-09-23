@@ -1,0 +1,45 @@
+Quotation Number: SQ2501H011
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+O2 ZIRCONIA ANALYSER
+Model: WDG-1210
+MAKE: AMETEK
+Principle: Zirconium Oxide for Net Oxygen (O2)
+Measurement
+Display type: Single-line four-digit LED
+Parameters: O2 concentration, calibration gas
+concentration, cell temperature, fault messages,
+cell/thermocouple information
+Analog Outputs: Single channel isolated 0 to 20; 4 to 20
+mA menu selectable; 500 Ω max
+Measuring Ranges: Selectable range 0 to 1% up to 0 to
+25% v/v O2
+Serial Output: RS485 Modbus protocol (two-wire, half-
+duplex)
+Alarm Relays: Single pole changeover 2A at 30 V AC or DC.
+Alarms: High/Low customer selectable, system fault,
+maintenance / Cal. in progress
+Fault Indications: LED indication and error codes
+Calibration: Option to track or hold
+Calibration Type: Manual
+Power Supply: 85 to 264 VAC; 48 to 62 Hz
+Power Rating: 250 VA
+Operating temperature -5°F to 160°F (-20°C to 71°C)
+Enclosure NEMA 4X/IP65
+SALIENT FEATURES:
+No reference air is required for the measurement
+The cell life OF AMETEK WDG 1210 is more than 4 years
+The maintenance of the analyser can be done without
+removing the complete probe assembly from the process,
+i.e. maintenance is possible without isolating the process.
+Suitable for flue gas temperatures up to 800 deg c
+1
+6,60,000.00
+6,60,000.00

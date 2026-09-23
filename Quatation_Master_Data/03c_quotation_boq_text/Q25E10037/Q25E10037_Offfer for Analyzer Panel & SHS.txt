@@ -1,0 +1,176 @@
+Quotation Number: Q25E10037
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Gas Analyser Panel
+With SHS for Analyser Tag: AT 151500
+Quoted
+Quoted
+2
+1
+Design Documentation & Project Management
+Inclusive
+Inclusive
+3
+1
+FAT at Adage Factory
+Inclusive
+Inclusive
+4
+1
+Packing, Forwarding & Transportation upto Site
+Inclusive
+Inclusive
+Optional price
+5
+1
+Safe area Panel AC, Make Rittal
+Quoted
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1
+Gas Analyzer Cabinet #1
+For Tag No. AT 151500
+Make : Rittal
+­
+Size : 800mm(D) X 800mm(W) X 2100mm(H), with front &
+back door.
+­
+MOC : CRCA Sheet of 1.2 mm thickness; IP Rating: IP 55
+­
+With lamps, Tube light
+Sample Handling System comprising of the following
+­
+Solenoid Valve (IS type) – 7 Nos.
+­
+Bypass flow meter – 5 Nos.
+­
+Inline Filter – 1 No.
+­
+Press. regulator with Inlet/Outlet pressure gauge – 1 No.
+­
+Temperature gauge -1 No.
+­
+Above shall be completely tubed and wired.
+With Sample Handling Tubes and fittings from Analyser Panel
+Note:
+1. Adage scope is limited to the analyser panel. We will
+provide the bulkhead connection on cabinet wall.
+Further connection for sample inlet, sample vent etc.
+shall be in Linde’s scope.
+2. As calibration gas cylinders and associated
+accessories are in Linde's scope. Tubings for
+calibration cylinders and other accessories shall be in
+Linde’s scope.
+1 No
+Quoted
+1.1
+Field pressure regulator with Inlet/Outlet pressure gauge –
+Loose supply
+5 Nos.
+Quoted
+1.2
+Cylinder pressure Regulator – Loose supply
+2 No.
+Quoted
+1.3
+Safe area Panel AC for above cabinet
+Power Supply: 230 VAC
+Make: Adage
+1 No
+Quoted
+5
+Safe area Panel AC for above cabinet (Optional)
+Power Supply: 230 VAC
+Make: Rittal
+1 No
+Quoted
+Section 4: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design & engineering as per offer/BOQ.
+Yes
+2
+Supply of Analyser
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Sample Conditioning System
+Yes
+5
+Inspection & Testing
+Yes
+6
+Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation as required
+Yes
+12
+Mobilization of supplied system from Stores to location.
+Yes
+13
+Installation of supplied system at site
+Yes
+14
+Field supporting structure for cables, transportation tubes etc.
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc)
+Yes
+17
+Provision of dry instrument Air
+Yes
+18
+Provision of Plant Nitrogen
+Yes
+19
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+Yes
+20
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+inclusive.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO receipt.
+Offer validity
+30 days

@@ -1,0 +1,18 @@
+Quotation Number: SQ2602E039
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+MMI 7" TOUCHSCREEN COLOUR DISPLAY- Make -
+Siemens,
+PLC -CPU 1214C,- S7 1200- 14 DI 24V DC;#10 DO RELAY
+2A; 2 AI 0 - 10V DC Make Siemens, Program -Logic
+development included
+1.00
+3,14,198.00
+3,14,198.00

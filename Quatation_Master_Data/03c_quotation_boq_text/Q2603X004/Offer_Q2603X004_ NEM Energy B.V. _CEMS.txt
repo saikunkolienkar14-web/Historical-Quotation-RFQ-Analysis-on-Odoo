@@ -1,0 +1,237 @@
+Quotation Number: Q2603X004
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(EURO)
+TOTAL PRICE
+(EURO)
+1
+GAS ANALYSIS SYSTEM FOR
+MEASURENMENT OF CO, CO2, NO, SO2, O2,
+AT MAIN STACK AND BYPASS STACK
+50 Nos
+€ 46,170
+€ 23,08,508
+Gas Analyser For Measurement of Following Components:
+Model: Ultramat 23 (TUV QAL1, MCERTS Certified)
+Make: Siemens, Germany
+Sr. No
+Measuring
+Parameter
+Measuring Range
+as per TS
+Offered Measuring Range
+Offered Model
+1
+CO
+0-1000 PPM
+0 to 200/1250 mg/m3
+( 0-175/1090 ppm )
+Ultramat – 23
+Make: Siemens AG
+Germany
+2
+NO
+0-250 PPM
+0 to 150/750 mg/m3
+(0-118/590 ppm)
+3
+SO2
+0-100 PPM
+0 to 400/2000 mg/m3
+(0-150/750 ppm )
+4
+CO2
+0~20 Vol%
+0- 5/25 Vol%
+Ultramat – 23
+Make: Siemens AG
+Germany
+5
+O2
+0~20 Vol%
+5/25 Vol%
+6
+H2O
+0~20 Vol%
+0~20 Vol%
+LDS – 6
+Make: Siemens AG
+Germany
+7
+NH3
+Customer to
+Specify
+Customer to Specify
+Sample gas probe , make : Buehler, model : Gas 222.20 ,Length of tube :1.2 meter, MOC: SS316
+(To withstand 215 Deg C temperature of main stack/ 590 Deg C temperature of bypass), Qty – 2 nos.
+Purging unit for dual stage auto probe cleaning make: Adage qty – 2 nos.
+Sample Conditioning System Consisting Of
+Analyser Panel; Dimensions:2100 Mm (H) X 800 Mm (W)X 800 mm (D), MOC: CRCA
+Sample Gas Cooler Make: Buehler, Model: RC 1.2; Qty: 1 No.
+Sample Gas Pump, Make: Buehler, Model: P2.3; Qty: 2 (1 Working + 1 Standby)
+No2 To No Converter, Make: Fuji, Model: ZDL03, Qty :1
+Solenoid Valves, Make:Asco/Burkert Qty: 3 Nos.
+Flowmeter, Make: Adage, Qty: 1 No.
+Condensate Monitor , Make: Adage, Qty: 1 No.
+(For each components details refer bill of quantity section 4).
+2
+HEATED SAMPLE LINE FOR MAIN STACK
+[(50+50) *16] + [70*16] +
+[50+50] = 2820
+@ € 45 PER
+METER
+€ 1,26,900
+Typical Self-Regulated Heat Traced Sample Lines
+Model : ETH-1-A-TF-HTT45-V2-GF-P
+Make: Thermopad
+Type of Tubing Bundle : Electrically Trace Heating bundle
+Number of Process tubes : 1 Tube - Simplex
+Process Tube Size :1/4" OD with 0.04" WT
+Process Tube : PTFE
+Heat Tracers : Self Limiting Tracer HTT45W/M @10Deg.C
+Power Supply : 230V / 240V
+Insulation Mtl.: Non-Hygroscopic Fiber Glass
+Outer Sheath : Flame Retardent PVC
+Zone Classification :Safe Area
+Maintanance Temp :180 Deg C
+Min. Ambient Temp :10 Deg.C
+3
+GAS ANALYSER FOR MEASUREMENT OF NH3 AND H2O FOR
+OTSG MAIN STACK
+50 Nos
+€ 28,445
+€ 14,22,250
+Model: LDS 6 (TUV, QAL 1, MCERTS certified)
+Make: Siemens, Germany
+Sr
+no
+Measured component with range
+Measurement
+principle
+1
+NH3- Measuring range: Customer to specify
+TDLAS
+2
+H2O- Measuring range: 0 to 20%
+TDLAS
+Type of installation: In-Situ
+Central unit - 1 No.
+Power supply: 100 ... 240 V AC; 50 ... 60 Hz
+Output: 4 ... 20 mA
+Enclosure rating: IP20
+Laser protection class 1, safe to the eye
+Linearity: better than 1%
+CD 6 sensors pair-1 set
+Power supply:24 Vdc from central unit via hybrid cable
+Measurement path :0.3 ....12m
+Enclosure rating: IP65
+Without EX protection
+With loop cable
+Hybrid cable:1 x75 meters
+Model: LDS 6 (TUV, MCERTS certified)
+Make: Siemens, Germany
+Type of installation: In-Situ
+Central unit - 1 No.
+Power supply: 100 ... 240 V AC; 50 ... 60 Hz
+Output: 4 ... 20 mA
+Enclosure rating: IP20
+Laser protection class 1, safe to the eye
+Linearity: better than 1%
+CD 6 sensors pair-1 set
+Power supply:24 Vdc from central unit via hybrid cable
+Measurement path :0.3 ....12m
+Enclosure rating: IP65
+Without EX protection
+With loop cable
+Hybrid cable:1 x75 meters
+4
+STACK FLOW MONITOR WITH PRESSURE
+MEASUREMENT FOR MAIN STACK
+50 SETS
+€ 8,012
+€ 4,00,600
+Model: FLOW CEMS 100
+Make: ADAGE
+Measuring Principle: Differential Pressure Pitot Tube
+Output: 4 ... 20 mA
+Suitable for Operating Temperature upto 700 Deg C
+Pressure: -10kPa ... +10kPa
+Response Time: < 1 Sec
+Velocity: 0 ... 15m/s
+Accuracy: ±2% F.S
+Power Supply: 230 VAC, 50 Hz
+Material of Pitot Tube: SS316L
+Note: Please note that Utility Requirement: Instrument Air @ 4 ... 6 Bar free from Oil, Dust & Moisture
+shall be provided by the Customer.
+5
+ANALYSER SHELTER
+17 Nos
+€ 64,577
+€ 10,97,809
+Make: Adage
+Area Classification: Safe
+Dimensions- 4M (L) X 2.7M(W) X 2.75M(H)
+Material of construction: SS 316 , weather proof, corrosion resistant, rigid- construction, suitable for outdoor
+use.
+Usage temperature -10 deg C to +80 deg C and 100% humidity.
+Free standing, single chamber with single leaf hinged door.
+All around extended canopy 500mm.
+Construction for walls, door & roof is insulated type doubled wall with insulation.
+Wall thickness for door, roof & wall is 1.2 mm outer skin + 50 mm insulation + 1 mm inner skin (encapsulated
+construction).
+Floor construction is heavy duty anti-skid surface
+External Finish: Gray RAL7035, plain semi -gloss finish with UV Resistant
+Heavy duty SS 316 hinges, door lock with anti-panic bar.
+UV Resistant Polycarbonate window on door.
+Door sealing: with EPDM rubber (high temperature resistant) gasket.
+Shelter accessories consisting of the following
+Smoke Detector -Qty-1 No.
+Model: 55000-326
+Make: Apollo
+Optical smoke detector with flashing LED
+Diameter: ~100 mm
+Materials housing: Polycarbonate
+Supply voltage: 9 V DC to 33 V DC
+With 45681-200 standard mounting base
+Hooter + Beacon -Qty-1 No
+Make: BINEX
+Electronic voice Hooter
+Protection class: IP66
+With weather Proof cabinet
+Dual colour LED (Red, Green)
+Flashing Beacon lamp attached on it.
+Sound Level 120 DB
+Above shelter consists of following;
+Electrical power distribution panel (UPS and Non-UPS) make :
+Adage
+Dimension (shall be decided during detail engineering)
+Material of construction: SS316 painted
+Note:
+•
+All the electrical accessories like MCB’s, terminal blocks and
+wires shall be dully wired inside the PDB’s
+•
+Arrangement of UPS and Non-UPS supply at the shelter
+PDB’S shall be in NEM energy’s scope
+Lighting Accessories for Shelter -1 No.
+With switch socket arrangement. - 1 No
+Emergency lights -1 No.
+With lightning arrestor arrangement -1 No
+With fire Extinguisher -1 No
+Heat ventilating Air conditioning system for shelter - QTY -1 No
+Make: Adage
+Capacity : 4 TR approx.
+Mounting type: Marine application
+Refrigerant gas: R134a /153a
+Heat exchanger Coils are treated with Anti Oxidization Protection
+Coating capable to with stand 4200hr salt spray test.
+Structure MOC: SS 316 liquid painted capable to with stand 4200hr
+salt spray test.
+Material of construction: SS316 painted.
+Input Power Supply :415V 60 Hz
+Note: Arrangement of non-UPS power 415 VAC,60 Hz supply

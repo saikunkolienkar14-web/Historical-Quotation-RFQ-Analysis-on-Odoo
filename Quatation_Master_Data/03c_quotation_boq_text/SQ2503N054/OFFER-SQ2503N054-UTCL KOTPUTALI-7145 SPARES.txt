@@ -1,0 +1,107 @@
+Quotation Number: SQ2503N054
+BOQ Status: FOUND
+
+Date: 17-03-2025
+Ref: Q24250585-SQ2503N054
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18934002
+Chain For Retraction lenght: 8 mtr
+1.00
+4,750.00
+4,750.00
+1
+Mtrs
+18418084
+Tube Assembly for KAS Length 3500
+mm (Single Tube), MOC SS310-New
+Design
+1.00
+236,874.00
+236,874.00
+2
+Nos
+18418082
+Tube Assembly for KAS Length 3000
+mm (Single Tube), MOC SS310-New
+Design
+1.00
+230,243.00
+230,243.00
+3
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+2,700.00
+2,700.00
+4
+Packets
+18901002
+Acid Filter Body Moulded Glass with
+TEFLON/PTFE & Viton O Ring
+1.00
+13,507.00
+13,507.00
+5
+Nos
+28919002
+Glass Fiber Borosilicate Filter For
+Acid Filter Element
+1.00
+18,244.00
+18,244.00
+6
+Nos
+28903011
+SS Filter for Kiln Probe length 250
+mm
+1.00
+29,939.00
+29,939.00
+7
+Nos
+28602054
+Cartridge Filter
+1.00
+10,165.00
+10,165.00
+8
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+1.00
+24,045.00
+24,045.00
+9
+Nos
+18710001
+Condensate Monitor
+1.00
+23,910.50
+23,910.50
+10
+Date: 17-03-2025
+Ref: Q24250585-SQ2503N054
+Nos
+18901019
+SO2 Caustic Scrubber-200 mm
+Long/PTFE/GLASS-REV02
+1.00
+71,461.00
+71,461.00
+11
+Nos
+Date: 17-03-2025
+Ref: Q24250585-SQ2503N054

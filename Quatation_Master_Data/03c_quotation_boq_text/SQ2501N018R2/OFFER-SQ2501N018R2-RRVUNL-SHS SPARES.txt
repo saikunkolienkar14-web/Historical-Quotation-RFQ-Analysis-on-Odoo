@@ -1,0 +1,38 @@
+Quotation Number: EMAIL
+BOQ Status: FOUND
+
++91 9163609532
+(Adage-Goa-HO)
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR
+NO
+ITEM SPECIFICATION
+PART NO
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.
+Motherboard For Calomat 6
+28602004
+1
+2,01,388.00
+2,01,388.00
+2.
+Sensor For Calomat 6
+28602023
+1
+7,63,912.80
+7,63,912.80
+3.
+Spare part Display + Connection board
+28602055
+1
+2,09,208.00
+2,09,208.00
+4.
+Power Supply Oxymat 6 / 61 Ultramat 6 / Calomat 6
+-230VAC
+28602012
+1
+74,520.00
+74,520.00

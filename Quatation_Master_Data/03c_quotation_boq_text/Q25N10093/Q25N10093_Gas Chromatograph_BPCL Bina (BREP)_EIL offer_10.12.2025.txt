@@ -1,0 +1,802 @@
+Quotation Number: Q25N10093
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price(INR)
+Total Price(INR)
+1
+Total Supply as Per Section 3
+1 Lot
+Quoted
+Quoted
+1.1
+FAT at Adage Works
+1 Lot
+Inclusive
+Inclusive
+1.2
+SAT at Site
+1 Lot
+Inclusive
+Inclusive
+1.3
+Documentation
+1 Lot
+Inclusive
+Inclusive
+1.4
+Commissioning Spares
+1 Lot
+Inclusive
+Inclusive
+2
+Total Freight charges upto site
+1 Lot
+Quoted
+Quoted
+3
+Total Site work (Supervision of Installation &
+Commissioning)
+1 Lot
+Quoted
+Quoted
+4
+Mandatory Spares Charges as per attached
+List.
+1 Lot
+Quoted
+Quoted
+5
+Per Diem Rate for Supervision at Site
+Per
+Diem
+Quoted
+Quoted
+6
+Training at Vendor Works
+12 man-days (4 persons for 3 days)
+3
+Days
+Quoted
+Quoted
+7
+Training at Site
+18 man-days (6 persons for 3 days)
+3
+Days
+Quoted
+Quoted
+8
+Five Years Post Commissioning Annual
+Maintenance Contract
+1 Lot
+Quoted
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+Sr
+No
+Item
+Description
+Tag No
+Qty
+1
+Analyser
+House With
+HAVC
+Size: 3m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 30 mtrs
+With Common Auto change over unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-002
+1 No
+1.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-25003
+300-AT-25003/R
+300-AT-25007
+4 Nos
+1.2
+Probe
+Reflux Sampler, MOC: SS316
+-
+8 Nos
+1.4
+Probe Valve
+RAM Valve
+300-AT-25007
+4 Nos
+1.5
+Field Tube
+SS316, 1⁄4” OD HTT Tube
+300-AT-25003
+300-AT-25003/R
+440 mtrs
+SS316, 1⁄4” OD Tube
+300-AT-25007
+440 mtrs
+1.6
+SHS
+Sample conditioning system suitable for
+above GCs
+Note: Sample is shared between tag no:
+300-AT-25003 & 300-AT-25003/R as
+indicated in MR
+-
+8 Sets
+1.7
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+4 Lots
+2
+Analyser
+House With
+HAVC
+Size: 4.5m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 30 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-004
+1 No
+2.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-21003
+300-AT-21003/R
+300-AT-21007
+300-AT-22003
+300-AT-22003/R
+5 Nos
+2.2
+Probe
+Reflux Sampler, MOC: SS316
+-
+8 Nos
+2.3
+Probe Valve
+RAM Valve
+300-AT-21007
+4 Nos
+2.4
+Field Tube
+SS316, 1⁄4” OD Tube
+-
+920 mtrs
+2.5
+SHS
+Sample conditioning system suitable for
+above GCs
+Note: Sample is shared between tag no:
+300-AT-21003 & 300-AT-21003/R
+300-AT-22003 & 300-AT-22003/R
+as indicated in MR
+-
+3 Sets
+2.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+5 Lots
+3
+Analyser
+House With
+HAVC
+Size: 5m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 15 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-005
+1 No
+3.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-21801
+300-AT-22001
+300-AT-25801
+300-AT-26101
+300-AT-26301
+5 Nos
+3.2
+Moisture
+Analyser
+Make: Michell Instruments, Model:
+Easidew Por XP
+300-AT-26301
+3 Nos
+3.3
+Ammonia
+Analyser
+Make: Siemens, Model: LDS 6
+300-AT-26301
+1 No
+3.4
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+9 Nos
+3.5
+Field Tube
+SS316, 1⁄4” OD Sulfinert HTT Tube
+300-AT-21801
+300-AT-22001
+300-AT-25801
+300-AT-26301
+1120 mtrs
+SS316, 1⁄4” OD HTT Tube
+300-AT-26101
+300 mtrs
+3.6
+PSHS
+Pressure Reduction System
+300-AT-21801
+300-AT-22001
+300-AT-25801
+300-AT-26301
+9 Sets
+3.7
+SSHS
+Sample conditioning system suitable for
+above GCs
+Note: Sample is shared between tag no:
+300-AT-21003 & 300-AT-21003/R
+300-AT-22003 & 300-AT-22003/R
+as indicated in MR
+-
+10 Sets
+3.8
+Gases
+This consist of carrier, combustion,
+calibration with manifold & double stage
+PR along with other accessories suitable
+For above tags
+5 Lots
+for 1 Year operation after SAT.
+4
+Analyser
+House With
+HAVC
+Size: 4.5m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 15 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-006
+1 No
+4.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-32101
+301-AT-11101
+302-AT-22701
+302-AT-22702
+4 Nos
+4.2
+IR Analyser
+Make: Siemens, Model: Ultramat 6F
+300-AT-32101
+2 Nos
+4.3
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+5 Nos
+4.4
+Field Tube
+SS316, 1⁄4” OD Tube
+900 mtrs
+SS316, 1⁄2” or 3⁄4” OD Tube
+301-AT-11101
+310 mtrs
+4.5
+PSHS
+Pressure Reduction System
+300-AT-32101
+2 Sets
+4.6
+SSHS
+Sample conditioning system suitable for
+above GCs(5 Sets) & IR Analyser (2 Sets)
+7 Sets
+4.7
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+4 Lots
+5
+Analyser
+House With
+HAVC
+Size: 6m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 15 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-007
+1 No
+5.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-24701
+300-AT-24702
+300-AT-24703
+300-AT-24801
+300-AT-24802
+300-AT-42101
+6 Nos
+5.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+7 Nos
+5.3
+Field Tube
+SS316, 1⁄4” OD Tube
+-
+580 mtrs
+5.4
+PSHS
+Pressure Reduction System
+300-AT-24701
+300-AT-24702
+300-AT-24703
+300-AT-24801
+300-AT-24802
+300-AT-42101
+7 Sets
+5.5
+SSHS
+Sample conditioning system suitable for
+above GCs
+-
+7 Sets
+5.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+6 Lots
+6
+Analyser
+House With
+HAVC
+Size: 6m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 35 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-008
+1 No
+6.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-24501
+300-AT-24502
+300-AT-25301
+300-AT-25302
+300-AT-41801
+300-AT-43101
+300-AT-43201
+7 Nos
+6.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+7 Nos
+6.3
+Field Tube
+SS316, 1⁄4” OD Tube
+-
+310 mtrs
+SS316, 1⁄2” or 3⁄4” OD Tube
+-
+980 mtrs
+6.4
+PSHS
+Pressure Reduction System
+300-AT-24501
+300-AT-25301
+2 Sets
+6.5
+SSHS
+Sample conditioning system suitable for
+above GCs
+-
+7 Sets
+6.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+7 Lots
+7
+Analyser
+House With
+HAVC
+Size: 6m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 45 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-009
+1 No
+7.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-31101
+300-AT-31102
+300-AT-31901
+300-AT-41102
+300-AT-41201
+300-AT-61101
+6 Nos
+7.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+7 Nos
+7.3
+Field Tube
+SS316, 1⁄4” OD Tube
+-
+750 mtrs
+7.4
+PSHS
+Pressure Reduction System
+300-AT-31101
+300-AT-31102
+300-AT-31901
+300-AT-41102
+300-AT-41201
+300-AT-61101
+7 Sets
+7.5
+SSHS
+Sample conditioning system suitable for
+above GCs
+-
+6 Sets
+7.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+6 Lots
+8
+Analyser
+House With
+HAVC
+Size: 5m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 45 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-010
+1 No
+8.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+300-AT-41401
+300-AT-42201
+300-AT-42402
+300-AT-42801
+300-AT-42901
+5 Nos
+8.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+6 Nos
+8.3
+Field Tube
+SS316, 1⁄4” OD Tube
+-
+450 mtrs
+SS316, 1⁄2” or 3⁄4” OD Tube
+-
+400 mtrs
+8.4
+PSHS
+Pressure Reduction System
+300-AT-42201
+300-AT-42801
+300-AT-42901
+4 Sets
+8.5
+SSHS
+Sample conditioning system suitable for
+above GCs
+-
+5 Sets
+8.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+5 Lots
+9
+Analyser
+House With
+HAVC
+Size: 6m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 35 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+300-AS-011
+1 No
+9.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+303-AT-31201
+303-AT-32001
+303-AT-33201
+303-AT-35601
+303-AT-36301
+303-AT-37301
+6 Nos
+9.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+6 Nos
+9.3
+Field Tube
+SS316, 1⁄2” or 3⁄4” OD Tube
+-
+1100 mtrs
+9.4
+SHS
+Sample conditioning system suitable for
+above GCs
+-
+6 Sets
+9.5
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+6 Lots
+ANNEXURE -1
+DETAILED BOQ FOR SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the air duct
+3
+Toxic Gas Detector - Inside Fresh Air Duct
+2
+Toxic Gas Detector - Inside Shelter
+2
+H2 Detector,
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Diff pressure Gauge, and Differential pressure transmitter
+1
+Diff pressure Switch
+1
+Humidity Transmitter,
+1
+Temp Tx with Display;
+1
+DMR PLC with redundancy at power supply & communication Cars (CPU & I/O
+Cards are redundant) for Analyser Shelter,
+1 LOT
+Purged Cabinet for PLC
+1
+Electrical Panels: Zone 1 IIC
+PDBs, Intermediate PDBs JBs, Interface JBs, Power JB cum isolation switch for
+incomer cable termination prior to PDB. Rack for PDBs & warning Panel
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+2
+3 Way Beacon,
+3
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+ESD SOV IS Type, Zone 1 llC,
+1
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, double compression type certified flame proof cables glands & plugs, Utility
+Headers with Air filter & Other Accessories as per MR
+1 LOT
+10
+Central Data Storage Unit for Gas Chromatographs
+-
+GC CDSU / Analyzer workstation
+-
+RAID-5/ RAID 10 with 27” LCD color monitor and printer shall be A4 laser
+Network hardware at Analyser House end
+-
+Ethernet to FO Converter x 18 Nos
+-
+Patch Panel and Patch Cord x 18 Sets
+Network hardware at SRR#102
+-
+Network cabinet for mounting below components.
+-
+FO to Ethernet Switch x 2 No
+-
+Patch panel, patch cords x 2 No
+10.1 FO Cable from AH to SRR#02 Room x 2 Sets
+Analyser House
+Distance (mtrs)
+300-AS-002
+710
+300-AS-004
+680
+300-AS-005
+450
+300-AS-006
+400
+300-AS-007
+470
+300-AS-008
+530
+300-AS-009
+510
+300-AS-010
+350
+300-AS-011
+230
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+As per Tender
+Packing Charges
+As per Tender
+GST
+As per Tender
+HSN Code
+As per Tender
+Freight Charges
+As per Tender
+Insurances
+In Customer Scope
+Delivery
+As per Tender
+Offer validity
+As per Tender

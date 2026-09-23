@@ -1,0 +1,71 @@
+Quotation Number: Q25N10066
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+GAS ANALYSER FOR O2 AND COe MEASUREMENT
+Tag no: AT-0104A & AT-0104B
+Service: Ketene Furnace - O2 & COe
+Process Fluid: Flue Gas
+Make: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia
+Rating: IP65
+SIL 2 Certified
+Measuring Ranges:
+O2: 0-10 vol%,
+COe: 0-2000 ppm
+Process Connection: To be provided by customer
+Probe Type: MOC:310SS
+Note: Kindly provide the probe length.
+Process Condition:
+-
+Temperature (min/nor/max): 700/859/900 Deg C
+-
+Pressure: -25 to 25 mmWc
+Analyzer Outputs:
+-
+With 4-20 mA Analog output
+-
+With RS-485 Serial Output
+-
+Potential free contacts for fault
+Air requirements:
+-
+3 SCFH typical at 3 to 6 psig, instrument air.
+Utilities Required:
+-
+Power Input: 115 VAC, power consumption is 800VA.
+1 No
+Quoted
+Zone-1, IIA/IIB, T4
+Separate out for each
+component to be pro-
+vided
+For each component?
+Power supply details
+will be confirmed
+Vendor to decide the
+probe length. We can
+provide the nozzle
+length and dia.
+1.1
+Remote Calibration Unit (RCU): Mounted on field Rack with
+Canopy (MOC: MS Painted):
+-
+RCU unit for Auto/Manual calibration.
+-
+With HMI (Suitable for Zone-2), Make Ametek.
+-
+With electrical JB
+-
+Communication Cable between Sensor Unit at Stack & HMI at
+grade level (Per meter)
+Note:
+1. Kindly provide the distance between the stack and Control unit.
+2. All Power supply and signal cables are in customer scope of
+supply.

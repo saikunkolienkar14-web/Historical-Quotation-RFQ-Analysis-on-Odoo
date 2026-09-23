@@ -1,0 +1,84 @@
+Quotation Number: Q25G10099T1
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+1
+1 No
+Gas Chromatograph
+Quoted
+2
+1 Lot
+SHS Spares
+Quoted
+3
+1 Lot
+Startup & Commissioning spares
+Quoted
+4
+1 Lot
+Mandatory Spares
+Quoted
+5
+1 No
+Design Engineering & Project Documentation
+Inclusive
+6
+1 No
+FAT at Adage Works
+Inclusive
+7
+1 No
+Packing, Forwading & Transportation upto Site charges
+Inclusive
+8
+Per Diem Supervision of installation & commissioning
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+Tag No : 551AT4000A01
+-
+Supply Pressure (Nor): 35 Kg/cm2g
+-
+Temperature (Nor): 77 Deg C
+As per MR Requirement
+1.1
+Process Gas Chromatograph
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Wall mounted inside Existing Analyser shelter
+GC Hazardous Area Classification: Zone 1, llB+H2, T3
+No of Streams: 1
+Cycle time: 4 Minutes
+Height: 1053.6 mm (41.5”)
+Width: 752 mm (26.6”)
+Depth: 417.4 mm (16.4”)
+Weight: 77Kg
+With Din Rail for GC wall mounting in existing shelter
+Analyzer Outputs:
+-
+Common 4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+Utility Requirement:
+-
+110VAC 50Hz UPS Power supply.
+-
+5-7 Kg/cm2g instrument air
+Note :
+-
+Requirement is for upgradation of only Bare GC inside
+existing shelter.
+-
+Probe, Sample line, SHS, Autochangover unit,
+ASJB,CSJB, PDB’s, headers and all other accessories
+shall be used Existing.
+-

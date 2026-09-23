@@ -1,0 +1,324 @@
+Quotation Number: SQ2509H161
+BOQ Status: FOUND
+
+Date: 25-09-2025
+Ref: Q25260332-SQ2509H161
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+78309050
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Purging,
+MOC Brass
+1.00
+9,723.00
+9,723.00
+1
+308000372173
+Nos
+78309054
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Pulsating,
+MOC Brass
+1.00
+14,156.00
+14,156.00
+2
+308000372174
+Nos
+78309051
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NO MOC
+Brass
+1.00
+18,883.00
+18,883.00
+3
+308000372175
+Nos
+78429005
+Solenoid Valve,2/2 Way 1/4" BSP (F)
+230 VAC MOC- PVDF
+1.00
+30,360.00
+30,360.00
+4
+308000398200
+Nos
+78409060
+Solenoid Valve 2/2 Way 1/4” NPT (F)
+230 VAC, NC, 4 MM Orifice, Universal
+MOC SS316
+1.00
+19,391.00
+19,391.00
+5
+Nos
+18901019
+SO2 Caustic Scrubber-200 mm
+Long/PTFE/GLASS
+1.00
+88,861.00
+88,861.00
+7
+308000362135
+Nos
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+1.00
+140,140.00
+140,140.00
+8
+28602054
+Cartridge Filter
+1.00
+10,437.00
+10,437.00
+9
+458000077364
+Nos
+Nos
+Nos
+6
+18610061
+MMI 7"Display
+1.00
+127,687.00
+127,687.00
+Date: 25-09-2025
+Ref: Q25260332-SQ2509H161
+18710001
+Condensate Monitor
+1.00
+30,010.00
+30,010.00
+10
+308000302328
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+2,625.00
+2,625.00
+11
+308000216776
+Packets
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+32,844.00
+32,844.00
+12
+308000290504
+Nos.
+78429006
+Solenoid Valve,3/2 Way 1/4" BSP (F)
+230 VAC MOC- PVDF
+1.00
+31,625.00
+31,625.00
+13
+308000398199
+Nos
+308000187215
+Nos
+18901002
+Acid Filter Body Moulded Glass with
+TEFLON/PTFE & Viton O Ring
+1.00
+16,459.00
+16,459.00
+15
+308000290510
+Nos
+28919002
+Glass Fiber Borosilicate Filter For
+Acid Filter Element
+1.00
+24,040.00
+24,040.00
+16
+308000354454
+Nos
+1.00
+22,202.00
+22,202.00
+17
+308000216782
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+11,739.00
+11,739.00
+18
+308000290515
+Nos
+28709015
+WATER FLOW SWITCHF PADDLE
+TYPE Connection 1"" BSP (M)
+1.00
+21,028.00
+21,028.00
+19
+308000290523
+Nos
+1.00
+54,863.00
+54,863.00
+20
+308000244471
+Nos
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+28708015
+Centrifugal Pump, Operating Voltage :
+220 VAC, 50 Hz, Media : Water
+14
+1.00
+18,576.00
+18,576.00
+18611003
+Conductivity Switch Unit For
+Condensate Monitor 24 VDC
+Date: 25-09-2025
+Ref: Q25260332-SQ2509H161
+18418084
+Tube Assembly for KAS Length 3500
+mm (Single Tube), MOC SS310-New
+Design
+1.00
+264,550.00
+264,550.00
+21
+18418004
+Tube Assembly for CEMS made of
+Material. 1.4401 having 3/4" BSP (M)
+Length 1200 mm, MOC SS316
+1.00
+36,769.00
+36,769.00
+22
+308000344117
+Nos
+1.00
+7,659.00
+7,659.00
+23
+308000218285
+Nos
+78309053
+Solenoid Valve 2/2 WAY 1” NPT (F)
+25 MM Orifice 230 VAC, MOC Brass
+1.00
+21,021.00
+21,021.00
+24
+28903011
+SS Filter for Kiln Probe length 250
+mm
+1.00
+36,167.00
+36,167.00
+25
+308000313505
+Nos
+18611009
+Dual Channel Switch Amplifier for
+Retraction Supply 24 VDC
+1.00
+16,071.00
+16,071.00
+26
+308000290511
+Nos
+1.00
+13,943.00
+13,943.00
+27
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+1.00
+20,280.00
+20,280.00
+29
+308000379518
+Nos
+18709002
+Flow Meter 50-500 LPH 1/4" NPT (F)
+MOC Acrylic
+1.00
+9,108.00
+9,108.00
+30
+308000356441
+Nos
+Nos
+28708004
+Neoprene Tube For Peristaltic Pump
+Nos
+28
+28209010
+1.00
+647.00
+647.00
+308000373988
+Nos
+18524017
+Ring Heater 230 VAC Length 280 MM L
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (White Color) MOC PTFE
+Date: 25-09-2025
+Ref: Q25260332-SQ2509H161
+18604002
+Temperature Controller - 48 X48 mm
+Digital Indicator RTD Input 1 Alarm
+Output 4-20 Output
+1.00
+9,787.00
+9,787.00
+31
+308000300075
+Nos
+18920003
+VITON GASKET - OUTER DIA: 50
+MM X INNER DIA: 19 MM X
+THICKNESS: 2MM (BLACK COLOR)
+1.00
+577.00
+577.00
+32
+308000218279
+Nos
+1.00
+29,645.00
+29,645.00
+33
+3290920158
+Nos
+28602056
+Condensate Trap - Ultramat 23
+1.00
+13,637.00
+13,637.00
+34
+308000268204
+Nos
+28726035
+Water stop filter with two female
+connectors,NPT1/8"-4/ 6 PVDF
+Date: 25-09-2025
+Ref: Q25260332-SQ2509H161

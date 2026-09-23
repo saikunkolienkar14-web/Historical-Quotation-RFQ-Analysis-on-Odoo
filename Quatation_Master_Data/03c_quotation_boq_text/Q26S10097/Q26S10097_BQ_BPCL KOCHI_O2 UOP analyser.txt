@@ -1,0 +1,114 @@
+Quotation Number: Q26S10097
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Oxygen Analyser – WDG V UOP
+86,00,000
+86,00,000
+SECTION 3: TECHNICAL LITERATURE
+1
+UOP Oxygen Analyzer:
+Tag No: MR-AT-8501
+Service: Online analysis of oxygen in CCR regeneration gas
+Make: AMETEK
+Model: WDG V UOP
+Measuring Principle: Zirconia
+Power supply: 110 VAC, 50 Hz.
+Hazardous Area Classification: Zone 2 IIC T3 Exp type
+Enclosure protection: IP65
+Measuring Range: 0-2 Mole%
+Process Conditions at sample Inlet:
+-
+Temperature (Operating): 477 °C
+-
+Pressure (Operating): 2.5 kg/cm2.
+Process Flange Connection: 3”,300# RF SS316 with SS316
+fittings
+With Hastelloy C Probe - 27” length
+Utility Requirement:
+-
+110VAC, 50 Hz UPS power supply, 740 VA
+-
+Plant instrument air for aspirator and purging free of oil
+and dust.
+Analyzer Outputs
+-
+4-20 mA analog output for oxygen measurement.
+-
+5 Independent potential free alarm contacts.
+Remarks:
+1) Signal and Power cable up to analyser unit to be
+provided by customer.
+2) Existing RCU shall be used.
+3) Existing calibration cylinder shall be used.
+1 No.
+Quoted
+SECTION 3: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Inspection, Testing, Project Management & Project Documentation
+Yes
+6
+Factory Acceptance Test at Adage Works
+Yes
+7
+Packing forwarding
+Yes
+8
+Freight up to site including Insurance
+Yes
+9
+Storage of supplied system at site
+Yes
+10
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+11
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+12
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+13
+Supervision of Installation and Commissioning SAT & Handover
+--
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from the date PO receipt.
+Offer validity
+30 days.

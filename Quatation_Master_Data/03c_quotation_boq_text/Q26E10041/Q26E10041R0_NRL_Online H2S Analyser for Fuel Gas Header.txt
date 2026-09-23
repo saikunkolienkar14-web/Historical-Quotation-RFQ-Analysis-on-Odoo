@@ -1,0 +1,60 @@
+Quotation Number: Q26E10041R0
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+TDLAS Based H2S Analyzer
+Area Classification: Zone 1 IIC T3
+Make: Airoptics
+Model: GAsEye (Insitu)
+Mounting Location: Field Skid with Canopy, MOC: MS epoxy painted,
+Extractive.
+Principle: TDLAS (Tunable Diode Laser Absorption Spectroscopy)
+Enclosure Protection: IP65
+Analyser Power Inpit: 24VDC
+Process Parameters:
+-
+Pressure (Operating): 3.5–6 kg/cm2g
+-
+Temperature (Operating): 45°C
+Measuring Ranges:
+-
+0-150 ppm H2S
+With Secondary sample handling system consisting of:
+-
+With Heated Flow through cell for mounting of analyzers
+-
+With Ball valves, Flow meters, AFR.
+-
+With SS316 EHT line for sample transportation. (10mts
+considered)
+-
+Return Line: To LP flare header.
+-
+Mounting of Analyser on Field Rack (MS epoxy painted)
+Process Connection
+-
+1.5’’ 150# RF Flange, with isolation valve
+Analyzer Outputs
+-
+4-20 mA analog output for measuring component.
+-
+With Ethernet output
+-
+With digital outputs
+Required Utility:
+-
+Instruments Air @ 4-6 kg/cm2
+-
+110VAC, 50 Hz power supply, with SMPS
+1 No
+Quoted
+Calibration:
+-
+Factory Calibrated.
+-
+Further calibration can be checked by Calibration cylinders.
+Notes:
+-

@@ -1,0 +1,702 @@
+Quotation Number: Q25N10099
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price(INR)
+Total Price(INR)
+Group A
+1
+Supply of Group-A As Per MR
+1 Lot
+Quoted
+Quoted
+2
+Transportation of Group-A As Per MR
+1 Lot
+Quoted
+Quoted
+3
+Mandatory Spares of Group-A As Per MR
+1 Lot
+Quoted
+Quoted
+4
+Per Diem Rate for Supervision of Group-A As Per
+MR
+5
+Days
+Quoted
+Quoted
+5
+Per Diem Rate For Training of Group-A As Per MR
+2
+Days
+Quoted
+Quoted
+Group C
+1
+Supply of Group-C As Per MR
+1 Lot
+Quoted
+Quoted
+2
+Transportation of Group-C As Per MR
+1 Lot
+Quoted
+Quoted
+3
+Mandatory Spares of Group-C As Per MR
+1 Lot
+Quoted
+Quoted
+4
+Per Diem Rate for Supervision of Group-C As Per
+MR
+3
+Days
+Quoted
+Quoted
+5
+Per Diem Rate For Training of Group-C As Per MR
+2
+Days
+Quoted
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+Group A
+1
+Moisture Analyser
+Tag No: 300-AT-23301
+Service: Liquid Condensate Dryers
+Make: Michell Instruments
+Model: Easidew PRO XP-LQ
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range: 0-5 ppm
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+-
+Operating Temperature: (-) 20.70 °C
+-
+Operating Pressure: 17.46 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-101. Cable for the same shall be supplied by Adage.
+1 No
+Quoted
+Sample probe: Not Required as per drawing no. B957-300-YA-SK-
+1622
+0 No
+Not Quoted
+Sample Line:
+-
+1⁄2’’ SS316, Qty: 15 meters
+2 Sets
+Quoted
+Return Line:
+-
+1⁄2’’ or 3⁄4” SS316, Qty: 30 meters
+1 Set
+Quoted
+Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV, Solenoid Valve Etc.
+2 Sets
+Quoted
+Analyzer Mounting Details: Common rack
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+1 No
+Quoted
+-
+With Junction Box.
+-
+Headers
+2
+Moisture Analyser
+Tag No: 300-AT-23401
+Service: Liquid Condensate Dryer Outlet
+Make: Michell Instruments
+Model: Easidew PRO XP-LQ
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range: 0-50 ppm
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 13.62 °C
+-
+Operating Pressure: 26.24 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-102. Cable for the same shall be supplied by Adage.
+1 No
+Quoted
+Sample probe:
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+-
+1.5”, 300# RF connection
+1 No
+Quoted
+Sample Line:
+-
+1⁄2’’ SS316, Qty: 15 meters
+1 Set
+Quoted
+Return Line:
+-
+1⁄2’’ or 3⁄4” SS316, Qty: 30 meters
+1 Set
+Quoted
+Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV, Solenoid Valve Etc.
+1 Sets
+Quoted
+Analyzer Mounting Details:
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+1 No
+Quoted
+-
+With Junction Boxes.
+-
+Headers
+3
+Moisture Analyser
+Tag No: 300-AT-23501
+Service: Charge Gas Dryers
+Make: Michell Instruments
+Model: Easidew PRO XP
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range: 0-0.5%
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 11.77 °C
+-
+Operating Pressure: 25.08 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-102. Cable for the same shall be supplied by Adage.
+1 No
+Quoted
+Sample probe: Not Required as per drawing no. B957-300-YA-SK-
+1622
+0 No
+Not Quoted
+Sample Line:
+-
+1⁄4’’ EP HTT SS316, Qty: 30 meters
+3 Sets
+Quoted
+Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV, Solenoid Valve Etc.
+1 Set
+Quoted
+Analyzer Mounting Details:
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+-
+With Junction Boxes.
+-
+Headers
+1 No
+Quoted
+4
+Moisture Analyser
+Tag No: 300-AT-23801
+Service: Charge Gas Dryer Outlet
+Make: Michell Instruments
+Model: Easidew PRO XP
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range: 0-5 ppm
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 11.56 °C
+-
+Operating Pressure: 24.72 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-102. Cable for the same shall be supplied by Adage.
+1 No
+Quoted
+Sample probe:
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+-
+1.5”, 300# RF connection
+1 No
+Quoted
+Sample Line:
+-
+1⁄4’’ EP HTT SS316, Qty: 15 meters
+1 Set
+Quoted
+Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV,Etc.
+1 Set
+Quoted
+Analyzer Mounting Details:
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+-
+With Junction Boxes.
+-
+Headers
+1 No
+Quoted
+5
+Moisture Analyser
+Tag No: 300-AT-25101
+Service: Acetylene Converter Dryer Outlet
+Make: Michell Instruments
+Model: Easidew PRO XP
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range: 0-10 ppm
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 39.71 °C
+-
+Operating Pressure: 19.71 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-102. Cable for the same shall be supplied by Adage.
+1 No
+Quoted
+Sample probe:
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+-
+1.5”, 300# RF connection
+1 No
+Quoted
+Sample Line:
+-
+1⁄4’’ EP HTT SS316, Qty: 30 meters
+1 Set
+Quoted
+Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV, Etc.
+1 Set
+Quoted
+Analyzer Mounting Details:
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+-
+With Junction Boxes.
+-
+Headers
+1 No
+Quoted
+6
+Moisture Analyser
+Tag No: 302-AT-21201
+Service: Raw Pyrolysis Gasoline to PGH Feed Coalescer
+Make: Michell Instruments
+Model: Easidew PRO XP-LQ
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range:
+0-0.5 mol% for stream 1
+0-5 ppm for stream 2
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 39.71 °C
+-
+Operating Pressure: 19.71 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-102. Cable for the same shall be supplied by Adage.
+2 Nos
+Quoted
+Sample probe:
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+-
+1.5”, 300# RF connection
+2 Nos
+Quoted
+Sample & Return Line:
+-
+1⁄2” SS316, Qty: 25 meters
+-
+1⁄2” or 3⁄4” SS316, Qty: 30 meters
+2 Sets
+Quoted
+Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV, Etc.
+2 Sets
+Quoted
+Analyzer Mounting Details:
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+-
+With Junction Boxes.
+1 No
+Quoted
+-
+Headers
+7
+Moisture Analyser
+Tag No: 302-AT-35701
+Service: Moisture Guard Bed (303-VV-VI-3605) Inlet/Outlet
+Make: Michell Instruments
+Model: Easidew PRO XP-LQ
+Principle: Metal-Oxide Moisture Sensor
+Mounting Location: Field Rack with canopy arrangement
+Hazardous Area Classification: Zone 2, GR IIC T3
+Dew Point range: 0-500 ppm
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Process Conditions at sample Inlet:
+Stream 1:
+-
+Operating Temperature: 45.1 °C
+-
+Operating Pressure: 9.8 Kg/cm2.
+Stream 2:
+-
+Operating Temperature: 45.3 °C
+-
+Operating Pressure: 8.8 Kg/cm2.
+Note: General Purpose Display shall be mounted inside Cabinet in
+SRR-102. Cable for the same shall be supplied by Adage.
+1 No
+Quoted
+Sample probe:
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+-
+1.5”, 300# RF connection
+2 Nos
+Quoted
+Sample & Return Line:
+-
+1⁄2” SS316, Qty: 15 meters x 2 Nos
+-
+1⁄2” or 3⁄4” SS316, Qty: 30 meters
+1 Set
+Quoted
+Common Secondary Sample Handling System:
+-
+With All Necessary Components Inclusive of Ball Valve,
+Rotameters, NRV, Solenoid Valve Etc.
+1 Set
+Quoted
+Analyzer Mounting Details:
+-
+SHS mounted on plate on a self-standing MS painted rack with
+Canopy.
+-
+With Junction Boxes.
+-
+Headers
+1 No
+Quoted
+Group C
+1
+Ethylene Analyzer:
+Tag No: 300-AT-41402
+Service: Ethylene Fractionator Control Tray (300-CC-00-4002).
+Make: Siemens AG, Germany
+Model: Ultramat 6F
+Principle: NDIR Type
+Mounting Location: Mounted Inside Cabinet with Redundant Ex-
+Proof AC.
+Hazardous Area Classification: Zone 2, GR IIC T3, Exp
+Measuring range:
+C2H4: 0-60 mol%
+Process Conditions at sample Inlet:
+-
+Operating Temperature: (-) 20.70 °C
+-
+Operating Pressure: 17.46 Kg/cm2.
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Potential free contacts for fault
+Utilities Required:
+-
+110VAC, 50Hz UPS, power consumption is 330 VA.
+-
+230 VAC, 50 Hz (Non-UPS) Power supply
+-
+415 VAC, 50 Hz (Non-UPS) Power Supply for Ex-Proof AC
+-
+Instrument air @5-6 Kg/cm2.
+1 No
+Quoted
+Sample Probe
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+1 No
+Quoted
+Sample & Return line:
+-
+1⁄4” SS316 Tube.
+100
+mtr
+Quoted
+Primary Sample Handling System
+-
+Shall consist of Ball valve, SRV, Filters, Heated Pressure
+regulator etc.
+-
+Mounted inside SS304 enclosure.
+1 No
+Quoted
+Secondary Sample handling system:
+-
+Shall consist of Ball valve, Needle valve, SOV’s for Calibration,
+Sample rotameter x 2 No, Filters x 2 No, etc
+-
+SHS components shall be mounted inside shall be mounted
+inside cabinet.
+1 No
+Quoted
+Calibration Gas Cylinders and Regulators:
+-
+With Calibration gas Cylinders for Zero & Span
+-
+10 Litre Span gas cylinder each of C2H4.
+-
+10 Litre N2 Zero Gas cylinder
+1 Set
+Quoted
+Analyzer Cabinet:
+-
+Analyser cabinet (Approx dimension shall be finalised during
+detailed engineering) MOC: SS304 with 500 mm Canopy MOC:
+SS, extending from all the sides.
+-
+IP65 Rated
+-
+Redundant Ex proof AC certified for Zone 2
+-
+PDPs, JB, etc
+1 No
+Quoted
+2
+Propylene Analyzer:
+Tag No: 300-AT-42402
+Service: Ethylene Fractionator Control Tray (300-CC-00-4002).
+Make: Siemens AG, Germany
+Model: Ultramat 6F
+Principle: NDIR Type
+Mounting Location: Mounted Inside Cabinet with Redundant Ex-
+Proof AC.
+Hazardous Area Classification: Zone 2, GR IIC T3, Exp
+Measuring range:
+C3H6: 0-60 mol%
+Process Conditions at sample Inlet:
+-
+Operating Temperature: (-) 20.70 °C
+-
+Operating Pressure: 17.46 Kg/cm2.
+1 No
+Quoted
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Potential free contacts for fault
+Utilities Required:
+-
+110VAC, 50Hz UPS, power consumption is 330 VA.
+-
+230 VAC, 50 Hz (Non-UPS) Power supply.
+-
+415 VAC, 50 Hz (Non-UPS) Power Supply for Ex-Proof AC
+-
+Instrument air @5-6 Kg/cm2.
+Sample Probe
+-
+Retractable type with non-fly off design.
+1 No
+Quoted
+Sample & Return line:
+-
+1⁄4” SS316 Tube.
+100
+mtr
+Quoted
+Primary Sample Handling System
+-
+Shall consist of Ball valve, SRV, Filters, Heated Pressure
+regulator etc.
+-
+Mounted inside SS304 enclosure.
+1 No
+Quoted
+Secondary Sample handling system:
+-
+Shall consist of Ball valve, Needle valve, SOV’s for Calibration,
+Sample rotameter x 2 No, Filters x 2 No, etc
+-
+SHS components shall be mounted inside shall be mounted
+inside cabinet.
+1 No
+Quoted
+Calibration Gas Cylinders and Regulators:
+-
+With Calibration gas Cylinders for Zero & Span
+-
+10 Litre Span gas cylinder each of C3H6.
+-
+10 Litre N2 Zero Gas cylinder
+1 Set
+Quoted
+Analyzer Cabinet:
+-
+Analyser cabinet (Approx dimension shall be finalised during
+detailed engineering) MOC: SS304 with 500 mm Canopy MOC:
+SS, extending from all the sides.
+-
+IP65 Rated
+-
+Redundant Ex proof AC certified for Zone 2
+-
+PDPs, JB, etc
+1 No
+Quoted
+SECTION 5: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+6
+Supply of Mandatory spares- Quoted
+Yes
+7
+Consumables spares- Quoted
+Yes
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+17
+Training at Site
+Yes
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+As per Tender
+Packing Charges
+As per Tender
+GST
+As per Tender
+HSN Code
+As per Tender
+Freight Charges
+As per Tender
+Insurances
+As per Tender
+Delivery
+As per Tender
+Offer validity
+As per Tender

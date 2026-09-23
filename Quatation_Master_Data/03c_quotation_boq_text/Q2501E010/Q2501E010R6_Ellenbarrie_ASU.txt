@@ -1,0 +1,459 @@
+Quotation Number: Q2501E010R6
+BOQ Status: FOUND
+
+which is an initiative to recognize the top performing companies in terms of sustainable growth and innovations .
+SECTION 1: SUMMARY OF PRICES
+Sl No Description
+UOM Qty
+Unit Price
+Final Price
+1
+GAS ANALYSER SYSTEM FOR CO2 MEASURMENT-AT1201
+No
+1
+₹ 9,07,000.00 ₹ 9,07,000.00
+2
+GAS ANALYSER SYSTEM FOR DEW POINT MEASURMENT-
+AT1202
+No
+1
+₹ 1,62,500.00 ₹ 1,62,500.00
+3
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT-AT-001
+No
+1
+₹ 3,76,000.00 ₹ 3,76,000.00
+4
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT-AT-108
+No
+1
+₹ 5,73,000.00 ₹ 5,73,000.00
+5
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT-AT-003
+No
+1
+₹ 3,97,000.00 ₹ 3,97,000.00
+6
+GAS ANALYSER SYSTEM FOR Ar MEASURMENT-AT-701
+No
+1
+₹ 4,54,000.00 ₹ 4,54,000.00
+7
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT-AT-702
+No
+1
+₹ 5,73,000.00 ₹ 5,73,000.00
+8
+GAS ANALYSER SYSTEM FOR N2 MEASURMENT-AT-705
+No
+1
+₹ 11,88,000.00 ₹ 11,88,000.00
+9
+GAS ANALYSER SYSTEM FOR THC MEASURMENT-AT-002
+No
+1
+₹ 13,63,000.00 ₹ 13,63,000.00
+10
+GAS ANALYSER SYSTEM FOR Ar MEASURMENT-AT-708
+No
+1
+₹ 5,46,000.00 ₹ 5,46,000.00
+11
+SHS-1
+No
+1
+₹ 14,50,000.00 ₹ 14,50,000.00
+12
+SHS-2
+No
+1
+₹ 13,43,000.00 ₹ 13,43,000.00
+13
+SHS-3
+No
+1
+₹ 14,62,000.00 ₹ 14,62,000.00
+14
+SHS-4
+No
+1
+₹ 5,06,000.00 ₹ 5,06,000.00
+15
+Cylinder Package Price
+No
+1
+₹ 4,22,000.00 ₹ 4,22,000.00
+16
+Supervision of Installation and Commissioning
+Days
+15
+Inclusive
+17
+2 Years O&M Spares- Optional
+Lot
+1
+₹ 4,52,000.00 ₹ 4,52,000.00
+Sr.
+No.
+Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CO2 MEASURMENT
+Tag No: AT1201
+Make: Siemens
+Model: ULTRAMAT6E
+Operating Principle: NDIR
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: CO2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-1201
+4.4
+16
+Measuring Range:
+• CO2: 0 - 5ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 No
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR DEW POINT MEASURMENT
+Tag No: AT1202
+Make: Michell
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: Dew Point
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-1202
+4.4
+16
+AE-1301
+27
+40
+AE-401A
+39.6
+40
+AE-451A
+55.4
+43
+AE-401B
+39.1
+40
+AE-451B
+55.4
+40
+Measuring Range:
+• Dewpoint: -100~20°C
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT
+Tag No: AT-001
+Make: Siemens
+Model: OXYMAT61
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: O2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-001
+4.5
+-174
+AE-007
+4.5
+-176
+AE-009
+0.32
+-193
+AE-106
+0.12
+37
+Measuring Range:
+• O2: 0-50%
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+4
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT
+Tag No: AT-108
+Make: Siemens
+Model: OXYMAT64
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: O2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-108
+0.12
+37
+AE-005
+4.45
+-178
+AE-006
+0.32
+-193
+Measuring Range:
+• O2: 0-10/100 ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+5
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT
+Tag No: AT-003
+Make: Siemens
+Model: OXYMAT61
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: O2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-003
+0.39
+-179.5
+Measuring Range:
+• O2: 0-98/100% (Calibrated Range)
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+6
+GAS ANALYSER SYSTEM FOR ARGON MEASURMENT
+Tag No: AT-701
+Make: Siemens
+Model: CALOMAT6E
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: Ar
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-701
+0.36
+-180
+Measuring Range:
+• Ar: 0-20%
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+7
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT
+Tag No: AT-702
+Make: Siemens
+Model: OXYMAT64
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: O2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-702
+0.19
+-183.9
+AE-704
+0.14
+-184.3
+Measuring Range:
+• O2: 0-10/100 ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+8
+GAS ANALYSER SYSTEM FOR N2 MEASURMENT
+Tag No: AT-705
+Make: Kontrol Analytik
+Model: N2 Sense
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: N2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-705
+0.14
+-184
+Measuring Range:
+• N2: 0-10/100 ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+9
+GAS ANALYSER SYSTEM FOR THC MEASURMENT
+Tag No: AT-002
+Make: Siemens
+Model: FIDAMAT
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: THC
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-002
+0.39
+-180
+AE-703
+0.38
+-187
+AE-706
+0.38
+-187
+Measuring Range:
+• THC: 0-300 ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+Notes:
+• With Inbuilt Sample Pump to extract the sample. No separate external
+pump would be required.
+1 Set
+QUOTED
+QUOTED
+10
+GAS ANALYSER SYSTEM FOR ARGON MEASURMENT
+Tag No: AT-708
+Make: Siemens
+Model: CALOMAT6E
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: Ar
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-708
+0.19
+-184
+Measuring Range:
+• Ar: 0-80/100%
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+• With Calibration Cylinder arrangement
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+11
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+15 DAYS
+INCLUSIVE
+(Lodging, Boarding, Local
+conveyance shall be provided by
+customer. Post 15 days per diem
+charges @30,000/- per diem shall
+be applicable)
+12
+2 YEARS O&M SPARES- OPTIONAL
+1 LOT
+QUOTED
+Notes:
+All Racks shall be mounted in existing AC room
+The above 10 tags shall be mounted on 4 common racks

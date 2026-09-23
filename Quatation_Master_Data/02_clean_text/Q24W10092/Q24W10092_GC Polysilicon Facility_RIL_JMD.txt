@@ -1,0 +1,4410 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which
+includes analysers as per your requirement.
+
+ADAGE QUOTE REF:
+Q24W10092
+DATED : 03.12.2024
+BID TYPE : Budgetary
+PROJECT TITLE:
+Supply of Gas Chromatograph for Polysilicon Facility at RIL Jamnagar
+INQUIRY DETAILS:
+RIL RFQ NO. :1000160297
+
+CUSTOMER:
+
+Kind Attention : Mr.Hemant Dixit
+Reliance Industries Limited
+END USER:
+
+Reliance Industries Limited
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Technical Literature
+SECTION-3: Scope Definition
+SECTION-4: Commercial Terms & Condition
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr Damu Shelke
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9823840039
+damu@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+This is in context to your requirement of for Gas analysis System & We Thank you for the same.
+
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring &
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc
+
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60%
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to
+over 40 countries in Africa, Mid East, Far East and South America.
+
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our
+State of the art factory with its highly sophisticated infrastructure is second to none in India.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: SCOPE OF WORK
+
+1
+Gas Chromatograph
+Make: Valmet
+Model: Maxum II
+Hazardous Area Classification: Zone 2, Gr IIA/IIB, T3, Exp
+
+Remarks:
+1) Detailed GC offer enclosed as ANN-1
+2) The measurement ranges and components are suggested
+by Valmet. Measurement of other components are not
+possible. The LDL possible is 50 ppm for Silanes
+9 Nos
+Quoted
+a
+Sample Probe
+-
+Manual Retractable type Sample probe with Non fly off
+design.
+-
+MOC: SS316
+
+106 Nos
+Quoted
+b
+Sample Line:
+
+Remarks: Detail type of line shall be provided once exact distance
+is provided. The current length (250 mtrs) indicated looks to
+higher side.
+TBD
+Not Quoted
+c
+Sample Handling System
+
+Remarks: The required Pre SCS and Secondary SCS per stream
+shall be considered, except 44 stream GCs. For 44 streams, 22
+streams are measured in App 1 and other 22 Streams in App 2
+parallelly. Here, App 1 (Any 1 stream out of 22 to be selected from
+DCS / Manually near the tapping point by the customer) or App 2
+Any 1 stream out of 22 to be selected from DCS / Manually near
+the tapping point by the customer)
+
+1 Lot
+Quoted
+d
+Calibration Gases:
+-
+Calibration blend with cylinder pressure regulator
+1 Lot
+Quoted
+2
+Analyzer House with Redundant HVAC
+
+MOC: SS316, 1.5mm thick
+Size: 8mx3mx3m
+
+With F&G and other accessories
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3
+FAT at Goa Works
+1 Lot
+Quoted
+4
+Engineering and Project Documentation
+1 Lot
+Quoted
+5
+Commissioning and Startup Spares
+1 Lot
+Quoted
+6
+Charges for Supervision of Installation and Commissioning
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3: SCOPE DEFINITION
+
+Our Scope of Supply and Work Includes:
+
+
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of
+complete analyzer system for the following analyzers as per MR.
+
+All Analysers complete with all hardware, software and necessary accessories.
+
+Power distribution boxes as necessary for power distribution, junction boxes for
+termination of the signals.
+
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items.
+
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4)
+
+Project Management and Documentation
+
+Documentation including as-built documentation, warranty of Complete Analyser system
+
+Supply of spares and consumables as per MR requirements (If ordered)
+
+Training at site as per MR requirements (If ordered)
+
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation
+of Analyzers.
+
+Our Scope of Supply Does Not Include:
+
+
+Any kind of Civil Work or Mechanical Work.
+
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated
+Electrical traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer
+shelter & sample return, fast loop, vent lines etc.
+
+Provision of nozzles near tapping point/Stack.
+
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+
+Loop checking for analog & digital signals related to filed/DCS connection.
+
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication
+cables/field tubes etc.
+
+Providing all utilities as specified in MR at one point/battery
+limit near each Analyzer Shelter in field.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO.
+Offer validity
+Up to 31st Dec
+Payment Terms
+As per Adage & RIL standard payment terms (As per past PO)
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.
+
+Group No.
+Analyzer Shelter
+No./Location
+Analyzer Tag No.
+Sample Probe tag no.
+Number of
+Streams
+GC Details
+Remarks
+AE-01317185
+1
+AE-318050
+1
+AE-320050
+1
+AE-320044
+1
+AE-320049
+1
+AE-330043
+1
+AE-330066
+1
+AE-035040
+1
+AE-038187
+1
+AE-032039
+1
+AE-040036
+1
+Single stream GC is offered by Valmet
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+AE-01050372 to AE-44050372
+44
+1 to 22 Streams are done in App 1 and 23 to 44 Streams are
+done in App 2. Stream Selection to be done from DCS by
+customer. At a time any 2 streams will be measured parellely
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+AE-01050446 to AE-44050446
+44
+46 to 66 Streams are done in App 1 and 67 to 89 Streams are
+done in App 2. Stream Selection to be done from DCS by
+customer. At a time any 2 streams will be measured parellely
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+AE-060050
+1
+AE-060053
+1
+AE-060051
+1
+AE-060049
+1
+AE-070042
+1
+AE-060047
+1
+This stream is measured in separate GC due to presence of
+Silicon.
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+AE-000010
+AE -000011
+2 Stream GC is offered by Valmet
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+8 Stream GC is offered by Valmet
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+5 Stream GC is offered by Valmet.
+AS-1
+HC Reactor/TCS
+Purification Area
+AT-060050
+4
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+2 Stream GC is offered by Valmet.
+Please refer enclosed details for GC Configuration and
+Measuring components proposed by Valmet.
+5
+AS-1
+HC Reactor/TCS
+Purification Area
+AT-000010
+1
+3
+AS-2
+CVD Reactor Area
+AT-040036
+1
+AS-1
+HC Reactor/TCS
+Purification Area
+AT-01317185
+2
+AS-1
+HC Reactor/TCS
+Purification Area
+AT-320050
+APPENDIX 1 of Datasheet for Gas Chromatograph
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 5: GC CONFIGURATION
+
+Tag Number: AT-01317185
+
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 1 (Type EPC3)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 10
+Analog Inputs: 8
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 6
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 2
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 6
+Single pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+1.1 MAXUM II -AT-01317185 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1520 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.1 MAXUM II -AT-01317185 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+1
+Stream Tag
+AE-01317185
+Stream name
+CHLOROSILANE FROM QUENCH SYSTEM
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+
+32
+50
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+213
+300
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+0,49
+
+0 - 1
+WT%
+2 (% FS)
+R1
+X
+BORON TRICHLORIDE
+
+6
+10
+Not Measured
+PPMV
+
+TRICHLOROSILANE
+
+18,67
+
+0 - 25
+WT%
+1 (% FS)
+R1
+X
+METHYLDICHLOROSILANE
+49
+60
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+80,76
+
+0 - 100
+WT%
+1 (% FS)
+R1
+X
+METHYL
+TRICHLOROSILANE
+
+272
+300
+Not Measured
+PPMV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+46
+60
+Not Measured
+PPMV
+
+PENTACHLORODISILANE
+
+19
+25
+Not Measured
+PPMV
+
+HEXACHLORODISILANE
+
+46
+60
+Not Measured
+PPBV
+
+ALUMINUM CHLORIDE
+
+2
+5
+Not Measured
+PPBV
+
+HYDROGEN
+
+152
+
+0 - 200
+PPMV
+2 (% FS)
+R2
+X
+
+Stream Note
+• Cycle time 5-6 min., method 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Retention times for the measuring components must be adjusted on site
+• Stream has to be evaporate on SCS
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+21,7
+
+Kg/cm2
+Stream pressure return point
+7,01
+
+Kg/cm2
+Stream temp. sample point
+60
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.1 MAXUM II -AT-01317185 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+2
+Stream Tag
+AE-318050
+Stream name
+Chlorosilane From HC Off Gas Unit
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+
+155
+200
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+0,12
+
+0 - 1
+WT%
+3 (% FS)
+R1
+X
+DICHLOROSILANE
+
+1,5
+
+0 - 2
+WT%
+2 (% FS)
+R1
+X
+BORON TRICHLORIDE
+
+15
+20
+Not Measured
+PPMV
+
+TRICHLOROSILANE
+
+31,86
+
+0 - 35
+WT%
+1 (% FS)
+R1
+X
+METHYLDICHLOROSILANE
+63
+70
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+66,47
+
+0 - 100
+WT%
+1 (% FS)
+R1
+X
+METHYL
+TRICHLOROSILANE
+
+163
+200
+Not Measured
+PPMV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+25
+30
+Not Measured
+PPMV
+
+PENTACHLORODISILANE
+
+3
+5
+Not Measured
+PPMV
+
+HEXACHLORODISILANE
+
+2
+5
+Not Measured
+PPBV
+
+ALUMINUM CHLORIDE
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN
+
+100
+
+0 - 200
+PPMV
+2 (% FS)
+R2
+X
+
+Stream Note
+• Cycle time 5-6 min., method 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Stream has to be evaporate on SCS
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+18,8
+
+Kg/cm2
+Stream pressure return point
+5,4
+
+Kg/cm2
+Stream temp. sample point
+13
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tag Number: AT-320050
+
+Hardware Configuration
+
+Maxum Oven: Split Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD) ( 2 X )
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 3 (Type EPC3)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 14
+Analog Inputs: 12
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 10
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+
+I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 8
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 8
+Single pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+2.1 MAXUM II -AT-320050 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 1: 1520 VA
+Circuit 2: 1400 VA
+Instrument Air: 10 SCF/min (280 L/min) at 60 psig (4.2 Kg/cm2)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+1
+Stream Tag
+AE-320050
+Stream name
+CRUDE TCS/STC COLOMN (C-32001) FEED
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+13
+30
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+
+45
+60
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+337
+500
+Not Measured
+PPBV
+
+DICHLOROSILANE
+
+911
+1000
+Not Measured
+PPMV
+
+BORON TRICHLORIDE
+
+16
+30
+Not Measured
+PPMV
+
+TRICHLOROSILANE
+
+23,02
+
+0 - 30
+WT%
+1 (%FS)
+R1
+X
+METHYLDICHLOROSILANE
+12
+25
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+76,84
+
+0 - 90
+WT%
+1 (%FS)
+R1
+X
+METHYL
+TRICHLOROSILANE
+
+307
+400
+Not Measured
+PPMV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+43
+60
+Not Measured
+PPMV
+
+PENTACHLORODISILANE
+
+16
+30
+Not Measured
+PPMV
+
+HEXACHLORODISILANE
+
+50
+60
+Not Measured
+PPBV
+
+ALUMINUM CHLORIDE
+
+1
+10
+Not Measured
+PPBV
+
+HYDROGEN
+
+15
+
+0 - 30
+PPMV
+5 (%FS)
+R3
+X
+
+Stream Note
+• Cycle time 8 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+8,8
+
+Kg/cm2
+Stream pressure return point
+8,8
+
+Kg/cm2
+Stream temp. sample point
+80
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+2
+Stream Tag
+AE-320044
+Stream name
+Crude TCS/STC Column (C-32001) Distillate (TCS)
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+12
+20
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+
+148
+200
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+1
+10
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+0,39
+
+0 - 1
+WT%
+2 (%FS)
+L1
+X
+BORON TRICHLORIDE
+
+68
+80
+Not Measured
+PPMV
+
+TRICHLOROSILANE
+
+99,54
+
+0 - 100
+WT%
+L1
+X
+METHYLDICHLOROSILANE
+41
+60
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+400
+500
+0 - 1
+WT%
+2 (% FS)
+L1
+x
+METHYL
+TRICHLOROSILANE
+
+0
+10
+Not Measured
+PPBV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN
+
+9
+
+0 - 20
+PPMV
+5 (%FS)
+L2
+X
+
+Stream Note
+• Cycle time 8 min., Application 2
+• Calibration of Dichlorosilane and Silicon tetrachloride will be done in wt%.
+• Trichlorosilane will be calculaterd by difference TCS=100%-DCS-STC
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+10,8
+
+Kg/cm2
+Stream pressure return point
+60
+
+Kg/cm2
+Stream temp. sample point
+3,41
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+3
+Stream Tag
+AE-320049
+Stream name
+Crude TCS/STC Column (C-32001) Bottoms (STC)
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+DICHLOROSILANE
+
+0
+10
+Not Measured
+PPBV
+
+BORON TRICHLORIDE
+
+0
+10
+Not Measured
+PPBV
+
+TRICHLOROSILANE
+
+500
+600
+0 - 1
+WT%
+2 (%FS)
+L1
+x
+METHYLDICHLOROSILANE
+4
+10
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+99,9
+
+0 - 100
+WT%
+(%FS)
+L1
+X
+METHYL
+TRICHLOROSILANE
+
+399
+500
+0 - 1
+WT%
+2 (%FS)
+L1
+x
+PHOSPHOROUS
+TRICHLORIDE
+
+56
+65
+Not Measured
+PPMV
+
+PENTACHLORODISILANE
+
+21
+30
+Not Measured
+PPMV
+
+HEXACHLORODISILANE
+
+66
+75
+Not Measured
+PPBV
+
+ALUMINUM CHLORIDE
+
+2
+10
+Not Measured
+PPBV
+
+Stream Note
+• Cycle time 8 min., Application 2
+• Calibration of Trichlorosilane and Methyl trichlorosilane will be done in wt%.
+• Trichlorosilane will be calculaterd by difference STC=100% -TCS-MTCS
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+9,5
+
+Kg/cm2
+Stream pressure return point
+6,1
+
+Kg/cm2
+Stream temp. sample point
+115
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+4
+Stream Tag
+AE-330043
+Stream name
+Recovered chlorosilanes from waste recovery
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN CHLORIDE
+
+7
+15
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+30
+40
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+640
+700
+Not Measured
+PPMV
+
+BORON TRICHLORIDE
+
+904
+100
+Not Measured
+PPBV
+
+TRICHLOROSILANE
+
+5,09
+
+0 - 10
+WT%
+1 (%FS)
+R1
+X
+METHYLDICHLOROSILANE
+20
+30
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+92,39
+
+0 - 100
+WT%
+1 (%FS)
+R1
+X
+METHYL
+TRICHLOROSILANE
+
+534
+650
+0 -
+PPMV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+137
+185
+Not Measured
+PPMV
+
+PENTACHLORODISILANE
+0,81
+
+0 - 2
+WT%
+1 (%FS)
+R2
+X
+HEXACHLORODISILANE
+
+1
+
+0 - 5
+WT%
+1 (%FS)
+R2
+X
+HYDROGEN
+
+5
+
+0 - 15
+PPMV
+5 (%FS)
+R3
+X
+ALUMINUM CHLORIDE
+
+0,57
+
+Not Measured
+
+IRON (III) CHLORIDE
+
+64
+
+Not Measured
+
+Stream Note
+• Cycle time 8 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• Valmet cannot offer measurement of Ironchloride and Aluminium chloride. To protect the injection valves and
+detectors, solid particles should be removed before GC entry
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+5,9
+
+Kg/cm2
+Stream pressure return point
+5
+
+Kg/cm2
+Stream temp. sample point
+48
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+5
+Stream Tag
+AE-330066
+Stream name
+STC Purification Column Blowdown (C-33001)
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+SILICON
+TETRACHLORIDE
+
+37,3
+
+0 - 45
+WT%
+1 (%FS)
+R1
+X
+METHYL
+TRICHLOROSILANE
+
+15,63
+
+0 - 20
+WT%
+1 (%FS)
+R2
+X
+PHOSPHOROUS
+TRICHLORIDE
+
+2,52
+
+0 - 10
+WT%
+R2
+X
+PENTACHLORODISILANE
+15,74
+
+0 - 20
+WT%
+1 (%FS)
+R2
+X
+HEXACHLORODISILANE
+18,27
+
+0 - 25
+WT%
+1 (%FS)
+R2
+X
+IRON (III) CHLORIDE
+
+0,12
+
+Not Measured
+
+ALUMINUM CHLORIDE
+
+10,43
+
+Not Measured
+
+Stream Note
+• Cycle time 8 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• Valmet cannot offer measurement of Ironchloride and Aluminium chloride. To protect the injection valves and
+detectors, solid particles should be removed before GC entry
+• Due to unavailable of Phosphorous trichloride, only the retention time will be indicated at the final chromatogram
+based on Maxum previous projects. But no repeatability and other test can be proposed.
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+6,64
+
+Kg/cm2
+Stream pressure return point
+6,64
+
+Kg/cm2
+Stream temp. sample point
+109
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+6
+Stream Tag
+AE-035040
+Stream name
+TCS Recovery Column Blowdown (C-03501)
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+TRICHLOROSILANE
+
+39,82
+
+0 - 50
+WT%
+1 (%FS)
+R1
+X
+METHYLDICHLOROSILANE
+5,61
+
+0 - 10
+WT%
+1 (%FS)
+R1
+X
+SILICON TETRACHLORIDE
+54,57
+
+0 - 60
+WT%
+1 (%FS)
+R1
+X
+METHYL TRICHLOROSILANE
+200
+300
+Not Measured
+PPBV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+4
+10
+Not Measured
+PPBV
+
+Stream Note
+• Cycle time 8 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+4,8
+
+Kg/cm2
+Stream pressure return point
+2
+
+Kg/cm2
+Stream temp. sample point
+104
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+7
+Stream Tag
+AE-038187
+Stream name
+DCS/TCS Column Blowdown (C-03801)
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+1
+10
+Not Measured
+PPMV
+
+HYDROGEN CHLORIDE
+
+0,91
+
+0 - 2
+WT%
+1 (%FS)
+R1
+X
+MONOCHLOROSILANE
+
+86
+100
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+21,94
+
+0 - 30
+WT%
+1 (%FS)
+R1
+X
+BORON TRICHLORIDE
+
+8,6
+
+0 - 15
+WT%
+R1
+X
+TRICHLOROSILANE
+
+68,51
+
+0 - 75
+WT%
+1 (%FS)
+R1
+X
+METHYLDICHLOROSILANE
+13
+20
+Not Measured
+PPBV
+
+SILICON TETRACHLORIDE
+381
+450
+Not Measured
+PPMV
+
+METHYL
+TRICHLOROSILANE
+
+2
+10
+Not Measured
+PPBV
+
+PHOSPHOROUS
+TRICHLORIDE
+
+1
+10
+Not Measured
+PPBV
+
+HYDROGEN
+
+788
+850
+Not Measured
+PPBV
+
+Stream Note
+• Cycle time 8 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• So Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• Due to unavailable of Boron trichloride, only the retention time will be indicated at the final chromatogram based on
+Maxum previous projects. But no repeatability and other test can be proposed.
+• The application will be done with the surrogate components.
+
+Minimum
+Normal
+Maximum
+Unit
+Stream pressure sample point
+10,2
+
+Kg/cm2
+Stream pressure return point
+3,6
+
+Kg/cm2
+Stream temp. sample point
+45
+
+°C
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.1 MAXUM II -AT-320050 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+8
+Stream Tag
+AE-032039
+Stream name
+Pure TCS from TCS Heavy Impurity Column (Unit 032)
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+DICHLOROSILANE
+
+0
+0,00001
+0 - 1
+WT%
+2 (%FS)
+L1
+x
+TRICHLOROSILANE
+
+100
+
+0 - 100
+WT%
+L1
+X
+METHYLDICHLOROSILANE
+0
+0,00001
+0 - 1
+WT%
+2 (%FS)
+L1
+x
+HYDROGEN
+
+18
+
+0 - 25
+PPMV
+5 (%FS)
+L2
+x
+
+Stream Note
+• Cycle time 8 min., Application 2
+• Calibration of Dichlorosilane and Silicon tetrachloride will be done in wt%.
+• Trichlorosilane will be calculaterd by difference TCS=100%-DCS-STC
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tag Number: AT-040036 - STRM1
+
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 1 (Type EPC3)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 2
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 4
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 1
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 6
+Single pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+3.1 MAXUM II -AT-040036 - STRM1 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1520 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3.1 MAXUM II -AT-040036 - STRM1 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+1
+Stream Tag
+AE-320050
+Stream name
+CRUDE TCS/STC COLOMN (C-32001) FEED
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN
+CHLORIDE
+
+26
+35
+Not Measured
+PPBV
+
+MONOCHLOROSILANE
+7
+15
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+1,02
+
+0 - 10
+WT%
+1 (%FS)
+R1
+X
+TRICHLOROSILANE
+
+98,98
+
+0 - 100
+WT%
+1 (%FS)
+R1
+X
+SILICON
+TETRACHLORIDE
+
+834
+950
+Not Measured
+PPBV
+
+HYDROGEN
+
+0
+10
+Not Measured
+PPBV
+
+Stream Note
+• Cycle time 5-6 min.
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Tag Number: AT-040036 - STRMs 2-45
+
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 2 (Type EPC3)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 14
+Analog Inputs: 12
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 10
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+
+I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 2
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+4.1 MAXUM II -AT-040036 - STRMs 2-45 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1520 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4.1 MAXUM II -AT-040036 - STRMs 2-45 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+2
+Stream Tag
+AT-040036 Stream 2-23
+Stream name
+CRUDE TCS/STC COLOMN (C-32001) FEED
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN
+CHLORIDE
+
+25
+30
+Not Measured
+PPBV
+
+MONOCHLOROSILANE
+7
+15
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+0,98
+
+0 - 2
+WT%
+1 (%FS)
+R1
+X
+TRICHLOROSILANE
+
+94,41
+
+0 - 100
+WT%
+1 (%FS)
+R1
+X
+SILICON
+TETRACHLORIDE
+
+796
+850
+Not Measured
+PPBV
+
+HYDROGEN
+
+4,62
+
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4.1 MAXUM II -AT-040036 - STRMs 2-45 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+2
+Stream Tag
+AT-040036 Stream 24-45
+Stream name
+CRUDE TCS/STC COLOMN (C-32001) FEED
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN
+CHLORIDE
+
+25
+30
+Not Measured
+PPBV
+
+MONOCHLOROSILANE
+7
+15
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+0,98
+
+0 - 2
+WT%
+1 (%FS)
+R1
+X
+TRICHLOROSILANE
+
+94,41
+
+0 - 100
+WT%
+1 (%FS)
+R1
+X
+SILICON
+TETRACHLORIDE
+
+796
+850
+Not Measured
+PPBV
+
+HYDROGEN
+
+4,62
+
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Tag Number: AT-040036 - STRMs 46-89
+
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 2 (Type EPC3)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 14
+Analog Inputs: 12
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 10
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+
+I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 2
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+5.1 MAXUM II -AT-040036 - STRMs 46-89 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1520 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+3
+Stream Tag
+AE-01050446 Stream 46-89
+Stream name
+CVD Off Gas
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+0,47
+
+0 - 2
+WT%
+1 (%FS)
+R1
+X
+MONOCHLOROSILANE
+
+243
+300
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+3,39
+
+0 - 10
+WT%
+1 (%FS)
+R1
+X
+TRICHLOROSILANE
+
+52,66
+
+0 - 65
+WT%
+1 (%FS)
+R1
+X
+SILICON
+TETRACHLORIDE
+
+38,43
+
+0 - 45
+WT%
+1 (%FS)
+R1
+X
+PENTACHLORODISILANE
+112
+125
+Not Measured
+PPMV
+
+HEXACHLORODISILANE
+320
+400
+Not Measured
+PPMV
+
+SILICON
+
+35
+45
+Not Measured
+PPMV
+
+HYDROGEN
+
+4,97
+10
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 1
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+3
+Stream Tag
+AE-01050446 Stream 46-89
+Stream name
+CVD Off Gas
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+0,47
+
+0 - 2
+WT%
+1 (%FS)
+R1
+X
+MONOCHLOROSILANE
+
+243
+300
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+3,39
+
+0 - 10
+WT%
+1 (%FS)
+R1
+X
+TRICHLOROSILANE
+
+52,66
+
+0 - 65
+WT%
+1 (%FS)
+R1
+X
+SILICON
+TETRACHLORIDE
+
+38,43
+
+0 - 45
+WT%
+1 (%FS)
+R1
+X
+PENTACHLORODISILANE
+112
+125
+Not Measured
+PPMV
+
+HEXACHLORODISILANE
+320
+400
+Not Measured
+PPMV
+
+SILICON
+
+35
+45
+Not Measured
+PPMV
+
+HYDROGEN
+
+4,97
+
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• The stream has to be evaporated on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tag Number: AT-060050 – Strm 1, 3-6
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+
+Flame Ionization
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+
+Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 10
+Analog Inputs: 8
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 6
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 5
+Number of Calibration Blends: 3
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 5
+Single pneumatic outputs: 8
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+6.1 MAXUM II -AT-060050 - Strm1+3-6 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+(From the Catalytic Air Treater provided, if ordered)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1600 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+1
+Stream Tag
+AE-060050
+Stream name
+FRESH HYDROGEN
+Aggregate State Sample Point
+Not Defined
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN
+
+99,9
+
+0 - 100
+WT%
+
+CALC
+X
+NITROGEN
+
+5
+
+0 - 15
+PPMV
+5 (%RSD)
+R1
+X
+OXYGEN
+
+5
+
+0 - 15
+PPMV
+5 (%RSD)
+R1
+X
+MOISTURE
+
+5
+
+Not Measured
+PPMV
+
+THC (CARBON)
+1
+
+0 - 10
+PPMV
+5 (%RSD)
+C1
+X
+
+Stream Note
+• Cycle time 4 min., Application 1
+• THC will be the sum of Methane and sum C2+
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+3
+Stream Tag
+AE-060053
+Stream name
+H2 to Carbon Absorbers
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+X
+HYDROGEN CHLORIDE
+
+7,17
+
+0 - 15
+WT%
+1 (%FS)
+R2
+X
+MONOCHLOROSILANE
+
+0,16
+
+0 - 2
+WT%
+2 (%FS)
+R2
+X
+DICHLOROSILANE
+
+0,84
+
+0 - 2
+WT%
+2 (%FS)
+R2
+X
+TRICHLOROSILANE
+
+0,31
+
+0 - 2
+WT%
+2 (%FS)
+R2
+X
+METHYLDICHLOROSILANE
+15
+25
+Not Measured
+PPMV
+
+X
+SILICON
+TETRACHLORIDE
+
+5,86
+
+0 - 15
+WT%
+1 (%FS)
+R2
+X
+METHYL
+TRICHLOROSILANE
+
+145
+200
+Not Measured
+PPMV
+
+X
+PENTACHLORODISILANE
+
+15
+25
+Not Measured
+PPBV
+
+X
+HEXACHLORODISILANE
+
+0
+10
+Not Measured
+PPBV
+
+X
+HYDROGEN
+
+85,65
+
+0 - 100
+WT%
+1 (%FS)
+R4
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Retention times for the measuring components must be adjusted on site
+• Stream has to be evaporate on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+4
+Stream Tag
+AE-060051
+Stream name
+CVD OGR Second Condensate
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN CHLORIDE
+
+447
+550
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+124
+200
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+3,07
+
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+TRICHLOROSILANE
+
+54,86
+
+0 - 65
+WT%
+1 (%FS)
+R2
+X
+SILICON
+TETRACHLORIDE
+
+42,01
+
+0 - 55
+WT%
+1 (%FS)
+R2
+X
+PENTACHLORODISILANE
+8
+15
+Not Measured
+PPBV
+
+HEXACHLORODISILANE
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN
+
+23
+
+0 - 35
+PPMV
+5 (%FS)
+R3
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Retention times for the measuring components must be adjusted on site
+• Stream has to be evaporate on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+5
+Stream Tag
+AE-060049
+Stream name
+Regen H2
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+0
+10
+Not Measured
+PPBV
+
+HYDROGEN CHLORIDE
+
+68,15
+
+0 - 75
+WT%
+1 (%FS)
+R2
+X
+MONOCHLOROSILANE
+
+1,43
+
+0 - 5
+WT%
+1 (%FS)
+R2
+X
+DICHLOROSILANE
+
+5,41
+
+0 - 12
+WT%
+1 (%FS)
+R2
+X
+TRICHLOROSILANE
+
+1,18
+
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+METHYLDICHLOROSILANE
+35
+45
+Not Measured
+PPMV
+
+SILICON
+TETRACHLORIDE
+
+8,82
+
+0 - 15
+WT%
+1 (%FS)
+R2
+X
+METHYL
+TRICHLOROSILANE
+
+129
+200
+Not Measured
+PPMV
+
+PENTACHLORODISILANE
+
+2
+10
+Not Measured
+PPBV
+
+HYDROGEN
+
+14,99
+
+0 - 25
+WT%
+1 (%FS)
+R4
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Retention times for the measuring components must be adjusted on site
+• Stream has to be evaporate on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+6
+Stream Tag
+AE-070042
+Stream name
+CVD OGR TCS/STC Column Distillate (C-07001 - Pure
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN CHLORIDE
+
+41
+55
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+27
+40
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+1,71
+
+0 - 5
+WT%
+1 (%FS)
+R2
+X
+TRICHLOROSILANE
+
+98,28
+
+0 - 100
+WT%
+1 (%FS)
+R2
+X
+METHYLDICHLOROSILANE
+3
+15
+Not Measured
+PPBV
+
+SILICON TETRACHLORIDE
+2
+10
+Not Measured
+PPMV
+
+HYDROGEN
+
+8
+
+0 - 15
+PPMV
+5 (%FS)
+R3
+X
+
+Stream Note
+• Cycle time 5-6 min., Application 2
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Retention times for the measuring components must be adjusted on site
+• Stream has to be evaporate on SCS
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tag Number: AT-060050 - STRM2
+
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 1 (Type EPC3)
+Isolation Valve: SSO/ARV (Hastelloy® C) Valco Dual 3 way
+Sample Valve: Valco Hastelloy® C Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 6
+Analog Inputs: 4
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+Analog and Digital I/O Boards: I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Hastelloy® C® Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 1
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 2
+Single pneumatic outputs: 1
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+Important notes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1520 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+2
+Stream Tag
+AE-060047
+Stream name
+CVD OGR First Condensate
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN CHLORIDE
+
+69
+85
+Not Measured
+PPMV
+
+MONOCHLOROSILANE
+
+15
+25
+Not Measured
+PPMV
+
+DICHLOROSILANE
+
+0,66
+
+0 - 2
+WT%
+1 (%FS)
+R2
+X
+TRICHLOROSILANE
+
+23,82
+
+0 - 35
+WT%
+1 (%FS)
+R2
+X
+SILICON
+TETRACHLORIDE
+
+67,79
+
+0 - 75
+WT%
+1 (%FS)
+R2
+X
+PENTACHLORODISILANE
+1,84
+
+0 - 5
+WT%
+1 (%FS)
+R2
+X
+HEXACHLORODISILANE
+5,29
+
+0 - 10
+WT%
+1 (%FS)
+R2
+X
+SILICON
+
+0,58
+2
+Not Measured
+WT%
+
+HYDROGEN
+
+13
+
+0 - 25
+PPMV
+5 (%FS)
+R3
+X
+
+Stream Note
+• Cycle time 15-20 min.,
+• Calibration in mol% with wt% output by calculation.
+• Valmet cannot offer single measurements of silane in ppm range.
+• Valmet will use hydrogencarbons as surrogate for silanes and adjust the system so good as possible
+• MDL is 50 ppm for silanes
+• Retention times for the measuring components must be adjusted on site
+• Stream has to be evaporate on SCS
+• Valmet cannot offer measurement of Silicon. To protect the injection valves and detectors, solid particles should be
+removed before GC entry
+• The application will be done with the surrogate components.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tag Number: AT-000010
+
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Flame Ionization ( 2 X )
+
+Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: 2
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Methanator: Included
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Column Valve: Model 50
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 6
+Analog Inputs: 4
+Digital Outputs: 8 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+Analog and Digital I/O Boards: I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 2
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 1
+Single pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+8.1 MAXUM II -AT-000010 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Nitrogen (99.998%)
+
+Hydrogen (99.999%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+(From the Catalytic Air Treater provided, if ordered)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1730 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+1
+Stream Tag
+AE-000010
+Stream name
+Fresh Nitrogen
+Aggregate State Sample Point
+Not Defined
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+99,997
+
+0 - 100
+WT%
+
+CALC
+X
+CO (IMPURITIES
+(IF ANY))
+
+10
+0 - 20
+PPMV
+3 (%RSD)
+C1
+
+THC
+(HYDROCARBONS,
+IMPURITIES (IF
+ANY))
+
+10
+
+0 - 20
+
+PPMV
+
+3 (%RSD)
+
+L1
+
+X
+OXYGEN
+
+1
+0 - 10
+PPMV
+10 (%RSD)
+R1
+X
+MOISTURE
+
+1
+0 - 10
+PPMV
+
+X
+CO2
+
+10
+0 - 20
+PPMV
+3
+C2
+
+CO+CO2
+
+Not Measured
+
+CALC
+
+Stream Note
+• Cycle time 4 min.
+• N2 will be calculated by difference N=100-CO-CO2-THC-O2
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Stream Number
+2
+Stream Tag
+AE-000010
+Stream name
+Fresh Nitrogen
+Aggregate State Sample Point
+Not Defined
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+NITROGEN
+
+99,997
+
+0 - 100
+WT%
+
+CALC
+X
+CO (IMPURITIES
+(IF ANY))
+
+10
+0 - 20
+PPMV
+3 (%RSD)
+C1
+X
+THC
+(HYDROCARBONS,
+IMPURITIES (IF
+ANY))
+
+10
+
+0 - 20
+
+PPMV
+
+3 (%RSD)
+
+L1
+
+X
+OXYGEN
+
+1
+0 - 10
+PPMV
+10 (%RSD)
+R1
+X
+MOISTURE
+
+1
+0 - 10
+PPMV
+
+X
+CO2
+
+10
+0 - 20
+PPMV
+3 (% RSD)
+C2
+
+CO+CO2
+
+Not Measured
+
+CALC
+
+Stream Note
+• See stream 1
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tag Number: AT-060052
+Hardware Configuration
+
+Maxum Oven: Single Isothermal Air Bath
+Detector: Thermal Conductivity (IS-TCD)
+
+Flame Ionization
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: None
+Electronic Pressure Control Modules: 2 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Methanator: Included
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 2
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 4
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+Analytical Configuration
+
+Number of Streams: 1
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+Outputs for Stream Switching and Calibration
+Double pneumatic outputs: 1
+Single pneumatic outputs: 4
+Analyzer Certification
+
+Area Classification: ATEX II 3 G IIB + H2 T3 (200°C) Gc
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+9.1 MAXUM II -AT-060052 (continued)
+
+Important notes
+
+When using MAXUM II without APU, the customer is required to
+follow the label on the side of the analyzer for proper purging.
+In case of alarm, the user must inspect and correct the fault
+or ensure the area is non-hazardous, otherwise turn off the
+analyzer. This is a manual process in this configuration whereas
+when using an APU the analyzer is shut off automatically.
+Utility Requirements
+
+Carrier: Hydrogen (99.999%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+(From the Catalytic Air Treater provided, if ordered)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1650 VA
+Instrument Air: 5 SCF/min (140 L/min) at 60 psig (4.2 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+flammable)
+Sample Inlet Conditions
+
+Physical State: Vapor
+Temperature: max. 250 °F (121 °C) Standard; higher temp. optional
+Pressure: 5 to 50 psig (0.35 to 3.5 kg/cm2 or barg)
+(Modifications for vacuum service can be quoted on request)
+Return Pressure: As required to achieve sample flow.
+At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure is recommended
+Sample must equilibrate at atmospheric pressure prior to injection.
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+9.1 MAXUM II -AT-060052 (continued)
+
+Pricing quoted is based on the following specific application information
+
+Stream Number
+1
+Stream Tag
+AE-060052
+Stream name
+Recovered H2 to CVD Reactor
+Aggregate State Sample Point
+Not Defined
+Aggregate State Sample Analyzer
+Vapor
+
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+
+Chemical Name
+
+Min
+
+Normal
+
+Max
+Measuring Range
+Low - High
+
+Unit
+
+Repeatability
+
+Train
+
+AO
+HYDROGEN
+
+99,9
+
+Not Measured
+WT%
+1 (%FS)
+CALC
+X
+AR
+
+0 - 120
+PPMV
+2 (%FS)
+R1
+
+N2
+
+0 - 120
+PPMV
+2 (%FS)
+R1
+
+THC
+
+0 - 20
+PPMV
+3 (%FS)
+C1
+
+CO
+
+0 - 20
+PPMV
+2 (%FS)
+C1
+
+CO2
+
+0 - 20
+PPMV
+2 (%FS)
+C1
+
+Stream Note
+• Cycle time 4 min.
+• H2 = 100% - O2 - N2 – CO - CH4 - CO2 - C2+.
+• THC = C1 + C2+
+• If oxygen and argon are present in the stream, both are measured as one peak Ar + O2.

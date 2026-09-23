@@ -1,0 +1,261 @@
+Quotation Number: Q2412N094
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+2.1
+GAS ANALYSER SYSTEM FOR CO/CO2/CH4
+Service: LUMMUS 1, 2 & 3 reformers
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Shall be mounted inside Z purged Cabinet making
+the system suitable to Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: CO/CO2/CH4
+Process Conditions at Sample Inlet:
+•
+Temperature: To be provided by customer
+•
+Pressure: To be provided by customer
+•
+Gas Composition: To be provided by customer
+Measuring Range:
+•
+CH4: 0 - 5%,
+•
+CO2: 0 - 15%
+•
+CO: 0 - 30%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System.
+With Secondary sample handling system consisting of:
+•
+With Sample Gas Cooler, Sample Gas Pump, flowmeters,
+solenoid valves and condensate monitors.
+•
+Mounted inside common Z-purged panel to meet the area
+classification requirements
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+•
+The SHS design is subject to change based on the process
+conditions and sample gas composition which is missing in
+the RFQ document. Same is awaited from customer
+3 Nos
+Quoted
+Quoted
+2.2
+GAS ANALYSER SYSTEM FOR CO/CH4
+Service: MIDREX REFORMER
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Shall be mounted inside Z purged Cabinet making
+the system suitable to Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: CO/CH4
+Process Conditions at Sample Inlet:
+•
+Temperature: To be provided by customer
+•
+Pressure: To be provided by customer
+•
+Gas Composition: To be provided by customer
+Measuring Range:
+•
+CH4: 0 - 5%
+•
+CO: 0 - 30%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System.
+With Secondary sample handling system consisting of:
+•
+With Sample Gas Cooler, Sample Gas Pump, flowmeters,
+solenoid valves and condensate monitors.
+•
+Mounted inside Z-purged panel to meet the area classification
+requirements
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+•
+The SHS design is subject to change based on the process
+conditions and sample gas composition which is missing in
+the RFQ document. Same is awaited from customer
+1 No
+Quoted
+Quoted
+2.3
+GAS ANALYSER SYSTEM FOR H2
+Service: BUSTLE GAS LINE
+Make: Siemens
+Model: CALOMAT6E
+Operating Principle: TCD
+Area Classification: Shall be mounted inside Z purged Cabinet making
+the system suitable to Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: H2
+Process Conditions at Sample Inlet:
+•
+Temperature: To be provided by customer
+•
+Pressure: To be provided by customer
+•
+Gas Composition: To be provided by customer
+Measuring Range:
+•
+H2: 0 - 80%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System.
+With Secondary sample handling system consisting of:
+•
+With Sample Gas Cooler, Sample Gas Pump, flowmeters,
+solenoid valves and condensate monitors.
+•
+Mounted inside Z-purged panel to meet the area classification
+requirements
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+•
+The SHS design is subject to change based on the process
+conditions and sample gas composition which is missing in
+the RFQ document. Same is awaited from customer
+1 No
+Quoted
+Quoted
+2.4
+GAS ANALYSER SYSTEM FOR CO2
+Service: MIDREX REFORMER AND MIDREX REACTOR
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Shall be mounted inside Z purged Cabinet making
+the system suitable to Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: CO2
+Process Conditions at Sample Inlet:
+•
+Temperature: To be provided by customer
+•
+Pressure: To be provided by customer
+•
+Gas Composition: To be provided by customer
+Measuring Range:
+•
+CO2: 0 - 30%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System from each tapping point
+With Secondary sample handling system consisting of:
+•
+With Sample Gas Cooler, Sample Gas Pump, flowmeters,
+solenoid valves and condensate monitors.
+•
+Mounted inside common Z-purged panel to meet the area
+classification requirements
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+•
+The SHS design is subject to change based on the process
+conditions and sample gas composition which is missing in
+the RFQ document. Same is awaited from customer
+1 No
+Quoted
+Quoted
+2.5
+EXTRACTIVE SAMPLE PRECONDITIONING SYSTEMS
+Process details and gas composition required to further understand
+and design the system
+4 Nos
+Quoted
+Quoted
+2.6
+ON-SITE OXYGEN ANALYZERS
+Make: Fuji/YIL/ABB/Ametek
+Operating Principle: Zirconia
+Area Classification: suitable to Zone 2, IIC
+Mounting Location: Insitu
+Component to be measured: O2
+Process Conditions at Sample Inlet:
+•
+Temperature: To be provided by customer
+•
+Pressure: To be provided by customer
+•
+Gas Composition: To be provided by customer
+6 Nos
+Quoted
+Quoted
+2.7
+SPARE PARTS FOR 2 YEARS OF THE CO, CO2, CH4 ANALYZER
+1 lot
+Quoted
+Quoted
+2.8
+SPARE PARTS FOR 2 YEARS OF THE H2 ANALYZER
+1 lot
+Quoted
+Quoted
+2.9
+SPARE PARTS FOR 2 YEARS OF THE CO2 ANALYZER
+1 lot
+Quoted
+Quoted
+2.10
+SPARE PARTS FOR 2 YEARS OF THE O2 ANALYZERS
+1 lot
+Quoted
+Quoted
+2.11
+CALIBRATION CYLINDERS
+All calibration cylinders shall be in customers scope as this is an export
+project
+1 lot
+Not Quoted
+3
+FAT AT ADAGE WORKS
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges shall be taken care by customer)
+1 lot
+Quoted
+Quoted
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+Per
+Diem
+Quoted per diem
+5
+TRAINING
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+Per
+Diem
+Quoted per diem
+Note:
+Please fill in the RFQ evaluation form for us accordingly design the SHS. The below attached schemes and BOM are subject to
+change based on availability of the required details.

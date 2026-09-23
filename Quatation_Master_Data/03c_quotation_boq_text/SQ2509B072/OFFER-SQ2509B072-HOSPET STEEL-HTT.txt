@@ -1,0 +1,29 @@
+Quotation Number: SQ2509B072
+BOQ Status: FOUND
+
+Date: 08-09-2025
+Ref: Q25260291-SQ2509B072
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18902003
+Heat Traced Tube 230 VAC 1/2" SS"
+Constant Voltage
+50.00
+3,960.00
+198,000.00
+1
+Simplex Tube Trace
+Tube Material: SS 316
+No of Tube: 1
+Operating Voltage: 230 VAC
+Meters
+Tube Size: 1/2" O.D
+Date: 08-09-2025
+Ref: Q25260291-SQ2509B072

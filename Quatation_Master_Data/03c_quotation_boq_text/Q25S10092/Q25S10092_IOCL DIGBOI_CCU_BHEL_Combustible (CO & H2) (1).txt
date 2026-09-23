@@ -1,0 +1,125 @@
+Quotation Number: Q25S10092R0
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Item Qty
+Description
+Unit Price (₹)
+(Excl GST)
+Total Price (₹)
+(Excl GST)
+1
+1
+COMBUSTIBLES ANALYSER TAG 07-AE/AT-6653,
+Combustibles Analyser along with commisioinig
+spares
+Quoted
+Quoted
+1.1
+1
+Design & Project Management
+Inclusive
+Inclusive
+1.2
+1
+FAT at Adage Factory
+Inclusive
+Inclusive
+1.3
+1
+Packing, Forwarding & Transportation upto Site
+Inclusive
+Inclusive
+1.4
+1
+O&M Training for Combustibles Analyser at site
+Operation and Maintenance training at site on topic
+"Combustibles Analyser" of 7 nos. owner's
+personnel for 1days (min)
+Quoted
+Quoted
+2
+1
+MANDATORY SPARES FOR COMBUSTIBLES
+ANALYSER
+Mandatory Spares as per clause 25 (Sheet 5 ) of
+Spec No: Spec No:8118-PR-97-084-008D
+Quoted
+Quoted
+3
+1
+Supervision of Installation and Commissioning of
+Combustibles Analyser
+Number of Days: 6 Days at site in 3 Trips.
+Price shall include lodging, boarding and
+Transportation
+Quoted
+Quoted
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. Mounting Location of Analyser is Considered on Stack, HMI & RCU of the same shall be mounted on
+field.
+2. The Analyser is rated for ATEX II 3G Ex pz IIC T3 Gc and IECEx Zone 2, T3 with purge.
+3. HART output is not available.
+4. We have considered Zero and Span gas cylinders of 10 ltr sufficient for 1yr.
+SECTION 3: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 07-AT-6653
+Service: Combustibles Analyser in Radiant section for Heater
+-
+Operating Pressure (Nor): -2.54 mmwcg
+-
+Operating Temperature (Nor): 825 DegC
+As Per MR
+Requirement
+GAS ANALYSER FOR COMBUSTIBLE MEASUREMENT
+Make: AMETEK
+Model: WDG-VC
+Measuring principle: Zirconia
+Hazardous Area Classification: Zone 2 llC T3
+Mounting Location: In-Situ Mounting with sample probe
+Phase : Gas
+IP rating : IP65
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault alarms
+Measuring Ranges: 0 to 2000 ppm combustibles.
+Process Connection: 4"NPS x Sch 40 with 150# WNRF Flange
+Probe Type: MOC: Inconel-600.
+Utilities Required:
+-
+Power supply: 110 VAC, 50HZ UPS, Power
+Consumption:740VA.
+- 3 SCFH typical at 3 to 6 psig, instrument air, Free of Oil,
+Dust & Moisture.
+1 No
+Quoted
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+(MOC: SS316, 3mm)
+-
+RCU unit for Auto/Manual calibration.
+-
+With HMI (Suitable for Zone-2), Make: Ametek.
+-
+With electrical JB, MOC: LM6
+-
+1⁄4” SS316 Tubing between RCU unit and Analyzer Sensor. (60
+meters)
+-
+Power Cable between Sensor Unit at Stack & HMI at grade
+level: (30 meters).
+-
+Signal Cable between Sensor Unit at Stack & HMI at grade
+level: (30 meters).
+-
+Communication Cable between Sensor Unit at Stack & HMI at
+grade level: (30 meters).
+-
+Calibration Gas of 10 ltrs for zero & Span with regulators and
+required accessories by Adage.
+1 No
+Quoted

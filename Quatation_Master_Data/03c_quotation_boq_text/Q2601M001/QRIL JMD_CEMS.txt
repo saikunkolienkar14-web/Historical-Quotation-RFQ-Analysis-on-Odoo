@@ -1,0 +1,412 @@
+Quotation Number: Q2601M001R1
+BOQ Status: FOUND
+
+Description Qty
+Qty
+Total Price (INR)
+1
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR SMD
+Location: HTM-A/B/C/D
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Cabinet
+Process Parameters:
+
+Pressure (Operating): 50 mmwc
+
+Temperature (Operating): 200-300 DegC
+Measuring Ranges:
+
+SOx: 0 – 200/1000 mg/Nm3
+
+NOx: 0 – 400/2000 mg/Nm3
+
+O2: 0-21%
+Sample Handling System:
+
+With Sample probe and its blowback unit
+
+With Sample Gas cooler, pump, filters, etc
+
+Mounted inside IP54 Panel
+
+With Calibration Gas Cylinders
+
+With Cylinder Rack with Canopy
+Analyzer Output:
+
+4-20mA Analog Output for each measuring components.
+4 Nos
+2,04,00,000
+2
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+400
+meters
+3
+Dust Monitor
+Model: DR-290 , Make: Durag
+Principle: Measuring The Optical Transmission Of Visible Light Which
+Passed A Measuring Path Twice
+Measuring Location: In-Situ, Non-Contact
+Self-Check: Automatic Zero And Span Check Led Light Source: No
+Readjustment Needed
+Dust Opacity Range: 0- 100 %
+Output Signals: 1 X 4-20 Ma (Analog Output)
+Relay Output (For Status Signal)
+Accessories Consists Of
+
+D-R 290 Measuring Unit
+
+D-R 290 Reflector
+
+Mounting Bushing Tubes & Other Accessories
+Utility Requirement: Plant N2/Instrument Air At
+4-6 Kg/Cm2 For Purging In Customer’s Scope.
+The above model is quoted based on assumptions and after
+receipt Of Stack Details the model might change accordingly
+4 Nos
+4
+PORTA CABIN FOR CEMS
+MOC: CRCA
+DIMENSION: 4 X 3 X 2.7 MTRS
+With Split AC – 1 NO.
+With 50mm Thick insulation
+With Alluminumm chequered plate for flooring .
+With door and locking arrangement .
+With lightining arrangement system .
+Completely wired and tubed for gas analyser system mounting .
+1 No
+Stack Emission Monitoring System - PMD
+Sr.
+No.
+Description Qty
+Qty
+Total Price (INR)
+5
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR PMD
+Location: Bertram-1 &2, Bertram-3 & 4, Thermax-1, Thermax-2
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Cabinet
+Process Parameters:
+
+Pressure (Operating): Customer to Specify
+Bertram – 1& 2 , 3 & 4
+
+Temperature (Operating): 109 DegC
+Thermax – 1& 2
+
+Temperature (Operating): 139 DegC
+Measuring Ranges:
+
+SOx: 0 – 200/1000 mg/Nm3
+
+NOx: 0 – 400/2000 mg/Nm3
+
+O2: 0-21%
+Sample Handling System:
+
+With Sample probe and its blowback unit
+
+With Sample Gas cooler, pump, filters, etc
+
+Mounted inside IP54 Panel
+
+With Panel AC, Make: Adage
+
+With Calibration Gas Cylinders
+
+With Cylinder Rack with Canopy
+Analyzer Output:
+
+4-20mA Analog Output for each measuring components.
+4 Sets
+1,92,00,000
+6
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+400
+Mtrs
+7
+Dust Monitor
+Model: DR-290 , Make: Durag
+Principle: Measuring The Optical Transmission Of Visible Light Which
+Passed A Measuring Path Twice
+Measuring Location: In-Situ, Non-Contact
+Self-Check: Automatic Zero And Span Check Led Light Source: No
+Readjustment Needed
+Dust Opacity Range: 0- 100 %
+4 Sets
+Output Signals: 1 X 4-20 Ma (Analog Output)
+Relay Output (For Status Signal)
+Accessories Consists Of
+
+D-R 290 Measuring Unit
+
+D-R 290 Reflector
+
+Mounting Bushing Tubes & Other Accessories
+Utility Requirement: Plant N2/Instrument Air At
+4-6 Kg/Cm2 For Purging In Customer’s Scope.
+The above model is quoted based on assumptions and after
+receipt Of Stack Details the model might change accordingly
+Stack Emission Monitoring System - BMD
+Sr.
+No.
+Description Qty
+Qty
+Total Price (INR)
+8
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR BMD
+Location: Old DV , New DV
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Cabinet
+Process Parameters:
+DV
+
+Temperature (Operating): 142-218 DegC
+
+Pressure (Operating): 102 – 125 mm Wc
+Measuring Ranges:
+
+SOx: 0 – 200/1000 mg/Nm3
+
+NOx: 0 – 400/2000 mg/Nm3
+
+O2: 0-21%
+Sample Handling System:
+
+With Sample probe and its blowback unit
+
+With Sample Gas cooler, pump, filters, etc
+
+Mounted inside IP54 Panel
+
+With Calibration Gas Cylinders
+
+With Cylinder Rack with Canopy
+Analyzer Output:
+
+4-20mA Analog Output for each measuring components.
+2 Sets
+1,02,00,000
+9
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+200
+Mtrs
+10
+Dust Monitor
+Model: DR-290 , Make: Durag
+Principle: Measuring The Optical Transmission Of Visible Light Which
+Passed A Measuring Path Twice
+Measuring Location: In-Situ, Non-Contact
+Self-Check: Automatic Zero And Span Check Led Light Source: No
+Readjustment Needed
+Dust Opacity Range: 0- 100 %
+Output Signals: 1 X 4-20 Ma (Analog Output)
+Relay Output (For Status Signal)
+Accessories Consists Of
+
+D-R 290 Measuring Unit
+
+D-R 290 Reflector
+
+Mounting Bushing Tubes & Other Accessories
+Utility Requirement: Plant N2/Instrument Air At
+4-6 Kg/Cm2 For Purging In Customer’s Scope.
+The above model is quoted based on assumptions and after
+receipt Of Stack Details the model might change accordingly
+2 Sets
+11
+PORTA CABIN FOR CEMS
+MOC: CRCA
+DIMENSION: 3 X 3 X 2.7 MTRS
+With Split AC – 1 NO.
+With 50mm Thick insulation
+With Alluminumm chequered plate for flooring .
+With door and locking arrangement .
+With lightining arrangement system .
+Completely wired and tubed for gas analyser system mounting .
+1 SET
+Stack Emission Monitoring System - BMD
+Sr.
+No.
+Description Qty
+Qty
+Total Price (INR)
+12
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR BMD
+Location: Husk Boiler
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Cabinet
+Process Parameters:
+HUSK BOILER
+
+Temperature (Operating): 102 - 125 DegC
+
+Pressure (Operating): 20 ~ 25 mm Wc
+Measuring Ranges:
+
+SOx: 0 – 200/1000 mg/Nm3
+
+NOx: 0 – 400/2000 mg/Nm3
+
+O2: 0-21%
+Sample Handling System:
+
+With Sample probe and its blowback unit
+
+With Sample Gas cooler, pump, filters, etc
+
+Mounted inside IP54 Panel
+
+With Panel AC, Make: Adage
+
+With Calibration Gas Cylinders
+
+With Cylinder Rack with Canopy
+Analyzer Output:
+
+4-20mA Analog Output for each measuring components.
+1 Set
+48,00,000
+13
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+100
+Mtrs
+14
+Dust Monitor
+Model: DR-290 , Make: Durag
+Principle: Measuring The Optical Transmission Of Visible Light Which
+Passed A Measuring Path Twice
+Measuring Location: In-Situ, Non-Contact
+Self-Check: Automatic Zero And Span Check Led Light Source: No
+Readjustment Needed
+Dust Opacity Range: 0- 100 %
+Output Signals: 1 X 4-20 Ma (Analog Output)
+Relay Output (For Status Signal)
+Accessories Consists Of
+
+D-R 290 Measuring Unit
+
+D-R 290 Reflector
+
+Mounting Bushing Tubes & Other Accessories
+Utility Requirement: Plant N2/Instrument Air At
+4-6 Kg/Cm2 For Purging In Customer’s Scope.
+The above model is quoted based on assumptions and after
+receipt Of Stack Details the model might change accordingly
+1 Set
+Stack Emission Monitoring System - HOMD
+Sr.
+No.
+Description Qty
+Qty
+Total Price (INR)
+15
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR BMD
+Location: Heater A&B , Heater C
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Cabinet
+Process Parameters:
+HEATER A& B
+
+Temperature (Operating): 200 DegC
+
+Pressure (Operating): 350 mm Wc
+HEATER C
+
+Temperature (Operating): 160 DegC
+
+Pressure (Operating): 50mm Wc
+Measuring Ranges:
+
+SOx: 0 – 200/1000 mg/Nm3
+
+NOx: 0 – 400/2000 mg/Nm3
+
+O2: 0-21%
+Sample Handling System:
+
+With Sample probe and its blowback unit
+
+With Sample Gas cooler, pump, filters, etc
+
+Mounted inside IP54 Panel
+
+With Panel AC, Make: Adage
+
+With Calibration Gas Cylinders
+
+With Cylinder Rack with Canopy
+Analyzer Output:
+
+4-20mA Analog Output for each measuring components.
+2 Set
+96,00,000
+16
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+200
+Mtrs
+17
+Dust Monitor
+Model: DR-290 , Make: Durag
+Principle: Measuring The Optical Transmission Of Visible Light Which
+Passed A Measuring Path Twice
+Measuring Location: In-Situ, Non-Contact
+Self-Check: Automatic Zero And Span Check Led Light Source: No
+Readjustment Needed
+Dust Opacity Range: 0- 100 %
+Output Signals: 1 X 4-20 Ma (Analog Output)
+Relay Output (For Status Signal)
+Accessories Consists Of
+
+D-R 290 Measuring Unit
+
+D-R 290 Reflector
+
+Mounting Bushing Tubes & Other Accessories
+Utility Requirement: Plant N2/Instrument Air At
+4-6 Kg/Cm2 For Purging In Customer’s Scope.
+The above model is quoted based on assumptions and after
+receipt Of Stack Details the model might change accordingly
+2Set
+SECTION 1: SUMMARY OF PRICES- SERVICES
+1
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO AND FRO
+AIR TICKET FARE, VISA CHARGES, SECURITY, WORK PERMIT IS
+TO BE ARRANGED BY CUSTOMER)
+@ 45,000 PER MAN DAY

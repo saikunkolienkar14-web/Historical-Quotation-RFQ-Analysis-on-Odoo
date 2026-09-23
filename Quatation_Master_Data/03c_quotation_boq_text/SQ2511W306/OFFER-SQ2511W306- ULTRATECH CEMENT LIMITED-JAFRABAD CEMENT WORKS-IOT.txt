@@ -1,0 +1,27 @@
+Quotation Number: SQ2511W302
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+IOT for Data transmission
+1
+1,65,000
+1,65,000
+2
+Yearly Data Logging & Data Transmission (Per Stack)
+1
+30000
+30000
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+• RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal
+cables for the same shall be in customer scope.
+• Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+• Internet for the data logger shall be made available at site by customer preferably broadband
+connection.
+• Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

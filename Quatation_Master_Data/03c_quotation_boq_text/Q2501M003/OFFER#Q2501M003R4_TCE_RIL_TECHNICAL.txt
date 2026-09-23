@@ -1,0 +1,88 @@
+Quotation Number: Q2501M003R4
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF HCl
+TAG NO: 081AT-710004 , 081AT-720004, 081AT-800001, 081AT-
+800003, 081AT-800005
+Make: Siemens
+Model: LDS6
+Operating Principle: TDLAS
+Component to be measured : HCl
+Area Classification: Safe
+Extractive Type System
+Hybrid cable : 50 Meters
+With Secondary sample handling system consisting of:
+Heated Flow through cell for mounting of Laser analyzers
+MOC of flow through cell- SS with PTFE lining
+Laser Gas Analyser for Measurement of HCl
+Principle Of Measurement: TDLAS
+Ingress Protection: IP65
+Analyzer output: 4-20 Ma , Digital Outputs
+Note: Please note that all the tubings shall be PTFE and all fittings shall
+be PVDF.
+5 SETS
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE ; Tube size:1/4”
+With all necessary accessories and JB’S
+50 X 5
+MTRS
+@QUOTED PER METER
+3
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2.
+TAG NO: 081AT-710002D ,081AT-720002D, 081AT-800002,
+081AT-800004,081AT-800006
+Area classification: Safe
+With sample handling system consisting of sample gas pump,
+gas cooler , filters, ball valves, flow monitor ,chlorine detector
+etc.
+With calibration gas cylinders ( 2 sets )
+With analyser model: 9900
+Make: Ametek
+For the measurement of
+Chlorine (Cl2)
+Note: Please note that all the tubings shall be PTFE and all fittings shall
+be PVDF.
+5 SETS
+QUOTED
+QUOTED
+COMMON GRP/FRP GAS CONDITIONING CABINET FOR BOTH CL2 AND HCL ANALYSIS SYSTEM (COMBINED)
+SHALL BE PROVIDED
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE ; Tube size: 1/4”
+With all necessary accessories and JB’S
+50 X 5
+MTRS
+QUOTED
+5
+MANDATORY SPARES
+3/2 Way Solenoid Valve – 1 No
+2/2 Way Solenoid Valve – 1 No
+Kindly note that the PLC considered for this package is not
+safeguarding PLC and is being used for control of sample
+handling system components . Only spare I/O shall be
+considered . Hence the PLC spare clause is not applicable
+1 SET
+QUOTED
+QUOTED
+6
+CHARGES FOR TRAINING TO THE FIELD OPERATOR AND
+INSTRUMENT MAINTENACE TEAM
+QUOTED
+7
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and
+To be claimed at actuals (acii tier/flight).
+@QUOTED PER MANDAY

@@ -1,0 +1,33 @@
+Quotation Number: SQ2504E129
+BOQ Status: FOUND
+
+Date: 15-04-2025
+Ref: Q25260029-SQ2504E129
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18611009
+Dual Channel Switch Amplifier for
+Retraction Supply 24 VDC
+5.00
+13,500.00
+67,500.00
+1
+Nos
+18604002
+Temperature Controller - 48 X48 mm
+Digital Indicator RTD Input 1 Alarm
+Output 4-20 Output
+3.00
+11,550.00
+34,650.00
+2
+Nos
+Date: 15-04-2025
+Ref: Q25260029-SQ2504E129

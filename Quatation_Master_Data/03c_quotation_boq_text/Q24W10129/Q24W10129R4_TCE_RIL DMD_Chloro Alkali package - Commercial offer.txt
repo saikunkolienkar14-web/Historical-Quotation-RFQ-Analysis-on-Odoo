@@ -1,0 +1,310 @@
+Quotation Number: Q24W10129
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Total Price(INR)
+1
+081AT 500001 O2 in Cl2 Analyser (PTFE Wetted parts)
+1 No
+86,10,000/-
+2
+081AT 500002 O2 in Cl2 Analyser (PTFE Wetted parts)
+1 No
+86,10,000/-
+3
+081AT 500005 O2 in Cl2 Analyser (PTFE Wetted parts)
+1 No
+86,10,000/-
+4
+-
+Project Documentation
+1 Lot
+Inclusive
+5
+-
+FAT at Adage Factory
+1 Lot
+Inclusive
+6
+-
+Packing forwading & Transportation upto Site
+charges
+1 Lot
+3,00,000/-
+7
+-
+Supervision of installation & commissioning
+For 10 Days, Above 10 days Per diem rate
+@45,000/- shall be applicable.
+Lumpsum
+4,00,000/-
+8
+-
+Commissioning spares
+-
+Set of filters
+-
+Set of Oring
+-
+Set of Fuses
+1 Lot
+30,000/-
+9
+-
+Mandatory spares
+-
+10% or min 1 no of SHS components.
+-
+Laser module with PCB
+SHS components are PTFE & hence costlier
+1 Lot
+18,00,000/-
+TOTAL PACKAGE PRICE
+2,83,10,000/-
+SECTION 2: TECHNICAL LITERATURE
+1
+EXTRACTIVE LASER BASED O2 ANALYSER (Wetted parts
+are made of HASTELLOY)
+Tag No: 081AT 500001
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET
+Make: AIROPTIC
+Model: GASEYE Extractive
+Operating Principle: TDLAS
+Area Classification: Safe Area
+Mounting Location: Inside FRP/GRP cabinet, make: Intertac/
+equivalent
+Component to be measured: O2
+Loop Cable: As required
+Ingress Protection: IP66
+Measuring range: O2 - 0-1.5%
+Accuracy: 2% of measured value or LOD
+Precision: 1% of measured value or LOD
+LOD: 100 ppm
+Process Conditions at Sample Inlet:
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+Modbus TCP IP output
+-
+Digital fault alarams
+1 No
+Quoted
+1.a
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: Hastelloy
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+1.b
+Sample Transportation tube:
+-
+1⁄4’’ SS316 PTFE HTT tube, Qty: 25 meters for supply
+-
+1⁄4’’ SS316 PTFE HTT tube, Qty: 25 meters for return @0.2
+Kg/cm2g
+50 Meters
+Quoted
+1.c
+Primary Sample Handling System (Wetted parts MOC is
+PTFE)
+-
+With Isolation ball valve
+-
+With Inline filter and pressure reducer assembly
+Secondary Sample handling system consisting of below
+items (Wetted parts MOC is PTFE)
+-
+Ball valve, Flowmeter for bypass and supply with low flow
+switch, NRV, fastloop filter (Non redundant configuration).
+1 No
+Quoted
+1.d
+Analyser Cabinet:
+-
+800mm x 800mm x 2100mm, MOC: GRP/FRP, Make:
+Intertac/Equivalent (Approx dimention shall be provided
+post order)
+-
+With Required JB’s
+-
+PDB, GRP/FRP
+-
+Headers and other accessories (MOC: SS316 with
+painting)
+Notes
+-
+Makes shall be As per RIL AVL, However since the
+process is challenging Deviation to makes can be
+proposed.
+1 No
+Quoted
+2
+EXTRACTIVE LASER BASED O2 ANALYSER (Wetted parts
+are made of HASTELLOY)
+Tag No: 081AT 500002
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET
+Make: AIROPTIC
+Model: GASEYE Extractive
+Operating Principle: TDLAS
+Area Classification: Safe Area
+Mounting Location: Inside FRP/GRP cabinet, make : Intertac/
+equivalent
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP66
+Measuring range : O2 - 0-1.5%
+Accuracy : 2% of measured value or LOD
+Precision: 1% of measured value or LOD
+LOD : 100ppm
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+1 No
+Quoted
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+2.a
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: Hastelloy
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+2.b
+Sample Transportation tube:
+-
+1⁄4’’ SS316 PTFE HTT tube, Qty: 25 meters for supply
+-
+1⁄4’’ SS316 PTFE HTT tube, Qty: 25 meters for return @0.2
+Kg/cm2g
+50 Meters
+Quoted
+2.c
+Primary Sample Handling System (Wetted parts MOC is
+PTFE)
+-
+With Isolation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting as below , (Wetted parts
+MOC is PTFE)
+-
+Ball valve, Flowmeter for bypass and supply with low flow
+switch, NRV, fastloop filter (Non redundant configuration).
+1 No
+Quoted
+2.d
+Analyser Cabinet:
+-
+800mm x 800mm x 2100mm, MOC: GRP/FRP, Make:
+Intertac/Equivalent(Approx dimention shall be provided
+post order)
+-
+With Required JB’s
+-
+PDB, GRP/FRP
+-
+Headers and other accessories (MOC: SS316 with
+painting)
+Notes
+-
+Makes shall be As per RIL AVL, However since the
+process is challenging Deviation to makes can be
+proposed.
+1 No
+Quoted
+3
+EXTRACTIVE LASER BASED O2 ANALYSER (Hastelloy
+wetted parts)
+Tag No: 081AT 500005
+Service: ME-PA081-S500550 SUPERHEATER OUTLET
+Make: AIROPTIC
+Model: GASEYE Extractive
+Operating Principle: TDLAS
+Area Classification: Safe Area
+1 No
+Quoted
+Mounting Location: Inside FRP/GRP cabinet, make : Intertac/
+equivalent
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP66
+Measuring range : O2 - 0-1.5%
+Accuracy : 2% of measured value or LOD
+Precision: 1% of measured value or LOD
+LOD : 100ppm
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+3.a
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: Hastelloy
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+3.b
+Sample Transportation tube:
+-
+1⁄4’’ SS316 PTFE HTT tube, Qty: 25 meters for supply
+-
+1⁄4’’ SS316 PTFE HTT tube, Qty: 25 meters for return @0.2
+Kg/cm2g
+50 Meters
+Quoted
+3.c
+Primary Sample Handling System (Wetted parts MOC is
+PTFE)
+-
+With Isolation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting as per below items
+(Wetted parts MOC is PTFE)
+-
+Ball valve, Flowmeter for bypass and supply with low flow
+switch, NRV, fastloop filter (Non redundant configuration).
+1 No
+Quoted
+3.d
+Analyser Cabinet:
+-
+800mm x 800mm x 2100mm, MOC: GRP/FRP, Make:
+Intertac/Equivalent(Approx dimention shall be provided
+post order)
+-
+With Required JB’s
+-
+PDB, GRP/FRP
+-
+Headers and other accessories (MOC: SS316 with
+1 No
+Quoted
+painting)
+Notes
+-
+Makes shall be As per RIL AVL, However since the
+process is challenging Deviation to makes can be
+proposed.

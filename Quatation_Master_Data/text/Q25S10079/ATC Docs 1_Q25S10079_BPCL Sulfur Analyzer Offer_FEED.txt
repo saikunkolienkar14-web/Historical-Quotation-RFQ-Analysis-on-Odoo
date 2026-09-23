@@ -1,0 +1,2063 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+With reference to the Tender no. GEM/2025/B/6383947. Please find enclosed our quotation for 
+design, engineering, manufacture and Supply of analyzer system which includes analysers as per your 
+requirement. 
+ 
+TECHNICAL OFFER 
+ 
+ADAGE QUOTE REF: 
+Q25S10079 
+DATED : 29.07.2025 
+BID TYPE : Tender 
+PROJECT TITLE: 
+SUPPLY, INSTALLATION, COMMISSIONING AND AMC OF ONLINE 
+SULPHUR ANALYSER FOR BPCL KOCHI REFINERY 
+INQUIRY DETAILS: 
+GEM Tender No: GEM/2025/B/6383947 
+RFQ No/Date: 6001857474 / 25.06.2025 
+CUSTOMER: 
+
+Kind Attention : Mr. Bhupesh Oltikar 
+BPCL-Kochi Refinery 
+Ambalamugal . P.O 
+Dist. Ernakulam 
+Kerala, India, Pin -682302 
+END USER: 
+
+BPCL-Kochi Refinery 
+ 
+We are pleased to submit proposal for the analyser system along with a brief introduction about our 
+company. 
+ 
+The contents are as follows: 
+ 
+Section-1: Scope of supply 
+Section-2: Scope of services 
+Section-3: Summary of prices 
+Section-4: Technical Literature 
+Section-5: Responsibility matrix 
+Section-6: Commercial terms & conditions 
+ 
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+ 
+Mr. G Nageshwara Rao (Reginal Sales) Mr. Vikash Kumar (ACMG) 
+ADAGE AUTOMATION PVT LIMITED Mob: 9860746003 
+Mob: +91 985379936 
+
+ vikash@adage-automation.com 
+gnrao@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 1: SCOPE OF SUPPLY 
+ 
+1. 2 x Sulphur analyser system (X-Ray Transmission/absorption (XRT)) 
+2. 1 Lot x Mandatory Spares. 
+3. 1 set x Documentation. 
+ 
+SECTION 2: SCOPE OF SERVICES 
+ 
+1. Engineering, Integration of sulphur analyser system customized to the proccess data sheet. 
+2. Supervision for installation, commissioning & training. 
+3. SAT & handover. 
+4. Services during warranty & CAMC. 
+
+Short Description of the offered System 
+ 
+The offered System is based on X-Ray Transmission/absorption (XRT)for measurement of Sulphur in 
+Liquid (Diesel Feed & VGO Feed). 
+The Make of the analyzer is Ametek & Model is ASOMA 682T-HP. The system has been conceptualised 
+based on the Datasheet provided to us as per the tender documents and issued corrigendums. 
+Sample will be tappped from the sample tapping maintained at suitable temp and transported to the 
+analyzer through a Sample handling system fitted with Fast loop redundant filter (0.5 micron ). 
+The Calibration philosophy of the analyzer is based on Manual sample filling into the Analyzer. The sample 
+from the fastloop redundant pump system and the analyser is connected to a Single pump based sample 
+recovery system connected back to the process for Tag No. AI 12317 & not the case for Tag No. AI 12311. 
+Based on the pour point given in the datasheet Tag No. AI 12317’s recovery and validation tank are heated 
+which also has a requirement of LP stream with steam traps at Fast loop pump system. 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: SUMMARY OF PRICES 
+ 
+Sr. 
+No. 
+Tag Nos 
+Item Description 
+Qty 
+Unit 
+Price(INR) 
+Total 
+Price(INR) 
+1 
+AI 12311 
+Sulphur Analyzer FEED DHDS 
+1 No. 
+Quoted 
+Quoted 
+2 
+AI 12317 
+Sulphur Analyzer FEED VGOHDS 
+1 No. 
+Quoted 
+Quoted 
+3 
+- 
+Supply of Mandatory Spares as per MR 
+1 Lot. 
+Quoted 
+Quoted 
+4 
+- 
+Supervision of Erection & Commissioning 
+1 Lot. 
+Quoted 
+Quoted 
+5 
+- 
+CAMC for 5 Years 
+1 Lot. 
+Quoted 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: TECHNICAL LITREATURE 
+• 
+Analyser system details 
+• 
+Schematic 
+• 
+Utility and power consumption details. 
+• 
+Datasheet Compliance. 
+ 
+1 
+SULFUR ANALYSER 
+ 
+Tag No: AI 12311 
+Service: Combined Diesel Feed (DHDS Feed) 
+Model: ASOMA 682T-HP 
+Make: AMETEK 
+Principle: X-ray transmission (XRT) 
+Measuring Range: 0 to 1.5 Wt % 
+Power Supply: 110 V AC, 50Hz 
+Consumption: 350 Watts 
+Hazardous Area Classification: IECEx Zone 2 (pz) 
+Instrument Air Consumption: 8 SCFM initial & 1 SCFM continuous 
+purge. 
+No of stream: 1 
+Analyzer ambient Temperature: -5 to 55 deg C 
+Sample phase: Liquid 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog outputs. 
+- 
+RS485 MODBUS Serial Output 
+- 
+Digital Input/Outputs for Alarm & Status. 
+ 
+For Further details, please refer attached catalog. 
+ 
+Density meter 
+Make: Emerson 
+Range: 820-850.4 Kg/m3 
+Power Supply: 110V AC, 50Hz 
+Analyzer Outputs: 4-20 mA Analog outputs. 
+ 
+For Further details, please refer attached catalog. 
+Refer attached schematic overview for the system understanding. The 
+system will be mounted inside insulated cabinet with single air 
+conditioner. 
+- 
+Analyser Cabinet, Dimension 1600 W x 1000 D x 2100 H in mm, 
+MOC: SS316, 2 mm thick with 500 mm Canopy on all 4 sides. 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+- 
+IP65 Rated 
+- 
+Redundant Vertex Cooler 
+- 
+Power distribution box 
+- 
+With ASJB, DSJB 
+- 
+Headers and other required accessories 
+ 
+Design and supply of Secondary SHS System consisting of: 
+- 
+SS316 Enclosure, 800 (H) x 600 (W) x 350 (D) mm, 2 mm thick 
+- 
+Pressure indicator– 01 No. 
+- 
+Redundant Fast loop filter (0.5 micron) – 02 No. 
+- 
+Ball valve – As required 
+- 
+Sample Rotameter (1.84 – 18.4 lpm) – 01 No. 
+- 
+Bypass Rotameter (1.84 – 18.4 lpm) – 01 No. 
+- 
+NRV – as required 
+and other accessories etc. required for proper functioning of analyzer. 
+ 
+Process condition at Sample inlet: 
+- 
+Temperature (Op/Design)) – 40-152/167.2 Deg C 
+- 
+Pressure (Op/Design) – 5-7/ 15 Kg/cm2g 
+ 
+Sample return: 
+- 
+Temperature (Op/Design)) – 40-152/167.2 Deg C 
+- 
+Pressure (Op/Design) – 5-7/ 15 Kg/cm2g 
+
+Sample probe 
+- 
+as the line size is 1” pipe provided by customer, hence sample 
+probe is not recommended. (Isolation valve to the pipe is in 
+customer scope) 
+ 
+0 No. 
+Not Quoted 
+ 
+Sample transportation line for Supply 
+- 
+1’’ Pipe, SS316 is in BPCL SCOPE, 
+- 
+Electrical Heat tracer and accessories Qty: 50 Meters is in 
+ADAGE scope 
+ 
+Sample transportation line for Return 
+- 
+1’’ Pipe, SS316 is in BPCL SCOPE, 
+- 
+Electrical Heat tracer and accessories Qty: 50 Meters is in 
+ADAGE scope 
+ 
+100 Mtr 
+Quoted 
+ 
+Fast loop pump in redundant configuration with all other 
+accessories in 3 Phase. 
+
+1 Lot 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+2 
+SULFUR ANALYSER 
+ 
+Tag No: AI 12317 
+Service: Combined VGO Feed (VGOHDS Feed) 
+Model: ASOMA 682T-HP 
+Make: AMETEK 
+Principle: X-ray transmission (XRT) 
+Measuring Range: 0 to 3.5 Wt % 
+Power Supply: 110 V AC, 50Hz 
+Consumption: 350 Watts 
+Hazardous Area Classification: IECEx Zone 2 (pz) 
+Instrument Air Consumption: 8 SCFM initial & 1 SCFM continuous 
+purge. 
+No of stream: 1 
+Analyzer ambient Temperature: -5 to 55 deg C 
+Sample phase: Liquid 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog outputs. 
+- 
+RS485 MODBUS Serial Output 
+- 
+Digital Input/Outputs for Alarm & Status. 
+
+For Further details, please refer attached catalog. 
+ 
+Density meter 
+Make: Emerson 
+Range: 930 Kg/m3 
+Power Supply: 110V AC, 50Hz 
+Analyzer Outputs: 4-20 mA Analog outputs. 
+ 
+For Further details, please refer attached catalog. 
+Refer attached schematic overview for the system understanding. The 
+system will be mounted inside insulated cabinet with single air 
+conditioner. 
+- 
+Analyser Cabinet, Dimension 1600 W x 1000 D x 2100 H in mm, 
+MOC: SS316, 2 mm thick with 500 mm Canopy on all 4 sides. 
+- 
+IP65 Rated 
+- 
+Redundant Vertex Cooler 
+- 
+Power distribution box 
+- 
+With ASJB, DSJB 
+- 
+Headers and other required accessories 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Design and supply of Secondary SHS System consisting of: 
+- 
+SS316 Enclosure, 800 (H) x 600 (W) x 350 (D) mm, 2 mm thick 
+- 
+Pressure indicator– 01 No. 
+- 
+Redundant Fast loop filter (0.5 micron) – 02 No. 
+- 
+Ball valve – As required 
+- 
+Sample Rotameter (1.5 – 15 lpm) – 01 No. 
+- 
+Bypass Rotameter (1.5 – 15 lpm) – 01 No. 
+- 
+NRV – as required 
+and other accessories etc. required for proper functioning of analyzer. 
+ 
+Process condition at Sample inlet: 
+- 
+Temperature (Op/Design)) – 143/180 Deg C 
+- 
+Pressure (Op/Design) – 4/ 35 Kg/cm2g 
+ 
+Sample return: 
+- 
+Temperature (Op/Design)) – 143/180 Deg C 
+- 
+Pressure (Op/Design) – 4/ 35 Kg/cm2g 
+
+Sample probe – Not required as per prebid meeting 
+0 No. 
+Not Quoted 
+ 
+Sample transportation line for Supply 
+- 
+1’’ Pipe, SS316 is in BPCL SCOPE, 
+- 
+Electrical Heat tracer and accessories Qty: 100 Meters is in 
+ADAGE scope 
+ 
+Sample transportation line for Return 
+- 
+1’’ Pipe, SS316 is in BPCL SCOPE, 
+- 
+Electrical Heat tracer and accessories Qty: 100 Meters is in 
+ADAGE scope 
+ 
+200 Mtr 
+Quoted 
+ 
+Fast loop pump in redundant configuration with all other 
+accessories in 3 Phase. 
+1 Lot 
+Quoted 
+ 
+50 Liter Validation tank Assembly for calibration/validation - 
+Electrically Heated with Cladding 
+1 Lot 
+Quoted 
+ 
+50 Liter recovery tank with Single Sample recovery pump with 
+other accessories- Electrically Heated with Cladding 
+1 Lot 
+Quoted 
+A 
+24 hours repeatability test certificate from OEM 
+Test shall be carried out at OEM works and test reports shall be 
+provided 
+ 
+1 Lot 
+Quoted 
+B 
+8 hours repeatability test during FAT at Adage works 
+1 Lot 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+C 
+Consumables for six months of trouble-free operation & 
+maintenance. 
+1 Lot 
+Quoted 
+D 
+Commissioning spares (As per Adage recommendation) 
+- 
+Set of Oring 
+- 
+Set of fuses 
+1 Lot 
+Quoted 
+E 
+Packing & Forwarding charges 
+1 Lot 
+Quoted 
+F 
+Charges for Transportation upto BPCL Kochi refinery 
+1 Lot 
+Quoted 
+G 
+Special tools and tackles 
+Not required 
+0 No 
+Not Quoted 
+3 
+Mandatory spares (attached) 
+1 Lot 
+Quoted 
+4 
+Installation and Commissioning charges 
+Lumpsum 
+Quoted 
+ 
+4.1 
+SAT 
+1 Lot 
+Quoted 
+4.2 
+Training 
+For 2 batches with 10 Participants per batch 
+ 
+1 Lot 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+SECTION 5: Scope Matrix 
+Sr. 
+No. 
+Description 
+Scope 
+Adage 
+Customer 
+1 
+Design, engineering & supply of System as per offer/BOQ. 
+Yes 
+ 
+2 
+Sample Tapping Nozzle Flange 
+ 
+Yes 
+3 
+Process Isolation Valve at tapping point 
+ 
+Yes 
+4 
+Isolation Valve at process return point 
+ 
+Yes 
+5 
+Supply of start-up and commissioning spares 
+Yes 
+ 
+6 
+Supply of Mandatory spares- Quoted 
+Yes 
+ 
+7 
+Consumables spares- Quoted 
+
+8 
+Inspection, Testing, Project Management & Project Documentation 
+Yes 
+ 
+9 
+Factory Acceptance Test at Adage Works 
+Yes 
+ 
+10 
+Packing forwarding 
+Yes 
+ 
+11 
+Freight up to site including Insurance 
+Yes 
+ 
+12 
+Storage of supplied system at site 
+ 
+Yes 
+13 
+Civil foundation & installation at site including Cables, Field tubes with 
+supporting structures. 
+ 
+Yes 
+14 
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit. 
+ 
+Yes 
+15 
+4-20mA, RS485, TCP/IP from field/ AH to DCS 
+ 
+Yes 
+16 
+Supervision of Installation and Commissioning SAT & Handover 
+Yes 
+ 
+17 
+Training at Site 
+Yes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+SECTION 6: COMMERCIAL TERMS & CONDITION 
+ 
+Price Basis 
+As per Tender 
+Packing Charges 
+As per Tender 
+GST 
+As per Tender 
+HSN Code 
+As per Tender 
+Freight Charges 
+As per Tender 
+Insurances 
+As per Tender 
+Delivery 
+Please refer deviation list. 
+Offer validity 
+As per Tender 
+Payment Terms 
+Please refer deviation list. 
+Guarantee Clause 
+As per Tender 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+Tentative Project Execution Schedule 
+ 
+1. KOM 
+3 Weeks 
+2. Drawing Submission 
+5-6 Weeks 
+3. Order Placement of Major Items (Including 
+Analysers) 
+6-7 Weeks 
+4. Receipt of Drawing Approval from Customer 
+9-10 Weeks 
+5. Material Recepit at Adage Factory 
+23-26 Weeks 
+6. System Integration 
+27-35 Weeks 
+7. FAT & Punch Point Clearence 
+36-38 Weeks 
+8. Packing & Dispatch 
+38-42 Weeks 
+9. I & C 
+TBA 
+10. SAT 
+TBA 
+
+ 
+
+ 
+
+ 
+
+Sr No
+Instrument Type / Item 
+3 - Phase (415 V AC) Non-UPS 
+power Supply in Watt Per Set
+115V AC UPS Power 
+Supply in Watt Per Set 
+(For Analysers)
+Instrument Air(5-6 
+bar) Consumption
+Plant N2(5-6bar) 
+Consumption
+(Discontinuous)
+Steam is required 
+for flushing in 
+case of line 
+choking. 
+LP Steam with 
+Steam traps.
+Cooling Water
+(Might be required. 
+Presently not 
+considered)
+Remarks 
+1
+Sulphur Analyser -VGOHDS
+16000
+350
+8 SCFM
+1 SCFM
+0.103 Kg/Hr
+0.103 Kg/Hr
+Required
+For 3 Phase: Sample Recovery + lights +Fastloop system + 
+electrical Tracer+Cabinet Heater
+16000
+350
+1.2
+1.2
+19200
+420
+2
+Sulphur Analyser -DHDS
+8300
+350
+8 SCFM
+Not Required 
+0.103 Kg/Hr
+Not Required 
+Not Required 
+For 3 Phase: lights +Fastloop system + electrical 
+Tracer+Cabinet Heater
+8300
+350
+1.2
+1.2
+9960
+420
+Safety Factor 20 %
+Total Power Consumption 
+ Utility & Power Consumption List 
+Total Power 
+Safety Factor 20 %
+Total Power Consumption 
+Total Power 
+Page 1 of 1
+
+SR.No
+Philosophy as per MR
+Qty
+Adage offered
+Qty in Nos
+1
+All Electronic cards of each type 
+Min.1 of each type 
+PCB assembly ASOMA online
+1 No.
+2
+Display units of each type 
+Min.1 of each type 
+HMI TOUCHSCREEN, TP700 COMFORT, CE6.0, 7" TFT, 16:9
+1 No.
+3
+Power supplies of each type 
+Min.1 of each type 
+PWR SUPPLY, 24V 2.5 A RAIL MNT 
+1 No.
+4
+Fuses of each type 
+Min.1 set of each type 
+FUSE, 3 AMP - LITTELFUSE, 
+FUSE, 2 AMP - LITTELFUSE
+1 Set
+5
+Gaskets of each type 
+Min.1 set of each type 
+Gasket Window Seal
+1 No.
+6
+Sensors/probe/sensing
+elements/detectors
+Min.1 of each type 
+Sensor short
+1 No.
+7
+Repair kits/O-ring of each type 
+Min.1 set of each type 
+O-RING, #031 - VITON
+O-RING, 030 EPDM
+1 Set
+8
+Temerature elements with 
+extension wire 
+Min.1 of each type 
+THERMOCOUPLE, TYPE K
+1 No.
+9
+Heater Element 
+Min.1 of each type 
+230V panel mount heater for SHS
+1 No.
+10
+Rotor or any moving parts 
+Min.1 of each type 
+Motor 24 VDC
+1 No.
+11
+Filters/strainers of each type 
+Min.1 of each type 
+POLYPROPYLENE FILM, 1/4 MIL
+1 No.
+12
+Valves of each type 
+Min.1 of each type 
+Ball Valve for SHS
+1 No.
+13
+Liquid injection valve 
+Min.1 of each type 
+Not Applicable
+NA
+14
+X-Ray Tube 
+Min.1 of each type 
+X-RAY TUBE, 682T-HP
+1 No.
+15
+Detector 
+Min.1 of each type 
+Lamp, red diode 
+1 No.
+16
+Power supply module 
+Min.1 of each type 
+PWR SUPPLY, 24V 2.5 A RAIL MNT 
+1 No.
+17
+Rotameters
+Min.1 of each type 
+Rotameter for SHS
+1 No.
+Annexure: 1 _Mandatory spares
+
+Sulfur analysis in highly viscous 
+hydrocarbons 
+682T-HP Online Sulfur 
+Analyzer
+PRODUCT DATA SHEET
+MEASURES: Sulfur
+ KEY BENEFITS
+• Fully integrated densitometer
+• Automatic density compensation
+• Touchscreen controls with 
+password-protected screens
+• Rapid update rates, as frequent as one per 
+every five seconds
+• Proprietary window in flowcell can withstand 
+pressures in excess of 800psig/55bar
+• Large flowcell diameter reduces interferences
+ APPLICATIONS
+Online monitoring of sulfur in:
+• Crude oil
+• Marine bunker fuel
+• Pipelines
+• Terminals 
+• Blending operations to maximize sweet 
+sulfur content
+ KEY MARKETS
+• Refining 
+ 
+• Terminal operations 
+ 
+• Marine fuel
+ametekpi.com
+To find out more or request a quote visit our website
+The 682T-HP is designed for analysis of sulfur in highly 
+viscous hydrocarbons. This system is ideal for processes 
+where sample pressures are high and in situations 
+where fouling of flowcell windows with paraffin or 
+similar substances can occur. 
+Fast and reliable
+The 682T-HP analyzer is faster, more sensitive and 
+more compact than previous systems. It provides 
+continuous, reliable detection of sulfur at working 
+process pressures. It can operate as a stand-alone 
+analyzer or can be tied in to plantwide automation 
+systems to provide real-time strategic measurements. 
+Integrated processor
+Operation of the analyzer is regulated by an integrated 
+processor that monitors instrument parameters such 
+as process temperature, density, and system 
+diagnostics. It also provides a suite of alarms and a 
+standard platform for communicating to a plantwide 
+DCS. The system has minimal, if any, sample 
+conditioning and recovery requirements.
+XRT analysis 
+The sample flows through a flowcell and is irradiated 
+with a source of high-energy x-rays, which are 
+absorbed by the sulfur atoms. A detector on the 
+opposite side measures the x-rays that get through 
+and that signal intensity is inversely proportional to the 
+sulfur concentration.
+
+682T-HP Online Sulfur Analyzer
+PRODUCT DATA SHEET
+PERFORMANCE SPECIFICATIONS
+ametekpi.com
+To find out more or request a quote visit our website
+USA - Pennsylvania
+150 Freeport Road
+Pittsburgh PA 15238
+Tel: +1 412 828 9040 
+Fax: +1 412 826 0399
+USA - Delaware
+455 Corporate Blvd.
+Newark DE 19702
+Tel: +1 302 456 4400
+Fax: +1 302 456 4444
+Canada - Alberta
+2876 Sunridge Way NE
+Calgary AB T1Y 7H9
+Tel: +1 403 235 8400
+Fax: +1 403 248 3550
+USA 
+Tel: +1 713 466 4900
+Fax: +1 713 849 1924
+Brazil
+Tel: +55 19 2107 4100
+France
+Tel: +33 1 30 68 89 20
+Fax: +33 1 30 68 89 99
+China
+Beijing
+Tel: +86 10 8526 2111
+Fax: +86 10 8526 2141 
+Chengdu
+Tel: +86 28 8675 8111
+Fax: +86 28 8675 8141
+Shanghai
+Tel: +86 21 5868 5111
+Fax: +86 21 5866 0969
+WORLDWIDE SALES AND SERVICE LOCATIONS
+SALES, SERVICE & MANUFACTURING
+Germany
+Tel: +49 2159 9136 0
+Fax: +49 2159 9136 39
+India
+Tel: +91 80 6782 3200
+Fax: +91 80 6780 3232
+Singapore
+Tel: +65 6484 2388
+Fax: +65 6481 6588
+© 2019, by AMETEK, Inc. All rights reserved. Printed in the F-0258 Rev 7 (0219)
+One of a family of innovative process analyzer solutions from AMETEK Process Instruments. 
+Specifications subject to change without notice.
+Measurement flowcell
+Technique
+X-ray transmission (XRT)
+Analysis time
+Nominally 100 seconds
+Typical one sigma precision
+±50 ppm @ 0.1 Wt% sulfur
+±30 ppm @ 3.2 Wt% sulfur (consult AMETEK for application) 
+X-ray source
+X-ray tube
+X-ray detector
+High-resolution gas filled proportional counter
+* Contact an AMETEK representative for special requirements
+Process conditions
+Normal product
+Crude oil, heavy hydrocarbons, bunker fuels
+Sulfur concentration
+0.02 to 6% 
+Pressure at flowcell
+Up to 800 psi*
+Flow rate at cell
+Up to 200 L/min
+Temperature
+240
+oC (464
+oF)*
+Density gauge
+Required (supplied by AMETEK or the customer)
+Ambient temperatures
+Minimum -5
+oC (23
+oF), maximum 55
+oC (131
+oF)*
+Enclosures
+Standard
+Stainless steel, NEMA 4X (IP65), NEMA 7 Ex d
+Dimensions (W x H x D)
+Enclosure: 914 x 762 x 304 mm (36 x 30 x 12 in.) minimum
+Purge
+Type X Purge for Zone 1, Groups IIC/IIB (ATEX Category 2). Type Z Purge for Zone 2, Groups IIC/IIB (ATEX Category 3) and Class I 
+Division 2, Groups B, C, D. Contact factory for other available HazLoc ratings
+Optional
+Enclosure heating and cooling are available
+Power
+115 or 230 VAC ±10%, 50x60 Hertz, 80 W typical, 300 W max
+Controller
+Interface
+Class 1 Div 2
+External touchscreen interface, power switch, valve control switch, remote/local control switch, capture enable
+Class 1 Div 1
+Internal touchscreen interface, power switch, valve control switch, auto start/stop switch, capture enable
+Standard outputs
+4-20 mA for sulfur and density, dry contact for common alarm, enclosure purge status, data valid, RS485 serial data
+Optional outputs
+Modbus via RS485 is standard, with Ethernet and Profibus available as standards
+Standard inputs
+Densitometer input, dry contact for analyzer stop/start, mode switching, for Cal Set selection
+
+Product Data Sheet
+00813-0100-4630, Rev AB
+January 2024
+Micro Motion
+™ G-Series Flow and Density
+Meters
+ VIEW PRODUCT >
+Exceptional reliability and safety
+■No moving parts to wear or replace minimizes maintenance for long-term reliability
+■Laser-etched tagging for longevity in challenging environments
+■Cleanable, self-draining design
+Connectivity
+■Full range of Micro Motion transmitter options and communication protocols
+■Reduced wiring complexity with innovative Wi-Fi, Bluetooth®, 2-wire loop powered, and
+Power over Ethernet solutions
+■Advanced diagnostics including Smart Meter Verification
+Ease of Use
+■Ultra-compact, lightweight sensor design enables installation flexibility
+■Easy installation, integration, and remote monitoring with trusted Micro Motion electronics
+■Streamlined sensor options and pre-selected solutions for ease of ordering
+
+Measurement principles
+As a practical application of the Coriolis effect, the Coriolis mass flow meter operating principle involves inducing a
+vibration of the flow tube through which the fluid passes. The vibration, though it is not completely circular, provides
+the rotating reference frame which gives rise to the Coriolis effect. While specific methods vary according to the design
+of the flow meter, sensors monitor and analyze changes in frequency, phase shift, and amplitude of the vibrating flow
+tubes. The changes observed represent the mass flow rate and density of the fluid.
+Density measurement
+The measuring tubes are vibrated at their natural frequency.
+A change in the mass of the fluid contained inside the tubes causes a corresponding change to the tube's natural
+frequency. The frequency change of the tube is used to calculate density.
+Temperature measurement
+Temperature is a measured variable that is available as an output. The temperature is also used internally in the sensor
+to compensate for temperature influences on Young’s Modulus of Elasticity.
+Mass and volume flow measurement
+The measuring tubes are forced to oscillate producing a sine wave. At zero flow, the two tubes vibrate in phase with
+each other. When flow is introduced, the Coriolis forces cause the tubes to twist resulting in a phase shift. The time
+difference between the waves is measured and is directly proportional to the mass flow rate. Volume flow rate is
+calculated from mass flow rate and the density measurement.
+Watch this video to learn more about how a Coriolis flow meter measures mass flow and density (click the link and
+select View Videos): https://www.emerson.com/en-us/automation/measurement-instrumentation/flow-measurement/
+coriolis-flow-meters.
+Contents
+Measurement principles ...................................................................................................................................................................2
+Performance specifications...............................................................................................................................................................4
+Operating conditions: environmental..............................................................................................................................................9
+Operating conditions: process........................................................................................................................................................10
+Hazardous area classifications....................................................................................................................................................... 13
+Connectivity.......................................................................................................................................................................................15
+Physical specifications..................................................................................................................................................................... 17
+Ordering information...................................................................................................................................................................... 20
+G-Series Flow and Density Meters
+January 2024
+2
+Emerson.com
+
+A. Inlet pick off displacement
+B. No flow
+C. Outlet pick off displacement
+D. Time
+E. Inlet pick off displacement
+F. With flow
+G. Outlet pick off displacement
+H. Time difference
+I. Time
+Meter characteristics
+■
+Measurement accuracy is a function of fluid mass flow rate independent of operating temperature, pressure, or
+composition. However, pressure drop through the sensor is dependent upon operating temperature, pressure, and
+fluid composition.
+■
+Specifications and capabilities vary by model and certain models may have fewer available options. For detailed
+information regarding performance and capabilities, either contact customer service or visit Emerson.com.
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+3
+
+Performance specifications
+Reference operating conditions
+For determining the performance capabilities of our meters, the following conditions were observed / utilized:
+■
+Water at 68 °F (20 °C) to 77 °F (25 °C) and 14.5 psig (1 barg) to 29 psig (2 barg), installed in a tubes-down orientation
+■
+Air and natural gas at 68 °F (20 °C) to 77 °F (25 °C) and 500 psig (34 barg) to 1,450 psig (100 barg), installed in a
+tubes-up orientation
+■
+Accuracy based on industry leading accredited calibration standards according to International Organization for
+Standardization (ISO) 17025/IEC 17025
+■
+A density range up to 3,000 kg/m³ (3 g/cm³) on all models
+Accuracy and repeatability
+Accuracy and repeatability on liquids and slurries
+Performance specifications
+Enhanced
+Intermediate
+Basic
+Mass and volume flow accuracy(1)
+±0.1% of rate
+±0.15% of rate
+±0.25% of rate
+Mass and volume repeatability
+0.05% of rate
+0.075% of rate
+0.125% of rate
+Density accuracy(2)
+±5.00 kg/m³ (±0.005 g/cm³)
+Density repeatability
+±2.5 kg/m³ (±0.0025 g/cm³)
+(1)
+Stated flow accuracy includes the combined effects of repeatability, linearity, hysteresis, orientation, and other non-linearities.
+(2)
+Liquid density uncertainty of ±0.5 kg/m3 (±0.0005 kg/cm3) at reference conditions.
+Accuracy and repeatability on gases
+Performance specification
+Standard models
+Mass flow accuracy(1)
+±0.5% of rate
+Mass flow repeatability
+0.25% of rate
+(1)
+Stated flow accuracy includes the combined effects of repeatability, linearity, hysteresis, orientation, and other non-linearities.
+Accuracy and repeatability on temperature
+Performance specification
+Standard models
+Temperature accuracy
+±1 °C ±0.5% of reading
+Temperature repeatability
+0.2 °C
+Warranty
+Warranty options on all G-Series models
+The warranty period is generally initiated from the day of shipment. For warranty details, see the Terms and Conditions
+included with the standard product quote.
+G-Series Flow and Density Meters
+January 2024
+4
+Emerson.com
+
+Base model
+Included as standard
+Included with start-up
+service
+Available for purchase
+G025 - G300
+18 months
+36 months
+> 36 months (customizable
+length)
+Liquid flow rates
+Zero stability and minimum flow rate
+Zero stability is used when the flow rate approaches the low end of the flow range where the meter accuracy begins to
+deviate from the stated accuracy. When operating at flow rates where the meter accuracy begins to deviate from the
+stated accuracy rating, accuracy is governed by the formula:
+Accuracy = (zero stability / flow rate) x 100%
+Repeatability is similarly affected by low flow conditions.
+Associated minimum flow rates are defined depending on the performance specifications selected.
+Nominal flow rate
+Micro Motion has adopted the term nominal flow rate, which is the flow rate at which water at reference conditions
+causes approximately 14.5 psig (1 barg) of pressure drop across the meter. Consult the Flow Measurement Sizing &
+Selection Tool to evaluate maximum flow rate and pressure drop for your application.
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+5
+
+Figure 1: G-Series flow range and performance specifications: metric
+G-Series Flow and Density Meters
+January 2024
+6
+Emerson.com
+
+Figure 2: G-Series flow range and performance specifications: imperial
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+7
+
+Gas flow rates
+When selecting sensors for gas applications, pressure drop and turndown through the sensor is dependent upon
+operating temperature, pressure, and fluid composition. Therefore, when selecting a sensor for any particular gas
+application, Emerson highly recommends that each sensor be sized using the Flow Measurement Sizing & Selection
+Tool, which will report both the actual velocity and the sonic velocity for each flow rate and meter size considered.
+Use the following equation to determine general recommendations on nominal and maximum gas mass flow rates:
+ṁ(gas) =  %M * ρ(gas) *  VOS  *  1
+4π *D2  *  2 (for sensors with dual‐tube design)
+ṁ(gas)
+Gas mass flow rate
+%M
+Use Mach number “0.2” for calculating maximum recommended flow rate. When Mach numbers are
+above 0.3, most gas flows become compressible, and significant increases in pressure drop may
+occur regardless of measurement device.
+ρ(gas)
+Gas density at operating conditions
+VOS
+Velocity of sound of the measured gas
+D
+Internal diameter of the measuring tube
+Note
+Gas maximum flow rate can never be greater than the maximum liquid rate. Assume that the lower of the two rates is
+applicable.
+Sample calculation
+The following calculation is an example of the maximum recommended gas mass flow rate for a G300M measuring
+natural gas with a molecular weight of 19.5 at 60 °F (16 °C) and 500 psig (34.47 barg):
+ṁ(gas) =  0.2 * 24 (kg/m3) * 430 (m/s)  *  1
+4π  * .040m2  *  2
+ṁ(gas) =  34,988 kg/hr; maximum recommended rate for G300M with natural gas at given conditions
+%M
+0.2 (used for calculating maximum recommended rate)
+Gas density
+24 kg/m3
+VOS(NG)
+430 m/s (Velocity of Sound of natural gas at given conditions)
+G300M
+tube inner
+dimension (ID)
+40 mm
+G-Series Flow and Density Meters
+January 2024
+8
+Emerson.com
+
+Process pressure ratings
+Sensor maximum working pressure reflects the highest possible pressure rating for a given sensor. Process connection
+type and environmental and process fluid temperatures may reduce the maximum rating.
+All sensors comply with Council Directive 2014/68/EU on pressure equipment.
+Process pressure ratings
+Model
+Pressure
+G025M, G050M, G100M, G200M, G300M
+1,450 psi (100 bar)
+Case pressure
+Case pressure for all models
+Model
+Case maximum pressure(1)
+Typical burst pressure
+G025
+471 psi (32 bar)
+1884 psi (130 bar)
+G050
+383 psi (26 bar)
+1530 psi (105 bar)
+G100
+320 psi (22 bar)
+1281 psi (88 bar)
+G200
+190 psi (13 bar)
+760 psi (52 bar)
+G300
+125 psi (9 bar)
+500 psi (34 bar)
+(1)
+Case maximum pressure is determined by applying a safety factor of 4 to typical burst pressure.
+Operating conditions: environmental
+Vibration limits
+Meets IEC 60068-2-6, endurance sweep, 5 to 2000 Hz up to 1.0 g.
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+9
+
+Temperature limits
+You can use sensors. in the process and ambient temperature ranges shown in the temperature limit graphs.
+For the purposes of selecting electronics options, only use temperature limit graphs as a general guide. If your process
+conditions are close to the gray area, consult technical support.
+ WARNING
+Temperature limits may be further restricted by hazardous area approvals that are necessary to avoid potential
+injury to personnel and damage to equipment. Refer to the hazardous area approvals documentation shipped with
+the sensor for specific temperature ratings for each model and configuration.
+NOTICE
+In all cases, the electronics cannot be operated where the ambient temperature is below -40 °F (-40 °C) or above 140 °F
+(60 °C). If a sensor is to be used where the ambient temperature is outside of the range permissible for the electronics,
+the electronics must be remotely located where the ambient temperature is within the permissible range, as indicated
+by the shaded areas of the temperature limit graphs.
+Figure 3: Ambient and process temperature limits for all G-Series meters
+Tamb
+Ambient temperature °F (°C)
+Tproc
+Process temperature °F (°C)
+A
+All available electronic options
+B
+Remote mount electronics only
+Operating conditions: process
+Process temperature effect
+■
+For mass flow measurement, process temperature effect is defined as the change in sensor flow accuracy
+specification due to process temperature change away from the calibration temperature. Temperature effect on
+flow can be corrected by zeroing at normal operating temperature. Use the Zero Verification tool to optimize the
+zero calibration.
+■
+For density measurement, process temperature effect is defined as the change in density accuracy specification due
+to process temperature change away from the calibration temperature.
+G-Series Flow and Density Meters
+January 2024
+10
+Emerson.com
+
+Process temperature effect for all models
+Model
+Mass flow
+Density
+% of nominal mass
+flow rate per °C
+g/cm3 per °C
+kg/m3 per °C
+G025, G050, G100, G200, G300
+±0.0014
+±0.0003
+±0.3
+Process pressure effect
+Process pressure effect is defined as the change in sensor mass flow and density accuracy specification due to
+process pressure change away from the calibration pressure. This effect can be corrected by dynamic pressure input
+or a fixed meter factor. See the calibration sheet for the specific meter pressure compensation coefficient. If no
+pressure compensation coefficient is provided, use the typical values listed in the table below. For proper setup and
+configuration, see the transmitter's configuration and use manual at Emerson.com.
+Process pressure effect for all models
+Model
+Mass flow (% of rate)
+Density
+per psi
+per bar
+g/cm3 per psi
+kg/m3 per bar
+G025
+None
+None
+-0.000003
+-0.041
+G050
+None
+None
+-0.000035
+-0.051
+G100
+None
+None
+-0.0000145
+-0.21
+G200
+None
+None
+-0.00001
+-0.148
+G300
+-0.0014
+-0.0203
+-0.000005
+-0.074
+Viscosity range
+For installations with 3-inch (DN80) or larger meters, and fluid viscosities greater than 500 centistokes (cSt),
+consult your Emerson sales representative or technical support for guidance on optimizing your configuration. This
+recommendation is not applicable for smaller meters or process with viscosities less than 500 cSt.
+Pressure relief
+G-Series sensors are available with a rupture disk installed on the case.
+Rupture disks vent process fluid from the sensor case in the unlikely event of a flow tube breach. The standard rupture
+activation pressure is 63.8 psig (4.4 barg). For more information about rupture disks, contact customer service. For
+more information about rupture disks, contact customer service.
+If the sensor has a rupture disk, keep it installed at all times, as it would otherwise be necessary to re-purge the case. If
+the rupture disk is activated by a tube breach, the seal in the rupture disk will be broken, and the Coriolis meter should
+be removed from service.
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+11
+
+Figure 4: Rupture disk on the G-Series
+G-Series Flow and Density Meters
+January 2024
+12
+Emerson.com
+
+Hazardous area classifications
+Note
+Find the current hazardous area classifications certificates at Emerson.com.
+Scroll down to Documents & Drawings and click Certificates & Approvals.
+Type
+Approval or certification (typical
+CSA and CSA C-US
+All G Series models with
+integral junction box
+Ambient temperature: -31 to +176 °F (-35 to +80 °C)
+Class I, Div. 1, Groups C and D
+Class I, Div. 2, Groups A, B, C, and D
+Class II, Div. 1, Groups E, F, and G
+Class II, Div. 2, Groups F and G
+All G Series models with
+integral core processor
+Ambient temperature: -40 to +140 °F (-40 to +60 °C)
+Class I, Div. 1, Groups C and D
+Class I, Div. 2, Groups A, B, C, and D
+Class II, Div. 1, Groups E, F, and G
+Class II, Div. 2, Groups F and G
+All G Series models with
+integral transmitter(1)
+Ambient temperature: -85 to +176 °F (-65 to +80 °C)
+Class I, Div. 1, Groups A, B, C, and D
+Class I, Div. 2, Groups A, B, C, and D
+Class II, Div. 1, Groups E, F, and G
+Class II, Div. 2, Groups F and G
+ATEX
+All G Series models with
+integral junction box
+Ambient temperature: -31 to
++176 °F (-35 to +80 °C)
+II 1/2G Ex ib IIC T6...T3 Ga/Gb
+All G Series models with
+integral core processor
+Ambient temperature: -40 to
++140 °F (-40 to +60 °C)
+II 1/2G Ex ib IIC T5...T3 Ga/Gb
+All G Series models with
+integral transmitter(2)
+Ambient temperature: -85 to
++176 °F (-65 to +80 °C)
+II 1G Ex ia IIC T6...T3 Ga
+II 1D Ex ia IIIC T*°C Da
+Ambient temperature: -85 to
++176 °F (-65 to +80 °C)
+II 3G Ex ec IIC T6...T3 Gc
+II 3D Ex tc IIIC T*°C Dc
+IECEx
+All G Series models with
+integral junction box
+Ambient temperature: -31 to +176 °F (-35 to +80 °C)
+Ex ib IIC T6...T3 Ga/Gb
+All G Series models with
+integral core processor
+Ambient temperature: -40 to +140 °F (-40 to +60 °C)
+Ex ib IIC T5...T3 Ga/Gb
+All G Series models with
+integral transmitter(3)
+Ambient temperature : -85 to +176 °F (-65 to +80 °C)
+Ex ib IIC T6...T3 Ga
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+13
+
+Type
+Approval or certification (typical
+Ex ia IIIC T*°C Da IP66/IP67
+Ex ec IIC T6...T3 Gc
+Ex tc IIIC T*°C Dc IP66/IP67
+Ingress protection rating
+IP 64 with integral junction box or integral transmitters
+IP 6X with integral core processor
+EMC effects
+Complies with EMC Directive 2014-30-EU per EN 61326 Industrial
+Complies with NAMUR NE 21 Edition 2017-08-01
+(1)
+Transmitter certification markings may be more restrictive than certification markings of the sensor. Refer to CSA Transmitters
+Certificate.
+(2)
+Transmitter certification markings may be more restrictive than certification markings of the sensor. Refer to ATEX Transmitters
+Certificate.
+(3)
+Transmitter certification markings may be more restrictive than certification markings of the sensor. Refer to IECEx Transmitter
+Certificate.
+Type
+Approval or certification (typical)
+Ingress Protection Rating
+IP 66/67 for sensors and transmitters
+EMC effects
+Complies with EMC Directive 2014-30-EU per EN 61326 Industrial
+Complies with NAMUR NE 21 Edition: 2017-08-01
+Industry standards
+Type
+Standard
+Industry standards and commercial approvals
+■
+NAMUR: NE 80, NE 95, NE 131, NE 132
+■
+Pressure Equipment Directive (PED)
+■
+Dual Seal
+■
+Safety Integrity Level SIL 2 and SIL 3 capable (when used with
+an approved Micro Motion transmitter)
+■
+ASME 31.3 processing piping code
+Note
+■
+Unless otherwise noted, approvals shown are for G-Series meters configured with a core processor for remote
+4-wire connection to a Micro Motion transmitter.
+■
+When a meter is ordered with hazardous area approvals, detailed information is shipped along with the product.
+G-Series Flow and Density Meters
+January 2024
+14
+Emerson.com
+
+Connectivity
+G-Series sensors are highly customizable to provide a configuration that is tailor-fit to specific applications.
+For help determining which Micro Motion products are right for your application, see the Micro Motion Technical
+Overview and Specification Summary Product Data Sheet and other resources at Emerson.com.
+Communication and diagnostic information
+Transmitter interface
+Diagnostic data
+■
+Analog and digital options, including 2-wire looped
+power, Power-over-Ethernet, and options up to five fully
+configurable input/output (I/O) channels
+■
+Wi-Fi and Bluetooth® display options for wireless
+configuration
+■
+Integral field mount, remote field mount, and DIN rail control
+room mounting options
+■
+Smart Meter Verification — checks the health and integrity
+of the meter's tubes, electronics, and calibration without
+interrupting the process
+■
+Zero verification — quickly diagnoses the meter to determine
+if re-zeroing is recommended, and if process conditions are
+stable and optimal for zeroing
+■
+Multiphase detection — proactively identifies multiphase
+process conditions and severity
+■
+Time-stamped digital audit trails and reports for optimized
+agency compliance
+Communication protocols
+Typical input/output I/O connectivity options include:
+■
+4-20 mA
+■
+HART®
+■
+10k Hz pulse
+■
+WirelessHART® with THUM adapter
+■
+Wi-Fi and Bluetooth® display options
+■
+EtherNet/IP™
+■
+Modbus® transmission control protocol (TCP)
+■
+FOUNDATION™ Fieldbus
+■
+PROFINET®
+■
+PROFIBUS®-PA
+■
+PROFIBUS-DP
+■
+Discrete I/O
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+15
+
+Transmitter compatibility and primary attributes
+For a complete list of all transmitter configurations and options, see the transmitter product data sheets and other
+resources available at Emerson.com.
+Model
+Transmitter
+1500/2500
+1600
+1700/2700
+4200
+4700
+5700
+Power
+AC
+•
+•
+•
+DC
+•
+•
+•
+•
+•
+Loop powered
+(2-wire)
+•
+Diagnostics
+Smart Meter
+Verification
+(SMV) basic
+(included)
+•
+•
+•
+•
+•
+•
+SMV Pro
+•
+•
+•
+•
+•
+•
+Real time clock
+•
+•
+•
+•
+Onboard data
+historian
+•
+•
+•
+•
+Local operator interface
+2-line display
+•
+Graphical display
+•
+•
+•
+•
+Certifications and approvals
+SIS certified
+•
+•
+•
+•
+Installation options
+Integral mount
+•
+•
+•
+Remote mount
+•
+•
+•
+•
+•
+•
+G-Series Flow and Density Meters
+January 2024
+16
+Emerson.com
+
+Physical specifications
+Materials of construction
+General corrosion guidelines do not account for cyclical stress and therefore should not be relied upon when choosing
+a wetted material for your Micro Motion meter.
+For material compatibility information, see the Micro Motion Corrosion Guide.
+Wetted path materials
+Model
+Stainless steel
+Sensor weight(1)
+316/316L and 317/317L
+316/316L
+G025
+•
+8 lb. (3.6 kg)
+G050
+•
+10 lb. (4.5 kg)
+G100
+•
+12 lb. (5.4 kg)
+G200
+•
+40 lb. (18.1 kg)
+G300
+•
+77 lb. (34.9 kg)
+(1)
+Weight specifications are based upon ASME B16.5 CL150 flange and do not include electronics.
+Non-wetted part materials
+Component
+Enclosure rating(1)
+300 series stainless steel
+Polyurethane-painted
+aluminum
+Sensor housing
+Type 4X (IP 66/67)
+•
+Core processor housing
+Type 4X (IP 66/67)
+•
+•
+Junction box
+Type 4X (IP 66/67)
+•
+•
+Transmitter housing(2)
+Type 4X (IP 66/67)
+•
+•
+(1)
+Ingress protection rating might be further restricted by the hazardous area approvals selected. Please refer to the hazardous area
+documentation or consult a technical representative.
+(2)
+Material of construction and surface finish options vary by model. For available options, see the transmitter Product Data Sheet.
+Flow tube information
+Model
+Number of tubes
+Tube inside diameter
+Tube length
+Inches
+mm
+Inches
+mm
+G025
+2
+0.21
+5.3
+8.81
+216
+G050
+2
+0.33
+8.5
+10.9
+276
+G100
+2
+0.51
+13
+11.7
+296
+G200
+2
+1.1
+27
+21.4
+545
+G300
+2
+1.6
+40
+23.5
+597
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+17
+
+Process connections
+Sensor type
+Flange type
+Stainless steel 316L
+■
+ASME B16.5 compatible raised face flange (up to CL600)
+■
+EN 1092-1 compatible weld neck flange Type B1 (up to
+PN100)
+■
+Jis B2220 compatible weld neck raised face (up to 10K)
+■
+Hygienic Tri-Clamp® compatible
+■
+VCO, VCR Swagelok®-compatible fitting VCO fittings include
+the Viton® O-ring as a wetted part)
+Note
+For flange compatibility, refer to Flow Measurement Sizing & Selection Tool tool.
+Dimensions
+These dimensions are intended to provide a basic guideline for sizing and planning. For complete and detailed
+dimensional drawings, access the Micro Motion Dimensional Drawings tool at MyEmerson.
+Note
+■
+Accuracy = ±0.12 in (±3.0 mm)
+■
+These drawings are representative of a 316 stainless steel model fitted with an ASME B16.5 CL150 flange, and 800
+enhanced core electronics.
+G-Series Flow and Density Meters
+January 2024
+18
+Emerson.com
+
+Example dimensions for G-Series models
+Figure 5: G-Series models dimensions
+Table 1: Sample dimensions in inches
+Dim. A
+Model
+ASME B16.5
+CL150
+EN1092 PN40
+NAMUR NE132
+flange to flange
+length
+Dim. B
+w/Integral 800
+Core
+Dim. C
+Dim. D
+G025
+8.05
+8.27
+20.08
+8.03
+3.18
+2.00
+G050
+9.82
+9.94
+20.08
+8.30
+3.86
+2.50
+G100
+11.83
+11.53
+23.62
+8.30
+3.98
+2.50
+G150
+16.44
+16.95
+28.15
+8.55
+5.02
+3.03
+G200
+20.73
+20.85
+28.15
+9.11
+7.40
+4.26
+G300
+22.94
+23.01
+36.02
+9.89
+7.45
+5.77
+Table 2: Sample dimensions in mm
+Dim. A
+Model
+ASME B16.5
+CL150
+EN1092 PN40
+NAMUR NE132
+flange to flange
+length
+Dim. B
+w/Integral 800
+Core
+Dim. C
+Dim. D
+G025
+204
+210
+510
+204
+81
+51
+G050
+249
+252
+510
+211
+98
+64
+G100
+300
+293
+600
+211
+101
+64
+G150
+417
+431
+715
+216
+128
+77
+G200
+526
+529
+715
+231
+188
+108
+G300
+583
+584
+915
+251
+189
+147
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+19
+
+Ordering information
+To select and build your meter, please refer to the Flow Measurement Sizing & Selection Tool.
+To jump directly to configuration options, go to Emerson.com to access the G-Series family page in order to view
+options and build your meter.
+Model code structure
+Please visit MyEmerson for complete model code information.
+A complete sensor model code includes the following options:
+Example code
+Description
+G025M
+Sensor base model
+M
+Wetted surface finish
+Z
+Pre-selected option
+113
+Process connection
+C
+Case option
+42
+Electronics interface
+B
+Conduit connection
+53
+Approval
+ZZ
+Future option
+Z
+Calibration option
+Z
+Factory option
+HM
+Certificates, tests, calibrations, and services (not required)
+G-Series Flow and Density Meters
+January 2024
+20
+Emerson.com
+
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+21
+
+G-Series Flow and Density Meters
+January 2024
+22
+Emerson.com
+
+January 2024
+G-Series Flow and Density Meters
+G-Series Flow and Density Meters
+23
+
+00813-0100-4630
+Rev. AB
+January 2024
+For more information: Emerson.com/global
+©2024 Micro Motion, Inc. All rights reserved.
+The Emerson logo is a trademark and service mark of
+Emerson Electric Co. Micro Motion, ELITE, ProLink, MVD
+and MVD Direct Connect marks are marks of one of the
+Emerson Automation Solutions family of companies. All
+other marks are property of their respective owners.
+The "Bluetooth" word mark and logos are registered
+trademarks owned by Bluetooth SIG, Inc. and any use
+of such marks by Emerson is under license.

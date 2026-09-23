@@ -1,0 +1,63 @@
+Quotation Number: SQ2504N075
+BOQ Status: FOUND
+
++91 9163609532
+ADAGE- GOA
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602054
+Cartridge Filter
+8.00
+11,262.00
+90,096.00
+1
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+2.00
+16,875.00
+33,750.00
+2
+Nos
+28519157
+Filter element F2 material: PTFE2 μm
+4.00
+24,610.00
+98,440.00
+3
+Nos
+28708026
+Automatic Condensate Removal
+Pump 24 VDC Flow Rate 0.3 LPM
+1.00
+26,862.00
+26,862.00
+4
+Nos
+78409009
+Solenoid Valve 3/2 Way 1/4" BSP (F)
+230 VAC MOC SS316
+4.00
+23,679.00
+94,716.00
+5
+Nos
+28519090
+Sample Gas pump P1.1, Voltage:
+230V/50Hz, Pump head: PVDF
+1.00
+24,525.00
+24,525.00
+6
+Nos
+Ref: Q25260028-SQ2504N075
+Date: 12-04-2025

@@ -1,0 +1,84 @@
+Quotation Number: Q2510X016
+BOQ Status: FOUND
+
+Looking forward to the opportunity to collaborate.
+SECTION 1: PROJECT OVERVIEW
+1. System Description
+Adage proposes a complete Oxygen Analyzer System comprising:
+•
+Four (4) Siemens state-of-the-art Oxygen Analyzers
+•
+Each analyzer provided with a dedicated Sample Handling System (SHS)
+•
+All equipment installed inside a purpose-built Analyzer Shelter with HVAC
+The system is designed and certified for operation in Hazardous Area Zone 2, Gas Group IIC, Temperature Class
+T4.
+2. Sample Handling System (SHS)
+Each SHS is designed for accurate and reliable oxygen measurement from biogas streams with ~1% moisture
+content.
+Key Features:
+•
+Sample Gas Cooler: Removes moisture to protect the analyzer
+•
+Heated Sample Line (1⁄4" PTFE): Maintains sample above dew point from lagoon tapping to shelter
+•
+Sample Gas Pump (Zone 2 rated): Ensures flow despite negative process pressure (~–0.5 kPa)
+•
+Process Connection: Tapping point and counter flange suitable for <3” line size (as per schematic)
+Biogas is sourced from two lagoons (two sample points), handled via individual SHS lines.
+3. Calibration & Reference Gas Arrangement
+For system calibration and verification, the following gases and components are provided:
+Type
+Description
+Quantity
+Zero Gas
+N2 Cylinder (10 L)
+1 No.
+Span Gas
+O2 Cylinder (10 L)
+1 No.
+Reference Gas
+N2 Cylinders (10 L each) with Auto-changeover Unit
+2 Nos.
+•
+Auto-changeover Unit: Automatically switches from Bank-1 to Bank-2 upon pressure drop detection.
+•
+Micrologic PLC: Manages alarm, fault, and cylinder switching logic.
+(Note: Gas cylinders and pressure regulators are excluded from Adage’s supply scope.)
+4. System Safety & Protection
+To ensure analyzer longevity and fail-safe operation:
+•
+Condensate Monitor: Detects any moisture downstream of the gas cooler.
+•
+Automatic Protection Logic:
+o
+Shuts down sample pump upon condensate detection.
+o
+Isolates analyzer via fast loop to prevent wet gas entry.
+5. Key Highlights
+•
+Fully integrated Zone 2 certified analyzer system
+•
+Independent SHS for each analyzer ensuring redundancy
+•
+Smart auto-changeover and PLC-based logic control
+•
+Moisture protection via condensate monitoring
+•
+Shelter with HVAC ensuring stable environment for analyzers
+SECTION 2: SUMMARY OF PRICES
+Sr.
+No.
+Description
+Qty
+Unit
+Price
+(Euro)
+Total
+Price
+(Euro)
+1
+GAS ANALYSER SYSTEM FOR O2 MEASUREMENT
+Make: Siemens
+Model:
+OXYMAT6

@@ -1,0 +1,72 @@
+Quotation Number: Q2505C015R2
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER FOR O2 MEASUREMENT AT RAPH, ESP & ID FAN DUCT
+Process Fluid: Flue Gas
+Make: Ametek USA
+Model: WDG 1210
+Mounting Location: In Situ mounting
+Area Classification: Safe Area
+Principle: Zirconia
+Rating: IP65
+Measuring Ranges:
+O2: 0-25 vol%,
+Process Connection: 4" 150#
+Probe Type/ Length: MOC: SS310L/2743mm
+Process Condition:
+-
+Temperature (nor): 350 Deg C
+-
+Pressure (nor): -500mmwc to + 500mmwc
+Analyzer Outputs:
+-
+With 4-20 mA Analog output
+Utilities Required:
+-
+Power Input: 230 VAC
+With Mating Flange, stub pipe 400mm and blank Flange
+NOTE: ALL THE POWER/SIGNAL CABLES SHALL BE IN CUSTOMER SCOPE.
+16 SETS
+7,20,000
+₹ 1,15,20,000
+2
+Calibration Unit (CU): Mounted on field Rack with Canopy:
+-
+CU unit for Manual calibration.
+-
+With HMI (Suitable for safe area)
+-
+HMI mounted on field rack with canopy
+NOTE: ALL THE POWER/SIGNAL CABLES SHALL BE IN CUSTOMER SCOPE
+16 SETS
+1,70,000
+₹ 27,20,000
+3
+Supply of Calibration gas cylinders along with pressure regulators:
+With calibration gas cylinders and dual stage regulators.
+10 NOS
+17,500
+1,75,000
+4
+SUPPLY OF SPARES:
+Electronic unit
+6 SETS
+5,00,000
+30,00,000
+Analyzer probe
+6 SETS
+3,50,000
+21,00,000
+5
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (ACII TIER/FLIGHT).
+@30000 PER MANDAY

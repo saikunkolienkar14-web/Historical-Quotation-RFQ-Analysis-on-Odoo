@@ -1,0 +1,316 @@
+www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+To, 
+Customer: 
+
+ 
+
+Subject: Offer for Extractive based TDLS System for CO Measurement. 
+
+ 
+Kind Attention: Mr. Musaddique M. Chougule 
+
+Dear Sir, 
+
+We thank you for your enquiry and are pleased to quote as per the enclosed specification on terms stated below. If you have any 
+questions or require additional information, please feel free to contact us. 
+
+Table of Contents: - 
+
+SECTION 1: SUMMARY OF PRICES 
+SECTION 2: NOTE AND SCOPE DEFINITION 
+SECTION 3: COMMERCIAL TERMS AND CONDITIONS 
+SECTION 4: BILL OF MATERIALS 
+
+ 
+
+ 
+ 
+Our Quotation No: Q2503AKIC002 
+Dated: 26.03.2025 
+ 
+Contact persons : 
+Mr. Adil Bin Muhammed 
+Email: adil@adage-kanoo.com 
+ 
+Mr. Liyaqath Jabbar 
+Email: liyaqath.jabbar@adage-kanoo.com 
+
+ 
+
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+SECTION 1: SUMMARY OF PRICES 
+Sl.NO 
+DESCRIPTION 
+QTY 
+UNIT PRICE 
+(INR) 
+TOTAL PRICE 
+(INR) 
+1 
+LASER BASED ANALYSER FOR CO MEASUREMENT- EXTRACTIVE 
+Make: AIROPTIC 
+Model: GAS EYE 
+Operating Principle: TDLAS 
+Area Classification: Zone II 
+Mounting Location: Extractive type 
+Component to be measured: CO 
+ 
+Laser Gas Analyser for Measurement of CO 
+• 
+Ingress Protection: IP65 
+ 
+With Sample handling system consisting of: 
+• 
+With Heated Flow through cell for Mounting of Laser 
+Analysers 
+• 
+With Stream Switching enclosure 
+• 
+With Aspirator Pump System for Extraction and 
+Drawing of Sample Gas 
+• 
+Mounting of Analyser on Field Rack 
+ 
+Analyzer output: 
+• 
+4-20 mA 
+• 
+Digital Outputs 
+ 
+Utility requirement: 
+• 
+Plant Nitrogen @ 4-6 bar near field rack 
+• 
+230VAC, 50 Hz power supply 
+
+(For Detailed Specification Kindly Refer to Attached P&ID) 
+1 Set 
+QUOTED 
+QUOTED 
+2 
+HTT FOR SAMPLE GAS TRANSPORTATION 
+Size: ½” 
+MOC: SS 
+ PER METER 
+@QUOTED PER METER 
+3 
+SUPERVISION OF INSTALLATION AND COMMISSIONING 
+CHARGES 
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ 
+AC II Train Fare to be arranged by Adage) 
+ 
+PER MANDAY 
+@QUOTED PER MANDAY 
+
+ 
+
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+SECTION 2- NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM 
+ 
+• 
+Analyzer drain line shall be connected to the plant nearest drain, the tubing for the same shall be in Customer’s scope. 
+• 
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope. 
+• 
+Plant Instrument air required 
+• 
+Power Supply Utilities required are: 
+• Power Supply: 230 VAC, 50 Hz (Non-UPS) 
+• Power Supply: 230 VAC, 50 Hz (UPS) 
+
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, Engineering and Supply of complete Data Connectivity as per Summary of Prices 
+• 
+Supervision of Installation and Commissioning of the complete System 
+• 
+Project Management and Project Documentation 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+All Erection and Installation Activity. 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals. (Adage shall provide assistance) 
+• 
+Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal / serial communication 
+cables etc. 
+• 
+Laying of trays/structural and support for field tubing. 
+• 
+All utilities as mentioned above. 
+• 
+M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+SECTION 3- COMMERCIAL TERMS AND CONDITIONS 
+Price Basis 
+Ex works AKIC, Jubail 
+Packing Charges 
+2 % In Case of Air Freight or 3.5 % for Sea Worthy Packing 
+HSN Code 
+90271000 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 08 months from the date of drawing Approval. 
+Offer validity 
+30 days. 
+Payment Terms 
+20% Advance with the Purchase Order, Balance 80 % against Proforma Invoice on 
+readiness of material prior to dispatch. 
+Warranty Clause 
+Against manufacturing defects for 12 months from the date of Commissioning or 18 
+months from the date of dispatch, whichever is earlier. 
+Storage Charges 
+The storage charges shall be applicable @0.5% of the order value per week after 
+inspection or scheduled delivery 
+Price Basis 
+Ex works AKIC, Jubail 
+
+ For AKIC 
+Mr. Adil Bin Muhammed 
+Email: adil@adage-kanoo.com 
+ Mr. Liyaqath Jabbar 
+ Email: liyaqath.jabbar@adage-kanoo.com 
+
+ 
+
+ 
+
+ 
+
+ASPIRATOR
+HEATED FLOW THROUGH CELL
+SAMPLE OUTLET
+TO PLANT VENT
+CO
+MEASUREMENT
+SENSOR PURGING
+PT
+SENSOR PURGING
+LOOP CABLE
+SOLUTION PARTNER ANALYTICAL
+
+ 
+
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+SECTION 4: BILL OF MATERIALS 
+SL NO 
+DESCRIPTION 
+LEGEND 
+QTY 
+1 
+SAMPLE STREAM SWITCHING ENCLOSURE 
+Consisting of SOV’s for Switching the streams 
+Make: Adage 
+SSSE 
+1 PC 
+2 
+5 Way Ball Valve 
+Make: Adage Approved Vendor 
+BV01 
+1 PC 
+3 
+AIR FILTER REGULATOR 
+Make: Adage Approved Vendor 
+AFR01–02 
+2 PC 
+4 
+FLOW MONITOR 
+Make: Placka 
+FM01 
+1 PC 
+5 
+ASPIRATOR 
+Make: Adage Approved Vendor 
+- 
+1 PC 
+6 
+SOLENOID VALVE SUITABLE FOR ZONE II 
+Make: Adage Approved Vendor 
+SV07 
+1 PC 
+7 
+LASER ANALYSER FOR CO MEASUREMENT SUITABLE FOR ZONE II 
+Measured Component: CO 
+Degree Of Protection: IP65 
+With Sensor Electronics 
+- 
+1 PC 
+8 
+HEATED FLOW THROUGH CELL 
+Make: Adage Approved Vendor 
+- 
+1 PC 
+9 
+FREE STANDING RACK FOR MOUNTING ALL COMPONENTS 
+Make: Adage Approved Vendor 
+- 
+1 PC 
+
+ 
+
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+ 
+10 
+TEMPERATURE SENSING 
+Make: Adage Approved Vendor 
+RTD 
+1 PC 
+11 
+ABSOLUTE PRESSURE TRANSMITTER 
+Make: Adage Approved Vendor 
+PT 
+1 PC

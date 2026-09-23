@@ -1,0 +1,91 @@
+Quotation Number: SQ2506H099
+BOQ Status: FOUND
+
+Date: 23-06-2025
+Ref: Q25260166-SQ2506H099
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28209010
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (White Color) MOC
+PTFE
+200.00
+964.00
+192,800.00
+1
+[ As per last PO: 4100412250 dtd
+28-10-2023 ]
+Mtrs
+18201001
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (Transperent Color)
+MOC Sillicon
+10.00
+237.00
+2,370.00
+2
+[ As per last PO:
+VJNR/111671/REV/R/4100499026
+dtd 07-04-2025 ]
+Meters
+28919002
+Glass Fiber Borosilicate Filter For
+Acid Filter Element
+20.00
+19,609.90
+392,198.00
+3
+[ As per last PO:
+VJNR/112000/REV/R/4100434558
+dtd 12-02-2024 ]
+Nos
+10.00
+6,688.00
+66,880.00
+4
+Nos
+5.00
+19,500.00
+97,500.00
+5
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+8.00
+28,379.00
+227,032.00
+6
+[ As per last PO:
+SLM/121101/4100486784 dtd
+06-01-2025 ]
+Nos.
+18611007
+Switching Amplifier for Retraction
+Proximity Switched singal Channel
+220 VAC KFA6-SR2-EX1.W
+2.00
+21,569.00
+43,138.00
+7
+Nos
+18709004
+Flow Meter 7-70 LPH 1/4" NPT (F)
+MOC Glass
+2.00
+8,625.00
+17,250.00
+8
+Nos
+28708004
+Neoprene Tube For Peristaltic Pump
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+Date: 23-06-2025
+Ref: Q25260166-SQ2506H099

@@ -1,0 +1,21 @@
+Quotation Number: SQ2604N088
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES-SUPPLY
+SR. NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Siemens LDS 6 Gas Analyzer (NH3 Analyzer)
+1
+30,10,000.00
+30,10,000.00
+2
+AMETEK WDG-1210 – Insitu Gas Analyser (Oxygen Analyser)
+1
+11,000,00.00
+11,000,00.00

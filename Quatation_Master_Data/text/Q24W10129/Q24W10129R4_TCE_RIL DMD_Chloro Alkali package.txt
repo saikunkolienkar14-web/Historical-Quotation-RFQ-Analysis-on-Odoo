@@ -1,0 +1,621 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir, 
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please 
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which 
+includes analysers as per your requirement. 
+
+ADAGE QUOTE REF: 
+Q24W10129
+R4 
+DATED : 17.02.2025 
+BID TYPE : Firm 
+PROJECT TITLE: 
+Supply of oxygen Analyser for Chloro Alkali package at RIL DMD 
+INQUIRY DETAILS: 
+JT-G23P05-D1GPA-JN0026-TEM-Q-01 at REIMS portal 
+CUSTOMER: 
+
+Tata Consulting Engineers Limited 
+END USER: 
+
+Reliance Industries Limited, DMD 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Adage Clarification and Assumptions 
+SECTION-2: Summary Of Prices 
+SECTION-3: Technical Literature 
+SECTION-4: Scope Definition 
+
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr Tejas Rivonkar 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9284270984 
+tejas@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+This is in context to your requirement of for Gas analysis System & We Thank you for the same. 
+ 
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical 
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring & 
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc 
+ 
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern 
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have 
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership 
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60% 
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to 
+over 40 countries in Africa, Mid East, Far East and South America. 
+ 
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint 
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our 
+State of the art factory with its highly sophisticated infrastructure is second to none in India. 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+SECTION 1: ADAGE CLARIFICATIONS AND ASSUMPTIONS 
+ 
+1. Customer will provide single point utility interface (UPS Power, Non-UPS Power & Process utilities) 
+at the analyser cabinet at grade level. 
+ 
+2. We have considered and quoted below Make analysers 
+Oxygen Analyser 
+Make: Airoptic, Model: GasEye Extractive 
+The communication output shall be Modbus TCP IP & 4-20mA analog output for measuring 
+component. This also has digital outputs for customer configuration. 
+ 
+3. Analyser outlet is connected to low pressure process point at 0.2Kg/cm2g at 25 meters distance. 
+ 
+4. Please refer Typical Schematic(Extractive type) attached (Calibration is not applicable since TDLS 
+anlyser is self calibrated using internal reference cell. 
+ 
+5. Redundant Power supply is considered by Adage at Grade level 
+ 
+6. Warranty for offered system shall be 18/24 months from the date of commissioning/Supply as per 
+RIL requirement. 
+ 
+7. As per discussion in the meeting, Only provision for Modbus TCP IP output to be provided by 
+Adage, further conversion shall be in customer's scope of supply. 
+ 
+8. LOD for tag 081AT-500005 is 0.01% i.e 100 ppm. 
+ 
+9. As per Mail confirmation, Entire system shall be Safe area rated. 
+ 
+10. Quoted Extractive analyser is rated for ambient 60 Deg C and requirement of cooling is not 
+required. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 1: SCOPE OF WORK 
+ 
+Sr. 
+No. 
+Tag No 
+Item Description 
+Qty. 
+Total Price(INR) 
+1 
+081AT 500001 O2 in Cl2 Analyser (PTFE Wetted parts) 
+ 
+1 No 
+Quoted 
+2 
+081AT 500002 O2 in Cl2 Analyser (PTFE Wetted parts) 
+ 
+1 No 
+Quoted 
+3 
+081AT 500005 O2 in Cl2 Analyser 
+ 
+1 No 
+Quoted 
+4 
+- 
+Project Documentation 
+1 Lot 
+Inclusive 
+5 
+- 
+FAT at Adage Factory 
+1 Lot 
+Inclusive 
+6 
+- 
+Packing forwading & Transportation upto Site 
+charges 
+1 Lot 
+Quoted 
+7 
+- 
+Supervision of installation & commissioning 
+Per Diem 
+Quoted 
+8 
+- 
+Commissioning spares 
+- 
+Set of filters 
+- 
+Set of Oring 
+- 
+Set of Fuses 
+1 Lot 
+Quoted 
+9 
+- 
+Mandatory spares 
+- 
+10% or min 1 no of SHS components. 
+- 
+Laser module with PCB 
+ 
+1 Lot 
+Quoted 
+10 
+- 
+2 Years O&M spares (As per Adage 
+recommendation) 
+1 Lot 
+Optionally 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 2: TECHNICAL LITERATURE 
+ 
+ 1 
+EXTRACTIVE LASER BASED O2 ANALYSER (PTFE Wetted 
+parts) 
+Tag No: 081AT 500001 
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET 
+Make: AIROPTIC 
+Model: GASEYE Extractive 
+Operating Principle: TDLAS 
+Area Classification: Safe Area 
+Mounting Location: Inside FRP/GRP cabinet, make : Intertac/ 
+equivalent 
+Component to be measured : O2 
+Loop Cable: As required 
+Ingress Protection: IP66 
+Measuring range : O2 - 0-1.5% 
+ 
+Accuracy : 2% of measured value or LOD 
+Precision: 1% of measured value or LOD 
+LOD : 100ppm 
+
+Process Conditions at Sample Inlet : 
+- 
+Temperature (Norm/Max): 40/45 Deg C 
+- 
+Pressure (Norm): 6 kg/cm2-g 
+ 
+Analyzer output: 
+- 
+4-20 mA Analog output 
+- 
+Modbus TCP IP output 
+- 
+Digital fault alarams 
+ 
+1 No 
+Quoted 
+1.a 
+Sample Welded Probe Assembly 
+- 
+Fixed probe with welded isolation valve, MOC: PVDF 
+- 
+1.5’’ 300# RF flange, MOC: Hastelloy 
+ 
+1 No 
+Quoted 
+1.b 
+Sample Transportation tube: 
+- 
+¼’’ SS316 PTFE HTT tube, Qty: 25 meters for supply 
+- 
+¼’’ SS316 PTFE HTT tube, Qty: 25 meters for return @0.2 
+Kg/cm2g 
+ 
+50 Meters 
+Quoted 
+1.c 
+Primary Sample Handling System 
+- 
+With Isloation ball valve 
+- 
+With Inline filter and pressure reducer assembly 
+
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Sample handling system consisting of: 
+- 
+Ball valve, Flowmeter for bypass and supply with low flow 
+switch, NRV, fastloop filter (Non redundant configuration). 
+ 
+ 1.d 
+Analyser Cabinet: 
+- 
+800mm x 800mm x 2100mm, MOC: GRP/FRP, Make: 
+Intertac/Equivalent(Approx dimention shall be provided 
+post order) 
+- 
+With Required JB’s, Exd type 
+- 
+PDB, Exd type 
+- 
+Headers and other accessories 
+ 
+Notes 
+- 
+Makes shall be As per RIL AVL, However since the 
+process is challenging Deviation to makes can be 
+proposed. 
+ 
+1 No 
+Quoted 
+ 2 
+EXTRACTIVE LASER BASED O2 ANALYSER (PTFE wetted 
+parts) 
+Tag No: 081AT 500002 
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET 
+Make: AIROPTIC 
+Model: GASEYE Extractive 
+Operating Principle: TDLAS 
+Area Classification: Safe Area 
+Mounting Location: Inside FRP/GRP cabinet, make : Intertac/ 
+equivalent 
+Component to be measured : O2 
+Loop Cable: As required 
+Ingress Protection: IP66 
+Measuring range : O2 - 0-1.5% 
+ 
+Accuracy : 2% of measured value or LOD 
+Precision: 1% of measured value or LOD 
+LOD : 100ppm 
+
+Process Conditions at Sample Inlet : 
+- 
+Temperature (Norm/Max): 40/45 Deg C 
+- 
+Pressure (Norm): 6 kg/cm2-g 
+ 
+Analyzer output: 
+- 
+4-20 mA Analog output 
+- 
+RS485 Modbus serial output 
+ 
+1 No 
+Quoted 
+2.a 
+Sample Welded Probe Assembly 
+- 
+Fixed probe with welded isolation valve, MOC: PVDF 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+- 
+1.5’’ 300# RF flange, MOC: Hastelloy 
+ 
+2.b 
+Sample Transportation tube: 
+- 
+¼’’ SS316 PTFE HTT tube, Qty: 25 meters for supply 
+- 
+¼’’ SS316 PTFE HTT tube, Qty: 25 meters for return @0.2 
+Kg/cm2g 
+ 
+50 Meters 
+Quoted 
+2.c 
+Primary Sample Handling System 
+- 
+With Isloation ball valve 
+- 
+With Inline filter and pressure reducer assembly 
+ 
+Sample handling system consisting of: 
+- 
+Ball valve, Flowmeter for bypass and supply with low flow 
+switch, NRV, fastloop filter (Non redundant configuration). 
+ 
+1 No 
+Quoted 
+ 2.d 
+Analyser Cabinet: 
+- 
+800mm x 800mm x 2100mm, MOC: GRP/FRP, Make: 
+Intertac/Equivalent(Approx dimention shall be provided 
+post order) 
+- 
+With Required JB’s, Exd type 
+- 
+PDB, Exd type 
+- 
+Headers and other accessories 
+ 
+Notes 
+- 
+Makes shall be As per RIL AVL, However since the 
+process is challenging Deviation to makes can be 
+proposed. 
+ 
+1 No 
+Quoted 
+ 3 
+EXTRACTIVE LASER BASED O2 ANALYSER (PTFE wetted 
+parts) 
+Tag No: 081AT 500005 
+Service: ME-PA081-S500550 SUPERHEATER OUTLET 
+Make: AIROPTIC 
+Model: GASEYE Extractive 
+Operating Principle: TDLAS 
+Area Classification: Safe Area 
+Mounting Location: Inside FRP/GRP cabinet, make : Intertac/ 
+equivalent 
+Component to be measured : O2 
+Loop Cable: As required 
+Ingress Protection: IP66 
+Measuring range : O2 - 0-1.5% 
+ 
+Accuracy : 2% of measured value or LOD 
+Precision: 1% of measured value or LOD 
+LOD : 100ppm 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+Process Conditions at Sample Inlet : 
+- 
+Temperature (Norm/Max): 40/45 Deg C 
+- 
+Pressure (Norm): 6 kg/cm2-g 
+ 
+Analyzer output: 
+- 
+4-20 mA Analog output 
+- 
+RS485 Modbus serial output 
+ 
+3.a 
+Sample Welded Probe Assembly 
+- 
+Fixed probe with welded isolation valve, MOC: PVDF 
+- 
+1.5’’ 300# RF flange, MOC: Hastelloy 
+ 
+1 No 
+Quoted 
+3.b 
+Sample Transportation tube: 
+- 
+¼’’ SS316 PTFE HTT tube, Qty: 25 meters for supply 
+- 
+¼’’ SS316 PTFE HTT tube, Qty: 25 meters for return @0.2 
+Kg/cm2g 
+50 Meters 
+Quoted 
+3.c 
+Primary Sample Handling System 
+- 
+With Isloation ball valve 
+- 
+With Inline filter and pressure reducer assembly 
+ 
+Sample handling system consisting of: 
+- 
+Ball valve, Flowmeter for bypass and supply with low flow 
+switch, NRV, fastloop filter (Non redundant configuration). 
+ 
+1 No 
+Quoted 
+ 3.d 
+Analyser Cabinet: 
+- 
+800mm x 800mm x 2100mm, MOC: GRP/FRP, Make: 
+Intertac/Equivalent(Approx dimention shall be provided 
+post order) 
+- 
+With Required JB’s, Exd type 
+- 
+PDB, Exd type 
+- 
+Headers and other accessories 
+ 
+Notes 
+- 
+Makes shall be As per RIL AVL, However since the 
+process is challenging Deviation to makes can be 
+proposed. 
+
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: SCOPE DEFINITION 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply 
+of complete analyzer system for the following analyzers as per MR. 
+• 
+All Analysers complete with all hardware, software and necessary accessories 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 
+4) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyser system 
+• 
+Supply of spares and consumables as per MR requirements (If ordered) 
+• 
+Training at site as per MR requirements (If ordered) 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful ope
+ration of Analyzers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated 
+Electrical traced tubes, bare tubes, pipe, tube fittings between 
+sample take off and analyzer 
+shelter & sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial 
+communication cables/field tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery 
+limit near each Analyzer Shelter in field.

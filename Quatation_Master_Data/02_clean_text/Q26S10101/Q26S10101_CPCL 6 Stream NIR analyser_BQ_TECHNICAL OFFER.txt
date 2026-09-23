@@ -1,0 +1,427 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION. In reference to
+the same, please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+TECHNICAL OFFER
+
+ADAGE QUOTE REF:
+Q26S10101
+DATED : 25.03.2026
+BID TYPE : Technical
+PROJECT TITLE:
+Supply of 6 Streams MS Blending NIR Analyser at CPCL refinery.
+INQUIRY DETAILS:
+Inquiry received via mail from Mr. N.Sakthivel r dtd.:09.03.2026
+
+CUSTOMER:
+
+Kind Attention: Mr. N.Sakthivel
+Chennai Petroleum Corporation Ltd.
+
+END USER:
+
+Chennai Petroleum Corporation Ltd.
+
+We are pleased to submit proposal for the analyser system along with a brief introduction about our
+company.
+
+The contents are as follows:
+
+Section-1: Technical Litreature
+Section-2: Responsibility matrix
+Section-3: Commercial terms & conditions
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. G.N Rao
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9985379936
+gnrao@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+SECTION 1: TECHNICAL LITERATURE
+
+1
+NIR – O Analyzer
+Model: NIR-O
+Make: Process Insights (Guided Wave)
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2
+Mounting Location: Inside cabinet in existing Shelter
+-
+Controller (solid state) included Installed inside analyzer
+housing
+-
+Number of Channels: 6
+-
+Range: XNIR (1000-2100 nm)
+-
+Power Supply: 110 VAC
+-
+Temperature Management System
+-
+Communication protocol: Modbus TCP/IP included
+-
+With In-built installed Software – OmniView
+-
+With In-built Stability Monitoring System
+
+Outputs: Analog output for each parameter will be available
+through MODBUS.
+
+Utility Details Required for Analyzer:
+110 VAC UPS: 2000 Watts
+Instrument air @5-6 kg/cm2g (Oil &water drop free)
+
+1 Set
+Quoted
+1.1
+Ultra-Low OH Fiber Optic Cable
+Fiber Length: 50 meters
+Core Material: Fused Silica
+Core Diameter: 500 micron
+Connectors: SMA/SMA
+Termination fee included.
+
+12 Nos.
+Included
+1.2
+Multi-Purpose Flow Cell (MPFC)
+Body Material: 316L Stainless Steel
+Optical Path Length: 10 mm
+Range: VIS/NIR (400-2100 nm)
+Max. Temperature: 300°C,
+Windows Material: Sapphire
+O-ring Material: Kalrez 6375
+
+6 Nos.
+Included
+1.3
+With Sample Probe: Make: ADAGE
+-
+Manul welded sample probe with isolation valve
+-
+With mounting flanges, gaskets and bolts as required.
+-
+MOC: SS316
+6 Nos
+Included
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+Process Connections: 1.5”, ANSI 300#
+1.4
+With Sample Tubing
+1⁄2” SS316L Tube (Supply): 50 mtrs for each stream
+
+1 Lot
+Included
+1.5
+With Redundant Fast loop pump Skid
+6 Nos
+Included
+1.6
+With Secondary SHS: Make: Adage
+With Dual Fast loop filter, Rotameter, etc. required for proper
+functioning of analyzer.
+SHS shall be mounted on shelter wall inside SS304 SHS box
+
+1 No
+Included
+1.7
+With Calibration / Validation Tank System for Multipurpose
+flow cell measurement.
+
+1 No
+Included
+1.8
+With Common Sample Recovery Tank - 200 liters and
+Pressure gauge
+
+1 No
+Included
+2
+Analyzer shelter (AH)
+
+Area classification outside analyzer shelter: Zone 2, IIC, T3
+Area classification inside analyzer shelter: Zone 1, IIC, T3
+
+Analyzer shelter design & construction details:
+-
+Dimensions- 3 mtrs x 3 mtrs x 3 mtrs
+MOC-SS304, 1.5mm thick
+
+Electrical specifications:
+-
+With F&G devices as per attached Annexure A
+-
+Power distribution & warning panels, exd
+-
+Shelter Safeguarding PLC mounted inside purged
+enclosure.
+
+HVAC specifications
+-
+Redundant HVAC with automatic changeover
+-
+MOC: SS304.
+-
+Capacity – 5 tr (each)
+
+With Panel to Mount NIR Analyzer
+With local Monitoring Display (21" Antiglare TFT monitor.
+Make: Samsung/HP/Dell)
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3
+Mandatory Spares:
+a. Lamp Assembly x 1 No
+b. Power Supply x 1 No
+c. Fuse Set x 1 No
+d. Flow cell O-Ring Kit x 1 No
+e. Temperature Indicator x 1 No
+f. Pressure Indicator x 1 No
+g. Filters x 1 Lot
+h. Pump O-Ring Kit x 1 No
+i.
+Ball Valve x 1 No
+j.
+Needle valve 1 No
+k. AFR x 1 No
+
+Startup & Commissioning spares:
+a. Lamp Assembly x 1 No
+
+1 Lot
+Quoted
+4
+Supervision of Installation and Commissioning
+5 Months
+Quoted
+5
+Model building remote support for 2 Years
+
+A minimum of twenty (20) sample spectra along with the
+associated laboratory analyses must be submitted by CPCL with
+each request for off-site model maintenance by Analyzer expert.
+All models to be updated will be updated at the same time.
+
+2 Years
+Quoted
+6
+PWCAMC for 6 years after standard warranty of 2 years.
+6 years
+Quoted
+
+Note: No starter models for specific gravity and residue are available
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 2: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Process Isolation Valve at tapping point
+
+Yes
+4
+Isolation Valve at process return point
+
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+
+6
+Supply of Mandatory spares- Quoted
+Yes
+
+7
+Consumables spares
+-
+-
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+
+9
+Factory Acceptance Test at Adage Works
+Yes
+
+10
+Packing forwarding
+Yes
+
+11
+Freight up to site including Insurance
+
+Yes
+12
+Storage of supplied system at site
+
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+
+17
+Training at Site
+Yes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+FOR Site Basis
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+30 days.
+Payment Terms
+20% Advance with the Purchase Order, 20 % against drawing approval, Balance 60 %
+against Proforma Invoice on readiness of material prior to dispatch.
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or 18
+months from the date of dispatch whichever is earlier.

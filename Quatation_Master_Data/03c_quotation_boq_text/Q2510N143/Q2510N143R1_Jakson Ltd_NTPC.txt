@@ -1,0 +1,177 @@
+Quotation Number: Q2510N143R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+SO2/NO2/CO2 MEASUREMENT ANALYSER SYSTEM
+Service: FLUE GAS FROM OSBL TO T-01001 PRE-TREATMENT
+COLUMN/ UPSTREAM OF T-01001 PRE-TREATMENT COLUMN TO
+B-01001 FLUE GAS BLOWER
+Tag No: AIT-0100101/ AIT-0100102
+Make: Siemens
+Model: ULTRAMAT23
+Area Classification: TBD
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet (AIT-0100101):
+•
+Pressure (Nor/Design): Atm/0.1 Bar
+•
+Temperature (Nor/Design): 30/65/100 Deg C
+•
+Line Size: 20”
+Process Conditions at Sample Inlet (AIT-0100102):
+•
+Pressure (Nor/Design): 1.01/1.06/1.08 Bar
+•
+Temperature (Nor/Design): 28/40/50 Deg C
+•
+Line Size: 24”
+Measuring Range:
+•
+CO2: 0-20/100%
+•
+NO2: 0-50/1250 mg/m3
+•
+SO2: 0-50/1250 mg/m3
+With Sample Conditioning System:
+•
+Shall be decided based on the gas composition of the service
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+2
+CO2 MEASUREMENT ANALYSER SYSTEM
+Service: TOP OF T-02002 ABSORBER COLUMN TO DEPLETED
+FLUE GAS
+Tag No: AIT-0200206
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet (AIT-0200206):
+•
+Pressure (Nor/Design): Atm/0.2 Bar
+•
+Temperature (Nor/Design): 30/52.5/75 Deg C
+•
+Line Size: 16”
+Process Conditions at Sample Inlet (AIT-0300107):
+•
+Pressure (Nor/Design): 1/1.1 Bar (a)
+•
+Temperature (Nor/Design): 28/40/50 Deg C
+•
+Line Size: 6”
+Measuring Range:
+•
+CO2: 0-20/100%
+With Sample Conditioning System:
+•
+Shall be decided based on the gas composition of the service
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+3
+pH MEASUREMENT ANALYSER SYSTEM
+Service: As per MTO
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH
+Measuring Ranges:
+•
+pH: 5-14
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+5 Sets
+QUOTED
+QUOTED
+4
+CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+Service: As per MTO
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: Conductivity
+Measuring Ranges:
+•
+Conductivity: 0- 250000 μS/cm
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+4 Sets
+QUOTED
+QUOTED
+5
+ORP MEASUREMENT ANALYSER SYSTEM
+Service: ORP MEASUREMENT
+Tag No: AIT-2200104
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: TBD
+Component to be measured: ORP
+Measuring Ranges:
+•
+ORP: 0 to -15000 mV
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+ADDITIONAL PRICES
+1
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+PER
+MTR
+@ QUOTED PER METER
+2
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+With Necessary JBs & accessories
+PER
+MTR
+@ QUOTED PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per
+Diem
+@ QUOTED PER DIEM

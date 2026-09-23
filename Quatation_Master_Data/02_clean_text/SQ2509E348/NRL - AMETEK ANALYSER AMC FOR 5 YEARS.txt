@@ -1,0 +1,259 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+NUMALIGARH REFINERY LIMITED
+(A GOVERNMENT OF INDIA ENTERPRISE)
+NRL COMPLEX, NUMALIGARH,
+Dist : GOLAGHAT, ASSAM 785699
+
+SUBJECT
+: OFFER FOR 5 YEARS ANNUAL MAINTANACE SERVICES FOR AMETEK ANALYSER
+
+REFERENCE/RFQ
+: EMAIL, DATED 29.09.2025
+
+KIND ATTENTION
+: Mr. Nripen Baruah, Maintenance - Instrumentation
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If
+you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2509E348
+Dated: 01.10.2025
+Contact persons :
+
+Mr. Manas Das
+Email: manas@adage-automation.com
+Mob: +91 9435010897
+(Adage-Mumbai)
+
+Mr. Vishnu Birmole
+Email: vishnu@adage-automation.com
+Mob: +91 9987538932
+(Adage-HO)
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: + 91 9769012864
+(Adage-HO)
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 1: SUMMARY OF PRICES
+Sl. No.
+Item Description
+Unit
+Quantity
+Rate(Rs.)
+Amount (Rs.)
+1
+Expert service for 3 years PM visit
+VST
+9
+435120
+3916080
+2
+Expert service for 3 years SOS visit
+MDY
+21
+71500
+1501500
+3
+Expert service for 4th & 5th year PM visit
+VST
+6
+565656
+3393936
+4
+Expert service for 4th & 5th year SOS visit
+MDY
+14
+85000
+1190000
+
+SPECIAL NOTE:
+1. GST Shall be charged extra as applicable. Presently @ 18%.
+2. Any modification, mechanical and civil work required during the contact period and lifting & shifting of material shall
+be in NRL scope.
+3. Working time shall be as per industrial norms. i.e., 8 hrs. per Man Day and Holiday as per industrial norms.
+4. Lodging, Boarding, to and fro charges is included in M/s Adage scope.
+5. All types of spares (consumables/mandatory/operational/critical) required for sample handling system shall be in
+NRL scope.
+6. All the diagnostics software required for maintenance of analysers under the AMC shall be in Adage scope.
+7. Any types of on-job training shall be charge at extra, Training Rate shall be providing separately time to time
+8. Regular sample handling system, sample pump, fast loop pump, recovery tank, validation tank, fast loop filters,
+water cooler etc maintenance shall be in NRL scope.
+9. Before startup of AMC analyser shall be checked as per OEM standard, required any types of spares shall in
+customer scope. Visit rate shall be extra applicable, other expenses shall be charge at actual.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SCOPE OF WORK AND SPECIAL TERMS & CONDITION
+
+1. Name of Contract: Annual Maintenance Contract (AMC) for Ametek make Analyzers of NRL
+2. The AMC includes the following analyzers:
+a) O2 Analyzers – 11 Nos (Model : WDG-IV & WDG-V)
+b) Feed Gas/H2S Analyzer – 5 Nos (Model : 931S & 931)
+c) Tail Gas H2S/SO2 Analyzer– 1 No (Model : 880NSL)
+d) Any other Ametek make Analysers
+3. Contractual period: 5 Years from the date of first visit.
+4. Payment Terms: Pro rata basis against the submitted invoice after the completion of each visit.
+5. No. of Visits: There shall be two types of visits-
+a) Preventive Maintenance
+b) Emergency Maintenance.
+During the AMC period no. of site visits shall be 3 (three) each year, i.e. once in 4 months. Each PM Visit shall be of
+minimum 8 days and extendable for 1 more day as per requirement at site. Duration of SOS visit shall be as per
+actual requirement at site for rectification of the equipment and return back to normal operating condition.
+6. Scope of Services:
+a) Preventive Maintenance
+b) Emergency Maintenance
+
+a) Preventive maintenance:
+Preventive maintenance service shall be provided at a scheduled interval of four months. Date of visits to be
+as discussed and mutually agreed. It shall include inspection of general healthiness of the system, study and
+advice on daily maintenance, if any problem is reported, and running of test programs, on-line servicing and
+solving reported problems.
+
+Details of services under preventive maintenance are as follows:
+i. Checking the general operation & operating condition of the equipment.
+ii. Calibration of the equipment and submission of calibration report.
+iii. General healthiness checks of various important components and cards: Service Engineer will diagnose for
+general healthiness of the equipment using his service tools according to servicing procedure.
+- Servicing and Cleaning of Analyzer Sample Handling System.
+- Checking of Power Supplies & System Earthing.
+- Checking of Hardware components (HMI, Controller, Probe, Heat trace line, Sample cell, Cadmium lamps,
+various electronic boards etc.) as well as software of the analyzers.
+- Checking of Vortex cooler for cooling inside cabinets.
+- Creation of a backup file for emergency purposes.
+iv. Investigation of the problems reported by NRL: The problems highlighted by NRL during the visit and hidden
+problems identified by Service engineer to be investigated. Vendor engineer will take appropriate / remedial
+steps for resolving these problems.
+v. Replacement of defective parts: As per requirement if any part is to be replaced, same shall be replaced with
+subject to availability of the part at NRL stock.
+vi. After completion of servicing, service engineer will demonstrate the performance of the equipment to the
+satisfaction of NRL.
+vii. Vendor shall maintain the existing operating and application software for any debugging requirements to have
+consistent performance of the system.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+viii. Report: A detail service report on jobs carried out, observations and recommendations to be submitted by the
+vendor upon completion of each visit.
+
+b) Emergency Maintenance Service:
+In the event of any malfunctioning of the system hardware/system software, experienced service engineer
+shall be deputed to NRL site within 72 hours period of intimation from NRL for rectification of the problem.
+
+7. Travel & accommodation expenses: Travel and Accommodation will be in vendor’s scope
+8.
+Special Instructions to Vendor:
+a) On receipt of order the party shall report to Engineer-In-Charge and a mutually agreed schedule shall be
+made.
+b) The party shall depute their Service Engineer to NRL site who is experienced and fully competent to take
+up Preventive maintenance and Emergency nature of jobs of the analyzer system.
+c) The party shall intimate NRL before visiting to site.
+d) The party shall ensure compliance of all statutory requirements pertaining to engagement of contract
+labour, if any.
+e) The vendor expert shall carry all testing and measuring equipment (with calibration certificate awarded by
+competent authority), tool and tackles for taking up all jobs related to the AMC.
+f) The vendor expert shall have to follow all the mandatory safety norms and instructions of NRL while
+carrying out the activities. He shall carry his own mandatory PPE such as Boiler Suit, Safety shoe, Safety
+helmet and goggles.
+g) NRL will work on system day-to-day basis and whenever possible shall inform the type of failure of
+software/hardware to vendor based on diagnostic available with the system. Also while carrying out the
+AMC activities, NRL’s engineers shall associate with the vendor.
+h) NRL GCC shall be followed for all other terms and conditions.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+GST
+Shall be charged extra as applicable. Presently @ 18%
+Offer Validity
+30 Days
+SAC code 998333
+Payment Terms Within 07 Days after submission of our Invoice after Service Visit.
+Our Bank account
+Details
+Our Bank account Details are as follows:
+Bank Name
+: Kotak Mahindra Bank Limited
+Branch
+: Mapusa, Goa
+Account No
+: 6449378755
+IFSC Code
+: KKBK0002495
+
+Bank Name
+: ICICI Bank Limited
+Branch
+: Mahape, Navi Mumbai
+Account No
+: 056451000001
+IFSC Code
+: ICIC0000564
+MICR Code
+: 400229034
+Deputation of
+Engineer
+Our Engineer would be deputed within 15 days from the receipt of your Work order

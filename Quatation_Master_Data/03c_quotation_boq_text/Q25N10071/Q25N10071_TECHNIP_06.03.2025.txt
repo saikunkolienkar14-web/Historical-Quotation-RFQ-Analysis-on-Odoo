@@ -1,0 +1,1114 @@
+Quotation Number: Q25N10071
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price
+1.1
+Nitrogen from
+Battery Limit
+&
+Nitrogen to
+Process
+AE-1108-03
+Total Hydrocarbon Analyser
+1 No
+Quoted
+1.2
+AE-1108-01
+Moisture Analyser
+1 No
+Quoted
+1.3
+AE-1108-02
+Electrochemical Oxygen Analyser
+system
+1 No
+1.4
+AE-1101-02
+Electrochemical Oxygen Analyser
+system
+1 No
+Quoted
+1.5
+AE-1101-01
+Moisture Analyser
+1 No
+Quoted
+2.1
+Hydrogen to
+Reaction
+and
+Hydrogen to
+Purification
+AE-1211-01A
+AE-1200-01
+Moisture Analyser
+2Nos
+Quoted
+2.2
+AE-1211-01B
+AE-1200-05
+Electrochemical Oxygen Analyser
+system
+2Nos
+Quoted
+2.3
+AE-1200-04
+AE-1211-01C
+Gas chromatograph for hydrogen
+purification
+Note: Timed Cycle Analysis
+1 No
+Quoted
+3.1
+Propylene to
+Purification
+And
+Propylene to
+Charge pump
+AE-2008-24
+AE-2020-03
+Moisture Analyser
+2Nos
+Quoted
+3.2
+AE-2008-25
+AE-2020-04
+Electrochemical Oxygen Analyser
+system
+2Nos
+Quoted
+3.3
+AE-2008-26
+AE-2020-05
+Gas chromatograph for propylene
+purification
+Note: Timed Cycle Analysis
+1 No
+Quoted
+3.4
+AE-2008-27
+AE-2020-06
+2 Stream Total Sulfur Analyser
+Note: Timed Cycle Analysis
+1 No
+Quoted
+4
+Cycle Gas
+from
+Compressor
+AE-4001-12
+Gas chromatograph system for cycle
+gas
+1 No
+Quoted
+5
+Vent
+Recovery
+System
+AE-5261-08
+AE-5260-11
+AE-5252-04
+AE-5229-15
+AE-5230-10
+Gas chromatograph system for Vent
+gas
+Note: Timed Cycle Analysis
+1 No
+Quoted
+6
+Feed Hopper AE-7011-07
+Oxygen Analyser system
+1 No
+Quoted
+7
+Propane
+Purge
+AE-5276-20
+Moisture Analyser
+1 No
+Quoted
+8
+-
+-
+Analyser shelter with redundant
+HVAC for mounting of above gas
+chromatographs, sulfur analyser
+1 No
+Quoted
+9.1
+AE-2115-11
+Moisture Analyser
+1 No
+Quoted
+9.2
+N2 to Flare
+AE-2115-12
+Electrochemical Oxygen Analyser
+system
+1 No
+Quoted
+9.3
+Degassing
+Column
+overhead
+And
+N2 to Flare
+AE-2008-34
+AE-2115-13
+2 Stream Gas chromatograph
+system for Degassing column and
+Nitrogen to flare
+1 No
+Quoted
+10
+-
+-
+Analyser shelter with redundant
+HVAC for mounting of above gas
+chromatographs
+1 No
+Quoted
+11
+Steam
+Condensate
+to OSBL
+AE-9001-05
+Conductivity analyser
+1 No
+Quoted
+12
+-
+-
+Portable Oxygen and LEL analyser
+2 Nos
+Quoted
+13
+-
+-
+Inspection & Testing of Analyzers.
+1 Lot
+Quoted
+14
+-
+-
+Mandatory Spares
+1 Lot
+Quoted
+15
+-
+-
+Commissioning/ start-up spares
+(Irrespective of any list shall be hand
+carried by our service engineer)
+1 Lot
+Quoted
+16
+-
+-
+Supervision of Erection and
+Commissioning
+1 Lot
+Quoted
+17
+-
+-
+2 years Operational and
+Maintenance Spares for as per
+Adage recommendation
+1 Lot
+Quoted
+18
+-
+-
+Training as per specification
+Lumpsum
+Quoted
+19
+-
+-
+5 Years Comprehensive AMC post
+guarantee
+Lumpsum
+Quoted
+20
+-
+-
+Supervision charges for installation
+and commissioning 45 mandays
+(min 3 visits)
+Lumpsum
+Quoted
+21
+-
+-
+Drawings and documents
+1 Lot
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+S. No
+Description
+Qty.
+Price
+1.1
+Total Hydrocarbon for Nitrogen Stream:
+TAG NO: AE-1108-03
+Service 1: Nitrogen from Battery limit
+MODEL: Fidamat 6
+MAKE: Siemens
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+1.2
+Moisture for Nitrogen Stream:
+TAG NO: AE-1108-01
+Service 1: Nitrogen from Battery limit
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.3
+Oxygen for Nitrogen Stream:
+TAG NO: AE-1108-02
+Service 1: Nitrogen from Battery limit
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.3A
+Sample Welded Probe for Nitrogen Stream as per below
+1 No.
+Quoted
+1.3B
+PSHS system for Nitrogen Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+Note:
+Common tapping shall be used for oxygen, moisture and
+hydrocarbon analyzers in field for Streams AE-1108-03/02 and
+01.
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+1.3C
+Non Heated SSHS system.
+-
+With isolation valve, filter and rotameter assembly
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+1.3D
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+1.3E
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+1/4" OD SS316 Tube from PSHS to SSHS – 95Mtrs
+1 Lot
+Quoted
+1.4
+Moisture for Nitrogen Stream:
+TAG NO: AE-1101-01
+Service 1: Nitrogen to process
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.5
+Oxygen for Nitrogen Stream:
+TAG NO: AE-1101-02
+Service 1: Nitrogen to process
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+1 No.
+Quoted
+Mounting Location: in Field Primary SHS
+1.5A
+Sample Welded Probe for Nitrogen Stream as per below
+1 No.
+Quoted
+1.5B
+PSHS system for Nitrogen Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+Note:
+Common tapping shall be used for oxygen, moisture analyzers in
+field for Streams AE-1101-01 and 02.
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+1 No.
+Quoted
+1.5C
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+1 Lot
+Quoted
+Hydrogen Stream
+2.1
+Moisture for hydrogen Stream:
+TAG NO: AE-1211-01A & AE-1200-01
+Service : Hydrogen to reaction and Purification
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+2.2
+Oxygen for Hydrogen Stream:
+TAG NO: AE-1211-01B & AE-1200-05
+Service : Hydrogen to reaction and Purification
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+2.3
+Gas chromatograph for hydrogen Purification :
+TAG NO: AE-1211-01C & AE-1200-04
+Service 1: Hydrogen to reaction and Purification
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+Technical Notes
+Common GC for CO and CO2 Analysis of AE-1211-01C/AE-1200-04
+and AE-2008-26/AE-2020-05, sequential analysis.
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+2.3A
+Sample Tapping Arrangement for Hydrogen Line
+2 Nos.
+Quoted
+2.3A
+PSHS system for Nitrogen Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+Note:
+Common tapping shall be used for oxygen, moisture and Gas
+chromatograph analyzers in field for Streams AE-1211-01A/B/C
+and AE-1200-01/04/05.
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+2 Nos.
+Quoted
+2.3B
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+2 Nos.
+Quoted
+2.3C
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+2.3D
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr X 2
+1/4" OD SS316 Tube from PSHS to SSHS – 95Mtrs X 2
+1 Lot
+Quoted
+Propylene Stream
+3.1
+Moisture for Propylene Stream:
+TAG NO: AE-2008-24 and AE-2020-03
+Service : Propylene to Purification and charge pump
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+3.2
+Oxygen for Propylene Stream:
+TAG NO: AE-2008-25 and AE-2020-04
+Service : Propylene to Purification and charge pump
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+3.3
+Gas chromatograph for Propylene Purification :
+TAG NO: AE-2008-26 and AE-2020-05
+Service : Propylene to Purification and charge pump
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+Technical Notes
+Common GC for CO and CO2 Analysis of AE-1211-01C/AE-1200-04
+and AE-2008-26/AE-2020-05, sequential analysis.
+CO Analysis of AE-4001-12(service on Demand)
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+3.4
+Total Sulfur for Propylene Purification :
+TAG NO: AE-2008-27 and AE-2020-06
+Service : Propylene to Purification and charge pump
+MODEL: NSure
+MAKE: PAC
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+3.4A
+Sample Welded Probe for Propylene Stream as per below
+1 No.
+Quoted
+3.4B
+PSHS system for Propylene Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, heated
+pressure regulator etc.
+-
+Mounted inside SS316 enclosure
+Note:
+Common tapping shall be used for oxygen, moisture, Gas
+chromatograph and Sulfur analyzers in field for Streams AE-2008-
+24/25/26/27 and AE-2020-03/04/05/06
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+1 No.
+Quoted
+3.4C
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+2 Nos.
+Quoted
+3.4D
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+3.4E
+Sample Tubing
+1/4" OD SS316-Sulfinert HTT from Tapping to PSHS – 5Mtr X 2
+1/4" OD SS316-Sulfinert HTT Tube from PSHS to SSHS – 95Mtrs
+X 2
+1 Lot
+Quoted
+Cycle Gas Stream
+4
+Gas chromatograph for cycle Gas :
+TAG NO: AE-4001-12
+Service : Cycle gas from compressor
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+Technical Notes
+CO Analysis of AE-4001-12(service on Demand) shall be in
+Propylene GC
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+4.A
+Sample Welded Probe for Cycle Gas Stream as per below
+1 No.
+Quoted
+4.B
+PSHS system for Propylene Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+4.C
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+4.D
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+4.E
+Sample Tubing
+1/4" OD SS316-Sulfinert Tube from PSHS to SSHS – 100Mtrs
+1 Lot
+Quoted
+Vent Recovery Streams
+5
+Gas chromatograph for Vent Recovery :
+TAG NOS: AE-5261-08, AE-5260-11, AE-5252-04, AE-5229-15
+& AE-5230-10
+Service : Vent Recovery
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+Technical Notes
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+5.A
+Sample Tapping Arrangement for line size upto 2”
+2 Nos.
+Quoted
+5.B
+Sample Welded Probe for line size above 2”
+3 Nos.
+Quoted
+5.C
+PSHS system for Liquid Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+3 Nos.
+Quoted
+5.D
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+2 Nos.
+Quoted
+5.E
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+5.F
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+5.G
+Sample Tubing
+1/4" OD SS316 from PSHS to SSHS – 100Mtrs X 5
+1 Lot
+Quoted
+Extruder Hopper
+6
+Oxygen Analyser for Hopper :
+TAG NOS: AE-7011-07
+Service : Extruder Hopper
+MODEL: Oxymat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+6.A
+Sample probe with filter assembly
+1 No.
+Quoted
+6.B
+SSHS system.
+-
+With sample gas pump, isolation valve, filter, rotameter
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+6.C
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+6.D
+Sample Tubing
+1/4" OD SS316 from tapping point to SSHS – 100Mtrs X 1
+1 Lot
+Quoted
+Propane Purging
+7
+Moisture for Propane Purging Stream:
+TAG NO: AE-5256-20
+Service 1: Propane Purging
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+7.A
+Sample Tapping Arrangement for line size upto 2”
+1 No.
+Quoted
+7.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+7.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+1 Lot
+Quoted
+8
+Analyser shelter
+Tag no: AS-001
+Area classification outside analyser shelter: Zone 2, IIC, T3
+Area classification inside analyser shelter: Zone 1, IIC, T3
+Analyser shelter to house below analysers:
+•
+Total Hydrocarbon Analyser
+•
+Hydrogen Purification GC
+•
+Propylene Purification GC
+•
+Sulfur Analyser
+•
+Cycle Gas GC
+•
+Vent Gas GC
+Analyser shelter design & construction details:
+-
+Dimensions- 6 mtrs x 3 mtrs x 3 mtrs
+-
+MOC-SS304,
+-
+2 mm thick internal wall with ss finish.
+-
+2 mm thick outer wall with ss finish.
+-
+80mm insulation of rock/mineral wool
+-
+Overhang roof canopy-1 meter, MOC: SS304.
+-
+Base frame: ISMC 150
+-
+Panic bar installed on each door.
+-
+Floor: 5 mm thick anti-slip and non-corrosive aluminum
+chequered plate.
+-
+Doors: main door and emergency door double door
+-
+Louvers: 4 no’s
+-
+Cable entry to shelter: through MCT block.
+-
+Tube entry to shelter: through gromet/bulkhead plate.
+-
+Cable tray: FRP
+-
+Portable fire extinguisher.
+-
+Light Switch near main door.
+-
+With Auto changeover regulator for GC’s
+-
+With Vent recovery system make Parker Hafinn/Equivalent
+Mounted on shelter wall.
+-
+Bubbling bottle for GC vent Make Uehling or Equivalent
+Electrical specifications:
+-
+F&G devices as per attached Annexure A
+-
+Power distribution & warning panels, exd
+-
+Shelter safeguarding plc mounted inside purged
+enclosure.
+-
+Junction boxes, Exd
+HVAC specifications
+-
+Redundant HVAC with automatic changeover
+-
+MOC: SS304.
+-
+Capacity – 5 tr (each)
+Fresh air duct: 8 mtrs, MOC:GI
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside analyzer room)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector (inside analyzer room)
+2
+H2 Detector (inside analyzer room)
+1
+O2 deficiency detector (inside analyzer room)
+1
+Optical Smoke Detector (inside analyzer room)
+2
+Diff pressure transmitter (inside analyzer room)
+1
+Temp Tx with Display (inside analyzer room)
+1
+Safeguarding PLC for Analyser Shelter (With redundant CPU)
+1 LOT
+Purge controller for PLC Panel
+1
+Electrical Panels: Zone 1 IIC)
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for incomer
+cable termination prior to PDB. Rack for PDBs & warning Panel.
+1 LOT
+Electrical fittings & components
+240 VAC Switch Socket (Inside shelter)
+1
+110 VAC Switch Socket (Inside shelter)
+1
+Hooter
+1
+3 Way Beacon
+2
+Manual Call Point
+2
+LED Tube lights inside
+AR
+LED Tube lights outside
+AR
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Toolbox
+1
+Wash basin with eye wash (Outside shelter)
+1
+Armoured XLPE Cables, Cable trays, cable Glands, Utility Headers with Air filter & Other
+Accessories as per MR
+1 LOT
+N2 to Flare and Degassing column overhead
+9.1
+Moisture for N2 flare Stream:
+TAG NO: AE-2115-11
+Service : Nitrogen to Flare
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+9.2
+Oxygen for N2 flare Stream:
+TAG NO: AE-2115-12
+Service : Nitrogen to Flare
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+9.3
+Gas chromatograph for N2 to Flare and Degassing Column :
+TAG NO: AE-2115-13 and AE-2008-34
+Service : N2 to flare and degassing column
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+Technical Notes
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+9.3A
+Sample Welded Probe for Propylene Stream as per below
+1 No.
+Quoted
+9.3B
+PSHS system for Nitrogen Flare Stream
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, heated pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+Note:
+Common tapping shall be used for oxygen, moisture and Gas
+chromatograph in field for Streams AE-2115-11/12 and 13
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+1 No.
+Quoted
+9.3C
+PSHS system for Degassing column overhead
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+9.3D
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+2 Nos.
+Quoted
+9.3E
+Calibration and carrier gas cylinder
+Suitable for 6 months operation after SAT.
+1 No.
+Quoted
+9.3F
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+1/4" OD SS316- from PSHS to SSHS – 100Mtrs X 2
+1 Lot
+Quoted
+10
+Analyser shelter
+Tag no: AS-002
+Area classification outside analyser shelter: Zone 2, IIC, T3
+Area classification inside analyser shelter: Zone 1, IIC, T3
+Analyser shelter to house below analysers:
+•
+Nitrogen to Flare & Degassing column GC
+Analyser shelter design & construction details:
+-
+Dimensions- 3 mtrs x 3 mtrs x 3 mtrs
+-
+MOC-SS304,
+-
+2 mm thick internal wall with ss finish.
+-
+2 mm thick outer wall with ss finish.
+-
+80mm insulation of rock/mineral wool
+-
+Overhang roof canopy-1 meter, MOC: SS304.
+-
+Base frame: ISMC 150
+-
+Panic bar installed on each door.
+-
+Floor: 5 mm thick anti-slip and non-corrosive aluminum chequered
+plate.
+-
+Doors: main door and emergency door double door
+-
+Louvers: 4 no’s
+-
+Cable entry to shelter: through MCT block.
+-
+Tube entry to shelter: through gromet/bulkhead plate.
+-
+Cable tray: FRP
+-
+Portable fire extinguisher.
+-
+Light Switch near main door.
+-
+With Auto changeover regulator for GC’s
+-
+With Vent recovery system make Parker Hafinn/Equivalent Mounted
+on shelter wall.
+-
+Bubbling bottle for GC vent Make Uehling or Equivalent
+Electrical specifications:
+-
+F&G devices as per attached Annexure A
+-
+Power distribution & warning panels, exd
+-
+Shelter safeguarding plc mounted inside purged enclosure.
+-
+Junction boxes, Exd
+HVAC specifications
+-
+Redundant HVAC with automatic changeover
+-
+MOC: SS304.
+-
+Capacity – 2 tr (each)
+-
+Fresh air duct: 8 mtrs, MOC:GI
+1 Set
+Quoted
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside analyzer room)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector (inside analyzer room)
+2
+H2 Detector (inside analyzer room)
+1
+O2 deficiency detector (inside analyzer room)
+1
+Optical Smoke Detector (inside analyzer room)
+2
+Diff pressure transmitter (inside analyzer room)
+1
+Temp Tx with Display (inside analyzer room)
+1
+Safeguarding PLC for Analyser Shelter (With redundant CPU)
+1 LOT
+Purge controller for PLC Panel
+1
+Electrical Panels: Zone 1 IIC)
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for incomer
+cable termination prior to PDB. Rack for PDBs & warning Panel.
+1 LOT
+Electrical fittings & components
+240 VAC Switch Socket (Inside shelter)
+1
+110 VAC Switch Socket (Inside shelter)
+1
+Hooter
+1
+3 Way Beacon
+2
+Manual Call Point
+2
+LED Tube lights inside
+AR
+LED Tube lights outside
+AR
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Toolbox
+1
+Wash basin with eye wash (Outside shelter)
+1
+Armoured XLPE Cables, Cable trays, cable Glands, Utility Headers with Air filter & Other
+Accessories as per MR
+1 LOT
+Steam Condensate to OSBL
+11
+Conductivity Analyser :
+TAG NO: AE-90001-05
+Service : Steam condensate to OSBL
+MODEL: Aquacon Series
+MAKE: Forbes Marshall
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+11.A
+SSHS system.
+-
+With isolation ball valve, heat exchanger, thermal shut off
+valve
+-
+Mounted in field rack with canopy
+1 No.
+Quoted
+11.B
+1⁄2” OD SS316 Tube
+15Mts
+Quoted
+12
+Portable Oxygen and LEL analyser
+2 Nos
+Quoted
+13
+Inspection & Testing of Analyzers.
+1 Lot
+Quoted
+14
+Mandatory Spares as per attached list Annexure-1
+1 Lot
+Quoted
+15
+Commissioning/ start-up spares
+(Irrespective of any list shall be hand carried by our service
+engineer)
+1 Lot
+Quoted
+16
+Supervision of Erection and Commissioning
+1 Lot
+Quoted
+17
+2 years Operational and Maintenance Spares for as per Adage
+recommendation
+1 Lot
+Quoted
+18
+Training as per specification
+Lumpsum
+Quoted
+19
+5 Years Comprehensive AMC post guarantee
+Lumpsum
+Quoted
+20
+Supervision charges for installation and commissioning 45
+mandays (min 3 visits)
+Lumpsum
+Quoted
+21
+Drawings and documents
+1 Lot
+Quoted

@@ -1,0 +1,2128 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+ADAGE QUOTE REF:
+Q25W10188
+DATED : 23.10.2025
+BID TYPE : Tender
+PROJECT TITLE:
+Supply of Pour point analyser for Lobs unit at HPCL Mumbai
+INQUIRY DETAILS:
+GEM tender No : GEM/2025/B/6755428
+CUSTOMER:
+
+Kind Attention : Mr Prasun Sarkar
+HPCL Mumbai
+
+END USER:
+
+HPCL Mumbai
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Technical Literature
+SECTION-3: Scope Matrix
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr Tejas Rivonkar
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9284270984
+tejas@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 1: SUMMARY OF PRICES
+
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Supply of Pour point Analyser
+Quoted
+Quoted
+2
+1
+Supervision of installation & Commissioning charges
+Inclusive
+Inclusive
+3
+1
+5 Years PWCAMC Charges
+Inclusive
+Inclusive
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: TECHNICAL LITERATURE
+
+1
+Tag No : 056-AT-0701
+Process condition at sample inlet:
+-
+Temperature: 55/60/265 °C (NOR/MAX/DESIGN)
+-
+Pressure: 7/12.9/16.7/25.8 kg/cm2g (MIN/NOR/MAX/DESIGN)
+
+Process condition at Sample return: Shall be provided Later
+
+Fastloop return : To process (By HPCL)
+Service: Measure Pour Point of Lube Product
+
+As per MR
+Requirement
+1.1
+Pour point Analyser
+Test Method: ASTM D-97
+Make: Icon Scientific
+Hazardous Area: Analyzer Suitable for Zone 1 IIB+H2 T4
+Range: -30 to 3 °C
+Power Supply: 110VAC, 50 Hz UPS, 500 VA
+IP rating: IP66
+Analyzer mounting Location: Inside existing analyser shelter
+Analyser Ambient temperature: +5 to 40 °C
+With 17” Armored glass touch screen
+Sample Consumption:20 LPH
+
+Analyser Output:
+-
+4-20Ma analog output for pour point
+-
+MODBUS RTU /OPC over RS485 or Ethernet TCP/IP.
+-
+Digital outputs
+
+Utility Requirement:
+-
+110VAC 50Hz UPS power supply
+-
+415/230 VAC 50Hz Non UPS power supply
+-
+Cooling water
+Note:
+-
+Adage shall provide serial output till communication JB at existing
+shelter, further distribution shall be taken care by HPCL as
+confirmed in Prebid query.
+
+1 No
+Quoted
+1.1
+
+Sample Probe
+-
+Online retractable type probe, Make: Lotus
+-
+1.5” 300# RF Flange
+
+1 No
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.2
+Sample transportation tube:
+-
+Sample supply and return pipe / line till SHS mounted outside
+existing analyser shelter in BPCL scope of supply as confirmed in
+Prebid query.
+
+By BPCL
+1.21
+Internal tubbing (1/2’’ SS316) within SHS shall be in Adage scope of
+supply
+25 meters
+1.3
+Secondary Sample handling system:
+-
+Secondary SHS: Mounted Outside existing analyser shelter inside
+SS316 enclosure.
+-
+Shall be as per the scheme attached.
+-
+Validation tank: 20 Liter capacity
+-
+Analyzer shall be calibrated/validated using process sample.
+-
+Heat Exchanger
+-
+Chiller unit
+
+Only below Accessories shall be supplied inside existing analyser
+shelter by Adage
+-
+PDB, LM6
+-
+With ASJB, DSJB, CSJB
+-
+Headers
+
+Remarks:
+-
+All Electrical Components shall be ATEX/CCOE Certified.
+-
+All makes shall be as per BPCL approved Vendor List
+-
+Fastlloop pump skid is not required and shall be used
+existing as confirmed in Prebid query.
+
+1 No
+Quoted
+1.4
+With 200 Liter recovery tank with Redundant Sample recovery pump
+with other accessories
+1 No
+Quoted
+1.5
+24 hours repeatability test certificate from OEM
+1 No
+Quoted
+1.6
+8 hours repeatability test certificate from Adage
+1 No
+Quoted
+1.7
+Project Documentation charges
+1 No
+Quoted
+1.8
+FAT at Adage factory
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.9
+Packing and forwarding charges
+1 No
+Quoted
+1.10
+Transportation up to Site
+1 No
+Quoted
+1.11
+Startup & Commissioning spares
+1 No
+Quoted
+1.12
+Consumable spares for 1 year operation from date of SAT
+Not applicable, since Analyser shall be calibrated/validated using process
+sample, hence No calibration cylinders are required.
+
+Not Quoted
+1.13
+Additional spares
+RS-485 to USB Converter (MOXA make)
+RS-485 to HART Converter
+1 Set
+Quoted
+2
+Supervision of Installation and Commissioning charges
+1 No
+Quoted
+2.1
+SAT
+1 No
+Quoted
+2.2
+Training at Sites
+For 3 working days
+
+1 No
+Quoted
+3
+PWCAMC charges for 5 years
+
+1 Lot
+Quoted
+
+Sr No
+Instrument Type / Item
+3 - Phase (415 V AC) Non-UPS
+power Supply in Watt Per Set
+115V AC UPS Power
+Supply in Watt Per Set (For
+Analysers)
+Instrument Air(4-5bar)
+Consumption
+Cooling Water
+Remarks
+1
+Pour Point Analyzer
+3300
+500
+Required
+Required
+For 3 Phase: Sample Recovery + lights + Chiller unit
+3300
+500
+1.2
+1.2
+3960
+600
+Utility & Power Consumption List
+Total Power
+Safety Factor 20 %
+Total Power Consumption
+Page 1 of 1
+
+Government of India
+Ministry of Commerce & Industry
+Petroleum & Explosives Safety Organisation (PESO)
+5th Floor, A-Block, CGO Complex, Seminary Hills,
+Nagpur - 440006
+E-mail : explosives@explosives.gov.in
+Phone/Fax No : 0712 -2510248, Fax-2510577
+Approval No : A/P/HQ/GA/104/5510 (P528150)
+Dated : 23/08/2022
+To,
+M/s. ICON Scientific Ltd.,
+Unit 6, The Industrial Quarter, Bath Business Park, ,Peasdown St John
+BA2 8SF
+UK
+Sub :
+Approval of Flame Proof Type Electrical Equipment under Petroleum Rules 2002- Regarding.
+Sir(s),
+Please refer to your letter No. OIN1118216 dated 12/08/2022 on the subject.
+The following Ex electrical equipment(s) manufactured by you according to IEC 60079-0 : 2011, IEC 60079-1 : 2014-06, standards and covered under Eurofins E&E CML
+Limited Test reports mentioned below is/are approved for use in Zone 1 of Gas IIB+H2 hazardous areas coming under the the Petroleum Rules, 2002 administered by this
+Organization.
+Sr. No
+Description
+Safety
+Protection
+Equipment
+reference
+Number
+Test Agency
+Drawing no
+Name
+Certificate No.
+Certificate
+Date
+1
+Pour Point Analyser (Without optical
+transmitter)
+Ex db IIB+H2
+T4 Gb
+P528150/1
+Eurofins E&E CML
+Limited
+IECEx CML
+22.0063X Issue No.
+0
+26/07/2022
+As per test
+report
+This Approval is granted subject to observance of the following conditions:-
+1)The design and construction of the equipment shall be strictly in accordance with description, condition and drawings as mentioned in the Eurofins E&E CML Limited Test Reports
+referred to above.
+2)The equipment shall be used only with approved type of accessories and associated apparatus.
+3)Each equipment shall be marked either by raised lettering cast integrally or by plate attached permanently to the main structure to indicate conspicuously:-
+(a) Name of the manufacturer
+(b) Name and number by which the equipment is identified.
+(c) Number & date of the test report of the Eurofins E&E CML Limited applicable to the equipment.
+(d) Equipment reference number of this letter by which use of apparatus is approved.
+(e) Protection level.
+
+4) A certificate to the effect that the equipment has been manufactured strictly in accordance with the drawing referred to in the Eurofins E&E CML Limited Test report and is identical with
+the one tested and certified at Eurofins E&E CML Limited shall be furnished with each equipment.
+5) The customer shall be supplied with a copy of this letter, an extract of the conditions and maintenence schedule, if any, recommended by Eurofins E&E CML Limited in their test reports
+and copy of instructions booklet detailing operation & maintenance of the equipment so as to maintain its Flame Proof characterestics.
+6) The After sales service and maintanance of subject equipment shall be looked after by your representative Adage Automation Private Limited, L26B, Verna Indl. Estate
+Conditions of the Approval:-
+The approval for above equipment is subject to validity of IECEx Quality Assessment Report No. GB/CML/QAR21.0010.
+This approval also covers the permissible variations as approved under the Eurofins E&E CML Limited test reports referred above. This approval is liable to be cancelled if any of the
+conditions of the approval is violated or not complied with . The approval may also be amended or withdrawn at any time, if considered necessary in the interest of safety.
+The field performance report from actual users/your customers of the subject equipment may please be collected and furnished to this office for verification and record on annual basis.
+The Approval is Valid upto 31/12/2026
+Yours faithfully,
+(A.B. Tamgadge)
+Dy. Chief Controller of Explosives
+For Chief Controller of Explosives
+Nagpur
+Copy to :
+1. Jt. Chief Controller of Explosives, West Circle, MUMBAI
+2. Adage Automation Private Limited,L26B, Verna Indl. Estate
+for Chief Controller of Explosives
+Nagpur
+(For more information regarding status,fees and other details please visit our website http://peso.gov.in)
+This is System Generated document. Signature is not required.
+
+Icon Scientific Limited
+t +44 (0) 1225 667050 e info@iconscientific.com w www.iconscientific.com
+
+All icon products are...
+
+Easy to use: with an armoured glass wipe-clean touch-screen
+and intuitive multi-lingual graphic user interface.
+
+Certified to global standards: ATEX, IECEx, TIIS, EAC, and
+ETL approved to give absolute confidence and peace of mind in
+hazardous areas and manufactured under an ISO9001:2015
+certified Quality Management System.
+
+Robust and fully explosion proof: no air or inert gas purging
+required for safe operation in explosion hazard areas.
+
+Safety assured: with an alarm for internal sample leakage.
+
+Highly efficient: with low sample consumption and a sample
+flow monitor.
+
+Flexible: with auto validation or calibration options and
+standard Modbus, 4-20mA, and digital contact outputs.
+
+icon scientific Pour Point Analyser Brochure - V05 (Jul-2019)
+What does it do?
+The icon scientific Pour Point Analyser is used to provide an indicator of the lowest
+temperature at which typically a fuel oil may be used. The analyser uses advanced
+thermoelectric cooling to provide exceptional results, in most cases without the
+need for chilled water.
+
+To improve performance and eliminate condensation, and ice formation, the whole
+system is housed in a patented, sealed containment vessel held under vacuum.
+The vessel features detection systems to monitor the vacuum and alert you to any
+sample leakage. The obtained results are compatible with those of no flow and
+pour point test methods such as ASTM D97, D5853, D5949 and D5985.
+
+How does it work?
+The low mass measuring cell traps a small amount of the sample that is then
+cooled at a controlled rate by the peltier cooler. At pre-set temperature intervals,
+the sample is pressure pulsed by a stepper motor driven piston cylinder. Sample
+movement is then detected by a differential pressure sensor connected across the
+cell. The cooling is continued until the applied differential pressure pulse has been
+attenuated sufficiently to indicate that the sample is no longer moving. This
+temperature is taken as the no flow point. The old sample is then warmed and
+flushed away, and the cycle is repeated.
+
+Why choose the icon scientific
+Pour Point Analyser?
+Excellent repeatability: with advanced detection algorithms and pulse width
+modulated variable rate peltier cooler control, it achieves better repeatability than
+the standard test methods.
+
+Best in class cooling performance: with reduced thermal losses thanks to the
+low mass measuring cell, patented vacuum insulation system and non-contacting
+light source and detector. This provides the highest differential between cooling
+water temperature and the lowest measurable pour and no flow points.
+
+Increased measuring cell life: as well as giving improved cooling performance,
+vacuum insulation eliminates premature cell failure caused by condensation and
+cooling errors due to ice formation.
+
+Cell service exchange plan: to aid planned maintenance and reduce downtime in
+the unlikely event of a problem, icon operates a Pour Point cell-service exchange
+plan. The cell is sent to icon or their local representative, and a fully-refurbished cell
+is delivered by return. This process enables considerable savings on the individual
+cost of parts. It can also save you time and money by reducing the risks associated
+with carrying out your own cell repairs.
+
+icon scientific Pour Point Analyser Brochure - V05 (Jul-2019)
+
+Sample Requirements
+Sample Filtration
+Free from non-dissolved water and
+filtered to 10 microns.
+Sample Inlet Temperature
+Maximum 50 °C
+Sample Inlet Pressure
+1-5 barg
+Sample Outlet Pressure
+At least 1 bar below the sample inlet
+pressure. Maximum 4 barg.
+Sample Consumption
+Typically 6-30 L/hour
+Utility Requirements
+Instrument Air
+Not Required (standard)
+
+0.2 barg (3 psig) for optional cell
+and/or electronics enclosure cooling.
+Coolant
+1-10 barg, at 40-60 L/hr
+Minimum 0.5 bar differential pressure.
+Filtered to 100 microns.
+
+Not more than 40°C above the lowest
+expected cloud point to be measured.
+Power
+115-230VAC 50-60Hz, Max 500VA
+Installation Requirements
+Location
+Unit must be located out of direct wind
+sun and rain.
+Ambient Temperature
++5 to +40 °C
+Ambient Humidity
+0-95% RH, non-condensing.
+Control System
+Control System
+Based on fan-less industrial PC with
+solid state hard drive.
+Graphical User Interface (GUI)
+17” armoured glass touch-screen. The
+GUI is used to program the unit and
+display current and historical analyser
+results and alarm status.
+Language
+User-selectable multilingual display.
+Certification
+Hazardous Area Certification
+The Pour Point analyser is Exd
+certified to ATEX, IECEx standards,
+suitable for zone 1 or zone 2 use in
+gas groups IIA, IIB, or IIB+H2, with a
+variable T-rating depending upon
+application.
+It is also ETL listed for the USA and
+Canada Class 1, Div 1, groups B,C,D.
+IP Ratings
+Tested and certified to IP66/IP67
+(dust tight and protected from
+temporary total immersion in water).
+
+Specification
+Measuring Range
+-30°C to +30°C
+Repeatability
+Equal to or better than repeatability
+criteria of the relevant test.
+Cycle Time
+Typically 4-8 minutes.
+Inputs/Outputs
+Analog Outputs
+2 x 4-20mA (active) isolated outputs
+provided as standard for pour point
+and no-flow results.
+Digital (Contact) Inputs
+Run / Standby: reads a customer
+supplied latching switch to toggle
+between run and standby modes.
+
+Remote Cal: reads a customer
+supplied momentary switch to
+remotely initiate a calibration cycle.
+
+Remote Val: reads a customer
+supplied momentary switch to
+remotely initiate a validation cycle.
+General Fault Alarms
+Alarm limits can be configured for
+monitored conditions, and set to be
+Fatal, Warning, or Inactive. Active
+alarms are notified on screen and
+stored in the alarm history table.
+Digital (Contact) Outputs
+
+Fatal Alarm (NC): this general fault
+alarm will cause the analyser to
+suspend its operation when triggered.
+
+Warning Alarm (NC): this general
+fault alarm is for notification only.
+
+New Result (NO): a 10 second
+monostable contact to notify that a
+new analyser result is available.
+
+Data Valid (NO): this contact will
+indicate that the analyser is running,
+and that data is valid. As opposed to
+when a calibration or validation is in
+progress, or when the analyser is in
+standby.
+
+Cal/Val (NO): this contact will indicate
+that the analyser is in calibration or
+validation mode.
+
+Spill Alarm (NC): this alarm contact
+will trigger if a leak is detected in the
+analyser enclosure.
+
+All contact ratings are
+24VDC 0.5A, 230VAC 1A
+Analog Inputs
+(optional)
+The analyser can optionally read up to
+four 0-10V or 4-20mA active signals.
+These inputs may be displayed, and
+the values can each have an alarm
+level associated with them.
+Digital (Contact) Inputs
+(optional)
+The analyser can optionally monitor
+up to four volt-free external contacts.
+These contacts may be included in
+the alarm table.
+Communications
+Modbus RTU or OPC over RS485 or
+Ethernet (TCP/IP), with optional fiber
+optics. Optional OPC server software.
+
+icon scientific Pour Point Analyser Brochure - V05 (Jul-2019)
+Note: icon scientific products are subject to a program of continuous development and improvement and specifications are liable to change without notice.
+Please check that you have the latest information available before relying on any specification.
+
+Dimensions & Weights
+
+Notes:
+All dimensions in mm
+Unpacked weight approx. 415kg
+Packed weight approx. 522kg
+
+PR Title
+LOUP POUR POINT ANALYSER REPLACEMENT
+Basis
+of
+Evaluation
+Over All
+Types
+of
+bid
+Submission
+Quantity wise
+Delivery Period
+Material shall be delivered at Mumbai Refinery warehouse along with packing
+slip and relevant documents. The delivery period for the material supply shall
+be 30 weeks from the date of purchase order placement / Letter of Intent (LOI).
+The delivery period for the installation & commissioning shall be 1 month after
+the site clearance issued by HPCL Engineer-In-Charge.
+Price Reduction
+In case of delayed delivery, prices will be reduced @1/2% of the total basic
+order value for every week of delay or part thereof subject to a maximum of @5%
+of the total basic order value.
+NOTE:
+a. Price Reduction shall be applicable only on the basic cost and on Full
+complete week (s) and for fractional days Price reduction shall be applicable
+on pro-rata, if any.
+b. Initially Price Reduction shall be applicable for total basic order value
+and final Price Reduction settlement to be on undelivered portion in the
+contractual delivery period. If the Tender is of Rate Contract type, PRC will
+be levied on the Basic Invoice Value against respective RPO’s under the
+contract, and not on the total contractual value.
+Payment Terms
+a. The following payment terms shall be applicable:
+i. 75% of the bill amount duly recommended by user on receipt of materials /
+docs. at HPCL shall be paid within 7 days of receipt of bill.
+ii. Balance 25% to be paid after verification/ certification within 15 days of
+receipt of bill. However, the final bill payment will not exceed 30 days.
+b. HPCL has taken the initiative to expedite the payment to vendors through e-
+payment. Hence confirm that you have filled the HPCL bank mandate for e-payment.
+c. Payment against invoice shall be made on receipt of equipment/materials at
+site against submission of following documents along with your Bill/Invoice: -
+i. Delivery Challan / Lorry Receipt.
+ii. Manufacturer’s Test Certificate
+iii. Inspection/Clearance report
+iv. Manufacturer’s Guarantee Certificate
+v. Performance Bank Guarantee for 10% Basic Order Value
+vi. Any other document specified in the Purchase Order.
+d. The financial settlement of Vendor’s invoice is liable to be withheld in the
+event the Vendor has not complied with submission of drawing data and such
+documentation as called for
+in the Purchase Order and/or as required otherwise.
+e. HPCL will furnish their approved format for bank guarantee/ indemnity bond
+for all the advance payments directly to vendor along with FOA/ PO, wherever
+applicable.
+f. In case of delayed supplies, bills will be paid after recovering the amount
+as per price reduction clause of the P.O.
+g. All bank guarantees shall be non-revocable and from a bank in India from
+the list of banks whose bank guarantees are acceptable to the Corporation (list
+enclosed) and as per
+HPCL’s proforma. h. PBG shall be valid till expiry of guarantee period. All
+other Bank Guarantees shall be valid till contractual completion period, unless
+otherwise specified. All bank guarantees shall have a claim period of 1(one)
+month after expiry date of bank guarantee.
+Retention Money /
+PBG
+a. The supplies made against this order shall be fully guaranteed against any
+manufacturing defects/poor workmanship/inferior quality etc. for a period of
+12 months from the date of commissioning or 18 months from the date of supply
+whichever is earlier. During this period, you will arrange to repair/replace
+any defective parts free of cost or replace complete set if required. Guarantee
+Certificate should be submitted along with despatch documents. You will furnish
+performance Bank Guarantee in favour of HPCL issued by a bank from the list of
+banks whose bank guarantees are acceptable to the Corporation (list enclosed)
+for 5% value of the material supplied and valid during the above guarantee
+
+period.
+b. Composite PBG valid up to a period of 3 months beyond the expiry of defect
+liability period. Demand Draft should be drawn on Scheduled Banks (other than
+cooperative banks).
+Quantum of Performance Bank Guarantee inclusive of Security Deposit should be
+as follows:
+- All items (other than CVR items): 5% of PO value
+- For CVR items: r 10.0 lakhs or 5% of the order value whichever is lower.
+Composite PBG of above value towards Performance Bank Guarantee inclusive of
+Security Deposit shall be accepted (in lieu of deduction of retention money of
+5 % from each bill); Such composite PBG shall be valid up to a period of 3
+months beyond the expiry of defect liability period.
+Security Deposit
+Clause
+Applicable; 2% of Contract Value
+No. of Vendors
+required
+1
+
+1.0 Introduction:
+HPCL-Mumbai Refinery (MR) intends to procure one number Online Pour Point Analyser System
+for measuring Pour Point of Lube Oil products in LOBS unit of HPCL Mumbai Refinery. The
+new Pour Point analyser system shall consist of required analyser, sample handling
+system, fast loop system, recovery system, recovery pumps, validation system (including
+tank), analyser components like HMI, sensor, detector, and other electronics component
+with enclosure & analyser as per Hazardous Area classification, etc.
+
+2.1 Pre-Qualification Criteria (PQC):
+a] Technical criteria: -
+Bidder shall be OEM (Original Equipment Manufacturer) or Indian Subsidiary of OEM or
+Authorized dealer. Vendor to submit documentation for the same.
+
+Bidders intending to participate shall fulfil the following Eligibility/Qualification
+Criteria to qualify for this work.
+
+1) Bidder must have supplied, installed / commissioned at least one (1) set of Online
+ASTM (American Society for Testing and Materials) Analyser system during last seven (7)
+years in Petroleum Refineries / Petrochemical Plants in India or abroad costing not less
+than the amount of Rs. 84,96,000/-. (For past PO of similar work outside India, PO value
+shall be considered as per foreign exchange rate on the date of publishing tender)
+
+2) The above shall be supported by submission of relevant documents like: Purchase Order
+or Work Order copy and completion certificate or commissioning report or minutes of
+meeting by customer or consultant of previously executed works as specified in technical
+criteria point no.(1).
+
+3) Online Pour Point Analyser system works executed and completed by a bidder as a
+Subcontractor shall also be considered for the purpose of meeting the above experience
+criteria of PQC, subject to submission of following additional documents in support of
+meeting the "Bidder Qualification Criteria".
+
+a. Copy of work order issued by Main Contractor.
+b. Copies of completion certificate or commissioning report or minutes of meeting from
+the main Contractor and endorsed by End User or Owner or Project Consultant.
+
+4) In case, bidder is an Authorized Indian representative or an Indian Subsidiary of
+OEM, the bidder shall submit the following.
+- An Authorization certificate from OEM on their letterhead along with the bid as a
+proof that the said bidder is authorized representative of OEM and will be supplying the
+product manufactured by the said OEM & has existing facilities in India for carrying out
+installation and post commissioning annual maintenance service support.
+
+- The certificate shall have the reference of the current tender and an undertaking that
+the Online Pour Point Analyser system shall be supplied as per tender specifications and
+work shall be completed as per scope of work.
+
+5) All above clauses shall be read in conjunction.
+b] Financial Criteria:
+1) Average Annual Turnover:
+The bidder average annual financial turnover during the last 3 years, ending 31st March
+of the previous financial year shall be Rs. 63,72,000/- or higher.
+
+Subsidiaries / Affiliates of Indian or foreign companies which are registered in India
+and having manufacturing facilities or establishment towards providing services in India
+are allowed to participate in this tender, subject to meeting the local content
+provisions as per the MII clause enclosed with the tender. Such entities can participate
+either on the basis of their credentials (Technical or Financial) or on the basis of the
+credentials (Technical or Financial) of their parent/ affiliate company, as per the PQC
+requirements applicable for this tender. If credentials of parent/ affiliate are sought
+to be relied upon, then the Indian subsidiary must meet the other PQC, either Technical
+or Financial. Moreover the parent/affiliate will also provide suitable Guarantees to
+ensure completion of the work in all respects.
+
+2.2. NOTE TO BIDDERS:
+2.2.1 Evaluation method: Overall evaluation.
+
+2.2.2 Bid Rejection Criteria:
+a) Non-compliance to PQC shall lead to rejection of the bid without technical or
+commercial evaluation.
+b)Non-compliance to specified ASTM methods shall lead to rejection of the bid.
+c) ATEX/IECEx certificate to be submitted by vendor during bid evaluation, however vendor
+to submit valid PESO approval before dispatch of material under this PO.
+d) In case of non-availability of PESO certification vendor has to provide PESO
+application document with bids or during technical review. This application shall be
+based on above submitted ATEX/IECEx certificate.
+e) Confirmation to below clauses under 2.2.3
+
+2.2.3
+Following PESO certificate related clauses shall be confirmed mandatorily:
+a) Dispatch clearance will be provided only after submission of valid PESO certificate.
+b) Delay in obtaining the PESO certificate by vendor shall not be considered for delivery
+extension.
+c) Any payment under this PO can be done after obtaining PESO certificate.
+d) HPCL reserves the right to cancel the PO in case PESO not submitted within Contractual
+delivery date.
+e) In case on PO cancellation due to non-availability of PESO certificate/application,
+HPCL shall not be liable for claim or expense incurred by vendor.
+f) Security Deposit of 2% of PO value(including GST) shall be submitted as per HPCL GTC.
+In case of cancellation of PO due to non-submission of PESO certificate, HPCL reserves
+the right to withhold this SD amount or revoke the SD BG.
+
+3.0 General Requirement:
+
+3.1 This specification together with the data sheet and all other documents covers the
+minimum requirements & scope of work for the complete design, engineering, materials
+selection,
+manufacturing,
+nameplate
+marking,
+inspection,
+testing,
+shipment,
+installation, site testing, commissioning, training, warranty and comprehensive annual
+maintenance of the complete online Pour Point analyser system.
+
+3.2 The bidder is responsible for the selection of proper Pour Point Analyser along-
+with the complete sample handling / conditioning system to analyze the components of
+interest within the stated performance requirements and to meet the specification in
+totality. If at any stage, till the completion of the order, the offered Pour Point
+Analyser System and accessories are found unsuitable for the specified operating and
+design conditions, the bidder shall replace the same with a suitable model no. meeting
+the specifications without any schedule / cost implication. Bidder shall provide all
+hardware and software, as necessary, to meet the functional requirements specified in
+the tender specification.
+
+3.3 Offer must be complete in all respect complying fully with the tender requirements
+without exception. No price change whatsoever shall be allowed to the bidder after
+submission of bid even if it results from any technical clarification. Alternate quote
+/ price shall not be furnished.
+
+3.4 Pour Point Analyser shall be rugged and of proven design suitable for continuous
+operation in industrial environments. Instrument shall be field proven. Technique of
+measurement used shall be interference free. It shall be immune to other impurities in
+the sample stream.
+
+3.5 The offered Pour Point Analyser system shall be suitable for use in the hazardous
+area classification as indicated in the tender.
+
+3.6 Refrigerant used in sample cooler shall be eco-friendly. Chlorofluorocarbons (CFCs)
+refrigerants are not accepted.
+
+3.7 Sample handling system shall be mounted inside separate SS316 cabinet.
+
+3.8 The analyser field cabinet (if any) and Sample Handling system cabinet shall be
+installed in the field area.
+
+3.9 Offered Pour Point analyser system shall have Minimum Detection Limit (MDL)
+considering the sampling system, sensor, electronics and detector integrity in
+measurement as per the performance specified in the tender specification. For the given
+measuring range, at any condition MDL shall not exceed specified limit.
+
+3.10 Bidder offered Pour Point Analyser system shall clearly measure the pour point of
+the process sample. All the indicated impurities may present in the process due to the
+plant complexity / configuration and operation.
+
+3.11 Bidder offered analyser system shall have separate measuring / Analysis &
+electronics compartments. Bidder offer with combined electronics & measuring / Analysis
+compartment shall not be acceptable.
+
+3.12 Placement of internal component inside measuring compartment, electronics
+compartment, and other accessories mounted inside the analyser cabinet shall be designed
+& mounted in such a way that, there shall be sufficient space for maintenance activities.
+Individual component shall be accessible for maintenance without having the need to
+remove any other component.
+
+3.13 Vendor to note that offered Pour Point analyser system shall be able to measure
+fresh process sample during each cycle and accordingly Analyser, sample handling with
+fast loop system shall be designed.
+
+3.14 All the components of sample handling system shall be designed and placed inside
+SS316 enclosure in such that, each & every component, fitting shall be easily accessible
+for maintenance purpose.
+
+3.15 Specific arrangement shall be provided to ensure that all the moisture is removed
+from the sample. Vendor shall provide cooler, moisture separator with automatic drain
+valve etc suitable for the application. In case of cooler failure, sample to the analyser
+shall be cut-off.
+
+3.16 Sample recovery system with 200 Liters tank of SS316 with Magnetic level Gauge with
+switches (Low, Low Low and High, High High contacts) shall be supplied with recovery
+pumps in redundant configuration (i.e. 1:1 configuration) with motor protection, control
+and power distribution. Accordingly, a standby pump shall be available at all times.
+
+3.17 In case of Sample recovery level high high, sample pump shall trip to avoid overflow
+of recovery tank. Provision of implementing this logic shall be available.
+
+3.18 Vibration pad / skid protection from vibration, noise / protection hood for pump
+etc. shall be considered.
+
+3.19 All motors shall be protected against single phasing and thermal overload. Motors
+shall be designed for direct on-line starting.
+
+3.20 The minimum MOC of Sample handling system pipe / tube shall be SS316.
+
+3.21 Pour Point analyser sample inlet rotameter shall be provided with a flow switch to
+provide low flow alarm in sample line.
+
+3.22 All rotameter shall be metallic tube rotameter with indicating scale.
+
+3.23 Air Filter shall be with 5 Micron Sintered bronze. AFR shall be provided with outlet
+pressure gauge with SS304 casing, Range 0-10 Kg/cm2g. The AFR shall be with SS Spindle
+& drain.
+
+3.24 All the internal or external equipment / instruments /components/ tubing shall have
+the clear identification marks and same shall be engraved properly.
+
+3.25 All the fittings /tubes of sample handling system should be as per HPCL vendor
+list.
+
+3.26 Pumps shall have typical Motor Control circuit providing of indications like ON,
+OFF, STOP, TRIP, AUTO/MANUAL, etc.
+
+NA for Quoted system
+
+3.27 Fast loop pumps, all junction boxes and cable glands required for main incoming
+power supply, power distribution, signal junction boxes, safety equipment items, items
+required to be kept "power on" even on pressurization failure shall be certified
+flameproof (Exd). Intrinsic safe equipment shall not be acceptable.
+
+3.28 Vendor to segregate the junction boxes as per analogue signal, main power incomer
+& power distribution with isolation switches, control signals and communication signals.
+Mixing of the various signals in one junction box shall not be acceptable.
+
+3.29 Cross reference ferruling philosophy shall be followed for all the wiring.
+
+3.30 The offered analyser shall have HMI with inbuilt keypad / touch screen for
+programming & integral display for displaying analyzed process parameters.
+
+3.31 Offered Analyser shall have capacity to store min 30 days historian data. It shall
+be possible to access historical data from the Analyser itself.
+
+3.32 Vendor to provide complete data to HPCL for serial communication with, HPCL host
+system (DCS), alarm output and also isolated analogue 4-20 mA to the HPCL's host system
+i.e. DCS. Analog Outputs: 2 x 4-20mA (active) isolated outputs provided as standard for
+pour point and no-flow results.
+
+3.33 Offered analyser system shall work satisfactorily with instrument air of max
+pressure 4.5 kg/cm2g.
+
+3.34 Vendor to consider comprehensive annual maintenance contract of the offered analyser
+system and to provide the year-wise rate for five years maintenance contract.
+
+4.0 Logistic Support: The offered analyser system shall be equipped with latest
+technology and shall have minimum 10 years of spares and service support post
+commissioning.
+
+5.0 Scope of Work:
+
+5.1 Inclusion:
+
+5.1.1 Complete analyser system design, engineering, materials selection, manufacturing,
+nameplate marking, inspection, testing (FAT), shipment, installation, commissioning,
+site testing (SAT), documentation, training and maintenance.
+
+5.1.2 Supply of complete analyser system with sample probe, sample line/tube, sample
+pumps, sample handling system, analyser, recovery system with pumps, etc.
+
+5.1.3 Transportation of all the supplied instruments/ equipment from HPCL entry point
+to designated storage area / site.
+
+5.1.2 Adage Remark: Sample line/tube upto secondary SHS shall be provided by HPCL,
+internal tubbing shall be in Adage scope of supply as per prebid query confirmation from HPCL
+Fastloop pump skid is not required as per prebid query confirmation.
+Adage remark: Adage shall provide RS 485 serial output till communication JB at Shelter end, further distribution shall be taken
+care by HPCL
+
+5.1.4 Supervision of Installation of supplied complete analyser system.
+
+5.1.5 For installation of analyser system required civil structural support / platform
+at site shall be made available by HPCL as per vendor’s drawing.
+
+5.1.6 All the necessary tubing/piping/cable required for the analyser system shall be
+supplied & installed by vendor.
+
+5.1.7 HPCL shall provide 110VAC UPS power supply and 230VAC non-UPS supply at single
+point near the analyser and further distribution shall be carried out by vendor. Vendor
+to indicate the power consumption in details along with the offer.
+
+5.1.8 Earthing cable laying & termination for the analyser system. However, earth pit
+shall be provided by HPCL. Vendor to indicate the detail earthing requirement in the
+offer.
+
+5.1.9 Supply of all the tools tackles required for installation & commissioning of the
+supplied analyser system. Latop for modbus communication and other testing shall included
+in the offer.
+
+5.1.10 Site configuration if required, validation & commissioning of the system.
+
+5.1.11 Supply of any consumables etc shall be in vendor’s scope during commissioning and
+warranty period.
+
+5.1.12 SAT and site training of the supplied analyser system and training at vendor’s
+work place (10 man days).
+
+5.1.13 Documentation of analyser system as per HPCL requirement.
+
+5.2 Exclusion:
+Below are in HPCL scope
+5.2.1 Civil jobs in field area to install the analyser system.
+5.2.2 Provision / laying of sample inlet/return connection up to the Analyser skid.
+5.2.3 Earth Pit & required earth bus bar.
+5.2.4 Provision of instrument air line near analyser system.
+5.2.5 Supply and cable laying /connection from analyser signal distribution junction box
+to control room.
+5.2.6 HPCL host system (DCS) configuration.
+
+6.0 Technical Specification:
+6.1 Applicable Codes and Standards:
+
+6.1.1 The related standards referred to herein and mentioned below shall be of the latest
+editions prior to the date of the HPCL's enquiry: ASME American Society of Mechanical
+Engineers 1.20.1 Pipe Threads, General Purpose (Inch) 16.5 Pipe Flanges and Flanged
+Fittings 16.20 Metallic Gaskets for Pipe Flanges- Ring Joint, Spiral wound and Jacketed
+B 31.3 Process Piping API American Petroleum Institute RP 551 Process Measurement
+Instrumentation RP 552 Transmission Systems RP 554 Process Control Systems RP 555 Process
+Analysers ASTM American Society for Testing and Materials G93 Standard Practice for
+cleaning methods and cleanliness levels for material and equipment used in oxygen-
+enriched environments EN European Standards EN 10204 Inspection Documents for Metallic
+Products IS/IEC Indian Standards/ International Electro Technical Commission IS/IEC
+5.1.6 Adage Remark: Sample line/tube/Pipe upto secondary SHS shall be provided by HPCL,
+internal tubbing shall be in Adage scope of supply as per prebid query confirmation from HPCL
+5.1.11 Adage Remark: Consumables are not required, as Process sample shall be used for validation/calibration of analyser.
+
+60079 Electrical Apparatus for Explosives Gas Atmosphere IS/IEC 60529 Degree of
+Protection Provided by Enclosures. (IP Code) IEC 61000-4 Electromagnetic Compatibility
+for Industrial Process Measurement and Control Equipment IEC-61285 Industrial Process
+Control - Safety of Analyser Houses NFPA 496 National Fire Protection Associations
+6.1.2 In the event of any conflict between this standard specification, job specification
+/ datasheets, statutory regulations, related standards, codes etc., the following order
+of priority shall govern:
+a. Statutory Regulations
+b. Job Specification / Data Sheets
+c. Standard Specification
+d. Codes and Standards
+
+6.2 Hazardous Area Classification: For Pour Point Analyser system hazardous area
+classification shall be Zone 1, Gas Group IIA/IIB+H2 or IIC, Temp Classification T4. All
+other components of the system shall be certified to Zone 1, Gas Group IIA/IIB+H2 or
+IIC, Temp Classification T4. Approved certification shall be provided for each instrument
+by appropriate authority in the manufacturer country (i.e. ATEX, IECEx, PTB for Germany,
+BASEEFA for England, LCI for France, CESI for Italy, CSA for Canada, JIS for Japan, FM
+for U.S.A etc.) Statutory approvals from Chief Controller of Explosives Nagpur (CCOE)
+or Director General of Mines Safety (DGMS) in India, along with Petroleum Explosive
+Safety organization (PESO) shall be mandatory for all items, each and every component
+supplied along with the system.
+
+6.3 Analyser Data - Sheet: Refer attached Annexure – 01.
+
+6.4 Design & Construction:
+
+6.4.1 General:
+
+6.4.2 HPCL’s data sheet and specification specifies the requirement of Pour Point
+Analyser system and its accessories designed in accordance with API RP 555.
+
+6.4.3 Pour Point value output provided by Analyser shall be compliant to ASTM D-5949
+test method or
+compliant to ASTM D-5950 test method.
+
+6.4.4 Sampling system for the analyser shall be continuous with fast loop return
+connected back to the process. The process conditions for the sample take off and return
+connection is specified in the datasheet and tender specification.
+
+6.4.5 All items/equipment’s shall be capable of mechanical integrity for withstanding
+design pressure and temperature conditions specified in the datasheet. The other items
+shall also be designed considering maximum safety and equipment operation.
+
+6.4.6 All items/equipment’s shall be capable for measurement of pour point value for
+maximum pressure and temperature process conditions specified in the datasheet.
+
+6.4.7 The design shall ensure that components or any sub-assembly that requires removal
+for maintenance shall be removable without any need to disassemble any other component.
+Such components include item like analysis cell, switching valves, sample inject valves,
+filters, pressure regulators, flow indicators, detectors, plug in circuit cards/
+electronic modules and detector cell etc.
+
+6.4.8 All interconnecting wiring shall be color coded/numbered and terminal blocks shall
+be clearly identified.
+
+6.4.9 The design of analyser and its accessories shall comply the electromagnetic
+compatibility requirements as per IEC-61000-4.
+
+6.4.10 Material of Construction:
+
+6.4.11 Unless otherwise specified, the material of construction of all components wetted
+by the sample shall be SS316, as a minimum. Vendor must ensure the compatibility of
+material of each component with the process fluid.
+
+6.4.12 Material of all soft parts like diaphragms and o-rings shall be of PTFE. Other
+vendor standard materials can also be acceptable provided these are compatible with the
+specified process condition.
+
+6.4.13 The material of construction of all non-wetted parts shall be as per
+manufacturer's standard. However non-metallic materials for casings, enclosures and
+instrument covers shall be avoided.
+
+6.4.14 Power Supply:
+
+6.4.15 Unless indicated otherwise, the analyser including sample handling system shall
+operate at 110VAC, 50 Hz power supply.
+
+6.4.16 The analyser performance shall be within the specified limits when the supply
+voltage varies by +/- 10% of specified value and supply frequency varies by ±3 Hz of
+specified value.
+
+6.4.17 End Connection:
+
+6.4.18 Unless otherwise mentioned, end connection details shall be as below:
+a. Threaded end connections shall be to NPT as per ASME B 1.20.1.
+b. Flanged end connections shall be as per ASME B 16.5.
+c. Grooves of ring type joint flanges shall be octagonal as per ASME B16.20.
+d. Flanged face finish shall be as per ANSI B 16.5. The face finish shall be as follows:
+125 RH : 125 to 250 micro-inch AARH 63 ARH : 32 to 63 micro-inch AARH
+
+6.4.19 Gaskets, bolts and nuts shall be suitable for the service conditions indicated.
+
+6.4.20 End connection of sizes 1⁄4 inch or below shall be suitably protected against
+damage.
+
+6.4.21 All end connections shall be clearly identified by attaching labels or stainless-
+steel plate of suitable size.
+
+6.4.22 Enclosure Type:
+6.4.23 Analyser electronics enclosures and related accessories shall be suitable for the
+electrical area classification indicated in HPCL's data sheets. Unless otherwise
+specified, the enclosures shall comply to the following standards: Weatherproof housing
+IP-54 to IS/IEC-60529 Flameproof housing Flameproof/Ex (d) as per IS/IEC-60079 Purged
+Enclosure NFPA 496 Flameproof and purged equipment shall also be made weatherproof.
+
+6.4.24 In addition to meeting weatherproof requirements, intrinsically safe analysers
+shall meet the requirements specified in IS/IEC60079 and shall be certified for the area
+classification specified in the HPCL's data sheet.
+
+6.4.25 Analyser where air purge is provided; purge shall be as per NFPA 496 Type X.
+Analyser power shall cut off in case of purge failure. Purge failure alarm shall be
+provided for HPCL use. Separate local purge bypass switch to be provided.
+
+6.4.26 Separate cable entries shall be available in the analyser/enclosure for power and
+signal cable. Unless otherwise specified, following shall apply:
+a. Cable entry and terminal size for power cable shall be informed during detail
+engineering. Explosion proof junction box with cable glands shall be supplied.
+b. Cable entry for Serial cable/signal cables (Signal output) shall be 1/2" NPT (F).
+c. Cable entry for multi-pair signal cables (Multiple outputs) shall be 1.5" NPT (F).
+d. All type of junction boxes shall be designed for bottom cable entry type only. e.
+Screwed type terminal shall be used for cable termination.
+
+6.4.27 All enclosure entries including sample, utilities, cables etc. shall be clearly
+identified by attaching label or stainless-steel plate of suitable size.
+
+6.4.28 All the cable and tubing interface between analyser to junction boxes and sample
+handling system shall be from side entry only. Bottom /Top entry are not acceptable.
+Vendor to provide suitable sizes MCT block for the cable and tube interface separately.
+
+6.4.29 All items including analyser installed within the cabinet shall be suitable for
+the maximum possible temperature likely to be attained within the cabinet (i.e., at
+maximum ambient temperature with all items fully powered-on within the cabinet) and area
+classification specified in the HPCL's data sheet.
+
+6.4.30 All cabling inside the Analyser Rack / Panel shall be done using armored cables
+routed in tray / duct / conduit. Segregation shall be maintained between power and signal
+cables as per voltage level. All cables shall be tagged at both ends.
+
+6.4.31 Cable trays shall be FRP type. Cable tray standard sizes shall be 50mm, 150mm &
+300mm only. Cable tray collar size shall be min 50 mm for trays upto 150 mm and 75 mm
+for 200 mm and above. Suitable no of perforation in cable tray shall be considered. Each
+individual cable routed through trays must be clamped. The overall clamping shall be
+with aluminium clamp instead of tying with cable armour. Nuts/Bolts for cable tray fixing
+shall be SS
+
+6.4.32 Analyser Rack / Panel shall be provided with a safety electrical earth to which
+all the devices operating at or above 110 V shall be grounded.
+
+6.4.33 A separate isolated Intrinsic Safe (IS) / shield earth shall be provided inside
+the Analyser Rack /Panel. This shall be electrically insulated from the safety electrical
+earth.
+
+6.4.34 Cabinet(s) shall be provided with sufficient LED lights as per Hazardous area
+classification.
+
+6.4.35 Heating/cooling of analyser cabinet shall be provided as recommended by the
+analyser manufacturer or found necessary by the manufacturer to meet following
+requirements:
+
+6.4.36 The temperature induced measurement error exceeds ± 1% of full scale in the worst
+temperature conditions.
+
+6.4.37 The maximum allowable ambient temperature condition of any component within the
+cabinet shall not exceed its limits.
+
+6.4.38 Sub-systems or system components which are installed outdoor shall be suitable
+to continuously operate at ambient temperature and humidity specified under ambient
+conditions. The heat generation effect of current carrying for the electronic modules
+shall also be considered. For this purpose the system shall be rated for minimum 5 deg
+C more than the maximum ambient temperature specified. In case the system is not suitable
+for the above conditions, necessary cooling arrangement shall be provided.
+
+6.4.39 Power Supply Distribution
+6.4.40 440V 3 phase (non-UPS, +/-10% voltage level and frequency 50Hz +/-3%) power supply
+(Single point, Non-redundant power supply shall be feed / made available from HPCL).
+This shall be used for AC unit and other 3Φ loads like motors in sampling system. This
+shall also be used to derive the single phase and neutral supply required. This supply
+shall be made available at the incoming terminals of the distribution panel by others.
+Vendor shall provide busbar or heavy duty electrical terminals with suitable phase
+barriers for termination of aluminium cables. Incoming isolator with fuses and indication
+lamps shall be provided by the vendor. An additional contactor with an on/off pushbutton
+shall be provided for cutting off the supply in case of an emergency. Further downstream
+distribution of the same shall be done using MCCBs or 3 pole and neutral MCBs by vendor.
+
+6.4.41 240VAC single phase (non-UPS, non-floating, +/-10% voltage level and frequency
+50Hz +/-3%) power supply. This shall be used for loads like lighting, PC, printers,
+monitors, utility sockets and other noncritical loads. This shall be derived from the
+440V 3Φ supply as explained above. The distribution of loads shall be done such that the
+three phases shall be balanced and unbalance shall be limited to 5%. An incoming isolator
+and fuse shall be provided by the vendor. Further distribution of this supply to
+individual loads shall be done using single pole and neutral type MCBs.
+
+6.4.42 110VAC single phase (UPS, floating, +/-10% voltage level and frequency 50Hz +/-
+3%) power supply (Single point, Non-redundant power supply shall be feed / made available
+from client) This shall be used for all critical instrumentation loads like analysers,
+separately powered transmitters used in sampling system, etc. This supply shall be made
+available at the incoming terminals of the distribution panel by others. Vendor shall
+provide bus-bars or heavy duty electrical terminals with suitable phase barriers for
+termination of incomer cables. Incoming isolator with fuses and indication lamp shall
+be provided by the vendor. A contactor with an on/off pushbutton shall be provided for
+cutting off this supply in case of an emergency. Further downstream distribution of the
+same shall be done using 2 pole MCBs. This supply shall be cut off only in extreme
+emergencies like fire.
+
+6.4.43 24V DC power supply if required, this shall be derived from the 110V AC supply
+by the vendor. The philosophy for distribution of this supply shall be same as that for
+110V AC supply described above.
+
+Adage remark: Not applicable as analyser shall be mounted inside existing shelter with HVAC.
+
+6.5 Pour Point Analyser:
+6.5.1 The analyser shall be certified for hazardous area classification mentioned
+elsewhere in the specifications.
+
+6.5.2 Pour Point value output provided by Analyser shall be
+compliant to ASTM D-5949 test method or
+compliant to ASTM D-5950 test method.
+
+6.5.3 Analyser shall have integrated HMI with touch screen for complete configuration
+and control of analyser.
+
+6.5.4 All fittings used in analyser shall be of SS316 minimum of Swagelok or Parker make
+and shall be of inches type and not mm type.
+
+6.5.5 Any vent open to atmosphere shall be connected with flame arrestor.
+
+6.5.6 Temperature control system for sample should be based on Peltier cooling/heating
+type.
+
+6.5.7 Various outputs shall be available like analogue, digital. Also, serial output
+Modbus RTU over RS-485 and USB port shall provide additional diagnostic data of analyser
+system.
+
+6.5.8 Where multiple temperature-controlled zones are involved in a single analyser,
+each zone shall be well insulated so that the temperature of one zone does not affect
+that of another.
+
+6.5.9 All the temperature-controlled zones shall be operated at a temperature well above
+the maximum ambient temperature. Provision shall be made for manual temperature control.
+
+6.5.10 The analyser shall be designed considering the components to be analyzed and the
+specified cycle time.
+
+6.5.11 Sampling valves shall be of special design to minimize injection problems.
+
+6.5.12 Vendor to ensure the offered analyser shall have linear characteristic throughout
+the measuring range as specified in the datasheet.
+
+6.5.13 Performance Specifications:
+
+6.5.14 Unless otherwise specified, the Pour Point Analyser shall meet the following
+performance specifications:
+Repeatability: Better than / equal to ASTM D97.
+Sensitivity: 1 Degree interval
+Minimum Detection Limit: 1 DegC or better.
+
+6.5.15 Pour Point Analyser Programmer:
+6.5.16 The Pour Point Analyser programmer shall be a microprocessor-based device and
+shall directly interact with analyser to control its various functions. The programmer
+should be capable of performing the following functions, as a minimum:
+a. Proper Control of the analysis cycle including chamber temperature control.
+b. Automatic zero adjustment and calibration of the analyser system.
+c. Configuration of pour point analyser.
+d. Display hardwired analogue outputs for each component.
+e. Provide serial output for diagnostics data and components being analyzed for
+communication with HPCL’s host system.
+6.5.17 The programmer shall be dedicated to pour point analyser. It shall have integral
+architecture to analyser.
+6.5.18 The analyser programmer shall be programmable from the programmer HMI. The
+programmer HMI shall have a keypad/touch screen performing following functions:
+a. Configuration/programming and program modifications of analyser.
+b. To display analysis data and alarms.
+
+c. To display diagnostic alarms for rapid trouble shooting in the event of system
+malfunction.
+d. Software/ Program should be loadable and editable for calibrations factors, gate
+timings, relay timings. The same can be able to upload and download.
+e. To display the trends for each of the analyzed component.
+6.5.19 The programming of the programmer shall be user friendly and shall not require
+the knowledge of any high-level language. Field modifications of data tables shall be
+possible under password protection.
+6.5.20 The analyser configuration and application program shall be stored on a non-
+volatile memory. Battery backup shall be provided in case memory is volatile. The design
+shall ensure that the application program and data tables remain unaffected in case of
+power fluctuation or power failure.
+6.5.21 The programmer shall be capable of generating the following trends:
+a. Continuous trend.
+b. Bar graph. It shall be possible to select and display the trends on the programmer’s
+dedicated display unit on the programmer interface.
+6.5.22 The programmer shall have the capability of storing trend and bar graph of latest
+calibration.
+6.5.23 The programmer shall provide display and storage of following data:
+a. Actual concentration of measured components in engineering units.
+b. Provide audio-visual alarm on programmer interface for excessive detector temperature
+deviation and zero offset.
+c. System diagnostic alarms for pour point analyser and programmer.
+6.5.24 On power failure or on communication failure between analyser and programmer, the
+analyser shall revert to safe condition i.e. back flush.
+6.5.25 The detector shall have capability of detector balancing and zero adjustment
+automatically.
+6.5.26 The programmer shall provide the following outputs for HPCL’s use:
+a. Isolated 4-20mA DC output for pour point within the specified range in engineering
+units. For obtaining continuous analogue outputs, peak-pickers and long-term memory
+circuit boards shall be provided for each component of interest.
+b. Other analogue outputs like line temperature, cabinet temperature, recovery tank
+level, etc.
+c. Alarm contacts for various critical components faults like analyser fault, chiller
+fault etc.
+d. Digital Inputs and Outputs for sample and recovery pump like pump trip, ON/OFF,
+Auto/Manual. Tank level High, Low, High High etc. facility shall be provided to trip
+sample pump from DCS.
+e. Serial output with MODBUS (RTU) protocol over RS 485 serial interface and TCP/IP.
+f. Vendor to provide list with numbers of each type of outputs – AI, AO, DI and DO.
+6.5.27 Communication Interface:
+Unless otherwise specified in HPCL’s data sheet the communication interface shall have
+the following capabilities:
+a. Communicate the values for all measured process variables to the host system in a
+form (scaled variable or engineering units) consistent with the host system interface.
+Each process variable will be designated by a unique point identification or address.
+b. Communicate an ‘Analysis results ready’ discrete signal to the host system for each
+cycle. Each ready signal shall have unique point identification or address.
+c. Communicate the sample point being used currently to host system for analyser.
+d. Communicate analyser diagnostic alarms to the HPCL’s host system i.e DCS for display
+and use in control strategies. Theses alarms must include trouble shooting and
+maintenance diagnostics for technicians working on analyser.
+e. Communicate selection of measurement range, stream and calibration sample selection
+from host system to analyser.
+f. Communicate a system alarm for the analyser communication.
+g. Communicate a system alarm for host system interface hardware and software.
+6.6 Sample Handling System:
+6.6.1 Sample handling system, fast loop system and recovery system shall be designed &
+supplied by the OEM. In case the bidder is not the OEM for the complete analyser system,
+following shall apply: a. Basic engineering including design of sample handling system
+and sample disposal system shall be by the respective OEM.
+b. OEM shall indicate make model No. of the critical components for the SHS, which can
+either be supplied by them or can be procured by the Bidder himself.
+
+c. OEM’s representative shall be present during Factory Acceptance Test (FAT) and Site
+Acceptance Test (SAT) and any other critical meeting, as desired by HPCL.
+6.6.2 Vendor to design the sample handling system for sample point. The sample handling
+system shall consist of primary sample conditioning near sample take-off point, sample
+transportation line, secondary sample conditioning near the analyser, sample return,
+sample/analyser vent and sample drain/recovering system, as applicable.
+6.6.3 Sample probe shall be provided by the vendor to obtain representative sample from
+the line. The sample probe shall be sandwiched between the pipe nozzle & isolation valve.
+The probe design shall ensure the following:
+6.6.4 The probe diameter shall be such that it can be easily inserted or removed through
+the line isolation valve when in fully open condition. Also, such that it is not limiting
+to the fast response time of the system.
+6.6.5 Online insertion and retraction of sample probe shall be possible.
+6.6.6 The length of the probe shall be selected considering its insertion upto the middle
+of the pipe. Probe shall be assessed for resonance effect as per ASME PTC 19.3
+6.6.7 Unless otherwise specified, A sample take-off probe is only recommended for single
+phase process sampling lines ≥ 3".
+6.6.8 When liquid is to be vaporized narrow bore probes & reduced bore of valve shall
+be used to keep the liquid volume to minimum.
+6.6.9 Sample handling system shall be designed considering process conditions specified
+in the datasheet to make sample suitable for the analysis. The unit shall be supplied
+with all equipment necessary to condition each stream for injection into the analyser.
+6.6.10 The system must include but not limited to filters (coarse and fine),
+pressure/differential pressure indicators, relief valves, regulators, flow indicators,
+flow controllers, temperature indicators, scrubbers, heaters, coolers, dryers, sample
+pumps, aspirators etc. as required.
+6.6.11 Analyser system shall be with Validation tank. The tank shall have necessary
+connections for sample filling and drain and level gauge. Connection for Nitrogen inlet
+and atmospheric vent. Necessary PSVs and pressure gauges as per requirement.
+6.6.12 Analyser shall have dedicated sample handling system.
+6.6.13 All the components of sample handling system shall be designed and placed inside
+SS316 enclosure in such that, each & every component, fitting shall be easily accessible
+for maintenance purpose and also shall have a viewing window.
+6.6.14 In case the temperature is required to be maintained at primary and secondary
+sample conditioning, both these conditioning units shall be installed in the heated
+box/cabinet.
+6.6.15 Sampling of process sample shall be continuous and shall ensure the availability
+of representative sample to the analyser system for analysis for cycle.
+6.6.16 Vendor to consider approximate distance between sample intake points to analyser
+skid for the sample transportation time calculation, design the sample handling system,
+pump etc as per below list –
+Sr No Location Description Approx. distance in meter
+1 Sample Take off Point 200
+2 Sample return into process point 300
+Vendor to note that, sample line shall have several bends and joints to route inside the
+plant. Before entering to the analyser cabinet, sample lines are routed overhead as per
+the site condition. Vendor to visit the site to confirm the distance and routing of the
+sample lines prior to design & selection of fast loop & return pumps.
+6.6.17 Vendor to consider & supply sample tube & fittings and filters as per requirement.
+Cost for the same shall be considered in the base price of analyser. All tubing shall
+be of Sandvik or Parker make. All fittings shall be of Swagelok or Parker make. As far
+as possible same sizing to be considered and shall of inches scale.
+6.6.18 As the analyser is located away from the sample take-off point, vendor shall
+design the sample fast loop (bypass loop) as part of sampling system. Design shall ensure
+that the sample drawn is true representative of the process sample to be analyzed.
+6.6.19 Vendor to consider suitable minimum intervention / maintenance type pumps with
+redundant configuration.
+
+Adage Remark : supply & return line/Pipe shall be in HPCL scope
+of supply as per Pre Bid confirmation. Internal tubbing shall be in
+Adage scope of supply.
+
+6.6.20 In general, sampling systems shall be designed and constructed in accordance with
+API RP- 555. The design of sample handling system shall consider the following factors,
+as a minimum:
+a. The pressure-temperature conditions required for the analyser.
+b. Interfering components in the process sample.
+c. Normal and abnormal sample compositions.
+d. Sample return pressure-temperature conditions.
+e. Fouling sample conditions e.g. polymer formation or presence of solids etc.
+f. Transportation time requirements.
+g. Utilities available and their process conditions.
+
+6.6.21 Where sample is required to be transported in hot condition, sample shall be
+drawn using prefabricated heated tubes. The heated medium shall be electric power unless
+otherwise specified in HPCL's data sheet.
+6.6.22 Heating shall be controlled such that the sample temperature is maintained
+typically around +20°C above the sample dew point.
+6.6.23 When fast loop is specified or recommended by vendor, vendor shall provide
+flowmeter for sample bypass flow. Sample return line to process shall be provided with
+isolation valve and check valve. Vendor shall ensure that return pressure of the sample
+shall be higher than the pressure of the process return point specified in HPCL's data
+sheet. Samples should be returned back to process stream as specified in data sheet.
+6.6.24 Sampling system shall include provision for connecting calibration sample in auto
+or in manual configuration as specified in HPCL's data sheet.
+6.6.25 Filters shall always be provided in redundant configuration. It shall be possible
+to replace the filter without upsetting the operation of the analyser.
+6.6.26 Vendor to consider membrane filter (Genie make) as per requirement.
+6.6.27 Where sample handling system requires heat to properly condition the sample, it
+will be enclosed in a thermally insulated enclosure. Temperature shall be controlled by
+an accurate control system to ensure proper sample conditioning. Temperature Indication
+of the same to be provided.
+6.6.28 The sampling system shall contain at least one wire mesh strainer of standard
+sieve mesh size 100 or finer. Where HPCL’s data sheet indicates greater possibilities
+of plugging, vendor shall provide more filters/separators as required.
+6.6.29 Stream selecting valves shall be located as close as possible to the analyser to
+minimize connecting tubing length and possibility of cross contamination of samples.
+6.6.30 The sampling system shall be designed to consider plugging of sample lines under
+following conditions, if applicable:
+a. Failure of heat tracing
+b. Failure of sample pump
+c. Failure of cooling water
+d. Failure of power
+e. Failure of instrument air, particularly when sample dilution technique is adopted for
+sample.
+f. Upset or start-up conditions, if excessive solids/solid particles are expected under
+these operating conditions
+
+6.6.31 A suitable restriction orifice shall be provided in each sample line to limit the
+sample flow exceedingly thrice the normal flow in the event of tube rupture or opening
+of tube down the line.
+
+7.0 General Terms & Condition:
+7.1 Bid Document:
+7.2 Vendor to attach the following as minimum with the offer,
+7.3 Signed & Stamped copy of Technical Specification along with complete annexures of
+the RFQ tender specifications of the analyser system.
+7.4 Detail Bill of Material indicating make & model number.
+7.5 Detail specification of the offered analyser with de-codification sheet.
+7.6 A detailed drawing showing various components of sample conditioning system and
+their piping/tubing hook-up arrangement including sample return, vent, utilities
+connection as necessary.
+7.7 Analyser probe, process connection & installation drawing. Sample transportation
+time calculations for the specified distance between sample point and analyser indicating
+sample flow rate and the recommended size of the sampling tube.
+
+7.8 Complete analyser system GA/IA drawing.
+7.9 Compliance for the requirement of CCoE / PESO certificate as per area classification
+for all the instruments / equipment as applicable.
+7.10 Utility requirements and their consumption i.e., instrument air, cooling water,
+steam etc. along with their process conditions like flow, pressure and temperature.
+7.11 Power consumption for each analyser and its accessories for 110 V AC UPS and 230VAC
+/ 440VAC non-UPS.
+7.12 Catalogues giving detailed technical specifications, model decoding details and
+other related information for the offered analyser and accessories covered in the bid.
+7.13 All documentation submitted by the vendor including their quotation, catalogues,
+drawings, installation, operation and maintenance manuals, etc shall be in English
+language only.
+7.14 Any special instrument or tool needed for testing, calibration and maintenance of
+the analyser such as spanner set (for tubes smaller than 1/4") these tools and equipment
+shall be supplied by the vendor.
+7.15 Vendor shall provide the price which includes all the associated accessories,
+inspection, testing and applicable statutory certificate requirements.
+7.16 Vendor shall indicate the BOM with price break-up indicating make & model no. to
+fulfill the tender specification.
+7.17 Deviations on technical requirements is not acceptable. In case of any
+deviation/clarification, vendor shall indicate the same in the Technical Deviation sheet
+with technical reason for the same.
+8.0 Responsibility Chart: Refer Annexure – 02.
+9.0 Spare Requirement: Vendor to supply the below indicated spares, accessories and
+tools & tackles (sr no: 9.1 to 9.4).
+9.1 Consumables and Commissioning Spares: Bidder shall supply all required spare parts
+for the Pour Point Analyser system required during start up and commissioning period
+(Till SAT). List of start-up and commissioning spares considered by bidder for the
+analyser shall be furnished in the offer. Any additional spares required over and above
+the list provided by bidder in this offer during start up and commissioning shall be
+supplied by bidder without any time and cost implications to HPCL. Consumables including
+calibration blend and any other consumable required for one year of trouble-free
+operation from the date of SAT shall be provided by the bidder. List of consumable spares
+shall be provided by the bidder in the offer.
+9.3 Additional Accessories: Apart from the spares following shall be considered for the
+additional spares and same to be supplied by the bidder. The price for the same shall
+be in-line of SOR format – a. RS-485 to USB Converter (MOXA make) b. RS-485 to HART
+Converter
+9.4 Special Tools and Tackles: Bidder shall also consider special tools and tackles such
+as laptop with relevant software for maintenance, calibration etc and the price of same
+shall be included by bidder in base price of analyser system. However, the list of the
+tools and tackles considered shall be submitted along with the offer. In case no special
+tools are required, same shall be indicated in the offer.
+
+10.0 Delivery Period: Material shall be dispatched only after M/s HPCL provides dispatch
+clearance based on FAT/ inspection and approval of the documents submitted by the vendor.
+Material shall be delivered at Mumbai Refinery warehouse along with packing slip and
+relevant documents. The delivery period for the material supply shall be 30 weeks from
+the date of purchase order placement / Letter of Intent (LOI). The delivery period for
+the installation & commissioning shall be 1 month after the site clearance issued by
+HPCL Engineer-In-Charge.
+
+11.0 Payment Terms:
+Payment Terms:
+================
+a) As per HPCL GTC against submission of complete Delivery/ Tax Invoices/ reports/
+supporting documents etc. as per PO terms and conditions, to the satisfaction of Engineer
+in-charge.
+For Supply (Tender Line Item 1)
+85% against receipt of material at Mumbai Refinery Site.
+5% against submission of Performance Bank Guarantee in HPCL format valid for warranty
+period.
+
+5% against completion of installation & commissioning.
+5% against submission of As-built documentation (After installation and commissioning).
+
+For Installation and Commissioning (Tender Line Item 2)
+100% payment against completion of job and submission of certified invoice. Completion
+will be considered tag wise/item wise (each completed analyser)
+Bidders are expected to comply strictly with the above payment terms. No advance payment
+will be applicable
+Installation & commissioning and training charges shall be inclusive of boarding, lodging
+and to and fro travel of vendor personnel.
+
+b) Supplier shall not exceed or deliver more than the quantity/ amount mentioned as in
+the PO. No extra payment will be considered for exceeded quantities, if any.
+c) Original invoice complete with VIT registration acknowledgement to be sent to HPCL
+Finance. Copies of invoice, VIT, original challans, gate passes, test certificates and
+all other relevant documents to be sent to HPCL user for verification and receipt. For
+invoice VIT registration, please log on with your HPCL vendor registration details on
+the following link: http://vss.hpcl.co.in/
+
+12.0 Inspection & Testing:
+12.1 Internal Test report: Vendor to submit the following minimum documents as part of
+internal test report –
+12.1.1 Complete project bill of material with make, model and parts number.
+12.1.2 Complete analyser system GA/IA drawing.
+12.1.3 Analyser enclosure and analyser cabinet MOC, IP certificate.
+12.1.4 Complete signal wiring Diagram.
+12.1.5 Power distribution diagram.
+12.1.6 Pour Point Analyser calibration report from OEM and integrator/supplier.
+12.1.7 All sample used for calibration and testing shall be NIST traceable and
+certificate of the same to be provided.
+12.1.8 24-hours continuous repeatability test report for each of the components from OEM
+works at country of origin.
+12.1.9 8-hours continuous base line stability test report without auto zero baseline
+correction from OEM works at country of origin.
+12.1.10 Analyser system accuracy test report from OEM & integrator / supplier with
+respect to the certified cylinder concentration.
+12.1.11 8-hours continuous repeatability test report from the integrator / supplier
+including complete sample handling system.
+12.1.12 4-hours continuous base line stability test report without auto zero baseline
+correction from the integrator / supplier including complete sample handling system.
+12.1.13 Manual and catalogue each of the component with model number and model
+decodification sheet.
+12.1.14 All applicable statutory certificates for all the electronic equipment.
+12.2 Factory Acceptance Test (FAT): Vendor shall be fully responsible for completing all
+the in-house testing and test reports stated in clause under internal test report, shall
+be ready before inspection by HPCL. Vendor shall intimate HPCL for inspection min two
+weeks in advance. The FAT shall be carried out at vendor’s works as per the approved FAT
+procedure. Vendor shall submit the FAT procedure for approval during detail engineering.
+HPCL shall inspect all the items at vendor’s workplace in line with inspection test
+plan. Total system shall be demonstrated by the vendor during HPCL inspection at vendor’s
+works. Vendor shall submit all the specified documents, test certificates and test
+reports for HPCL review. All imported instruments and system-oriented items shall undergo
+factory testing and inspected by HPCL unless otherwise specified. Vendor shall submit
+the OEM test reports meeting the tender specification for review and approval by HPCL.
+12.3 Site Acceptance Test (SAT): Site acceptance test shall be carried out after
+successfully installation and commissioning of the system. Vendor shall be fully
+responsible to carry out the SAT with user’s fullest satisfaction. The HPCL will take
+over the system from the supplier after the SAT, which shall include successful
+uninterrupted operation of the integrated system for two months after commissioning of
+the system. However, the total care and maintenance of the analyser system till
+acceptance of SAT shall be in the Vendor’s Scope. Any malfunction of the system component
+shall be replaced / repaired as required. Once the system failure is detected the
+acceptance test shall start all over again from the beginning.
+
+12.4 Training: After installation and commissioning of the Pour Point Analyser system,
+vendor shall provide onsite training and also shall arrange training at HPCL site and
+classroom for total 3 man-days for the supplied Analyser System. Training shall include
+theoretical as well as practical knowledge i.e., configuration, operation, maintenance,
+troubleshooting etc.
+
+12.5 Warranty Period: Vendor shall provide standard warranty the supplied Analyser System
+for a period of 24 months from the date of commissioning or 36 months from the date of
+supply whichever is earlier. Any deficiency observed during this period shall be set
+right by the vendor without any further cost implication to the HPCL.
+13.0 Post Warranty Comprehensive Annual Maintenance Contract (PWCAMC): Post warranty
+period Analyser system shall be under CAMC. The scope of CAMC shall be same as
+Comprehensive AMC as mentioned below. CAMC shall be valid for 5 years from warranty
+expiry date.
+14.0 Comprehensive Annual Maintenance Contract (PWCAMC):
+14.1 Vendor shall have the capability to provide comprehensive Annual Maintenance
+Contract (PWCAMC) service after successful commissioning of the system i.e SAT. Proof
+for the same shall be submitted.
+14.2 Vendor shall quote for PWCAMC charges for five years
+
+14.3 Each and every component supplied in this order shall be covered under PWCAMC. In
+PWCAMC, supply of all the required spares and consumables shall be in vendor’s scope.
+
+The PWCAMC scope shall broadly comprise of:
+14.4 Vendor shall provide total maintenance of the supplied system including all hardware
+/ software along with all the related accessories including bought out items for system.
+14.5 Travel, Lodging & Boarding of the service engineer during the PWCAMC period shall
+be under vendor’s scope.
+14.6 The maintenance contract shall include minimum weekly one visit / OEM recommendation
+for
+preventive
+maintenance
+and
+any
+number
+of
+visits
+in
+case
+of
+system
+breakdown/emergency.
+14.7 In-case the OEM recommended validation frequency is less than a month, vendor to
+consider the frequency of visit as per calibration frequency as minimum.
+14.8 In addition to OEM recommendation, the frequency of validation shall be decided
+based on the analyser performance over a period of time.
+
+14.9 The scope of work shall be performed by trained analyser specialists for
+maintenance, operations and performance improvement of analysers. Vendor shall ensure
+the calibration / proper functioning of Analysers, Sample handling system and other
+associated systems.
+
+14.10 Attending failure immediately by repair or replacement of the failed component.
+Provide system maintenance and repair of system or workmanship defects during the
+contract period free of charge (parts and labor).
+
+14.11 Service or maintenance personnel shall be able to receive 24-hour help-desk
+technical support.
+
+14.12 In the event of any malfunction of the analysers, experienced service engineer
+shall be made available at site within 24 hours on the receipt of such information from
+HPCL. Vendor shall carry out the job/activity after obtaining the proper permit from the
+user/ operation department.
+
+14.13 Vendor Engineers will follow the safety rules, statutory rules and regulations,
+labour laws etc. of HPCL.
+
+14.14 Contractors engineer and technicians shall report to the HPCL engineer/ Engineer-
+incharge for reporting /performing the activities.
+
+14.15 Contractor needs to go through HPCL safety training before working in plant area
+and avail valid safety certificate and gate pass.
+14.16 A quarterly review meeting of management of Contractor with HPCL will be held at
+site to assess the performance of Analysers and preparation of action plan for immediate
+implementation.
+14.17 In case of extreme emergency of the job requirement for working during holidays,
+compensatory off can be given for the number of worked days in a month.
+14.18 Calibration shall be witnessed by M/S HPCL officer in-charge for the purpose of
+establishing availability.
+14.19 For any modification in the analyser system the same shall be detailed and carried
+out after approval from M/s HPCL. Preventive Maintenance Visits:
+14.20 The vendor’s certified experienced Field Service engineer shall visit the site
+once every week for preventive maintenance checks.
+14.21 The vendor shall prepare a detailed standard operating procedure (SOP) for the
+analyser in-line with OEM recommendation. Vendor to submit the OEM recommended SOP.
+14.22 The software check shall include minor modifications to improve existing
+application performance, backup operations and software updates (latest releases). All
+consumables required for the analyser functioning shall be under the vendor’s scope.
+14.23 As a minimum requirement, following activities shall be carried out during the
+visit:
+14.23.1 Weekly performance checks of the analyser.
+14.23.2 Servicing of the analysers and the sample handling system.
+14.23.3 Replacement of analyser consumables, sample pumps, filter cleaning etc.
+14.23.4 Report and attend any problem if found during the checking of the system.
+14.23.5 Prepare and submit the service report in tabular format for the analyser after
+every visit to the Engineer-in-charge.
+14.23.6 Data obtained from the checks and copies of associated Quality Assurance
+documentation, shall be submitted to the Engineer-in-charge.
+14.23.8 Complete periodic overhaul of the analysers, inspection of the sample handling,
+cleaning/replacement of filters as per schedule, environmental operating condition
+checks and detailed reporting.
+14.23.9 Regular replacement of analyser consumable as per requirement / agreed
+procedures.
+14.23.10 Checking of leaks in system.
+14.23.11 Vendor shall ensure the reliability of the analysers. The reading should co-
+relate to standard mixtures, lab results depending on method of lab measurement.
+14.23.12 Contractor shall maintain Log Book and update records of each analyser for all
+activities like validation, faults observed, action taken, next Schedule and spares
+utilized and available spares. All these records as per HPCL approved formats.
+14.23.13 Cleaning of site after/during the servicing/ maintenance job to maintain the
+necessary ambience.
+14.23.14 Working hours shall be 8 hours basis, 6 days a week. Contractor’s Engineer
+shall follow HPCL list of declared holidays.
+14.23.15 Breakdown Maintenance: Troubleshooting of all instrument failures, In case the
+problem cannot be identified by the site engineers then analyser specialist to be
+organized as early as possible. If problem cannot be solved by specialist and need OEM
+support in those circumstances methods of action will be mutually agreed and discussed.
+14.23.16 Emergency Visits:In the event of any failure / malfunctioning of the system,
+experienced service engineer shall be made available at the site within 24hrs on receipt
+of such information from the owner.
+14.23.17 The engineer shall attend the problem and submit a root cause analysis report
+for the failure.
+14.23.18 There shall not be any limit on number of visits on emergency call. Contractor’s
+Scope of Supply:
+14.23.19 All tools, test instruments and tackles required to maintain the analysers
+shall be in contractor's scope.
+14.23.20 Minor consumable like Teflon tape, insulation tape and cleaning agents shall
+be arranged by contractor.
+14.23.21 Supply of spares & consumables shall be in Contractor's scope. If any spares
+used from HPCL stock due to emergency, then the same shall be replaced by Vendor within
+7 days with no cost to HPCL. Replaced spare shall be new and unused.
+14.23.22 All personal protective equipment like cover all apron, safety helmet, safety
+shoes and safety belt required for working inside plant area shall be in Vendor's scope.
+
+14.23.23 Vendor shall ensure availability analyser specialist Engineer trained from
+manufacturer works at HPCL Refinery Site during contract period for carrying out day to
+day maintenance and troubleshooting of analysers as mentioned above. HPCL shall reserve
+the right for seeking the replacement of another engineer, in case of their deputed site
+engineer / technician being found not suitable.
+14.23.24 Contractor's engineers to perform general shift duties of 9 hours duration
+(08:00 AM to 5:00 pm) and also attend to the problems on odd hours if required to meet
+the exigencies.
+14.23.25 During emergencies, the maximum working hours are limited to 12 Hours for any
+of the contractor staff. Compensatory off will be given if worked on Sundays & HPCL
+declared holidays.
+14.23.26 However for any ongoing and continuation jobs and in situation where analysers
+are down, the contractor is expected to work on need basis with analyser specialist to
+meet the 95% availability.
+Reporting: 14.23.27 Generate report strictly as per the format given by HPCL and as per
+the direction of Engineer In-charge specifically mentioning the Drift, Faults, Action
+taken, Spares used, if any.
+14.23.28 Maintain the records for monthly validation, preventive maintenance and
+breakdown maintenance.
+14.23.29 Record all the observations and action taken in a register duly signed and
+certified by HPCL engineer.
+14.23.30 AMC start up initial activities following jobs are to be completed within 15
+days of start up of contract jobs.
+14.23.31 Yearly preventive maintenance schedule to be submitted.
+14.23.32 List of annual spares / consumables consumption, adequate stock of spares
+required for all the analysers, covered under this contract to be submitted.
+14.23.33 Payment Terms: The payment shall be made on quarterly basis against the
+submission of bill along with certification by HPCL, engineer-in-charge with following
+documents like calibration report, detail of activity carried out with data for each
+analyser, details of area of concern, online trends for all analysers and breakdown
+deduction clause (if any).
+14.23.34 Payments for PWCAMC services shall be as per Purchase order. HPCL reserves the
+right to invoke part or full bank Guarantee amount in case of poor performance of system
+or poor PWCAMC support provided by the Vendor at any stage during the PWCAMC period.
+HPCL's decision in this regard shall be final and shall be binding to the Vendor.
+14.23.35 Availability criteria: The system availability shall be maintained at min of
+95% per month. Performance of analysers shall be reviewed monthly and 95% availability
+of each analyser shall be checked through DCS history record and maintenance records.
+In the event of the non-compliance of the system availability, deductions from the
+monthly payment shall be applicable as per the below table.
+14.23.36 In situations where the analyser availability found to be less than 80% then
+review will be done with service in charge manager / with the management level from both
+sides and further action plan will be made.
+14.23.37 If analyser is not in service due to reasons of process upset and other reasons
+mutually agreed by both M/s HPCL and Contractor, it will not be considered in the
+percentage availability calculation and deductions will not be applicable for the part
+covered.
+14.23.38 Analysers kept offline during shut-down of the plant or sample problem shall
+not be considered in the percentage availability calculation.
+14.23.39 If Analyser system goes break down state during off duty hours the time of
+breakdown shall be counted from next day starting time of duty hours. However, time in
+hours for the non-availability of analyser for the deduction purpose will be considered
+only after getting necessary permit and clearance for carrying out the site job.
+15.0 Documentation: Final documentation consisting of design data, installation,
+operation and maintenance manual etc., submitted by the vendor after placement of
+purchase order shall include the following, as a minimum:
+a) Specification sheet for the analyser and its accessories.
+b) Certified drawings for the analyser and its accessories which shall provide the
+following information
+i. Overall dimensions in millimeters.
+ii. Sampling system details identifying each component with make and model number,
+process connection, utility connection, calibration sample/gas connection, heat tracing
+requirements, sample vent and fast loop details etc.
+
+iii. The flow, pressure and temperature at interface and other appropriate location must
+be shown in the sampling system drawing.
+iv. Detailed interconnection drawing of each analyser identifying each component with
+terminal number, cable type, cable size and cable entry details. The interface details
+shall be clearly identified in the drawing.
+v. Grounding details.
+vi. Power supply distribution details.
+c) Programming/configuration data for the analyser, as applicable.
+d) Serial interface specification including its configuration data (addresses) for host
+communication.
+e) Power consumptions and utility requirements.
+f) Calibration curves and calibration data for each analyser.
+g) Zero and span calibration blend specification including composition, shelf life time
+and accuracy.
+h) Copy of type test certificates.
+i) Installation procedure for each analyser and their accessories.
+j) Maintenance and troubleshooting procedures including replacement of its parts
+/internals wherever applicable.
+k) Sample Lag Time Calculation
+l) Heat Load Calculation
+m) Sample handling system flow schematics
+n) All components datasheets, manual and certificates.
+
+16. Contact persons for tender related technical queries:
+
+i) V S Sule, Manager, Maint- Inst. Email: vishwassule@hpcl.in Ph: 022 2507 7220
+ii) Sreejita Saha, Officer-Maint-Inst. Email:sreejita.saha@hpcl.in Ph: 022 2507 6147.
+iii) Prasun Sarkar, Sr. Manager, Maint-Inst, Email: prasunsarkar@hpcl.in Ph: 022 2507
+6477
+
+Contact persons for supply- delivery- payment- installation related queries:
+i) V S Sule, Manager, Maint- Inst. Email: vishwassule@hpcl.in Ph: 022 2507 7220
+ii) Sreejita Saha, Officer-Maint-Inst. Email:sreejita.saha@hpcl.in Ph: 022 2507 6147.
+
+iii) Prasun Sarkar, Sr. Manager, Maint-Inst, Email: prasunsarkar@hpcl.in Ph: 022 2507
+6477
+
+iv) Finance: Majesh PM, Sr. Manager-Integrated Finance Services, majeshpm@hpcl.in Ph:
+9488158669
+
+Sr
+No
+Item Description
+Vendor list
+1
+SS Tube
+Sandvik / Parker
+2
+Tube fittings, TEE, Elbows
+Swagelok Co./ Parker Hannifin Corp
+3
+Filters
+Swagelok Co./ Parker Hannifin Corp
+4
+Ball valves / Safety relief valve/actuator
+operated valve
+Swagelok Co./ Parker Hannifin Corp / Hoke
+5
+Pressure regulator
+Tescom / GO
+6
+Sample Cooler
+Sentry / Alfa Laval
+7
+Rotameter
+Brooks/Kronhe
+8
+Junction Box / Lights
+Baliga / FCG / Flexpro
+9
+Cylinder regulator
+Tescom / GO
+10
+Pressure gauge
+Wika / Ashcroft
+11
+Coalescer filter
+PALL/ Swagelok Co./ Parker Hannifin Corp
+12
+Solenoid valve
+Asco USA / Herion (Imported)
+13
+MCT Blocks
+Roxtec / Brattberg
+14
+Pump
+Wanner / Hydracell
+15
+Purge Controller / Signal Barriers
+Pepperl Fuchs / MTL
+16
+Field Cabinet
+Hoffman / Pyrotech
+17
+Chiller System
+Reputed
+Make
+with
+sufficient
+PTR
+for
+Hydrocarbon Plants Installation.
+18
+Armored Cables
+KEI, Polycab, Thermo, Cords, Udey Pyro
+19
+Electronics Transmitters / Switches
+Emerson / Yokogawa
+20
+Electrical
+heat
+traced
+Tube
+with
+Accessories
+Thermon / O Brien / Raychem
+21
+MCB
+Siemens / ABB / Legrand
+22
+Power Supply unit
+Pheonix / Cosel
+
+Job Responsibility Chart - Online Pour Point Analyzer System at LOBS Unit, HPCL MR
+Sr No
+Job Description
+Vendor
+HPCL
+Supply material
+1
+System design, Engineering, Material Selection as per tender requirement
+Yes
+
+2
+Online Pour Point Analyzer System with all the accessories
+Yes
+
+3
+Analyzer cabinet with accessories
+Yes
+
+4
+Junction Boxes with cable gland & plugs, tubes, fittings etc
+Yes
+
+5
+Sample tube & Sample Handling System, Recovery with accessories
+Yes
+
+6
+FAT and other test
+Yes
+
+7
+Sample Pumps, Chiller Unit with accessories
+Yes
+
+8
+Sample connection upto the Analyzer Cabinet
+Yes
+
+9
+Sample connection to Pour Point analyzer tubing, drain point connection etc
+within the analyzer cabinet
+Yes
+
+10
+SS tag plates
+Yes
+
+11
+All type of spares & accessories, tools & tackles, cylinders
+Yes
+
+12
+Provision of air line
+
+Yes
+13
+Lagging/insulation materials for process line
+
+Yes
+14
+Earthing cable
+Yes
+
+15
+Earth pit with earth bas bar
+
+Yes
+Site Erection Job
+1
+Transportation of material from HPCL Ware-House / Issue point to Site
+
+Yes
+2
+Supervision of Installation of new Pour Point Analyzer System
+Yes
+
+3
+Civil / Structural base frame modification
+
+Yes
+4
+Erecrion of GI tray with supports for sample & return line
+
+Yes
+5
+Cable laying, Cable tray with supports from analyzer to plant DCS
+
+Yes
+6
+Glanding & termination at Junction Box at Analyzer end
+Yes
+
+7
+Provision of SS tag plate
+Yes
+
+8
+Laying of earthing cable
+Yes
+
+9
+Provision of utilities at one point
+
+Yes
+10
+Tubing for analyzer system
+Yes
+
+11
+Provision of insulation/lagging for process line
+
+Yes
+12
+Loop Checking, calibration
+Yes
+
+13
+Commissioning of the analyzer system
+Yes
+
+14
+Training
+Yes
+
+15
+SAT
+Yes
+
+16
+Documentation
+Yes
+
+7. Sample
+pump is not
+required as
+per HPCL
+confirmation.
+5. Sample
+tubbing for
+supply & return
+in HPCL
+scope till
+SSHS.

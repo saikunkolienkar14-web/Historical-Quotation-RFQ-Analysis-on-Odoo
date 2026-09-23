@@ -1,0 +1,99 @@
+Quotation Number: Q25N10081
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+WOBBE INDEX ANALYSER
+Tag No: 414-AT-5501
+Service: Fuel Gas to Heaters
+Make: Union
+Model: CWD EXP
+Operation Principle: Airflow type (Calorimetry)
+Component to be measured: Wobbe Index
+Sample Injection Phase: Gas
+Analyzer Certification: Ex pxb IIC T4 Gb -X Purge system
+Analyzer Mounting: Mounted inside Analyser Cabinet with Ex
+Proof Redudnant Air Conditioning
+Parameters at inlet:
+-
+Operating Pressure: 2.5 Kg/cm2g
+-
+Operating Temperature: 40 Deg C
+-
+Sample Return: Back to Supply line
+-
+Analyser Return: ATM Vent.
+Measuring Ranges:
+-
+Wobbe Index: 6000 - 16500 kcal
+-
+Specific Gravity: 0.2 – 2.2 specific gravity
+Analyzer Outputs:
+-
+4-20 mA Output
+-
+Modbus over TCP/IP
+Utilities Required:
+-
+Instrument air near the Analyzer Panel by Customer.
+-
+115VAC, 50 Hz UPS Power Supply near the Panel by
+Customer.
+Notes:
+All power and signal cables shall be in the customer’s scope of
+supply.
+1 No
+Quoted
+1.1
+Sample Probe:
+-
+Sample Probe with welded isolation valve, with flanges,
+MOC: SS316
+1 No
+Quoted
+1.2
+Sample Tubing:
+-
+1⁄4” OD SS316 Tube
+40 Mtrs
+Quoted
+1.3
+Sample Return Tubing:
+-
+1⁄4” OD SS316 Tube
+40 Mtrs
+Quoted
+1.3
+Sample Handling System
+-
+Consisting of Fast loop filter with rotameter, sample rotameter,
+Filter, Sample Pump.
+-
+Mounted inside Analyzer Cabinet.
+1 No
+Quoted
+1.4
+Cabinet Specification:
+-
+MOC: SS304, 2 mm Thick
+-
+With Canopy, Extending 500mm in all sides. MOC: SS304
+-
+With Redundant Ex Proof Ac
+-
+With Junction Boxes, LM6
+-
+With Header & Accessories
+1 No
+Quoted
+1.5
+Calibration Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Litre Calibration gas cylinder with cylinder pressure
+regulators
+1 No
+Quoted
+Note: PTR of Supplied CV Analyzer is attached.

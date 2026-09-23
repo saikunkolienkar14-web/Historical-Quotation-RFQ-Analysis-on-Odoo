@@ -1,0 +1,56 @@
+Quotation Number: Q2604N029R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED GAS ANALYSER FOR MEASUREMENT OF
+HCL AT STACK
+MAKE: SIEMENS AG, GERMANY
+MODEL: LDS-6
+Operating principle: TDLAS
+Component to be measured: HCL
+Mounting location: Extractive type
+With Primary Sample handling system consisting of:
+• With Gas sampling Probe
+• With Scavenging Panel
+With Sample handling system consisting of:
+•
+With Heated Flow Through Cell for Mounting of Laser
+Analyzer
+•
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+1 SET
+46,00,000
+46,00,000
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Port Size:1/4”
+Power Supply: 230 VAC, 50 Hz
+@3200 PER METER
+3
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (ACII TIER/FLIGHT).
+@30000 PER MAN DAY

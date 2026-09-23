@@ -1,0 +1,1842 @@
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+To
+
+Kind Attention:
+Mr. Mariraj Dhanabal,
+
+Project No:
+
+LTC/C/EPM/5947/22
+Project Name:
+FRONT-END ENGINEERING DESIGN (FEED) STUDY FOR QG1 GC ANALYZER
+AND ADAS SYSTEM UPGRADE
+End User:
+
+Qatargas Liquefied Natural Gas Company Limited
+MR no:
+
+P-1112-IN-MR-00001
+Bid Type:
+
+Firm
+
+Sub: Replacement of existing SCS System.
+
+Dear Sir/Madam,
+
+We thank you for your interest in Adage Kanoo Analytical Industry LLC Products and with reference to
+the same please find enclosed our technical quotation for Sample conditioning system, ADAS server and
+network components as per your requirement.
+
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned.
+
+Yours sincerely,
+
+Ganesh Govindaraj
+Email: govind@adage-kanoo.com
+Mob: +971 58 5213703
+(Head - Business unit & Sales)
+
+Our Quotation No: Q25AKAI10073
+Date: 03.06.2025
+
+Contact persons:
+
+Mr. Ganesh Govindaraj
+Email: govind@adage-kanoo.com
+Mob: +971 58 5213703
+
+Mr. Damu Shelke
+Email: damu@adage-automation.com
+Mob: +91 9823840039
+
+Ms. Megha Palan
+Email: sales@adage-kanoo.com
+Mob: +971 52 2885599
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+Sections
+Section 1
+General Notes and Clarifications
+Section 2
+Price Summary Sheet
+Section 3
+Exclusions
+Section 4
+Technical Description
+Section 5
+Commercial terms and Conditions
+
+List of Attachments with offer
+
+a
+Lag Time Calculations
+b
+Schematic drawings
+c
+Network Architecture
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+SECTION 1: GENERAL NOTES AND CLARIFICATIONS
+
+Objective of this project is to upgrade QG1 Train 1/2/3, SRU 1/2 and Utility area obsolete GC analyser,
+CAC unit and obsolete ADAS control system of Qatar Gas, Qatar.
+
+The scope mainly includes the upgrade of 36 obsolete ABB GC analysers at 9 analyser houses. There are
+also 7 CAC units located at 6 analyser houses which will require upgrade. The CAC units are used to
+connect third part analysers.
+
+Scope matrix between ADAGE and Valmet as per below table.
+
+Sr No.
+Activity
+Qty
+Scope
+1
+Supply of GCs
+36 Nos
+Valmet
+2
+Design and supply of Secondary SCS
+32 Nos
+Adage
+3
+JB with FO converters
+9 Nos
+Adage
+4
+Probes
+-
+Existing
+5
+Primary SCS
+-
+Existing
+6
+Transportation tube
+-
+Existing #
+7
+CAC unit.
+7 Nos
+Adage
+8
+ADAS & network components
+1 Nos
+Adage
+9
+Commissioning & start up spares (SCS)
+1 Lot
+Adage
+10
+Recommended spare list (SCS)
+1 Lot
+Adage
+11
+IFAT with required calibration gases
+
+Valmet
+12
+Commissioning & SAT
+
+Valmet
+13
+FO & field cables
+A/R
+others
+
+#: Wherever existing tube is not suitable to reuse, needs replacement and same is
+indicated tag wise in our detailed offer.
+Valmet to review and Advise (blue text in detailed offer).
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+1. The quoted system is suitable for use in hazardous area Zone 2 IIB+H2.
+2. Power considered is120VAC, 50 Hz as per MR requirements.
+3. As per SCS drawings provided in MR, fittings are of SS316 double compression type of
+Swagelok Make. Tubing MOC is SS316.
+However as per P-1112-IN-TBE-00001_0, TECHNICAL EVALUATION CRITERIA, Tubing
+as a minimum shall be seamless tubing of UNS S31254(6Mo) and fittings as a minimum
+shall be of 6Mo with double ferrule.
+We have quoted with SS316 (fittings and tube) in base option.
+Optionally we have provided quote for 6Mo tubing & fittings.
+4. All other components of SCS are of SS316.
+5. We have quoted SCS for LNG train 1 & Utility. The BOQ for train 2 and train 3 are same as
+Train 1.
+6. Communication shall be as per network drawings provided along with bid.
+7. Lag time is calculated for each tag and enclosed for ready references.
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+SECTION 2: PRICE SUMMARY SHEET
+
+A: Base Option of SCS (With SS316 fittings and tubing’s)
+
+TRAIN 1
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS1AE206/207
+1
+Quoted
+Quoted
+2
+SHS1AE305
+1
+Quoted
+Quoted
+3
+SHS1AE504
+1
+Quoted
+Quoted
+4
+SHS1AE510
+1
+Quoted
+Quoted
+5
+SHS1AE802/803
+1
+Quoted
+Quoted
+6
+SHS1AE606
+1
+Quoted
+Quoted
+7
+SHS1AE720
+1
+Quoted
+Quoted
+8
+SHS1AE719
+1
+Quoted
+Quoted
+9
+SHS1AE709
+1
+Quoted
+Quoted
+10
+SHS1AE704
+1
+Quoted
+Quoted
+
+TRAIN 2
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS2AE206/207
+1
+Quoted
+Quoted
+2
+SHS2AE305
+1
+Quoted
+Quoted
+3
+SHS2AE504
+1
+Quoted
+Quoted
+4
+SHS2AE510
+1
+Quoted
+Quoted
+5
+SHS2AE802/803
+1
+Quoted
+Quoted
+6
+SHS2AE606
+1
+Quoted
+Quoted
+7
+SHS2AE720
+1
+Quoted
+Quoted
+8
+SHS2AE719
+1
+Quoted
+Quoted
+9
+SHS2AE709
+1
+Quoted
+Quoted
+10
+SHS2AE704
+1
+Quoted
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+TRAIN 3
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS3AE206/207
+1
+Quoted
+Quoted
+2
+SHS3AE305
+1
+Quoted
+Quoted
+3
+SHS3AE504
+1
+Quoted
+Quoted
+4
+SHS3AE510
+1
+Quoted
+Quoted
+5
+SHS3AE802/803
+1
+Quoted
+Quoted
+6
+SHS3AE606
+1
+Quoted
+Quoted
+7
+SHS3AE720
+1
+Quoted
+Quoted
+8
+SHS3AE719
+1
+Quoted
+Quoted
+9
+SHS3AE709
+1
+Quoted
+Quoted
+10
+SHS3AE704
+1
+Quoted
+Quoted
+
+UTILITY
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS9AE607
+1
+Quoted
+Quoted
+2
+SHS9AE608
+1
+Quoted
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+AA: Optional Quote (With 6MO, fittings and tubing’s)
+
+TRAIN 1
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS1AE206/207
+1
+Quoted
+Quoted
+2
+SHS1AE305
+1
+Quoted
+Quoted
+3
+SHS1AE504
+1
+Quoted
+Quoted
+4
+SHS1AE510
+1
+Quoted
+Quoted
+5
+SHS1AE802/803
+1
+Quoted
+Quoted
+6
+SHS1AE606
+1
+Quoted
+Quoted
+7
+SHS1AE720
+1
+Quoted
+Quoted
+8
+SHS1AE719
+1
+Quoted
+Quoted
+9
+SHS1AE709
+1
+Quoted
+Quoted
+10
+SHS1AE704
+1
+Quoted
+Quoted
+
+TRAIN 2
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS2AE206/207
+1
+Quoted
+Quoted
+2
+SHS2AE305
+1
+Quoted
+Quoted
+3
+SHS2AE504
+1
+Quoted
+Quoted
+4
+SHS2AE510
+1
+Quoted
+Quoted
+5
+SHS2AE802/803
+1
+Quoted
+Quoted
+6
+SHS2AE606
+1
+Quoted
+Quoted
+7
+SHS2AE720
+1
+Quoted
+Quoted
+8
+SHS2AE719
+1
+Quoted
+Quoted
+9
+SHS2AE709
+1
+Quoted
+Quoted
+10
+SHS2AE704
+1
+Quoted
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+TRAIN 3
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS3AE206/207
+1
+Quoted
+Quoted
+2
+SHS3AE305
+1
+Quoted
+Quoted
+3
+SHS3AE504
+1
+Quoted
+Quoted
+4
+SHS3AE510
+1
+Quoted
+Quoted
+5
+SHS3AE802/803
+1
+Quoted
+Quoted
+6
+SHS3AE606
+1
+Quoted
+Quoted
+7
+SHS3AE720
+1
+Quoted
+Quoted
+8
+SHS3AE719
+1
+Quoted
+Quoted
+9
+SHS3AE709
+1
+Quoted
+Quoted
+10
+SHS3AE704
+1
+Quoted
+Quoted
+
+UTILITY
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+SHS9AE607
+1
+Quoted
+Quoted
+2
+SHS9AE608
+1
+Quoted
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+B: CAC Units (Analyser Control Unit)
+
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+12-CAC-1
+1
+Quoted
+Quoted
+2
+22-CAC-1
+1
+Quoted
+Quoted
+3
+32-CAC-1
+1
+Quoted
+Quoted
+4
+14-CAC-1
+1
+Quoted
+Quoted
+5
+24-CAC-1
+1
+Quoted
+Quoted
+6
+91-CAC-1
+1
+Quoted
+Quoted
+7
+91-CAC-2
+1
+Quoted
+Quoted
+
+C: ADAS FO Junction Box in analyser houses
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+ADAS FO JB AH-12
+1
+Quoted
+Quoted
+2
+ADAS FO JB AH-13
+1
+Quoted
+Quoted
+3
+ADAS FO JB AH-22
+1
+Quoted
+Quoted
+4
+ADAS FO JB AH-23
+1
+Quoted
+Quoted
+5
+ADAS FO JB AH-32
+1
+Quoted
+Quoted
+6
+ADAS FO JB AH-33
+1
+Quoted
+Quoted
+7
+ADAS FO JB AH-14
+1
+Quoted
+Quoted
+8
+ADAS FO JB AH-24
+1
+Quoted
+Quoted
+9
+ADAS FO JB AH-91
+1
+Quoted
+Quoted
+
+D: ADAS server, workstation & cabinet
+
+Sr No Tag Number
+Qty
+Unit Price (US$)
+Total Price (US$)
+1
+Redundant Server
+with Cabinet &
+Network accessories
+1
+Quoted
+Quoted
+2
+Workstation with
+GCP Software
+2
+Quoted
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+E: Spares (recommended spare parts list)
+
+Sr No Tag Number
+Qty
+Unit Price (US$) Total Price (US$)
+1
+SCS Components
+1 each type
+Quoted
+Quoted
+2
+Ethernet to FO
+switch
+1
+Quoted
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+SECTION 3: EXCLUSIONS
+
+1. Calibration gases required during start up.
+2. We have not quoted SCS for GC tag No 8AT107
+3. Analysers (GCs)
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+SECTION 4: TECHNICAL DESCRIPTION
+
+Technical Description of Sample Conditioning System for LNG Train 1, Train 2 & Train 3
+
+S.N.
+Qty.
+Tag no
+Description
+1
+3
+SHS1AE206/207
+SHS2AE206/207
+SHS3AE206/207
+Sample Conditioning System (SCS), 1-stream, Vapor (Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+Lockable Valve 1/4", SS316
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x steam traced Heater for SCS cabinet.
+-
+1x Insulated Cabinet NEMA 4X 316 Stainless Steel for SCS with
+thermometer.
+
+All double compression type fittings are of 316SS
+All tubing in sample and calibration path shall be SS316 sulfinert coated. All
+other tubing shall be SS316 unless otherwise specified.
+SCS will be maintained at 40°C
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+55m
+By others
+As per our previous experience, heated line with sulfinert treating gives best
+results for sulfur measurement. Hence, we request to replace existing sample
+transportation line to steam traced SS316 sulfinert treated line.
+Valmet to review & Advise
+
+2
+3
+SHS1AE305
+SHS2AE305
+SHS3AE305
+Sample Conditioning System (SCS), 1-stream, Vapor (Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+7x Three-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+Lockable Valve 1/4", SS316
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x steam traced Heater for SCS cabinet.
+-
+1x Insulated Cabinet NEMA 4X 316 Stainless Steel for SCS with
+thermometer.
+
+All double compression type fittings are of 316SS
+All tubing in sample and calibration path shall be SS316 sulfinert coated. All
+other tubing shall be SS316 unless otherwise specified.
+SCS will be maintained at 40°C
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+70M
+By others
+As per our previous experience, heated line with sulfinert treating gives best
+results for sulfur measurement. Hence, we request to replace existing sample
+transportation line to steam traced SS316 sulfinert treated line.
+Valmet to review & Advise
+
+3
+3
+SHS1AE504
+SHS2AE504
+SHS3AE504
+Sample Conditioning System (SCS), 1-stream, Vapor (Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting: SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+1x Vaporizer (steam traced)
+-
+2x Two-way Ball valve 1/2’’ OD SS316
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1/2’’NPT with accessories
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1/4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1/2’’ connection
+-
+2x Fast-loop metal tube flowmeter 1/2’’OD
+-
+1x Secondary Bypass Flowmete1/4’’OD (secondary)
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve 1/2 ‘’ connection
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x steam traced Heater for SCS cabinet.
+-
+1x Insulated Cabinet NEMA 4X 316 Stainless Steel for SCS with
+thermometer.
+-
+2x 1⁄2’’ 600# RF flange connection
+
+All double compression type fittings are of 316SS
+All tubing in sample and calibration path shall be SS316 sulfinert coated. All
+other tubing shall be SS316 unless otherwise specified.
+SCS will be maintained at 60°C
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+80M
+By others
+As per our previous experience, heated line with sulfinert treating gives best
+results for sulfur measurement. Hence, we request to replace existing sample
+transportation line to steam traced SS316 sulfinert treated line.
+Valmet to review & Advise
+
+4
+3
+SHS1AE510
+SHS2AE510
+SHS3AE510
+Sample Conditioning System (SCS), 1-stream, Vapor (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS.
+
+All double compression type fittings are of 316SS
+All tubing shall be of 316SS
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+5
+3
+SHS1AE802/803
+SHS2AE802/803
+SHS3AE802/803
+Sample Conditioning System (SCS), 1-stream for 2 no GC AT802 & AT803,
+Vapor (Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+4x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Three-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+2x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+2x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+2x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+2x Needle valve 1⁄4’’ OD for grab sampling
+-
+4x Analyser guard filter 0.5 micron
+-
+8x Two-way Ball valve 1/8’’ OD SS316
+-
+1x steam traced Heater for SCS cabinet.
+-
+1x Insulated Cabinet NEMA 4X 316 Stainless Steel for SCS with
+thermometer.
+-
+1x Sample Bomb 500ml SS316 with 500mm SS braided hoses and
+quick connector
+
+All double compression type fittings are of 316SS
+All tubing in sample and calibration path shall be SS316 sulfinert coated. All
+other tubing shall be SS316 unless otherwise specified.
+SCS will be maintained at 40°C
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+150M
+By others
+As per our previous experience, heated line with sulfinert treating gives best
+results for sulfur measurement. Hence, we request to replace existing sample
+transportation line to steam traced SS316 sulfinert treated line.
+Valmet to review & Advise
+
+6
+3
+SHS1AE606
+SHS2AE606
+SHS3AE606
+Sample Conditioning System (SCS), 1-stream, Vapor (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS
+
+All double compression type fittings are of 316SS.
+All tubing shall be of 316 SS.
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+7
+3
+SHS1AE720
+SHS2AE720
+SHS3AE720
+Sample Conditioning System (SCS), 1-stream, Liquid (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 3/4’’ OD SS316
+-
+2x Pressure Gauge 0-4 bar 63mm BE 3/4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 3/4’’ connection
+-
+1x Fast-loop metal tube flowmeter 3/4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+1x Back pressure Regulator
+-
+2x Non return valve
+-
+1x Pneumatic operated double block and bleed valve 1/8’’OD
+connection.
+-
+1x Pneumatic operated 3way valve 1/8’’ for Cal gas.
+-
+1x Restriction orifice
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS
+-
+2x 3/4'' 150# RF flange
+
+All double compression type fittings are of 316SS.
+All tubing shall be of 316 SS.
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+8
+3
+SHS1AE719
+SHS2AE719
+Sample Conditioning System (SCS), 1-stream, Vapor (Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+SHS3AE719
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Vaporizer (Steam Traced)
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+Lockable Valve 1/4", SS316
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+2x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x steam traced Heater for SCS cabinet.
+-
+1x Insulated Cabinet NEMA 4X 316 Stainless Steel for SCS with
+thermometer.
+
+All double compression type fittings are of 316SS
+All tubing shall be of 316SS.
+SCS will be maintained at 40°C
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+9
+3
+SHS1AE709
+SHS2AE709
+SHS3AE709
+Sample Conditioning System (SCS), 1-stream, Vapor (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS
+-
+1x Sample Bomb 500ml SS316 with 500mm braided SS hoses and
+quick connector
+
+All double compression type fittings are of 316SS.
+All tubing shall be of 316 SS.
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+10
+3
+SHS1AE704
+SHS2AE704
+SHS3AE704
+Sample Conditioning System (SCS), 1-stream, Vapor (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS
+
+All double compression type fittings are of 316SS.
+All tubing shall be of 316 SS.
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+Technical Description of Sample Conditioning System for UTILITY
+
+S.N.
+Qty.
+Tag no
+Description
+1
+
+SHS9AE607
+
+Sample Conditioning System (SCS), 1-stream, Vapor (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS
+
+All double compression type fittings are of 316SS.
+All tubing shall be of 316 SS.
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+2
+
+SHS9AE608
+Sample Conditioning System (SCS), 1-stream, Vapor (Non-Heated)
+Area Classification: Zone 2, Group IIB + H2 T3
+
+SCS components shall be mounted inside the 316 Stainless Steel IP65.
+
+Mounting Design SCS will be mounted outside the existing shelter
+
+SCS comprising of the following components:
+-
+2x Two-way Ball valve 1⁄4’’ OD SS316
+-
+1x Pressure Gauge 0-4 bar 63mm BE 1⁄4’’NPT with accessories
+-
+1x Coalescing Fast-loop Filter 1⁄4’’ connection
+-
+1x Fast-loop metal tube flowmeter 1⁄4’’OD
+-
+1x Sample flowmeter metal tube flowmeter 1⁄4’’OD including low flow
+alarm
+-
+2x Non return valve
+-
+1x Pneumatic double block and bleed valve 1/4’’OD connection for
+sample and calibration switching.
+-
+1x Pneumatic valve 1/4’’/1/8’’ for Atm. Reference valve.
+-
+1x Restriction orifice ( 500 SCCM)
+-
+1x Pressure relief valve 1⁄4’’ OD SS316
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+-
+1x Needle valve 1⁄4’’ OD for grab sampling
+-
+2x Analyser guard filter 0.5 micron
+-
+4x Two-way Ball valve 1/8’’ OD SS316
+-
+1x Cabinet NEMA 4X 316 Stainless Steel for SCS
+
+All double compression type fittings are of 316SS.
+All tubing shall be of 316 SS.
+
+Labelling: Engraved stainless-steel tags with stainless steel screws and/or wires
+for all parts and 1 for SCS identification
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+Technical Description of CAC Units (Analyser Control Unit)
+
+S.N.
+Qty.
+Tag no
+Description
+1
+7
+12-CAC-1
+22-CAC-1
+32-CAC-1
+14-CAC-1
+24-CAC-1
+91-CAC-1
+91-CAC-2
+Make: Siemens
+For connectivity of Third-party analyser
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Location: Analyzer House AH-12
+Mounted inside Purge Cabinet SS316 ( 800 H x 600 L x 300 D mm)
+Y purge controller Included.
+Power Supply: 120VAC 50 Hz 1-Phase
+Analog inputs: 8
+Analog Outputs: 16
+Digital Inputs : 16
+Digital Outputs: 32
+Communication : Redundant TCP/IP
+HMI-Included
+
+Remarks: Here, we have considered redundant PLC system in each shelter
+wherever applicable.
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+Technical Description of ADAS FO Junction Box in Analyser house
+
+S.N.
+Qty.
+Tag no
+Description
+1
+1
+ADAS FO JB
+AH-12
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+4x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+2
+1
+ADAS FO JB
+AH-13
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+4x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+3
+1
+ADAS FO JB
+AH-22
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+4x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+4
+1
+ADAS FO JB
+AH-23
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+4x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+5
+1
+ADAS FO JB
+AH-32
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+2x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+6
+1
+ADAS FO JB
+AH-33
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+2x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+7
+1
+ADAS FO JB
+AH-14
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+2x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+8
+1
+ADAS FO JB
+AH-24
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+2x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+9
+1
+ADAS FO JB
+AH-91
+Copper free aluminium alloy rectangular junction box
+Area Classification: Zone 2, Group IIB+H2, Temp Class T3
+Dimensions: 632x432x271mm
+Ex db IIB+H2
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+4x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+Technical Description of ADAS server Cabinet & accessories
+
+S.N.
+Qty.
+Item
+Description
+1
+1
+Standalone
+Cabinet
+Rittal make cabinet with removable side panels
+- 1800 mm H x 600 mm W x 800mm D
+- Type 12 NEMA IP55
+- Mounting frame
+- Includes installation of (x3) Fiber Optic Patch Panels, each one with A & B
+network configuration
+- All terminal blocks, wiring as necessary for system operation
+
+2
+Server
+(Rack PC, 19, 4U),
+Interfaces: 3x Gbit LAN (RJ45), 1x DVI-D, 2x Display Port; 1x COM,
+Audio; 4x USB3.1 Gen2 (Type A); 2x USB3.1 (Type C) backside; 2x
+USB3.1 (Type A) frontside; 1x USB3.1 (Type A) internal; Temperature
+and fan monitoring, Watchdog, card retainer; Core i7-8700 (6C/12T, 3.2
+(4.6) GHz, 12 MB cache, TB, AMT) - PCS 7 OS server, engineering
+server, web server; RAID5, approx. 3.8 TB (3 x 1920 GB SSD 2.5
+SATA); drive support for installation internal, 0.5 g vibration, 5 g shock;
+128 GB DDR4 SDRAM (4x 32 GB), Dual Channel; PCS 7 V9.1 pre-
+installed; Windows Server 2019 standard edition including 16 cores, 5
+clients, 64-bit, MUI (en, de, fr, it, sp, zh), with restore USB flash drive;
+bus module 11 slots: 3x PCI, 1x PCIe x16 (8 L), 5x PCIe x16 (4 L), 2x
+PCIe x4 (4 L); 2x 100/240 V AC
+
+1
+Network
+Accessories
+SS304 Enclosure
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+6x Fiber Optics Patch Panel(12 Pair Fiber Optic connections)
+
+2
+2
+Desktop
+Workstations
+
+Includes monitors, keyboards etc and GC Portal Software
+GCP Workstation Software - 1 license (Valmet)
+
+Software provides full access to MAXUM II GCs over the Ethernet network.
+Maintenance and application parameters are shown in simple graphical displays
+with the ability to drill down to specific parameters as needed.
+The software is completely compatible with all MAXUM II GCs in the field as long
+as the analysers are
+using software revision level 4.0 or later.
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q25AKAI10073
+
+SECTION 5: COMMERCIAL TERMS & CONDITIONS
+
+Price basis
+All prices are net prices in USD. Pricing in this quotation is based on ex-works factory Goa / Abu
+Dhabi / Jubail as per SI factory location for Project.
+
+Price Validity
+Prices quoted will remain valid for a period of 180 days from the date of quotation or until end of
+calendar year, whichever comes earlier.
+
+Lead Time
+Shipment is typically 12 months from the receipt and acknowledgement of purchase order.
+
+Warranty
+The warranty period is 12 months from initial operation of the product or 18 months from the date of
+dispatch whichever is earlier.
+
+Payment terms
+10% against submission of engineering documents & receipt of approval in Code 2. Balance 90%
+within 45 days from the date of shipment.
+
+Packing Charges
+0.5% of basic supply order value shall be applicable for packing, crating & forwarding.
+
+Freight
+To Pay Basis or claimed extra at actual on prepaid basis.
+
+Taxes
+Taxes are not considered and shall be Extra if applicable at the time of delivery.

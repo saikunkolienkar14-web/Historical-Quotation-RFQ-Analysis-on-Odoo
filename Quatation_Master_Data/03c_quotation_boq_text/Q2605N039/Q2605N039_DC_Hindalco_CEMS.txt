@@ -1,0 +1,131 @@
+Quotation Number: Q2605N039
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CEMS
+Application: Cleaned Furnace Gas
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: CO, NO, SO2 & O2
+Principle: NDIR & Paramagnetic
+Area Classification: Safe
+Mounting Location: Extractive Type inside Satellite Rack Room
+C4 (Temperature controlled room)
+Measuring Range:
+•
+NO: 0-400/2000 mg/Nm3
+•
+CO: 0-250/1250 mg/Nm3
+•
+SO2: 0-400/2000 mg/Nm3
+•
+O2: 0-25%
+With Primary sample handling system Consisting of:
+•
+With Single probe System
+•
+With Blowback Unit
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Auto Probe Cleaning, Sample Gas Cooler, Sample Gas
+Pump, Solenoid valves and condensate monitors
+•
+With Calibration Gas Cylinders
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+Notes:
+•
+NOx measurement shall be as per CPCB guidelines. NDIR
+based NOx analyser ideally converts all NOx to NO for
+measurement purpose. 5% of total converted NO represents
+NO2. NDIR based Analysers without converters are
+measuring NO and considering up to 5% of NO values as
+NO2 resulting under reporting of NOx. Hence, in order to
+correct the data special calculation as given below will be
+applied. The reported NO values will be multiplied by 1.05
+and then 95% of the product will be considered as NO and
+5% of the product will be considered as NO2. Final reporting
+shall follow the equation NOx = NO + NO2 = NO x 1.53+
+NO2. This is in compliance with the latest CPCB guidelines.
+(For Detailed Specification Kindly Refer to Attached P&ID &
+BOM)
+1 SET
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR HF
+Application: Cleaned Furnace Gas (of Carbon Bakes of
+Aluminum Smelter Plant)
+Make: Siemens
+Model: LDS6
+Component to be measured: HF
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: In-situ Type
+Measuring Range:
+•
+HF: 0-100 ppm
+Analyzer output:
+•
+Individual 4-20 mA
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID &
+BOM)
+1 SET
+QUOTED
+QUOTED
+3
+DUST MONITOR AT OUTLET OF STACK (IN-SITU)
+Make: Sick, Model: SB-30
+Mounting Type: In-situ
+Measuring Principle: Transmission, in-situ, continuous, contactless
+measurement
+Utility requirement: instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer
+1 SET
+QUOTED
+QUOTED
+4
+FLUE GAS TEMPERATURE IN STACK
+Make: Wika/Equivalent
+1 SET
+QUOTED
+QUOTED
+5
+BLIND DATA LOGGER
+Blind data logger system with software for connecting the system to
+CPCB & SPCB
+(Customer to provide SIM Card/internet connectivity having public
+static IP with speed of 1 mb/s for data uploading to CPCB and SPCB
+the same can communicate with CPCB/SPCB server)
+1 SET
+QUOTED
+QUOTED
+6
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+180
+meters
+QUOTED
+QUOTED
+7
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC
+II Train Fare to be arranged by Customer)
+PER DIEM
+QUOTED
+QUOTED

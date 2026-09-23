@@ -1,0 +1,401 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+BHARAT PETROLEUM CORPORATION LTD
+BPCL – KOCHI REFINERY
+INDIA
+
+SUBJECT
+
+: QUOTATION FOR SIEMENS & GC SPARES
+
+REFERENCE/RFQ
+: EMAIL ENQUIRY DATED 24-03-2026
+
+KIND ATTENTION
+: PURCHASE DEPARTMENT
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If
+you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2605C040
+Dated: 06-05-2026
+
+Contact persons :
+
+Mr. Vishnu Birmole
+Email: vishnu@adage-automation.com
+Mob: +91 9987538932
+(Adage-Goa-HO)
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Pravin S
+Email: pravin@adage-automation.com
+Mob: +91 9629393373
+(Adage-Regional)
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 1: SUMMARY OF PRICES
+
+SR.
+NO.
+DESCRIPTION
+PART NO.
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+CALOMAT 6E
+1
+Main Board with Firmware, English
+28602004
+1.00
+1,75,000.00
+1,75,000.00
+2
+Sample cell without housing and piping
+for CALOMAT 6
+28602023
+1.00
+4,75,000.00
+4,75,000.00
+3
+Spare part Display + Connection board
+28602055
+1.00
+1,95,000.00
+1,95,000.00
+4
+Front plate complete
+28604007
+1.00
+4,25,000.00
+4,25,000.00
+ULTRAMAT 6E
+1
+Sample cell, 180 mm, Aluminium, no
+flow in reference gas cell- Ultramat 6E
+28602044
+1.00
+3,95,000.00
+3,95,000.00
+2
+Spare part Display + Connection board
+28602055
+1.00
+1,95,000.00
+1,95,000.00
+3
+Detector, CH4
+28602210
+1.00
+5,85,000.00
+5,85,000.00
+4
+Detector CO
+28602087
+1.00
+5,85,000.00
+5,85,000.00
+5
+Motherboard and Firmware English-
+Ultramat 6E
+28602110
+1.00
+5,10,000.00
+5,10,000.00
+6
+IR-Source rack device withouT opt.
+filter
+28602269
+1.00
+3,25,000.00
+3,25,000.00
+7
+Chopper Motor
+28602243
+1.00
+3,25,000.00
+3,25,000.00
+
+SR.
+NO.
+DESCRIPTION
+PART NO.
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Fuse Kit
+2020151-001
+1.00
+45,567.00
+45,567.00
+2
+PECM, ASSEMBLY W/TEMP/SVCM
+CONTROL
+A5E50358782001
+1.00
+4,11,575.00
+4,11,575.00
+3
+EPC Module Complete with
+2020165-001
+1.00
+4,93,365.00
+4,93,365.00
+4
+Solenoid Valve Replacement Kit (SMC)
+2022021-001
+1.00
+2,30,784.00
+2,30,784.00
+5
+COMM ANALYTICAL CONT V3 (CAC3)
+W/SOFTWARE CAC3,512MB
+NAND,WITH >=5.2 SW
+A5E02599492004
+1.00
+3,64,429.00
+3,64,429.00
+6
+Syscon interface board, V3 (SIB3)
+A5E02599491005
+1.00
+5,53,683.00
+5,53,683.00
+7
+PCBA, touch screen interface (TIB)
+A5E31993951001
+1.00
+79,197.00
+79,197.00
+8
+KIT, DISPLAY CABLES, TIB, MAXUM II
+A5E35858157001
+1.00
+65,870.00
+65,870.00
+9
+TOUCH SCREEN ASSEMBLY
+A5E46884135001
+1.00
+6,88,569.00
+6,88,569.00
+10
+FID, KIT, REPAIR - INTERNAL
+2020159-001
+1.00
+1,68,007.00
+1,68,007.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+11
+FID, KIT, REPAIR - EXTERNAL
+2020160-001
+1.00
+1,39,978.00
+1,39,978.00
+12
+KIT, BASE DPM (FID/FPD) and FD-
+interface
+2022008-701
+1.00
+5,20,902.00
+5,20,902.00
+13
+FID Combustion Air Restrictor,
+Stainless Steel (Maxum II)
+2021388-003
+1.00
+1,01,788.00
+1,01,788.00
+14
+FID Admixed Air Restrictor, Stainless
+Steel (Maxum II)
+2021388-002
+1.00
+1,01,788.00
+1,01,788.00
+15
+FID Hydrogen Restrictor, Stainless
+Steel (Maxum II)
+2021388-001
+1.00
+1,01,788.00
+1,01,788.00
+16
+Arrestor, Flame, FID, Hastelloy-C
+1460006-001
+1.00
+81,342.00
+81,342.00
+17
+DPM Mezzanine for FID, 1 nA / 20 nA
+dual range (standard) Maxum
+2020960-003
+1.00
+87,200.00
+87,200.00
+18
+FID/FPD, HEATER ASSEMBLY, 115V
+A5E41666957001
+1.00
+2,53,731.00
+2,53,731.00
+19
+LIV, PISTON, DEEP INJ, 0.6UL, SS
+C79451A3114B47
+1.00
+1,62,434.00
+1,62,434.00
+20
+LIV, SAMPLE PASS, SS, 1/8"
+1900334-001
+1.00
+1,07,197.00
+1,07,197.00
+21
+Air Treater, 115V Model 1, CENELEC
+APPROVED CSA APPROVED
+A5E47258767001
+1.00
+4,23,704.00
+4,23,704.00
+22
+Solenoid Kit
+2020149-001
+1.00
+2,60,451.00
+2,60,451.00
+23
+2-cell Filament Detector Repair Kit
+(Maxum edition II)
+2020379-701
+1.00
+1,38,503.00
+1,38,503.00
+24
+Model 50 Repair Kit
+2020164-001
+1.00
+1,77,513.00
+1,77,513.00
+25
+TCD, KIT, THERMISTOR BEAD
+2020176-001
+1.00
+1,96,527.00
+1,96,527.00
+26
+COL1596, 0.5m, 1/8", 316SS, 20%
+OV-101 80/100 Chrom P
+VS1003612
+1.00
+69,853.00
+69,853.00
+27
+COL1596, 2m, 1/8", 316SS, 20% OV-
+101 80/100 Chrom P
+VS1003612
+1.00
+1,02,022.00
+1,02,022.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+Ex-Works Goa
+Packing Charges
+Extra 3% on basic value of the PO
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+9033.00.00
+Freight Charges
+Customer A/c
+Insurances
+Customer A/c
+Delivery
+Within 20 weeks from the date of receipt of Purchase Order
+Offer validity
+30 days
+Payment Terms
+100% Payment against Proforma Invoice
+GSTIN NO
+30AADCA1647D1ZF
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Samaresh Dey
+
+Pradnya Shirodkar
+samaresh@adage-automation.com
+
+pradnya.shirodkar@adage-automation.com
+
++91 9769012864
+
++91 8767190261
+ADAGE- GOA
+
+ADAGE- GOA

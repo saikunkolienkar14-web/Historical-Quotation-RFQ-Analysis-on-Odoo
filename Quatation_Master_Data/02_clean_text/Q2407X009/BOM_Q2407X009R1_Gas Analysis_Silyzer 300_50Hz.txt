@@ -1,0 +1,856 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+BASE FRAME AND PIPING
+DESCRIPTION
+TAG NO
+QTY
+ENCLOSURE- (Galvanised Steel)
+Dimensions: 2100x1600x2300mm
+For housing of analysers including Sample conditioning system incl. Analyzer located on
+mounting plates with front doors lockable arrangement.
+Construction Type: Lattice walls with protection roof.
+MOC: Galvanised Steel
+Make: Adage
+
+-
+1 PC
+ENCLOSURE- (Carbon Steel Painted)
+Dimensions: 2100x1600x2300mm
+For housing of analysers including Sample conditioning system incl. Analyzer located on
+mounting plates with front doors lockable arrangement.
+Construction Type: Lattice walls with protection roof.
+MOC: Carbon Steel Painted
+Make: Adage
+
+-
+1 PC
+SUPPORT STRUCTURES
+GAS LOW FLOW ALARM
+Common for Validation gas & Batterie Pressure Reducer Station (Common for H2/O2
+system)
+Low Gas Alarm System - 06 Channel Signal Box Signal box, for optical and acoustic
+signalling of fault reporting, Low supply pressure monitoring with contact gauges,
+Collective alarm for control room, Fast system overview, Installation outside the Ex-zone
+Make: GCE Model No: DGM-SK-06N 120V AC 50-60Hz
+
+-
+1 PC
+PIPING (FITTINGS)
+Make: Fitok
+-
+AS
+REQUIRED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+GAS ANALYSER- O2 in H2 (50Hz)
+DESCRIPTION
+TAG NO
+QTY
+BALL VALVE 1⁄4”
+316 SS, BO Series Ball Valves, One-piece Instrumentation, PTFE Seats, 1/4" Tube Fitting,
+2500psig (172bar), -20°F to 300°F(-28°C to 148°C), 0.13" Orifice, Straight
+Make: Fitok, Model: BOSS-FL4-03
+BQ001-QM01
+to QM07
+BQ001-QM28
+BQ001-
+QM22/26
+10 PC
+BALL VALVE 1⁄2”
+Ball Valve, BV Series, Body: 316 SS, MWP: 1,500psig, Seat: PTFE, Conn.: 1/2in. x 1/2in.
+Tube OD, 2-Ferrule, Orifice:10.3mm, Cv: 6.42, Black Nylon Handle
+Make: Fitok, Model: BVSS-FL8-10
+BQ001-QM25
+1 PC
+SOLENOID VALVE
+Type (TYP_0009) 0330
+Circuit function (WW) A - 2/2-ways; normally closed
+Orifice size (DN) 03,0 - 3,0mm (1/8")
+Seal material (DWST) FF - FKM
+Material (WKST) VA – SS316L
+Port connection (LTA) GM82 - G1/4 threaded port
+Voltage (SP) 024 - 24 volts
+Pressure (bar) (min) 0
+Pressure (bar) (max) 10
+Medium temperature (degree C) (min) 0
+Medium temperature (degree C) (max) 90
+Ambient temperature (max) 55
+Make: Burkert, Model: 0330-A-03,0-FF-VA-GM82-024/DC-08
+
+BQ001-QM11
+to
+QM17/QM24
+8 PC
+NEEDLE VALVE
+316 SS, NG Series Needle Valves, Integral Bonnet, 1/4" Tube Fitting, PTFE Packing,
+3000psig(207bar), -65°F to 450°F
+(-54°C to 232°C), 0.16" Orifice, Panel Mounting
+Make: Fitok, Model: NGSS-FL4-7-Y
+BQ001-QN01
+to QN07/QN10
+BQ001-QN20
+BQ001-QN08
+BQ001-
+QN21/24
+12 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS PUMP
+Sample gas pump P2.2 Atex-H2 II 2G Ex h IIC T3/T4 Gb X
+voltage: 230V 50/60Hz
+pump head: Stainless steel
+valves: suitable for 140°C*
+incl. fittings VA 6mm
+incl. mounting-console and vibration-damper
+Optimised for use with high-purity hydrogen and leak tested
+Make: Buhler, Germany , Model: P2.2 ATEX
+Note: We have offered the model P2.2 ATEX instead of P2.72 ATEX (as mentioned in the
+revised RFQ) as the flowrate here is suitable to meet the required response time.
+BQ001-GP01
+1 PC
+GAS PUMP- OPTIONAL
+For sample gas line (Sample gas Pump in ATEX design for O2 in H2)
+Flow Rate (max.): 7.5 l/min
+Pressure (max.): 1.5 bar (rel.)
+Vacuum (max.): 140 mbar (abs.)
+Pump head: PVDF
+Diaphragm: PTFE-coated
+Valves: FFPM
+Power: 230V, 50/60Hz
+Make: KNF, Germany, Model: N87TTE Ex pump
+BQ001-GP01
+1 PC
+GAS COOLER
+With built in peristaltic pump from ASF Thomas, Germany
+• Principle: The Compressor used is hermetically sealed reciprocating type. Downstream
+of this compressor is a condenser where refrigerant is liquefied. The heat is dissipated by
+the means of a Motorized fan.
+• Dew point (set at factory): 5 Deg C
+• Cooling capacity (at 35°C): 795 kJ/hr
+• Case material: Powder coated Sheet steel (CRCA); Front Plate: SS 316
+• Material of gas – carrying parts: Stainless Steel AISI-316 / PTFE
+• Power consumption in operation: Approx. 300W
+Make: Adage
+BQ001-EQ01
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+WATER TRAP
+Operating pressure for gas: 0 - 50 bar
+Gas flow: 0 - 180 l air/h
+Pressure drop at 60 l air/h: approx. 20 mbar
+Pressure drop at 120 l air/h: approx. 40 mbar
+Pressure drop at 180 l air/h: approx. 60 mbar
+Diaphragm pore size: < 0,1μm
+Operating temperature: - 20° C - +190°C
+Effective filter area: 30 cm2
+Housing volume: 15 ml
+Materials used: SS316
+Wall mounting bracket (option): Stainless steel type 1.4301
+Housing dimensions: Diameter 100 mm, height 80 mm, Depth 160 mm (incl. mounting
+bracket)
+Gas connections: GAS-IN 1/4“ NPT inside thread
+BYPASS 1/4“ NPT inside thread
+GAS-OUT 1/8“ NPT inside thread
+Make: Sun Control; Model: type WT 20.82 E
+BQ001-
+HN01/02
+2 PC
+3/2 WAY BALL VALVE
+Ball Valve, Body:316SS, MWP: 2,500psig, Seat: PTFE, Conn.: 3Ports x 1/4in. Tube OD, 2-
+Ferrule, Orifice:3.2mm, Cv:0.35, Black Nylon Handle, 3-way
+Make: Fitok, Model: BOSS-FL4-03-3L
+BQ001-
+QM23/27
+2 PC
+FLAME ARRESTOR UPSTREAM GAS ANALYZER
+Functions: Sintered Flame arrestor, Thermal Trip Valve, Non Return Valve, MOC-SS316,
+Working Pressure Range 0-5 Bar, InletNPT1/4"F(female), Outlet NPT1/4"M(male)
+Make: GCE; Model: FS500-SS N14F N14M5BARH23
+BQ001-
+FL03/04
+2 PC
+FLOW METER
+For Sample line and Fast loop
+Make: Krohne, Model: DK32 with 2 contacts, equipped with needle valve + Switch
+amplifier NAMUR/relais contact (P+F KCD2-SR-2 or equal)
+BQ001-
+BF01/02
+BQ001-BF10
+3 PC
+GAS ANALYZER
+19” Rack Mounted type
+Make: Siemens, Model: OXYMAT6, MLFB No: 7MB2021-0AG20-1BA1-Z C20
+BQ001-
+QN21/24
+2 PC
+GAS ANALYZER (OPTIONAL)
+Field Mounted type
+Make: Siemens, Model: OXYMAT6F, MLFB No: 7MB2011-0AG00-1BA1-Z C20
+BQ001-
+QN21/24
+2 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+PRESSURE REDUCER STATION, CALIBRATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned, Inlet
+Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29 psi.
+Diaphragm=Hastelloy, with Patented damping system to avoid impact back pressure
+load on regulator body, adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet and 1 nos. Outlet Pressure Gauge,
+7. With Integrated 1 nos. Safety Valve at Outlet,
+Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE Model: MPLH0XDP0SFXAXBTBTM14MM06SN14F
+BQ001-QN40
+1 PC
+PRESSURE REDUCER STATION, VALIDATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned, Inlet
+Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29 psi.
+Diaphragm=Hastelloy, with Patented damping system to avoid impact back pressure
+load on regulator body,
+adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet Inlet Contact Gauge and 1nos. Outlet
+Pressure Gauge, Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port
+NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Glycerine-filled pressure gauges shall be used
+Make: GCE, Model: MPLH0XDP00FXAXI1BTM14MM06SN14F
+BQ001-QN22
+1 PC
+PRESSURE TRANSMITTER
+(7MF0300-1ND01-5BF2-ZA00+B11+C14+C20+D42+E47+Y01)
+Make: Siemens; Model: SITRANSP320
+BQ001-BP10
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+N2 SUPPLY BY SITE FOR O2 IN H2
+DESCRIPTION
+TAG NO
+QTY
+BALL VALVE 1/4”
+316 SS, BO Series Ball Valves, One-piece Instrumentation, PTFE Seats, 1/4" Tube Fitting,
+2500psig (172bar), -20°F to 300°F(-28°C to 148°C), 0.13" Orifice, Straight
+Make: Fitok, Model: BOSS-FL4-03
+BQ001-QM08
+1 PC
+PRESSURE REDUCER FOR PURGE GAS
+Factory assembled, Integrated with Helium Leak
+Test, Single Stage, Purity 6 Grade Gases (99.9999%) MOC: SS316L Stainless Steel,
+Specially Cleaned and Electro-Polished, With Hastelloy Diaphragm,
+Inlet Pressure = 12 Bar / 174 psi, Outlet
+Pressure Range = 0 to 1 Bar / 0- 14.5 psi,
+Patented damping system to avoid impact of back pressure on regulator diaphragm and
+internal components,
+Adjustment Knob, With Integrated Inlet and Outlet Pressure Gauges, With Integrated
+Inline Filter of 10 micron and 100 micron mesh at Inlet and Outlet, Without pressure
+relief valve at delivery pressure side, Inlet & Outlet Port = NPT1/4F, Guaranteed leak rate
+of <1x10-9 mbar l/s (He)
+Make: GCE, Model: LSLLVSJRD1AYBTBTN14FN14F010001
+BQ001-QN30
+1 PC
+PRESSURE REDUCER FOR REFERENCE GAS
+Factory assembled, Integrated with Helium Leak
+Test, Single Stage, Purity 6 Grade Gases (99.9999%) MOC: SS316L Stainless Steel,
+Specially Cleaned and Electro-Polished, With Hastelloy Diaphragm,
+Inlet Pressure = 50 Bar / 725 psi, Outlet
+Pressure Range = 0.5 to 6 Bar /7 - 87 psi,
+Patented damping system to avoid impact of back pressure on regulator diaphragm and
+internal components, Adjustment Knob, With Integrated Inlet and Outlet Pressure
+Gauges, With Integrated Inline Filter of 10 micron and 100
+micron mesh at Inlet and Outlet, Without pressure relief valve at delivery pressure side,
+Inlet & Outlet Port = NPT1/4F,
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE, Model: LSLH0SJREXCXBTBTN14FN14F010001
+BQ001-QN31
+1 PC
+SAFETY VALVE
+Direct Acting, Spring Loaded, SS316, Activating Pressure Adjustable (3.4 to 24 Bar), Inlet
+NPT1/4"M and Outlet NPT1/4"F
+Make: GCE, Model: AV505-SS3,4-24B N14M N14F
+BQ001-FL30
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+FLOW METER PURGE GAS
+Make: Krohne, Model: DK800 with needle valve
+BQ001-
+BF31/32
+2 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+N2 SUPPLY BY BOTTLES - ALTERNATIVE FOR O2 IN H2
+DESCRIPTION
+TAG NO
+QTY
+BATTERIE PRESSURE REDUCER
+Dual Cylinder - Semi Auto Changeover Gas Regulator Panel – Wall Mount - For (N2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases (99.9999%)
+Bar / 2.9 -43.5 psi.
+Diaphragm=Hastelloy, with Patented damping system to avoid impact back pressure
+load on regulator body,
+adjustment knob,
+1. With Inbuilt 10-micron filter at Regulator Inlet,
+2. and 100-micron Filter at Regulator Outlet,
+3. With 2 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 2 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 2 nos. Inlet Inlet Contact Gauge and 1nos. Outlet Pressure Gauge,
+7. With 2 nos. Integrated Check Valve at Inlets and 1 nos. Safety Valve at Outlet Inlet
+Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port 6MM OD Guaranteed
+leak rate of <1x10-9 mbar l/s (He)
+Make: GCE Model: MPLH0SDP0UGXBXI1BTM14MM06SM06S
+WITH SAMPLE LOW GAS ALARM
+Low Gas Alarm System - 06 Channel Signal Box Signal box, for optical and acoustic
+signalling of fault reporting, Low supply pressure monitoring with contact gauges,
+Collective alarm for control room, Fast system overview, Installation outside the Ex-zone
+Make: GCE Model No: DGM-SK-06N 120V AC 50-60Hz
+-
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS ANALYSER- H2 in O2 (OXYCLEAN)
+DESCRIPTION
+TAG NO
+QTY
+BALL VALVE 1/4”
+316 SS, BO Series Ball Valves, One-piece Instrumentation, PTFE Seats, 1/4" Tube Fitting,
+2500psig (172bar), -20°F to 300°F(-28°C to 148°C), 0.13" Orifice, Straight, F2 Cleaning
+and Packaging
+Make: Fitok, Model: BOSS-FL4-03-F2
+BQ001-QM01
+to QM06
+BQ001-QM28
+BQ001-
+QM22/26
+9 PC
+BALL VALVE 1/2”
+316 SS, BV Series Ball Valves, Multipurpose, PTFE Seats, 1/2" Tube Fitting, 1500psig
+(103bar), -65°F to 350°F ( -54°C to 177°C), 0.41" Orifice, Straight, FC-02 Special Cleaning
+and Packaging
+Make: Fitok, Model: BVSS-FL8-10-F2
+BQ001-QM25
+1 PC
+SOLENOID VALVE
+Type (TYP_0009) 0211
+Circuit function (WW) A - 2/2-ways; normally closed
+Orifice size (DN) 03,0 - 3,0mm (1/8")
+Seal material (DWST) FF - FKM
+Material (WKST) VA - stainless steel
+Port connection (LTA) NM82 - NPT 1/4 threaded port
+Voltage (SP) 024 - 24 volts
+Frequency (FR) DC - DC
+Power consumption (LEIS) 08 - 8 watt
+Variable code 1 (VAR1) NL02 - suitable for oxygen applications (non-metallic wetted
+materials are oxygen-tested, e.g. BAM, CTE), DIS 1000020797
+Variable code 2 (VAR2) PD19 - USA-version
+Ambient temperature (max) 55
+Medium temperature (degree C) (max) 90
+Medium temperature (degree C) (min) -10
+Pressure (bar) (max) 6
+Pressure (bar) (min) 0
+Make: Burkert, Model: 0211-A-03,0-FF-VA-NM82-024/DC-08*NL02+PD19
+Note: We have provided a oxyclean model suitable to meet the design temperature of
+90 Deg C.
+BQ001-QM11
+to
+QM16/QM24
+7 PC
+NEEDLE VALVE
+For Sample line, Pump Bypass, Calibration gas
+NG Series, MWP: 20.7mpa, working temperature: -54 to 232, Import and export of 1/4"
+sleeve, inner diameter 4mm, FC-02 Cleaned, with panel Installation.
+Make: Fitok, Model: NGSS-FL4-7-Y-F2
+BQ001-QN01
+to QN06/QN10
+BQ001-QN20
+BQ001-QN08
+BQ001-
+QN21/24
+11 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+GAS PUMP
+Sample gas pump P2.2 Atex-O2 II 2G Ex h IIC T3/T4 Gb X
+voltage: 230V 50/60Hz
+pump head: Stainless steel
+valves: suitable for 140°C*
+incl. fittings VA 6mm
+incl. mounting-console and vibration-damper
+Optimised for use with high-purity oxygen
+Make: Buhler, Germany , Model: P2.2 ATEX
+Note: We have offered the model P2.2 ATEX instead of P2.72 ATEX (as mentioned in the
+revised RFQ) as the flowrate here is suitable to meet the required response time.
+BQ001-GP01
+1 PC
+GAS PUMP-OPTIONAL
+For sample gas line
+Flow Rate (max.): 7 l/min
+Pressure (max.): 2.5 bar (rel.)
+Vacuum (max.): <130 mbar (abs.)
+Pump head: Stainless steel
+Diaphragm: PTFE-coated
+Valves: FFKM
+Power: 24V DC
+Make: KNF, Germany ; Model: N96
+
+BQ001-GP01
+1 PC
+GAS COOLER
+With built in peristaltic pump from ASF Thomas, Germany
+• Principle: The Compressor used is hermetically sealed reciprocating type. Downstream
+of this compressor is a condenser where refrigerant is liquefied. The heat is dissipated by
+the means of a Motorized fan.
+• Dew point (set at factory): 5 Deg C
+• Cooling capacity (at 35°C): 795 kJ/hr
+• Case material: Powder coated Sheet steel (CRCA); Front Plate: SS 316
+• Material of gas – carrying parts: Stainless Steel AISI-316 / PTFE
+• Power consumption in operation: Approx. 300W
+Make: Adage
+BQ001-EQ01
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+WATER TRAP
+Operating pressure for gas: 0 - 50 bar
+Gas flow: 0 - 180 l air/h
+Pressure drop at 60 l air/h: approx. 20 mbar
+Pressure drop at 120 l air/h: approx. 40 mbar
+Pressure drop at 180 l air/h: approx. 60 mbar
+Diaphragm pore size: < 0,1μm
+Operating temperature: - 20° C - +190°C
+Effective filter area: 30 cm2
+Housing volume: 15 ml
+Materials used: SS316
+Wall mounting bracket (option): Stainless steel type 1.4301
+Housing dimensions: Diameter 100 mm, height 80 mm, Depth 160 mm (incl. mounting
+bracket)
+Gas connections: GAS-IN 1/4“ NPT inside thread
+BYPASS 1/4“ NPT inside thread
+GAS-OUT 1/8“ NPT inside thread
+Make: Sun Control; Model: type WT 20.82 E (SUNOX100)
+BQ001-
+HN01/02
+2 PC
+3/2 WAY BALL VALVE
+316 SS BO Series Ball Valves, One-piece Instrumentation, PTFE Seats, 1/4" Tube Fitting,
+2500psig(172bar), -20°F to 300°F(-28°C to 148°C), 0.125" Orifice, 3-way Valve, F2
+Cleaning and Packaging
+Make: Fitok, Model: BOSS-FL4-03-3L-F2
+BQ001-
+QM23/27
+2 PC
+FLAME ARRESTOR UPSTREAM GAS ANALYZER
+Functions: Sintered Flame arrestor, Thermal Trip Valve, Non Return Valve, MOC-SS316,
+Working Pressure Range 0-5 Bar, InletNPT1/4"F(female), Outlet NPT1/4"M(male)
+Make: GCE; Model: FS500-SS N14F N14M5BARH23
+BQ001-
+FL03/04
+2 PC
+FLOW METER
+For Sample line and Fast loop
+Make: Krohne, Model: DK32 with 2 contacts, equipped with needle valve + Switch
+amplifier NAMUR/relais contact (P+F KCD2-SR-2 or equal)
+BQ001-
+BF01/02
+BQ001-BF10
+3 PC
+GAS ANALYZER
+19” Rack Mounted type
+Make: Siemens, Model: CALOMAT6E, MLFB No: 7MB2521-0AG00-1AA1-Z C20+Y02
+
+BQ001-
+QN21/24
+2 PC
+GAS ANALYZER (OPTIONAL)
+Field Mounted type
+Make: Siemens, Model: CALOMAT6F, MLFB No: 7MB2511-0AG00-1AA1-Z C20+Y02
+BQ001-
+QN21/24
+2 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+PRESSURE REDUCER STATION, CALIBRATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned, Inlet
+Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29 psi.
+Diaphragm=Hastelloy, with Patented damping system to avoid impact back pressure
+load on regulator body, adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet and 1 nos. Outlet Pressure Gauge,
+7. With Integrated 1 nos. Safety Valve at Outlet,
+Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE, Model: MPLH0XDP0SFXAXBTBTM14MM06SN14F
+BQ001-QN40
+1 PC
+PRESSURE REDUCER STATION, VALIDATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned, Inlet
+Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29 psi.
+Diaphragm=Hastelloy, with Patented damping system to avoid impact back pressure
+load on regulator body,
+adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet Inlet Contact Gauge and 1nos. Outlet
+Pressure Gauge, Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port
+NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Glycerine-filled pressure gauges shall be used
+Make: GCE, Model: MPLH0XDP00FXAXI1BTM14MM06SN14F
+BQ001-QN22
+1 PC
+PRESSURE TRANSMITTER
+(7MF0300-3ND01-5BF2-ZA00+B11+C14+C20+D42+D62+E47+E80+K80+Y01)
+Make: Siemens; Model: SITRANSP320
+BQ001-BP10
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SPARE PARTS
+DESCRIPTION
+TAG NO
+QTY
+WATER STOP MEMBRANES
+Water pressure membrane: 0 - 2 bar
+Operating pressure for gas: 0 - 2 bar
+Gas flow: 0 - 400 l air/h
+Diaphragm pore size: < 0,1μm
+Operating temperature: 0°C - +90°C
+Housing volume: 5 ml
+Materials used: PTFE, PP, assembly bracket made of stainless steel 1.4301 (option)
+Make: Adage Model: 28726035
+
+2 PC
+SOLENOID VALVE
+Type (TYP_0009) 0211
+Circuit function (WW) A - 2/2-ways; normally closed
+Orifice size (DN) 03,0 - 3,0mm (1/8")
+Seal material (DWST) FF - FKM
+Material (WKST) VA - stainless steel
+Port connection (LTA) NM82 - NPT 1/4 threaded port
+Voltage (SP) 024 - 24 volts
+Frequency (FR) DC - DC
+Power consumption (LEIS) 08 - 8 watt
+Variable code 1 (VAR1) NL02 - suitable for oxygen applications (non-metallic wetted
+materials are oxygen-tested, e.g. BAM, CTE), DIS 1000020797
+Variable code 2 (VAR2) PD19 - USA-version
+Ambient temperature (max) 55
+Medium temperature (degree C) (max) 90
+Medium temperature (degree C) (min) -10
+Pressure (bar) (max) 6
+Pressure (bar) (min) 0
+Make: Burkert, Model: 0211-A-03,0-FF-VA-NM82-024/DC-08*NL02+PD19
+Note: We have provided a oxyclean model suitable to meet the design temperature of
+90 Deg C.
+BQ001-QM11
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+ELECTRICAL SCOPE
+DESCRIPTION
+TAG NO
+QTY
+ELECTRICAL ACCESSORIES
+Junction Box or Cabinet for Electrical Supply and Signals
+Main switch for 230V AC UPS Input
+Circuit breakers for 230V AC UPS distribution
+Contactors for gas pump / gas cooler ON/OFF
+Relais for solenoid valve control Lighting
+
+-
+1 LOT
+SIEMENS IO MODULES
+MLFB
+Product Description
+Quantity
+6DL11346TH000PH1
+SIMATIC ET 200SP HA, analog HART input module,
+AI 16XI 2-wire HART HA, suitable for terminal
+block H1, M1, color code CC01, channel
+diagnostics, 16-bit, +/-0.1%,
+1
+6DL11366AA000PH1
+SIMATIC ET 200SP HA, analog input module,
+safety-oriented, F-AI 8xI 2-wire/4-wire HART HA,
+16-bit, 2-wire/4-wire, SIL3 (IEC 61508), up to PL e
+(ISO 13849-1), suitable for terminal block H1, F1,
+color code CC00, channel diagnostics
+1
+6DL11326BH000PH1
+SIMATIC ET 200SP HA, digital output module, DQ
+16X24VDC/0,5A HA, suitable for terminal block,
+H1, M1, color code CC02, channel diagnostics
+1
+6DL11316TH000PH1
+SIMATIC ET 200SP HA, digital input module, DI
+16XNAMUR HA, suitable for terminal block H1,
+M1, color code CC01, channel diagnostics
+1
+6DL11316BH000PH1
+SIMATIC ET 200SP HA, digital input module, DI
+16X24VDC HA, suitable for terminal block H1, M1,
+color code CC01, channel diagnostics
+1
+6DL11556AU000PM0
+SIMATIC ET 200SP HA, PROFINET interface module
+IM155-6 PN max. 56 I/O modules, multi-hot swap,
+without server module
+1
+6DL11556AU000PM0
+SIMATIC ET 200SP HA, PROFINET interface module
+IM155-6 PN max. 56 I/O modules, multi-hot swap,
+without server module
+1
+6DL11936GC000NN0
+SIMATIC ET 200SP HA, carrier module 8-fold
+carrier for holding 8 I/O modules of the ET 200SP
+HA
+1
+6DL11936GC000NN0
+SIMATIC ET 200SP HA, carrier module 8-fold
+carrier for holding 8 I/O modules of the ET 200SP
+HA
+1
+6DL11936BH000SM0
+SIMATIC ET 200SP HA, Carrier module in single
+carrier for holding one interface module of the ET
+200SP HA incl. server module
+1
+-
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+6DL11936BH000SM0
+SIMATIC ET 200SP HA, Carrier module in single
+carrier for holding one interface module of the ET
+200SP HA incl. server module
+1
+6DL11936AR000AA0
+SIMATIC ET 200SP HA, bus adapter BA 2xRJ45, 2
+RJ45 sockets for PROFINET
+1
+6DL11936AR000AA0
+SIMATIC ET 200SP HA, bus adapter BA 2xRJ45, 2
+RJ45 sockets for PROFINET
+1
+6DL11936TP000DH1
+SIMATIC ET 200SP HA, Terminal block, Type H1, 32
+push-in terminals, internal reference temperature
+New load group, width: 22.5 mm,
+1
+6DL11936TP000BH1
+SIMATIC ET 200SP HA, Terminal block, Type H1, 32
+push-in terminals, internal reference temperature
+Width: 22.5 mm,
+1
+6DL11936TP000BH1
+SIMATIC ET 200SP HA, Terminal block, Type H1, 32
+push-in terminals, internal reference temperature
+Width: 22.5 mm,
+1
+6DL11936TP000DH1
+SIMATIC ET 200SP HA, Terminal block, Type H1, 32
+push-in terminals, internal reference temperature
+New load group, width: 22.5 mm,
+1
+6DL11936TP000BH1
+SIMATIC ET 200SP HA, Terminal block, Type H1, 32
+push-in terminals, internal reference temperature
+Width: 22.5 mm,
+1
+6DL11336CV220AM0
+SIMATIC ET 200SP HA, 5 TM covers, 22.5 mm, for
+protection of I/O empty slots
+1
+6DL11336CV220AM0
+SIMATIC ET 200SP HA, 5 TM covers, 22.5 mm, for
+protection of I/O empty slots
+1

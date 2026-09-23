@@ -1,0 +1,126 @@
+Quotation Number: Q25W10079
+BOQ Status: FOUND
+
+Item Description
+Qty
+Each Price
+Total Price
+1
+30-AT-90302-A &
+30-AT-90302-B
+Process Gas Chromatograph
+Service: Cycle Gas from compressor
+for propylene
+MODEL: Maxum ED II
+MAKE: Valmet
+Detector used: TCD+ FID
+1 No
+1,10,00,000/-
+1,10,00,000/-
+2
+OPTIONALLY
+QUOTED
+Fixed Type sample Probe with matting
+process flange and isolation Valve,
+MOC-SS316
+2 Nos
+2,50,000/-
+5,00,000/-
+3
+Heated PSCS (Consisting of pressure
+reduction system and other accessories)
+2 Nos
+8,00,000/-
+16,00,000/-
+4
+Electrical Heated SS316, Sulfinert
+bundle
+Per Mtr
+8500
+8500/Mtr
+5
+Heated Secondary SCS system
+1 Lot
+30,00,000/-
+30,00,000/-
+6
+Cabinet, SS304 suitable for munting GC
++ Electricals and other accessories
+1 No
+16,00,000/-
+16,00,000/-
+7
+Ex Proof Air conditioning Unit
+1 No
+750000/-
+750000/-
+8
+Comissioing Spares
+1 Lot
+Inclusive
+Inclusive
+9
+Supervision of Installation and
+Commissioing
+Lumpsum
+2,00,000/-
+2,00,000/-
+TOTAL PACKAGE
+1,86,00,000/-
+Remarks:
+1. All the measurement is done using Single GC.
+2. Detection limit < +/- 5% of measuring range.
+Ethylene Service
+30-AT-90302-A
+30AI90302A
+HYDROGEN
+0
+10
+ppmv
+30AI90302C
+CO
+0
+1
+ppmv
+30AI90302D
+CO2
+0
+1
+ppmv
+30AI90302E
+METHANOL + PROPANOL
+0
+2
+ppmv
+30AI90302I
+TOTAL OXYGENATES
+0
+1
+ppmv
+30AI90302J
+CO2
+0
+1
+ppmv
+Ethylene Service
+30-AT-90302-B
+30AI90302B
+METHYL ACETYLENE
+0
+1
+ppmv
+30AI90302B
+TOTAL COMBINED N2_NH3
+0
+5
+ppmv
+30AI90302B
+SULPHUR COMPOUNDS
+0
+5
+ppmv
+30AI90302B
+CHLORIDES_METHYLCHLORIDES
+0
+1
+ppmv

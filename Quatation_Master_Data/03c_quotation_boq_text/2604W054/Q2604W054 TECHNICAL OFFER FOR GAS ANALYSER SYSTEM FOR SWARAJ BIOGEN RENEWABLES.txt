@@ -1,0 +1,82 @@
+Quotation Number: Q2604W054
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+CO2,CH4 & O2
+SERVICE: BIOGAS/CBG
+AREA CLASSFICATION: SAFE
+PROCESS CONDITION AT STACK:
+TEMPERATURE (Operating/Design): 42/45 Deg C
+PRESSURE FOR TAPPING 1: 0.1-0.4 BAR
+TAPPING 1: 16 BAR
+TAPPING 3: 55 BAR
+WITH 3 SAMPLE TAPPING ARRANGMENT
+WITH SAMPLE HANDLING SYSTEM
+WITH IP 54 ANALYSER PANEL FOR SAFE AREA
+WITH MODBUS COMMUNICATION
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 No
+For Carbon Dioxide (CO2) Measurement
+For Methane (CH4) Measurement
+For Oxygen (O2) Measurement (OPTIONAL)
+MAKE SIEMENS AG, GERMANY
+1 Set
+QUOTED
+QUOTED
+2
+PRE FABRICATED HEAT TRACE SAMPLE GAS TUBE
+FOR SAMPLE GAS TRANSPORTATION
+PORT SIZE : 1/4 “ PTFE TUBE
+POWER SUPPLY : 230 VAC, 50 Hz
+Per
+Mtrs
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+BOARDING – LODGING – LOCAL CONVEYANCE, WORK
+PERMIT TO BE ARRANGED BY CUSTOMER
+TO AND FRO CHARGES ( II TIER/ ECONOMY AIR TICKET)
+WILL BE CLAIMED AT ATCUALS
+Per
+Man
+day
+QUOTED
+QUOTED
+Assumption/ Clarification:
+1. Quoted gas analyser system for CO2 & CH4 measurement is suitable for safe area application.
+2. Analyser panel shall mounted inside safe area AC room, same is in customer scope.
+3. All Power, signal & communication cable is in customer scope.
+4. 110 VAC UPS & Non-UPS power supply near analyser room shall be made available by customer.
+5. Serial communication is considered for selecting sample line remotely from DCS, required cable
+is in customer scope.
+6. N2/Instrument air free from oil, dust & moisture @ 4-6 bar pressure is required for purging near
+tapping point same is to be provided by customer.
+7. All kind of civil, electrical, mechanical activity including material transportation from plant store
+to site is in customer scope.
+8. Repeatability of our quoted gas analyser is ≤ ± 1% of measuring range.
+9. Distance from each tapping point to analyser panel room to be provided by customer.
+SECTION 2: NOTE & SCOPE
+•
+N2 /Instrument Air {Free From Water Droplets or Moisture} @ 4 - 6 Kg/Cm2 to be provided by
+the Customer for purging of probe, dust and flow monitor.
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope
+•
+Please note that UPS power shall be provide near panel by customer.
+•
+Please note that laying of signal/power cable trays shall be in customer’s scope.
+•
+Power Supply Utilities required are:
+•
+Power Supply: 230 VAC, 50 Hz (Non-Ups)
+•
+Power Supply: 110/230 VAC, 50 Hz (Ups)

@@ -1,0 +1,172 @@
+Quotation Number: Q2506H029R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF CO, CO2,
+NO, SO2 & O2
+With Gas Sample Probe
+With Blowback Unit
+With Auto Probe Cleaning
+With Sample Handling System
+With Remote Calibration
+With Touch Screen Graphic Colour Display – 7”
+With IP54 Panel
+With Microprocessor Based Analyser
+With Pressure and Temperature compensation
+With Calibration Gas Cylinders
+ULTRAMAT 23 – 2 Nos
+For the measurement of
+Carbon Monoxide (CO)
+Carbon Dioxide (CO2)
+Nitric Oxide (NO)
+Sulphur Dioxide (SO2)
+Oxygen (O2)
+Make: Siemens AG, Germany
+Measuring Range:
+•
+NO: 0-400/2000 mg/Nm3
+•
+CO: 0-250/1250 mg/Nm3
+•
+SO2: 0-400/2000 mg/Nm3
+•
+O2: 0-25%
+•
+CO2: 0 to 25%
+Notes:
+•
+The quoted system is hot extractive system with gas cooler and
+cold analysers where moisture is removed in the gas cooler and
+hence no moisture compensation is required since the readings
+are not affected by moisture. Therefore, moisture measurement
+is not necessary.
+•
+Total NOx values shall be reported as NO2 i.e., NOx = NO +
+NO2 = NO X 1.53 + NO2 = NOx as NO2.
+4 SETS
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+PER MTR
+QUOTED
+QUOTED
+3
+DUST MONITOR AT OUTLET OF STACK
+Make: Sick / Durag, Germany
+Utility requirement: instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer
+4 SETS
+QUOTED
+QUOTED
+4
+FLOW MONITOR AT OUTLET OF STACK
+Make: Sick / Durag, Germany
+Utility requirement: Instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer
+4 SETS
+QUOTED
+QUOTED
+5
+ONLINE TOTAL MERCURY ANALYSIS SYSTEM
+Model: HM-1400 TRX Make: Durag, Germany
+total no of sampling location: 1 no.
+for the measurement of total mercury
+for monitoring total hg concentration in sample gas
+measuring principle: Dual beam UV CVAAS photometer
+ionic Hg-compounds are converted to Hg inside a thermal converter
+Measuring range: 0 to ... 200 mg/Nm3
+Display resolution: 0.1 mg/Nm3
+Protection class: IP54
+Power supply: 230VAC, 50 Hz
+With 35 mtrs heated line
+4 SETS
+QUOTED
+QUOTED
+6
+PC BASED DATA ACQUISITION SYSTEM
+PC based Data Acquisition System with License Software suitable
+for storing, logging, reporting, printing data, validation and
+communicating with above offered local DAS.
+PC with specifications as under:
+Make: PC with specifications as under: Make: HP/DELL INTEL i3
+Processor, 4 GB RAM, 500GB HDD, CD/DVD Combo drive, 18” TFT
+monitor, standard windows operating system, standard keyboard,
+mouse with pad
+Note: Internet connection with min. 1 mbps speed with static
+public IP is to be provided by the customer.
+3 SETS
+QUOTED
+QUOTED
+7
+High temperature O2
+Make: Forbes Marshall / Emerson /equivalent
+4 SETS
+QUOTED
+QUOTED
+8
+Low temperature O2
+Make: Forbes Marshall / Emerson /equivalent
+12 SETS
+QUOTED
+QUOTED
+9
+Flue Gas Temperature & Pressure in Stack
+Make: Adage, Model: FLOWCEMS100
+4 SETS
+QUOTED
+QUOTED
+10
+Flue Gas Moisture in Stack
+Make: Rotronic, Model: HC2A-IC/IM/IE
+4 SETS
+QUOTED
+QUOTED
+11
+Calibration Gas Cylinders for SO2/NOx/CO/CO2 Analyzer
+3 LOT
+QUOTED
+QUOTED
+12
+Mandatory Spares
+1 LOT
+QUOTED
+QUOTED
+13
+Start-up and commissioning spares
+1 LOT
+QUOTED
+QUOTED
+14
+3 Years Recommended spares (if any)
+1 LOT
+QUOTED
+QUOTED
+15
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC
+II Train Fare to be arranged by Customer)
+30
+MANDAYS
+INCLUSIVE
+INCLUSIVE
+16
+ADDITIONAL SUPERVISION OF INSTALLATION &
+COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC
+II Train Fare to be arranged by Customer)
+PER DIEM
+QUOTED
+QUOTED
+Note:
+•
+Kindly fill in the stack details

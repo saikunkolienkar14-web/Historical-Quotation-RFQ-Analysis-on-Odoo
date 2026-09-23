@@ -1,0 +1,234 @@
+Quotation Number: Q25W10138
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit price (INR)
+Total Price
+(INR)
+1
+CO + CO2 Analyser
+1 No.
+53,50,000/-
+53,50,000/-
+2
+pH Analyser
+1 No.
+7,10,000/-
+7,10,000/-
+3
+Hydrocarbon Analyser
+1 No.
+42,00,000/-
+42,00,000/-
+4
+Soft Copy Project Documentation
+1 No.
+Inclusive
+Inclusive
+5
+FAT at Adage Factory
+1 Lot
+Inclusive
+Inclusive
+6
+Commissioning Spares
+1 Lot
+Inclusive
+Inclusive
+7
+Mandatory Spares
+1 Lot
+22,00,000/-
+22,00,000/-
+8
+Supervision of installation &
+commissioning for 5 man days basis
+including lodging, boarding, to-fro charges
+and local transportation charges
+LumpSum
+2,50,000/-
+2,50,000/-
+SECTION 2: TECHNICAL LITERATURE
+1
+CO + CO2 Analyser
+Service: Recycle Hydrogen
+Model: ULTRAMAT 6E
+MAKE: SIEMENS AG, Germany.
+Power Supply: 110VAC, 50 Hz
+Analyzer is mounted inside X-purged cabinet with Ex-Proof AC
+Measuring range :
+CO: 0-10 ppm
+CO2: 0-10 ppm
+Process Conditions at Sample Inlet
+Sample Temperature (Operating/Design): 100-140/150 Deg.C
+Sample Pressure (Operating/Design): 75-92/120 kg/cm2
+Process Composition: CO+Air
+1 No.
+Quoted
+1.1
+Sample Probe
+-
+Sample Probe with welded isolation valve, with flanges, MOC:
+SS316
+-
+Process Connection: 1.5” 1500# (As per Customer requirement)
+1 No.
+Quoted
+1.2
+Sample Tubing:
+-
+1⁄4” SS316L Tube, per meter Quoted- 50 mtrs
+50Mtrs.
+Quoted
+1.3
+Sample Handling System
+-
+SHS Components shall be mounted inside the Certified X-purge
+Cabinet.
+-
+Fully tubed & integrated with SHS components
+1 No.
+Quoted
+1.4
+Analyzer cabinet Assembly
+-
+MOC: SS304, 1.6 mm Thick
+-
+With Canopy, Extending 500mm in all sides. MOC: SS304
+-
+With Junction Boxes, LM6
+-
+With Header & Accessories.
+-
+With Ex-Proof Air conditioner Unit
+-
+Cabinet Dimensions: 80033 x 800mm x 2100 mm
+1 No.
+Quoted
+1.5
+Calibration Cylinder with dual stage cylinder pressure regulator for 6
+months operation
+Calibration Gases:
+-
+Span gas, 80% of FS range
+-
+Zero gas, UHP (Ultra High Purity) N2 gas
+1 Set
+Quoted
+2
+pH Analyzer
+Service: Effluent Neutralization
+MAKE: Forbes Marshall
+Model: SMARTPRO 8966EX
+Mounting Location: Open rack mounted
+Hazardous Area Classification: Zone 2, GR IIC, T3
+Components to be measured: pH
+Sample Phase: Liquid
+Supply: 24VDC loop powered
+Measuring range: 0-14 pH
+Process Conditions at sample Inlet:
+-
+Temperature (Design): 95°C
+-
+Pressure: ATM
+1 No.
+Quoted
+2.1
+Sample probe:
+-
+Fixed probe with isolation valve
+1 No.
+Quoted
+2.2
+Sample Transportation tube:
+-
+1⁄2’’ SS316L Line
+15Mtrs.
+Quoted
+2.3
+Sample Handling system as below:
+-
+With Flow Through Chamber, Isolation Valves
+-
+With Indicator/Transmitter
+-
+With Metal Tube Rotameter with low flow switch, Pressure
+Regulator
+-
+Signal JB
+-
+With All Necessary Components Inclusive of Tube Fittings,
+Tube Connectors, Etc.
+1 No.
+Quoted
+3
+pH Analyzer
+Service: Bearing cooling water
+MAKE: Forbes Marshall
+Model: CX1000
+Mounting Location: Open rack mounted
+Hazardous Area Classification: Zone 2, GR IIC, T3
+Components to be measured: pH
+Sample Phase: Liquid
+Supply: 110VAC,50Hz
+Measuring range: 0-100ppm
+Process Conditions at sample Inlet:
+-
+Temperature (Design): 44°C
+-
+Pressure: 3.5kg/cm2-g
+1 No.
+Quoted
+3.1
+Sample probe:
+-
+Fixed probe with isolation valve
+1 No.
+Quoted
+3.2
+Sample Transportation tube:
+1⁄2’’ SS316L Line
+15Mtrs.
+Quoted
+3.3
+Sample Handling system as below:
+-
+With Flow Through Chamber, Isolation Valves
+-
+With Indicator/Transmitter
+-
+With Metal Tube Rotameter with low flow switch, Pressure
+Regulator
+-
+Signal JB
+With All Necessary Components Inclusive of Tube Fittings, Tube
+Connectors, Etc.
+1 No.
+Quoted
+4
+Soft Copy Project Documentation
+1 No.
+Quoted
+5
+FAT at Adage Factory
+1 Lot
+Quoted
+6
+Commissioning Spares– As per Attached list as annexure-1
+1 Lot
+Quoted
+7
+Mandatory Spares – As per Attached list as annexure-1
+1 Lot
+Quoted
+8
+Supervision of installation & commissioning for 5 man days
+basis
+including lodging, boarding, to-fro charges and local transportation
+charges
+LumpS
+um
+Quoted

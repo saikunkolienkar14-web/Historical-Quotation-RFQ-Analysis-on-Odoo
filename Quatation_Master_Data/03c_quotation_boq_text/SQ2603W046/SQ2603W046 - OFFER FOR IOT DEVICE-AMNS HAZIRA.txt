@@ -1,0 +1,26 @@
+Quotation Number: SQ2603W046
+BOQ Status: FOUND
+
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS)
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.
+SUMMARY OF PRICES
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+Data Logger (Assembled in the Junction Box)
+with integration facility.
+•
+5 Port Unmanaged Switch
+(Remote Support for Integration Included)
+140 Nos
+Rs. 75,000
+Rs. 1,05,00,000
+2
+Yearly Data Transmission-Per Data Logger
+(Applicable from the Second Year)
+140 Nos
+Rs. 55,000
+Rs. 77,00,000

@@ -1,0 +1,363 @@
+Quotation Number: SQ2501B012
+BOQ Status: FOUND
+
+Subject: ADA ANALYSERS
+Kind Attn:
+Please quote your lowest prices for the supply of materials/services as per
+details given below. The quotation shall show separately and clearly (without
+any corrections) the basic price, discount (%), packing & forwarding (%), GST,
+freight(%), other charges, etc against each item separately, as applicable.
+Foreign vendors shall always quote their FOB prices against each item.
+Rates/charges quoted in the quotation shall be final and no additional
+charges/corrections will be accepted after the receipt of quotation unless the
+same is necessitated by BPCL in writing.
+_______________________________________________________________________
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+00010
+59.03.64.571.1
+1
+each
+OPTOCOUPLER AMETEK 300-4194 DHD2
+12.07.2025
+Analysers,Sulphur,Parts
+Name OPTOCOUPLER
+Manufacturer AMETEK
+Reference-number 300-4194
+Equipment-number DHD2
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+To,
+M/s. BPCL ESTIMATE
+MUMBAI . India - 400038.
+Ph:,Fax:.
+Vendor Code:300648
+Quotation Due Date/Time:30.01.2025/16:00:00
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+REQUEST FOR QUOTATION
+Collective RFQ Number/ Purchase Group
+1000430058 / J06-INSTRUMENT ITEMS
+Contact person/Telephone
+BINOY C. NEDUMPURAM/0484-2821605
+Fax : -
+Email:binoyc@bharatpetroleum.in
+Our ref.: 2246337
+RFQ No/Date: 6001829912 / 16.01.2025
+Page 1 of 12
+QUOTED
+NA
+NA
+NA
+NA
+NA
+NA
+9033.00.00
+GOA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+OFFER NO: SQ2501B012
+DTD:27-01-2025
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+H2S FEED GAS ANALYZER IN DHDS SRU
+Make: AMETEK 931 Model
+Service : H2S Feed gas line .DHDS SRU
+00020
+59.03.64.522.5
+4
+each
+O-RING 117 300-9939 AMETEK931 H2SFGA
+12.07.2025
+Name O-RING
+Size 117
+Manufacturer AMETEK PROCESS INSTRUMENTS
+"Reference-number 300-9939 , DSAI1001"
+Equipment-number H2S FEED GAS ANALYSER SRU
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00030
+59.03.64.986.5
+1
+each
+PCA MICRO INTERFACE 100-2231 AMETEK 931
+12.07.2025
+SHORT DESCRIPTION : PCA MICRO INTERFACE 100-2231 AMETEK 931
+MNFR : AMETEK
+MATGRP : 59
+UOM : EA
+PCA M93X MICRO-INTERFACE 100-2231 AMETEK 931-FEEDGAS/TGTU-SRUS
+EQUIPMENT DETAILS : SPARES FOR AMETEK ANALYSERS AT SRUS
+EQUIPMENT MNFR NAME : AMETEK
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+RFQ Number :6001829912
+Date : 16.01.2025
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 2 of 12
+QUOTED
+QUOTED
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+9033.00.00
+GOA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00040
+59.03.65.967.5
+2
+each
+TUBE VENT 200-7459 AMETEK 900 ADA SRU2
+30.06.2025
+SHORT DESCRIPTION : TUBE VENT 200-7459 AMETEK 900 ADA SRU2
+MNFR : AMETEK
+MATGRP : 59
+UOM : EA
+ITEM DESCRIPTION : SAMPLE/VENT TUBE SRU2
+MODEL NO : 900 ADA
+SERIAL NO : AV-900-10225
+PART NO : 200-7459
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00050
+59.03.65.968.5
+2
+each
+TUBE VENT 200-3085 AMETEK 900 ADA SRU1/3
+30.06.2025
+SHORT DESCRIPTION : TUBE VENT 200-3085 AMETEK 900 ADA
+RFQ Number :6001829912
+Date : 16.01.2025
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 3 of 12
+QUOTED
+QUOTED
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+9033.00.00
+9033.00.00
+GOA
+GOA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+SRU1/3
+MNFR : AMETEK
+MATGRP : 59
+UOM : EA
+ITEM DESCRIPTION : SAMPLE/VENT TUBE SRU1/3
+MODEL NO : 900 ADA
+SERIAL NO : VE-900CE-8722-1/2, ZX-900-10754-1/2
+PART NO : 200-3085
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00060
+59.03.62.460.5
+1
+each
+MOLECULAR SIEVE AMETEK M.AN CRAT1304
+12.07.2025
+Name MOLECULAR SIEVE DESICCANT
+Manufacturer AMETEK
+Reference-number 207599000
+Equipment-number MOISTURE ANALYSER(CAT-II) DHDS
+2.2 KG.CAN
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+RFQ Number :6001829912
+Date : 16.01.2025
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 4 of 12
+QUOTED
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+9033.00.00
+9033.00.00
+GOA
+GOA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+RFQ Number :6001829912
+Date : 16.01.2025
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 5 of 12
+NA
+NA
+1.Supplement-RFQ only
+THIS IS AN OEM TENDER. THE BID SUBMITTED BY THE OEM BIDDER OR THEIR
+AUTHORISED DEALER WILL ONLY BE CONSIDERED FOR EVALUATION. DEALERS MUST UPLOAD
+AUTHORISED DEALERSHIP CERTIFICATE FROM THE OEM FOR CONSIDERING THEIR OFFER.
+THIS IS A TENDER THROUGH GeM PORTAL:
+DIGITALLY SIGNED QUOTATIONS IN TWO BIDS ARE INVITED FROM VENDORS FOR THE
+SUBJECT ITEMS AS PER THE ENCLOSED TENDER DOCUMENTS.
+GENERAL NOTE TO THE VENDORS:
+DEVIATION TO TENDER CONDITIONS:
+DEVIATION TO ANY OF THE TENDER CONDITIONS IS NOT AT ALL ACCEPTABLE.
+DELIVERY PERIOD: -
+WITHIN 12 WEEKS FROM THE DATE OF PURCHASE ORDER F.O.R. BPCL-KOCHI REFINERY
+BASIS. SINCE TIME IS THE ESSENCE OF THIS CONTRACT, SUPPLY OF MATERIAL WITHIN
+THE DELVIERY PERIOD SHALL BE A TENDER CONDITION FOR SMOOTH RUNNING OF THE
+REFINERY. OFFERS WHICH ARE NOT MEETING ABOVE DELIVERY REQUIREMENT WILL NOT BE
+CONSIDERED FOR EVALUATION.
+SPECIAL NOTE:
+THE DELIVERY PERIOD MENTIONED IN THIS NOTE SUPERSEDES THE DELIVERY DATE /
+PERIOD, IF ANY, MENTIONED ELSEWHERE IN THE TENDER.
+DELIVERY POINT:
+THE ABOVE DELIVERY PERIOD SHALL BE FOR DELIVERY POINT F.O.R. DESTINATION
+(BPCL-KOCHI REFINERY). KINDLY MENTION THE DELIVERY POINT AS BPCL-KOCHI
+REFINERY IN OUR COMMERCIAL FORMAT.
+PRICE:
+PLEASE QUOTE F.O.R. DESTINATION PRICE. MATERIAL TO BE DELIVERED ON FREIGHT
+PAID BASIS.
+RATES PER UNIT:
+OFFER SHALL BE SUBMITTED WITH RATES PER UNIT AS PER THE UNIT OF MEASUREMENT
+SHOWN IN THE REQUEST FOR QUOTATION.
+PLEASE NOTE THAT THE ITEM RATE QUOTED IN THE BID MUST BE BOTH IN FIGURES AND
+WORDS.
+BID REJECTION CRITERIA FOR TENDER:
+RFQ Number :6001829912
+Date : 16.01.2025
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 6 of 12
+KINDLY REFER DEVIATION SHEET
+THE FOLLOWING PROVISIONS OF THE BIDDING DOCUMENT MUST BE ADHERED TO WITHOUT
+DEVIATION, FAILING WHICH THE BID SHALL BE CONSIDERED TO BE NON - RESPONSIVE
+AND REJECTED
+A) BID VALIDITY
+B) TIME SCHEDULE

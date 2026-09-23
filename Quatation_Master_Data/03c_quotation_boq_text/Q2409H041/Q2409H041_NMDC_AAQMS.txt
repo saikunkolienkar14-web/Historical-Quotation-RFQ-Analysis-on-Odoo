@@ -1,0 +1,113 @@
+Quotation Number: Q2409H041
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL NO
+DESCRIPTION
+QTY
+TOTAL PRICE (INR)
+1
+AQMS SO2 ANALYZER
+•
+Measurement Principle: UV Fluorescence
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: Auto ranging 0 – 1/10 ppm
+•
+Communication: Ethernet, USB
+•
+Detection Limit: < 0.4 ppb
+•
+Make: ENVEA; Model: AF22e
+AQMS OXIDE OF NITROGEN (NO - NO2 – NOX) ANALYZER
+•
+Measurement Principle: Chemiluminescence
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: Auto ranging 0 – 1/10 ppm
+•
+Communication: Ethernet, USB
+•
+Detection Limit: < 0.2 ppb
+•
+Make: ENVEA; Model: AC32e
+AQMS PM2.5 ANALYZER
+•
+Measurement Principle: Beta Ray Attenuation
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0-10000 μg/m3
+•
+With C14 radioactive source
+•
+Pump
+•
+PM2.5 inlet
+•
+Make: ENVEA; Model: MPM101M
+AQMS CO ANALYZER
+•
+Measurement Principle: Non-Dispersive Infra-Red
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0 – 50 ppm
+•
+Detection Limit: 0.05 ppm
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA; Model: CO12e
+AQMS PM10 ANALYZER
+•
+Measurement Principle: Beta Ray Attenuation
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0-10000 μg/m3
+•
+With C14 radioactive source
+•
+Pump
+•
+PM10 inlet
+•
+Make: ENVEA; Model: MPM101M
+SAMPLE HANDLING SYSTEM
+•
+Sample inlet Filter
+•
+Sample Inlet Hood
+•
+Glass Manifold for SHS
+•
+With Multipoint calibrator
+•
+With Zero Air Generator
+9 Nos
+QUOTED
+•
+With Standard 19” Rack Cabinet
+•
+Calibration Gas Cylinders for span calibration with
+double stage regulator (SO2, NO, CO, 1 Set each)
+PC BASED SOFTWARE FOR DAS
+NOTE: Internet connection with min. 1 MBPS speed with
+static public IP is to be provided by the Customer.
+DATA DISPLAY BOARD
+•
+Size: 9 ft. X 3 ft.
+UPS SYSTEM FOR EACH AAQMS STATION
+•
+5 KVA UPS (3 hr backup), 230VAC input ,230 V AC
+output
+PORTA CABIN
+•
+Size: 3 x 3 x 2.5m
+2
+CMC FOR 6 YEARS
+1 LOT
+QUOTED

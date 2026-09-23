@@ -1,0 +1,415 @@
+Quotation Number: Q26G10124R0
+BOQ Status: FOUND
+
+Description
+Qty
+Total Price
+(INR)
+1
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: B10-ANS-01
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+B10-AE-2024 -
+SOx ANALYSER
+B10-AE-2025 -
+NOx ANALYSER
+B10-AE-2026 -
+CO ANALYSER
+B10-AE-2061 -
+O2 ANALYSER
+B10-AE-2050 -
+SPM ANALYSER
+Shelter Specification:
+•
+Dimensions: 4m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS304
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool (2 hrs Fire Rated)
+•
+Overhang Roof Canopy- 1 meter in all four sides, MOC: SS304, 1.5 mm
+thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+1 No
+QUOTED
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+•
+Cable Tray: FRP
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC)
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Exproof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS304
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with redundant CPU , non- redundant I/O for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)- Zone 1 IIC, T3
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+3
+Tube lights outside (Suitable for Zone 1)
+4
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total Price
+(INR)
+2
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: B10-ANS-02
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+B10-AT-1000A - MASS SPECTROMETER
+B10-AT-1000B - MASS SPECTROMETER
+B10-AE-5501 - NOx ANALYSER
+B10-AE-3051 - CO+CO2 ANALYSER
+B10-AE-2073 - CO ANALYSER
+B55-AT-0501 -
+CHLORIDE ANALYZER
+B56-AT-0501 -
+CHLORIDE ANALYZER
+Shelter Specification:
+•
+Dimensions: 8m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS304
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool (2 hrs Fire Rated)
+•
+Overhang Roof Canopy-1 Meter in all four sides, MOC: SS304, 1.5 mm
+thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+1 No
+QUOTED
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+•
+Cable Tray: FRP
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC) .
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Ex proof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with redundant CPU , non- redundant I/O for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)- Zone 1 IIC, T3
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+6
+Tube lights outside (Suitable for Zone 1)
+6
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+3,4,5
+SO2, NO, CO ANALYSER
+Tag No.: B10-AT-2024, B10-AT-2025, B10-AT-2026
+Make: Siemens
+Model: ULTRAMAT 23
+Operating Principle: NDIR
+Area Classification: Zone 1 IIC T4 With Purged Enclosure
+No of Streams: 1
+Mounting Location: Inside Purged Enclosure Inside Shelter B10-ANS-01
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+SO2: 0-500 ppm
+•
+NO: 0-500 ppm
+•
+CO : 0-1 %
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485 for CPCB/SPCB Interface.
+System Details:
+•
+Common Sample Probe with heated filter and Probe Tube MOC: Inconel 600.
+•
+1/4" PTFE Electrically Heat Traced Sample Transportation tube bundle of
+length 70mtrs.
+•
+Common Blowback Unit at stack (Contractor to provide Instrument Air
+Connection at Stack)
+•
+Common Sample handling system (Safe Area, installed inside purge enclosure
+inside Analyzers Shelter) inclusive of Sample Gas Cooler and Remote
+Validation / Calibration Facility
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+6
+SPM Analyser
+Tag No: B10-AT-2050
+Make: Durag
+Model : DR 320 Ex l
+Hazardous area classification: Zone 1 llC T3
+Mounting location: In-situ Analyser Mounted directly on stack and safe area
+remote display unit in purged enclosure mounted inside Analyzer Shelter.
+Principle: Back scattering
+IP Rating: IP65 rated
+Measuring range : 0-100 Mg/Nm3
+Analyzer Output
+•
+4-20Ma Analog output
+•
+RS485 Modbus serial output
+•
+Digital contacts for fault alarm.
+Temperature Compensation:
+•
+Temperature Transmitter with RTD
+1 No
+QUOTED
+7
+OXYGEN ANALYSER
+Tag No: B10-AT-2061
+Make: Ametek
+Model: WDG-V
+Mounting Location: Field Rack
+Hazardous Area Classification: Zone 2, IIC, T3 with Purge
+Principle: Zirconium oxide for oxygen (O2)
+Enclosure Protection: IP65, NEMA 4X
+Mounting Location: B10-ANS-01
+Probe Details: 4” 300# RF flange of MOC: SS316
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Measuring Range:
+•
+O2: 0-10% (Oxygen)
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+Remote Calibration Unit (RCU) & Calibration gases: Mounted on field Skid with
+Canopy
+•
+MOC: SS304, 2 mm Thick, Make: Adage
+•
+With calibration gas cylinders and regulators.
+•
+RCU unit for Auto/Manual calibration.
+•
+With Amevision HMI
+•
+With SOVs, AFR
+Remarks:
+•
+RS485 serial output connection to DCS from Rack is in customer scope
+including cable.
+•
+Power & Instrument Air/N2 near the stack and Rack to be provided by
+contractor/ customer.
+•
+RCU unit to Sensor Unit signals and power cables shall be in customer scope.
+•

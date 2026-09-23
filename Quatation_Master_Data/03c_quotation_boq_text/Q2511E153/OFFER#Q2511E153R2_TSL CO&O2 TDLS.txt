@@ -1,0 +1,53 @@
+Quotation Number: Q2511E153R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED ANALYSER FOR MEASUREMENT OF
+CO & O2 OF AT MILL I/L & O/L , PC SILO & BAG FILTER
+MAKE: SIEMENS AG, Germany
+Operating principle: TDLAS
+Component to be measured: CO & O2
+Mounting location: Extractive type
+Degree Of Protection: IP65
+With Sample handling system consisting of:
+•
+With Heated Flow Through Cell for Mounting of
+Laser Analyzer
+•
+With Aspirator Pump System for Extraction and
+Drawing of Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+4 SETS
+59,00,000
+2,36,00,000
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Size: 1⁄2”
+Make: Thermopad
+@4200 PER METER
+3
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And
+Fro Charges To Be Claimed At Actuals (ACII TIER/FLIGHT).
+@30000 PER MANDAY

@@ -1,0 +1,199 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+TATA STEEL LIMITED
+JAMSHEDPUR, JHARKHAND
+INDIA
+
+SUBJECT : QUOTATION FOR PLC UPGRADE OF CDQ 10-11
+
+REFERENCE/RFQ : Mail dated 06th October 2025
+
+KIND ATTENTION : Mr. Siddharth Ray
+Manager; FM Electrical & Instrumentation
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below.
+If you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2510E353
+Dated: 09.10.2025
+
+Contact persons :
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Anupam Chatterjee
+Email: anupam@adage-automation.com
+Mob: +91 8981411483
+(Adage-Jamshedpur)
+
+Mr. Arijit Das
+Email: arijit@adage-automation.com
+Mob: +91 9163609532
+(Adage-Goa-HO)
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 1: SUMMARY OF PRICES-SUPPLY
+SL.
+NO.
+DESCRIPTION
+
+PART NO.
+
+QTY
+
+UMC
+
+UNIT PRICE
+[INR]
+1
+PLC CPU S7 1200 CPU 1214C, SIEMENS,
+14 DI 24V DC;
+10 DO RELAY 2A;
+2 AI 0-10V DC
+18606070
+1
+5532A1439
+39,942.03
+2
+Extension Module, Relay Output Module-
+16Channel (SM 1222), SIEMENS; Digital
+Output 16 DO Relay 2A
+18606074
+1
+5532A1434
+26,867.70
+3
+Analog Input Module, SIEMENS, S7 1200-
+Analogue Input Module-SIMATIC S7-1200,
+ANALOG INPUT, SM 1231,
+4 AI, +/- 10V, +/-5V, +/-2.5 V
+18606075
+3
+5532A1488
+21,486.67
+4
+HMI Display (Touch Screen), Make - Adage;
+Size: 7 inch
+18610051
+1
+5532A1302
+101,194.00
+5
+Siemens Extension Module S71200
+16DI/16DO RELAY MODULE
+18606037
+2
+NO UMC
+31,600.00
+6
+Profibus Module-CM 1242-5
+18606073
+1
+NO UMC
+29,334.00
+7
+PROFIBUS DP CONNECTOR
+18606059
+1
+NO UMC
+8,767.00
+8
+Supervision in Installation and
+Commissioning Charges with Technical
+Support
+
+04
+Man-days
+Srv No.
+USCESI02A575
+24,000
+
+•
+Please refer ARC PO 4700145281/101 for the items (SL no 1 to 4)
+•
+Please create UMC for SL no 5 to 7
+•
+Please refer AMC PO 4700121537/102 for SL no 8
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+Ex works, Goa
+Packing Charges
+Extra 3% on basic order value
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90330000
+Freight Charges
+Customer A/c
+Insurances
+Customer A/c
+Delivery
+Within 12 weeks from the date of receipt of PO
+Offer validity
+30 days.
+Payment Terms
+100% payment within 45 days of safety receipt of material
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Samaresh Dey
+
+Anupam Chatterjee
+samaresh@adage-automation.com
+anupam@adage-automation.com
++91 9769012864
+
++91 89811411483
+ADAGE- GOA
+
+ADAGE-JAMSHEDPUR

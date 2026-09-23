@@ -1,0 +1,148 @@
+Quotation Number: Q2506E071R4
+BOQ Status: FOUND
+
+•
+We have quoted assuming stack details suitable to the offered model
+quoted. Price is subject to change incase stack details are not suitable to the
+offered model.
+1
+SET
+QUOTED QUOTED
+6
+NO ANALYSER AT STACK
+Service: Stack
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Safe Area
+Measuring Range:
+•
+NO: 0-50/500 mg/m3
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+1
+SET
+QUOTED QUOTED
+7
+ANALYSER SHELTER WITH HVAC AND ACCESSORIES
+Size: 3 mtrs x 3 mtrs x 2.7 mtrs (L x W x H)
+Make: Adage
+Outside Area Classification: Zone 2 Gas Group IIC
+Inside Area Classification: Zone 2 Gas Group IIC
+Analyzer House Design & Construction Details:
+•
+MOC – CRCA
+•
+Houses shall be rainproof and dustproof and shall be
+designed to withstand the environmental conditions.
+•
+House outer sheet MOC: CRCA 2mm thick
+•
+House inner sheet MOC: CRCA 2mm thick
+•
+Base frame-Fabricated from ISMC 150/ISMB 100 (min.)
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation: Rockwool, Insulation Thickness shall be 80mm
+•
+With Main Door and Emergency door
+•
+Overhang canopy: 1000 mm length CRCA all four sides of
+the House. Shall be 2 mm thick
+•
+Cable entry to be provided in House through MCT block with
+50% extra space for cables.
+•
+Tube entry to be provided in House through bulkhead plate
+•
+With single HVAC
+2 SETS
+QUOTED
+QUOTED
+7.1
+ANALYSER SHELTER WITH HVAC AND ACCESSORIES
+Size: 5 mtrs x 3 mtrs x 2.7 mtrs (L x W x H)
+Make: Adage
+Outside Area Classification: Zone 2 Gas Group IIC
+Inside Area Classification: Zone 2 Gas Group IIC
+Analyzer House Design & Construction Details:
+•
+MOC – CRCA
+•
+Houses shall be rainproof and dustproof and shall be
+designed to withstand the environmental conditions.
+•
+House outer sheet MOC: CRCA 2mm thick
+•
+House inner sheet MOC: CRCA 2mm thick
+•
+Base frame-Fabricated from ISMC 150/ISMB 100 (min.)
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation: Rockwool, Insulation Thickness shall be 80mm
+•
+With Main Door and Emergency door
+•
+Overhang canopy: 1000 mm length CRCA all four sides of
+the House. Shall be 2 mm thick
+•
+Cable entry to be provided in House through MCT block with
+50% extra space for cables.
+•
+Tube entry to be provided in House through bulkhead plate
+•
+With single HVAC
+2 SETS
+QUOTED
+QUOTED
+7.2
+ACCESSORIES AS BELOWS:
+Panic Bar- 2 No
+Emergency button push alarm- 1 No
+LEL, O2 & Smoke Gas Detectors, Hooter & Beacon- 1 No
+Safe Guarding PLC mounted inside purged box
+Warning Panels, Distribution boxes, Fire Extinguisher
+1 LOT
+INCLUSIVE
+INCLUSIVE
+8
+MANDATORY SPARES
+1 LOT
+QUOTED
+QUOTED
+9
+2 YEAR O&M SPARES
+1 LOT
+QUOTED
+QUOTED
+10
+CAMC FOR 7 YEARS-OPTIONAL
+LUMPSUM
+QUOTED
+QUOTED
+11
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS316
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+PER MTR
+QUOTED
+QUOTED
+12
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+PER DIEM
+@QUOTED PER DIEM
+Notes:
+1. For Gas Analysis, all Components shall be safe area components and shall be mounted inside purged panel
+2. The Purge controller shall be ATEX/IECEx certified.
+3. Corrosion of tubing’s and fittings of SS316 MOC will take place due to the presence of SO3 and acid mist,
+hence we had offered tubings and fittings of PTFE and PVDF. However inorder to comply to the specs at this
+stage, we have considered SS316 instead of PTFE/PVDF. But same shall be discussed during detailed engg

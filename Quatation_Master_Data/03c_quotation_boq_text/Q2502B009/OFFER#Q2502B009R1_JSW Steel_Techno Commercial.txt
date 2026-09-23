@@ -1,0 +1,70 @@
+Quotation Number: Q2502B009R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED ANALYSER FOR MEASUREMENT OF CO,CO2,
+O2
+MAKE: AIROPTIC
+MODEL: GAS EYE
+Operating principle: TDLAS
+Component to be measured: CO,CO, O2
+Mounting location: Extractive type
+Measuring range: to be specified by the customer
+With Primary sample handling system Consisting of:
+•
+Pre-Sample Conditioning & Purification System for
+handling Impurities such as Tar, Naphthalene etc.
+With Secondary sample handling system consisting of:
+•
+With Heated Flow Through Cell for Mounting of Laser
+Analyzer
+•
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar near field rack
+•
+230VAC, 50 Hz power supply
+1 SET
+42,00,000
+42,00,000
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+@4,200 per meter
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+@30,000 per man day
+•
+Analyzer drain line shall be connected to the plant nearest drain, the tubing for the same shall be in Customer’s scope.
+•
+External Cabling, Tubing, and all Associated Erection Hardware shall be in Customer’s Scope.
+•
+Plant Water & Diesel is required as a utility for primary Sample handling System and shall be provided by customer.
+•
+Plant Instrument air required shall be oil, dust free @4-6 bar
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (Non-UPS)
+Power Supply: 230 VAC, 50 Hz (UPS)

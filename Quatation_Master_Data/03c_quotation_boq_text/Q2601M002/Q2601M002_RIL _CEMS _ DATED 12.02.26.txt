@@ -1,0 +1,45 @@
+Quotation Number: Q2601M002
+BOQ Status: FOUND
+
+Description Qty
+Qty
+Total Price (INR)
+1a
+CEMS FOR MEASUREMENT OF SO2/NO/CO/O2 FOR CFDV-1,CFDV-2
+Measurement Type: Hot Extraction Technique
+Area Classification: Zone 2 IIA/IIB
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Cabinet
+Process Parameters:
+•
+Pressure (Operating): -10 to 10 mmwc
+•
+Temperature (Operating): 180 -200 DegC
+Measuring Ranges:
+•
+SOx: 0- 2000 mg/Nm3.
+•
+NOx: 0- 1200 mg/Nm3.
+•
+CO: 0- 250 mg/Nm3.
+•
+O2: 0-25%
+Sample Handling System:
+•
+With Sample probe and its blowback unit
+•
+With Sample Gas cooler, pump, filters, etc
+•
+With Rack for mounting Analyser and other accessories
+•
+With Calibration Gas Cylinders
+•
+With Cylinder Rack with Canopy
+•
+With remote calibration facility
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+RS 485 Modbus

@@ -1,0 +1,25 @@
+Quotation Number: Q2507E105
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT
+Make: Siemens
+Model: OXYMAT64
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: O2
+Measuring Range:
+• O2: 0-10/100 ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+Notes:

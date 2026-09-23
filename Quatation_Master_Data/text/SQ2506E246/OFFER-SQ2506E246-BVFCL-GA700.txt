@@ -1,0 +1,240 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+TO, 
+
+BRAHMAPUTRA VALLEY FERTILIZER CORPORATION LIMITED 
+(A GOVERNMENT OF INDIA UNDERTAKING) 
+P.O.: PARBATPUR, DIST: DIBRUGARH, ASSAM. PIN 786 623 
+
+ 
+SUBJECT 
+ 
+: QUOTATION FOR GAS ANALYSER 
+ 
+RFQ/REFERENCE 
+: EMAIL ENQUIRY ON 20.06.2025 
+ 
+KIND ATTENTION 
+: MR. HANI KR. GUPTA 
+
+Dear Sir, 
+ 
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated 
+below. If you have any questions or require additional information, please feel free to contact us. 
+
+TABLE OF CONTENTS: - 
+
+SECTION 1: SUMMARY OF PRICES 
+ 
+SECTION 2: COMMERCIAL TERMS & CONDITIONS 
+
+ 
+
+ 
+ 
+Our Quotation No. SQ2506E246 
+Dated: 30.06.2025 
+ 
+Contact persons : 
+ 
+Mr. Samaresh Dey 
+Email: samaresh@adage-automation.com 
+Mob: +91 9769012864 
+(Adage-Goa-HO) 
+ 
+Mr. Manas Das 
+Email: manas@adage-automation.com 
+Mob: +91 9435010897 
+(Adage-Goa-HO) 
+ 
+Mr. Arijit Das 
+Email: arijit@adage-automation.com 
+Mob: +91 9163609532 
+(Adage- Goa-HO) 
+
+TECHNO-COMMERCIAL QUOTATION 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+
+Dear Sir, 
+
+This is in context to your requirement for Online Gas Analyser and we thank you for the same, 
+ 
+Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in India and 
+worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in the industrial field of 
+Steel, Cement, Power, Fertilizers, Chemical & Petrochemicals , Oil & Gas etc. We are an ISO 9000:2015 & OHSAS 
+18001: 2007 certified company . 
+ 
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG , Germany for the Indian 
+market for Process Gas Analyzers . We have 11 Offices across India with subsidiary companies in Sharjah , 
+UAE & New Jersey , USA and we have 200+ Specialist Engineers and a modern state of the art Factory in 
+ Goa. We have already installed more than 5,000 Analyser Systems & more than 10,000 Analyzers in India . 
+At the present moment , we enjoy a leadership position in the Indian Industry . We are also the largest 
+exporter of Gas Analytical Systems from India to over 40 countries in Europe , Africa, Middle East, Far East 
+and South America. 
+ 
+Our State of the art application Lab and the Regional Repair Centre ( RRC ) is under a joint investment from 
+SIEMENS AG Germany . Adage have been awarded in 2018 by the Ministry of Industries , Govt of India as one of the 
+India’s Small Giants , which is an initiative to recognize the top perfroming companies in terms of sustainable 
+growth and innovations . 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+SECTION 1: SUMMARY OF PRICES-SUPPLY 
+ 
+SR. 
+NO. 
+DESCRIPTION 
+ 
+QTY 
+ 
+UNIT PRICE 
+[INR] 
+ 
+TOTAL PRICE 
+[INR] 
+ 
+1. 
+GAS ANALYSER FOR NH3 & H2 MEASUREMENT 
+MODEL: SIPROCESS GA700 
+MAKE: SIEMENS AG GERMANY 
+ULTRAMAT 7 MODULE: 
+MEASURED COMPONENT: NH3 
+MEASURING PRINCIPLE: NDIR 
+MEASURING RANGE [NH3]: 0-25% 
+LINEARITY ERROR: < 0.5% OF THE MEASURING RANGE 
+FULL SCALE VALUE 
+REPEATABILITY: ≤ ± 1% OF THE CURRENT FULL-SCALE 
+VALUE 
+ZERO POINT DRIFT: < ± 1% WEEK OF SMALLEST 
+MEASURING RANGE 
+MEASURED VALUE DRIFT: < ± 1% OF THE CURRENT 
+MEASURING RANGE PER WEEK 
+CALOMAT 7 MODULE: 
+MEASURED COMPONENT: H2 
+MEASURING PRINCIPLE: THERMAL CONDUCTIVITY 
+MEASURING RANGE: 0-100% 
+DETECTION LIMIT: ≤ 1% OF THE CURRENT MEASURING 
+SPAN 
+LINEARITY ERROR: ≤ 1% OF THE CURRENT MEASURING 
+SPAN REPEATABILITY: ≤ 1% OF THE CURRENT 
+MEASURING SPAN 
+MEASURED VALUE DRIFT: < ± 1%/WEEK OF SMALLEST 
+MEASURING RANGE 
+BASIC DESCRIPTION: 
+WALL MOUNT ARRANGEMENT GAS CONNECTIONS 6 MM 
+STUB WITH IP65 IN ACCORDANCE WITH EN 60529, 
+RESTRICTED BREATHING ENCLOSURE TO EN 50021 
+POWER SUPPLY: 110 VAC, 50 HZ 
+OUTPUT: 0/2/4 ... 20 MA, FLOATING; MAX. LOAD 750 Ω [1 
+FOR EACH COMPONENT] 
+DISPLAY: LARGE LCD WITH CONTRAST CONTROL. 
+DIGITAL INPUTS: 8, DESIGNED FOR 24 V, FLOATING, 
+FREELY CONFIGURABLE, E.G. FOR MEASURING RANGE 
+SWITCHOVER 
+RELAY OUTPUTS: 8, WITH CHANGEOVER CONTACTS, 
+CAN BE FREELY PARAMETERIZED, E.G. FOR MEASURING 
+RANGE IDENTIFICATION; MAX. LOAD: 24 V AC/DC/1.7 A 
+(TOTAL LOAD FOR ALL 8 RELAY OUTPUTS IN 
+CONTINUOUS OPERATION MAX. 160 W), FLOATING, 
+NON-SPARKING 
+ 
+1 No. 
+ 
+28,25,000.00 
+ 
+28,25,000.00 
+NOTE: MOUNTING ARRANGEMENT & REQUIRED SAMPLE HANDLING SYSTEM SHALL BE IN BVFCL SCOPE 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS 
+ 
+Price Basis 
+Ex works, Goa 
+Packing Charges 
+Extra @3% on basic order value 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN Code 
+90271000 
+Freight Charges 
+Customer A/c 
+Insurances 
+Customer A/c 
+Delivery 
+Within 20 weeks from the date of receipt of PO 
+Offer validity 
+30 Days 
+Payment Terms 
+100% payment against proforma invoice 
+
+Yours faithfully, 
+ 
+For Adage Automation Pvt. Limited 
+
+Samaresh Dey 
+ 
+Arijit Das 
+samaresh@adage-automation.com 
+ 
+arijit@adage-automation.com 
++91 9769012864 
+ 
++91 9163609532 
+ADAGE- GOA 
+ 
+ADAGE- GOA

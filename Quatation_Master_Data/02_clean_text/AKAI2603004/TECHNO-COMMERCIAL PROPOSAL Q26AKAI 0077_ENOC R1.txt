@@ -1,0 +1,467 @@
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+To,
+Mr. Babu Rangan
+ENOC
+Jebel Ali Refinery
+JAFZA
+DUBAI
+Subject:
+Quote for Flare & Fuel Gas Chromatographs
+Project Name:
+Doc310104834 - 310001292 1000146643 SUPPLY OF GAS CHROMOTOGRAPH
+Location:
+Dubai
+MR no:
+ESR00938-J-001 ESR00866-J003 ESR00866-J002 SUPPLY OF GAS CHROMOTOGRAPH
+Bid Type:
+Firm
+Dear Babu Rangan,
+Thank you for your interest in the analytical solutions from Adage Kanoo Analytical Industry LLC.
+Following our recent discussions, please find attached our proposal for the Gas Chromatograph (GC) system,
+complete with a 3-sided shelter designed specifically for field mounting.
+I would like to highlight a few key technical aspects of our offer:
+Low Sample Pressure (Tags 21-AT-001 & 31-AT-001): Due to the low pressure at the Main and HC
+Flare Knockouts, we have included a sample booster as part of the sampling system. This secondary system
+will be conveniently mounted inside the 3-sided shelter.
+Variable Process Conditions (Tags 20-AT-522 & 20-AT-514XX): To ensure the GC accurately handles
+both normal operations and plant startup conditions, we have configured two methods within the GC
+application.
+As per the TQ response, we have excluded the H2S, CO, CO2 measurement for all TAGS.
+For Tag# 20-AT-522 (Hydrogen Rich Fuel Gas) – We have configured GC to measure N2 & O2 separately. This is
+to ensure that the measured LHV is accurately.
+Application Details: Please refer to the application note on the following page for more specifics regarding the
+proposed Flare and Fuel Gas analysis.
+We believe this configuration provides a robust solution for your site requirements. Please feel free to reach
+out if you have any questions or require further clarification.
+Ganesh Govindaraj
+Email: govind@adage-kanoo.com
+Mob: +971 58 5213703
+(Head - Business unit & Sales)
+Our Quotation No: Q26AKA0077
+Date:
+05-03-2026
+
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+Revision History
+No
+Date
+Description
+Rev 0
+17/02/2026
+Initial submission
+Sections
+Section 1
+Price Summary Sheet
+Section 2
+Technical Literature
+
+Analyzer System
+Section 3
+Scope Matrix
+Section 4
+Commercial Terms & Conditions
+Annexure -1
+Signed & Stamped MR copies
+
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+Application Note
+Tag Number: 31-AT -001 and 21-AT -001
+In the tender documents – only ranges are given and composition was not given. However,
+considering application we have considered below concentration.
+Also, as per data sheet line no 44 the unit for H2S measurement measured as PPMV. There is no
+measuring value given for H2S.
+Due to very high flow rate and larger pipe dia., we have considered sample probe with XS schedule.
+Below are the parameters considered for WFC calculation.
+Sr
+NO.
+Tag No.
+Line No.
+Fluid
+Density
+in
+kg/m3
+Design
+Pressure
+kgf/cm2g
+Pipe
+Class
+Process
+Line Size
+Max
+Flowrate
+(kg/h)
+Line ID
+(mm)
+Line
+Internal
+radius
+(mm)
+line
+area
+(sq.m)
+Calculated
+Velocity
+(m/s)
+1
+31-AT-001
+31-RV004-
+B9AM-48"
+2.3
+3.5
+XS
+48"
+785000
+1193.8
+596.9
+1.12
+84.74
+2
+21-AT-001
+21 -RVOOI -
+B9A-30"
+2.3
+3.5
+SCH 20
+30"
+220000
+736.6
+368.3
+0.43
+62.38
+The WFC sheet is attached with the technical quote.
+
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+Section 1: Price Summary Sheet & Scope of Supply
+S.N
+Tag No.
+Item Description
+Qty
+Unit Price
+(US$)
+Total Price
+(US$)
+1
+21-AT -001
+&
+31-AT -001
+Field mount Gas Chromatographs in 3- sided Shelter for
+Flare Knockouts
+2
+Quoted
+Quoted
+2
+20-AT-522
+Field mount Gas Chromatographs in 3- sided Shelter
+Hydrogen Rich Fuel Gas
+1
+Inclusive
+Inclusive
+3
+20-AT-514XX
+Field mount Gas Chromatographs in 3- sided Shelter Fuel
+Gas Outlet
+1
+Inclusive
+Inclusive
+4
+21-AT -001
+31-AT -001
+20-AT-522
+20-AT-514XX
+Sample Conditioning System for all GCs
+4
+Inclusive
+Inclusive
+5
+21-AT -001
+31-AT -001
+20-AT-522
+20-AT-514XX
+Supply of 3-sided Shelter & Enclosure for GC with Vortex
+cooling
+3-sided Shelter Size: 2000mm x1500mm x2100mm (WxDxH)
+GC Enclosure size : 800mmx500mmx1000mm (W x D x H)
+Canopy Size: 3000mm x 2500mm (W x D) MOC: SS316L
+• Plates for Shelter Back and Sides– 2mm
+• Frameworks shall be 50x50x3mm SHS
+• Plates for Canopy shall be – 2mm thick
+• Base Gusset Plate shall be – 10mm thick
+• Base Gusset Plate shall be – 6mm thick
+• Lifting eye – M16 Eye Bolt - SS316
+• Earthling Bolt – 2 Nos.
+External & Internal Finish: Brush Finish.
+4
+Inclusive
+Inclusive
+6
+21-AT -001
+&
+31-AT -001
+Sample Probes
+– Xs / SCH 20
+- MOC : SS316L
+2
+Inclusive
+Inclusive
+7
+21-AT -001
+&
+31-AT -001
+HEAT TRACE TUBES – Sample Transportation
+40m
+Inclusive
+Inclusive
+8
+_
+Factory Acceptance Test in AKAI KEZAD, Abu Dhabi
+1
+Inclusive
+Inclusive
+9
+_
+Packing Marking and Forwarding
+1
+Inclusive
+Inclusive
+10
+_
+Documentation and certification (like leak test certificates)
+as per supplier document requirement listing (SDRL)
+1
+Inclusive
+Inclusive
+11
+_
+Project Management
+1
+Inclusive
+Inclusive
+12
+-
+Commissioning Support 5 days
+5
+Inclusive
+Inclusive
+13
+Training at site 1 day
+1
+Inclusive
+Inclusive
+14
+-
+Carrier gas – H2 & N2 Cylinders 50L each
+4 set
+Inclusive
+Inclusive
+Total DDP Price in USD
+462,688.00
+VAT will be charged at 5% of the total invoice value
+
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+Section 2: Technical Literature
+Qty
+Item
+Item Description
+2
+21-AT -001
+&
+31-AT -001
+Make: Valmet (formerly SIEMENS)
+Model : Maxum II
+Pls refer the Application sheet next page
+1
+20-AT -514XX
+Make: Valmet (formerly SIEMENS)
+Model : Maxum II
+Pls refer the Application sheet next page
+1
+20-AT -522
+Make: Valmet (formerly SIEMENS)
+Model : Maxum II
+Pls refer the Application sheet next page
+2
+Sample Pump
+For Tag No 21-AT -001 And 31-AT -001 due to low pressure we have quoted sample
+pump
+40
+Transportation line
+1/4'' OD SS316 Heat trace bundle quoted for Tag No 21-AT -001 And 31-AT -001 due
+(Single Tube)
+4
+Sample
+Conditioning
+System
+Consisting of accessories (e.g., Bypass Rotameter, Back Pressure Regulator, Valves,
+gauges, etc.) as required for analyser.
+Sampling system components shall be mounted inside SS316 enclosure, 2mm thick.
+Note: 1. All Wetted parts & fittings are of SS316.
+2. BPR used keep constant pressure in Sensor
+4
+3 Sided Shelter
+
+3-sided Shelter Size: 2000mm x1500mm x2100mm (WxDxH)
+
+GC Enclosure size : 800mmx500mmx1000mm (W x D x H)
+
+Canopy Size: 3000mm x 2500mm (W x D) MOC: SS316L
+
+• Plates for Shelter Back and Sides– 2mm
+
+• Frameworks shall be 50x50x3mm SHS
+
+• Plates for Canopy shall be – 2mm thick
+
+• Base Gusset Plate shall be – 10mm thick
+
+• Base Gusset Plate shall be – 6mm thick
+
+• Lifting eye – M16 Eye Bolt - SS316
+
+• Earthling Bolt – 2 Nos.
+
+External & Internal Finish: Brush Finish.Note: Analyzer foundation By Client
+Includes
+
+Utility Headers.
+
+1 x UPS On-Off Switch,
+
+2x Signal JB
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+
+TYPICAL 3-SIDED SHELTER WITH GC ILLUSTRATION
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+
+Section 3: Scope Matrix
+Sr.
+No.
+Description
+Scope
+AKAI
+ENOC
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Process Isolation Valve at tapping point
+
+Yes
+4
+Isolation Valve at process return point
+
+Yes
+5
+Supply of start-up and commissioning spares
+Yes
+
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+
+7
+Factory Acceptance Test at Adage Works
+Yes
+
+8
+Packing forwarding
+Yes
+
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with supporting
+structures.
+
+Yes
+13
+4-20mA, from field/ Field to DCS
+
+Yes
+14
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+
+15
+Supply and Refilling of Calibration Cylinders
+
+Yes
+
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKA0077
+Section 4: Commercial Terms & Conditions
+Price basis
+All prices are net prices in USD. Pricing in this quotation is based on DDP to ENOC JAFZA, Dubai.
+Price Validity
+Prices quoted will remain valid for a period of 60 days from the date of quotation or until end of calendar
+year, whichever comes earlier.
+Lead Time
+Shipment is typically 28 weeks from the receipt Data sheet/Drawing approval
+Warranty
+The warranty period is 12 months from initial operation of the product or 18 months from the date of
+dispatch whichever is earlier.
+Payment terms
+To be discussed and agreed
+Taxes
+Taxes are not considered and shall be Extra if applicable at the time of delivery.
+
+www.adage-kanoo.com
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quote: Q26AKAI10077
+Annexure -1
+Signed and Stamped MR Copies

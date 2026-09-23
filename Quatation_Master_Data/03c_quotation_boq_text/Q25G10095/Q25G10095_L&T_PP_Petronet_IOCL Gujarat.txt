@@ -1,0 +1,176 @@
+Quotation Number: Q25G10095
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+A
+1
+Analyser House with HVAC – 7M X 3M
+1,67,00,000
+1,67,00,000
+1
+1
+3 Stream GC - 102-AT-11101
+2,35,00,000
+2,35,00,000
+2
+1
+3 Stream GC - 102-AT-11102
+2,35,00,000
+2,35,00,000
+3
+1
+4 stream GC - 102-AT-11201
+2,22,00,000
+2,22,00,000
+4
+1
+4 stream Dew point - 102-AT-11202 (AL2O3)
+80,00,000
+80,00,000
+5
+1
+4 Stream GC - 102-AT-11301
+2,00,00,000
+2,00,00,000
+6
+1
+3 Stream GC - 102-AT-11401
+1,60,00,000
+1,60,00,000
+7
+1
+4 Stream Dew point - 102-AT-11501 (AL2O3)
+80,00,000
+80,00,000
+8
+1
+3 Stream GC - 102-AT-15101
+1,32,00,000
+1,32,00,000
+B
+1
+Analyser House with HVAC – 3M X 3M
+1,55,00,000
+1,55,00,000
+9
+1
+4 Stream Dew point - 102-AT-15201 (AL2O3)
+80,00,000
+80,00,000
+10
+1
+4 stream GC -102-AT-31401
+2,40,00,000
+2,40,00,000
+11
+1
+4 Stream Dew point - 102-AT-60301 (AL2O3)
+80,00,000
+80,00,000
+12
+1
+LEL Detector - 102-AT-91201
+4,00,000
+4,00,000
+Item
+Qty
+Description
+Unit Price
+Total Price
+13
+1
+TOC Analyser - 102-AT-91202
+55,00,000
+55,00,000
+14
+1
+TOC Analyser - 102-AT-10401
+55,00,000
+55,00,000
+15
+1 each Ph & conductivity Analyser - 102-AT-912XX
+18,00,000
+18,00,000
+16
+1
+Network Hardware
+5,00,000
+5,00,000
+17
+1
+24 Hours Repeatability test reports for review
+16,00,000
+16,00,000
+18
+1
+Project Documentation
+2,00,000
+2,00,000
+19
+1
+FAT at Adage Factory
+5,00,000
+5,00,000
+20
+1
+Packing, Forwading & Transportation upto Site
+10,00,000
+10,00,000
+21
+1
+Supervision of installation & Commissioning & SAT
+Per Diem prices
+50,000
+50,000
+22
+1
+Training at Site (5 days for 5 persons)
+Per Diem
+50,000
+50,000
+23
+1
+Consumable spares (1 Year Operation)
+42,00,000
+42,00,000
+24
+1
+Special tools & Tackles
+Incl
+Incl
+25
+1
+Startup & Commissioning spares
+1,00,000
+1,00,000
+Item
+Qty
+Description
+Unit Price
+Total Price
+26
+1
+Mandatory Spares
+1,70,00,000
+1,70,00,000
+27
+1
+2 Years O&M spares
+68,00,000
+68,00,000
+28
+1
+PWCAMC for 3 Years
+1St Year
+2nd Year
+3rd Year
+4,00,00,000
+4,00,00,000
+TOTAL BASE PRICE 29,18,00,000/-
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. All Analyser Vents are connected to common ATM vent header near the shelter through Flame
+arrester & Fastloop return shall be connected to Low pressure flare/Retrun header. For field cabinets
+ATM vent header with flame arreaster shall be provided.

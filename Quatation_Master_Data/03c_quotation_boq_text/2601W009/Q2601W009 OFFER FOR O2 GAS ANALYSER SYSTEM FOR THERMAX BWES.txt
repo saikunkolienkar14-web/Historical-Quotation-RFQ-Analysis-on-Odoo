@@ -1,0 +1,82 @@
+Quotation Number: Q2601W009
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+INSITU CROSS DUCT TYPE TUNABLE LASER DOIDE
+GAS ANALYSER FOR MEASURMENT OF O2 FOR ECO
+OUTLET
+PRINCIPLE: TUNABLE LASER DIODE SPECTROMETER
+MAKE: AIROPTICS
+MODEL: GAS EYE
+ENCLOSURE RATING: IP66 RATED
+MOUNTING LOCATION:
+ANALYSER TRASNMITTER RECEIVER UNIT ON STACK
+AREA CLASSIFICATION: SAFE
+MEASURING COMPONENT:
+1. O2 (RANGE: 0- 10 %)
+PROCESS CONDITION:
+TEMPERATURE (Op/DESIGN): 300-700 DEG
+PRESSURE (Op/DESIGN):
+UTILITY PANEL (SS PLATE) WITH ACCESSORIES:
+SS316 PLATE 2MM THICK MOUNTED ON STACK
+DIRECTLY
+AIR FILTER REGULATOR, BALL VALVE, TUBINGS AND
+FITTINGS AND OTHER ACCESSORIES AS REQUIRED.
+AVAILABLE OUTPUTS:
+-
+4 X ANALOG OUTPUT 4-20MA FOR
+MEASURING COMPONENT
+-
+8 X DIGITAL OUTPUTS (PURGE FAIL).
+-
+MODBUS RTU
+UTILITIES:
+-
+N2 @ 4-6 BAR NEAR THE PURGE PLATE.
+-
+110VAC, 50 HZ POWER SUPPLY
+1Set
+QUOTED
+QUOTED
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+BOARDING – LODGING – LOCAL CONVEYANCE, WORK
+PERMIT TO BE ARRANGED BY CUSTOMER
+TO AND FRO CHARGES ( II TIER/ ECONOMY AIR TICKET)
+WILL BE CLAIMED AT ATCUALS
+Per
+Man
+day
+QUOTED
+QUOTED
+Note:
+1. We will provide counter flange suitable to process connection 2” ANSI #150RF for mounting O2
+gas analyser transmitter & receiver unit.
+2. All Power, signal & communication cable is in customer scope.
+3. 110 VAC UPS & Non-UPS power supply near analyser room & at sampling point shall be made
+available same is in customer scope.
+4. Communication cable from analyser to plant DCS is in customer scope.
+5. N2 air @ 4-6 bar pressure is required for sensor & process purging same is in customer scope.
+6. Please provide 100% sample gas composition of the flue gas.
+7. Hart output is not applicable for quoted analyser.
+SECTION 2: NOTE & SCOPE
+•
+N2 Air {Free From Water Droplets or Moisture} @ 4 - 6 Kg/Cm2 to be provided by the Customer
+for purging of probe, dust and flow monitor.
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope
+•
+Please note that UPS power shall be provide near panel by customer.
+•
+Please note that laying of signal/power cable trays shall be in customer’s scope.
+•
+Power Supply Utilities required are:
+•
+Power Supply: 230 VAC, 50 Hz (Non-Ups)-
+•
+Power Supply: 110/230 VAC, 50 Hz (Ups) –

@@ -1,0 +1,554 @@
+Quotation Number: Q2510N143R5
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl No
+Description
+Qty
+UOM
+Unit Price (in INR)
+Final Price (in INR)
+1
+SO2/NO/CO2 MEASUREMENT
+ANALYSER SYSTEM
+1
+Nos
+QUOTED
+QUOTED
+2
+CO2 MEASUREMENT ANALYSER
+SYSTEM
+1
+Lot
+QUOTED
+QUOTED
+3
+pH MEASUREMENT ANALYSER SYSTEM
+(HAZARDOUS AREA)
+2
+Nos
+QUOTED
+QUOTED
+3.1
+pH MEASUREMENT ANALYSER SYSTEM
+(SAFE AREA)
+3
+Nos
+QUOTED
+QUOTED
+4
+CONDUCTIVITY MEASUREMENT
+ANALYSER SYSTEM (HAZARDOUS
+AREA)
+1
+Nos
+QUOTED
+QUOTED
+4.1
+CONDUCTIVITY MEASUREMENT
+ANALYSER SYSTEM (SAFE AREA)
+3
+Nos
+QUOTED
+QUOTED
+5
+ORP MEASUREMENT ANALYSER
+SYSTEM
+1
+Nos
+QUOTED
+QUOTED
+6
+FOAM ANALYSIS
+1
+Nos
+QUOTED
+QUOTED
+7
+SAMPLE TUBE FOR SAMPLE GAS
+TRANSPORTATION
+1
+Per Meter
+QUOTED
+QUOTED
+8
+HEATED SAMPLE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+1
+Per Meter
+QUOTED
+QUOTED
+9
+SUPERVISION OF INSTALLATION AND
+COMMISIONING
+1
+Per Diem
+QUOTED
+QUOTED
+NTPC SIMHADRI & PUDIMADAKA SITE
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+SO2/NO/CO2 MEASUREMENT ANALYSER SYSTEM
+Service: FLUE GAS FROM OSBL TO T-01001 PRE-TREATMENT
+COLUMN/ UPSTREAM OF T-01001 PRE-TREATMENT COLUMN TO
+B-01001 FLUE GAS BLOWER
+Tag No: AIT-0100101/ AIT-0100102
+Area Classification: Safe Area
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet (AIT-0100101):
+•
+Pressure (Nor/Design): As per MTO-rev1 Bar g
+•
+Temperature (Nor/Design): As per MTO-rev1 Deg C
+•
+Line Size: 20”
+Process Conditions at Sample Inlet (AIT-0100102):
+•
+Pressure (Nor/Design): As per MTO-rev1 Bar g
+•
+Temperature (Nor/Design): As per MTO-rev1 Deg C
+•
+Line Size: 24”
+Measuring Range:
+•
+CO2: 0-5/25%
+•
+NO: 0-500/2500ppm
+•
+SO2: 0-50/1250 mg/m3
+With Sample Conditioning System:
+•
+With Individual SHS mounted inside common cabinet
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Lot
+QUOTED
+QUOTED
+2
+CO2 MEASUREMENT ANALYSER SYSTEM
+Service: TOP OF T-02002 ABSORBER COLUMN TO DEPLETED
+FLUE GAS
+Tag No: AIT-0200206
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet (AIT-0200206):
+•
+Pressure (Nor/Design): As per MTO-rev1 Bar g
+•
+Temperature (Nor/Design): As per MTO-rev1 Deg C
+•
+Line Size: 16”
+Process Conditions at Sample Inlet (AIT-0300107):
+•
+Pressure (Nor/Design): As per MTO-rev1 Bar g
+•
+Temperature (Nor/Design): As per MTO-rev1 Deg C
+•
+Line Size: 6”
+Measuring Range:
+•
+CO2: 0-20/100%
+With Sample Conditioning System:
+•
+With Individual SHS mounted inside common cabinet
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification kindly refer to attached P&ID & BOM)
+1 Lot
+QUOTED
+QUOTED
+3
+pH MEASUREMENT ANALYSER SYSTEM (HAZARDOUS AREA)
+Service: As per MTO
+Component to be measured: pH
+Measuring Ranges:
+•
+pH: As per table A
+Analyser Outputs:
+•
+4-20 mA
+Remarks:
+•
+For further details regards to liquid analysers refer to table A.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+3.1
+pH MEASUREMENT ANALYSER SYSTEM (SAFE AREA)
+Service: As per MTO
+Component to be measured: pH
+Measuring Ranges:
+•
+pH: As per table A
+Analyser Outputs:
+•
+4-20 mA
+Remarks:
+•
+For further details regards to liquid analysers refer to table A.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+6 Sets
+QUOTED
+QUOTED
+4
+CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+(HAZARDOUS AREA)
+Service: As per MTO
+Component to be measured: Conductivity
+Measuring Ranges:
+•
+Conductivity: As per table A
+Analyser Outputs:
+•
+4-20 mA
+Remarks:
+•
+For further details regards to liquid analysers refer to table A.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+4.1
+CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM (SAFE
+AREA)
+Service: As per MTO
+Component to be measured: Conductivity
+Measuring Ranges:
+•
+Conductivity: As per table A
+Analyser Outputs:
+•
+4-20 mA
+Remarks:
+•
+For further details regards to liquid analysers refer to table A.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+6 Sets
+QUOTED
+QUOTED
+5
+ORP MEASUREMENT ANALYSER SYSTEM (HAZARDOUS AREA)
+Service: ORP MEASUREMENT
+Component to be measured: ORP
+Measuring Ranges:
+•
+ORP: As per table A
+Analyser Outputs:
+•
+4-20 mA
+Remarks:
+•
+For further details regards to liquid analysers refer to table A.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+6
+FOAM ANALYSIS
+Service: BROTH
+Make: Siemens, Model: CLS300
+1 Set
+QUOTED
+QUOTED
+ADDITIONAL PRICES
+7
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+PER
+MTR
+@ QUOTED PER METER
+8
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With Necessary JBs & accessories
+PER
+MTR
+@ QUOTED PER METER
+9
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+PER
+DIEM
+@ QUOTED PER DIEM
+Notes:
+1. For Conductivity Tag AIT-0100205, the offered conductivity sensor shall be rated for maximum 135 °C at 6 bar
+for up to 45 minutes
+2. All ORP, pH & Conductivity tags shall have 4-20mA outputs which shall be taken to the DCS by customer
+3. For Analysers in OSBL, we have considered area classification as safe area.
+4. For Foam Analysis, CLS300 has been selected in order to comply with the liner MOC required in the
+datasheet.
+TABLE A
+Sl
+No
+Tag No
+Instrument
+Type
+Type of
+Assembly
+Area Classification
+of Transmitter
+Normal
+Value
+Maximum
+Value
+Unit of
+Measurement
+Block
+1
+AIT-
+2200104
+ANALYSIS
+TRANSMITTER-
+ORP
+Retractable
+type
+Zone 1, Gas Group
+IIC, Temperature
+Class T1
+-450
+-1500
+mV
+ETH
+2
+AIT-
+2200103A
+ANALYSIS
+TRANSMITTER-
+pH
+Retractable
+type
+Zone 1, Gas Group
+IIC, Temperature
+Class T1
+5
+14
+pH
+ETH
+3
+AIT-
+2200103B
+ANALYSIS
+TRANSMITTER-
+pH
+Retractable
+type
+Zone 1, Gas Group
+IIC, Temperature
+Class T1
+5
+14
+pH
+ETH
+4
+AIT-
+0100103
+ANALYSIS
+TRANSMITTER-
+pH
+Non
+retractable
+type
+Non Hazardous
+5.5
+7
+pH
+CCU
+5
+AIT-
+0100104
+ANALYSIS
+TRANSMITTER-
+pH
+Retractable
+type
+Non Hazardous
+5.5
+7
+pH
+CCU
+6
+AIT-
+8500109
+ANALYSIS
+TRANSMITTER-
+pH
+Non
+retractable
+type
+Non Hazardous
+7.5
+9
+pH
+CCU
+7
+AIT-
+2200102
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Zone 1, Gas Group
+IIC, Temperature
+Class T1
+200000
+250000
+μS/cm
+ETH
+8
+AIT-
+2500212
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Non Hazardous
+200000
+250000
+μS/cm
+ETH
+9
+AIT-
+0100205
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Non Hazardous
+8
+9
+μS/cm
+CCU
+10
+AIT-
+8500108
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Non Hazardous
+100
+500
+μS/cm
+CCU
+11
+AIT-
+8500003
+ANALYSIS
+TRANSMITTER-
+pH
+Non
+retractable
+type
+Non Hazardous
+6.5
+7
+pH
+OSBL
+12
+AIT-
+8500004
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Non Hazardous
+0.1
+10
+μS/cm
+OSBL
+13
+AIT-
+8500005
+ANALYSIS
+TRANSMITTER-
+pH
+Non
+retractable
+type
+Non Hazardous
+6.5
+7
+pH
+OSBL
+14
+AIT-
+8500006
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Non Hazardous
+0.1
+10
+μS/cm
+OSBL
+15
+AIT-
+9300302
+ANALYSIS
+TRANSMITTER-
+pH
+Non
+retractable
+type
+Non Hazardous
+6.5
+7
+pH
+OSBL
+16
+AIT-
+9300301
+ANALYSIS
+TRANSMITTER-
+CONDUCTIVITY
+Non
+retractable
+type
+Non Hazardous
+0.1
+10
+μS/cm
+OSBL

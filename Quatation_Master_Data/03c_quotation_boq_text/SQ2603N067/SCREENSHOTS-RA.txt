@@ -1,0 +1,8 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+y Checklist Name t Price Quantity Extended Price Total Cost
+1 Pricing a
+1. Review Event Details
+y 2 Commercial Section
+2. Review and Accept * .

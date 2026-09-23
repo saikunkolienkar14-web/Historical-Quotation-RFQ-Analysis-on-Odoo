@@ -1,0 +1,97 @@
+Quotation Number: Q2506M019
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+CALORIFIC VALUE OF MIXED GAS
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+MOUNTING LOCATION: INSIDE ANALYSER ROOM
+AREA CLASSIFICATION: SAFE AREA
+FOR KILN MEASURING RANGE:
+CV: 2000 – 3000 Kcal/Nm3
+PRIMARY SAMPLE HANDLING SYSTEM:
+Pre-Sample Conditioning & Purification System
+for Dual tapping system for handling Impurities
+such as Tar, Naphthalene etc.
+SECONDARY SAMPLE HANDLING SYSTEM:
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve.
+Coalescing Filter, Pressure regulators.
+Calibration Cylinder with Pressure Regulator.
+MOUNTING ARRANGEMENT:
+Shall be mounted on rack , MOC: CRCA.
+ANALYSER SPECIFICATIONS:
+Calorimeter Type CWD2005- for Measurement
+of Calorific Value, Wobbe-Index, Specific Density
+•
+Kind of Gas: Mixed Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+Individual 4-20 mA analog output for Calorific
+value, Wobbe Index and Specific gravity resp.
+•
+RS232 Serial Output 3 x Digital Outputs
+1 Set
+QUOTED
+QUOTED
+1.2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : PTFE ;
+PORT SIZE: 1⁄4’’
+POWER SUPPLY : 230 VAC 50HZ
+Per
+Mtr
+QUOTED
+QUOTED
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mand
+ays
+QUOTED
+QUOTED
+Note:
+1. We have considered Redundant CV Gas Analyser module CWD 2005 – 2 Nos.
+2. Primary & Secondary Sample Handling System will be common for both analysers.
+3. Customer must provide tapping to process line at a place where laminar flow of gas is available.
+4. Any kind of Civil, Electrical, Mechanical work will be in customer scope.
+5. Supply and laying of power, signal and communication cable will be in customer scope.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+Analyzer drain line shall be connected to the plant nearest drain, the tubing for the same shall be in
+Customer’s scope.
+•
+Power cable, signal cable is in scope of customer.
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Plant water and Diesel is required as Utility for primary sample handling system.
+•
+We have mentioned Unit Rates for Heat trace Tube for Sample Gas Transportation. Any Extra Tube
+would attract per meter price.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel
+shall be Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+•
+Air conditioner room shall be provide to mount gas analyzer system.

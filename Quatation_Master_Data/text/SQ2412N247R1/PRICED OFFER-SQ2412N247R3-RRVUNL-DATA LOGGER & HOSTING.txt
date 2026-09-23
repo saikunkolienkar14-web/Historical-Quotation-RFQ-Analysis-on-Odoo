@@ -1,0 +1,318 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+TO, 
+
+RAJASTHAN RAJYA VIDYUT UTPADAN NIGAM LIMITED (RRVUNL), 
+SURATGARH SUPER THERMAL POWER STATION (SSTPS) 
+SURATGARH-335805 
+RAJASTHAN, INDIA 
+ 
+KIND ATTENTION: PURCHASE DEPARTMENT 
+REF NO. Tender ID: 2026_RRVUN_563699_1; 
+ Tender Reference No: SSP-64-Data Logger 
+SUB: QUOTATION FOR SPARES FOR ANALYZERS. 
+ 
+Dear Sir, 
+ 
+We thank you for your enquiry and are pleased to quote as per the enclosed specification on terms stated below. 
+If you have any questions or require additional information, please feel free to contact us. 
+ 
+PART A SUMMARY OF PRICES ……………………………………………………….…………………………...….PAGE 02 
+PART B COMMERCIAL TERMS AND CONDITION……………………………..…………………….…….….…PAGE 03 
+ 
+We hope that the above would serve your purpose, however in case of any further clarifications please feel free to 
+contact us. 
+ 
+Thanking you and always assuring you our best services and attention. 
+Yours faithfully, 
+ 
+For Adage Automation Pvt. Limited 
+
+Samaresh Dey 
+
+Sakshi Bandekar 
+samaresh@adage-automation.com 
+
+sakshi@adage-automation.com 
++91 9769012864 
+
++91 9552520222 
+ADAGE- GOA 
+
+ADAGE-GOA 
+
+QUOTATION NO: SQ2412N247R3 
+DATED: 05-06-2026 
+ 
+Contact persons : 
+ 
+Mr. Samaresh Dey 
+Email: samaresh@adage-automation.com 
+Mob: + 91 9769012864 
+(Adage-Goa-HO) 
+ 
+Mr. Alok Gupta 
+Email: alok@adage-automation.com 
+Mob: +91 7506039677 
+(Adage-Goa-HO) 
+ 
+Mr. Kasif Ali 
+Email: kasif@adage-automation.com 
+Mob: +91 9079781031 
+(Adage-Regional) 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS 
+
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE. 
+• 
+RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal cables for 
+the same shall be in customer scope. 
+• 
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by 
+customer. 
+• 
+Internet for the data logger shall be made available at site by customer preferably broadband connection. Internet 
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS) 
+• 
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer. 
+ 
+SR. 
+NO. 
+ITEM DESCRIPTION 
+PART NOS 
+UNIT 
+QTY 
+UNIT PRICE 
+(INR) 
+TOTAL PRICE 
+(INR) 
+1.01 
+Data Logger (Assembled in the Junction Box) with 
+integration facility (with installation, 
+commissioning & integration to CPCB & RSPCB 
+server) 
+- 
+Nos 
+2 
+ 3,41,000.00 
+ 6,82,000.00 
+1.02 
+Viton Gasket-Outer Dia:50 mm, Inner Dia:19 
+mm,Thickness: 2 mm (Black Color) 
+18920003 
+Nos 
+8 
+ 660.00 
+ 5,280.00 
+1.03 
+Acid Filter Assembly 
+48919001 
+Nos 
+2 
+ 46,858.90 
+ 93,717.80 
+1.04 
+Fiber Glass wool membrane filter for condensate 
+monitor and secondary filter (pack of 25) 
+18106001 
+Packet 
+2 
+ 4,745.40 
+ 9,490.80 
+1.05 
+Sample Gas Pump, 8.5 LPM, 100/240 VAC 
+28708163 
+Nos 
+2 
+ 60,317.40 
+ 1,20,634.80 
+1.06 
+O Ring for probe 9502-PTFE-For New KAS Probe 
+head 
+18918005 
+Nos 
+4 
+ 3,208.70 
+ 12,834.80 
+1.07 
+Heat Traced Tube 230 VAC 1/4" SS" Constant 
+Voltage 
+18902002 
+Mtr 
+40 
+ 6,325.00 
+ 2,53,000.00 
+1.08 
+Sample Gas Cooler Dual Path 230 VAC 
+18519001 
+Nos 
+1 
+ 64,515.00 
+ 64,515.00 
+1.09 
+Ceramic Filter, Dimension: 50-mm(OD) X 20-
+mm(ID) 190-mm (L) with Double ply 
+28903020 
+Nos 
+4 
+ 23,720.40 
+ 94,881.60 
+1.1 
+Tube 6 MM OD X 4 MM ID X Thickness 1 MM 
+(Transperent Color) MOC Sillicon 
+18201001 
+Mtr 
+10 
+ 388.30 
+ 3,883.00 
+1.11 
+Tube 12.5 MM OD X 9.5 MM ID X Thickness 1.5 
+MM (Transperent Color) MOC Sillicon 
+18201002 
+Mtr 
+2 
+ 792.00 
+ 1,584.00 
+1.12 
+Tube 1/4" 6.4 MM OD X 4.8 MM ID X Thickness 1 
+MM (White Color) MOC PTFE 
+28209004 
+Mtr 
+30 
+ 748.00 
+ 22,440.00 
+1.13 
+Male Connector 1/4 " Male (G) Thread X 6 mm 
+OD with insert, Material : PVDF 
+28210001 
+Nos 
+10 
+ 1,139.60 
+ 11,396.00 
+1.14 
+Condensate Vessel -150 ml for Sample Gas 
+Cooler 
+18901001 
+Nos 
+4 
+ 748.00 
+ 2,992.00 
+1.15 
+Cartridge Filter 
+28602054 
+Nos 
+2 
+ 13,178.00 
+ 26,356.00 
+1.16 
+Condensate Monitor 
+18710001 
+Nos 
+1 
+ 29,033.40 
+ 29,033.40 
+1.17 
+Flow Meter 10-100 LPH 1/4" NPT (F) MOC Glass 
+18709010 
+Nos 
+2 
+ 13,646.60 
+ 27,293.20 
+1.18 
+MMI 4.3" Display with I/O card Support 
+18610052 
+Nos 
+1 
+ 80,438.60 
+ 80,438.60 
+1.19 
+Condensate Trap - Ultramat 23 
+28602056 
+Nos 
+2 
+ 19,791.20 
+ 39,582.40 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+PART B: COMMERCIAL TERMS AND CONDITIONS 
+ 
+Price Basis 
+Ex – Works, Goa, India 
+Packing Charges 
+Inclusive 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+GST No 
+30AADCA1647D1ZF 
+HSN CODE 
+90330000 
+Freight Charges 
+Inclusive 
+Insurances 
+Customer A/c 
+Delivery 
+Within 20 weeks from the date of receipt of Purchase Order 
+Offer validity 
+120 days 
+Payment Terms 
+90% payment will be made against complete original dispatch documents through bank. Bank 
+charges shall be to respective account. 
+Dispatch documents are: 
+1) INVOICE 
+2) LR/GR COPY 
+3) PACKING LIST 
+Balance 10% after 30 days of successful completion of ETC work and connectivity to CPCB RSPCB. 
+ 
+Yours faithfully, 
+ 
+For Adage Automation Pvt. Limited 
+
+Samaresh Dey 
+
+Sakshi Bandekar 
+samaresh@adage-automation.com 
+
+sakshi@adage-automation.com 
++91 9769012864 
+
++91 9552520222 
+ADAGE- GOA 
+
+ADAGE-GOA

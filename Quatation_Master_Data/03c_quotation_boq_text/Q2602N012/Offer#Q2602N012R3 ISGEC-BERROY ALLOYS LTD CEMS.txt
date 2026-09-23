@@ -1,0 +1,68 @@
+Quotation Number: Q2602N012R3
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL
+PRICE (INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF SOX,NO,CO & O2 AT
+STACK & CO AT ECO O/L
+ANALYZER MAKE: SIEMENS AG, GERMANY
+ANALYZER MODEL NO.: ULTRAMAT 23
+TAG NO: AT-0703, AT-0704, AT-0706, AT-0702
+With Dual Gas Sampling Probe
+With Auto Probe Cleaning Facility
+With Dual Scavenging Unit
+With Remote Calibration System
+With Sample Handling System
+With Touch Screen Graphic Color Display – 7“
+With Microprocessor Based Analyser
+WITH IP54 PANEL
+With Calibration Gas Cylinders
+ULTRAMAT 23 – 1 No.
+For Sulphur Dioxide (SOX)
+For Nitric Oxide (NO)
+For Carbon Monoxide(CO)
+For Oxygen(O2)
+MAKE: SIEMENS AG, GERMANY
+NOTE: SEQUENTIAL BASED READING SHALL BE CARRIED OUT AT STACK &
+ECO O/L. ONLY CO COMPONENT SHALL BE MEASURED WHEN PROBE
+SWITCHES TO ECO O/L.
+1 SET
+QUOTED
+QUOTED
+2
+DUST MONITORING ANALYSER
+ANALYZER MAKE: SICK, GERMANY
+ANALYZER MODEL NO.: SB-30
+Measurement Principle: Scattered Light Intensity (Backward Scattering)
+OUTPUT: 0/2/4 ... 20 MA
+Automatic Self-Test
+Digital Outputs 3 Relay Contacts For Status Signals
+Power Supply: Voltage 230 Vac
+Power Consumption ≤ 4 W
+Accessories Contains
+Interconnection Cables.
+Flange With Tube For Analyser Mounting.
+Connection Unit For Analyser.
+UTILITY REQUIREMENT: INSTRUMENT AIR FREE FROM OIL, DUST &
+MOISTURE AT 4/6 BAR TO BE PROVIDED BY THE CUSTOMER.
+1 SET
+QUOTED
+QUOTED
+3
+SUPPLY OF POWER & SIGNAL CABLE
+Supply of Power Cable for Probe & Scavenging – 150(60+90) Meters
+Supply of Signal cable for SPM – 90 Meters
+1 LOT
+QUOTED
+QUOTED
+4
+DATA LOGGER
+With Data Logger For connecting the Data to CPCB/SPCB
+Note: Sim Card and related charges/Lan connection for Internet Shall be

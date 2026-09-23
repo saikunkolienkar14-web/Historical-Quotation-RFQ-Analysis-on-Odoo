@@ -1,0 +1,251 @@
+Quotation Number: Q25W10175R7
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+A
+1
+Analyser House with HVAC – 7M X 3M
+Quoted
+Quoted
+1
+1
+3 Stream GC - 102-AT-11101
+Quoted
+Quoted
+2
+1
+3 Stream GC - 102-AT-11102
+Quoted
+Quoted
+3
+1
+4 stream GC - 102-AT-11201
+Quoted
+Quoted
+4
+4
+4 stream Dew point - 102-AT-11202
+Quoted
+Quoted
+5
+1
+4 Stream GC - 102-AT-11301
+Quoted
+Quoted
+6
+1
+3 Stream GC - 102-AT-11401
+Quoted
+Quoted
+6a
+1
+Electrochemical O2 Sensor
+Quoted
+Quoted
+6b
+1
+Electrochemical O2 Sensor
+Quoted
+Quoted
+6c
+1
+Electrochemical O2 Sensor
+Quoted
+Quoted
+7
+4
+4 Stream Dew point - 102-AT-11501
+Quoted
+Quoted
+8
+1
+3 Stream GC - 102-AT-15101
+Quoted
+Quoted
+B
+1
+Analyser House with HVAC – 3M X 3M
+Quoted
+Quoted
+9
+4
+4 Stream Dew point - 102-AT-15201
+Quoted
+Quoted
+Item
+Qty
+Description
+Unit Price
+Total Price
+10
+1
+4 stream GC -102-AT-31401
+Quoted
+Quoted
+11
+4
+4 Stream Dew point - 102-AT-60301
+Quoted
+Quoted
+12
+1
+LEL Detector - 102-AT-91201
+Quoted
+Quoted
+13
+1
+TOC Analyser - 102-AT-91202
+Quoted
+Quoted
+14
+1
+TOC Analyser - 102-AT-10401
+Quoted
+Quoted
+15
+1
+Ph Sensor with transmitter
+Quoted
+Quoted
+16
+1
+Conductivity Sensor with transmitter
+Quoted
+Quoted
+17
+2
+One set of Sensor for Electrochemical O2 & AL2O3
+Moisture to demonstrate functional check during FAT
+Quoted
+Quoted
+18
+1
+Network Hardware
+Quoted
+Quoted
+19
+1
+24 Hours Repeatability test reports for review during
+FAT
+Quoted
+Quoted
+20
+1
+Project Documentation
+Quoted
+Quoted
+21
+1
+FAT at Adage Factory
+Quoted
+Quoted
+22
+1
+Packing, Forwarding & Transportation upto Site
+Quoted
+Quoted
+23
+1
+Supervision of installation & Commissioning & SAT
+Quoted
+Quoted
+Item
+Qty
+Description
+Unit Price
+Total Price
+Per Diem prices
+24
+1
+Training at Site (5 days for 5 persons)
+Quoted
+Quoted
+25
+1
+Consumable spares (1 Year Operation)
+Quoted
+Quoted
+26
+1
+Special tools & Tackles
+Incl
+Incl
+27
+1
+Startup & Commissioning spares
+Quoted
+Quoted
+28
+1
+Mandatory Spares
+Quoted
+Quoted
+TOTAL PACKAGE PRICE
+Quoted
+29
+1
+2 Years O&M spares (Optional)
+72,00,000
+72,00,000
+30
+1
+PWCAMC for 3 Years
+4,00,00,000
+4,00,00,000
+31
+1
+Man Hour service rate for 5 Years for GC
+(Starting from Jan 2026 and 10% increment on previous
+prices every succeding year)
+6,500
+6,500
+OPTIONAL PRICES
+Sr No
+Description
+Qty
+Price
+1
+Sample probe-fixed type
+1 No
+2,50,000/-
+2
+Retractable probe-with hydraulic mechanism
+1 No
+14,00,000/-
+3
+Retractable probe-with manual
+1 No
+3,50,000/-
+4
+1⁄4’’ Sulfinert tube
+Per Meter
+12,000/-
+5
+1⁄4’’ EP tube
+Per Meter
+10,000/-
+6
+1⁄4’’ HTT tube
+Per Meter
+6,000/-
+7
+Training at site for 10-days for 5-persons
+1 Lot
+2,00,000/-
+8
+Training at vendor's factory for 10 Man Days in Three Batches.
+1 Lot
+2,00,000/-
+9
+GE Moisture sensor with individual single channel Controller (Exd)
+1 No
+To be updated
+in commercial
+offer
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. All Analyser Vents are connected to common ATM vent header near the shelter through Flame
+arrester & Fastloop return shall be connected to Low pressure flare/Retrun header. For field cabinets
+return tie in/ header to be considered by Adage.

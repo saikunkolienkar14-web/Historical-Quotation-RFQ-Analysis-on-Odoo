@@ -1,0 +1,107 @@
+Quotation Number: Q2506E068
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+OPTION-1- UNION CWD 2005
+1
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER-BF GAS
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: upto 600-1120 Kcal/Nm3
+•
+Wobbe index: 600-1120 Kcal/Nm3
+Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve, Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific
+Value, Wobbe-Index, Specific Density
+•
+Kind of Gas: BF Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value,
+Wobbe Index and Specific gravity resp.
+1 Set
+QUOTED
+QUOTED
+OPTION-2- EXTRACTIVE TDLS BASED MEASUREMENT
+2
+EXTRACTIVE LASER BASED ANALYSER FOR MEASUREMENT OF
+CO & H2
+MAKE: AIROPTIC
+MODEL: GAS EYE
+Operating principle: TDLAS
+Component to be measured: CO & H2
+Mounting location: Extractive type
+With Sample handling system consisting of:
+•
+With Heated Flow Through Cell for Mounting of
+Laser Analyzer
+•
+With Aspirator Pump System for Extraction and
+Drawing of Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+1 Set
+QUOTED
+QUOTED
+3
+PORTA CABIN
+• MOC: CRCA
+• With Split Ac-1 No
+• With single door and lock with lights
+• Dimensions: 2.5 M (L) X 2.5 M (W) X 2.7 M (H)
+• Completely wired and tubed to house the gas analyzer
+system.
+1 Set
+QUOTED
+QUOTED
+4
+PREFABRICATED HEAT TRACED TUBE:
+Size: 1⁄2”
+MOC: SS
+Power Supply: 230 VAC
+@QUOTED PER METER
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/
+AC II Train Fare To Be Arranged by Adage)
+@QUOTED PER MANDAY

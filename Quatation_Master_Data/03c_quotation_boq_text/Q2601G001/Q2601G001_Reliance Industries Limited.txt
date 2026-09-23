@@ -1,0 +1,108 @@
+Quotation Number: Q2601G001
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+OPTION 1
+1
+GAS ANALYSIS SYSTEM FOR THE MEASUREMENT OF SO2
+MODEL: GASEYE CROSS DUCT
+MAKE: AIROPTICS
+Measuring ranges: SO2 0-500 mg/Nm3
+Accuracy 2 % of measured value or LOD.
+Precision 1 % of measured value or LOD.
+LOD (Limit of detection) SO2 < 14mg/Nm3*m @ STP (CD 61.01.01)
+1 No.
+63,00,000
+63,00,000
+2
+ATEX Zone 1 Ex-px incl. purge controller, manifold and vent
+Ex II 1/2G Ex pxb op is IIC T6 Ga/Gb
+Ex II 1/2D Ex pxb op is IIIC T85°C Da/Db
+Certificate No. KDB 20ATEX0003X
+3
+Modbus RTU (RS-485)
+4
+Display, MMI, transmitter side
+5
+GasEye Webserver logger via TCP/IP
+6
+Customer cable- 5 m
+7
+Loop cable standard- 5 meter
+8
+Cable glands: Stainless SteeL
+9
+Alignment kit for GasEye
+10
+Heated Flowcell and Other accessories for extractive assembly
+OPTION 2
+1
+OMA-300 ATEX/IECEX EX P CERTIFIED PROCESS ANALYZER
+MODEL: OMA-300-ATEX-IECEx-EXP
+MAKE: APPLIED ANALYTICS
+• Sample to be supplied at 2 bar(g)
+• Analyzer to be calibrated in the field
+Measurements:
+SO2: 0-100 mg/m^3
+Item Customizations:
++Enclosure: Stainless Steel 304 (NEMA 4X)
++O-rings: FFKM
+1 No.
+60,00,000
+60,00,000
+2
+ATEX: II 2 G Ex pxb IIC T4 Gb
+IECEx: Ex pxb IIC T4 Gb
+JPN: Ex pxb IIC T4 Gb
+(A) nova IITM UV-Vis Spectrophotometer
+• Full UV-Vis 200-800 nm spectrum acquisition at ~1nm resolution
+• Pulsed xenon light source with average 5 year lifetime
+(B) 1.8 Meter 600 μm Core Size Fiber Optic Cable
+(C) Flow Cell – SS316L
+(D) Human Machine Interface [HMI]
+• 8.0'' TFT touch-screen LCD
+(E) ECLIPSETM Runtime Software
+• Displays all active measurements
+• Controls Auto-Zero by automated relay activation sequences
+(F) Solid State Drive
+(G) NEMA 4 Painted Carbon Steel Analyzer Enclosure – Wall Mounted
+(H) Outputs & Communication
+• Up to 3x galvanically isolated 4-20 mA analog outputs
+• 1 digital fault alarm
+• 1 digital input
+• 1 k type ungrounded thermocouple input
+• 1 4-20mA analog input
+• 4x relay outputs
+(I) X-purge
+3
+Flow Cell [Upgrade]
+Product Code: CST-1324
+Item Customizations:
++O-rings: FFKM
+- Collimators - fused silica
+- Viton O-rings
+- 0.375m fiber
+4
+Sample Handling System Accessories Like Back Pressure Regulator ,
+Pump Etc
+SECTION 1: SUMMARY OF PRICES- SERVICES
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket/ Ac Ii
+Train Fare To Be Arranged By Customer)
+PER
+DIEM
+@ 45,000 Per Man Day

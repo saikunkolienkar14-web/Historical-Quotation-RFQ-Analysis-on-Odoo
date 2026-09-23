@@ -1,0 +1,311 @@
+Quotation Number: SQ2511C080
+BOQ Status: FOUND
+
+Date: 13-11-2025
+Ref: Q25260382-SQ2511C080
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+78309050
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Purging,
+MOC Brass
+2.00
+8,500.00
+17,000.00
+1
+Nos
+78309054
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Pulsating,
+MOC Brass
+2.00
+12,375.00
+24,750.00
+2
+Nos
+78409060
+Solenoid Valve 2/2 Way 1/4” NPT (F)
+230 VAC, NC, 4 MM Orifice, Universal
+MOC SS316
+2.00
+16,950.00
+33,900.00
+3
+Nos
+78409061
+Solenoid Valve 3/2 Way 1/4” NPT (F)
+230 VAC, NC, 2.4 MM, Universal
+Orifice, MOC SS316
+2.00
+17,500.00
+35,000.00
+4
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+32,288.00
+32,288.00
+5
+Nos.
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+1.00
+122,500.00
+122,500.00
+6
+Nos
+1.00
+24,375.00
+24,375.00
+7
+Nos
+18606070
+CPU 1214C,- S7 1200-14 DI 24V DC;
+10 DO RELAY 2A; 2 AI 0 - 10V DC
+1.00
+41,025.00
+41,025.00
+8
+Nos
+18606074
+DIGITAL OUTPUT SM 1222, 16 DO
+RELAY 2A
+1.00
+32,760.00
+32,760.00
+9
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+Date: 13-11-2025
+Ref: Q25260382-SQ2511C080
+Nos
+1.00
+106,250.00
+106,250.00
+10
+Nos
+18611003
+Conductivity Switch Unit For
+Condensate Monitor 24 VDC
+1.00
+17,125.00
+17,125.00
+11
+Nos
+18611011
+Signal Splitter
+1.00
+17,313.00
+17,313.00
+12
+Nos
+5.00
+6,375.00
+31,875.00
+13
+Nos
+18918001
+O'Ring Size : 68mm ODX4mmThick
+(CONDENSATE MONITOR)
+2.00
+438.00
+876.00
+14
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+2.00
+16,875.00
+33,750.00
+15
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+10,438.00
+10,438.00
+16
+Nos
+18920003
+VITON GASKET - OUTER DIA: 50
+MM X INNER DIA: 19 MM X
+THICKNESS: 2MM (BLACK COLOR)
+6.00
+469.00
+2,814.00
+17
+Nos
+18201001
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (Transperent Color)
+MOC Sillicon
+10.00
+275.00
+2,750.00
+18
+Meters
+28602054
+Cartridge Filter
+10.00
+9,375.00
+93,750.00
+19
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+10.00
+3,375.00
+33,750.00
+20
+18610051
+MMI 7"Display with I/O card
+Support
+28708004
+Neoprene Tube For Peristaltic Pump
+Date: 13-11-2025
+Ref: Q25260382-SQ2511C080
+Packets
+18902001
+Heat Traced Tube 230 VAC 1/4"
+PTFE", Constant Voltage Type
+25.00
+3,875.00
+96,875.00
+21
+Meters
+28210003
+Male Connector 1/8"" (G Thread) X 6
+mm OD - PVDF
+6.00
+575.00
+3,450.00
+22
+Nos
+28210001
+Male Connector 1/4 " Male (G)
+Thread X 6 mm OD with insert,
+Material : PVDF
+6.00
+810.00
+4,860.00
+23
+Nos
+18401006
+Male Connector 1/4" BSPT (M) X 1/4"
+OD- SS316
+6.00
+813.00
+4,878.00
+24
+Nos
+28602001
+Analyser Fuse 230 VAC -0.63A
+1.00
+1,377.00
+1,377.00
+25
+Nos
+28602006
+Pressure Switch - Sample Gas,
+Ultramat 23
+1.00
+53,506.00
+53,506.00
+26
+Nos
+28602024
+Flow meter - Ultramat 23
+1.00
+39,570.00
+39,570.00
+27
+Nos
+28602056
+Condensate Trap - Ultramat 23
+1.00
+15,828.00
+15,828.00
+28
+Nos
+28602037
+Keypad - Ultramat 23
+1.00
+83,441.00
+83,441.00
+29
+Nos
+28602019
+Motherboard for Ultramat 23
+1.00
+500,130.00
+500,130.00
+30
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+110,452.00
+110,452.00
+31
+Nos
+28602016
+Plate with Threaded Nuts & bolts-
+Dual Component -Ultramat 23
+1.00
+106,839.00
+106,839.00
+32
+Date: 13-11-2025
+Ref: Q25260382-SQ2511C080
+Nos
+28602093
+Chopper 2 IR Channels Ultramat 23
+1.00
+56,947.00
+56,947.00
+33
+Nos
+28602002
+LCD Display Ultramat 23
+1.00
+188,512.00
+188,512.00
+34
+Nos
+28602058
+Detector, NO, Channel 2
+1.00
+362,839.00
+362,839.00
+35
+Nos
+28602040
+Detector SO2- U23(channel 1)
+1.00
+511,828.00
+511,828.00
+36
+Nos
+28602078
+Paramagn. Measuring cell (Dumbbell)
+Ultramat 23
+1.00
+456,990.00
+456,990.00
+37
+Nos
+Date: 13-11-2025
+Ref: Q25260382-SQ2511C080

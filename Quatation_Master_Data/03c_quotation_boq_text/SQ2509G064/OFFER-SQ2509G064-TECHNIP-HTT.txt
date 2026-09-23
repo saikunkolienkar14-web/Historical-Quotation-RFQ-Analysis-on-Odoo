@@ -1,0 +1,29 @@
+Quotation Number: SQ2509G064
+BOQ Status: FOUND
+
+Date: 18-09-2025
+Ref: Q25260314-SQ2509G064
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+78902008
+Heat Traced Tube Prefabricated 230
+VAC Tube 3/8" SS316
+300.00
+7,080.00
+2,124,000.00
+1
+Tube Wall Thickness: 0.035"
+No of Tube: 1
+Heat Tracer: Self Regulating Tracer
+Operating Voltage: 230 VAC
+Insulation: Non-hygroscopic Fibre
+glass
+Outer Jacket: ATP
+Meters

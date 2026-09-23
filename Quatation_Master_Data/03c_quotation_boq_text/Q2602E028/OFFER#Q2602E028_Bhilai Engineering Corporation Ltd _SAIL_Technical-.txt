@@ -1,0 +1,62 @@
+Quotation Number: Q2602E028
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+CALORIFIC VALUE ANALYSER
+Service –I) CO gas
+II) Mixed gas
+Model: CWD
+Make: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring range:
+For Coke oven Gas
+• Calorific value:3500-5000 Kcal/m3
+For Mixed gas
+• Calorific value:750-1500 Kcal/m3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for
+handling Impurities such as Tar, Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump,
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack, MOC: CRCA.
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value
+•
+Kind of Gas: I) COG II) Mixed Gas
+•
+Power supply 230VAC, 50 Hz
+Output:
+•
+Individual 4-20 mA analog output for Calorific value
+•
+Digital Outputs
+2 SETS
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS,Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+@ QUOTED PER METER
+3
+Service charges for supervision of installation & commissioning
+Lodging and boarding to be arranged by the customer. To and Fro
+charges to be claimed at actuals (ACII TIER/flight).
+@QUOTED PER MAN DAY

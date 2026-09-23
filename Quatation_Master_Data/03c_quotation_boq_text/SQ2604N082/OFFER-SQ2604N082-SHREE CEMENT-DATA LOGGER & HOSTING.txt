@@ -1,0 +1,40 @@
+Quotation Number: SQ2604N082
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Data Logger System:
+Data logger integrated within a wall-mounted junction box,
+including the following components:
+•
+Junction Box (for mounting arrangement)
+•
+5-Port Unmanaged Switch
+•
+RS-485 Splitter
+•
+4–20 mA Splitter
+•
+One Year Data Transmission charge is included in the
+above price.
+(Remote Support for Integration Included)
+4 Sets
+4,40,000.00
+17,60,000.00
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+•
+RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal cables for
+the same shall be in customer scope.
+•
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+•
+Internet for the data logger shall be made available at site by customer preferably broadband connection. Internet
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS)
+•
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

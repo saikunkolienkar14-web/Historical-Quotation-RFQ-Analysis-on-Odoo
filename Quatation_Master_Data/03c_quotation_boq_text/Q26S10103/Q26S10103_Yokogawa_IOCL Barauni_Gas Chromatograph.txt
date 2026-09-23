@@ -1,0 +1,87 @@
+Quotation Number: Q26S10103
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+1
+Gas Chromatograph
+Make: Valmet
+1,57,75,000
+1,57,75,000
+1.1
+1 Set
+GC Documentation
+Inclusive
+Inclusive
+1.2
+1 lot
+Consumables and commissioning spares
+(set of fuses)
+3,800
+3,800
+1.3
+1 lot
+2 years O&M spares
+Not quoted
+Not quoted
+1.4
+1 day
+FAT at OEM Works with 8 Hours repeatability test
+3,00,000
+3,00,000
+1.5
+Per
+diem
+8 hours Repeatability Test during FAT at YIL
+Bangalore Works
+(For this, cylinders are in YIL scope. We will depute
+service engineer to carry out this test on per diem
+basis)
+50,000
+50,000
+SECTION 3: TECHNICAL LITERATURE
+1
+Gas Chromatograph for Arsine & Phosphine measurement
+Tag No: 462-AT-1701
+Make: Valmet
+Model: Maxum II
+Service: Propylene Product Analyzer
+Power supply: 110 VAC, 50 Hz
+Enclosure protection: IP54
+Mounting Type: Wall mount
+Utility Requirement:
+-
+110VAC, 50 Hz UPS power supply
+-
+Instrument air
+Analyzer Outputs
+-
+4-20mA Analog output
+-
+RS485 Serial output
+Note: GC is general purpose GC, and same to be mounted
+inside cabinet with purge controller by YIL.
+1 No.
+Quoted
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from the date of PO receipt.
+Offer validity
+30 days.

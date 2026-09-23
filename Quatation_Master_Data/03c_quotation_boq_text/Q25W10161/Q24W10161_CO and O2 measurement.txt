@@ -1,0 +1,108 @@
+Quotation Number: Q24W10161
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+_
+CO and O2 Analyser system
+Please Refer Section 2 for
+Technical literature and compete
+offering
+1 Set
+38,00,000/-
+38,00,000/-
+2
+_
+Mandatory Spares
+• Main PCB for Analyser
+• Display Board for Analyser
+• IR Source Assembly
+• Diaphragm for Sample
+Pump
+1 Set
+10,00,000/-
+10,00,000/-
+3
+_
+Installation and commissioning
+services for Analyzer
+Permanday
+45,000/-
+45,000/-
+SECTION 2: TECHNICAL LITERATURE
+Sr. No
+Item Description
+Qty.
+PRICE
+1
+CO and O2 Analyser
+Service: CO and O2 Analyser
+MODEL: Ultramat 23
+MAKE: Siemens
+Measuring range CO : 0-2000ppm
+Measuring range Oxygen : 0-10%
+Hazardous Area Classification: Safe
+Mounting Location: Inside Field panel assembly with Vortex Air
+Cooling Arrangement
+Process Conditions stream.
+-
+Supply Pressure (Design): Not Specified
+-
+Temperature (Design): Not Specified
+Sample returns to Atmospheric Vent
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS485 Modbus Output
+Utility Required:
+-
+110 VAC, 50Hz UPS Power supply.
+1 Set
+Quoted
+1⁄4” OD SS316 HTT Tube
+50 Mtrs
+Quoted
+Sample Probe Assembly
+•
+With ceramic filter.
+•
+Probe MOC: SS316
+•
+Length : 1000mm
+1 No
+Quoted
+SSHS system.
+-
+With isolation ball valves , Non return valve, inline filter, Metal
+tube rotameters (Sample), air filter regulator etc.
+-
+With Sample Pump
+-
+With Gas cooler assembly
+-
+With three way ball valve for validation
+-
+With flame arrester assembly sample inlet and outlet
+-
+SHS shall be completely tubed with SS tubes and SS fittings and
+mounted inside Analyzer cabinet
+1 No.
+Quoted
+Analyser Cabinet Assembly
+-
+Above analyser and SSHS system shall be mounted inside
+analyser cabinet assembly
+-
+Protection Class : IP54
+-
+With Vortex Cooler arrangement
+Make : Ace Flow
+-
+With utility headers
+1 No.
+Quoted

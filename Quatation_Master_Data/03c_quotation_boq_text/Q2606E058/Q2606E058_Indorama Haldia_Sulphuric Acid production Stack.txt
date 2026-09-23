@@ -1,0 +1,63 @@
+Quotation Number: Q2606E058
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF SO2 AT
+SULPHURIC ACID PRODUCTION STACK
+Application: Sulphuric Acid Production Stack
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: SO2
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type mounted in a temperature
+controlled room (Between 5 to 45 Deg C)
+Process Conditions at Sample Inlet
+•
+Temperature: 70 Degree C
+•
+Pressure: 0.5 Kg/cm2
+Measuring Ranges:
+•
+SO2: 0 to 400/2000 mg/m3
+With Secondary sample handling system consisting of:
+•
+With Sample Gas Probe
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID &
+BOM)
+1 SET
+62,00,000/-
+62,00,000/-
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+25 MTRS
+3500/-
+87,500/-
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC
+II Train Fare to be arranged by Customer)
+PER DIEM
+@30,000/- PER DIEM

@@ -1,0 +1,80 @@
+Quotation Number: Q2511H063
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+SO2 ANALYZER
+•
+Based on UV – Fluorescence Principle.
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: 0-1 ppm / 0-10 ppm
+•
+Communication: Ethernet, USB, 4-20 mA, RS-232
+•
+Lower Detection Limit: <0.4 ppb
+•
+Make: ENVEA, Model: AF22e
+1 NO
+10,70,000
+10,70,000
+2
+Oxide of Nitrogen (NO - NO2 – NOX) Analyzer
+•
+Based on Chemiluminescence principle
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: 0-1 ppm / 0-10 ppm
+•
+Lower Detection Limit: <0.2 ppb
+•
+Communication: Ethernet, USB, 4-20 mA, RS-232
+•
+Make: ENVEA, Model: AC32e
+1 NO
+11,50,000
+11,50,000
+3
+CO Analyzer
+•
+Based on CO detection by absorption of IR
+•
+230 V, 50 Hz. power supply.
+•
+Measuring Range: Auto ranging 0-50 ppm
+•
+Lower Detection Limit: 0.05 ppm
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, Model: CO12e
+1 NO
+13,00,000
+13,00,000
+4
+GAS SAMPLE DILUTION PROBE
+1 NO
+9,70,000
+9,70,000
+5
+CRITICAL ORIFICE:500ML
+1 NO
+90,000
+90,000
+6
+UMBILICAL CORD
+@4900 PER METER
+7
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and fro
+charges to be claimed at actuals (ACII tier/flight)
+@30000 PER MAN DAY

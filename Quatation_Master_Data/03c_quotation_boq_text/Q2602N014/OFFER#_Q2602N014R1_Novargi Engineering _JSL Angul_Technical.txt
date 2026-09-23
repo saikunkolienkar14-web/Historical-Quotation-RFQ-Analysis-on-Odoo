@@ -1,0 +1,33 @@
+Quotation Number: Q2602N014R1
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR O2 MEASUREMENT
+Make: Siemens
+Model: SITRANS TDL
+Component Measured: O2
+Mounting Location: Shall be in-situ mounted
+Area Classification: ZONE 2, IIC, T3
+Process Conditions :
+• Pressure (Minimum / Maximum): -50/50 mmwc (g)
+• Temperature (Minimum / Maximum): 1015 Deg C
+Measuring Range:
+• O2: 0-25 %
+Analyser Outputs:
+• Digital Outputs
+• 4-20mA Analog Outputs
+• RS485
+2 Sets
+29,17,000
+58,34,000
+2
+Supervision of Installation & Commissioning Charges
+(Boarding – Lodging – Local Conveyance, To And FRO Air Ticket/ Ac II
+Train Fare To Be Arranged By Customer)
+@ 30,000 PER MAN DAY

@@ -1,0 +1,59 @@
+Quotation Number: Q2510G066
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF O2
+TAG NO: AI-122003
+SERVICE: TO MEASURE TRACE O2 IN N2 STREAM
+AREA CLASSIFICATION: SAFE
+OPERATING PRINCIPLE: ZIRCONIA
+MAKE: SIEMENS
+MODEL: OXYMAT 64
+PROCESS CONDITION:
+TEMPERATURE: 13 DEG
+PRESSURE: 6.3 KG/CM2
+MEASURING RANGE: 0-10 PPM
+WITH SAMPLING SYSTEM
+FORWARD PRESSURE REDUCER, BALL VALVE, ROTA
+METER
+WITH RACK MOUNTING
+ANALYZER OUTPUT: 4-20 mA
+UTILITY REQUIREMENT:
+110 VAC, 50 HZ UPS POWER SUPPLY
+1
+Set
+QUOTED
+QUOTED
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mand
+ays
+QUOTED
+QUOTED
+Note :
+1. Calibration cylinders is in scope of customer.
+2. Power, Signal and Communication will be in scope of customer.
+3. 1⁄4” SS tubing for Sample gas transportation will be in scope of customer.
+4. Pure oxygen cylinder for reference required same is in customer.
+5. We have quoted above system based on zero moisture & dust presence in sample gas.
+6. Primary sample handling system is in customer scope.
+SECTION 2: NOTE & SCOPE
+• External Cabling, Tubing, And All Associated Erection Hardware’s Shall Be In Customer’s
+Scope
+• SS tubing from scavenging panel, analyser panel to vent and panel to cylinder is in customer
+scope.
+• The analyzer offered are with IP20 which is mounted inside Cabinet with IP65 Weatherproof
+protection.
+• Instrument air/ Pure oxygen for reference is required same is in Customer’s Scope
+Power Supply Utilities required are:
+Power Supply: 110/230 VAC, 50 Hz (Non Ups)
+Power Supply: 230 VAC, 50 Hz (Ups)

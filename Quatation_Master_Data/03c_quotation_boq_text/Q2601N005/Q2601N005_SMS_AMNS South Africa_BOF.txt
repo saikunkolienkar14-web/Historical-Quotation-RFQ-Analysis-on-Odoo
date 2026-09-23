@@ -1,0 +1,154 @@
+Quotation Number: Q2601N005
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR DRY GAS APPLICATION
+Service: Gas Cleaning Plant
+Application: Dry Gas (BOF Process)
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: CO2/CO/O2
+Model 2: CALOMAT 6E
+Component to be measured: H2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 900/1200 Deg C
+•
+Pressure: -5 to +5 mbar
+Measuring Ranges:
+•
+CO2: 0-40%
+•
+CO: 0-100%
+•
+O2: 0-25%
+•
+H2: 0-10%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System.
+•
+With Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3
+Nos
+QUOTED
+QUOTED
+2
+LASER GAS ANALYSER SYSTEM FOR O2 MEASUREMENT
+Service: After ID Fan
+Make: Siemens
+Model: SITRANS SL
+Component to be measured: O2
+Area Classification: Safe
+Mounting Location: In-situ Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 170/200 Deg C
+•
+Pressure: 45 to 75 mbar
+Laser Gas Analyser for Measurement of O2:
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+O2: 0-30%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3
+Nos
+QUOTED
+QUOTED
+2.1
+LASER GAS ANALYSER SYSTEM FOR CO/CO2 MEASUREMENT-
+OPTIONAL
+Service: After ID Fan
+Make: Airoptic
+Model: Gas Eye
+Component to be measured: CO/CO2
+Area Classification: Safe
+Mounting Location: In-situ Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 170/200 Deg C
+•
+Pressure: 45 to 75 mbar
+Laser Gas Analyser for Measurement of CO/CO2:
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+CO: 0-100%
+•
+CO2: 0-100%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3
+Nos
+QUOTED
+QUOTED
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopad
+PER
+MTR
+QUOTED
+QUOTED
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II Train
+Fare to Be Arranged by Customer)
+Per
+Diem
+QUOTED PER DIEM

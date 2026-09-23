@@ -1,0 +1,389 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+Dear Sir, 
+
+We thank you for your intrest in ADAGE AUTOMATION Products and with reference to the same please find enclosed 
+our quotation for Design, engineering, manufacture and Supply of analyzer system which includes analyzers as per 
+your requirement. 
+
+The summary of system as per below sections. 
+ 
+SECTION-1: OFFERING BASIS 
+SECTION-2: SUMMARY OF PRICES 
+SECTION-3: SCOPE DEFINITION 
+
+ADAGE QUOTATION NO: 
+ 
+Q25W10143 
+ 
+DATED: 26.02.2025 
+ 
+PROJECT TITLE: 
+ 
+CEMS Analyser HCl and Dust Analyser package Anhydrous HCl and PVS,EVS 
+scrubber package 
+ 
+INQUIRY DETAILS: 
+ 
+Shared via E-mail Dated: 03.02.2025 
+ 
+CUSTOMER: 
+Mr. Sujit Gharat, 
+Worley India 
+ 
+END USER: 
+
+Reliance Industries Limited, 
+Jamnagar, Gujarat 
+
+For any doubts/clarifications required, please do not hesitate to contact ADAGE team as per below matrix. 
+ 
+ ADAGE 
+HO-Goa 
+ 
+Mr. Damu Shelke/Mr. Sagnik Gupta 
+Mob no: 9823840039/9619410222 
+Mr. Vishnu Birmole 
+Mob no: 9987538932 
+ EAST 
+ 
+Mr. Mukesh Vishwakarma / Mr. Mrinmoy 
+Mob no: 9831086433/ 9830810025 
+Mr. Manas Das / Mr. A.K.Das 
+Mob no: 9831086433/ 9830810025 
+ WEST 
+ 
+Mr.Sameer Ghorpade / Mr. Yogesh 
+Mob no: 8888200099/ 9820288221 
+ 
+ SBU HEAD 
+ 
+Mr. Nitin Jain 
+Mob no: 9374215140 
+ NORTH 
+ 
+Mr. Lokesh Bhandari 
+Mob no: 9999085693 
+ SOUTH 
+Mr. G. N. Rao 
+Mob no: 9985379936 
+Mr. Pravin S 
+Mob no:9629393373 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+This is in context to your requirement of for Gas analysis System & We Thank you for the same. 
+ 
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical 
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring & 
+Safety applications in the industrial field of Oil & Gas, Petrochemicals, Fertilizers, Chemicals, Steel, 
+Cement, Power, etc 
+ 
+We have 12 Offices across India, 2 in UAE & 1 in USA and have 250+ Specialist Engineers and a modern 
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have 
+already installed more than 5000 Analyser Systems in India and at present moment enjoy a leadership 
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain. We are also the 
+largest supplier and service provider of Gas Analytical Systems from India to over 40 countries in Europe, 
+Africa, Middle East, Far East and South America. 
+ 
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint 
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our 
+State of the art factory with its highly sophisticated infrastructure is second to none in India. 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+SECTION 1 : OFFERING BASIS 
+
+1. The packages consists of the following analysers as per table below:- 
+ 
+S.No. Plant Name 
+Type of Analyser 
+Qty 
+Area 
+1. 
+PVS Scrubber 
+HCl Analyser 
+2Nos. 
+Zone-2 IIC T4 
+2. 
+EVS Scrubber 
+HCl Analyser 
+1No. 
+Zone-2 IIC T4 
+3. 
+PVS Scrubber 
+Dust Analyser 
+2Nos. 
+Zone-2 IIC T4 
+4. 
+EVS Scrubber 
+Dust Analyser 
+1No. 
+Zone-2 IIC T4 
+5. 
+Anhydrous HCl 
+HCl Analyser 
+1No. 
+Zone-2 IIC T4 
+ 
+2. HCl Analyser 
+a. Make: Siemens, Model: LDS6 (In-Situ) 
+b. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for 
+each measuring component. This also has digital outputs for customer configuration. 
+ 
+3. Dust Analyser 
+a. Make: Durag, Model: DR320 
+b. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for 
+each measuring component. This also has digital outputs for customer configuration. 
+
+4. The HCl analyser Model LDS6 is configurable to measure upto 3 points. 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 2: SUMMARY OF PRICES 
+ 
+S.No. 
+Description 
+Qty 
+Unit Price 
+Price 
+1 
+HCL ANALYSER 
+Plant Name : PVS and EVS scrubber stack 
+Make: Siemens 
+Model : LDS 6 
+Measurement Component : HCl 
+With CD6 Sensor Pair 
+With common central unit / transmitter unit for 3 Sets of sensor 
+receiver unit 
+With Hybrid cable – As required 
+With Loop cable – As required 
+Area Classification: Zone 2 IIC T4 
+ 
+Note : 
+1. Central unit/transmitter unit shall be mounted inside 
+purged controlled cabinet at nearest location suitable 
+for Zone-2 IIC 
+2. 1 Sets control unit + 3 sets sender receiver 
+3. Please refer schematic drawing 
+1 Set 
+QUOTED 
+QUOTED 
+2. 
+DUST ANALYSER 
+Plant Name : PVS and EVS scrubber stack Dedusting 
+Make: Durag 
+Model: DR320 
+Area Classification: Zone 2 IIC T4 
+3 Sets 
+QUOTED 
+QUOTED 
+3 
+HCL ANALYSER 
+Plant Name : Anhydrous HCl 
+Make: Siemens 
+Model : LDS 6 
+Measurement Component : HCl 
+With CD6 Sensor Pair 
+With central unit / transmitter unit for 1 Set of sensor receiver 
+unit 
+With Hybrid cable – As required 
+With Loop cable – As required 
+Area Classification: Zone 2 IIC T4 
+ 
+Note : 
+1. Central unit/transmitter unit shall be mounted inside 
+purged controlled cabinet at nearest location suitable 
+for Zone-2 IIC 
+2. 1 Sets control unit + 1 set sender receiver 
+3. Please refer schematic drawing 
+ 
+1 Set 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+4 
+Start-up and Commissioning spares 
+(irrespective of any list, the required spares will be 
+considered and supplied by Adage) 
+1 Lot 
+QUOTED 
+QUOTED 
+5 
+Mandatory Spares 
+(applicable spares as per MR are included) 
+1 Lot 
+QUOTED 
+QUOTED 
+6 
+Project Documentation 
+1 Lot 
+QUOTED 
+QUOTED 
+7 
+FAT at Adage Factory 
+1 Lot 
+QUOTED 
+QUOTED 
+8 
+Packing, forwarding & transportation up to Site 
+charges 
+1 Lot 
+QUOTED 
+QUOTED 
+9 
+Supervision of installation & commissioning 
+Per Diem 
+QUOTED 
+QUOTED 
+10 
+2 years operational spares 
+1 Lot 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+SECTION 3: SCOPE DEFINITION 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of 
+complete analyzer system for the following analyzers as per MR. 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyser system 
+• 
+Supply of spares and consumables as per MR requirements 
+• 
+Training at site as per MR requirements 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation of Analyz
+ers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated Electrical traced 
+tubes, bare tubes, pipe, tube fittings between sample take off and analyzer 
+shelter & sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication cables/field 
+tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery limit near each Analyzer Shelter in field. 
+ 
+ For Adage Automation Pvt. Limited 
+
+Mr. Himanshu Kapoor 
+ 
+himanshu@adage-automation.com 
++91 9460219551 
+
+ADAGE- GOA

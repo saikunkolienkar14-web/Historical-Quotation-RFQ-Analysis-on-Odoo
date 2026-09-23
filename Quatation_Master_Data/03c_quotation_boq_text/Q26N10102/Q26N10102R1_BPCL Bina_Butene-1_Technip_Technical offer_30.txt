@@ -1,0 +1,280 @@
+Quotation Number: Q26N10102R1
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price
+1
+-
+340-AS-001
+Analyser shelter with
+redundant HVAC
+(BUTENE-1 plant)
+1 No
+Quoted
+2
+Recycle Column
+Reflux Drum
+340-AT-
+4501
+Gas chromatograph system
+1 No
+Quoted
+3
+BUTENE-1 Column
+Reflux Drum
+340-AT-
+4701
+Gas chromatograph system
+1 No
+Quoted
+4
+Ethylene
+Purification
+340-AT-
+2001A/B
+Gas chromatograph system
+1 No
+Quoted
+5
+Ethylene
+Purification
+340-AT-
+2002
+Moisture Analyser
+1 No
+Quoted
+6
+Ethylene
+Purification
+340-AT-
+2003
+Moisture Analyser
+1 No
+Quoted
+7
+N Hexane Section
+340-AT-
+5201A/B
+Moisture Analyser
+1 No
+Quoted
+8
+Utility Battery Limit
+340-AT-
+1202
+TOC Analyser
+1 No
+Quoted
+9
+Stabilized
+Condensate
+340-AT-
+6801
+Ph Analyser
+1 No
+Quoted
+10
+Suspect
+Condensate
+340-AT-
+6801
+Conductivity Analyser
+1 No
+Quoted
+11
+-
+-
+GCP Software with safe
+area Laptop
+1 No
+Quoted
+12
+-
+-
+Project Engineering &
+Documentation
+1 Lot
+Quoted
+13
+-
+-
+FAT at Adage Factory
+1 Lot
+Quoted
+14
+-
+-
+Supervision of installation &
+commissioning
+40 days & 4 visits
+40 Days
+Quoted
+15
+-
+-
+Supervision of installation &
+commissioning
+Per Diem
+Quoted
+16
+Lumpsum price for
+supervision for additional 1
+month in 2 visists
+1 Month
+Quoted
+17
+-
+-
+Training at Site
+1 Lot
+Quoted
+1 day
+18
+-
+-
+Commissioning Spares
+1 Lot
+Quoted
+19
+-
+-
+Consumable spares for 1
+year operations
+1 Lot
+Quoted
+20
+-
+-
+Mandatory Spares
+1 Lot
+Quoted
+21
+-
+-
+2 Years O&M spares
+1 Lot
+Quoted
+22
+-
+-
+CAMC for 5 years
+Lumpsum
+Quoted
+OPTIONAL PRICE
+1
+-
+Individual Moisture sensor with common
+controller mounted inside Exd JB
+1 No.
+Op Quoted
+2
+-
+Individual Moisture sensor with integral
+transmitter without Serial RS 485 Output
+1 No.
+Op Quoted
+3
+-
+2 Stream Sequential GC
+1 No
+Op Quoted
+4
+-
+5201A/B Moisture sensor x 2 No
+(individual moisture sensor for each
+stream)
+1 Set
+Op Quoted
+5
+-
+Automatic Hydraulic Retractable Probe,
+Welker
+1 No
+Op Quoted
+6
+-
+Fastloop pump skid (In redundant
+configuration)
+1 No
+Op Quoted
+SECTION 3: TECHNICAL LITERATURE
+A.
+ANALYSER SHELTER – 340-AS-001
+AREA CLASSIFICATION: ZONE 1, IIB+H2 INSIDE HOUSE
+ZONE 2, IIC OUTSIDE HOUSE
+MAKE: ADAGE
+The shelter shall house :
+GC – 340-AT-2001A/B
+GC – 340-AT-4501
+GC – 340-AT-4701
+Analyser Shelter Design & Construction:
+-
+Dimensions- 4 Mtrs X 3 Mtrs X 3 Mtrs , MOC-SS304
+-
+Footprint required shall be 10 meter x 5.5 meter (Considering
+HVAC mounted on single side)
+-
+Construction Ribbed interlock type sandwich construction with
+mineral wool insulation.
+-
+Overhang roof canopy ,MOC: SS304,1.2mm thick 1meter from
+all sides
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+Mineral wool Insulation thickness in mm 80 mm
+-
+Floor Anti-slip & non corrosive aluminium Chequered plates
+-
+Panic bar & auto door closure Provided on each door
+-
+4 x Barometric adjustable louvers with screened aluminium
+-
+4 x Lifting lugs, Top Lift
+-
+Cable tray GI, cable tray with cover
+-
+Cable Entry To Shelter: Through MCT Block.
+-
+Tube Entry To Shelter: Through Gromet.
+-
+Cable Tray: GI trays
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, LM6, Exd
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes, LM6, Exd
+-
+PLC: with redundant power supply & CPU. Communication & IO
+cards are non redundant & Hot swappable
+1 No
+Quoted
+-
+With PLC Software
+-
+PLC Shall be mounted inside Exd JB
+-
+Annunciator panel.
+HVAC Specifications:
+Make: ADAGE
+-
+MOC: SS304
+-
+Redundant HVAC With Automatic Changeover
+-
+Capacity – 5 Tr (Each), with 5 Air changes
+-
+With Common Chemical Filter
+-
+Redundant Blower
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 30 meters
+from the Shelter, MOC: SS304, 2mm thick with SS Wires &
+clamps (to void corrosion)
+-
+All mounting accessories, hardware to install HVAC fresh air

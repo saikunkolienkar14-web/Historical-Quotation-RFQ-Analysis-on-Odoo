@@ -1,0 +1,20 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+=
+1. Review Event Details All Content =
+Name f Price Quantity Extended Price Total Cost
+2. Review and Accept
+Prerequisites 22 Part No:18613002,Proximity Sensor V More.../+| — 6,589.00 INR 2 Each 13,178.00 INR 13,178.00 INR a
+3. Select Lots/Line Items 23 Part No:28209004,Sample Tube,Size 4/6 V More.../+| 500.00 INR 50 Meter 25,000.00 INR 25,000.00 INR
+24 TUBE;SILICON,PART 18201002,ANALYSER V More.../+| 530.00 INR 100 Each 53,000.00 INR 53,000.00 INR
+4. Submit Response
+25 Part No:18201001,Silicon Tube,Size-6/4 V More.../+| 259.00 INR 10 Meter 2,590.00 INR 2,590.00 INR
+26 Part No:18920003,Viton Gasket for Fitr V More...|+| 442.00 INR 5 Each 2,210.00 INR 2,210.00 INR
+vy Event Contents
+27 Part No:18401001,Male Connector 12" V More.../+| 689.00 INR 20 Each 13,780.00 INR 13,780.00 INR
+| All Content 28 Part No:18401006,Male Connector,SS 316 V More.../+| 765.00 INR 20 Each 15,300.00 INR 15,300.00 INR
+1 Pricing 29 Part No:28216001,Viton Tube, Size: 6/4 V More...|+| 1,728.00 INR 10 Meter 17,280.00 INR 17,280.00 INR
+30 Part No:28216004,Viton Tube,Size 5/8 V More.../+| 3,500.00 INR 10 Meter 35,000.00 INR 35,000.00 INR
+2 Commercial Section
+31 Part No:18401001,Male Connector 1/2" v More...|+| 689.00 INR 5 Each 3,445.00 INR 3,445.00 INR

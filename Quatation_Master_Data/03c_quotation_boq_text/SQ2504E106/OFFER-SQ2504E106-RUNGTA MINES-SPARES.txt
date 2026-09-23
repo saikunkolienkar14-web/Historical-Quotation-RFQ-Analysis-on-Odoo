@@ -1,0 +1,48 @@
+Quotation Number: SQ2504E106
+BOQ Status: FOUND
+
+Date: 03-04-2025
+Ref: Q25260005-SQ2504E106
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28519090
+Sample Gas pump P1.1, Voltage:
+230V/50Hz, Pump head: PVDF
+3.00
+37,768.00
+113,304.00
+1
+Nos
+3.00
+23,647.00
+70,941.00
+2
+Nos
+18901001
+Condensate Vessel -150 ml for
+Sample Gas Cooler
+2.00
+532.00
+1,064.00
+3
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+1.00
+16,875.00
+16,875.00
+4
+Nos
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+Date: 03-04-2025
+Ref: Q25260005-SQ2504E106

@@ -1,0 +1,100 @@
+Quotation Number: Q2605N038
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CEMS
+Application: CEMS
+Make: Adage
+Component to be measured: SO2, NO, NO2, HF, HCl, CO, CO2,
+H2O
+Principle: FTIR
+Component to be measured: O2
+Principle: Zirconium oxide principle
+Area Classification: Safe
+Type: Hot Wet System
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 0-150 Deg C
+•
+Pressure: -2.5 kPa
+Measuring Ranges:
+•
+SO2: 0-150 mg/Nm3
+•
+O2:0–25Vol%
+•
+NO:0-400 mg/Nm3, wet
+•
+NO2:0-200 mg/Nm3, wet
+•
+HCl: 0-100 mg/Nm3, wet
+•
+H2O: 0-40Vol%
+•
+CO: 0-200mg/Nm3, wet
+•
+HF: 0-200mg/Nm3, wet
+•
+NH3:0-300mg/Nm3, wet
+•
+CO2: 0-25Vol%
+With Primary sample handling system Consisting of:
+•
+With Single Probe System
+•
+With Blowback Unit
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID &
+BOM)
+2 SETS
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+PER MTR
+QUOTED
+QUOTED
+3
+DUST MONITOR AT OUTLET OF STACK (EXTRACTIVE)
+Make: Adage, Model: ADSPM-1000
+Mounting Type: Extractive
+Measuring Principle: Forward scattering
+Utility requirement: instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer
+2 SETS
+QUOTED
+QUOTED
+4
+FLOW MONITOR, TT & PT
+Make: Adage Model: FLOWCEMS-100
+Mounting Type: In-situ
+Measuring Principle: Pitot Tube Type
+Output: 4-20 mA
+Suitable For Operating Temperature Up to 800 Deg C
+Pressure: -10kpa~+10kpa
+Response Time: < 1 Sec
+Velocity: 0~15m/S 0~40m/S
+Temperature & pressure compensation also provided
+2 SETS
+QUOTED
+QUOTED
+5
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC
+II Train Fare to be arranged by Customer)
+PER DIEM
+QUOTED
+QUOTED

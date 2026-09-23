@@ -1,0 +1,452 @@
+Quotation Number: Q25W10202R1
+BOQ Status: FOUND
+
+SECTION 3 : PRICE SCHEDULE FOR TYPE-A
+Sr. No
+Item Description
+Make
+Quantity
+Unit Price
+Total Price
+1
+3 Sided Shed with accessories
+Adage
+1
+Quoted
+Quoted
+1.A
+Gas Chromatograph
+Valmet
+1
+Quoted
+Quoted
+1.B
+TDLAS Moisture Analyser 5100HD
+(Analyser only)
+Ametek
+1
+Quoted
+Quoted
+1.C
+Oxygen Analyser OXYvisor (Analyser
+only)
+Ametek
+1
+Quoted
+Quoted
+1.D
+Al2O3 Moisture Analyser Hygropro II
+(combined sensor and transmitter)
+GE
+Panametrics
+1
+Quoted
+Quoted
+1.E
+Sample Handling system as per drawing
+(Appendix-1)
+Adage #
+1
+Quoted
+Quoted
+PRICE SCHEDULE FOR TYPE-B
+Sr. No
+Item Description
+Make
+Quantity
+Unit
+Price
+Total
+Price
+1
+Field Rack Assembly with Canopy and
+other accessories
+Adage
+1
+Quoted
+Quoted
+1.A
+Gas Chromatograph will be free issued by
+PRAJ
+ABB
+1
+Free
+Issued
+Free
+Issued
+1.B
+Sample Handling system as per drawing
+(Appendix-2)
+Adage #
+1
+Quoted
+Quoted
+#: Sub components make shall be followed as per appendix 1 and 2 for type A and B respectively.
+SECTION 4 : TECHNICAL DESCRIPTION
+TYPE-A SYSTEM TECHNICAL DESCRIPTION
+S.N.
+Item Description
+Qty.
+Price (INR)
+1.i
+3 SIDED SHED & ACCESSORIES
+Tag no: AH-1
+Make: ADAGE
+Area Classification: Safe
+Shed construction
+•
+Shed Size : 3000MM(L) X 3000MM(W) X 2800MM(H)
+•
+Shed Construction : The Sheds shall be constructed of a
+structural welded frame made of hot dipped galvanized
+carbon steel.
+•
+Roof and side walls : SS304
+•
+Roof Over Hang :3‘ on all sides
+•
+Grounding lugs : 4 grounding lugs shall be provided at all 4
+corners
+•
+Lifting eye hooks : 4 lifting eye hooks
+•
+Floor : 3 Sided Shed will be attached within the modular
+structure and is attached to open grating for additional
+ventilation.(no Floor required)
+•
+Cable tray : FRP cable tray w/cover will be installed around
+the house interior along the ceiling. Separate tray will be
+installed for power, signal and Fiber optic communications.
+•
+With C channel assembly for mounting of SHS
+Panel/Analysers and junction boxes.
+•
+With required armoured signal/power cables for
+interconnection purpose.
+•
+Sturdy Chain arrangement to kept cylinder adjacent to 3 Side
+Shed wall
+•
+With Cylinder autochange over rack and pressure transmitter
+unit to house carrier gas cylinders
+1 No
+Quoted
+1.ii
+POWER JUNCTION BOX FOR UPS 120VAC FOR ANALYSERS,
+SWITCHES, HPR ETC.
+•
+MOC/Type : SS
+•
+Protection Class : NEMA4X
+•
+Area Classification : Suitable for Safe Area
+•
+Accessories : with terminal block assembly and accessories for
+power connection of analysers and switch having 20% spare
+1 No.
+Quoted
+connections.
+•
+With cable glands-5Nos.
+•
+With plugs/breathers
+1.iii
+JUNCTION BOX FOR ANALOGUE AND DIGITAL SIGNALS
+•
+MOC/Type : SS
+•
+Protection Class : NEMA4X
+•
+Area Classification : Suitable for Safe Area
+•
+Accessories : with terminal block assembly and accessories for
+analogue, digital /alarms signals
+•
+With cable glands-5Nos.
+•
+With plugs/breathers
+3 Nos.
+Quoted
+1.iv
+ON OFF SWITCH
+•
+For Local power disconnect for Analyzers,Tube Lights, HTT, cabinet
+heaters and analysers.
+•
+Installation: Within easy reach of the electrical device.
+•
+Area Classification : Suitable for Safe Area
+6 Nos.
+Quoted
+1.v
+120V Receptacle
+•
+Rating: 20 Amps at 120VAC.
+•
+Type: Dead-front circuit-breaking receptacle.
+•
+Installation: Inside or Outside the House.
+•
+Area Classification : Suitable for Safe Area
+1 No.
+Quoted
+1.vi
+Interior/exterior LED Lights
+•
+Type: 36” LED
+•
+Wattage : 36watts X 1Tube
+•
+Area Classification : Suitable for Safe Area
+4 Nos.
+Quoted
+1.vii
+1" 316SS Instrument Air Header – 1No.
+•
+Size, Schedule: 1” Schedule 40 Pipe
+•
+Instrument air header with dual filtration with bypass valves will
+be included at the inlet to the air header. 1" 150" RF flange
+•
+With 100mm dial size pressure indicator
+•
+Valves: Branch connections to have 1/4" Ball Valves provided
+for each user.
+•
+Taps: taps, with valves, provided for future use. All unused taps
+to be plugged.
+1" 316SS Atm. Vent Header – 1No.
+•
+Size, Schedule: 1” Schedule 40 Pipe with Flame arrestor
+assembly
+•
+All unused taps to be plugged.
+1" 316SS Single connection for drain header to sewer – 1No.
+1 Lot
+Quoted
+1.A
+Gas Chromatograph
+Make : Valmet
+Model: Maxum ED II (Modular)
+Power Supply : 120 VAC
+Area Clasiification : Class I Div 2 Groups B, C,D, & T3
+1 No
+Quoted
+1.B
+Oxygen Analyser
+Make : Ametek Barben
+Model: OXYvisor
+Power Supply : 24VDC
+Area Clasiification : Class I Div 2 Groups B, C,D, & T3
+1 No
+Quoted
+1.C
+TDLAS Moisture Analyser
+Make : Ametek USA
+Model: 5100HD
+Power Supply : 120 VAC
+Area Clasiification : Class I Div 2 Groups B, C,D, & T3
+1 No
+Quoted
+1.D
+AL2O3 Moisture Analyser
+Make : GE Panmetrics
+Model: Hygropro II
+Power Supply : 24VDC
+Area Clasiification : Class I Div 2 Groups B, C,D, & T3
+1 No
+Quoted
+1.E
+Sample Probe Assembly
+Genie 761 Direct Drive Probe,~24" probe with 1" NPT mount, RGD
+HNBR seals, Dursan treated
+1 No
+Quoted
+1.F
+Sample Tube 1/16“ OD Sulfinert treated With accessories
+Make : Thermon
+27 FEET
+Quoted
+1.G
+Analyser Sample Conditioning System enclosure
+•
+Comprising of the following
+•
+1⁄4“ SS316 Ball valve,
+•
+1⁄4“ OD SS316 Fine Filter assembly,
+•
+Pressure Gauge 63mm Dial Size with SS316 Manifold
+Assembly
+•
+SS Bypass Filter assembly
+Shall be completely tubed and mounted inside suitable sized SS
+enclosure mounted adjacent to 3 sided Shed wall.
+Please Refer Appendix-1
+1 No
+Quoted
+TYPE-B SYSTEM TECHNICAL DESCRIPTION
+S.N.
+Item Description
+Qty.
+Price (INR)
+1.i
+MS Painted Rack with Canopy
+Tag no: Field Rack
+Make: ADAGE
+Area Classification: Safe
+Shed construction
+•
+Rack Size : 1000MM(W) X 2100MM(H)
+•
+Shed Construction : MS painted structure
+•
+Mounting Plate : SS304
+•
+Grounding lugs : 4 grounding lugs shall be provided at all 4
+corners
+•
+Lifting eye hooks : 2 lifting eye hooks
+•
+With C channel assembly for mounting of SHS
+Panel/Analysers and junction boxes.
+•
+With required armoured signal/power cables for
+interconnection purpose.
+•
+Sturdy Chain arrangement to kept cylinder adjacent to 3 Side
+Shed wall
+•
+With Cylinder autochange over rack and pressure transmitter
+unit to house carrier gas cylinders
+1 No
+Quoted
+1.ii
+POWER JUNCTION BOX FOR UPS 120VAC FOR ANALYSERS,
+SWITCHES,
+•
+MOC/Type : SS
+•
+Protection Class : NEMA4X
+•
+Area Classification : Suitable for Safe Area
+•
+Accessories : with terminal block assembly and accessories for
+power connection of analysers and switch having 20% spare
+connections.
+•
+With cable glands-5Nos.
+•
+With plugs/breathers
+1 No.
+Quoted
+1.iii
+JUNCTION BOX FOR ANALOGUE AND DIGITAL SIGNALS
+•
+MOC/Type : SS
+•
+Protection Class : NEMA4X
+•
+Area Classification : Suitable for Safe Area
+•
+Accessories : with terminal block assembly and accessories for
+analogue, digital /alarms signals
+•
+With cable glands-5Nos.
+•
+With plugs/breathers
+3 Nos.
+Quoted
+1.iv
+ON OFF SWITCH
+•
+For Local power disconnect for Analyzers,Tube Lights, HTT, cabinet
+heaters and analysers.
+•
+Installation: Within easy reach of the electrical device.
+•
+Area Classification : Suitable for Safe Area
+4 Nos.
+Quoted
+1.v
+120V Receptacle
+•
+Rating: 20 Amps at 120VAC.
+•
+Type: Dead-front circuit-breaking receptacle.
+•
+Installation: Inside or Outside the House.
+•
+Area Classification : Suitable for Safe Area
+1 No.
+Quoted
+1.vi
+Interior/exterior LED Lights
+•
+Type: 36” LED
+•
+Wattage : 36watts X 1Tube
+•
+Area Classification : Suitable for Safe Area
+4 Nos.
+Quoted
+1.vii
+1" 316SS Instrument Air Header – 1No.
+•
+Size, Schedule: 1” Schedule 40 Pipe
+•
+Instrument air header with dual filtration with bypass valves will
+be included at the inlet to the air header. 1" 150" RF flange
+•
+With 100mm dial size pressure indicator
+•
+Valves: Branch connections to have 1/4" Ball Valves provided
+for each user.
+•
+Taps: taps, with valves, provided for future use. All unused taps
+to be plugged.
+1" 316SS Atm. Vent Header – 1No.
+•
+Size, Schedule: 1” Schedule 40 Pipe with Flame arrestor
+assembly
+•
+All unused taps to be plugged.
+1" 316SS Single connection for drain header to sewer – 1No.
+1 Lot
+Quoted
+1.A
+Gas Chromatograph
+Free
+Issued by
+PRAJ
+Free Issued
+by PRAJ
+1.B
+Sample Probe Assembly
+Genie 761 Direct Drive Probe,~24" probe with 1" NPT mount, RGD
+HNBR seals, Dursan treated
+1 No
+Quoted
+1.C
+Sample Tube 1/8“ OD
+Make : Thermon
+11 FEET
+Quoted
+1.D
+Analyser Sample Conditioning System enclosure
+•
+Comprising of the following
+•
+1⁄4“ SS316 Ball valves,
+1 No
+Quoted
+•
+1⁄4“ OD SS316 Fine Filter assembly,
+•
+Pressure Gauge 63mm Dial Size with SS316 Manifold
+Assembly
+•
+SS Bypass Filter assembly
+Shall be completely tubed and mounted inside suitable sized SS
+enclosure mounted adjacent to 3 sided Shed wall.
+Please Refer Appendix-2

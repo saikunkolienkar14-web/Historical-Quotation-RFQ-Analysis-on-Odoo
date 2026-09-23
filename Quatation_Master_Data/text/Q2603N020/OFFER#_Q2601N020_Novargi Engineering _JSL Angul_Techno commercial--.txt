@@ -1,0 +1,351 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ Customer: 
+
+ NOVARGI GROUP S.L., NOVARGI ENGINEERING PRIVATE LIMITED 
+Vatika Tower, Unit 401 & 402, 4th Floor 
+Golf Course Road, Sector – 54 
+Gurugram 122022 
+Haryana HR 
+India 
+
+ END USER: JINDAL STEEL LIMITED (JSL), ANGUL 
+ 
+ SUBJECT: Quotation for Gas analyser for measurement of H2S for process gas heater project 
+ 
+ KIND ATTENTION: Mr. Garima Govind 
+
+ Dear Sir, 
+ 
+We thank you for your inquiry and are pleased to quote as per enclosed specification on terms stated below. If 
+you have any questions or require additional information, please feel free to contact us. 
+ Table of Contents: - 
+ 
+ Section 1: SUMMARY OF PRICES 
+ Section 2: SCOPE DEFINATION 
+ 
+ Section 3: COMMERCIAL CONDITIONS 
+ 
+ Section 4: BILL OF MATERIALS 
+
+ 
+ 
+Our Quotation No: Q2603N020 
+Dated: 25.03.2026 
+ 
+Contact persons: 
+ 
+Mr. Rajesh Gupta 
+Email: rajesh@adage-automation.com 
+Mob: + 91 9163262766 
+(Adage-Delhi) 
+ 
+Ms. Namrata Kamat 
+Email: namrata.kamat@adage-automation.com 
+Mob: +91 8390956707 
+(Adage – Goa – HO) 
+
+ 
+
+ 
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to briefly introduce 
+our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. Our 
+expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for various industrial 
+sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of Saudi 
+Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas Analytical 
+Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven capabilities, 
+global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SUMMARY OF PRICES 
+Sr 
+No 
+DESCRIPTION 
+QTY 
+UNIT PRICE 
+(INR) 
+TOTAL PRICE 
+(INR) 
+1 
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF H2S FOR PROCESS 
+GAS HEATER PROJECT 
+Make: AIROPTIC 
+Model: GAS EYE 
+Operating Principle: TDLS 
+Component To Be Measured: H2S 
+Measuring Range: H2S: 0-50 PPM 
+Mounting Location: Extractive Type 
+With Sample Handling System Consisting Of: 
+• With heated flow through cell for mounting of laser analyzer
+• With aspirator pump system for extraction and drawing of sample
+gas .
+• Mounting of analyser on field rack
+Analyser Output: 
+• 4-20 mA
+• Digital Output
+(For More Details, Please Refer The Bill Of Material Section) 
+1 SET 
+57,30,000 
+57,30,000 
+2 
+SAMPLE GAS TRANSPORTATION TUBE 
+Size:1/2”,MOC: PTFE 
+@4,000 Per Meter 
+3 
+Supervision of Installation & Commissioning Charges 
+(Boarding – Lodging – Local Conveyance, To And FRO Air Ticket/ Ac II 
+Train Fare To Be Arranged By Customer) 
+@ 30,000 Per Man Day 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+NOTES: 
+1.
+The quoted analyser system shall be mounted on a free-standing rack and not a panel/cabinet.
+2.
+HART output is not available. 4..20 mA analog output shall be available in the analyser system.
+3.
+The components shall be as per Adage vendor list .
+4.
+The output shall be available in the analyser system. Further transmission/connectivity along with the 
+cables/hardware etc to the DCS /control room etc shall be in customer’ scope.
+5.
+We shall provide only one number H2S gas cylinder. Refilling shall be in customer’s scope.
+6.
+Commissioning spares shall be hand carried by the service engineer at the time of commissioning and is 
+irrespective of any list. Please provide philosophy for mandatory spares or two years operational and 
+maintenance spares if required
+7.
+Sample gas pump is not applicable for the quoted system.
+8.
+The output signals, alarms signals shall be available in the analyser system. Further
+transmission/connectivity along with the cables/hardware etc to the DCS/control room etc shall be in 
+customer’ scope.
+9.
+The quoted analyser system shall be mounted on free standing rack. Hence Panel AC is not applicable. 
+The customer to keep the Rack in the temperature-controlled room.
+10. MOC of the nameplates shall be traffolyte.
+11. We understand that the process is dust free, the system has been designed accordingly
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM
+•
+Customer shall provide Instrument Air / Nitrogen {Free from Water Droplets or Moisture} @ 4 to 6 bar
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customer’s Scope.
+•
+Power Supply Utilities required are: -
+➢
+230 VAC, 50 Hz (UPS)
+➢
+230 VAC, 50 Hz (Non UPS)
+Our Scope of Supply and Work Includes: 
+•
+Design, Engineering and Supply of complete Analyzer System as per Summary of Prices
+•
+Supervision of Erection/Installation and Commissioning of the complete System as per Summary of Prices
+•
+Project Management and Project Documentation
+Our Scope of Supply Does Not Include: 
+•
+All Erection and Installation Activity. 
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Welding of flanges or mounting of purge air unit and instrument on the stack/duct.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals.
+•
+Supply and laying of Cable and cable trays for Power supply / Analog and Digital signal / serial
+communication cables etc.
+•
+Laying of trays/structural and support for field tubing.
+•
+All utilities as mentioned above.
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: COMMERCIAL CONDITIONS 
+Price Basis 
+Ex – Works, Goa, India. 
+Packing & 
+Forwarding Charges 
+Extra 2% of the basic order value. 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 08 months from the date of Drawing Approval . 
+Storage Charges 
+The storage charges shall be applicable @0.5% of the order value per week 
+after inspection or scheduled delivery. 
+Offer validity 
+30 days. 
+Payment Terms 
+20% Advance with the Purchase Order, 20 % with Drawing Approval and 
+Balance 60 % against Proforma Invoice on readiness of material prior to 
+dispatch. 
+Guarantee Clause 
+Against manufacturing defects for 12 months from the date of Commissioning 
+or 18 months from the date of shipment whichever is earlier. 
+
+SOLUTION PARTNER ANALYTICAL
+PROCESS DUCT
+RECEIVER
+Gaseye
+H2S MEASUREMENT
+NOTE :
+ANALYSER RACK
+TRANSMITTER
+
+ 
+
+ 
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: BILL OF MATERIALS 
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF H2S 
+SL 
+NO 
+ DESCRIPTION 
+LEGEND 
+QTY 
+1 
+HEATED FILTER ASSEMBLY 
+-- 
+1 PC 
+2 
+ 
+ 5 WAY BALL VALVE 
+ 
+BV 01 
+ 
+1 PC 
+3 
+3/2 WAY SOV 
+SOV 01 
+1 PC 
+4 
+AIR FILTER REGULATOR 
+AFR01-03 
+3 PC 
+5 
+LASER BASED ANALYSER FOR MEASUREMENT 
+MEASURED COMPONENT: H2S 
+MAKE: AIROPTIC 
+MODEL: GASEYE 
+- 
+1 PC 
+6 
+EJECTOR 
+-- 
+1 PC 
+7 
+2 WAY BALL VALVE 
+BV 02 
+1 PC 
+8 
+FREE STANDING RACK FOR MOUNTING ALL COMPONENTS 
+-- 
+1 PC 
+9 
+H2S CALIBRATION GAS CYLINDER 
+-- 
+1 PC 
+10 
+HEATED FLOW THROUGH CELL WITH TC & PT MAKE: ADAGE 
+-- 
+1 PC 
+11 
+AIR OPEARTED VALVE 
+AOV 01 
+1 PC

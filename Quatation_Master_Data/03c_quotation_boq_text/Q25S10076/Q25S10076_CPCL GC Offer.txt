@@ -1,0 +1,178 @@
+Quotation Number: Q25S10076
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+Gas Chromatograph
+Tag: 211-AT-0202
+Make: Valmet
+Model: Maxum II
+Hazardous Area Classification: Zone 1 IIB + H2, T3
+Mounting Location: Analyzer Cabinet with Redundant Ex-proof AC
+Injection Phase: Vapor; Sample Phase: Vapor
+No of Streams: 3 (Sequential Injection)
+GC Outputs:
+-
+4-20 mA Analog output for measuring component.
+-
+RS-485 / Ethernet Modbus Output
+-
+Potential free contacts for fault & other alarms.
+Remarks: Detailed GC Configuration is enclosed as ANN-1
+1 No
+Quoted
+1.1
+Sample Probe
+-
+Manual Retractable type sample probe with dual isolation valve.
+-
+Make: Lotus/Tube fit
+-
+MOC: SS316
+-
+1.5" 1500# RF Flanged
+3 Nos
+Quoted
+1.2
+Primary Sample Handling System
+-
+Shall be as per attached P&ID.
+-
+PSHS shall be installed inside the SS304 enclosure.
+3 Nos
+Quoted
+1.3
+Sample Transportation Tubing
+Sample Transportation Tube for Stream 1
+-
+1⁄4” SS316 HTT Sulfinert: 30 mtrs
+Sample Transportation Tube for Stream 2
+-
+1⁄4” SS316 HTT Sulfinert: 30 mtrs
+Sample Transportation Tube for Stream 3
+-
+1⁄4” SS316 HTT Sulfinert: 30 mtrs
+Note: Common Sample shall be returned to low pressure flare header.
+90 mtrs
+Quoted
+1.4
+Secondary Sample Handling System
+-
+Shall be as per attached P&ID.
+-
+SSHS shall be mounted inside SS304 enclosure outside
+analyzer.
+-
+SHS shall be designed for 3 streams
+-
+Other SHS components as applicable for functioning of GC.
+1 No
+Quoted
+1.5
+Carrier Gas and Calibration blend with Auto Changeover system
+-
+10L calibration blend with regulators for a period of 1 year
+-
+47L Carrier Gas for a period of 1 year.
+1 Set
+Quoted
+1.6
+Cabinet Specification:
+-
+MOC: SS304; (2000(H)*1300(W)*1000(D))
+-
+With Redundant Ex-Proof AC (Make: Adage)
+-
+With Junction Boxes
+-
+With PDB
+-
+With Header; MOC: SS304
+-
+With other cabinet accessories.
+1 No
+Quoted
+2
+Gas Chromatograph
+Tag: 212-AT-6001
+Make: Valmet
+Model: Maxum II
+Hazardous Area Classification: Zone 1 IIB + H2, T3
+Mounting Location: Analyzer Cabinet with Redundant Ex-proof AC
+Injection Phase: Vapor; Sample Phase: Vapor
+No of Streams: 1
+GC Outputs:
+-
+4-20 mA Analog output for measuring component.
+-
+RS-485 / Ethernet Modbus Output
+-
+Potential free contacts for fault & other alarms.
+Remarks: Detailed GC Configuration is enclosed as ANN-1
+1 No
+Quoted
+2.1
+Sample Probe
+-
+Manual Retractable type sample probe with single isolation
+valve.
+-
+Make: Lotus/Tubefit
+-
+MOC: SS316
+-
+1.5" 150# RF Flanged
+1 No
+Quoted
+2.2
+Primary Sample Handling System
+-
+Shall be as per attached P&ID.
+-
+PSHS shall be installed inside the SS304 enclosure.
+1 No
+Quoted
+2.3
+Sample Transportation Tubing
+-
+1⁄4” SS316: 30 mtrs
+Note: Sample shall be returned to low pressure flare header.
+30 mtrs
+Quoted
+2.4
+Secondary Sample Handling System
+-
+Shall be as per attached P&ID.
+-
+SSHS shall be mounted inside SS304 enclosure outside
+analyser cabinet.
+-
+Other SHS components as applicable for functioning of GC.
+1 No
+Quoted
+2.5
+Carrier Gas and Calibration blend with Auto Changeover system
+-
+10L calibration blend with regulators for a period of 1 year
+-
+47L Carrier Gas for a period of 1 year.
+1 Set
+Quoted
+2.6
+Cabinet Specification:
+-
+MOC: SS304; (2000(H)*1300(W)*1000(D))
+-
+With Redundant Ex-Proof AC (Make: Adage)
+-
+With Junction Boxes
+-
+With PDB
+-
+With Header; MOC: SS304
+-
+With other cabinet accessories.
+1 No
+Quoted

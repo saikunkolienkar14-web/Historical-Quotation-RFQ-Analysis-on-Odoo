@@ -1,0 +1,1269 @@
+Quotation Number: Q26W10230R1
+BOQ Status: FOUND
+
+Description
+Qty
+Total Price
+(INR)
+1
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: 10-AS-001
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+10-AIT-1000A - MASS SPECTROMETER
+10-AIT-1000B - MASS SPECTROMETER
+10-AIT-1003A - CO ANALYSER
+10-AIT-1003B - CO2 ANALYSER
+10-AIT-1004 -
+TOTAL SULPHUR ANALYSER
+10-AIT-1016A - CO2 ANALYSER
+10-AIT-1016B - CO ANALYSER
+10-AIT-1182 -
+H2 ANALYSER
+10-AIT-1103 -
+H2 ANALYSER
+10-AIT-1110 -
+NH3 ANALYSER
+Shelter Specification:
+•
+Dimensions: 10m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS316
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool
+•
+Fire resistance for 2 hours for walls & roof. and 90 minutes for doors and
+dampers.
+1 No
+QUOTED
+•
+Overhang Roof Canopy- 1 meter in all four sides, MOC: SS316, 1.5 mm
+thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+•
+Cable Tray: FRP
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC)
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Exproof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 10 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS316
+•
+Fresh Air GI Duct top to be 10m from Shelter Base Frame.
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with DMR configuration at processor, power supply, I/O level, communication, Mounted
+inside Ex proof enclosure
+1 LOT
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+IJB with MS painted Rack for UPS supply & Non-UPS supply
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+3
+Tube lights outside (Suitable for Zone 1)
+4
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total Price
+(INR)
+2
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: 10-AS-002
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+10-AIT-5513A - CEMS (O2, NOx, CO, CO2, HC, SO2)
+10-AIT-5515 -
+DISPLAY OF SPM ANALYSER
+Shelter Specification:
+•
+Dimensions: 3m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS316
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool
+•
+Fire resistance for 2 hours for walls & roof. and 90 minutes for doors and
+dampers.
+•
+Overhang Roof Canopy-1 Meter in all four sides, MOC: SS3, 1.5 mm thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+1 No
+QUOTED
+•
+Cable Tray: FRP
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC) .
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Ex proof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS316
+•
+Fresh Air GI Duct top to be 10m from Shelter Base Frame.
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+1
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with DMR configuration at processor, power supply, I/O level, communication, Mounted
+inside Ex proof enclosure
+1 LOT
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+IJB with MS painted Rack for UPS supply & Non-UPS supply
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+6
+Tube lights outside (Suitable for Zone 1)
+6
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total Price
+(INR)
+3
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: 10-AS-003
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+10-AIT-1301 -
+CEMS (O2, NOx, CO, CO2, HC, SO2)
+10-AIT-1302 -
+DISPLAY OF SPM ANALYSER
+Shelter Specification:
+•
+Dimensions: 3m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS316
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool
+•
+Fire resistance for 2 hours for walls & roof. and 90 minutes for doors and
+dampers.
+•
+Overhang Roof Canopy-1 Meter in all four sides, MOC: SS3, 1.5 mm thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+1 No
+QUOTED
+•
+Cable Tray: FRP
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC) .
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Ex proof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS316
+•
+Fresh Air GI Duct top to be 10m from Shelter Base Frame.
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+1
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with DMR configuration at processor, power supply, I/O level, communication, Mounted
+inside Ex proof enclosure
+1 LOT
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+IJB with MS painted Rack for UPS supply & Non-UPS supply
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+6
+Tube lights outside (Suitable for Zone 1)
+6
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total Price
+(INR)
+4
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: 22-AS-001
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+22-AIT-21001A –
+22-AIT-21001B -
+GAS CHROMATOGRAPH
+Shelter Specification:
+•
+Dimensions: 3m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS316
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool
+•
+Fire resistance for 2 hours for walls & roof. and 90 minutes for doors and
+dampers.
+•
+Overhang Roof Canopy-1 Meter in all four sides, MOC: SS3, 1.5 mm thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+•
+Cable Tray: FRP
+1 No
+QUOTED
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC) .
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Ex proof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS316
+•
+Fresh Air GI Duct top to be 10m from Shelter Base Frame.
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+1
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with DMR configuration at processor, power supply, I/O level, communication, Mounted
+inside Ex proof enclosure
+1 LOT
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+IJB with MS painted Rack for UPS supply & Non-UPS supply
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+6
+Tube lights outside (Suitable for Zone 1)
+6
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+5.1
+MASS SPECTROMETER
+Tag No.: 10-AIT-1000A
+Make: Extrel (Process Insights)
+Model: MAX300-RTG 2.0
+Operating Principle: Quadrupole Mass Spectrometer
+Area Classification: Exp Zone 1 Group IIC T4
+No of Streams: 11 Main Streams
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Parameters:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Analyzer Output:
+•
+Fiber Optics - Multimode - ST Connectors (Redundant)
+Sample return:
+•
+Shall Be Connected to Common Flare Header Line
+Note: This mass spectrometer is configured for main 11 streams
+1 No
+Quoted
+System Details:
+•
+With Sample probes shall be fixed (non-retractable) type.
+•
+1/4" Heat tracer tube of MOC: SS316 wherever applicable or else bare
+SS316 shall be considered. (Length 125mtrs x 11)
+•
+For High moisture tags, Dual stage cooler arrangement is considered.
+11
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+(Please refer detailed sample drawing)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+5.2
+MASS SPECTROMETER
+Tag No.: 10-AIT-1000B
+Make: Extrel (Process Insights)
+Model: MAX300-RTG 2.0
+Operating Principle: Quadrupole Mass Spectrometer
+Area Classification: Exp Zone 1 Group IIC T4
+No of Streams: 11 Streams (complete in standby)
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Parameters:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Analyzer Output:
+•
+Fiber Optics - Multimode - ST Connectors (Redundant)
+Sample return:
+•
+Shall Be Connected to Common Flare Header Line
+Note: This mass spectrometer is complete in standby
+1 No
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+System Details:
+•
+We will take the sample from the SHS of the mass spectrometer (10-AIT-
+1000A) in Sr. No. 5.1.
+0
+Quoted
+6.1
+CO ANALYSER
+Tag No.: 10-AIT-1003A
+Make: Siemens
+Model: ULTRAMAT 6F
+Operating Principle: NDIR
+Area Classification: Zone 1 IIC T4 With Purge Controller
+No of Streams: 1
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+CO: 0-10 PPM
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485
+1 No
+Quoted
+6.2
+CO2 ANALYSER
+Tag No.: 10-AIT-1003B
+Make: Siemens
+Model: ULTRAMAT 6F
+1 No
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Operating Principle: NDIR
+Area Classification: Zone 1 IIC T4 With Purge Controller
+No of Streams: 1
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+CO2: 0-10 PPM
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485
+System Details Common for 10-AIT-1003A & 10-AIT-1003B:
+•
+With Sample probes shall be fixed type– 1 Nos.
+•
+1/4" Sample Transportation HTT tube, MOC: SS316. (Length 125 Mtr.)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+1 Set
+Quoted
+7
+TOTAL SULPHUR ANALYSER
+Tag No.: 10-AIT-1004
+Make: PAC / Thermo
+Model: Nsure / SOLA iQ
+Operating Principle: UV Fluorescence
+Area Classification: Exp Zone 1 Group IIC T4
+No of Streams: 1
+1 No
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Mounting Location: Inside Shelter-1 (10-AS-001).
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Sample return:
+•
+Shall Be Connected to Common Flare Header Line
+Measuring Ranges:
+•
+Total Sulphur: 0-5 ppm
+Analyzer Outputs:
+•
+4-20 mA Analog outputs.
+•
+Modbus RS-485
+•
+Digital Output with Fault Alarm
+Supply and Connection Requirement:
+Carrier Gas -
+Argon (99.975%) regulated to 50 psig.
+Combustion Gas -
+Oxygen O2 (99.975%) regulated to 50 psig.
+Pneumatic N2 Supply - Clean, dry, particle-free air @ 100 psig.
+Purge N2 Supply -
+Clean, dry, particle-free air at 80-120 (max) psig.
+System Details:
+•
+Fixed type Sample Probe of MOC: SS316.
+•
+1/4" Sample Transportation tube, MOC: SS316, with Sulfinert coating.
+(Length 125 Mtr.)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+8.1
+CO ANALYSER
+Tag No.: 10-AIT-1016B
+Make: Siemens
+Model: ULTRAMAT 6F
+Operating Principle: NDIR
+Area Classification: Zone 1 IIC T4 With Purge Controller
+No of Streams: 1
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+CO: 0-5 PPM
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485
+1 No
+Quoted
+8.2
+CO2 ANALYSER
+Tag No.: 10-AIT-1016A
+Make: Siemens
+Model: ULTRAMAT 6F
+Operating Principle: NDIR
+Area Classification: Zone 1 IIC T4 With Purge Controller
+No of Streams: 1
+1 No
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+CO2: 0-5 PPM
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485
+System Details Common for 10-AIT-1016A & 10-AIT-1016B:
+•
+With Sample probes shall be fixed type– 1 Nos.
+•
+1/4" Sample Transportation tube, MOC: SS316. (Length 125 Mtr.)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+1 Set
+Quoted
+9
+H2 ANALYSER (Data sheet not given with MR)
+Tag No.: 10-AIT-1182 & 10-AIT-1103
+Make: Siemens
+Model: CALOMAT 6F
+Operating Principle: TCD
+Area Classification: Zone 1 IIC T4 With Purge Controller
+No of Streams: 1
+2 Nos
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+H2: Range to be provided by customer
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485
+System Details:
+•
+With Sample probes shall be fixed type– 1 Nos.
+•
+1/4" Sample Transportation tube, MOC: SS316. (Length 125 Mtr each)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+10
+NH3 ANALYSER (Data sheet not given with MR)
+Tag No.: 10-AIT-1110
+Make: Siemens
+Model: ULTRAMAT 6F
+Operating Principle: NDIR
+Area Classification: Zone 1 IIC T4 With Purge Controller
+No of Streams: 1
+1 No
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Mounting Location: Inside Shelter-1 (10-AS-001)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+NH3: Range to be provided by customer
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485
+System Details :
+•
+With Sample probes shall be fixed type– 1 Nos.
+•
+1/4" Sample Transportation tube, MOC: SS316. (Length 125 Mtr)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+11
+CEMS (O2, NOx, CO, CO2, HC, SO2) ANALYSER
+Tag No.: 10-AIT-5513A
+Make: Siemens
+Model: ULTRAMAT 23 (Qty: 2 Nos.) for (O2, NOx, CO, CO2 & SO2)
+Operating Principle: NDIR for SO2, Nox, CO & CO2
+Operating Principle: Paramagnetic for O2
+Area Classification: Zone 1 IIC T4 With Purged Enclosure
+1 Set
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+No of Streams: 1
+Mounting Location: Inside common Purged Enclosure Inside Shelter-2
+(10-AS-002)
+Make: Siemens
+Model: FIDAMAT (Qty: 1 Nos.) for HC
+Operating Principle: FID
+Area Classification: Zone 1 IIC T4 With Purged Enclosure
+No of Streams: 1
+Mounting Location: Inside common Purged Enclosure Inside Shelter-2
+(10-AS-002)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+SO2: 0-150 ppm
+•
+NO: 0-300 ppm
+•
+CO: 0-50 ppm
+•
+CO2: 0-25 Vol%
+•
+O2: 0- 15 Vol%
+•
+HC: 0-20 ppm
+Utility required at Stack:
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485 for CPCB/SPCB Interface.
+System Details:
+•
+Common Sample Probe with heated filter and Probe Tube MOC: SS316
+•
+1/4" PTFE Electrically Heat Traced Sample Transportation tube bundle of
+length 100mtrs.
+•
+Common Sample handling system (Safe Area, installed inside purge
+enclosure inside Analyzers Shelter) inclusive of Sample Gas Cooler and
+Remote Validation / Calibration Facility
+•
+With calibration gas cylinders and regulators.
+12
+SPM Analyser
+Tag No: 10-AIT-5515
+Make: Durag
+Model: DR 320 Ex l
+Hazardous area classification: Zone 1 llC T4
+Mounting location: In-situ Analyser Mounted directly on stack and safe area
+remote display unit in purged enclosure mounted inside Analyzer
+Shelter-2 (10-AS-002)
+Principle: Back scattering
+IP Rating: IP65 rated
+Measuring range: 0-100 Mg/Nm3
+Analyzer Output
+•
+4-20Ma Analog output
+•
+RS485 Modbus serial output
+•
+Digital contacts for fault alarm.
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+13
+CEMS (O2, NOx, CO, CO2, HC, SO2) ANALYSER (Data sheet not given with
+MR)
+Tag No.: 10-AIT-1301
+Make: Siemens
+Model: ULTRAMAT 23 (Qty: 2 Nos.) for (O2, NOx, CO, CO2 & SO2)
+Operating Principle: NDIR for SO2, Nox, CO & CO2
+Operating Principle: Paramagnetic for O2
+Area Classification: Zone 1 IIC T4 With Purged Enclosure
+No of Streams: 1
+Mounting Location: Inside common Purged Enclosure Inside Shelter-3
+(10-AS-003)
+Make: Siemens
+Model: FIDAMAT (Qty: 1 Nos.) for HC
+Operating Principle: FID
+Area Classification: Zone 1 IIC T4 With Purged Enclosure
+No of Streams: 1
+Mounting Location: Inside common Purged Enclosure Inside Shelter-3
+(10-AS-003)
+Process Conditions at sample Inlet:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components: Range to be provided by customer
+1 Set
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+•
+SO2: 0-150 ppm
+•
+NO: 0-300 ppm
+•
+CO: 0-50 ppm
+•
+CO2: 0-25 Vol%
+•
+O2: 0- 15 Vol%
+•
+HC: 0-20 ppm
+Utility required at Stack:
+•
+115VAC UPS Supply by customer
+•
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+•
+MODBUS RS485 for CPCB/SPCB Interface.
+System Details:
+•
+Common Sample Probe with heated filter and Probe Tube MOC: SS316
+•
+1/4" PTFE Electrically Heat Traced Sample Transportation tube bundle of
+length 100mtrs considered.
+•
+Common Sample handling system (Safe Area, installed inside purge
+enclosure inside Analyzers Shelter) inclusive of Sample Gas Cooler and
+Remote Validation / Calibration Facility
+•
+With calibration gas cylinders and regulators.
+14
+SPM Analyser (Data sheet not given with MR)
+Tag No: 10-AIT-1302
+Make: Durag
+Model: DR 320 Ex l
+Hazardous area classification: Zone 1 llC T4
+Mounting location: In-situ Analyser Mounted directly on stack and safe area
+remote display unit in purged enclosure mounted inside Analyzer
+Shelter-2 (10-AS-002)
+Principle: Back scattering
+IP Rating: IP65 rated
+Measuring range: 0-100 Mg/Nm3
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Analyzer Output
+•
+4-20Ma Analog output
+•
+RS485 Modbus serial output
+•
+Digital contacts for fault alarm.
+15
+Gas Chromatograph
+Tag No.: 22-AIT-21001A/B
+Make: Valmet
+Model: MAXUM II
+Area Classification: Zone I IIB+H2 T3
+No of Streams: 1 Stream
+Mounting Location: Inside Shelter 4 (22-AS-001)
+Process Parameters:
+•
+Pressure (Norm/Design): As per datasheet
+•
+Temperature (Norm/Design): As per datasheet
+Measured Components:
+•
+H2: 0-1000 ppm
+•
+O2: 0-10000 ppm
+1 No
+QUOTED
+System Details:
+•
+Fixed Sample Probe, MOC: SS316
+•
+1/4" Sample Transportation tube, MOC: SS316. (Length 125 Mtr.)
+•
+Sample handling system as required for successful running of analyser.
+•
+With calibration gas cylinders and regulators.
+Analyzer Output:
+•
+4-20 mA analog output for each measuring component.
+•
+RS485 Serial/TCP-IP Modbus output.
+•
+Digital output alarm signal.
+1 Sets
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Sample return:
+•
+To Flare (low pressure)
+16
+OXYGEN & COMBUSTIBLE ANALYSER
+Tag No: 10-AIT-1010A/B, 10-AIT-1011A/B, 10-AIT-5506A/B, 10-AIT-5507A/B,
+10-AIT-1033A/B, 10-AIT-1034A/B & 10-AIT-1040A/ B (Data sheet not
+available for yellow highlighted tags)
+Make: Ametek / Emerson
+Model: WDG-VC
+Mounting Location: Field Rack
+Hazardous Area Classification: Zone 2, IIC, T3 with Purge.
+Principle: Zirconium oxide for net oxygen (O2); dual hot-wire catalytic detectors
+for Coe measurement
+Enclosure Protection: IP65, NEMA 4X
+Mounting Location: Installed On Free Standing Rack in Field
+Probe Details: 2” 300# RF flange of MOC: SS316
+Measuring Range: for tag no. 10-AIT-1010A/B & 10-AIT-1011A/B
+•
+O2: 0-5% (Oxygen)
+•
+CO: 0-1% (Combustibles)
+Measuring Range: for tag no. 10-AIT-5506A/B & 10-AIT-5507A/B
+•
+O2: 0-15% (Oxygen)
+•
+CO: 0-1% (Combustibles)
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+Remote Calibration Unit (RCU) & Calibration gases: Mounted on field Skid
+with Canopy:
+•
+MOC: SS304, 2 mm Thick, Make: Adage
+•
+With calibration gas cylinders and regulators.
+•
+RCU unit for Auto/Manual calibration.
+•
+With HMI
+•
+With SOVs, AFR
+Remarks:
+•
+RS485 serial output connection to DCS from Rack is in customer scope
+including cable.
+7 Nos.
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+•
+Power & Instrument Air/N2 near the stack to be provided by customer.
+•
+RCU unit to Sensor Unit signals and power cables shall be in customer
+scope.
+•

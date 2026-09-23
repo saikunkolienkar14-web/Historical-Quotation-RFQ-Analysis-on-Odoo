@@ -1,0 +1,101 @@
+Quotation Number: Q2511E154
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+OPTION-1
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF SO2, H2S & CS2 AT
+TAIL GAS
+Service: Tail gas
+Make: AMETEK
+Model:900
+Operating Principle: Non-dispersive UV
+Component to be measured : H2S , SO2 & CS2
+Measuring Ranges: H2S:0–1 Vol %, SO2: 0–1 Vol % , CS2:0-2000 PPM
+Mounting Location: Shall be mounted inside Panel which shall be
+Equipped with Panel AC
+Tubing Details: Designed & Supplied by Ametek.
+•
+Distance from tapping point to analysers: 10 Meters each
+•
+Heated Tube - Duplex
+•
+Power Supply: 230 VAC, 50/60 Hz, 70 - 100 Watts/Meter
+Utility Requirement:
+•
+230VAC, 50 Hz UPS Power Supply for Analyser
+•
+230V UPS, 50/60 Hz, 150W for ASR Probe
+•
+230V AC FOR HTT LINE, Power consumption shall be 100W per
+mtr
+•
+Instrument Air/N2 is required @ 5 - 7 Barg (80-100 psig) (Oil &
+Dust free) for analyser approximately consumption shall be
+150 LPM
+•
+N2 @ 2.1 Bar (30L/Min) required for HAG probe. (Connection
+Flange size: 1 1⁄2” 300#.
+Analyzer output:
+•
+4-20 Ma output for each measuring component.
+•
+Fault Alarms (DI).
+•
+RS485 Serial Modbus Communication
+1 SET
+2,87,50,000
+2,87,50,000
+Calibration:
+•
+Auto Zero & Manual Span
+•
+With Calibration cylinders, 10 litre Capacity and Cylinder
+pressure regulators.
+•
+Type of gas for Zero calibration: N2
+•
+Type of gas for span: H2S, SO2 & CS2
+•
+Calibration line tubing MOC: SS316
+OPTION-2
+2
+INSITU LASER BASED ANALYSER FOR MEASUREMENT OF SO2,H2S &
+CS2 AT TAIL GAS
+MAKE: AIROPTIC
+MODEL: GAS EYE
+Operating principle: TDLAS
+Component to be measured: SO2 & H2S
+Mounting location: Insitu type
+MAKE: AIROPTIC
+MODEL: GAS EYE
+Operating principle: TDLAS
+Component to be measured: CS2
+Mounting location: Insitu type
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+1 SET
+2,01,25,000
+2,01,25,000
+3
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (Acii Tier/Flight).
+@30000 PER MAN DAY

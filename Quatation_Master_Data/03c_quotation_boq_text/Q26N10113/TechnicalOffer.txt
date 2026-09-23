@@ -1,0 +1,750 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+The quoted prices shall be inclusive of all Scope of Supply,P&F and testing requirements as specified in the enclosed MR. Scope of Supply shall be strictly as per Material Requisition and other documents which are part of RFQ.
+Bidder to clearly indicate 'Quoted' / 'Not Quoted' against each items / Groups in the price column in the unpriced Price Schedule and % taxes / duties against relevant columns of taxes & duties. Bidders to submit Price in the Price
+Schedule in their Priced Bid.
+Submision of this Price schedule by bidder, confirms that bidder has noted the contents of the Preamble to the Schedule of Price (SOP) / Schedule of Rates (SOR), RFQ, Material Requisition etc. and quoted his prices accordingly
+without any deviation.
+Bidder must quote the price in enclosed Schedule of Price (SOP) formats only. The formats shall not be changed and/or retyped. For any deviation to the formats, offer may be rejected.
+Quoted prices are firm and fixed till complete execution of the entire order and no variation on any account is allowed, unless otherwise categorically specified in RFQ documents.
+"Total Supply Price" in BOQ1 to include for all startup and Commissioning Spares,special tools and tackles, consumables, erection material etc., as applicable & documentation as per MR. Price of Mandatory Spares to be quoted extra
+and not to be included in main equipment price. Bidders shall supply Mandatory Spares as per MR.
+The quoted prices shall be inclusive of all testing requirements as specified in the Bidding Document.
+Bidder to list Two Years Operation and Maintenance Spares, as per their recommendation. The same shall at-least contain the spares as specified in MR. Separate list shall be provided by the Bidder for each item in the format
+enclosed herewith with itemized cost. Ordering of these spares may be done by the Purchaser separately on a later date and not along with main equipment.The price of Two Years Operation and Maintenance Spares shall not be
+considered for commercial (price) evaluation of the bid.
+In case of discrepancies in the Item Description/Quantity in this SOP, description/quantity etc. as per MR shall prevail.
+Bidder shall quote Lumpsum Freight Charges upto Project Site.
+This Schedule of Prices comprises the following :
+- SCHEDULE OF PRICES ( BOQ1)
+- DETAILS OF BUILT-IN-CIF VALUE OF IMPORT CONTENT (INDIAN BIDDERS) (FORMAT-B1)
+- 2 YEARS O&M SPARES (FORMAT-B2)
+- PRICE SCHEDULE (FOR % BREAKUP OF SUPPLY PRICE) (FORMAT - B3)
+-SCHEDULE OF PRICE FOR UNIT RATES FOR ADDITION / DELETION (FORMAT - B4)
+For the purpose of evaluation, man-days to be considered for the Supervision of erection, testing and commissioning of items (MR Sr. No. 8) are as below:
+Group A: 18 days of site supervision activity
+Group B: 3 days of site supervision activity
+Group C: 12 days of site supervision activity
+Group D: 4 days of site supervision activity
+Group E: 3 days of site supervision activity
+Group F: 3 days of site supervision activity
+However, payment will be based on the actual man-days consumed on-site at the quoted per-diem Charges.
+Rate of GST to be indicated in unprice bid.
+i) Bidders must submit this preamble with their bid with both unpriced & priced offer.
+ii) Bidders are requested to enter their name in the each page of Schedule of Price provided in the e-tender portal for submission of Unpriced & price bid
+For the purpose of evaluation, 2 man-days for each Group of MR will be considered for the Training of Owner's personnel at site (MR Sr. No. 11). However, payment will be based on the actual man-days consumed on-site at the
+quoted per-diem Charges.
+Page 501 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Adage Automation Private limited
+Q26N10113
+Name of the
+Bidder/ Bidding
+Firm / Company
+:
+NUMBER #
+TEXT #
+NUMBER #
+TEXT #
+NUMBER #
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+Sl.
+No.
+Item Description
+Quantity
+Units
+TOTAL SUPPLY PRICE
+ON FOT DESPATCH POINT
+BASIS
+(In Figures; to be entered
+by the Bidder) (excluding
+GST) in Rs
+(To be filled by bidder)
+Rate of GST in % on
+supply
+(To be filled by
+bidder)
+TOTAL FREIGHT CHARGES
+UPTO PROJECT SITE
+(In Figures; to be entered by
+the Bidder) (excluding GST) in
+Rs
+(To be filled by bidder)
+Rate of GST in % on
+Freight Charges
+(To be filled by bidder)
+Total Mandatory
+Spare charges as
+per MR Item Sr No
+4 Including Freight
+but Excluding GST
+in Rs
+Rate of GST in %
+on
+Mandatory Spare
+Charges
+(To be filled by
+bidder)
+Per diem
+Charges of
+Spervision at
+Site ( MR Item
+Sr No 8 )
+Excluding GST
+in Rs
+Rate of GST in % on
+Supervision
+Charges
+(To be filled by
+bidder)
+Per diem Charges of
+Training at site as
+per MR Item Sr No 11
+Excluding GST in Rs
+Rate of GST in %
+on
+Training Charges
+(To be filled by
+bidder)
+1
+2
+4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+0
+ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+1
+GROUP: A; PROCESS STREAM ANALYSERS - MOISTURE
+1.00 Lot
+2
+GROUP: B; PROCESS STREAM ANALYSERS - MOISTURE
+(HIGH RANGE)
+1.00 Lot
+3
+GROUP: C; PROCESS STREAM ANALYSERS -
+DENSITY/MOLECULAR WEIGHT
+1.00 Lot
+4
+GROUP: D; PROCESS STREAM ANALYSERS - INFRARED (IR)
+1.00 Lot
+5
+GROUP: E; PROCESS STREAM ANALYSERS - WOBBE INDEX
+METER
+1.00 Lot
+6
+GROUP: F; PROCESS STREAM ANALYSERS - VISCOSITY
+METER
+1.00 Lot
+PRICE SCHEDULE(BOQ1)
+(This BOQ template must not be modified/replaced by the bidder and the same should be uploaded after filling the relevent columns, else the bidder is liable to be rejected for this tender. Bidders are allowed to enter the Bidder Name and Values only )
+Item Wise BoQ
+Tender Inviting Authority: EIL on behalf of BPCL
+Name of Work: ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+RFQ No: SP/B957-000-YA-MR-1623/140
+Validate
+Print
+Help
+Page 502 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Adage Automation Private Limited
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+1
+2
+3
+4
+5
+7
+8
+INR
+INR
+INR
+INR
+INR
+INR
+INR
+INR
+INR
+FORMAT-B2
+SCHEDULE OF PRICE FOR 2 YEARS OPERATION & MAINTENANCE SPARES (FOR INDIAN BIDDERS)
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+NAME OF BIDDER:
+Bidders shall provide quotation of two years normal operation and maintenance spares . The same shall at-least contain the spares as specified in MR forming part of Inquiry.
+4. Bidder may add rows, if required w.r.t. submission of Two Years O&M Spares without changing the format.
+Notes:
+Unit Supply Price on FOT
+Despatch Point Basis
+including P&F but excluding
+GST
+GST(%) Applicable on
+Supply & Freight of 2
+Year O&M spares
+2. Please be noted that these Prices for 2 years O&M spares shall not be included in base price and these rates shall not be considered for evaluation purpose.
+Unit of Measure
+(UOM)
+Unit Freight Charges upto Project
+site excluding GST
+Description
+1. Vendor shall include in his proposal, his recommended spares for 2 years normal operation, as per MR. Bidder has to fill all the details as sought above.
+Sl. No. as
+per MR
+3. The prices quoted for recommended two years operation and maintenance spares shall remain valid upto 2 years validity beyond the contractual completion/delivery period of Order. Order of recommended two
+years operation and maintenance spares may be placed by BCPL/EIL separately, if required.
+Quantity
+Recommended
+Currency
+Page 504 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Quoted for Group D
+Format-B3
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+ITEM SR. NO.
+GROUP
+CODE
+ITEM CODE
+ITEM DESCRIPTION
+QUANTITY
+% Break-up in terms of total
+supply price of Group, quoted
+in Price Bid
+(In %)
+GROUP: A
+1.0001
+A
+100-MOIS-001
+MOISTURE ANALYSERS
+1 Lot
+1.0001.01
+A
+300-AT-23301
+MOISTURE ANALYSER
+1 Nos
+.............. %
+1.0001.02
+A
+300-AT-23401
+MOISTURE ANALYSER
+1 Nos
+.............. %
+1.0001.03
+A
+300-AT-23501
+MOISTURE ANALYSER
+1 Nos
+.............. %
+1.0001.04
+A
+300-AT-23801
+MOISTURE ANALYSER
+1 Nos
+.............. %
+1.0001.05
+A
+300-AT-25101
+MOISTURE ANALYSER
+1 Nos
+.............. %
+1.0001.06
+A
+303-AT-35701
+MOISTURE ANALYSER
+1 Nos
+.............. %
+100.00%
+GROUP: C
+1.0003
+C
+300-DENS-001
+DENSITY/MOLECULAR WEIGHT ANALYSERS
+1 Lot
+PRICE SCHEDULE (FOR % BREAKUP OF SUPPLY PRICE)
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+NOTES:
+1. Bidder shall furnish Percentage breakup of total supply price of respective group, quoted in Price Bid.
+2. Duly filled, sign/stamped copy this sheet shall be submitted by bidder along with unpriced bid.
+3. Bidder to ensure that sum of % break-up furnished by them, equals to 100.00%
+4. In case of discrepancies in the Item Description/Quantity in this Format, description/quantity etc. as per MR shall prevail.
+5. Unit rates for each analyser derived based on the % break-up quoted in this Format shall also be used for addition/deletion purpose required as per
+MR.
+PROCESS STREAM ANALYSERS - MOISTURE
+TOTAL =
+PROCESS STREAM ANALYSERS - DENSITY/MOLECULAR WEIGHT
+Page 505 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Format-B3
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+ITEM SR. NO.
+GROUP
+CODE
+ITEM CODE
+ITEM DESCRIPTION
+QUANTITY
+% Break-up in terms of total
+supply price of Group, quoted
+in Price Bid
+(In %)
+PRICE SCHEDULE (FOR % BREAKUP OF SUPPLY PRICE)
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+NOTES:
+1. Bidder shall furnish Percentage breakup of total supply price of respective group, quoted in Price Bid.
+2. Duly filled, sign/stamped copy this sheet shall be submitted by bidder along with unpriced bid.
+3. Bidder to ensure that sum of % break-up furnished by them, equals to 100.00%
+4. In case of discrepancies in the Item Description/Quantity in this Format, description/quantity etc. as per MR shall prevail.
+5. Unit rates for each analyser derived based on the % break-up quoted in this Format shall also be used for addition/deletion purpose required as per
+MR.
+1.0003.01
+C
+300-AT-11103
+MOLECULAR WEIGHT ANALYSER
+1 Nos
+.............. %
+1.0003.02
+C
+300-AT-11201
+MOLECULAR WEIGHT ANALYSER
+1 Nos
+.............. %
+1.0003.03
+C
+300-AT-11301
+DENSITY ANALYSER
+1 Nos
+.............. %
+1.0003.04
+C
+300-AT-11401
+DENSITY ANALYSER
+1 Nos
+.............. %
+1.0003.05
+C
+300-AT-11501
+DENSITY ANALYSER
+1 Nos
+.............. %
+1.0003.06
+C
+300-AT-11502
+DENSITY ANALYSER
+1 Nos
+.............. %
+100.00%
+GROUP: D
+1.0004
+D
+400-INFR-001
+INFRARED (IR) ANALYSERS
+1 Lot
+1.0004.01
+D
+300-AT-41402
+INFRARED ANALYSER
+1 Nos
+.............. %
+1.0004.02
+D
+300-AT-42401
+INFRARED ANALYSER
+1 Nos
+.............. %
+100.00%
+TOTAL =
+PROCESS STREAM ANALYSERS - INFRARED (IR)
+TOTAL =
+Page 506 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Quoted
+Quoted
+Quoted
+Dear Sir/Madam,
+Please find enclosed our quotation for design, engineering, manufacture and Supply of analyser system
+which includes analysers as per your requirement.
+TECHNICAL OFFER
+ADAGE QUOTE REF:
+Q26N10113
+DATED : 29.05.2026
+BID TYPE : Tender
+PROJECT TITLE:
+ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS FOR BREP
+AT BPCL BINA REFINERY
+INQUIRY DETAILS:
+RFQ No.: SP/B957-000-YA-MR-1623/140
+CUSTOMER:
+Engineers India Limited, Gurugram
+END USER:
+Bharat Petroleum Corporation Limited, Bina Refinery
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summery Of Prices
+SECTION-2: Technical Literature
+SECTION-3: Responsibility matrix
+SECTION-4: Commercial Terms & Condition
+Kindly review and do let us know if you have any queries
+Kind Regards
+Mr. Tejas Rivonkar
+ADAGE AUTOMATION PVT LIMITED
+tejas@adage-automation.com
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+SECTION 1: SUMMARY OF PRICES
+Sr.
+No.
+Item Description
+Qty
+Unit Price(INR)
+Total Price(INR)
+Group D
+1
+Supply of Group-C As Per MR
+1 Lot
+Quoted
+Quoted
+2
+Transportation of Group-C As Per MR
+1 Lot
+Quoted
+Quoted
+3
+Mandatory Spares of Group-C As Per MR
+1 Lot
+Quoted
+Quoted
+4
+Per Diem Rate for Supervision of Group-C As Per
+MR
+3
+Days
+Quoted
+Quoted
+5
+Per Diem Rate For Training of Group-C As Per MR
+2
+Days
+Quoted
+Quoted
+Note: Modbus serial output shall be terminated at CSJB of field cabinet, further distribution is
+customer’s scope
+SECTION 2: TECHNICAL LITERATURE
+GROUP - D
+1
+Ethylene Analyzer:
+Tag No: 300-AT-41402
+Service: Ethylene Fractionator Control Tray (300-CC-00-4002).
+Make: Siemens AG, Germany
+Model: Ultramat 6F
+Principle: NDIR Type
+Mounting Location: Mounted Inside Cabinet with Redundant Ex-
+Proof AC.
+Hazardous Area Classification: Zone 2, GR IIC T3, Exp
+Measuring range:
+C2H4: 0-60 mol%
+Process Conditions at sample Inlet:
+-
+Operating Temperature: (-) 20.70 °C
+-
+Operating Pressure: 17.46 Kg/cm2.
+Process Conditions at sample Retrun:
+-
+Operating Temperature: (-) 27 °C
+-
+Operating Pressure: 0.74 Kg/cm2.
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Serial Output
+-
+Potential free contacts for fault
+Utilities Required:
+-
+110VAC, 50Hz UPS
+-
+415 VAC, 50 Hz (Non-UPS) Power Supply for Ex-Proof AC
+Instrument air @5-6 Kg/cm2.
+1 No
+Quoted
+1.1
+Sample Probe
+-
+Retractable type probe with non-fly off design.
+-
+MOC: SS316
+1 No
+Quoted
+1.2
+Sample Supply line:
+-
+1⁄4” SS316 Tube.
+30 mtr
+Quoted
+1.3
+Sample Return line:
+-
+3/4” SS316 Tube.
+70 mtr
+Quoted
+1.4
+Primary Sample Handling System
+-
+Shall consist of Ball valve, SRV, Filters,pressure regulator etc.
+-
+Mounted inside SS304 enclosure.
+1 No
+Quoted
+1.5
+Secondary Sample handling system:
+-
+Shall consist of Ball valve, Pressure indicator, Needle valve,
+SOV’s for Calibration, Sample rotameter for bypass & supply,
+Redundant fastloop filter, etc
+-
+SHS components shall be Plate mounted inside cabinet
+1 No
+Quoted
+1.6
+Calibration Gas Cylinders and Regulators:
+-
+With Calibration gas Cylinders for Zero & Span
+-
+10 Litre Span gas cylinder each of C2H4.
+-
+10 Litre N2 Zero Gas cylinder
+1 Set
+Quoted
+1.7
+Analyzer Cabinet:
+-
+Analyser cabinet (Approx dimension shall be finalised during
+detailed engineering) MOC: SS304 with 500 mm Canopy MOC:
+SS, extending from all the sides.
+-
+IP65 Rated
+-
+Redundant Ex proof AC certified for Zone 2
+-
+ASJB, DSJB, CSJB, Exd, LM6
+-
+PDB, Exd, LM6
+-
+Headers
+1 No
+Quoted
+2
+Propylene Analyzer:
+Tag No: 300-AT-42401
+Service: Ethylene Fractionator Control Tray (300-CC-00-4002).
+Make: Siemens AG, Germany
+Model: Ultramat 6F
+Principle: NDIR Type
+Mounting Location: Mounted Inside Cabinet with Redundant Ex-
+Proof AC.
+Hazardous Area Classification: Zone 2, GR IIC T3, Exp
+Measuring range:
+C3H6: 0-60 mol%
+1 No
+Quoted
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 58.10 °C
+-
+Operating Pressure: 22.71 Kg/cm2.
+Process Conditions at Sample return:
+-
+Operating Temperature: 60 °C
+-
+Operating Pressure: 0.74 Kg/cm2.
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS 485 Serial output
+-
+Potential free contacts for fault
+Utilities Required:
+-
+110VAC, 50Hz UPS
+-
+415 VAC, 50 Hz (Non-UPS) Power Supply for Ex-Proof AC
+Instrument air @5-6 Kg/cm2.
+2.1
+Sample Probe
+-
+Retractable type with non-fly off design.
+1 No
+Quoted
+2.2
+Sample supply line
+-
+1⁄4” SS316 Tube.
+30 mtr
+Quoted
+2.3
+Sample Return line
+-
+3/4” SS316 Tube.
+70 mtr
+Quoted
+2.4
+Primary Sample Handling System
+-
+Shall consist of Ball valve, SRV, Filters, Heated Pressure
+regulator etc.
+-
+Mounted inside SS304 enclosure.
+1 No
+Quoted
+2.5
+Secondary Sample handling system:
+-
+Shall consist of Ball valve, Pressure indicator, Needle valve,
+SOV’s for Calibration, Sample rotameter for bypass & supply,
+Redundant fastloop filter, etc
+-
+SHS components shall be Plate mounted inside cabinet
+1 No
+Quoted
+2.6
+Calibration Gas Cylinders and Regulators:
+-
+With Calibration gas Cylinders for Zero & Span
+-
+10 Litre Span gas cylinder each of C3H6.
+-
+10 Litre N2 Zero Gas cylinder
+1 Set
+Quoted
+2.7
+Analyzer Cabinet:
+-
+Analyser cabinet (Approx dimension shall be finalised during
+detailed engineering) MOC: SS304 with 500 mm Canopy MOC:
+SS, extending from all the sides.
+-
+IP65 Rated
+-
+Redundant Ex proof AC certified for Zone 2
+-
+ASJB, DSJB, CSJB, Exd, LM6
+-
+PDB, Exd, LM6
+-
+Headers
+1 No
+Quoted
+SECTION 5: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+6
+Supply of Mandatory spares- Quoted
+Yes
+7
+Consumables spares- Quoted
+Yes
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+17
+Training at Site
+Yes
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+As per Tender
+Packing Charges
+As per Tender
+GST
+As per Tender
+HSN Code
+As per Tender
+Freight Charges
+As per Tender
+Insurances
+As per Tender
+Delivery
+As per Tender
+Offer validity
+As per Tender

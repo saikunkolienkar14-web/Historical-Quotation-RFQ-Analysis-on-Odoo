@@ -1,0 +1,214 @@
+Quotation Number: SQ2511X044
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[EURO]
+TOTAL PRICE
+[EURO]
+1.
+Extended conversion kit
+Part No.: 02403199963
+Conversion kit for upgrading a CWD2005 to the Union Platform
+Product (UPP) CWD.
+Includes a new display (HMI) which replaces the old control
+panel.
+The boards EA-Internal and EA-External are supplemented by
+one additional electronic each.
+The additional electronics 485-EAI and 485-EAX are mounted on
+the EA-Intern and EA-Extern respectively.
+The conversion kit modifies the current distribution in the CWD.
+Conversion kit to replace the control unit sold until August 2022
+with CWD combustion analyzers.
+1 No.
+13,208.00
+13,208.00
+2.
+Spare parts package 3-year CWD5G Basic consisting of:
+2.1
+O-Ring 20x2 Viton
+Part No.: 84401199802
+1 No.
+8.00
+8.00
+2.2
+O-ring 7x1.5 NBR70
+Part No.: 84401199800
+1 No.
+15.00
+15.00
+2.3
+O-ring 6.75x1.78 FPM80
+Part No.: 84401199796
+1 No.
+209.00
+209.00
+2.4
+O-ring 5.00 x 2.00 NBR 70
+Part No.: 84401199799
+1 No.
+16.00
+16.00
+2.5
+O-ring 57x3 NBR 70
+Part No.: 84401199805
+1 No.
+19.00
+19.00
+2.6
+O-ring 67x3 NBR70
+Part No.: 84401199804
+1 No.
+22.00
+22.00
+2.7
+Sealing ring
+Part No.: 84401199798
+1 No.
+9.00
+9.00
+2.8
+Sealing disc for M4 / metal ring with NBR seal
+Part No.: 84401199797
+1 No.
+53.00
+53.00
+2.9
+PTFE tube 3x2 natural 340mm Completely pre-assembled with
+clamping ring and nut
+Part No.: 2401199804
+1 No.
+54.00
+54.00
+2.10
+Silicone tube 4 x 7 mm, length 1.6 m
+Part No.: 2401199820
+1 No.
+79.00
+79.00
+2.11
+Diaphragm for precision gas regulator
+Part No.: 2401199999
+1 No.
+240.00
+240.00
+2.12
+Diaphragm for precision gas regulator
+Part No.: 2401199985
+*Compatible to Union instruments CWD2000, CWD2005
+*Material: ISOPLAN-750, 94x84x2mm
+1 No.
+44.00
+44.00
+2.13
+Air Orifice Gasket
+Part No.: 2401199933
+1 No.
+12.00
+12.00
+2.14
+Silicone tube
+Part No.: 2401199898
+Outer diameter: 9,0 mm
+Inner diameter: 6,0 mm
+Wall thickness: 1,5 mm
+Length: 1 m
+1 No.
+102.00
+102.00
+2.15
+Neoprene Tube
+Ø6 x 2 mm, Length : 1000 mm
+Part No.: 2401199998
+1 No.
+60.00
+60.00
+2.16
+O-ring 9.00 x 2.00 NBR 70
+Part No.: 84401199801
+1 No.
+8.00
+8.00
+2.17
+O-Ring
+Part No.: 2401199813
+Innendurchmesser: 4,5 mm
+Schnurstärke: 1,5 mm
+Marke Material-Code: 70 NBR
+Werkstoff: Acrylnitril-Butadien-Kautschuk (NBR)
+Temperatur: -20...100°C
+Farbe: schwarz
+1 No.
+15.00
+15.00
+2.18
+Air filter with Grip Protection
+Part No.: 2401199872
+·Usable for CWD
+·Dimensions 200 x 200 x 95 mm
+1 No.
+225.00
+225.00
+2.19
+Fuse for power supply
+Part No.: 2402199943
+1 No.
+39.00
+39.00
+2.20
+Ignition electrode
+Part No.: 2402199987
+for CWD Basic burner type M and burner type H
+1 No.
+314.00
+314.00
+2.21
+Electronic pressure sensor gas
+Part No.: 2402199966
+1 No.
+534.00
+534.00
+2.22
+PT100 Cable Temperature Sensor with Silicone
+Part No.: 2402199982
+1 No.
+154.00
+154.00
+2.23
+Thermopile CWD Basic
+Part No.: 2403199997
+1 No.
+1,646.00
+1,646.00
+2.24
+Burner Type H
+Part No.: 2401199900
+1 No.
+1,142.00
+1,142.00
+2.25
+EMV-Sealing to CWD
+10 x 1 m - pieces (total 10 m)
+Part No.: 2401199903
+1 No.
+414.00
+414.00
+2.26
+Heat exchanger 0,2 mm incl. gasket
+Part No.: 2401199894
+1 No.
+693.00
+693.00
+2.27
+Electronic pressure sensor gas inlet with connection plate
+Part No.: 2402199965
+1 No.
+311.00
+311.00
+2.28
+Precision Gas Regulator for CWD
+Part No.: 2401199947
+1 No.
+2,254.00
+2,254.00

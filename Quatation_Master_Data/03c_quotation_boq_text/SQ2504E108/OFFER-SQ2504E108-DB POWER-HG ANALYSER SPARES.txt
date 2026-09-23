@@ -1,0 +1,104 @@
+Quotation Number: SQ2504E108
+BOQ Status: FOUND
+
+ADAGE DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Hg ANALYSER TEMP CONTROLLER
+FGD
+Hg analyser temperature controller card.
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2.
+HM-1400 SP PLC TC module
+suitable for HM-1400 TRX/TRX 2
+with PLC C1JW
+1
+2,66,383.00
+2,66,383.00
+2
+Hg ANALYSER STATIC RELAY CEMS
+FGD
+Hg analyser static relay
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2.
+HM-1400 SP Solid State Relay
+3-60V/3A suitable for HM-1400
+TR/TRX/TRX 2 usable for
+actuation of 24V-circuits
+1
+1,24,483.00
+1,24,483.00
+3
+Hg ANALYSER SAMPLE LINE RTD CEMS
+FGD
+Sample line RTD
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2.
+Temperature element of Heated
+sample line PT 100
+1
+8,250.00
+8,250.00
+4
+Hg ANALYSER HgCL2 SOLUTION CEMS
+FGD
+Hgcl2 solution
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2.
+HM-1400 SP LSG-0.2ppm Hg2+
+HCl pH 3, 1000 ml for expected
+measuring result in the device:
+ca. 1-10μg/Nm3
+1
+27,500.00
+27,500.0
+5
+Hg ANALYSER REAGENT SET FGD
+Mercury analyser Reagent set.
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2.
+"HM-1400 SP Maintenance set -
+1 suitable for HM-1400 Mercury
+Analyser contains wear and tear
+parts:- 4x 700ml solid mix for
+reactor for conversion of
+Hgx into Hg0 / UN 3244
+- 2x 60g iodine charcoal 5% / UN
+1362
+- 2x sealing reduction vessel
+100x80x2mm
+- 16x sealing ring reduction
+vessel Ø18/6x3mm
+- 1x zero gas filter, filled
+- 1x condensate blocking
+membrane
+- 2x prefilter for particles and
+aerosols
+- 50g glass wool
+- 0,2m Hose DI4,8x1,6-DA8-
+Verderprene"
+1
+1,65,920.00
+1,65,920.00
+6
+Hg ANALYSER ACTIVATED CHARCOAL
+FGD
+Activated Charcoal for Mercury analyser
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2
+7
+Hg ANALYSER AMBIENT AIR FILTER
+Mercury analyser Ambient Air filter.
+Total mercury Analyser
+Make: DURAG
+Model:HM-1400 TRX 2.

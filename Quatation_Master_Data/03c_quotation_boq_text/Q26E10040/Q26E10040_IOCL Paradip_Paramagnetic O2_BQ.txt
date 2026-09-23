@@ -1,0 +1,100 @@
+Quotation Number: Q26E10040
+BOQ Status: FOUND
+
+Description
+Qty
+Price (INR)
+1.1
+Paramagnetic Oxygen Analyser
+Tag No: 011-AT-1001
+Make: Michell
+Model: XTP601
+Principle: Thermo-paramagnetic oxygen sensor
+Hazardous Area: Analyzer Suitable for Zone 1 IIB+H2 T6
+Range: 0-25vol%
+IP rating: IP66
+Mounting: On Field Rack
+Analyser Ambient Temperature Rating: +5 to 60 °C
+Sample Consumption by Analyser: 16.2-19.8 LPH
+Analyser Power Supply: 24VDC, 1.6A
+Analyzer Outputs:
+-
+Analog Output: 4-20 mA non-IS
+-
+Digital Communication: RS 485 MODBUS
+Utility Required:
+-
+Water for Water Wash Chamber, Manual Filling
+-
+115/230VAC, 50 Hz Power supply
+Notes:
+1. Analyzer is suitable for installation in Field. We have considered
+Open Field Rack Installation with Canopy and IP65 Enclosure for
+SCS except Sample Gas Cooler.
+2. Optional Price provided for Field Cabinet with Ex-Proof Cabinet
+Cooler.
+3. For requirement of Water Wash since supporting document (viz.
+UOP Licensor Datasheet 946587-630) is not available at the time
+of this bid we have considered system as per attached PID.
+1 No
+40,64,776/-
+1.2
+Sample Conditioning System
+a) Sample Tap: DN20 150# Flange Type with Instrumentation Ball
+Valve, 1⁄4” OD Tube Connection Make- Adage.
+b) Sample Transport Tube: 1⁄4” OD SS316 0.035” thk Tube length-
+10meters Make- Sandvik / Ratnamani / Sumitomo
+c) Pressure Reducer, Water Wash Chamber, Refrigerant Type
+1 Lot
+Inclusive
+Sample Gas Cooler, Coalescing Filter, Glass Tube Type Sample
+and Bypass flow rotameter, Ball Valves for Sample Gas /
+Calibration Gas Connection, Calibration Cylinder Regulator and
+mounting arrangement, Sample Return connection and
+Atmospheric Vent for Analyzer spent sample. System Make –
+Adage. Component Make as per IOCL vendor list. Fittings –
+Swagelok / Parker.
+Notes:
+1. Sample Return Line By Others, provision for 1⁄2”OD Tubing
+connection shall be made in SCS.
+2. For requirement of Water Wash since supporting document (viz.
+UOP Licensor Datasheet 946587-630) is not available at the time
+of this bid we have considered system as per attached PID.
+3. Auto-Calibration not available.
+1.3
+Field Rack with Canopy and required Accessories
+1. Field Rack made of Powder coated ISMC (Mild Steel).
+Canopy – MOC-FRP
+Make- Adage
+2. Rack Accessories:
+Signal JB & Electrical PDPs – Flameproof / Flexpro / Ex-Protecta
+Light - Flameproof / Flexpro / Ex-Protecta
+1Nos
+Inclusive
+2
+Engineering Documentation and Project Management
+1Lot
+Inclusive
+3
+Supervision of Installation and Commissioning
+Per
+Diem
+50,000/-
+SECTION 2: Typical P&ID (only for ref.)
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+30 days.

@@ -1,0 +1,94 @@
+Quotation Number: Q2508W151
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+CALORIFIC VALUE OF NATURAL GAS
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+MOUNTING LOCATION: ON FIELD
+AREA CLASSIFICATION: SAFE AREA
+FOR KILN MEASURING RANGE:
+CV: 8500 Kcal/SCM
+SAMPLE HANDLING SYSTEM:
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve.
+Coalescing Filter, Pressure regulators.
+Calibration Cylinder with Pressure Regulator.
+MOUNTING ARRANGEMENT:
+Shall be mounted on panel , MOC: CRCA.
+With Panel AC for field mounting
+ANALYSER SPECIFICATIONS:
+Calorimeter Type CWD2005- for Measurement
+of Calorific Value, Wobbe-Index, Specific Density
+•
+Kind of Gas: Natural Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+Individual 4-20 mA analog output for Calorific
+value, Wobbe Index and Specific gravity resp.
+RS232 Serial Output 3 x Digital Outputs
+1 Set
+Rs. 62,00,000
+Rs.
+62,00,000.00
+1.2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : SS ;
+PORT SIZE: 1/2’’
+POWER SUPPLY : 230 VAC 50HZ
+DISTANCE FROM TAPPING POINT TO PANEL:
+Per
+Mtr
+Rs. 4,500
+Rs. 4,500/Meter
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mand
+ays
+Rs. 40,000
+Rs.
+40,000/Manday
+Note:
+1. Customer must provide tapping to process line at a place where laminar flow of gas is available.
+2. Any kind of Civil, Electrical, Mechanical work will be in customer scope.
+3. Supply and laying of power, signal and communication cable will be in customer scope.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+•
+Power cable, signal cable is in scope of customer.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for Sample Tube for Sample Gas Transportation. Any Extra tubing
+Tube would attract a price per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel
+shall be Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+•
+Air conditioner room shall be provide to mount gas analyzer system.

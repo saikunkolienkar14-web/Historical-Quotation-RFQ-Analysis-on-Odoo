@@ -1,0 +1,47 @@
+Quotation Number: SQ2605N118
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+PR Line-Item No.: 10
+Material Code: 12AT1101
+Short Description: NDIR ANALYSER STACK
+Long Description: NDIR ANALYSER STACK
+1.00
+21,66,667.00
+21,66,667.00
+2
+PR Line-Item No.: 20
+Material Code: 00020
+Short Description: Service for Installation & Commissioning
+1.00
+30,000.00
+30,000.00
+3
+PR Line-Item No.: 2000010
+Material Code: SSSHIXPTEIYZ244CI
+Short Description: HIRING EXPERT NORMLDAY 8.5 HR Working
+Day: Normal Day Working Period: 8.5 Hour
+Long Description: SSSHIXPTEIYZ24*HIRING EXPERT OEM
+RESIDENT*Providing Services Without Material
+Hiring Expert
+Vendor Type : OEM
+Origin : Resident
+Job Scope
+As per Instruction of Engineer in Charge
+Vendor Obligation Personal Protective Equipment, Tools And
+Tackles
+HMEL Obligation
+Basic Amenities At Site (AIR, WATER, POWER),
+Boarding And Lodging, Consumables, Fuel, Lifting
+Equipment, Offsite Logistic - Vendor To Worksite, Offsite Logistic
+- Worksite To Vendor, Onsite Logistic, Spares, Travel
+Required Quantity: 2 Days
+1.00
+20,000.00
+20,000.00

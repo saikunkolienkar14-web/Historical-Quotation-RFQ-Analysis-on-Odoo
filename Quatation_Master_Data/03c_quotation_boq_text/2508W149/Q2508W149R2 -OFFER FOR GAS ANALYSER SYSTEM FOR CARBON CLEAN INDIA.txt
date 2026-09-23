@@ -1,0 +1,95 @@
+Quotation Number: Q2508W149R2
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF NO,
+NO2, CO2 & O2
+WITH TWO SAMPLING TAPPING
+WITH SAMPLE HANDLING SYSTEM
+WITH TOUCH SCREEN GRAPHIC COLOUR DISPLAY
+WITH RACK MOUNTING
+WITH CALIBRATION GAS CYLINDER
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 NO
+For Nitrogen Monoxide (NO) (NDIR BASED)
+Measurement Range: 0-500 PPM
+LDL: 5 PPM
+For Nitric Dioxide (NO2) (UV BASED)
+Measurement Range: 0-50 PPM
+LDL: 0.4 PPM
+POWER SUPPLY: 230 VAC, 50 Hz.
+ULTRAMAT 23– 1 NO
+For Carbon Dioxide (CO2) Measurement (NDIR)
+Measurement Range: 0-25 % VOL
+LDL: 0.25 %
+For Carbon Dioxide (CO2) Measurement (NDIR)
+Measurement Range: 0-100 % VOL
+LDL: 1%
+For Oxygen (O2) Measurement (PARAMAGNETIC)
+Measurement Range: 0-30 % VOL
+LDL: 0.3%
+POWER SUPPLY: 230 VAC, 50 Hz.
+MAKE SIEMENS AG, GERMANY
+1 Set
+Rs. 48,00,000
+Rs.
+48,00,000.00
+2
+PRE FABRICATED HEATED TUBE FOR SAMPLE GAS
+TRANSPORTATION
+MOC : PTFE, PORT SIZE: 1⁄4’’
+FOR NO,NO2,CO2,O2: 15 METERS
+FOR CO2 : 15 METERS
+30
+Mtrs
+Rs. 4,500
+Rs. 1,35,000
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+FOR MUMBAI PLANT
+Lum
+sum
+Rs. 1,00,000
+Note:
+1. All signal, power & communication cable is in customer scope.
+2. Communication from gas analyser panel to DCS is considered, required cable is in
+customer scope.
+3. UPS Power Consumption: 300 VA (approximately)
+4. Non UPS Power Consumption: 3000 VA (approximately)
+5. SS Tubing from analyser panel to calibration cylinders is in customer scope.
+6. Please confirm distance of cylinder to analyser rack.
+7. Vent from analyser module will be at 5 meter above man height in atmosphere.
+8. Approximate rack size will be 800 x 600 x 2100 mm.
+9. We have dedicated service engineer team in our Mumbai office to cater to servicing of gas
+analyser system.
+10. Total Nox reading will be displayed on HMI.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+•
+Power cable, signal cable is in scope of customer.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for Sample Tube for Sample Gas Transportation. Any Extra tubing
+Tube would attract a price per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near panel shall be
+Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+•
+Air conditioner room shall be provide to mount gas analyzer system.

@@ -1,0 +1,83 @@
+Quotation Number: Q2412C037
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE (INR)
+TOTAL PRICE
+(INR)
+SCHEDULE-1
+1
+H2 ANALYSER SYSTEM
+Service: Measuring in H2 in Steam gas mixture
+Mounting Location: Inside Existing Analyzer Room/Building
+Area Classification: Analyser rated for Zone 1
+Make: Siemens, Model: CALOMAT6
+Process Conditions:
+•
+Temperature: 40-60 Deg C
+•
+Pressure: -50 to 150 Kpa
+Measuring Range:
+•
+H2: 0-1%
+Sample Handling System:
+•
+With necessary needle valves, gas coolers,
+pumps, solenoid valves, flowmeters, ball valves.
+Panel Specification:
+•
+Exact Dimensions shall be finalized during
+detailed design engineering
+•
+MOC: CRCA
+Calibration Cylinders:
+•
+With necessary zero and span cylinders.
+1 No.
+QUOTED
+QUOTED
+SCHEDULE-2
+2
+H2 ANALYSER SYSTEM
+Service: Measuring in H2 in Steam gas mixture
+Mounting Location: Inside Existing Analyzer Room/Building
+Area Classification: Analyser rated for Zone 1
+Make: Siemens, Model: CALOMAT6
+Process Conditions:
+•
+Temperature: 40-60 Deg C
+•
+Pressure: -50 to 150 Kpa
+Measuring Range:
+•
+H2: 0-5%
+Sample Handling System:
+•
+With necessary needle valves, gas coolers,
+pumps, solenoid valves, flowmeters, ball valves.
+Panel Specification:
+•
+Exact Dimensions shall be finalized during
+detailed design engineering
+•
+MOC: CRCA
+Calibration Cylinders:
+•
+With necessary zero and span cylinders.
+1 No.
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION AND COMMISIONING
+4
+MANDAYS
+INCLUSIVE FOR 1 VISIT OF 4
+MANDAYS (post which per diem
+charges shall be applicable)
+4
+TRAINING AT SITE
+3 DAYS
+INCLUSIVE

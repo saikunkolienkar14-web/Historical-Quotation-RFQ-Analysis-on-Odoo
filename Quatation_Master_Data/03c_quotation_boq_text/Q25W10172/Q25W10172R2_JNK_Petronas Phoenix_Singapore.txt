@@ -1,0 +1,133 @@
+Quotation Number: Q25W10172R2
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+O2 + COe Analyser (A39-001-AT-2000)
+60,15,000
+60,15,000
+2
+1
+O2 + COe Analyser (A39-001-AT-2001)
+60,15,000
+60,15,000
+3
+1
+O2 + COe Analyser (A39-002-AT-2100)
+60,15,000
+60,15,000
+4
+1
+O2 + COe Analyser (A39-051-AT-2200)
+60,15,000
+60,15,000
+5
+1
+Project Documentation
+Incl
+Incl
+6
+1
+FAT at Adage Factory
+Incl
+Incl
+7
+1
+Packing & forwading charges
+1,00,000
+1,00,000
+8
+Per
+Diem
+Supervision of installation & Commissioning
+(VISA, Air tickets, local boarding & Lodging shall be in
+Customer’s scope)
+$ 2,200
+$ 2,200
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: A39-001-AT-2000
+-
+Operating Pressure (Nor): -0.00025 Kg/cm2g
+-
+Operating Temperature (Nor): 758 Degree C
+Service: Flue Gas
+As per MR
+Requirement
+1.1
+Oxygen & Combustible Analyser
+Make: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+(Closed Couple Type)
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia for O2
+Dual hot-wire catalytic detectors for Combustion
+Rating: IP65
+Measuring range:
+O2: 0-10 vol%
+COe: 0-2000 ppmv
+Process Connection: 4" 150# Flanged
+Probe Type:
+-
+MOC: Inconel 600
+-
+4" 150# Flanged connection
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+Air requirements:
+-
+0.085 Nm3/h typical at 21 to 41 kPa, instrument air.
+Utilities Required:
+-
+Power Input: 230 VAC,50Hz, power consumption is 800VA.
+Analyzer Outputs:
+-
+With 4-20 mA Analog output.
+-
+Potential free contacts for fault
+1 No
+Quoted
+Note:
+Local Indicator For O2 shall be 0-100% & for COe shall be 0-10000 ppm
+1.2
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+-
+RCU unit for Auto/Manual calibration with SOV & metal tube
+flowmeter (Flow: 0.06 Nm3/hr Pressure: 98 Kpa).
+-
+With HMI (Suitable for Zone-2) IECex certified, Make Ametek.
+-
+With electrical Power JB, MOC: LM6
+-
+Separate Analog & Digital Signal JB, MOC: SS316
+-
+6 mm SS316 Tubing between RCU unit and Analyzer Sensor. (80
+meters for calibration + 80 meters for aspirator)
+-
+10L O2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+-
+10L Coe+H2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+Notes: All the Signal & Power cables shall be in JNK’s Scope.
+Note :
+-
+Instrument air of flange size: 1” 150#RF, at sensor unit on stack
+for purging shall be provided by customer.
+-
+4-20Ma Analog output from sensor unit at stack till DCS/Control
+room in customer’s scope.
+-
+230 VAC 50Hz power supply shall be provided till RCU unit at
+grade level, further cabling upto sensor unit at stack shall be in

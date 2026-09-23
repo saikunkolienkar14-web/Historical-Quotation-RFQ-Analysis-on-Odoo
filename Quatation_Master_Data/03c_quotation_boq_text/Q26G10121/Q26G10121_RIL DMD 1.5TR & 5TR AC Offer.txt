@@ -1,0 +1,30 @@
+Quotation Number: Q26G10121
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE (INR)
+1
+Panel AC 1.5 TR
+Make: Adage Automation Pvt Ltd.
+Model: ADAGE 1.5 TR AC, Floor Mounted Package AC
+Area classification: Zone 1 IIC, IEC ex Certified
+Supply Voltage: 415 V AC 50 Hz 3 Phase
+Power Consumption: 2.75KW
+Skid MOC: SS316, Liquid Painted for VCM Application
+Condenser & Evaporator Coil MOC: Cu Fin & Cu Tube with Anti
+corrosive Coating for VCM application
+1
+6,30,000/-
+2
+Panel AC 5 TR
+Make: Adage Automation Pvt Ltd.
+Model: ADAGE 5 TR AC, Floor Mounted Package AC
+Area classification: Zone 1 IIC, IEC ex Certified
+Supply Voltage: 415 V AC 50 Hz 3 Phase,
+Power Consumption: 9.5KW
+Skid MOC: SS316, Liquid Painted for VCM Application
+Condenser & Evaporator Coil MOC: Cu Fin & Cu Tube with Anti
+corrosive Coating for VCM application
+1
+12,50,000/-

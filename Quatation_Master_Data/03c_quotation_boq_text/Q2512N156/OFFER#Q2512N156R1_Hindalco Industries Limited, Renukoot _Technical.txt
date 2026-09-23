@@ -1,0 +1,93 @@
+Quotation Number: Q2512N156R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF SO2 AT STACK
+With Gas Sampling Probe
+With Auto Probe Cleaning Facility
+With Blow Back Unit
+With Sample Handling System
+With IP65 Panel
+With Panel AC
+With Calibration Cylinders
+With Microprocessor Based Analyser
+With Touch Screen Graphic Color Display – 7“
+ULTRAMAT 23 – 01 NO.
+For Sulphur Dioxide (SO2)
+Analyzer Make: SIEMENS AG, GERMANY
+17 SETS
+QUOTED
+QUOTED
+2
+1 KVA UPS WITH 30 MINUTES BATTERY BACKUP
+MAKE: Vertiv
+17 SETS
+QUOTED
+QUOTED
+3
+IOT BASED DATA LOGGER FOR CONNECTING DATA TO CPCB/SPCB
+Note: SIM Card/ LAN connection shall be provided by customer
+17 SETS
+QUOTED
+QUOTED
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE,
+Tube Size: 1⁄4”
+Along With Jb’s And Accessories
+@QUOTED PER METER
+5
+DUST MONITOR AT STACK
+Analyzer Make: SICK, GERMANY
+MEASUREMENT PRINCIPLE: SCATTERED LIGHT INTENSITY
+(BACKWARD SCATTERING)
+Output: 0/2/4 ... 20 mA
+Automatic Self-Test
+Digital Outputs 3 Relay Contacts For Status Signals
+Power Supply: VOLTAGE 230 VAC
+Power Consumption ≤ 4 W
+UTILITY REQUIREMENT: INSTRUMENT AIR FREE FROM OIL, DUST &
+MOISTURE AT 4/6 BAR TO BE PROVIDED BY THE CUSTOMER.
+15 SETS
+QUOTED
+QUOTED
+6
+STACK FLOW MONITOR
+Measuring Principle: Differential Pressure Pitot Tube
+Output: 4 ... 20 Ma
+Suitable For Operating Temperature Upto 700 Deg C
+Pressure: -10KPA ... +10KPA
+Response Time: < 1 SEC
+Velocity: 0 ... 15M/S 0 ... 40M/S
+Power Supply: 230 VAC, 50 HZ
+MAKE: ADAGE, MODEL: FLOW CEMS 100
+UTILITY REQUIREMENT: INSTRUMENT AIR @ 4-6 BAR FREE FROM OIL,
+DUST & MOISTURE SHALL BE PROVIDED BY THE CUSTOMER.
+17 SETS
+QUOTED
+QUOTED
+7
+SUPPLY & ERECTION SCOPE WIHICH INCLUDES
+Supply & Laying of Power & signal cables
+Supply & laying of cable trays
+Supply & Laying of Instrument Air Line from Analyzer Panel to Probe
+Installation of Analyzer Panels at ground level
+Installation of Blowback unit at the stack.
+Installation and fixing of CEMS Probe, Dust Monitor & Flowmeter.
+1 SET
+QUOTED
+QUOTED
+8
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket/ Ac II Train
+Fare To Be Arranged By Customer)
+@QUOTED PER MAN DAY

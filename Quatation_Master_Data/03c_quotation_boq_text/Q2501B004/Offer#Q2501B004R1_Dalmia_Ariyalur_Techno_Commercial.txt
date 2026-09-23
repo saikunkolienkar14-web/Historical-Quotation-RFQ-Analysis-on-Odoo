@@ -1,0 +1,65 @@
+Quotation Number: Q2501B004R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSYTEM FOR MEASUREMENT OF CO & CO2
+AT PH CIRCUIT
+Service: PH Circuit
+Make: SIEMENS AG, GERMANY
+Model: ULTRAMAT 23
+Operating Principle: NDIR
+Process Conditions at Sample Inlet:
+
+Sample Pressure: 16 Kg/Cm2 ( Max)
+
+Distance from Analyser Panel : 17 Meters
+
+Customer should provide tapping point to draw the
+sample.
+
+Return Connection: To Vent (By customer)
+Sample Tube:
+
+1⁄4” SS316
+Primary SHS:
+
+Required, Consisting of probe isolation valve, Pressure
+Regulator, Balll valve ,Catchpot, Heated Filter, SOV’s &
+other components as required.
+
+SHS components Shall be mounted on Plate
+Secondary SHS:
+
+Secondary SHS shall consist of Pressure Regulator,
+Secondary filter, Balll valve , Condensate Monitor,
+Water Stop Filter, SOV’s & other components as
+required.
+Analyser Outputs:
+
+RS485
+
+4-20mA
+(For Detailed Specification Kindly Refer to Attached P&ID &
+Bom
+1 No.
+26,10,000
+26,10,000
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1/4”
+@650 PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket
+fare charges is to be arranged by customer)
+@30000 PER MANDAY

@@ -1,0 +1,189 @@
+Quotation Number: Q25G10111T0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Cycle Gas GC
+Quoted
+Quoted
+2
+1 No
+Project Documentation
+Quoted
+Quoted
+3
+1 No
+FAT at Adage Works
+Quoted
+Quoted
+4
+1 Lot
+Commissioning spares
+Filter element, Set of Oring, Set of Fuses
+Quoted
+Quoted
+5
+1 No
+Packing, Forwading & Transportation upto Site
+charges
+Quoted
+Quoted
+6
+Lumpsum Supervision of installation & commissioning & SAT
+Quoted
+Quoted
+7
+1 Lot Training at Site for 2 days
+Quoted
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. We have only Quoted Bare GC with GCP software for this case. Probe, Tubbing, SHS, PDB’s, JB’s
+& all other required accessories shall be used existing.
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 3: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 410AT-5001
+Stream details:
+-
+Supply Pressure (Op/Design): 33.4/43.6 Kg/cm2g
+-
+Temperature (Op/Design): 73/165 Deg C
+Service: CYCLE GAS FROM COMPRESSOR FOR
+POLYPROPYLENE
+As per MR Requirement
+1.1
+Gas Chromatograph
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Inside existing Analyser shelter
+GC Hazardous Area Classification: Zone 1, llC, T4
+No of Streams: 1
+Cycle time: 180 Seconds
+Detector : TCD
+Sample return : To Flare header/Vent header
+Detailed GC offer is as per Annexure 6
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.2
+GCP software
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 4 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Sample Probe
+Yes
+4
+Sample transportation tube from tapping till SHS
+Yes
+5
+JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+6
+Inspection & Testing
+Yes
+7
+Project Management & Project Documentation
+Yes
+8
+Factory Acceptance Test at Adage Works
+Yes
+9
+Packing forwarding
+Yes
+10
+Freight up to site
+Yes
+11
+Storage of supplied system at site
+Yes
+12
+Mobilization of supplied system from Stores to location.
+Yes
+13
+Installation of supplied system at site
+Yes
+14
+Supply of Standard Field Cables including signal, power
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at
+site
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc)
+Yes
+17
+Provision of dry instrument Air
+Yes
+18
+Provision of Plant Nitrogen
+Yes
+19
+Provision of Power (UPS and NON-UPS) at one location near
+Battery limit.
+Yes
+20
+Supervision of Installation and Commissioning
+Yes
+21
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+22
+Site Acceptance Test & Handover
+Yes
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+90 days.

@@ -1,0 +1,180 @@
+Quotation Number: Q2501N004R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CEMS
+Service: Furnace A & B
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: NOx/SO2/CO/O2
+Model 2: ULTRAMAT23
+Component to be measured: CO2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature: upto 775 Deg C
+•
+Pressure: 1011.05 hPa
+Measuring Ranges:
+•
+NOx: 0-250/1250 mg/m3
+•
+SO2: 0-400/2000 mg/m3
+•
+CO: 0-400/2000 mg/m3
+•
+CO2: 0-25%
+•
+O2: 0-25%
+With Primary sample handling system Consisting of:
+•
+Auto Blowback-Facility
+•
+With Single probe System.
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With solenoid valves and condensate monitors.
+Analyzer output:
+•
+4-20 mA
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+39,30,000/-
+78,60,000/-
+1.1
+GAS ANALYSER SYSTEM FOR CEMS- OPTIONAL
+Service: Furnace A & B
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: NOx/SO2/CO/O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature: 0-250 Deg C
+•
+Pressure: 1011.05 hPa
+Measuring Ranges:
+•
+NOx: 0-250/1250 mg/m3
+•
+SO2: 0-400/2000 mg/m3
+•
+CO: 0-400/2000 mg/m3
+•
+O2: 0-25%
+With Primary sample handling system Consisting of:
+•
+Auto Blowback-Facility
+•
+With Single probe System.
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With solenoid valves and condensate monitors.
+Analyzer output:
+•
+4-20 mA
+•
+MODBUS RS485
+Note:
+•
+We shall measure O2 instead CO2 as per CPCB guideline.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+34,50,000/-
+69,00,000/-
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermopad
+Per mtr
+@3300 PER METER
+3
+DUST MONITOR
+Service: Furnace A & B
+Make: Sick
+Model: SB-30
+Measurement Principle: Scattered Light Intensity (Backward
+Scattering)
+Overview:
+•
+Automatic Self-Test
+•
+Instrument air to be provided from plant to Dust monitor
+directly mounted on the stack. Hence no blower unit would be
+required.
+Measuring Ranges:
+•
+SPM: 0-100 mg/Nm3
+Analyzer output:
+•
+Output: 0/2/4 ... 20 mA
+•
+Digital Outputs: 3 Relay Contacts for Status Signals
+Utilities:
+•
+Power Supply: 230 VAC, Power Consumption ≤ 4 W
+2 Sets
+6,00,000/-
+12,00,000/-
+4
+FLUE GAS FLOW VELOCITY, TEMP & PRESSURE MONITOR
+TEMPERATURE, PRESSURE & FLOW
+Make: Adage
+Principle: Differential Pressure Pitot Tube Type
+Mounting Location: In-situ Type
+Overview
+•
+Velocity Range : 0~40m/s
+•
+Pitot Material: SS316
+•
+Suitable For Operating Temperature Up to 800 DegC
+•
+Purging Pressure : 0.3mpa~0.8mpa
+•
+Storage Temperature: 0~50°C
+•
+Communication: 4-20 mA Output
+•
+Temperature Measurement
+•
+Pressure Measurement
+2 Sets
+8,90,000/-
+17,80,000/-
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per Diem
+@30,000/- PER DIEM

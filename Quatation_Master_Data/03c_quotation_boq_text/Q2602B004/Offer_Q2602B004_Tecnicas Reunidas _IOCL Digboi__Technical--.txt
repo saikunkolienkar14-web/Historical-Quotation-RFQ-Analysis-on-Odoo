@@ -1,0 +1,136 @@
+Quotation Number: Q2602B004
+BOQ Status: FOUND
+
+SUMMARY OF PRICES
+Sr No
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL
+PRICE (INR)
+1
+Insitu cross duct type Gas analyser for measurement of O2 at flue gas
+outlet duct
+Tag No: 20-AT-0901
+Make: AIROPTIC
+Model: GAS EYE
+Operating principle: TDLAS
+Component to be measured: O2
+Measuring range: 0-0.5 vol%
+With sensor and transmitter electronics
+Degree of protection: IP66
+Analyser output:
+•
+4-20 mA
+•
+Digital output
+1 Set
+Quoted
+Quoted
+2
+Gas analysis system for measurement of CO, CO2, H2 in product from
+PSA
+Tag No:20-AT-1601
+With sample handling system
+With IP54 panel
+With Purge Control Unit
+With Microprocessor-based analyser
+With calibration gas cylinders
+Ultramat 6E – 1 no
+For the measurement of
+Carbon Monoxide (CO)
+Carbon Dioxide (CO2)
+Analyser make: Siemens Ag, Germany
+Calomat 6E- 1 no.
+For the measurement of
+Hydrogen (H2)
+Analyser make: Siemens Ag, Germany
+1 Set
+Quoted
+Quoted
+3
+Sample Gas Transportation Tube
+Moc: PTFE, Tube Size: 1⁄4”
+@Quoted Per Meter
+4
+Gas analysis system for measurement of CO, NO, SO2, O2 at stack
+Tag No: 20-AT-2302 and 20-AT-2301
+With gas sampling probe
+With auto probe cleaning facility
+With blow back unit
+With sample handling system
+With IP54 panel
+With Purge Control Unit
+With Microprocessor-based analyser
+With calibration gas cylinders
+With touch screen graphic color display – 7“
+Ultramat 23 – 1 no
+For the measurement of
+Carbon Monoxide (CO)
+Nitric Oxide (NO)
+Sulphur Dioxide (SO2)
+Oxygen (O2)
+Analyser make: Siemens Ag, Germany
+1 Set
+Quoted
+Quoted
+5
+Shelter For CEMS
+MOC: SS316
+With Redundant HVAC
+With Aluminium chequered plate flooring
+Completely wired and tubed to house the gas analyser system.
+Dimension: To be decided during detailed engineering
+1 Set
+Quoted
+Quoted
+6
+Heat trace tube for sample gas transportation for CEMS
+MOC: PTFE, tube size: 1⁄4”
+Along with JB’S and accessories
+@Quoted Per Meter
+7
+SPM Analyser
+Tag No: 20-AT-2303
+Area Classification: Zone 1, Gr IIC, T3
+Make: DURAG
+Model: DR 320 Ex1
+Back Scattering Principle
+Output: 4 ...20 mA
+1 Set
+Quoted
+Quoted
+8
+Mandatory spares as per the Philosophy (As Applicable)
+1 Set
+Quoted
+Quoted
+9
+Supervision Of Installation & Commissioning Charges
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket/ Ac II
+Train Fare To Be Arranged By Customer)
+@Quoted Per Man Day
+NOTE:
+•
+Output shall be available in the analyser system. Further connectivity /transmission to DCS /existing DAS shall be in
+customer’s scope. We understand that datalogger /DAS and internet connectivity for data transmission to CPCB/SPCB
+is in customer’s scope.
+•
+HART output is not applicable for the quoted analyser systems.
+•
+Both UPS and NON- UPS power supply at the panel and the tapping shall be in customer’s scope.
+•
+Please note we have quoted for safe area analysers and SHS components which shall be mounted inside a purged
+panel.
+•
+We have quoted for a single analyser to measure CO, NO, SO2 and O2 for CEMS.
+•
+Also, we have quoted for a single analyser to measure CO and CO2.
+•
+Please note the analyser panel for H2, CO, CO2 measurement shall be placed inside air-conditioned room by the
+customer.
+•
+MOC of the quoted panel is CRCA.
+•
+Supply and laying of all the cables shall be in customer scope.

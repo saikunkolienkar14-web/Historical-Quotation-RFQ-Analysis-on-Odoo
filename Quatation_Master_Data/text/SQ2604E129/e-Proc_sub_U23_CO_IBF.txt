@@ -1,0 +1,111 @@
+Quotation Details  
+Enquiry No:  
+1104255708
+Enquiry Date:  
+27 Apr 2026
+Due Date:  
+28 Apr 2026
+Quotation
+Date:
+  
+27 Apr 2026
+Quot Open
+Date:
+  
+Quotation
+Reference:
+  
+SQ2604E129
+Payment
+Terms:
+  
+100% within 45
+days of stfy rcpt
+of Material
+Currency:  
+Indian Rupee
+Vendor Name:  
+ADAGE AUTOMATION PVT.LTD.
+(AH24)
+Vendor Mail:  
+paul@adage-automation.com
+Phone No:
+8093270154 /
+9920217222
+Incoterms:
+BRG-Ex-Works
+Unpacked.
+Billing
+City/State:
+GOA/Goa,
+Daman & Diu
+Extra Charge Details (Tax Type --- Extra Charge Amount --- Unit)
+Freight % - FRA1  - 2   %
+Ins. on total bill % - Y019  - 1   %
+Packaging charge (%) - Y098  - 3   %
+Item Details
+ 
+ 
+Brief Desc:GAS ANLYSR;CO ANALYSER,0-5%,PANEL
+Detailed Desc:Additional text for item: No Details are available Contact -
+No Details are available Prayas Kumar Singh Mobile +91-9031903915
+prayas.singh@tata steel.com General Instruction to Vendor: Last ref.
+Enquiry:1104255708 and Qtn No :/Dated :2026/04/27 Purchase order
+text: GAS ANLYSR;CO ANALYSER,0-5%,PANEL TYPE : CO ANALYSER
+INSTALLATION : PANEL RANGE : 0-5% WORKING PRINCIPLE : INFRARED
+APPLICABLE GASES : CO APPLICABLE GASES : CO2 ACCURACY : +/-0.5 %
+POWER SUPPLY : 230 VAC OUTPUT : 4 TO 20 MA DISPLAY : LCD SAMPLING
+SYSTEM ACCESSORIES : NOT REQUIRED GAS PREPARATION AND CNDNG
+SYS : NOT REQUIRED GAS ANALYZER PANEL WITH : NO CALIBRATION
+MODE : AUTOMATIC AND MANUAL REPEATABILITY : <1% OF RESPECTATIVE
+MEAS RANGE LINEARITY : <1% OF RESPECTATIVE MEAS RANGE ZERO DRIFT
+: <0.5% / MONTH SMALL MEAS RANGE SPAN DRIFT : WITH AUTO CAL
+NEGLI + 2% /YR CERTIFICATION : ATEX, EMC, LVD SPECIAL FEATURES : NO
+SPECIAL FEATURES ADDITIONAL UMC DETAIL:: CO GAS ANALYSER 0-5%
+MEASURING COMPONENT: CO. RANGE: 0-5% VOL. OUTPUT: 4-20 MA
+ISOLATED 750 OHMS RESISTIVE INDICATOR: DIGITAL (CLEAR TEXT STATUS
+& ERROR MESSAGE). POWER SUPPLY: 230 VAC +10%, 50 HZ + 3 HZ.
+ENCLOSURE: GENERAL PURPOSE (IP 20). DUTY: CONTINUOUS. ZERO
+DRIFT:< 2 % / YEAR (NEGLIGIBLE). REPEATABILITY: 1% OF SMALLEST
+MEASURING RANGE. LINEARITY ERROR:< 1% OF FULL SCALE VALUE.
+MAXIMUM ACCURACY ACHIEVED AFTER WARM UP TIME: AFTER APPROX. 2
+HOURS MODEL: ULTRAMAT 23 MAKE: SIEMENS PART NO: 29601195
+Accepted
+Item No:  10
+Material No:   5679A0011
+Quantity(UOM): 2.000 (NOS)
+Basic
+Rate:
+ 
+555000.00
+Lead
+Time(Days):
+ 
+90
+HSN Code:  90330000
+Invoicing Region:
+Goa
+Tax Description:
+All CGST-SGST/IGST @ 18% Creditable --- (R3)
+Comments:
+Price Quoted as per ARC PO 4700119448,
+valid till 23.11.2026
+Extra Charges:  
+Tax
+Amount
+Freight %-FRA1
+2 %
+Ins. on total bill %-Y019
+1 %
+Packaging charge (%)-
+Y098
+3 %
+
+Declaration 
+I hereby declare that I am providing the material in the same capacity (Dealer/Distributor, Manufacturer) as
+registered in Tata Steel and quoting this RFQ as
+DEALER/DISTRIBUTOR
+I hereby declare that there is no deviation in technical/functional specification against the material/services
+mentioned in RFQ and the submitted Quote.
+Agree
+Note: Please select all rows and then Print to get the Complete Item List

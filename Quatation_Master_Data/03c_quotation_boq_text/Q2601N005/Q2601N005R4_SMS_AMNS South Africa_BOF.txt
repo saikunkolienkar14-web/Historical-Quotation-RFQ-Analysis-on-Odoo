@@ -1,0 +1,181 @@
+Quotation Number: Q2601N005R4
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR DRY GAS APPLICATION
+Service: Gas Cleaning Plant
+Application: Dry Gas (BOF Process)
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: CO2/CO/O2
+Model 2: CALOMAT 6E
+Component to be measured: H2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 900/1200 Deg C
+•
+Pressure: -5 to +5 mbar
+Measuring Ranges:
+•
+CO2: 0-40%
+•
+CO: 0-100%
+•
+O2: 0-25%
+•
+H2: 0-10%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System.
+•
+With Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3
+Nos
+45,00,000/-
+1,35,00,000/-
+2
+LASER GAS ANALYSER SYSTEM FOR O2 MEASUREMENT
+Service: After ID Fan
+Make: Airoptic
+Model: Gas Eye
+Component to be measured: O2
+Area Classification: Safe
+Mounting Location: In-situ Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 170/200 Deg C
+•
+Pressure: 45 to 75 mbar
+Laser Gas Analyser for Measurement of O2:
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+O2: 0-30%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+•
+Shall be SIL-2 certified
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3 Nos
+28,45,000/-
+85,35,000/-
+2.1
+LASER GAS ANALYSER SYSTEM FOR CO/CO2 MEASUREMENT-
+OPTIONAL
+Service: After ID Fan
+Make: Airoptic
+Model: Gas Eye
+Component to be measured: CO/CO2
+Area Classification: Safe
+Mounting Location: In-situ Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 170/200 Deg C
+•
+Pressure: 45 to 75 mbar
+Laser Gas Analyser for Measurement of CO/CO2:
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+CO: 0-100%
+•
+CO2: 0-40%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3 Nos
+43,00,000/-
+1,29,00,000/-
+3
+2 YEARS RECOMMENDED SPARES & CONSUMABLES FOR
+1 YEAR OPERATION
+Consumables for 1 Year
+1. Oring for Probe- 1 No
+2. Oring for Condensate Monitor- 1 No
+3. Membrane Filter (Pack of 25)- 1 No
+4. Cart Filter- 1 No
+2 Year Recommended Spares
+1. ULTRAMAT23 x 1 Nos
+2. CALOMAT6E x 1 Nos
+3. Laser (Sender-receiver Unit) x 1 Nos
+4. Sample Pump x 1 Nos
+5. SOV x 1 No
+1 LOT
+72,00,000/-
+72,00,000/-
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopad
+PER MTR
+@2900/- PER MTR
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket
+fare, Visa charges is to be arranged by customer)
+3 VISITS
+6 SYSTEMS x 5
+DAYS
+(Post which per
+diem charges shall
+be applicable)
+30,00,000/-
+6
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket
+fare, Visa charges is to be arranged by customer)
+PER DIEM
+$1000 PER DIEM

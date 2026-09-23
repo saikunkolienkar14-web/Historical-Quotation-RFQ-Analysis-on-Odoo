@@ -1,0 +1,254 @@
+Quotation Number: Q2603N017R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl No
+Description
+UOM
+Qty
+Unit Price
+Final Price
+1
+DEW POINT/MOISTURE ANALYSER
+Set
+1
+QUOTED
+QUOTED
+2
+O2 ANALYSER
+Set
+1
+3
+H2 ANALYSER (AT % LEVEL)
+Set
+1
+QUOTED
+QUOTED
+4
+O2 ANALYSER (AT % LEVEL)-
+Paramagnetic
+Set
+1
+QUOTED
+QUOTED
+4.1
+O2 ANALYSER (AT % LEVEL)-
+Zirconia
+Set
+1
+REGRET
+REGRET
+5.1
+DEW POINT/MOISTURE ANALYSER
+Set
+1
+QUOTED
+QUOTED
+5.2
+H2 ANALYSER (AT PPM LEVEL)
+Set
+1
+QUOTED
+QUOTED
+5.3
+GAS CHROMATOGRAPH (N2, Ar)
+Set
+1
+QUOTED
+QUOTED
+6
+Sample Line- SS316
+Per mtr
+1
+QUOTED
+QUOTED
+7
+Supervision of Installation and
+commisioning
+Per diem
+1
+QUOTED
+QUOTED
+OPTIONAL
+Sl No
+Description
+UOM
+Qty
+Unit Price
+Final Price
+8.1
+DEW POINT/MOISTURE ANALYSER
+Set
+1
+QUOTED
+QUOTED
+8.2
+GAS CHROMATOGRAPH (N2, Ar, H2)
+Set
+1
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+DEW POINT/MOISTURE ANALYSER
+Tag No: AT-1201
+Application: Hydrogen Gas Moisture Measurement
+Make: Shaw/Michell
+Operating Principle: Ceramic Metal-Oxide
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+Dew Point: -110°C to 20°C
+1 SET
+QUOTED
+QUOTED
+2
+O2 ANALYSER
+Tag No: AT-1202
+Application: O2 measurement in H2 gas
+Make: Michell/Southland Sensing
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+Room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+O2: 0 to 10 ppmv
+1 SET
+3
+H2 ANALYSER (AT % LEVEL)
+Tag No: AT-1104
+Application: H2 measurement in O2 gas
+Make: Siemens, Model: CALOMAT6E
+Operating Principle: TCD
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+H2: 0 to 5%
+1 SET
+QUOTED
+QUOTED
+4
+O2 ANALYSER (AT % LEVEL)
+Tag No: AT-1103
+Application: O2 Measurement in O2 Gas
+Make: Siemens Model: OXYMAT6
+Operating Principle: Paramagnetic
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+O2: 0 to 100%
+1 SET
+QUOTED
+QUOTED
+4.1
+O2 ANALYSER (AT % LEVEL)
+Tag No: AT-1103
+Application: O2 Measurement in O2 Gas
+Make: Model:
+Operating Principle: Zirconia based sensor
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+O2: 0 to 100%
+1 SET
+REGRET
+REGRET
+5.1
+DEW POINT/MOISTURE ANALYSER
+Tag No: AT-1101
+Application: Oxygen Gas Moisture Measurement
+Make: Shaw/Michell
+Operating Principle: Ceramic Metal-Oxide
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+Dew Point: -110°C to 20°C
+1 SET
+QUOTED
+QUOTED
+5.2
+H2 ANALYSER (AT PPM LEVEL)
+Tag No: AT-1102
+Application: H2 measurement in O2 gas
+Make: Valmet
+Operating Principle: Gas Chromatography
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+H2: 0 to 5 ppmv
+1 SET
+5.3
+GAS CHROMATOGRAPH
+Tag No: OPS-GC-1101
+Application: N2 & Ar MEASUREMENT IN O2 GAS
+Make: Valmet
+Operating Principle: Gas Chromatography
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+Room
+No of Streams: 2
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+N2: 0- 3000 ppm
+•
+Ar: 0- 1500 ppm
+Notes:
+•
+Refilling of carrier gas cylinders shall be in customers

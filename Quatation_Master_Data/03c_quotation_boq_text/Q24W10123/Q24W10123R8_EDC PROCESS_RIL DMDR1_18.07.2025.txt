@@ -1,0 +1,355 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Description
+Quantity
+Unit price
+Total price
+1
+FUSE KIT 2500F
+1
+10,000.00
+10,000.00
+2
+110V Mains Inlet PCB Assy Spare
+1
+6,20,000.00
+6,20,000.00
+3
+I. R. SOURCE ASSEMBLY - CaF2
+1
+3,90,000.00
+3,90,000.00
+4
+Kit, Cell Windows CaF2 Spare
+1
+35,000.00
+35,000.00
+5
+Display and Keypad assembly
+1
+1,72,000.00
+1,72,000.00
+6
+Scrubber Sachets, Hopcalite Spare
+1
+13,000.00
+13,000.00
+7
+Chopper Box PCB Assy
+1
+65,000.00
+65,000.00
+8
+Spares Kit 1, 1-2 Analysers (Viton/PTFE)
+1
+4,00,000.00
+4,00,000.00
+9
+Kit, Fuses
+1
+25,000.00
+25,000.00
+10
+Spare Power Supply Unit (ATEX)
+1
+2,90,000.00
+2,90,000.00
+11
+ETHERNET COMMS PCB SPARE
+1
+3,00,000.00
+3,00,000.00
+12
+Spare Display Window (ATEX)
+1
+1,35,000.00
+1,35,000.00
+13
+Spare ATEX Display / Keypad Assembly
+1
+8,00,000.00
+8,00,000.00
+14
+Soft UV Source(Gilway Lamp,silicone pot)
+1
+5,35,000.00
+5,35,000.00
+1
+Nova-II light source replacement
+1
+2
+Collimators x 4 No
+1
+3
+600 Micron 1.8 meter Fiber optic cables x 2 No
+1
+4
+Solid State Drive w/ preloaded software
+1
+5
+FFKM O ring x 4 No
+1
+1
+Set of column - of each type
+6
+4,50,000.00
+27,00,000.00
+2
+FID Repairing Kit
+1
+2,75,200.00
+2,75,200.00
+3
+MOD 50 Repair kit
+1
+1,16,500.00
+1,16,500.00
+4
+Mod 50 Valve
+1
+2,99,400.00
+2,99,400.00
+5
+TCD Detector
+1
+1,25,500.00
+1,25,500.00
+6
+SVCM Module
+1
+2,08,600.00
+2,08,600.00
+7
+EPC Module
+1
+3,22,600.00
+3,22,600.00
+8
+Power supply
+1
+80,600.00
+80,600.00
+9
+FID, RESTRICTOR, TUBE, ASSY, HYDROGEN
+1
+66,500.00
+66,500.00
+10
+Syscon 3 Board
+1
+3,61,600.00
+3,61,600.00
+11
+DPM Board
+1
+3,40,000.00
+3,40,000.00
+1
+Laser module with PCB
+1
+11,00,000.00
+11,00,000.00
+2
+Display module
+1
+4,00,000.00
+4,00,000.00
+1
+Window module
+1
+2
+Sensor electronics
+1
+3
+Launcher
+1
+4
+PCB1 Controller
+1
+5
+Front panel with display
+1
+6
+Fuse kit
+1
+7
+Power supply module
+1
+1
+Moisture Sensor
+1
+6,00,000.00
+6,00,000.00
+1
+SOV for HVAC
+1
+55,000.00
+55,000.00
+2
+Hooter
+1
+35,000.00
+35,000.00
+3
+Beacon
+1
+3,50,000.00
+3,50,000.00
+4
+Manual call point
+1
+45,000.00
+45,000.00
+5
+Smoke detector
+1
+60,000.00
+60,000.00
+6
+H2 detector
+1
+1,60,000.00
+1,60,000.00
+7
+LEL detector
+1
+1,60,000.00
+1,60,000.00
+8
+Toxic gas detector
+1
+1,55,000.00
+1,55,000.00
+9
+O2 Detector
+1
+1,45,000.00
+1,45,000.00
+10
+HVAC Damper
+1
+1,50,000.00
+1,50,000.00
+11
+HVAC Blower
+1
+1,80,000.00
+1,80,000.00
+12
+Differential pressure switch
+1
+45,000.00
+45,000.00
+13
+HL/LP Switch
+1
+26,000.00
+26,000.00
+2 YEARS O&M RECOMMENDED SPARES, ITEM WISE PRICES
+Chlorine Analyser, OMA 300
+Gas chromatograph, Maxum ll
+Air optics, Gas Eye
+LDS 6, Siemens
+Analyser house
+11,00,000.00
+11,00,000.00
+Servomex 2500F
+40,00,000.00
+40,00,000.00
+Moisture, Mitchell instruments
+Sr No
+Description
+Qty
+Unit price
+Total price
+1
+PECM, FUSE KIT
+5
+46,000.00
+2,30,000.00
+2
+FID, RESTRICTOR, TUBE, ASSY, HYDROGEN
+1
+1,02,000.00
+1,02,000.00
+3
+FID, RESTRICTOR, TUBE ASSY, MAKEUP GAS
+1
+1,02,000.00
+1,02,000.00
+4
+FID, RESTRICTOR, TUBE ASSEMBLY, AIR
+1
+1,02,000.00
+1,02,000.00
+5
+KIT, MODEL 50, REPAIR KIT, DIAPHRAGM AND FTG
+1
+1,80,000.00
+1,80,000.00
+6
+Colimators
+1
+7
+600 Micron 1.8 Meter Fiber optic cable
+1
+8
+FUSE KIT 2500F
+1
+10,000.00
+10,000.00
+9
+Kit, Fuses
+1
+25,000.00
+25,000.00
+10
+Air optics, Gas Eye
+Alignment kit
+1
+1,40,000.00
+1,40,000.00
+11
+LDS 6, Siemens
+Alignment kit for LDS 6
+1
+1,40,000.00
+1,40,000.00
+12
+Moisture, Mitchell instrument
+Filter assembly
+1
+20,000.00
+20,000.00
+13,03,000.00
+TOTAL PRICE
+ITEM WISE PRICE FOR COMMISSIONING SPARES #
+Gas Chromatograph, Maxum ll
+Servomex 2500F
+2,52,000.00
+2,52,000.00
+Chlorine, OMA 300
+Dear Sir/Madam,
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which
+includes analysers as per your requirement.
+ADAGE QUOTE REF:
+Q24W10123R8
+DATED : 16.07.2025
+BID TYPE : Firm
+PROJECT TITLE:
+EDC PROCESS ANALYSERS RIL DMD
+INQUIRY DETAILS:
+Enquiry received via REIMS portal
+JT-G23P03-D1GPD-JN0001-TIN-Q-00
+CUSTOMER:
+Kind Attention : Mr Siddesh Warang
+TKIS
+END USER:
+Reliance Industries Limited, DMD
+REFERENCE:
+Mail from Khojema Sadriwala, dated : 18 November 2024
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Clarifications/Assumptions
+SECTION-2: Technical Literature

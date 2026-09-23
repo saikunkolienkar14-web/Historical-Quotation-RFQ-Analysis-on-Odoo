@@ -1,0 +1,91 @@
+Quotation Number: Q2603W037
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF CO2
+ON FLUE GAS INCOMING LINE
+TAG NO: AT/AI-5001
+SERVICE: CO2 ANALYSER
+AREA CLASSFICATION: SAFE
+PROCESS CONDITION AT STACK:
+TEMPERATURE (Operating/Design): 109/210 Deg C
+PRESSURE (Operating/Design): 0/1 kg/cm2g
+WITH GAS SAMPLING PROBE
+WITH SAMPLE HANDLING SYSTEM
+WITH IP 54 ANALYSER PANEL
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 No
+For Carbon Dioxide (CO2) Measurement
+MAKE SIEMENS AG, GERMANY
+1 Set
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF CO2
+FOR TREATED FLUE GAS LINE
+TAG NO: AT/AI-6001
+SERVICE: CO2 ANALYSER
+AREA CLASSFICATION: SAFE
+PROCESS CONDITION AT STACK:
+TEMPERATURE (Operating/Design): 51/90 Deg C
+PRESSURE (Operating/Design): 0.045/1 kg/cm2g
+WITH GAS SAMPLING PROBE
+WITH SAMPLE HANDLING SYSTEM
+WITH IP 54 ANALYSER PANEL
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 No
+For Carbon Dioxide (CO2) Measurement
+MAKE SIEMENS AG, GERMANY
+1 Set
+QUOTED
+QUOTED
+3
+PRE FABRICATED HEAT TRACE SAMPLE GAS TUBE
+FOR SAMPLE GAS TRANSPORTATION
+PORT SIZE : 1/2 “ PTFE TUBE
+POWER SUPPLY : 230 VAC, 50 Hz
+For Tag no 5001: 50 Meters
+For Tag no 6001: 50 Meters
+100
+Mtrs
+QUOTED
+QUOTED
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE,
+TO AND FRO AIR TICKET
+VISA CHARGES
+WORK PERMIT IS IN CUSTOMER SCOPE)
+Per
+Man
+days
+QUOTED
+QUOTED
+Assumption/ Clarification:
+1. Quoted gas analyser system for CO2 measurement at incoming of flue gas line & treated flue
+gas line is for safe area.
+2. Gas analyser cabinet will be mounted inside safe area AC room same is in customer scope.
+3. All signal, power & communication cable & hardware will be in scope of customer.
+4. 50 meters heated tube for sample transportation for each system is considered in our scope.
+5. 230 VAC UPS & Non-UPS power supply for analyser panel shall be made available by customer
+6. N2 air free from oil/moisture/dust @ 4-6 bar pressure is required for purging same should be
+provided by customer.
+7. CO2 concentration data will be visible on analyser panel display, 4-20 mA output for connection
+to DCS will be provided. Required cables for same is in customer scope.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+Plant Instrument air required
+•
+Additional heat trace tube will be on chargeable basis @ Rs.4500/meter.
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (UPS)

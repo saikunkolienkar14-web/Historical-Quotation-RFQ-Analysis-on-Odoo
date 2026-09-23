@@ -1,0 +1,5404 @@
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Notes: 
+PREAMBLE TO SCHEDULE of PRICE (SOP) / SCHEDULE OF RATES (SOR) (FOR INDIAN BIDDERS)
+NAME OF BIDDER: 
+OFFER REFERENCE NO:
+The quoted prices shall be inclusive of all Scope of Supply,P&F and testing requirements as specified in the enclosed MR. Scope of Supply shall be strictly as per Material Requisition and other documents which are part of RFQ.
+Bidder to clearly indicate 'Quoted' / 'Not Quoted' against each items / Groups in the price column in the unpriced Price Schedule and % taxes / duties against relevant columns of taxes & duties. Bidders to submit Price in the Price
+Schedule in their Priced Bid.
+Submision of this Price schedule by bidder, confirms that bidder has noted the contents of the Preamble to the Schedule of Price (SOP) / Schedule of Rates (SOR), RFQ, Material Requisition etc. and quoted his prices accordingly
+without any deviation.
+Bidder must quote the price in enclosed Schedule of Price (SOP) formats only. The formats shall not be changed and/or retyped. For any deviation to the formats, offer may be rejected.
+Quoted prices are firm and fixed till complete execution of the entire order and no variation on any account is allowed, unless otherwise categorically specified in RFQ documents.
+"Total Supply Price" in BOQ1 to include for all startup and Commissioning Spares,special tools and tackles, consumables, erection material etc., as applicable & documentation as per MR. Price of Mandatory Spares to be quoted extra
+and not to be included in main equipment price. Bidders shall supply Mandatory Spares as per MR.
+The quoted prices shall be inclusive of all testing requirements as specified in the Bidding Document. 
+Bidder to list Two Years Operation and Maintenance Spares, as per their recommendation. The same shall at-least contain the spares as specified in MR. Separate list shall be provided by the Bidder for each item in the format
+enclosed herewith with itemized cost. Ordering of these spares may be done by the Purchaser separately on a later date and not along with main equipment.The price of Two Years Operation and Maintenance Spares shall not be
+considered for commercial (price) evaluation of the bid.
+In case of discrepancies in the Item Description/Quantity in this SOP, description/quantity etc. as per MR shall prevail.
+Bidder shall quote Lumpsum Freight Charges upto Project Site.
+This Schedule of Prices comprises the following :
+- SCHEDULE OF PRICES ( BOQ1)
+- DETAILS OF BUILT-IN-CIF VALUE OF IMPORT CONTENT (INDIAN BIDDERS) (FORMAT-B1)
+- 2 YEARS O&M SPARES (FORMAT-B2)
+- PRICE SCHEDULE (FOR % BREAKUP OF SUPPLY PRICE) (FORMAT - B3)
+-SCHEDULE OF PRICE FOR UNIT RATES FOR ADDITION / DELETION (FORMAT - B4) 
+For the purpose of evaluation, man-days to be considered for the Supervision of erection, testing and commissioning of items (MR Sr. No. 8) are as below:
+Group A: 18 days of site supervision activity
+Group B: 3 days of site supervision activity
+Group C: 12 days of site supervision activity
+Group D: 4 days of site supervision activity
+Group E: 3 days of site supervision activity
+Group F: 3 days of site supervision activity
+However, payment will be based on the actual man-days consumed on-site at the quoted per-diem Charges.
+Rate of GST to be indicated in unprice bid.
+i) Bidders must submit this preamble with their bid with both unpriced & priced offer. 
+ii) Bidders are requested to enter their name in the each page of Schedule of Price provided in the e-tender portal for submission of Unpriced & price bid
+For the purpose of evaluation, 2 man-days for each Group of MR will be considered for the Training of Owner's personnel at site (MR Sr. No. 11). However, payment will be based on the actual man-days consumed on-site at the 
+quoted per-diem Charges.
+Page 501 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Adage Automation Private limited
+Q26N10113
+
+Name of the 
+Bidder/ Bidding 
+Firm / Company 
+:
+NUMBER #
+TEXT #
+NUMBER #
+TEXT #
+NUMBER #
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+NUMBER
+Sl.
+No.
+Item Description
+Quantity
+Units
+TOTAL SUPPLY PRICE
+ON FOT DESPATCH POINT 
+BASIS
+(In Figures; to be entered
+by the Bidder) (excluding
+GST) in Rs
+(To be filled by bidder)
+Rate of GST in % on 
+supply
+(To be filled by
+bidder)
+TOTAL FREIGHT CHARGES
+UPTO PROJECT SITE
+(In Figures; to be entered by
+the Bidder) (excluding GST) in 
+Rs
+(To be filled by bidder)
+Rate of GST in % on
+Freight Charges
+(To be filled by bidder)
+Total Mandatory 
+Spare charges as 
+per MR Item Sr No 
+4 Including Freight 
+but Excluding GST 
+in Rs
+Rate of GST in % 
+on
+Mandatory Spare 
+Charges
+(To be filled by 
+bidder)
+Per diem 
+Charges of 
+Spervision at 
+Site ( MR Item 
+Sr No 8 ) 
+Excluding GST 
+in Rs
+Rate of GST in % on
+Supervision 
+Charges
+(To be filled by 
+bidder)
+Per diem Charges of 
+Training at site as 
+per MR Item Sr No 11 
+Excluding GST in Rs
+Rate of GST in % 
+on
+Training Charges 
+(To be filled by 
+bidder)
+1
+2
+4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+0
+ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+1
+GROUP: A; PROCESS STREAM ANALYSERS - MOISTURE
+1.00 Lot
+2
+GROUP: B; PROCESS STREAM ANALYSERS - MOISTURE 
+(HIGH RANGE)
+1.00 Lot
+3
+GROUP: C; PROCESS STREAM ANALYSERS - 
+DENSITY/MOLECULAR WEIGHT
+1.00 Lot
+4
+GROUP: D; PROCESS STREAM ANALYSERS - INFRARED (IR)
+1.00 Lot
+5
+GROUP: E; PROCESS STREAM ANALYSERS - WOBBE INDEX 
+METER
+1.00 Lot
+6
+GROUP: F; PROCESS STREAM ANALYSERS - VISCOSITY 
+METER
+1.00 Lot
+PRICE SCHEDULE(BOQ1)
+(This BOQ template must not be modified/replaced by the bidder and the same should be uploaded after filling the relevent columns, else the bidder is liable to be rejected for this tender. Bidders are allowed to enter the Bidder Name and Values only )
+Item Wise BoQ
+Tender Inviting Authority: EIL on behalf of BPCL
+Name of Work: ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+RFQ No: SP/B957-000-YA-MR-1623/140
+Validate
+Print
+Help
+Page 502 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Adage Automation Private Limited
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+Quoted
+
+1
+2
+3
+4
+5
+7
+8
+INR
+INR
+INR
+INR
+INR
+INR
+INR
+INR
+INR
+ FORMAT-B2
+SCHEDULE OF PRICE FOR 2 YEARS OPERATION & MAINTENANCE SPARES (FOR INDIAN BIDDERS)
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+NAME OF BIDDER: 
+Bidders shall provide quotation of two years normal operation and maintenance spares . The same shall at-least contain the spares as specified in MR forming part of Inquiry.
+4. Bidder may add rows, if required w.r.t. submission of Two Years O&M Spares without changing the format.
+Notes:
+Unit Supply Price on FOT 
+Despatch Point Basis 
+including P&F but excluding 
+GST 
+GST(%) Applicable on 
+Supply & Freight of 2 
+Year O&M spares
+2. Please be noted that these Prices for 2 years O&M spares shall not be included in base price and these rates shall not be considered for evaluation purpose. 
+Unit of Measure 
+(UOM) 
+Unit Freight Charges upto Project 
+site excluding GST
+Description 
+1. Vendor shall include in his proposal, his recommended spares for 2 years normal operation, as per MR. Bidder has to fill all the details as sought above.
+Sl. No. as 
+per MR
+3. The prices quoted for recommended two years operation and maintenance spares shall remain valid upto 2 years validity beyond the contractual completion/delivery period of Order. Order of recommended two 
+years operation and maintenance spares may be placed by BCPL/EIL separately, if required.
+Quantity 
+Recommended
+Currency
+Page 504 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Quoted for Group D
+
+Format-B3
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+ITEM SR. NO.
+GROUP 
+CODE
+ITEM CODE
+ITEM DESCRIPTION
+QUANTITY
+% Break-up in terms of total 
+supply price of Group, quoted 
+in Price Bid
+(In %)
+GROUP: A
+1.0001
+A
+100-MOIS-001
+MOISTURE ANALYSERS
+1 Lot
+1.0001.01
+A
+300-AT-23301
+MOISTURE ANALYSER
+1 Nos
+…........... %
+1.0001.02
+A
+300-AT-23401
+MOISTURE ANALYSER
+1 Nos
+…........... %
+1.0001.03
+A
+300-AT-23501
+MOISTURE ANALYSER
+1 Nos
+…........... %
+1.0001.04
+A
+300-AT-23801
+MOISTURE ANALYSER
+1 Nos
+…........... %
+1.0001.05
+A
+300-AT-25101
+MOISTURE ANALYSER
+1 Nos
+…........... %
+1.0001.06
+A
+303-AT-35701
+MOISTURE ANALYSER
+1 Nos
+…........... %
+100.00%
+GROUP: C
+1.0003
+C
+300-DENS-001
+DENSITY/MOLECULAR WEIGHT ANALYSERS
+1 Lot
+PRICE SCHEDULE (FOR % BREAKUP OF SUPPLY PRICE)
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+NOTES:
+1. Bidder shall furnish Percentage breakup of total supply price of respective group, quoted in Price Bid.
+2. Duly filled, sign/stamped copy this sheet shall be submitted by bidder along with unpriced bid.
+3. Bidder to ensure that sum of % break-up furnished by them, equals to 100.00%
+4. In case of discrepancies in the Item Description/Quantity in this Format, description/quantity etc. as per MR shall prevail.
+5. Unit rates for each analyser derived based on the % break-up quoted in this Format shall also be used for addition/deletion purpose required as per 
+MR.
+PROCESS STREAM ANALYSERS - MOISTURE
+TOTAL =
+PROCESS STREAM ANALYSERS - DENSITY/MOLECULAR WEIGHT
+Page 505 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+
+Format-B3
+Name of Item :ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS
+ITEM SR. NO.
+GROUP 
+CODE
+ITEM CODE
+ITEM DESCRIPTION
+QUANTITY
+% Break-up in terms of total 
+supply price of Group, quoted 
+in Price Bid
+(In %)
+PRICE SCHEDULE (FOR % BREAKUP OF SUPPLY PRICE)
+RFQ No: SP/B957-000-YA-MR-1623/140; Tender ID: 2026_EIL_906323_1
+NOTES:
+1. Bidder shall furnish Percentage breakup of total supply price of respective group, quoted in Price Bid.
+2. Duly filled, sign/stamped copy this sheet shall be submitted by bidder along with unpriced bid.
+3. Bidder to ensure that sum of % break-up furnished by them, equals to 100.00%
+4. In case of discrepancies in the Item Description/Quantity in this Format, description/quantity etc. as per MR shall prevail.
+5. Unit rates for each analyser derived based on the % break-up quoted in this Format shall also be used for addition/deletion purpose required as per 
+MR.
+1.0003.01
+C
+300-AT-11103
+MOLECULAR WEIGHT ANALYSER
+1 Nos
+…........... %
+1.0003.02
+C
+300-AT-11201
+MOLECULAR WEIGHT ANALYSER
+1 Nos
+…........... %
+1.0003.03
+C
+300-AT-11301
+DENSITY ANALYSER
+1 Nos
+…........... %
+1.0003.04
+C
+300-AT-11401
+DENSITY ANALYSER
+1 Nos
+…........... %
+1.0003.05
+C
+300-AT-11501
+DENSITY ANALYSER
+1 Nos
+…........... %
+1.0003.06
+C
+300-AT-11502
+DENSITY ANALYSER
+1 Nos
+…........... %
+100.00%
+GROUP: D
+1.0004
+D
+400-INFR-001
+INFRARED (IR) ANALYSERS
+1 Lot
+1.0004.01
+D
+300-AT-41402
+INFRARED ANALYSER
+1 Nos
+…........... %
+1.0004.02
+D
+300-AT-42401
+INFRARED ANALYSER
+1 Nos
+…........... %
+100.00%
+TOTAL =
+PROCESS STREAM ANALYSERS - INFRARED (IR)
+TOTAL =
+Page 506 of 671 : B957-000-YA-MR-1623-140-RFQ : Rev. 0
+Quoted
+Quoted
+Quoted
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+Please find enclosed our quotation for design, engineering, manufacture and Supply of analyser system 
+which includes analysers as per your requirement. 
+ 
+TECHNICAL OFFER 
+ 
+ADAGE QUOTE REF: 
+Q26N10113 
+DATED : 29.05.2026 
+BID TYPE : Tender 
+PROJECT TITLE: 
+ANALYSER SYSTEMS - PROCESS STREAM ANALYSERS FOR BREP 
+AT BPCL BINA REFINERY 
+ 
+INQUIRY DETAILS: 
+RFQ No.: SP/B957-000-YA-MR-1623/140 
+ 
+CUSTOMER: 
+
+Engineers India Limited, Gurugram 
+ 
+END USER: 
+
+Bharat Petroleum Corporation Limited, Bina Refinery 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Summery Of Prices 
+SECTION-2: Technical Literature 
+SECTION-3: Responsibility matrix 
+SECTION-4: Commercial Terms & Condition 
+ 
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr. Tejas Rivonkar 
+ADAGE AUTOMATION PVT LIMITED 
+tejas@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 1: SUMMARY OF PRICES 
+ 
+Sr. 
+No. 
+Item Description 
+Qty 
+Unit Price(INR) 
+Total Price(INR) 
+Group D 
+1 
+Supply of Group-C As Per MR 
+1 Lot 
+Quoted 
+Quoted 
+2 
+Transportation of Group-C As Per MR 
+1 Lot 
+Quoted 
+Quoted 
+3 
+Mandatory Spares of Group-C As Per MR 
+1 Lot 
+Quoted 
+Quoted 
+4 
+Per Diem Rate for Supervision of Group-C As Per 
+MR 
+3 
+Days 
+Quoted 
+Quoted 
+5 
+Per Diem Rate For Training of Group-C As Per MR 
+2 
+Days 
+Quoted 
+Quoted 
+
+ 
+Note: Modbus serial output shall be terminated at CSJB of field cabinet, further distribution is 
+customer’s scope 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 2: TECHNICAL LITERATURE 
+ 
+GROUP - D 
+1 
+Ethylene Analyzer: 
+Tag No: 300-AT-41402 
+Service: Ethylene Fractionator Control Tray (300-CC-00-4002). 
+Make: Siemens AG, Germany 
+Model: Ultramat 6F 
+Principle: NDIR Type 
+Mounting Location: Mounted Inside Cabinet with Redundant Ex-
+Proof AC. 
+Hazardous Area Classification: Zone 2, GR IIC T3, Exp 
+ 
+Measuring range: 
+C2H4: 0-60 mol% 
+ 
+Process Conditions at sample Inlet: 
+- 
+Operating Temperature: (-) 20.70 °C 
+- 
+Operating Pressure: 17.46 Kg/cm2. 
+ 
+Process Conditions at sample Retrun: 
+- 
+Operating Temperature: (-) 27 °C 
+- 
+Operating Pressure: 0.74 Kg/cm2. 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+RS 485 Serial Output 
+- 
+Potential free contacts for fault 
+ 
+Utilities Required: 
+- 
+110VAC, 50Hz UPS 
+- 
+415 VAC, 50 Hz (Non-UPS) Power Supply for Ex-Proof AC 
+Instrument air @5-6 Kg/cm2. 
+ 
+1 No 
+Quoted 
+1.1 
+Sample Probe 
+- 
+Retractable type probe with non-fly off design. 
+- 
+MOC: SS316 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+1.2 
+Sample Supply line: 
+- 
+¼” SS316 Tube. 
+ 
+30 mtr 
+Quoted 
+1.3 
+Sample Return line: 
+- 
+3/4” SS316 Tube. 
+ 
+70 mtr 
+Quoted 
+1.4 
+Primary Sample Handling System 
+- 
+Shall consist of Ball valve, SRV, Filters,pressure regulator etc. 
+- 
+Mounted inside SS304 enclosure. 
+ 
+1 No 
+Quoted 
+1.5 
+Secondary Sample handling system: 
+- 
+Shall consist of Ball valve, Pressure indicator, Needle valve, 
+SOV’s for Calibration, Sample rotameter for bypass & supply, 
+Redundant fastloop filter, etc 
+- 
+SHS components shall be Plate mounted inside cabinet 
+ 
+1 No 
+Quoted 
+1.6 
+Calibration Gas Cylinders and Regulators: 
+- 
+With Calibration gas Cylinders for Zero & Span 
+- 
+10 Litre Span gas cylinder each of C2H4. 
+- 
+10 Litre N2 Zero Gas cylinder 
+ 
+1 Set 
+Quoted 
+1.7 
+Analyzer Cabinet: 
+- 
+Analyser cabinet (Approx dimension shall be finalised during 
+detailed engineering) MOC: SS304 with 500 mm Canopy MOC: 
+SS, extending from all the sides. 
+- 
+IP65 Rated 
+- 
+Redundant Ex proof AC certified for Zone 2 
+- 
+ASJB, DSJB, CSJB, Exd, LM6 
+- 
+PDB, Exd, LM6 
+- 
+Headers 
+ 
+1 No 
+Quoted 
+2 
+Propylene Analyzer: 
+Tag No: 300-AT-42401 
+Service: Ethylene Fractionator Control Tray (300-CC-00-4002). 
+Make: Siemens AG, Germany 
+Model: Ultramat 6F 
+Principle: NDIR Type 
+Mounting Location: Mounted Inside Cabinet with Redundant Ex-
+Proof AC. 
+Hazardous Area Classification: Zone 2, GR IIC T3, Exp 
+ 
+Measuring range: 
+C3H6: 0-60 mol% 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+Process Conditions at sample Inlet: 
+- 
+Operating Temperature: 58.10 °C 
+- 
+Operating Pressure: 22.71 Kg/cm2. 
+ 
+Process Conditions at Sample return: 
+- 
+Operating Temperature: 60 °C 
+- 
+Operating Pressure: 0.74 Kg/cm2. 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+RS 485 Serial output 
+- 
+Potential free contacts for fault 
+ 
+Utilities Required: 
+- 
+110VAC, 50Hz UPS 
+- 
+415 VAC, 50 Hz (Non-UPS) Power Supply for Ex-Proof AC 
+Instrument air @5-6 Kg/cm2. 
+ 
+2.1 
+Sample Probe 
+- 
+Retractable type with non-fly off design. 
+ 
+1 No 
+Quoted 
+2.2 
+Sample supply line 
+- 
+¼” SS316 Tube. 
+ 
+30 mtr 
+Quoted 
+2.3 
+Sample Return line 
+- 
+3/4” SS316 Tube. 
+ 
+70 mtr 
+Quoted 
+2.4 
+Primary Sample Handling System 
+- 
+Shall consist of Ball valve, SRV, Filters, Heated Pressure 
+regulator etc. 
+- 
+Mounted inside SS304 enclosure. 
+ 
+1 No 
+Quoted 
+2.5 
+Secondary Sample handling system: 
+- 
+Shall consist of Ball valve, Pressure indicator, Needle valve, 
+SOV’s for Calibration, Sample rotameter for bypass & supply, 
+Redundant fastloop filter, etc 
+- 
+SHS components shall be Plate mounted inside cabinet 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+2.6 
+Calibration Gas Cylinders and Regulators: 
+- 
+With Calibration gas Cylinders for Zero & Span 
+- 
+10 Litre Span gas cylinder each of C3H6. 
+- 
+10 Litre N2 Zero Gas cylinder 
+1 Set 
+Quoted 
+2.7 
+Analyzer Cabinet: 
+- 
+Analyser cabinet (Approx dimension shall be finalised during 
+detailed engineering) MOC: SS304 with 500 mm Canopy MOC: 
+SS, extending from all the sides. 
+- 
+IP65 Rated 
+- 
+Redundant Ex proof AC certified for Zone 2 
+- 
+ASJB, DSJB, CSJB, Exd, LM6 
+- 
+PDB, Exd, LM6 
+- 
+Headers 
+ 
+1 No 
+Quoted 
+
+SECTION 5: Responsibility Matrix 
+Sr. 
+No. 
+Description 
+Scope 
+Adage 
+Customer 
+1 
+Design, engineering & supply of System as per offer/BOQ. 
+Yes 
+ 
+2 
+Sample Tapping Nozzle Flange 
+ 
+Yes 
+3 
+Process Isolation Valve at tapping point 
+ 
+Yes 
+4 
+Isolation Valve at process return point 
+ 
+Yes 
+5 
+Supply of start-up and commissioning spares-As per Adage recommendation 
+Yes 
+ 
+6 
+Supply of Mandatory spares- Quoted 
+Yes 
+ 
+7 
+Consumables spares- Quoted 
+ Yes 
+ 
+8 
+Inspection, Testing, Project Management & Project Documentation 
+Yes 
+ 
+9 
+Factory Acceptance Test at Adage Works 
+Yes 
+ 
+10 
+Packing forwarding 
+Yes 
+ 
+11 
+Freight up to site including Insurance 
+Yes 
+ 
+12 
+Storage of supplied system at site 
+ 
+Yes 
+13 
+Civil foundation & installation at site including Cables, Field tubes with 
+supporting structures. 
+ 
+Yes 
+14 
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit. 
+ 
+Yes 
+15 
+4-20mA, RS485, TCP/IP from field/ AH to DCS 
+ 
+Yes 
+16 
+Supervision of Installation and Commissioning SAT & Handover 
+Yes 
+ 
+17 
+Training at Site 
+Yes 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: COMMERCIAL TERMS & CONDITION 
+ 
+Price Basis 
+As per Tender 
+Packing Charges 
+As per Tender 
+GST 
+As per Tender 
+HSN Code 
+As per Tender 
+Freight Charges 
+As per Tender 
+Insurances 
+As per Tender 
+Delivery 
+As per Tender 
+Offer validity 
+As per Tender 
+Payment Terms 
+As per Tender 
+Guarantee Clause 
+As per Tender 
+
+Sr No MR Requirement
+As per Adage Supply
+QTY
+UOM
+a) Fuses – 1 set of each type
+Set of Fuses
+1
+Set
+b) Ring – 2 sets of each type
+Set of O-Ring
+2
+Set
+c) Mother board – 2 nos
+Mother board
+2
+No
+d) Filter assembly band pass with guard – 2 nos.
+Not Applicable
+0
+No
+e) Filter – 1 set
+filter
+1
+No
+f) IR/UV lamp – 2 nos
+IR Source
+2
+No
+g) Other cards – 1 of each type
+Connection Board
+1
+No
+h) Detector heaters – 1 of each type
+Heater catridge
+1
+No
+2
+Sample Handling System
+10% or minimum 01 no. of each type per group, whichever is 
+higher (Components of sample handling system)
+1. Ball Valve
+2. Filters
+3. Flow Meter 
+4. SRV
+5. Pressure gauge
+6. Pressure regulator
+7. Non Return valve
+1
+Lot
+1
+MANDATORY SPARES (AS PER MR PHILOSOPHY)
+IR Analysers (Group - C)
+
+Sr No
+MR Requirement
+Qty
+As per Adage Supply
+QTY
+UOM
+Unit Price
+A
+1
+Electric Module 
+5% subject to minimum one of each type
+Not applicable
+0
+No
+-
+₹ 
+2
+Flow meter 
+5% subject to minimum one of each type
+Flow meter with switch 
+1
+No
+1,80,000
+₹ 
+3
+Flow meter 
+5% subject to minimum one of each type
+Flow meter without switch 
+1
+No
+1,50,000
+₹ 
+3
+Solenoid valve 
+5% subject to minimum one of each type
+Solenoid valve with Limit Switch
+1
+No
+80,000
+₹ 
+4
+Pressure regulator 5% subject to minimum one of each type
+Pressure regulator 
+1
+No
+45,000
+₹ 
+5
+Pressure regulator 5% subject to minimum one of each type
+Heated Pressure regulator 
+1
+No
+1,60,000
+₹ 
+5
+Local indicator 
+5% subject to minimum one of each type
+Local indicator (Guages)
+1
+No
+6,000
+₹ 
+6
+Set of O ring 
+1 set for each analyzer
+Set of O ring 
+1
+No
+25,000
+₹ 
+7
+Set of fuses 
+1 set for each analyzer
+Set of fuses 
+1
+No
+25,000
+₹ 
+8
+Electrode/sensor 
+5% subject to minimum one of each type
+Covered in Mandatory Spares Part
+0
+No
+-
+₹ 
+1
+-
+-
+IR Source
+1
+No
+2,10,000
+₹ 
+2
+-
+-
+O ring sample cell
+1
+No
+2,00,000
+₹ 
+3
+-
+-
+Motherboard
+1
+No
+3,30,000
+₹ 
+4
+-
+-
+Spare part display
+1
+No
+1,30,000
+₹ 
+5
+-
+-
+Temperature fuse
+1
+No
+45,000
+₹ 
+6
+-
+-
+Plug filter
+1
+No
+15,000
+₹ 
+7
+-
+-
+Spare detector cell
+1
+No
+3,70,000
+₹ 
+2 Years O&M Spares List _SP/B957-000-YA-MR-1623/140
+GROUP - C
+Specific 2 Years O&M Spares
+Two years operational and maintenance spares for each analyser and its accessories as per vendor recommendations, which shall include spare parts like 
+electronic modules, temperature controller, power supply module, flow meter, solenoid valve,pressure regulator, local indicator, tubes, fan assembly, 
+sample cell, detector assembly, UV/IR source/lamps, set of o-rings, set of fuses etc
+
+1/72
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+■Overview
+ 
+The ULTRAMAT 6 single-channel or dual-channel gas analyzers 
+operate according to the NDIR two-beam alternating light princi-
+ple and measure gases highly selectively whose absorption 
+bands lie in the infrared wavelength range from 2 to 9 m, such 
+as CO, CO2, NO, SO2, NH3, H2O as well as CH4 and other 
+hydrocarbons.
+Single-channel analyzers can simultaneously measure up to 2 
+gas components, while dual-channel analyzers can simultane-
+ously measure 3 (or 4 on request) gas components.
+■Benefits
+• High selectivity with double-layer detector and optical coupler 
+- Reliable measurements even in complex gas mixtures
+• Low detection limits 
+- Measurements with low concentrations
+• Corrosion-resistant materials in gas path (option) 
+- Measurement possible in highly corrosive sample gases
+• Analyzer cells can be cleaned as required on site 
+- Cost savings due to reuse after contamination
+• Electronics and physics: gas-tight isolation, purging is 
+possible, IP65 
+- Long service life even in harsh environments
+• Heated versions (option) 
+- Use also in presence of gases condensing at low 
+temperature
+• Ex(p) for zones 1 and 2 (according to ATEX 2G and ATEX 3G)
+■Application
+Areas of application
+• Measurement for boiler control in incineration plants
+• Emission measurements in incineration plants
+• Measurement in the automotive industry (test benches)
+• Warning equipment
+• Process gas concentrations in chemical plants
+• Trace measurements in pure gas processes
+• Environmental protection
+• TLV (Threshold Limit Value) monitoring at the workplace
+• Quality monitoring
+• Ex versions for analyzing flammable and non-flammable 
+gases or vapors for use in hazardous areas
+Special versions
+Special applications
+Besides the standard combinations, special applications con-
+cerning material in the gas path, material in the sample cells 
+(e.g. Titan, Hastelloy C22) and measured components are also 
+available on request
+TÜV version/QAL
+TÜV-approved versions are available for measurement of CO, 
+NO and SO2 according to 13th and 17th BlmSchV and TA Luft.
+Smallest TÜV-approved and permitted measuring ranges:
+• 1-component analyzer
+CO: 0 to 50 mg/m3
+NO: 0 to 100 mg/m3
+SO2: 0 to 75 mg/m3
+• 2-component analyzer (series connection)
+CO: 0 to 75 mg/m3
+NO: 0 to 200 mg/m3.
+Furthermore, the TÜV-approved versions of the ULTRAMAT 6 
+comply with the requirements of EN 14956 and QAL 1 in ac-
+cordance with EN 14181. Conformity of the analyzers with 
+both standards is TÜV-certified.
+The analyzer drift can be determined in accordance with 
+EN 14181 (QAL 3) either manually or with a PC using the 
+SIPROM GA maintenance and servicing software. In addition, 
+selected manufacturers of emission evaluation computers 
+offer the possibility for downloading the drift data via the ana-
+lyzer’s serial interface and to automatically record and pro-
+cess it in the evaluation computer.
+Flow-type reference compartment
+• The flow through the reference compartment should be 
+adapted to the sample gas flow
+• The gas supply of the reduced flow-type reference compart-
+ment should have an upstream pressure of 3 000 to 5 000 hPa 
+(abs.). Then a restrictor will automatically adjust the flow to 
+approximately 8 ml/min
+■Design
+19" rack unit
+• 19" rack unit with 4 HU for installation 
+- in hinged frame
+- in cabinets with or without telescopic rails
+• Front plate for service purposes can be pivoted down (laptop 
+connection)
+• Internal gas paths: hose made of FKM (Viton) or pipe made of 
+titanium or stainless steel
+• Gas connections for sample gas inlet and outlet: pipe diame-
+ter 6 mm or 1/4"
+• Flow indicator for sample gas on front plate (option)
+• Pressure switch in sample gas path for flow monitoring 
+(option)
+Field device
+• Two-door enclosure with gas-tight separation of analyzer and 
+electronics sections from gas path
+• Individually purgeable enclosure halves
+• Parts in contact with sample gas can be heated up to 65 °C 
+(option)
+• Gas path: hose made of FKM (Viton) or pipe made of titanium 
+or stainless steel (further materials possible as special appli-
+cations)
+• Gas connections for sample gas inlet and outlet: pipe union 
+for pipe diameter 6 mm or 1/4"
+• Purging gas connections: pipe diameter 10 mm or 3/8"
+© Siemens AG 2016
+
+1/73
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+Display and control panel
+• Large LCD field for simultaneous display of: 
+- Measured value (digital and analog displays)
+- Status bar
+- Measuring ranges
+• Contrast of the LCD field adjustable via the menu
+• Washable membrane keyboard with five softkeys
+• Menu-driven operator control for parameterization, test func-
+tions, adjustment
+• Operator support in plain text
+• Graphic display of concentration trend; programmable time 
+intervals
+• Bilingual operating software: 
+German/English, English/Spanish, French/English, 
+Spanish/English, Italian/English
+Input and outputs
+• One analog output per medium (from 0, 2, 4 to 20 mA; 
+NAMUR parameterizable)
+• Two analog inputs freely configurable (e.g. correction of 
+cross-interferences or external pressure sensor)
+• Six binary inputs freely configurable (e.g. measurement range 
+changeover, processing of external signals from the sample 
+preparation)
+• Six relay outputs freely configurable e.g. for fault, mainte-
+nance request, limit alarm, external solenoid valves)
+• Expansion by eight additional binary inputs and eight addi-
+tional relay outputs e.g. for autocalibration with up to four test 
+gases
+Communication 
+RS 485 present in the basic unit (connection at the rear; for the 
+rack unit also behind the front plate).
+Options
+• AK interface for the automotive industry with extended 
+functions
+• RS 485/RS 232 converter
+• RS 485/Ethernet converter
+• RS 485/USB converter
+• Connection to networks via PROFIBUS DP/PA interface
+• SIPROM GA software as the service and maintenance tool
+ 
+ULTRAMAT 6, membrane keyboard and graphic display
+Status line for display 
+of analyzer status
+(programmable)
+LED backlit graphic
+display and 
+membrane keyboard
+with noticeable click
+Two code levels
+according to NAMUR
+(maintenance and
+specialist level)
+MEAS key 
+to return to
+measurement mode
+Easy operation with 
+menu control
+using five softkeys
+Display of current
+measuring ranges
+ESC key
+to abort inputs
+INFO key
+for help in plain text
+CLEAR key 
+to delete inputs 
+Keyboard to
+enter values
+Display of
+concentrations as
+numbers and bargraph
+for channel 1
+ENTER key 
+to accept 
+input values
+Display of 
+start-of-scale and 
+full-scale values
+Display of
+concentrations as
+numbers and bargraph
+for channel 2
+Status line for channel 2
+to display the unit
+status (programmable)
+© Siemens AG 2016
+
+1/74
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+Designs – Parts wetted by sample gas, standard
+ 
+Options
+ 
+Versions – Parts wetted by sample gas, special applications (examples)
+ 
+Gas path
+19" rack unit
+Field device
+Field device Ex
+With hoses
+Bushing
+Stainless steel, mat. no. 1.4571
+-
+Hose
+FKM (e.g. Viton)
+Sample chamber:
+• Body
+Aluminum
+• Lining
+Aluminum
+• Fitting
+Stainless steel, mat. no. 1.4571, 
+O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+• Window
+CaF2, adhesive: E353, O-ring: FKM (e.g. Viton) or FFKM 
+(Kalrez)
+With pipes
+Bushing
+Titanium
+Pipe
+Titanium, 
+O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+Sample chamber:
+• Body
+Aluminum
+• Lining
+Tantalum (only for cell length 20 mm to 180 mm)
+• Window
+CaF2, adhesive: E353, O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+With pipes
+Bushing
+Stainless steel, mat. no. 1.4571
+Pipe
+Stainless steel, mat. no. 1.4571, 
+O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+Sample chamber:
+• Body
+Aluminum
+• Lining
+Aluminum or tantalum (tantalum only for cell length 20 mm to 180 mm)
+• Window
+CaF2, adhesive: E353, O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+Gas path
+19" rack unit
+Field device
+Field device Ex
+Flow indicator
+Measurement pipe
+Duran glass
+-
+-
+Variable area
+Duran glass
+Suspension boundary
+PTFE (Teflon)
+Angle pieces
+FKM (e.g. Viton)
+Pressure switch
+Membrane
+FKM (e.g. Viton)
+-
+-
+Enclosure
+PA 6.3T
+Gas path
+19" rack unit
+Field device
+Field device Ex
+With pipes
+Bushing
+e.g. Hastelloy C22
+Pipe
+e.g. Hastelloy C22, 
+O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+Sample chamber:
+• Body
+e.g. Hastelloy C22
+• Window
+CaF2, without adhesive
+O-ring: FKM (e.g. Viton) or FFKM (Kalrez)
+© Siemens AG 2016
+
+1/75
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+Gas path (19" rack unit)
+
+Gas path ULTRAMAT 6, single-channel unit, 19" unit, with flow-type reference cell (option)
+ 
+Gas path ULTRAMAT 6, dual-channel unit, 19" unit
+Legend for the gas path figures
+1
+Sample gas inlet channel 1
+8
+Restrictor
+2
+Sample gas outlet channel 1
+9
+Purge gas inlet
+3
+Reference gas outlet (option)
+10
+Connection of atmospheric pressure sensor
+4
+Reference gas inlet (option)
+11
+Atmospheric pressure sensor
+5
+Sample gas inlet channel 2
+12
+Flow indicator in sample gas path (option)
+6
+Sample gas outlet channel 2
+13
+Pressure switch in sample gas path (option)
+7
+IR physical system
+P
+F
+P
+9
+10
+1
+2
+3
+4
+11
+13
+8
+7
+12
+3
+3
+
+
+
+
+
+
+
+
+
+
+&KDQQHO
+&KDQQHO
+© Siemens AG 2016
+
+1/76
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+Gas path (field device)
+
+Gas path ULTRAMAT 6, field unit, with flow-type reference cell (option)
+Legend for the gas path figures
+1
+Sample gas inlet
+7
+Purging gas outlet (analyzer side)
+2
+Sample gas outlet
+8
+Purging gas inlet (analyzer side)
+3
+Reference gas inlet (option)
+9
+Connection of atmospheric pressure sensor
+4
+Reference gas outlet (option)
+10
+IR physical system
+5
+Purging gas inlet (electronics side)
+11
+Atmospheric pressure sensor
+6
+Purging gas outlet (electronics side)
+3
+
+
+
+
+
+
+
+
+
+
+
+(OHFWURQLFVLGH
+$QDO\]LQJVLGH
+© Siemens AG 2016
+
+1/77
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+■Function
+Principle of operation
+The ULTRAMAT 6 gas analyzer operates according to the infra-
+red two-beam alternating light principle with double-layer detec-
+tor and optical coupler.
+The measuring principle is based on the molecule-specific 
+absorption of bands of infrared radiation. The absorbed wave-
+lengths are characteristic to the individual gases, but may par-
+tially overlap. This results in cross-sensitivities which are re-
+duced to a minimum in the ULTRAMAT 6 gas analyzers by the 
+following measures:
+• Gas-filled filter cell (beam divider)
+• Double-layer detector with optical coupler
+• Optical filters if necessary
+The figure shows the measuring principle. An IR source (1) 
+which is heated to approx. 700 ºC and which can be shifted to 
+balance the system is divided by the beam divider (3) into two 
+equal beams (sample and reference beams). The beam divider 
+also acts as a filter cell.
+The reference beam passes through a reference cell (8) filled 
+with N2 (a non-infrared-active gas) and reaches the right-hand 
+side of the detector (11) practically unattenuated. The sample 
+beam passes through the sample chamber (7) through which 
+the sample gas flows and reaches the left-hand side of the de-
+tector (10) attenuated to a lesser or greater extent depending on 
+the concentration of the sample gas. The detector is filled with a 
+defined concentration of the gas component to be measured.
+The detector is designed as a double-layer detector. The center 
+of the absorption band is preferentially absorbed in the upper 
+detector layer, the edges of the band are absorbed to approxi-
+mately the same extent in the upper and lower layers. The upper 
+and lower detector layers are connected together via the micro-
+flow sensor (12). This coupling means that the spectral sensitiv-
+ity has a very narrow band.
+The optical coupler (13) lengthens the lower receiver cell layer 
+optically. The infrared absorption in the second detector layer is 
+varied by changing the slider position (14). It is thus possible to 
+individually minimize the influence of interfering components.
+A chopper (5) rotates between the beam divider and the sample 
+chamber and interrupts the two beams alternately and periodi-
+cally. If absorption takes place in the sample chamber, a pulsat-
+ing flow is generated between the two detector levels which is 
+converted by the microflow sensor (12) into an electric signal. 
+The microflow sensor consists of two nickel-plated grids heated 
+to approximately 120 ºC, which, along with two supplementary 
+resistors, form a Wheatstone bridge. The pulsating flow together 
+with the dense arrangement of the Ni grids causes a change in 
+resistance. This leads to an offset in the bridge, which is depen-
+dent on the concentration of the sample gas.
+Notes
+The sample gases must be fed into the analyzers free of dust. 
+Condensation should be prevented from occurring in the sample 
+chambers. Therefore, the use of gas modified for the measuring 
+task is necessary in most application cases.
+As far as possible, the ambient air of the analyzer should not 
+have a large concentration of the gas components to be mea-
+sured.
+Flow-type reference sides with reduced flow must not be oper-
+ated with flammable or toxic gases.
+Flow-type reference sides with reduced flow and an O2 content 
+> 70 % may only be used together with Y02 (Clean for O2).
+ 
+ULTRAMAT 6, principle of operation
+Channels with electronically suppressed zero point only differ 
+from the standard version in the measuring range parameteriza-
+tion.
+Physically suppressed zeros can be provided as a special ap-
+plication.
+1
+2
+3
+5
+6
+7
+4
+8
+9
+10
+11
+13
+14
+12
+ 
+1 IR source, adjustable 
+8 Reference cell
+ 
+2 Optical filter 
+9 Sample gas outlet
+ 
+3 Beam divider 
+10 Detector, meas. side
+ 
+4 Eddy current drive 
+11 Detector, reference side
+ 
+5 Chopper 
+12 Microflow sensor
+ 
+6 Sample gas inlet 
+13 Optical coupler
+ 
+7 Sample cell 
+14 Slider, adjustable
+© Siemens AG 2016
+
+1/78
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+General information
+1
+Essential characteristics
+• Dimension of measured value freely selectable 
+(e.g. vpm, mg/m3)
+• Four freely-parameterizable measuring ranges per 
+component 
+• Measuring ranges with suppressed zero point possible
+• Measuring range identification
+• Galvanically isolated signal output 0/2/4 to 20 mA per compo-
+nent
+• Automatic or manual measuring range switchover selectable; 
+remote switching is also possible
+• Differential measuring ranges with flow-type reference cell
+• Storage of measured values possible during adjustments
+• Time constants selectable within wide limits (static/dynamic 
+noise suppression); i.e. the response time of the analyzer or 
+component can be matched to the respective measuring task
+• Short response time
+• Low long-term drift
+• Measuring point switchover for up to 6 measuring points 
+(programmable)
+• Measuring point identification
+• Monitoring of sample gas flow (option)
+• Internal pressure sensor for correction of variations in atmo-
+spheric pressure in the range 700 to 1 200 hPa absolute
+• External pressure sensor can be connected for correction of 
+variations in the process gas pressure in the range 700 to 
+1 500 hPa absolute (option)
+• Two control levels with separate authorization codes to pre-
+vent unintentional and unauthorized inputs
+• Automatic, parameterizable measuring range calibration
+• Simple handling using a numerical membrane keyboard and 
+operator prompting
+• Operation based on NAMUR recommendation
+• Customer-specific analyzer options such as: 
+- Customer acceptance
+- TAG labels
+- Drift recording
+• Easy device replacement since electric connections can be 
+simply disconnected from the device
+• Sample chambers for use in presence of highly corrosive sam-
+ple gases (e.g. tantalum layer or Hastelloy C22)
+Additional features, dual-channel version
+• Separate design of physical unit, electronics, inputs/outputs 
+and power supply for each channel
+• Display and operation via common LCD panel and keyboard
+• Measurement channels 1 and 2 can be converted to series 
+connection (linking of gas connections from channel 1 to 
+channel 2 on rear)
+© Siemens AG 2016
+
+1/79
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Technical specifications
+ 
+General information
+Measuring ranges
+4, internally and externally switch-
+able; autoranging is also possible
+Smallest possible measuring range
+Dependent on the application: 
+e.g. CO: 0 … 10 vpm, 
+CO2: 0 … 5 vpm
+Largest possible measuring span
+Dependent on the application
+Measuring range with suppressed 
+zero point
+Any zero point within 
+0 … 100 vol.% can be imple-
+mented; smallest possible span 
+20 %
+Operating position
+Front wall, vertical
+Conformity
+CE mark in accordance with 
+EN 50081-1, EN 50082-2
+Influence of interfering gases must be considered separately
+Design, enclosure
+Weight 
+Approx. 15 kg 
+(with one IR channel) 
+Approx. 21 kg 
+(with two IR channels)
+Degree of protection
+IP20 according to EN 60529
+Electrical characteristics
+EMC 
+(Electromagnetic Compatibility)
+In accordance with standard 
+requirements of NAMUR NE21 
+(08/98)
+Electrical safety
+According to EN 61010-1, 
+overvoltage category III
+Power supply
+100 … 120 V AC (nominal range 
+of use 90 … 132 V), 48 … 63 Hz 
+or 
+200 … 240 V AC (nominal range 
+of use 180 … 264 V), 48 … 63 Hz
+Power consumption
+1-channel unit: Approx. 40 VA
+2-channel unit: Approx. 70 VA
+Fuse values
+• 100 ... 120 V
+1 T/250 (7MB2121)
+1.6 T/250 (7MB2123)
+• 200 ... 240 V
+0.63 T/250 (7MB2121)
+1 T/250 (7MB2123)
+Gas inlet conditions
+Permissible sample gas pressure
+• With hoses
+- Without pressure switch
+600 … 1 500 hPa (absolute)
+- With pressure switch
+700 … 1 300 hPa (absolute)
+• With pipes (without pressure switch)
+600 … 1 500 hPa (absolute)
+Sample gas flow
+18 … 90 l/h (0.3 … 1.5 l/min)
+Sample gas temperature
+Min. 0 ... max. 50 °C, but above 
+the dew point
+Sample gas humidity
+< 90 % RH (relative humidity), or 
+dependent on measuring task, 
+non-condensing
+Dynamic response
+Warm-up period
+At room temperature < 30 min 
+(the technical specification will be 
+met after 2 hours)
+Delayed display (T90-time)
+Dependent on length of analyzer 
+chamber, sample gas line and 
+parameterizable damping
+Damping (electrical time constant)
+0 … 100 s, parameterizable
+Dead time (purging time of the gas 
+path in the unit at 1 l/min)
+Approximately 0.5 ... 5 s, 
+depending on version
+Time for device-internal signal 
+processing
+< 1 s
+Pressure correction range
+Pressure sensor
+• Internal
+700 … 1 200 hPa absolute
+• External
+700 … 1 500 hPa absolute
+Measuring response (relating to sample gas pressure 1 013 hPa 
+absolute, 0.5 l/min sample gas flow and 25 °C ambient temperature)
+Output signal fluctuation
+< 1 % of the smallest possible 
+measuring range according to 
+rating plate
+Zero point drift
+<  1 % of the current measuring 
+range/week
+Measured-value drift
+<  1 % of the current measuring 
+range/week
+Repeatability
+ 1 % of the current measuring 
+range
+Detection limit
+1 % of the smallest possible 
+measuring range
+Linearity error
+< 0.5 % of the full-scale value
+Influencing variables (relating to sample gas pressure 1 013 hPa 
+absolute, 0.5 l/min sample gas flow and 25 °C ambient temperature)
+Ambient temperature
+< 1 % of current measuring 
+range/10 K (with constant 
+receiver cell temperature)
+Sample gas pressure
+• When pressure compensation 
+has been switched on: < 0.15 % 
+of the span/1 % change in atmo-
+spheric pressure
+• When pressure compensation 
+has been switched off: < 1.5 % 
+of the span/1 % change in atmo-
+spheric pressure
+Sample gas flow
+Negligible
+Power supply
+< 0.1 % of the current measuring 
+range with rated voltage  10 %
+Environmental conditions
+Application-specific measuring 
+influences possible if ambient air 
+contains measured components or 
+cross interference-sensitive gases
+Electrical inputs and outputs
+Analog output
+0/2/4 ... 20 mA, isolated; 
+load 750 
+Relay outputs
+6, with changeover contacts, 
+freely parameterizable, e.g. for 
+measuring range identification; 
+load: 24 V AC/DC/1 A, isolated, 
+non-sparking
+Analog inputs
+2, dimensioned for 0/2/4 ... 20 mA 
+for external pressure sensor and 
+accompanying gas influence cor-
+rection (correction of cross-inter-
+ference)
+Binary inputs
+6, designed for 24 V, isolated, 
+freely parameterizable, e.g. for 
+measuring range switchover
+Serial interface
+RS 485
+Options
+AUTOCAL function with 8 addi-
+tional binary inputs and relay out-
+puts, also with PROFIBUS PA or 
+PROFIBUS DP
+Climatic conditions
+Permissible ambient temperature
+-30 ... +70 °C during storage and 
+transportation, 
+5 ... 45 °C during operation
+Permissible humidity
+< 90 % RH (relative humidity) as 
+annual average, during storage 
+and transportation (dew point 
+must not be undershot)
+© Siemens AG 2016
+
+1/80
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+Footnotes: see next page
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+Single-channel 19" rack unit for installation in cabinets
+7MB2121- 77777- 7A A 7
+Cannot be combined
+Click on the Article No. for the online configuration in the PIA Life Cycle 
+Portal.
+Gas connections for sample gas and reference gas
+Pipe with 6 mm outer diameter
+0
+0
+A21
+Pipe with ¼" outer diameter
+1
+1
+A20
+Measured component
+Possible with measuring 
+range identification
+CO
+11 ... 30
+A
+CO highly selective (with optical filter)
+12 ... 30
+B
+CO (TÜV; see table "TÜV single component", page 1/88)
+X
+CO2
+10 ... 30
+C
+CH4
+13 ... 30
+D
+C2H2
+15 ... 30
+E
+C2H4
+15 ... 30
+F
+C2H6
+14 ... 30
+G
+C3H6
+14 ... 30
+H
+C3H8
+13 ... 30
+J
+C4H6
+15 ... 30
+K
+C4H10
+14 ... 30
+L
+C6H14
+14 ... 30
+M
+SO2 (TÜV; see table "TÜV single component", 
+page 1/88)
+13 ... 30
+N
+NO (TÜV; see table "TÜV single component", 
+page 1/88)
+14 ... 20, 22
+P
+NH3 (dry)
+14 ... 30
+Q
+Q
+H2O
+17 ... 20, 22
+R
+R
+N2O
+13 ... 30
+S
+Smallest measuring 
+range
+Largest measuring 
+range
+Measuring range 
+identification
+0 ... 5 vpm
+0 ... 100 vpm
+10
+A
+0 ... 10 vpm
+0 ... 200 vpm
+11
+B
+0 ... 20 vpm
+0 ... 400 vpm
+12
+C
+0 ... 50 vpm
+0 ... 1 000 vpm
+13
+D
+0 ... 100 vpm
+0 ... 1 000 vpm
+14
+E
+0 ... 300 vpm
+0 ... 3 000 vpm
+15
+F
+0 ... 500 vpm
+0 ... 5 000 vpm
+16
+G
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+17
+H
+0 ... 3 000 vpm
+0 ... 10 000 vpm
+18
+J
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+19
+K
+0 ... 5 000 vpm
+0 ... 15 000 vpm
+20
+L
+0 ... 5 000 vpm
+0 ... 50 000 vpm
+21
+M
+0 ... 1 %
+0 ... 3 %
+22
+N
+0 ... 1 %
+0 ... 10 %
+23
+P
+0 ... 3 %
+0 ... 10 %
+24
+Q
+0 ... 3 %
+0 ... 30 %
+25
+R
+0 ... 5 %
+0 ... 15 %
+26
+S
+0 ... 5 %
+0 ... 50 %
+27
+T
+0 ... 10 %
+0 ... 30 %
+28
+U
+0 ... 10 %
+0 ... 100 %
+29
+V
+0 ... 30 %
+0 ... 100 %
+30
+W
+Internal gas paths
+Sample chamber1)
+(lining)
+Reference chamber
+(flow-type)
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+0
+0
+0
+A20, A21
+Aluminum
+Flow-type
+1
+1
+Pipe made of titanium
+Tantalum
+Non-flow-type
+4
+4
+A20, A21, Y02
+Tantalum
+Flow-type
+5
+5
+Y02
+Stainless steel pipe
+(mat. no. 1.4571)
+Aluminum
+Non-flow-type
+6
+6
+A20, A21
+Tantalum
+Non-flow-type
+8
+8
+A20, A21
+With sample gas monitoring
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+2
+2
+2
+A20, A21
+Aluminum
+Flow-type
+3
+3
+© Siemens AG 2016
+
+1/81
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+1) Only for cell length 20 to 180 mm
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+Single-channel 19" rack unit for installation in cabinets
+7MB2121- 77777- 7 A A 7
+Cannot be combined
+Add-on electronics
+Without
+0
+AUTOCAL function
+• With 8 additional digital inputs/outputs
+1
+• With serial interface for the automotive industry (AK)
+3
+3
+E20
+• With 8 digital inputs/outputs, PROFIBUS PA interface
+6
+• With 8 digital inputs/outputs, PROFIBUS DP interface
+7
+Power supply
+100 ... 120 V AC, 48 ... 63 Hz
+0
+200 ... 240 V AC, 48 ... 63 Hz
+1
+Operating software and documentation
+German
+0
+English
+1
+French
+2
+Spanish
+3
+Italian
+4
+Additional versions
+Order code
+Add "-Z" to Article No. and specify Order code
+Flow-type reference cell with reduced flow, 6 mm
+A20
+Flow-type reference cell with reduced flow, ¼"
+A21
+Telescopic rails (2 units)
+A31
+TAG labels (specific lettering based on customer information)
+B03
+Kalrez gaskets in sample gas path
+B04
+SIL conformity declaration (SIL 2) Functional Safety according to IEC 61508 
+and IEC 61511
+C20
+FM/CSA certificate – Class I Div 2
+E20
+Clean for O2 service (specially cleaned gas path)
+Y02
+Measuring range indication in plain text, if different from the standard setting
+Y11
+Special setting (only in conjunction with an application no., e.g. extended 
+measuring range)
+Y12
+Extended special setting (only in conjunction with an application no., 
+e.g. determination of cross-interferences)
+Y13
+TÜV version acc. to 13th and 17th BlmSchV
+Y17
+Accessories
+Article No.
+RS 485/Ethernet converter
+A5E00852383
+RS 485/RS 232 converter
+C79451-Z1589-U1
+RS 485/USB converter
+A5E00852382
+AUTOCAL function with serial interface for the automotive industry (AK)
+C79451-A3480-D512
+AUTOCAL function with 8 digital inputs/outputs
+C79451-A3480-D511
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA
+A5E00057307
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS DP
+A5E00057312
+Set of Torx screwdrivers
+A5E34821625
+© Siemens AG 2016
+
+1/82
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+Two-channel 19" rack unit for installation in cabinets
+for measuring 2 IR components
+7MB2123- 77777 - 7777
+Cannot be combined
+Click on the Article No. for the online configuration in the PIA Life Cycle 
+Portal.
+Gas connections for sample gas and reference gas
+Pipe with 6 mm outer diameter
+0
+0
+A21, A41
+Pipe with ¼" outer diameter
+1
+1
+A20, A40
+Channel 1 
+Measured component
+Possible with measuring 
+range identification
+CO
+11 ... 30
+A
+CO highly selective (with optical filter)
+12 ... 30
+B
+CO (TÜV; see table "TÜV single component", page 1/88)
+X
+CO2
+10 ... 30
+C
+CH4
+13 ... 30
+D
+C2H2
+15 ... 30
+E
+C2H4
+15 ... 30
+F
+C2H6
+14 ... 30
+G
+C3H6
+14 ... 30
+H
+C3H8
+13 ... 30
+J
+C4H6
+15 ... 30
+K
+C4H10
+14 ... 30
+L
+C6H14
+14 ... 30
+M
+SO2 (TÜV; see table "TÜV single component", 
+page 1/88)
+13 ... 30
+N
+NO (TÜV; see table "TÜV single component", 
+page 1/88)
+14 ... 20, 22
+P
+NH3 (dry)
+14 ... 30
+Q
+Q
+H2O
+17 ... 20, 22
+R
+R
+N2O
+13 ... 30
+S
+Smallest measuring range Largest measuring 
+range
+Measuring range 
+identification
+0 ... 5 vpm
+0 ... 100 vpm
+10
+A
+0 ... 10 vpm
+0 ... 200 vpm
+11
+B
+0 ... 20 vpm
+0 ... 400 vpm
+12
+C
+0 ... 50 vpm
+0 ... 1 000 vpm
+13
+D
+0 ... 100 vpm
+0 ... 1 000 vpm
+14
+E
+0 ... 300 vpm
+0 ... 3 000 vpm
+15
+F
+0 ... 500 vpm
+0 ... 5 000 vpm
+16
+G
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+17
+H
+0 ... 3 000 vpm
+0 ... 10 000 vpm
+18
+J
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+19
+K
+0 ... 5 000 vpm
+0 ... 15 000 vpm
+20
+L
+0 ... 5 000 vpm
+0 ... 50 000 vpm
+21
+M
+0 ... 1 %
+0 ... 3 %
+22
+N
+0 ... 1 %
+0 ... 10 %
+23
+P
+0 ... 3 %
+0 ... 10 %
+24
+Q
+0 ... 3 %
+0 ... 30 %
+25
+R
+0 ... 5 %
+0 ... 15 %
+26
+S
+0 ... 5 %
+0 ... 50 %
+27
+T
+0 ... 10 %
+0 ... 30 %
+28
+U
+0 ... 10 %
+0 ... 100 %
+29
+V
+0 ... 30 %
+0 ... 100 %
+30
+W
+Internal gas paths
+Sample chamber1)
+(lining)
+Reference chamber
+(flow-type)
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+0
+0
+0
+A20, A21, A40, A41
+Aluminum
+Flow-type
+1
+1
+Pipe made of titanium
+Tantalum
+Non-flow-type
+4
+4
+A20, A21, A40, A41, Y02
+Tantalum
+Flow-type
+5
+5
+Y02
+Stainless steel pipe
+(mat. no. 1.4571)
+Aluminum
+Non-flow-type
+6
+6
+A20, A21, A40, A41
+Tantalum
+Non-flow-type
+8
+8
+A20, A21, A40, A41
+With sample gas monitoring
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+2
+2
+2
+A20, A21, A40, A41
+Aluminum
+Flow-type
+3
+3
+1) Only for cell length 20 to 180 mm
+© Siemens AG 2016
+
+1/83
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+Add-on electronics
+Without
+0
+AUTOCAL function
+• With 8 additional digital inputs/outputs each for channel 1
+1
+• With 8 additional digital inputs/outputs each for channel 2
+2
+• With 8 additional digital inputs/outputs each for channel 1 and channel 2
+3
+• With serial interface for the automotive industry (AK)
+5
+5
+E20
+• With 8 additional digital inputs/outputs each for channel 1 and channel 2 
+and PROFIBUS PA interface
+6
+• With 8 additional digital inputs/outputs each for channel 1 and channel 2 
+and PROFIBUS DP interface
+7
+Power supply
+100 ... 120 V AC, 48 ... 63 Hz
+0
+200 ... 240 V AC, 48 ... 63 Hz
+1
+Channel 2 
+Measured component
+Possible with measuring 
+range identification
+CO
+11 ... 30
+A
+CO highly selective (with optical filter)
+12 ... 30
+B
+CO (TÜV; see table "TÜV single component", page 1/88)
+X
+CO2
+10 ... 30
+C
+CH4
+13 ... 30
+D
+C2H2
+15 ... 30
+E
+C2H4
+15 ... 30
+F
+C2H6
+14 ... 30
+G
+C3H6
+14 ... 30
+H
+C3H8
+13 ... 30
+J
+C4H6
+15 ... 30
+K
+C4H10
+14 ... 30
+L
+C6H14
+14 ... 30
+M
+SO2 (TÜV; see table "TÜV single component", 
+page 1/88)
+13 ... 30
+N
+NO (TÜV; see table "TÜV single component", 
+page 1/88)
+14 ... 20, 22
+P
+NH3 (dry)
+14 ... 30
+Q
+Q
+H2O
+17 ... 20, 22
+R
+R
+N2O
+13 ... 30
+S
+Smallest measuring range Largest measuring 
+range
+Measuring range 
+identification
+0 ... 5 vpm
+0 ... 100 vpm
+10
+A
+0 ... 10 vpm
+0 ... 200 vpm
+11
+B
+0 ... 20 vpm
+0 ... 400 vpm
+12
+C
+0 ... 50 vpm
+0 ... 1 000 vpm
+13
+D
+0 ... 100 vpm
+0 ... 1 000 vpm
+14
+E
+0 ... 300 vpm
+0 ... 3 000 vpm
+15
+F
+0 ... 500 vpm
+0 ... 5 000 vpm
+16
+G
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+17
+H
+0 ... 3 000 vpm
+0 ... 10 000 vpm
+18
+J
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+19
+K
+0 ... 5 000 vpm
+0 ... 15 000 vpm
+20
+L
+0 ... 5 000 vpm
+0 ... 50 000 vpm
+21
+M
+0 ... 1 %
+0 ... 3 %
+22
+N
+0 ... 1 %
+0 ... 10 %
+23
+P
+0 ... 3 %
+0 ... 10 %
+24
+Q
+0 ... 3 %
+0 ... 30 %
+25
+R
+0 ... 5 %
+0 ... 15 %
+26
+S
+0 ... 5 %
+0 ... 50 %
+27
+T
+0 ... 10 %
+0 ... 30 %
+28
+U
+0 ... 10 %
+0 ... 100 %
+29
+V
+0 ... 30 %
+0 ... 100 %
+30
+W
+Operating software and documentation
+German
+0
+English
+1
+French
+2
+Spanish
+3
+Italian
+4
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+Two-channel 19" rack unit for installation in cabinets
+for measuring 2 IR components
+7MB2123- 77777 - 7777
+Cannot be combined
+© Siemens AG 2016
+
+1/84
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Selection and ordering data
+Additional versions
+Order code
+Cannot be 
+combined
+Add "-Z" to Article No. and specify Order codes.
+Flow-type reference cell with reduced flow, 6 mm (channel 1)
+A20
+Flow-type reference cell with reduced flow, ¼" (channel 1)
+A21
+Flow-type reference cell with reduced flow, 6 mm (channel 2)
+A40
+Flow-type reference cell with reduced flow, ¼" (channel 2)
+A41
+Connection pipe
+(can only be combined with the appropriate gas connection diameter and internal gas path materials)
+• Made of titanium, 6 mm, complete with screwed gland, for sample gas side
+A22
+• Made of titanium, 6 mm, complete with screwed gland, for reference gas side
+A23
+• Made of titanium, ¼", complete with screwed gland, for sample gas side
+A24
+• Made of titanium, ¼", complete with screwed gland, for reference gas side
+A25
+• Made of stainless steel (mat. no. 1.4571), 6 mm, complete with screwed gland, for sample gas side
+A27
+• Made of stainless steel (mat. no. 1.4571), ¼", complete with screwed gland, for sample gas side
+A29
+Telescopic rails (2 units)
+A31
+TAG labels (specific lettering based on customer information)
+B03
+Kalrez gaskets in sample gas path (channel 1)
+B04
+Kalrez gaskets in sample gas path (channel 2)
+B05
+SIL conformity declaration (SIL 2) Functional Safety according to IEC 61508 and IEC 61511
+C20
+FM/CSA certificate – Class I Div 2
+E20
+Clean for O2 service (specially cleaned gas path; channels 1 + 2)
+Y02
+Measuring range indication in plain text, if different from the standard setting
+Y11
+Special setting (only in conjunction with an application no., e.g. extended measuring range)
+Y12
+Extended special setting (only in conjunction with an application no., e.g. determination of 
+cross-interferences)
+Y13
+TÜV version acc. to 13th and 17th BlmSchV (1st channel)
+Y17
+TÜV version acc. to 13th and 17th BlmSchV (2nd channel)
+Y18
+Accessories
+Article No.
+RS 485/Ethernet converter
+A5E00852383
+RS 485/RS 232 converter
+C79451-Z1589-U1
+RS 485/USB converter
+A5E00852382
+AUTOCAL function with serial interface for the automotive industry (AK)
+C79451-A3480-D33
+AUTOCAL function with 8 digital inputs/outputs for channel 1 or channel 2
+C79451-A3480-D511
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA for channel 1 or channel 2
+A5E00057307
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS DP for channel 1 or channel 2
+A5E00057312
+Set of Torx screwdrivers
+A5E34821625
+© Siemens AG 2016
+
+1/85
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+Single-channel or dual-channel 19" rack unit for installation in cabinets
+for measuring 2 or 3 IR components
+7MB2124- 77777 - 7777
+Cannot be combined
+Click on the Article No. for the online configuration in the PIA Life Cycle Portal.
+Gas connections for sample gas and reference gas
+Pipe with 6 mm outer diameter
+0
+0
+A21, A41
+Pipe with ¼" outer diameter
+1
+1
+A20, A40
+Measured component Smallest measuring 
+range
+Largest measuring range
+CO
+0 ... 100 vpm
+0 ... 1 000 vpm
+A A
+NO
+0 ... 100 vpm
+0 ... 1 000 vpm
+CO
+0 ... 300 vpm
+0 ... 3 000 vpm
+A B
+NO
+0 ... 300 vpm
+0 ... 3 000 vpm
+CO
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+A C
+NO
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+For CO/NO (TÜV; table "TÜV, 2 components in series", page 1/88)
+CO2
+0 ... 100 vpm
+0 ... 1 000 vpm
+B A
+CO
+0 ... 100 vpm
+0 ... 1 000 vpm
+CO2
+0 ... 300 vpm
+0 ... 3 000 vpm
+B B
+CO
+0 ... 300 vpm
+0 ... 3 000 vpm
+CO2
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+B C
+CO
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+CO2
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+B D
+CO
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+CO2
+0 ... 1 %
+0 ... 10 %
+B E
+CO
+0 ... 1 %
+0 ... 10 %
+CO2
+0 ... 3 %
+0 ... 30 %
+B F
+CO
+0 ... 3 %
+0 ... 30 %
+CO2
+0 ... 10 %
+0 ... 100 %
+B G
+CO
+0 ... 10 %
+0 ... 100 %
+CO2
+0 ... 10 %
+0 ... 100 %
+C G
+CH4
+0 ... 10 %
+0 ... 100 %
+CO2
+0 ... 300 vpm
+0 ... 3 000 vpm
+D B
+NO
+0 ... 300 vpm
+0 ... 3 000 vpm
+Internal gas paths
+Sample chamber1)
+(lining)
+Reference chamber
+(flow-type)
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+0
+0
+0
+A20, A21, A40, A41
+Aluminum
+Flow-type
+1
+1
+Pipe made of titanium Tantalum
+Non-flow-type
+4
+4
+A20, A21, A40, A41, Y02
+Tantalum
+Flow-type
+5
+5
+Y02
+Stainless steel pipe
+(mat. no. 1.4571)
+Aluminum
+Non-flow-type
+6
+6
+A20, A21, A40, A41
+Tantalum
+Non-flow-type
+8
+8
+A20, A21, A40, A41
+With sample gas monitoring
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+2
+2
+2
+A20, A21, A40, A41
+Aluminum
+Flow-type
+3
+3
+Add-on electronics
+Without
+0
+AUTOCAL function
+• With 8 additional digital inputs/outputs each for channel 1
+1
+• With 8 additional digital inputs/outputs each for channel 1 and channel 2
+2
+2
+• With serial interface for the automotive industry (AK), channel 1
+3
+3
+E20
+• With serial interface for the automotive industry (AK), 
+channel 1 and channel 2
+4
+4
+E20
+• With 8 additional digital inputs/outputs for channel 1
+and PROFIBUS PA interface
+5
+• With 8 additional digital inputs/outputs each for channel 1 and channel 2 
+and PROFIBUS PA interface
+6
+6
+• With 8 additional digital inputs/outputs for channel 1
+and PROFIBUS DP interface
+7
+• With 8 additional digital inputs/outputs each for channel 1 and channel 2 
+and PROFIBUS DP interface
+8
+8
+1) Only for cell length 20 to 180 mm
+© Siemens AG 2016
+
+1/86
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+Power supply
+100 ... 120 V AC, 48 ... 63 Hz
+0
+200 ... 240 V AC, 48 ... 63 Hz
+1
+Channel 2 
+Measured component
+Possible with measuring 
+range identification
+Without channel 2
+W
+W
+CO
+11 ... 30
+A
+CO highly selective (with optical filter)
+12 ... 30
+B
+CO (TÜV; see table "TÜV single component", page 1/88)
+X
+CO2
+10 ... 30
+C
+CH4
+13 ... 30
+D
+C2H2
+15 ... 30
+E
+C2H4
+15 ... 30
+F
+C2H6
+14 ... 30
+G
+C3H6
+14 ... 30
+H
+C3H8
+13 ... 30
+J
+C4H6
+15 ... 30
+K
+C4H10
+14 ... 30
+L
+C6H14
+14 ... 30
+M
+SO2 (TÜV; see table "TÜV single component", 
+page 1/88)
+13 ... 30
+N
+NO (TÜV; see table "TÜV single component", 
+page 1/88)
+14 ... 20, 22
+P
+NH3 (dry)
+14 ... 30
+Q
+Q
+H2O
+17 ... 20, 22
+R
+R
+N2O
+13 ... 30
+S
+Smallest measuring 
+range
+Largest measuring 
+range
+Measuring range 
+identification
+Without channel 2
+X
+X
+A40, A41, B05
+0 ... 5 vpm
+0 ... 100 vpm
+10
+A
+0 ... 10 vpm
+0 ... 200 vpm
+11
+B
+0 ... 20 vpm
+0 ... 400 vpm
+12
+C
+0 ... 50 vpm
+0 ... 1 000 vpm
+13
+D
+0 ... 100 vpm
+0 ... 1 000 vpm
+14
+E
+0 ... 300 vpm
+0 ... 3 000 vpm
+15
+F
+0 ... 500 vpm
+0 ... 5 000 vpm
+16
+G
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+17
+H
+0 ... 3 000 vpm
+0 ... 10 000 vpm 
+18
+J
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+19
+K
+0 ... 5 000 vpm
+0 ... 15 000 vpm
+20
+L
+0 ... 5 000 vpm
+0 ... 50 000 vpm
+21
+M
+0 ... 1 %
+0 ... 3 %
+22
+N
+0 ... 1 %
+0 ... 10 %
+23
+P
+0 ... 3 %
+0 ... 10 %
+24
+Q
+0 ... 3 %
+0 ... 30 %
+25
+R
+0 ... 5 %
+0 ... 15 %
+26
+S
+0 ... 5 %
+0 ... 50 %
+27
+T
+0 ... 10 %
+0 ... 30 %
+28
+U
+0 ... 10 %
+0 ... 100 %
+29
+V
+0 ... 30 %
+0 ... 100 %
+30
+W
+Operating software and documentation
+German
+0
+English
+1
+French
+2
+Spanish
+3
+Italian
+4
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+Single-channel or dual-channel 19" rack unit for installation in cabinets
+for measuring 2 or 3 IR components
+7MB2124- 77777 - 7777
+Cannot be combined
+© Siemens AG 2016
+
+1/87
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Selection and ordering data 
+Additional versions
+Order code
+Cannot be 
+combined
+Add "-Z" to Article No. and specify Order codes.
+Flow-type reference cell with reduced flow, 6 mm (channel 1)
+A20
+Flow-type reference cell with reduced flow, ¼" (channel 1)
+A21
+Flow-type reference cell with reduced flow, 6 mm (channel 2)
+A40
+Flow-type reference cell with reduced flow, ¼" (channel 2)
+A41
+Connection pipe
+(can only be combined with the appropriate gas connection diameter and internal gas path materials)
+• Made of titanium, 6 mm, complete with screwed gland, for sample gas side
+A22
+• Made of titanium, 6 mm, complete with screwed gland, for reference gas side
+A23
+• Made of titanium, ¼", complete with screwed gland, for sample gas side
+A24
+• Made of titanium, ¼", complete with screwed gland, for reference gas side
+A25
+• Made of stainless steel (mat. no. 1.4571), 6 mm, complete with screwed gland, for sample gas side
+A27
+• Made of stainless steel (mat. no. 1.4571), ¼", complete with screwed gland, for sample gas side
+A29
+Telescopic rails (2 units)
+A31
+TAG labels (specific lettering based on customer information)
+B03
+Kalrez gaskets in sample gas path (channel 1)
+B04
+Kalrez gaskets in sample gas path (channel 2)
+B05
+SIL conformity declaration (SIL 2) Functional Safety according to IEC 61508 and IEC 61511
+C20
+FM/CSA certificate – Class I Div 2
+E20
+Clean for O2 service (specially cleaned gas path; channels 1 + 2)
+Y02
+Measuring range indication in plain text, if different from the standard setting
+Y11
+Special setting (only in conjunction with an application no., e.g. extended measuring range)
+Y12
+Extended special setting (only in conjunction with an application no., e.g. determination of 
+cross-interferences)
+Y13
+TÜV version acc. to 13th and 17th BlmSchV (channel 1)
+Y17
+TÜV version acc. to 13th and 17th BlmSchV (channel 2)
+Y18
+Accessories
+Article No.
+RS 485/Ethernet converter
+A5E00852383
+RS 485/RS 232 converter
+C79451-Z1589-U1
+RS 485/USB converter
+A5E00852382
+AUTOCAL function with serial interface for the automotive industry (AK)
+C79451-A3480-D33
+AUTOCAL function with 8 digital inputs/outputs for channel 1 or channel 2
+C79451-A3480-D511
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA for channel 1 or channel 2
+A5E00057307
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS DP for channel 1 or channel 2
+A5E00057312
+Set of Torx screwdrivers
+A5E34821625
+© Siemens AG 2016
+
+1/88
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+TÜV single component
+ 
+Example for ordering 
+ULTRAMAT 6, TÜV
+Component: CO
+Measuring range: 0 to 50 / 1 000 mg/m3
+with hoses, non-flow-type reference compartment
+without automatic adjustment (AUTOCAL)
+230 V AC; German
+7MB2121-0XD00-1AA0-Z +Y17
+TÜV, 2 components in series
+ 
+Example for ordering 
+ULTRAMAT 6, TÜV, 2-component unit
+Components: CO/NO + SO2
+Measuring range: CO: 0 to 75 / 1 000 mg/m3, NO: 0 to 200 / 2 000 mg/m3, SO2: 0 to 75 / 1 500 mg/m3
+with hoses, non-flow-type reference compartment
+without automatic adjustment (AUTOCAL)
+230 V AC; German
+7MB2124-0AA00-1NC0-Z +Y17+Y18
+Note: for 3 components take both tables into consideration.
+Ordering information measured component N2O
+Certification in accordance with AM0028 and AM0034 (Kyoto Protocol) for measuring N2O, measuring range 0 ... 300 vpm / 
+3 000 vpm.
+Version: Standard device
+Component
+CO (TÜV)
+SO2 (TÜV)
+NO (TÜV)
+Measuring range 
+identification
+Smallest 
+measuring range 
+from 0 to ...
+Largest 
+measuring range 
+from 0 to ...
+Smallest 
+measuring range 
+from 0 to ...
+Largest 
+measuring range 
+from 0 to ...
+Smallest 
+measuring range 
+from 0 to ...
+Largest 
+measuring range 
+from 0 to ...
+C
+75 mg/m3
+1 500 mg/m3
+D
+50 mg/m3
+1 000 mg/m3
+300 mg/m3
+3 000 mg/m3
+E
+500 mg/m3
+5 000 mg/m3
+100 mg/m3
+2 000 mg/m3
+F
+300 mg/m3
+3 000 mg/m3
+1 000 mg/m3
+10 000 mg/m3
+300 mg/m3
+3 000 mg/m3
+G
+500 mg/m3
+5 000 mg/m3
+500 mg/m3
+5 000 mg/m3
+H
+1 000 mg/m3
+10 000 mg/m3
+3 000 mg/m3
+30 000 mg/m3
+1 000 mg/m3
+10 000 mg/m3
+K
+3 000 mg/m3
+30 000 mg/m3
+10 g/m3
+100 g/m3
+3 000 mg/m3
+30 000 mg/m3
+P
+10 g/m3
+100 g/m3
+30 g/m3
+300 g/m3
+10 g/m3
+100 g/m3
+R
+30 g/m3
+300 g/m3
+100 g/m3
+1 000 g/m3
+30 g/m3
+300 g/m3
+V
+100 g/m3
+1 160 g/m3
+300 g/m3
+2 630 g/m3
+100 g/m3
+1 250 g/m3
+Component
+CO (TÜV)
+NO (TÜV)
+Measuring range 
+identification
+Smallest measuring range 
+from 0 to ...
+Largest measuring range 
+from 0 to ...
+Smallest measuring range 
+from 0 to ...
+Largest measuring range 
+from 0 to ...
+AA
+75 mg/m3
+1 000 mg/m3
+200 mg/m3
+2 000 mg/m3
+AB
+300 mg/m3
+3 000 mg/m3
+300 mg/m3
+3 000 mg/m3
+AC
+1 000 mg/m3
+10 000 mg/m3
+1 000 mg/m3
+10 000 mg/m3
+© Siemens AG 2016
+
+1/89
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Dimensional drawings
+ 
+ULTRAMAT 6, 19“ unit, dimensions in mm (example: 1-channel version)
+8/75$0$7
+
+
+
+
+
+s
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Siemens AG 2016
+
+1/90
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+■Schematics
+Pin assignment (electrical and gas connections)
+ 
+ULTRAMAT 6, 19“ unit, pin assignment
+M
+GND
+GND
+M
+GND
+NC
+NC
+GND
+M
+M
+M
+M
+NC
+RD/TD-P
+RD/TD-N
+NC
+GND
+NC
+GND
+M
+M
+GND
++5 V
+4
+5
+12
+13
+14
+15
+1
+2
+3
+6
+7
+8
+9
+10
+11
+12
+13
+7
+8
+9
+10
+11
+4
+5
+17
+18
+19
+1
+2
+3
+6
+16
+21
+14
+20
+15
+22
+23
+24
+25
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Isolated via optocoupler
+"0" = 0 V (0 ... 4.5 V)
+"1" = 24 V (13 ... 33 V)
+Binary input 1 to 4-N
+Binary input 1-P
+Binary input 2-P
+Binary input 3-P
+Binary input 4-P
+Relay 1
+Relay 2
+Relay 3
+Relay 4
+Relay 5
+Relay 6
+SUB-D 25F connector
+Correction of cross-interference
+Correction of cross-interference
+Pressure correction
+Pressure correction
+Analog outputs isolated
+(also from each other), RL: ≤ 750 Ω
+Analog inputs
+non-isolated,
+0 ... 20 mA/500 Ω
+or 0 ... 10 V
+(low-resistance)
+Analog output 2-P
+Analog output 1-N
+Analog output 1-P
+Analog output 2-N
+Analog input 2-P
+Analog input 2-N
+Analog input 1-P
+Analog input 1-N
+Binary input 6-P
+Binary input 5-P
+Binary input 5 to 6-N
+SUB-D 15F connector
+R_Level-P-
+R_Level-N-
+It is possible to connect 
+bus terminating resistors
+to pins 7 and 9. 
+SUB-D 9F connector (RS 485)
+For 2-component version only
+of the ULTRAMAT part
+Isolated via optocoupler
+"0" = 0 V (0 ... 4.5 V)
+"1" = 24 V (13 ... 33 V)
+1RWH
+$OOFDEOHVWRWKHFRQQHFWRUVRUWHUPLQDOEORFNV
+PXVWEHVKLHOGHGDQGUHVWDJDLQVWWKH
+HQFORVXUHSRWHQWLDO
+Contact load 
+max. 24 V/1 A, AC/DC; relay 
+contacts shown: relay coil has 
+zero current
+© Siemens AG 2016
+
+1/91
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+ 
+ULTRAMAT 6, 19“ unit, pin assignment of AUTOCAL board and PROFIBUS connectors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+*1'
+1&
+1&
+*1'
+939
+'*1'
+5['7['1$
+5['7['3$
+&1751
+3$3
+3$1
+5HOD\
+5HOD\
+5HOD\ 
+5HOD\
+5HOD\
+5HOD\
+5HOD\
+5HOD\
+&RQWDFWORDG
+PD[9$$&'&
+IRUWKHUHOD\FRQWDFWV
+VKRZQ
+WKHUHOD\KDV]HURFXUUHQW
+%LQDU\LQSXW3
+,VRODWHG
+YLDRSWRFRXSOHU
+ 99
+ 99
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXWWR1
+&RQQHFWRU68%')RSWLRQ
+&RQQHFWRU68%')
+352),%86'3
+&RQQHFWRU68%'0
+352),%863$
+RSWLRQDO
+&1753GLUHFWLRQFRQWURO
+1RWH
+$OOFDEOHVWRWKHFRQQHFWRUVRUWHUPLQDOEORFNVPXVW
+EHVKLHOGHGDQGUHVWDJDLQVWWKHHQFORVXUHSRWHQWLDO
+© Siemens AG 2016
+
+1/92
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+19" rack unit
+1
+ 
+ULTRAMAT 6, 19“ unit, gas and electrical connections (example: 2-channel version)
+
+
+
+
+
+
+
+
+*DVFRQQHFWLRQVVWXEVPPRU~
+SLQ
+LQWHUIDFH
+FRQQHFWRU
+RSWLRQHJ
+352),%86
+3RZHUVXSSO\
+DQGIXVHV
+SLQFRQQHFWRU
+%LQDU\LQSXWV
+DQG
+UHOD\RXWSXWV
+RSWLRQERDUG
+SLQFRQQHFWRU
+%LQDU\LQSXWVDQG
+UHOD\RXWSXWV
+&KDQQHO
+&KDQQHO
+SLQ
+FRQQHFWRU
+56
+SLQFRQQHFWRU
+%LQDU\LQSXWVDQG
+DQDORJLQSXWVRXWSXWV
+6DPSOHJDVLQOHW
+5HIHUHQFHJDVLQOHW
+6DPSOHJDVRXWOHW
+5HIHUHQFHJDVRXWOHW
+&KDQQHO
+&KDQQHO
+3XUJLQJJDV
+LQOHW
+&RQQHFWLRQRI
+DWPRVSKHULF
+SUHVVXUHVHQVRU
+© Siemens AG 2016
+
+1/93
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+■Technical specifications
+ 
+General information
+Measuring ranges
+4, internally and externally switch-
+able; autoranging is also possible
+Smallest possible measuring range
+Dependent on the application, 
+e.g. CO: 0 … 10 vpm, 
+CO2 : 0 … 5 vpm
+Largest possible measuring range
+Dependent on the application
+Measuring range with suppressed 
+zero point
+Any zero point within 
+0 … 100 vol.% can be 
+implemented; smallest possible 
+span 20 %
+Heated version
+65 °C
+Operating position
+Front wall, vertical
+Conformity
+CE mark in accordance with 
+EN 50081-1, EN 50082-2
+Influence of interfering gases must be considered separately
+Design, enclosure
+Weight 
+Approx. 32 kg
+Degree of protection
+IP65 in accordance with 
+EN 60529, restricted breathing 
+enclosure to EN 50021
+Electrical characteristics
+Power supply
+100 … 120 V AC (nominal range 
+of use 90 … 132 V), 48 … 63 Hz 
+or 
+200 … 240 V AC (nominal range 
+of use 180 … 264 V), 48 … 63 Hz
+Power consumption
+Approx. 35 VA; approx. 330 VA 
+with heated version
+EMC
+(Electromagnetic Compatibility)
+In accordance with standard 
+requirements of NAMUR NE21 
+(08/98)
+Electrical safety
+In accordance with EN 61010-1
+• Heated units
+Overvoltage category II
+• Unheated units
+Overvoltage category III
+Fuse values (unheated unit)
+• 100 ... 120 V
+F3: 1 T/250; F4: 1 T/250
+• 200 ... 240 V
+F3: 0.63 T/250; F4: 0.63 T/250
+Fuse values (heated unit)
+• 100 ... 120 V
+F1: 1 T/250; F2: 4 T/250
+F3: 4 T/250; F4: 4 T/250
+• 200 ... 240 V
+F1: 0.63 T/250; F2: 2.5 T/250
+F3: 2.5 T/250; F4: 2.5 T/250
+Gas inlet conditions
+Permissible sample gas pressure
+• With hoses (without pressure 
+switch)
+600 … 1 500 hPa (absolute)
+• With pipes (without pressure 
+switch)
+600 … 1 500 hPa (absolute)
+- Ex (leakage compensation)
+600 … 1 160 hPa (absolute)
+- Ex (continuous purging)
+600 … 1 500 hPa (absolute)
+Purging gas pressure
+• Permanent
+< 165 hPa above ambient pres-
+sure
+• For short periods
+250 hPa above ambient pressure
+Sample gas flow
+18 … 90 l/h (0.3 … 1.5 l/min)
+Sample gas temperature
+Min. 0 ... max. 50 °C, but above 
+the dew point, for heated version 
+min. 0 … max. 80 °C
+Sample gas humidity
+< 90 % RH (RH: relative humidity) 
+or dependent on measuring task
+Dynamic response
+Warm-up period
+At room temperature < 30 min 
+(the technical specification will be 
+met after 2 hours)
+Delayed display (T90-time)
+Dependent on length of analyzer 
+chamber, sample gas line and 
+parameterizable damping
+Damping (electrical time constant)
+0 … 100 s, parameterizable
+Dead time (purging time of the gas 
+path in the unit at 1 l/min)
+Approximately 0.5 ... 5 s, 
+depending on version
+Time for device-internal signal pro-
+cessing
+< 1 s
+Pressure correction range
+Pressure sensor
+• Internal
+700 … 1 200 hPa absolute
+• External
+700 … 1 500 hPa absolute
+Measuring response (relating to sample gas pressure 1 013 hPa 
+absolute, 0.5 l/min sample gas flow and 25 °C ambient temperature)
+Output signal fluctuation
+< 1 % of the smallest possible 
+measuring range according to 
+rating plate
+Zero point drift
+<  1 % of the current measuring 
+range/week
+Measured-value drift
+<  1 % of the current measuring 
+range/week
+Repeatability
+ 1 % of the current measuring 
+range 
+Detection limit
+1 % of the smallest possible mea-
+suring range
+Linearity error
+< 0.5 % of the full-scale value
+© Siemens AG 2016
+
+1/94
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+Influencing variables (relating to sample gas pressure 1 013 hPa 
+absolute, 0.5 l/min sample gas flow and 25 °C ambient temperature)
+Ambient temperature
+< 1 % of current measuring 
+range/10 K (with constant 
+receiver cell temperature)
+Sample gas pressure
+When pressure compensation 
+has been switched on: < 0.15 % 
+of setpoint/1 % atmospheric pres-
+sure change
+Sample gas flow
+Negligible
+Power supply
+< 0.1 % of the current measuring 
+range with rated voltage  10 %
+Environmental conditions
+Application-specific measuring 
+influences possible if ambient air 
+contains measured component or 
+cross interference-sensitive 
+gases
+Electrical inputs and outputs
+Analog output
+0/2/4 … 20 mA, isolated; load 
+750 
+Relay outputs
+6, with changeover contacts, 
+freely parameterizable, e.g. for 
+measuring range identification; 
+load: 24 V AC/DC/1 A, isolated, 
+non-sparking
+Analog inputs
+2, dimensioned for 0/2/4 ... 20 mA 
+for external pressure sensor and 
+accompanying gas influence cor-
+rection (correction of cross-inter-
+ference)
+Binary inputs
+6, designed for 24 V, isolated, 
+freely parameterizable, e.g. for 
+measuring range switchover
+Serial interface
+RS 485
+Options
+AUTOCAL function with 8 addi-
+tional binary inputs and relay out-
+puts, also with PROFIBUS PA or 
+PROFIBUS DP
+Climatic conditions
+Permissible ambient temperature
+-30 … +70 °C during storage and 
+transportation; 5 … 45 °C during 
+operation
+Permissible humidity
+< 90 % RH (RH: relative humidity) 
+within average annual value, 
+during storage and transporta-
+tion (dew point must not be 
+undershot)
+© Siemens AG 2016
+
+1/95
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+For installation in the field, single-channel, 1 component
+7MB2111- 77777 - 77A 7
+Cannot be combined
+Click on the Article No. for the online configuration in the PIA Life Cycle 
+Portal.
+Gas connections
+Ferrule screw connection for pipe, outer diameter 6 mm
+0
+0
+A29
+Ferrule screw connection for pipe, outer diameter ¼"
+1
+1
+A28
+Measured component
+Possible with measuring 
+range identification
+CO
+11 ... 30
+A
+CO highly selective (with optical filter)
+12 ... 30
+B
+CO (TÜV; see table "TÜV single component", page 1/100)
+X
+CO2
+10 ... 30
+C
+CH4
+13 ... 30
+D
+C2H2
+15 ... 30
+E
+C2H4
+15 ... 30
+F
+C2H6
+14 ... 30
+G
+C3H6
+14 ... 30
+H
+C3H8
+13 ... 30
+J
+C4H6
+15 ... 30
+K
+C4H10
+14 ... 30
+L
+C6H14
+14 ... 30
+M
+SO2 (TÜV; see table "TÜV single component", 
+page 1/100)
+13 ... 30
+N
+NO (TÜV; see table "TÜV single component", 
+page 1/100)
+14 ... 20, 22
+P
+NH3 (dry)
+14 ... 30
+Q
+Q
+H2O
+17 ... 20; 22
+(17 to 24, 26; heated)
+R
+R
+N2O
+13 ... 30
+S
+Smallest measuring 
+range
+Largest measuring 
+range
+Measuring range 
+identification
+0 ... 5 vpm
+0 ... 100 vpm
+10
+A
+0 ... 10 vpm
+0 ... 200 vpm
+11
+B
+0 ... 20 vpm
+0 ... 400 vpm
+12
+C
+0 ... 50 vpm
+0 ... 1 000 vpm
+13
+D
+0 ... 100 vpm
+0 ... 1 000 vpm
+14
+E
+0 ... 300 vpm
+0 ... 3 000 vpm
+15
+F
+0 ... 500 vpm
+0 ... 5 000 vpm
+16
+G
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+17
+H
+0 ... 3 000 vpm
+0 ... 10 000 vpm
+19
+J
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+19
+K
+0 ... 5 000 vpm
+0 ... 15 000 vpm
+20
+L
+0 ... 5 000 vpm
+0 ... 50 000 vpm
+21
+M
+0 ... 1 %
+0 ... 3 %
+22
+N
+0 ... 1 %
+0 ... 10 %
+23
+P
+0 ... 3 %
+0 ... 10 %
+24
+Q
+0 ... 3 %
+0 ... 30 %
+25
+R
+0 ... 5 %
+0 ... 15 %
+26
+S
+0 ... 5 %
+0 ... 50 %
+27
+T
+0 ... 10 %
+0 ... 30 %
+28
+U
+0 ... 10 %
+0 ... 100 %
+29
+V
+0 ... 30 %
+0 ... 100 %
+30
+W
+© Siemens AG 2016
+
+1/96
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+1) Only for cell length 20 to 180 mm
+2) Only in connection with an approved purging unit
+Internal gas paths
+Sample chamber 
+(lining)
+Reference chamber 
+(flow-type)
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+0
+0
+0
+0
+A28, A29
+Aluminum
+Flow-type
+1
+1
+1
+Pipe made of titanium
+Tantalum1)
+Non-flow-type
+2
+2
+A28, A29, Y02
+Tantalum1)
+Flow-type
+3
+3
+Y02
+Stainless steel pipe
+(mat. no. 1.4571) 
+Aluminum
+Non-flow-type
+6
+6
+A28, A29
+Tantalum1)
+Non-flow-type
+8
+8
+A28, A29
+Add-on electronics
+Without
+0
+AUTOCAL function
+• With 8 additional digital inputs/outputs
+1
+• With 8 digital inputs/outputs and PROFIBUS PA interface
+6
+6
+E12
+• With 8 digital inputs/outputs and PROFIBUS DP interface
+7
+7
+E12
+• With 8 digital inputs/outputs and PROFIBUS PA Ex i
+8
+8
+Power supply
+Standard unit and acc. to ATEX II 3G version (Zone 2)
+• 100 ... 120 V AC, 48 ... 63 Hz
+0
+0
+• 200 ... 240 V AC, 48 ... 63 Hz
+1
+1
+ATEX II 2G versions (Zone 1), incl. certificate
+• 100 ... 120 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: leakage compensation)
+2
+2
+2
+• 200 ... 240 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: leakage compensation)
+3
+3
+3
+• 100 ... 120 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: continuous purging)
+6
+6
+6
+• 200 ... 240 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: continuous purging)
+7
+7
+7
+Heating of internal gas paths and analyzer unit
+Without
+A
+With (max. 65 °C)
+B
+Language (supplied documentation, software)
+German
+0
+English
+1
+French
+2
+Spanish
+3
+Italian
+4
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+For installation in the field, single-channel, 1 component
+7MB2111- 77777 - 77A 7
+Cannot be combined
+© Siemens AG 2016
+
+1/97
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+■Selection and ordering data
+ 
+1) Only in connection with an approved purging unit
+Additional versions
+Order code
+Add "-Z" to Article No. and specify Order codes.
+Flow-type reference cell with reduced flow, 6 mm
+A28
+Flow-type reference cell with reduced flow, ¼"
+A29
+TAG labels (specific lettering based on customer information)
+B03
+Kalrez gaskets in sample gas path
+B04
+SIL conformity declaration (SIL 2) Functional Safety according to IEC 61508 and IEC 61511
+C20
+Ex versions
+Possible combinations: see: Table "Ex configurations – principle selection criteria", page 5/17
+ATEX II 3G certificate; restricted breathing enclosure, non-flammable gases
+E11
+ATEX II 3G certificate; flammable gases
+E12
+FM/CSA certificate – Class I Div 2
+E20
+ATEX II 3D certificate; potentially explosive dust atmospheres
+• In non-hazardous gas zone
+E40
+• In Ex zone acc. to ATEX II 3G, non-flammable gases
+E41
+• In Ex zone acc. to ATEX II 3G, flammable gases1)
+E42
+BARTEC Ex p control unit "Leakage compensation"
+E71
+BARTEC Ex p control unit "Continuous purging"
+E72
+Clean for O2 service (specially cleaned gas path)
+Y02
+Measuring range indication in plain text, if different from the standard setting
+Y11
+Special setting (only in conjunction with an application no., e.g. extended measuring range)
+Y12
+Extended special setting 
+(only in conjunction with an application no., e.g. determination of cross-interferences)
+Y13
+TÜV version acc. to 13th and 17th BlmSchV
+Y17
+Additional units for Ex versions
+Article No.
+Category ATEX II 2G (zone 1)
+BARTEC Ex p control unit, 230 V, "leakage compensation"
+7MB8000-2BA
+BARTEC Ex p control unit, 115 V, "leakage compensation"
+7MB8000-2BB
+BARTEC Ex p control unit, 230 V, "continuous purging"
+7MB8000-2CA
+BARTEC Ex p control unit, 115 V, "continuous purging"
+7MB8000-2CB
+Ex i isolating transformer
+7MB8000-3AB
+Ex isolating relay, 230 V
+7MB8000-4AA
+Ex isolating relay, 110 V
+7MB8000-4AB
+Differential pressure switch for corrosive and non-corrosive gases
+7MB8000-5AA
+Stainless steel flame arrestor
+7MB8000-6BA
+Hastelloy flame arrestor
+7MB8000-6BB
+Category ATEX II 3G (Zone 2)
+BARTEC Ex p control unit, 230 V, "continuous purging"
+7MB8000-2CA
+BARTEC Ex p control unit, 115 V, "continuous purging"
+7MB8000-2CB
+FM/CSA (Class I Div. 2)
+Ex purging unit MiniPurge FM
+7MB8000-1AA
+Accessories
+Article No.
+RS 485/Ethernet converter
+A5E00852383
+RS 485/RS 232 converter
+C79451-Z1589-U1
+RS 485/USB converter
+A5E00852382
+AUTOCAL function with 8 digital inputs/outputs
+A5E00064223
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA
+A5E00057315
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS DP
+A5E00057318
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA Ex i (firmware 4.1.10 required)
+A5E00057317
+Set of Torx screwdrivers
+A5E34821625
+© Siemens AG 2016
+
+1/98
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+For installation in the field, single-channel, 2 components
+7MB2112- 77777 - 77 A 7
+Cannot be combined
+Click on the Article No. for the online configuration in the PIA Life Cycle 
+Portal.
+Gas connections
+Ferrule screw connection for pipe, outer diameter 6 mm
+0
+0
+A29
+Ferrule screw connection for pipe, outer diameter ¼"
+1
+1
+A28
+Measured component
+Smallest measuring 
+range
+Largest measuring range
+CO
+0 ... 100 vpm
+0 ... 1 000 vpm
+A A
+NO
+0 ... 100 vpm
+0 ... 1 000 vpm
+CO
+0 ... 300 vpm
+0 ... 3 000 vpm
+A B
+NO
+0 ... 300 vpm
+0 ... 3 000 vpm
+CO
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+A C
+NO
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+For CO/NO (TÜV; see table "TÜV, 2 components in series", page 1/100)
+CO2
+0 ... 100 vpm
+0 ... 1 000 vpm
+B A
+CO
+0 ... 100 vpm
+0 ... 1 000 vpm
+CO2
+0 ... 300 vpm
+0 ... 3 000 vpm
+B B
+CO
+0 ... 300 vpm
+0 ... 3 000 vpm
+CO2
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+B C
+CO
+0 ... 1 000 vpm
+0 ... 10 000 vpm
+CO2
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+B D
+CO
+0 ... 3 000 vpm
+0 ... 30 000 vpm
+CO2
+0 ... 1 %
+0 ... 10 %
+B E
+CO
+0 ... 1 %
+0 ... 10 %
+CO2
+0 ... 3 %
+0 ... 30 %
+B F
+CO
+0 ... 3 %
+0 ... 30 %
+CO2
+0 ... 10 %
+0 ... 100 %
+B G
+CO
+0 ... 10 %
+0 ... 100 %
+CO2
+0 ... 10 %
+0 ... 100 %
+C G
+CH4
+0 ... 10 %
+0 ... 100 %
+CO2
+0 ... 100 vpm
+0 ... 1 000 vpm
+D A
+NO
+0 ... 100 vpm
+0 ... 1 000 vpm
+CO2
+0 ... 300 vpm
+0 ... 3 000 vpm
+D B
+NO
+0 ... 300 vpm
+0 ... 3 000 vpm
+Internal gas paths
+Sample chamber (lining) Reference chamber 
+(flow-type)
+Hose made of FKM
+(Viton)
+Aluminum
+Non-flow-type
+0
+0
+0
+A28, A29
+Aluminum
+Flow-type
+1
+1
+Pipe made of titanium
+Tantalum1)
+Non-flow-type
+2
+2
+A28, A29, Y02
+Tantalum1)
+Flow-type
+3
+3
+Y02
+Stainless steel pipe
+(mat. no. 1.4571)
+Aluminum
+Non-flow-type
+6
+6
+A28, A29
+Tantalum1)
+Non-flow-type
+8
+8
+A28, A29
+Add-on electronics
+Without
+0
+AUTOCAL function
+• With 8 additional digital inputs/outputs
+1
+• With 8 digital inputs/outputs and PROFIBUS PA interface
+6
+6
+• With 8 digital inputs/outputs and PROFIBUS DP interface
+7
+7
+• With 8 digital inputs/outputs and PROFIBUS PA Ex i
+8
+8
+Power supply
+Standard unit and acc. to ATEX II 3G version (Zone 2)
+• 100 ... 120 V AC, 48 ... 63 Hz
+0
+0
+• 200 ... 240 V AC, 48 ... 63 Hz
+1
+1
+ATEX II 2G versions (Zone 1), incl. certificate
+• 100 ... 120 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: leakage compensation)
+2
+2
+2
+• 200 ... 240 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: leakage compensation)
+3
+3
+3
+• 100 ... 120 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: continuous purging)
+6
+6
+6
+• 200 ... 240 V AC, 48 ... 63 Hz, according to ATEX II 2G2)
+(operating mode: continuous purging)
+7
+7
+7
+Heating of internal gas paths and analyzer unit
+none
+A
+With (max. 65 °C)
+B
+© Siemens AG 2016
+
+1/99
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+1) Only for cell length 20 to 180 mm.
+2) See also "Additional units for Ex versions".
+■Selection and ordering data
+Article No.
+ULTRAMAT 6 gas analyzer
+For installation in the field, single-channel, 2 components
+7MB2112- 77777 - 77 A 7
+Cannot be combined
+Language (supplied documentation, software)
+German
+0
+English
+1
+French
+2
+Spanish
+3
+Italian
+4
+Additional versions
+Order code
+Add "-Z" to Article No. and specify Order codes.
+Flow-type reference cell with reduced flow, 6 mm
+A28
+Flow-type reference cell with reduced flow, ¼"
+A29
+TAG labels (specific lettering based on customer information)
+B03
+Kalrez gaskets in sample gas path
+B04
+SIL conformity declaration (SIL 2) Functional Safety according to IEC 61508 and IEC 61511
+C20
+Ex versions
+Possible combinations: see: Table "Ex configurations – principle selection criteria", page 5/17
+ATEX II 3G certificate; restricted breathing enclosure, non-flammable gases
+E11
+ATEX II 3G certificate; flammable gases
+E12
+CSA certificate – Class I Div 2
+E20
+ATEX II 3D certificate; potentially explosive dust atmospheres
+• In non-hazardous gas zone
+E40
+• In Ex zone acc. to ATEX II 3G, non-flammable gases
+E41
+• In Ex zone acc. to ATEX II 3G, flammable gases
+E42
+BARTEC Ex p control unit "Leakage compensation"
+E71
+BARTEC Ex p control unit "Continuous purging"
+E72
+Clean for O2 service (specially cleaned gas path)
+Y02
+Measuring range indication in plain text, if different from the standard setting
+Y11
+Special setting (only in conjunction with an application no., e.g. extended measuring range)
+Y12
+Extended special setting 
+(only in conjunction with an application no., e.g. determination of cross-interferences)
+Y13
+TÜV version acc. to 13th and 17th BlmSchV
+Y17
+Additional units for Ex versions
+Article No.
+Category ATEX II 2G (zone 1)
+BARTEC Ex p control unit, 230 V, "leakage compensation"
+7MB8000-2BA
+BARTEC Ex p control unit, 115 V, "leakage compensation"
+7MB8000-2BB
+BARTEC Ex p control unit, 230 V, "continuous purging"
+7MB8000-2CA
+BARTEC Ex p control unit, 115 V, "continuous purging"
+7MB8000-2CB
+Ex i isolating transformer
+7MB8000-3AB
+Ex isolating relay, 230 V
+7MB8000-4AA
+Ex isolating relay, 110 V
+7MB8000-4AB
+Differential pressure switch for corrosive and non-corrosive gases
+7MB8000-5AA
+Stainless steel flame arrestor
+7MB8000-6BA
+Hastelloy flame arrestor
+7MB8000-6BB
+Category ATEX II 3G (Zone 2)
+BARTEC Ex p control unit, 230 V, "continuous purging"
+7MB8000-2CA
+BARTEC Ex p control unit, 115 V, "continuous purging"
+7MB8000-2CB
+FM/CSA (Class I Div. 2)
+Ex purging unit MiniPurge FM
+7MB8000-1AA
+Accessories
+Article No.
+RS 485/Ethernet converter
+A5E00852383
+RS 485/RS 232 converter
+C79451-Z1589-U1
+RS 485/USB converter
+A5E00852382
+AUTOCAL function with 8 digital inputs/outputs
+A5E00064223
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA
+A5E00057315
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS DP
+A5E00057318
+AUTOCAL function with 8 digital inputs/outputs and PROFIBUS PA Ex i (firmware 4.1.10 required)
+A5E00057317
+Set of Torx screwdrivers
+A5E34821625
+© Siemens AG 2016
+
+1/100
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+TÜV, single component 
+(only with additional suffix Z (Y17, Y18))
+ 
+Example for ordering 
+ULTRAMAT 6, TÜV (1-component unit)
+Component: CO
+Measuring range: 0 to 50 / 1 000 mg/m3
+with hoses, non-flow-type reference compartment
+without automatic adjustment (AUTOCAL)
+230 V AC; without heating, German
+7MB2111-0XD00-1AA0-Z +Y17
+TÜV, 2 components in series
+ 
+Example for ordering 
+ULTRAMAT 6, TÜV (2 components in series)
+Components: CO/NO
+Measuring range CO: 0 to 75 / 1 000 mg/m3, NO: 0 to 200 / 2 000 mg/m3
+with hoses, non-flow-type reference compartment
+without automatic adjustment (AUTOCAL)
+230 V AC; without heating, German
+7MB2112-0AA00-1AA0-Z +Y17
+Note: for 3 components take both tables into consideration.
+Ordering information measured component N2O
+Certification in accordance with AM0028 and AM0034 (Kyoto Protocol) for measuring N2O, 
+measuring range 0 to 300 vpm / 3 000 vpm.
+Version: Standard device
+Component
+CO (TÜV)
+SO2 (TÜV)
+NO (TÜV)
+Measuring range 
+identification
+Smallest 
+measuring range 
+from 0 to ...
+Largest 
+measuring range 
+from 0 to ...
+Smallest 
+measuring range 
+from 0 to ...
+Largest 
+measuring range 
+from 0 to ...
+Smallest 
+measuring range 
+from 0 to ...
+Largest 
+measuring range 
+from 0 to ...
+C
+75 mg/m3
+1 500 mg/m3
+D
+50 mg/m3
+1 000 mg/m3
+300 mg/m3
+3 000 mg/m3
+E
+500 mg/m3
+5 000 mg/m3
+100 mg/m3
+2 000 mg/m3
+F
+300 mg/m3
+3 000 mg/m3
+1 000 mg/m3
+10 000 mg/m3
+300 mg/m3
+3 000 mg/m3
+G
+500 mg/m3
+5 000 mg/m3
+500 mg/m3
+5 000 mg/m3
+H
+1 000 mg/m3
+10 000 mg/m3
+3 000 mg/m3
+30 000 mg/m3
+1 000 mg/m3
+10 000 mg/m3
+K
+3 000 mg/m3
+30 000 mg/m3
+10 g/m3
+100 g/m3
+3 000 mg/m3
+30 000 mg/m3
+P
+10 g/m3
+100 g/m3
+30 g/m3
+300 g/m3
+10 g/m3
+100 g/m3
+R
+30 g/m3
+300 g/m3
+100 g/m3
+1 000 g/m3
+30 g/m3
+300 g/m3
+V
+100 g/m3
+1 160 g/m3
+300 g/m3
+2 630 g/m3
+100 g/m3
+1 250 g/m3
+Component
+CO (TÜV)
+NO (TÜV)
+Measuring range 
+identification
+Smallest measuring range 
+from 0 to ...
+Largest measuring range 
+from 0 to ...
+Smallest measuring range 
+from 0 to ...
+Largest measuring range 
+from 0 to ...
+AA
+75 mg/m3
+1 000 mg/m3
+200 mg/m3
+2 000 mg/m3
+AB
+300 mg/m3
+3 000 mg/m3
+300 mg/m3
+3 000 mg/m3
+AC
+1 000 mg/m3
+10 000 mg/m3
+1 000 mg/m3
+10 000 mg/m3
+© Siemens AG 2016
+
+1/101
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+■Dimensional drawings
+ 
+ULTRAMAT 6, field unit, dimensions in mm
+s
+ULTRAMAT 6
+14
+0
+20
+42
+77
+112
+148
+184
+250
+259
+394
+418
+271
+253
+237
+222
+201
+127
+65
+58
+438
+328
+311
+20
+440
+480
+14
+26.5
+© Siemens AG 2016
+
+1/102
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+■Schematics
+Pin assignment (electrical and gas connections)
+ 
+ULTRAMAT 6, field device, pin and terminal assignment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+*1'
+9
+0
+0
+0
+0
+0
+0
+Ω
+1&
+5'7'3
+5'7'1
+1&
+*1'
+1&
+*1'
+*1'
+1&
+*1'
+*1'
+*1'
+7HUPLQDOEORFN$
+5B/HYHO3
+5B/HYHO1
+,WLVSRVVLEOHWRFRQQHFWEXVWHUPLQDWLQJ
+UHVLVWRUVWRSLQVDQG
+$QDORJRXWSXW1
+&RPSRQHQW
+&RPSRQHQW
+LIDYDLODEOH
+$QDORJRXWSXW3
+$QDORJRXWSXW
+$QDORJRXWSXW
+$QDORJLQSXW3
+$QDORJLQSXW1
+$QDORJLQSXW3
+$QDORJLQSXW1
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXWWR1
+%LQDU\LQSXWWR1
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+5HOD\
+5HOD\
+5HOD\
+5HOD\
+5HOD\
+&RUUHFWLRQRI
+FURVVLQWHUIHUHQFH
+3UHVVXUHFRUUHFWLRQ
+$QDORJRXWSXWVLVRODWHG
+5HOD\
+,VRODWHGYLDRSWRFRXSOHU
+ 99
+ 99
+&RQWDFWORDGPD[
+9$$&'&UHOD\FRQWDFWV
+VKRZQUHOD\FRLOKDV]HURFXUUHQW
+$QDORJLQSXWV
+QRQLVRODWHG
+P$RU9
+LQWHUQDOUHVLVWDQFHืΩ
+,VRODWHGYLDRSWRFRXSOHU
+ 99
+ 99
+&RQQHFWRU68%')56
+1RWH
+$OOFDEOHVWRWKHFRQQHFWRUVRUWHUPLQDOEORFNVPXVWEH
+VKLHOGHGDQGUHVWDJDLQVWWKHHQFORVXUHSRWHQWLDO
+© Siemens AG 2016
+
+1/103
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+ 
+ULTRAMAT 6, field device, pin and terminal assignment of the AUTOCAL board and PROFIBUS connectors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+0
+*1'
+1&
+*1'
+1&
+1&
+1&
+939
+'*1'
+5['7['1$
+5['7['3%
+3$3
+3$1
+&1751
+5HOD\
+5HOD\
+5HOD\
+5HOD\
+5HOD\
+7HUPLQDOEORFN%RSWLRQ
+5HOD\
+5HOD\
+5HOD\
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXW3
+%LQDU\LQSXWWR1
+&RQQHFWRU68%');
+352),%86'3
+RSWLRQDO
+
+&1753GLUHFWLRQFRQWURO
+&RQQHFWRU68%'0;
+352),%863$
+IRUVKRZQ
+UHOD\FRQWDFWSRVLWLRQ
+WKHUHOD\KDV]HURFXUUHQW
+&RQWDFWORDG
+PD[9$$&'&
+1RWH
+$OOFDEOHVWRWKHFRQQHFWRUVRUWHUPLQDOEORFNVPXVW
+EHVKLHOGHGDQGUHVWDJDLQVWWKHHQFORVXUHSRWHQWLDO
+© Siemens AG 2016
+
+1/104
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Field device
+1
+ 
+ULTRAMAT 6, field device, gas connections and electrical connections
+DDocumentationocumentation
+■Selection and ordering data
+ 
+8
+1
+2
+6
+7
+a
+b
+c
+d
+e
+5
+3
+4
+9
+1
+2
+8
+5
+3
+-
+4
+a - c
+d
+e
+9
+Interface connection: (Ø 7 ... 12 mm)
+cable gland M20x1.5
+Sample gas inlet
+Sample gas outlet
+Reference gas inlet (option)
+Reference gas outlet (option)
+Purging gas inlets/outlets, stubs Ø 10 mm or 3/8"
+Clamping
+gland for pipe
+Ø 6 mm or ¼"
+Signal cable (Ø 10 ... 14 mm)
+(analog + digital): cable gland M20x1.5
+Gas connections
+Electrical connections
+Power supply: (Ø 7 ... 12 mm)
+cable gland M20x1.5
+Connection atmospheric pressure sensor, stubs Ø ¼"
+Documentation
+Operating instructions
+Article No.
+ULTRAMAT 6 / OXYMAT 6
+Gas analyzer for IR-absorbing gases 
+and oxygen
+• German
+C79000-G5200-C143
+• English
+C79000-G5276-C143
+• French
+C79000-G5277-C143
+• Spanish
+C79000-G5278-C143
+• Italian
+C79000-G5272-C143
+© Siemens AG 2016
+
+1/105
+Siemens AP 01 · 2016
+Continuous Gas Analyzers, extractive
+ULTRAMAT 6
+Suggestions for spare parts
+1
+■Selection and ordering data
+ 
+If the ULTRAMAT 6 is supplied with a specially cleaned gas path for high oxygen content ("Cleaned for O2 service"), please ensure 
+that you specify this when ordering spare parts. This is the only way to guarantee that the gas path will continue to comply with the 
+special requirements for this version.
+Description 
+7MB-2121 
+7MB-2123 
+7MB-2124 
+7MB-2111 
+7MB-2112 
+7MB-2111/2 Ex
+2 years 
+(quantity) 
+5 years 
+(quantity) 
+Article No. 
+Analyzer unit
+O-ring for cover (window) 
+x
+x
+x
+x
+x
+x
+2
+4
+C79121-Z100-A24 
+Cover (cell length 20 ... 180 mm) 
+x
+x
+x
+x
+x
+x
+2
+2
+C79451-A3462-B151 
+Cover (cell length 0.2 ... 6 mm) 
+x
+x
+x
+x
+x
+x
+2
+2 
+C79451-A3462-B152 
+O-rings, set
+x
+x
+x
+x
+x
+x
+1
+C79451-A3462-D501
+Sample gas path 
+O-ring (hose clip) 
+x
+x
+x
+2
+4
+C71121-Z100-A159
+Pressure switch 
+x
+x
+x
+1
+2
+C79302-Z1210-A2
+Flow indicator 
+x
+x
+x
+1
+2
+C79402-Z560-T1
+Hose clip 
+x
+x
+x
+x
+x
+x
+1
+C79451-A3478-C9
+Heating cartridge (heated unit) 
+x
+x
+x
+1
+W75083-A1004-F120
+Electronics 
+Temperature fuse (heated unit) 
+x
+x
+1
+W75054-T1001-A150
+Fuse (device fuse) 
+x
+1
+2
+A5E00061505
+Temperature controller - 
+electronics, 230 V AC 
+x
+x
+x
+1
+A5E00118527
+Temperature controller - 
+electronics, 115 V AC 
+x
+x
+x
+1
+A5E00118530
+Fan, 24 V DC (heated unit) 
+x
+x
+x
+1
+A5E00302916
+Front plate with keyboard
+x
+x
+x
+1
+1
+C79165-A3042-B504
+Temperature sensor 
+x
+x
+x
+1
+C79165-A3044-B176
+Adapter plate, LCD/keyboard 
+x
+x 
+x
+x
+x
+1
+1
+C79451-A3474-B605
+Motherboard, with firmware: see 
+spare parts list 
+x
+x
+x
+x
+x
+x
+1
+LC display 
+x
+x
+x
+x
+x
+1
+1
+W75025-B5001-B1
+Connector filter 
+x
+x
+x
+x
+x
+1 
+W75041-E5602-K2
+Fusible element, T 0.63 A/250 V 
+x
+x
+x
+x
+x
+2
+3
+W79054-L1010-T630
+Fusible element, T 1 A/250 V 
+x
+x
+x
+x
+x
+x
+2
+3
+W79054-L1011-T100
+Fusible element, T 1.6 A/250 V 
+x
+x
+2
+3
+W79054-L1011-T160
+Fusible element, T 2.5 A/250 V
+x
+x
+x
+2
+3
+W79054-L1011-T250
+© Siemens AG 2016

@@ -1,0 +1,138 @@
+Quotation Number: Q2508H041
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CEMS
+Tag No: SO2:412-AT-2304A/NO:412-AT-2304B/ CO:412-AT-2304C
+Component to be measured: NO/SO2/CO
+Service: Flue Gas Heater Stack
+Hazardous Area Classification: Zone 1, Gr-IIA/llB/llC, T3
+Mounting Location: Inside Analyzer Shelter
+Analyzers are mounted inside X-purged cabinet inside shelter.
+Make: ENVEA
+Model 1: NO measurement, Model: AC32E
+Model 2: SO2 measurement, Model: AF22E
+Model 3: CO measurement, Model: CO12E
+Process Condition at Stack:
+•
+Temperature (Op)(Nor/Max): 150-330 DegC / 355 DegC
+•
+Pressure (Op)(Nor/Max): -6.6 mmwcg / 355 mmwcg
+Measuring Ranges:
+•
+NOx: 0-5 mg/m3 (After dilution range)
+•
+SO2: 0-1 ppm (After dilution range)
+•
+CO: 0-2 mg/m3 (After dilution range)
+Analyzer Outputs for Dilution analyzer
+•
+With 4-20 mA Analog Output
+•
+RS-485 Modbus serial output
+•
+Potential free contacts for Alarms
+1 Set
+QUOTED
+QUOTED
+1.1
+Probe for Dilution system
+•
+Dilution type Sample probe
+•
+Process Connection: 4” 150# RF Connection
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.2
+Sample Transportation tube for Dilution system
+•
+PTFE Umbilical Cord
+100
+meters
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.3
+Secondary SHS System for Dilution system
+•
+With Auto/ Manual Calibration
+•
+With Common Dilution controller
+•
+With Common Heat less Air dryer & Accessories
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.4
+Analyzer Mounting for Dilution
+•
+Dilution Analyzer shall be mounted inside common X-purged
+cabinet MOC: CRCA, IP54
+•
+Complete Cabinet shall be X-purged using certified unit
+•
+The above purged enclosures shall be further placed inside
+analyser shelter.
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.5
+Calibration Cylinder with dual stage Regulator for one year
+operation after SAT.
+Calibration Cylinders for Dilution analysers
+•
+Individual 10 Ltrs Span Gas cylinder for CO/NO/SO2
+analyzer.
+•
+Shall be supplied in 2 sets.
+•
+Gas cylinders shall be mounted on the cylinder rack outside
+Analyzer shelter.
+Notes:
+•
+Field Power and signal cable shall be in customer scope of
+supply.
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.6
+SPM FOR STACK
+Make: Durag/ENVEA/Sick
+Tag: 412-AE/AT-2303
+Principle: Backward Scattering
+Mounting Location: In-situ Type
+Area Classification: Suitable to Zone 1, IIC, T4
+Rating: IP65
+Measuring Ranges:
+•
+SPM: 0-500 mg/m3
+Accessories consists of:
+•
+With Display Unit, Make: Adage
+Signal cable from Stack till analyser shelter – 100 meters
+With Alignment kit & Iso-Kinetic sampling
+Analyser Outputs:
+•
+4-20 mA
+•
+Digital Outputs
+•
+RS-485
+Notes:
+•

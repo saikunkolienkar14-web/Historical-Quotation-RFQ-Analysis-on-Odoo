@@ -1,0 +1,86 @@
+Quotation Number: SQ2601B003
+BOQ Status: FOUND
+
+6
+Ignition electrode
+Quoted price is against material
+code: 2200133150
+28612057
+1
+39,334.00
+39,334.00
+7
+Burner Type M for CWD2000,
+CWD2005
+28612091
+1
+1,29,027.00
+1,29,027.00
+8
+Regulator for CWD2005 Inlet Pressure:
+max. 50 mbar Outlet Pressure: 4 mbar
+28612097
+1
+1,90,272.00
+1,90,272.00
+9
+RGLTR,100 MBR;10-30 MBR;NPT FEM
+THRDED- Pressure Regulator Sample
+Gas
+28728003
+1
+31,163.00
+31,163.00
+10
+Sample Gas Pump Bellow MP-F 05
+Material: PTFE capacity: 320l/h with
+counter pressure of -/+ 50 mbar-230V
+50Hz,
+28519074
+1
+1,43,542.00
+1,43,542.00
+11
+Pressure regulator type 912N/112,Pin
+max. : 17,2 bar,Range: 30 - 60 mbar
+(spring blue)
+28728025
+1
+88,978.00
+88,978.00
+12
+Diaphragm for precision gas regulator
+28612054
+1
+33,378.00
+33,378.00
+13
+Neoprene Tube For Peristaltic Pump
+ASF Thomas
+28708004
+1
+7,500.00
+7,500.00
+14
+Fan 24 VDC for CWD2005 175 m3/h-
+110-240 VAC / 24 VDC
+Quoted price is against material
+code: 2200083949
+28612095
+1
+5,04,000.00
+5,04,000.00
+15
+RELAY;PLUG IN RELAYCONTACT
+MAKING, P/N 98402199981, UNION
+INSTRUMENT
+28932014
+1
+4,764.00
+4,764.00
+16
+CWD2005-Central unit
+28612009
+1
+8,98,800.00
+8,98,800.00

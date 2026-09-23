@@ -1,0 +1,174 @@
+Quotation Number: Tender
+BOQ Status: FOUND
+
+Mob: +91 9079781031
+(Adage-Regional)
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+•
+RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal cables for
+the same shall be in customer scope.
+•
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+•
+Internet for the data logger shall be made available at site by customer preferably broadband connection. Internet
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS)
+•
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.
+SR.
+NO.
+ITEM DESCRIPTION
+PART NOS
+UNIT
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1.01
+Data Logger (Assembled in the Junction Box) with
+integration facility (with installation,
+commissioning & integration to CPCB & RSPCB
+server)
+-
+Nos
+2
+3,41,000.00
+6,82,000.00
+1.02
+Viton Gasket-Outer Dia:50 mm, Inner Dia:19
+mm,Thickness: 2 mm (Black Color)
+18920003
+Nos
+8
+660.00
+5,280.00
+1.03
+Acid Filter Assembly
+48919001
+Nos
+2
+46,858.90
+93,717.80
+1.04
+Fiber Glass wool membrane filter for condensate
+monitor and secondary filter (pack of 25)
+18106001
+Packet
+2
+4,745.40
+9,490.80
+1.05
+Sample Gas Pump, 8.5 LPM, 100/240 VAC
+28708163
+Nos
+2
+60,317.40
+1,20,634.80
+1.06
+O Ring for probe 9502-PTFE-For New KAS Probe
+head
+18918005
+Nos
+4
+3,208.70
+12,834.80
+1.07
+Heat Traced Tube 230 VAC 1/4" SS" Constant
+Voltage
+18902002
+Mtr
+40
+6,325.00
+2,53,000.00
+1.08
+Sample Gas Cooler Dual Path 230 VAC
+18519001
+Nos
+1
+64,515.00
+64,515.00
+1.09
+Ceramic Filter, Dimension: 50-mm(OD) X 20-
+mm(ID) 190-mm (L) with Double ply
+28903020
+Nos
+4
+23,720.40
+94,881.60
+1.1
+Tube 6 MM OD X 4 MM ID X Thickness 1 MM
+(Transperent Color) MOC Sillicon
+18201001
+Mtr
+10
+388.30
+3,883.00
+1.11
+Tube 12.5 MM OD X 9.5 MM ID X Thickness 1.5
+MM (Transperent Color) MOC Sillicon
+18201002
+Mtr
+2
+792.00
+1,584.00
+1.12
+Tube 1/4" 6.4 MM OD X 4.8 MM ID X Thickness 1
+MM (White Color) MOC PTFE
+28209004
+Mtr
+30
+748.00
+22,440.00
+1.13
+Male Connector 1/4 " Male (G) Thread X 6 mm
+OD with insert, Material : PVDF
+28210001
+Nos
+10
+1,139.60
+11,396.00
+1.14
+Condensate Vessel -150 ml for Sample Gas
+Cooler
+18901001
+Nos
+4
+748.00
+2,992.00
+1.15
+Cartridge Filter
+28602054
+Nos
+2
+13,178.00
+26,356.00
+1.16
+Condensate Monitor
+18710001
+Nos
+1
+29,033.40
+29,033.40
+1.17
+Flow Meter 10-100 LPH 1/4" NPT (F) MOC Glass
+18709010
+Nos
+2
+13,646.60
+27,293.20
+1.18
+MMI 4.3" Display with I/O card Support
+18610052
+Nos
+1
+80,438.60
+80,438.60
+1.19
+Condensate Trap - Ultramat 23
+28602056
+Nos
+2
+19,791.20
+39,582.40

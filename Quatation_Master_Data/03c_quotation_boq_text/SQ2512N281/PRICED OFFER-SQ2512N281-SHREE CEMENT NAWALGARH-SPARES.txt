@@ -1,0 +1,307 @@
+Quotation Number: SQ2512N281
+BOQ Status: FOUND
+
+Date: 09-12-2025
+Ref: Q25260425-SQ2512N281
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+3.00
+119,513.00
+358,539.00
+1
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+3.00
+10,183.00
+30,549.00
+2
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+25.00
+3,293.00
+82,325.00
+3
+Packets
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+20.00
+3,293.00
+65,860.00
+4
+Packets
+28919002
+Glass Fiber Borosilicate Filter For
+Acid Filter Element
+5.00
+20,305.00
+101,525.00
+5
+Nos
+18816009
+Silencer For Pneumatic
+Cylinder(U1/2")
+5.00
+2,305.00
+11,525.00
+6
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+5.00
+10,183.00
+50,915.00
+7
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+2.00
+31,500.00
+63,000.00
+8
+Nos.
+78429004
+Solenoid Valve,3/2 Way 1/4" BSP (F)
+110 VAC MOC- PVDF
+10.00
+28,730.00
+287,300.00
+9
+Nos
+78429001
+Solenoid Valve,2/2 Way 1/4" BSP (F)
+110 VAC MOC- PVDF
+10.00
+41,025.00
+410,250.00
+10
+Date: 09-12-2025
+Ref: Q25260425-SQ2512N281
+Nos
+18920001
+Glass Wool Gasket for Ceramic Filter
+50 mm Dia
+50.00
+458.00
+22,900.00
+11
+Nos
+18918001
+O'Ring Size : 68mm ODX4mmThick
+(CONDENSATE MONITOR)
+50.00
+427.00
+21,350.00
+12
+18918005
+O Ring For Probe 9502 - PTFE- FOR
+NEW KAS PROBE HEAD
+5.00
+2,226.00
+11,130.00
+13
+Nos.
+28210001
+Male Connector 1/4 " Male (G)
+Thread X 6 mm OD with insert,
+Material : PVDF
+50.00
+791.00
+39,550.00
+14
+Nos
+18410001
+Union 6mm OD-SS316
+50.00
+403.00
+20,150.00
+15
+Nos
+18533013
+Contactor Coil Voltage 230 VAC 50
+Hz, 3 NO +1 NC
+20.00
+2,848.00
+56,960.00
+16
+Nos
+18733001
+Air operated 3way Ball Valve,
+1/2"BSP(F) T Port-230VAC,50-60Hz
+2.00
+73,110.00
+146,220.00
+17
+Nos
+18410006
+Union 1/4" OD X 6mm OD SS316
+20.00
+840.00
+16,800.00
+18
+Nos
+4.00
+12,805.00
+51,220.00
+19
+Nos
+28602006
+Pressure Switch - Sample Gas,
+Ultramat 23
+2.00
+60,683.00
+121,366.00
+20
+Nos
+28602024
+Flow meter - Ultramat 23
+4.00
+44,879.00
+179,516.00
+21
+Nos
+18709005
+Flow Meter 50-500 LPH 1/4" NPT (F)
+MOC Glass
+Date: 09-12-2025
+Ref: Q25260425-SQ2512N281
+28602056
+Condensate Trap - Ultramat 23
+5.00
+17,952.00
+89,760.00
+22
+Nos
+28602016
+Plate with Threaded Nuts & bolts-
+Dual Component -Ultramat 23
+2.00
+121,171.00
+242,342.00
+23
+Nos
+28602015
+Plate with threaded Nuts and bolts-
+Single Component-U23
+2.00
+78,244.00
+156,488.00
+24
+Nos
+18920003
+VITON GASKET - OUTER DIA: 50
+MM X INNER DIA: 19 MM X
+THICKNESS: 2MM (BLACK COLOR)
+10.00
+458.00
+4,580.00
+25
+Nos
+18814001
+Bushing Tube 160 OD Flange x 900
+L mm MOC MS
+1.00
+11,586.00
+11,586.00
+26
+Nos
+28216002
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (Red Color) MOC
+Viton
+20.00
+1,791.00
+35,820.00
+27
+Mtrs
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+2.00
+31,500.00
+63,000.00
+28
+Nos.
+18405001
+Equal Tee 1/2" OD - SS-316
+10.00
+964.00
+9,640.00
+29
+Nos
+50.00
+225,610.00
+11,280,500.00
+30
+Nos
+78309009
+Solenoid Valve- -Pulsating Brass 2/2
+Way 1/2" BSP (F) 110 VAC N.C.
+Pulsating, MOC Brass
+5.00
+12,513.00
+62,565.00
+31
+Nos
+78309004
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+110 VAC N.C. Purging, MOC Brass
+5.00
+10,750.00
+53,750.00
+32
+Nos
+18418084
+Tube Assembly for KAS Length 3500
+mm (Single Tube), MOC SS310
+Date: 09-12-2025
+Ref: Q25260425-SQ2512N281
+18538012
+Actuator Illuminated with NO Contact
+Amber Color
+20.00
+1,135.00
+22,700.00
+33
+Nos
+18714005
+Level Switch for Kiln Inlet Water Tank
+1.00
+33,879.00
+33,879.00
+34
+Nos.
+48519025
+Sample Gas Cooler with SS Dual Gas
+Path Heat Exchanger 230 VAC, 50 Hz
+with Dual Perilstatic Pump
+2.00
+179,269.00
+358,538.00
+35
+Nos
+4.00
+225,610.00
+902,440.00
+36
+Nos
+18418084
+Tube Assembly for KAS Length 3500
+mm (Single Tube), MOC SS310
+Date: 09-12-2025
+Ref: Q25260425-SQ2512N281

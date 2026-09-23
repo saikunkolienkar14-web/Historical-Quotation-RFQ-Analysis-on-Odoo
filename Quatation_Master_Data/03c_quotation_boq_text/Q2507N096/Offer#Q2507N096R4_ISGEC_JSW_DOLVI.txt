@@ -1,0 +1,188 @@
+Quotation Number: Q2507N096R4
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL
+PRICE (INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF SOX,NO & CO
+ANALYZER MAKE: SIEMENS AG, GERMANY
+ANALYZER MODEL NO.: ULTRAMAT 23
+TAG NO: 0401AT0603A, 0401AT0603B, 0401AT0603C
+With Gas Sampling Probe
+With Auto Probe Cleaning Facility
+With Blow Back Unit
+With Remote Calibration System
+With Sample Handling System
+With Touch Screen Graphic Color Display – 7“
+With Microprocessor Based Analyser
+With IP54 Panel
+With Calibration Gas Cylinders
+ULTRAMAT 23 – 1 No.
+For Sulphur Dioxide (SOX)
+For Nitric Oxide (NO)
+For Carbon Mono Oxide(CO)
+MAKE: SIEMENS AG, GERMANY
+2 SETS
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+TUBE SIZE: 1/4”
+@QUOTED PER METER
+3
+DUST MONITORING ANALYSER
+ANALYZER MAKE: FORBES MARSHALL
+ANALYZER MODEL NO.: DCEM2100A
+MEASUREMENT PRINCIPLE: OPACITY
+Measuring Range: 0 – 100% opacity, 0-999 mg/m3, 0-999mg/Nm3
+Response time ( T90) : 5 seconds
+Accuracy: + /– 0.2% opacity of measurement
+Resolution: + /– 0.1% opacity
+Output Signal : 4-20mA Signal / RS485
+Response Time (T90): 5 Seconds
+Drift: <1% opacity per month
+UTILITY REQUIREMENT: INSTRUMENT AIR FREE FROM OIL, DUST &
+MOISTURE AT 4/5 BAR TO BE PROVIDED BY CUSTOMER.
+2 SETS
+QUOTED
+QUOTED
+4
+STACK FLOW MONITOR FOR MEASUREMENT OF FLOW AT STACK
+Measuring Principle: Differential Pressure Pitot Tube
+With Temperature And Pressure Measurement
+Output: 4-20 Ma
+Suitable For Operating Temperature Upto 700 Deg
+Pressure: -10kpa~+10kpa
+Response Time : < 1 Sec
+Velocity: 0~15m/S 0~40m/S
+Accuracy: ±2%F.S.,
+Power Supply : 230 Vac, 50 Hz
+Make: Adage
+NOTE: UTILITY REQUIREMENT: INSTRUMENT AIR FREE FROM OIL, DUST &
+MOISTURE AT 4/5 BAR TO BE PROVIDED BY CUSTOMER.
+2 SETS
+QUOTED
+QUOTED
+5
+SUPPLY OF POWER CABLES
+Supply of Power cable from Analyzer Panel To Scavenging Panel
+Supply of Power cable from Analyzer Panel To Probe
+Supply of Power cable from Analyzer Panel To SPM, Flow, TT & PT
+Supply of signal cable from Analyzer Panel To SPM, Flow, TT & PT
+2 SETS
+QUOTED
+QUOTED
+6
+PC Based LOCAL Data Acquisition System
+PC based Data Acquisition System with License Software suitable for
+Storing, Logging, Reporting, Printing data, Validation and communicating
+with Local DAS system.
+PC specifications as under:
+Make: HP/LENOVO/Eqv, Intel i3 Processor, 4 GB RAM, 500 GB HDD, CD/DVD
+Combo Drive, 18” TFT Monitor, Standard WINDOWS 10 latest operating
+System, standard keyboard, mouse with pad.
+1 SET
+QUOTED
+QUOTED
+7
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR COG
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 1600 to 4000 Kcal/Nm3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for Single
+tapping system for handling Impurities such as Tar,
+Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: Coke Oven Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value, Wobbe Index
+and Specific gravity resp.
+1 SET
+QUOTED
+QUOTED
+8
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR BFG
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 0-1500 Kcal/Nm3
+SSample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: BF Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value, Wobbe Index
+and Specific gravity resp.
+1 SET
+QUOTED
+QUOTED
+10
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+TUBE SIZE: 1⁄2”
+WITH NECESSARY JB’s AND ACCESSORIES
+@QUOTED PER METER
+11
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+C COMMISSIONING
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket
+Fare, Visa Charges, Work Permit Is To Be Arranged By Customer)
+@QUOTED PER MAN DAY

@@ -1,0 +1,688 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+TECHNICAL OFFER
+
+ADAGE QUOTE REF:
+Q25N10086
+DATED : 08.02.2025
+BID TYPE : Tender
+PROJECT TITLE:
+Supply and Testing, Supervision & commissioning of COLOR
+ANALYZER at HMPL Bathinda Site
+
+INQUIRY DETAILS:
+Tender: 9660 (3100001741)
+
+CUSTOMER:
+
+Kind Attention : Mr. Deepak Meena
+HMEL, GURU GOBIND SINGH REFINERY
+Talwandi Saboo Taluka, Bathinda
+Punjab – 151301
+
+END USER:
+
+HMEL, GURU GOBIND SINGH REFINERY
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Offering Basis
+SECTION-2: Technical Literature
+SECTION-3: Scope Matrix
+SECTION-4: Commercial Terms and Conditions
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Sanjit Sardessai
+ADAGE AUTOMATION PVT LIMITED
+sanjit@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: OFFERING BASIS
+
+Sr.
+No.
+Tag Nos
+Item Description
+Qty
+Unit
+Price(INR)
+Total
+Price(INR)
+1
+091-COLOUR-2600
+Color Analyser with SHS and other
+components with spares
+1 Lot
+Quoted
+Quoted
+2
+-
+Services as mentioned below.
+1 Lot
+Quoted
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: TECHNICAL LITERATURE
+
+1
+Color Analyzer
+
+Tag: 091-COLOUR-2600
+Make: ICON
+Model: Color Analyzer
+Hazardous Area: Zone 1 llB+H2, T6
+Power Supply: 110 VAC, 50 Hz
+Mounting: Analyzer mounted inside Cabinet with Ex-Proof
+AC.
+
+Process Conditions:
+Fluid: Naphtha
+Op Temperature: (Min/Operating/Max): +10 °C /+35°C / +65°C
+Op Pressure: 1 to 8 kg/cm2
+Sample return to process
+
+Analyser Specification:
+-
+ASTM Method: ASTM D156
+-
+Output Range: +30 to -16 SAYBOLT
+-
+Measuring Cell Length: 100 mm
+-
+Power Supply: Universal 115-230VAC 50-60Hz
+
+Communication:
+-
+Output: 4-20 mA non-IS
+-
+Modbus output Over RS485 or TCP/IP with Individual IP
+address
+-
+Digital Alarm output: Available (6 Nos)
+-
+Industrial PC with 17” Armored glass touch screen integrated
+with analyzer.
+
+Note: Warranty to be 24 months from the date of commissioning or
+36 months from the date of supply by the vendor whichever is
+earlier.
+
+1 No
+Quoted
+
+Sample Extraction Probe:
+-
+Fixed Type Probe with welded isolation valve
+-
+MOC: SS316.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Sample transportation line for supply:
+-
+1⁄2” SS316 Tube from sample take off point to upto
+Analyzer
+10 mtrs
+Quoted
+
+Sample transportation line for return:
+-
+1⁄2” SS316 Tube from sample recovery tank upto process.
+
+10 mtrs
+Quoted
+
+Sample Handling System:
+-
+With Secondary Sample handling system Consisting of,
+Rotameter, ball valve and other accessories as required and
+shall be part of detail engineering.
+-
+SHS components shall be mounted inside a SS316 SHS
+Box.
+
+1 Set
+Quoted
+
+With 100 Liter recovery tank with Redundant Sample recovery
+pump with other accessories
+
+1 Set
+Quoted
+
+With Validation / Calibration setup
+
+1 No
+Quoted
+
+Cabinet for Mounting Analyzer and SHS
+-
+Approximate dimensions: (1200 W x 800 D x 2100 H in mm)
+-
+MOC: SS316
+-
+With Single Ex- Proof AC
+-
+With Power Junction Boxes
+
+1 Set
+Quoted
+
+Startup Commissioning Spares
+-
+Lamp Halogen G4 10W 12V x 5 Nos
+-
+Fuse 5A Anti Surge 5 x 20mm x 5 Nos
+
+1 Lot
+Quoted
+
+2 years Operational Spares
+-
+Lamp Halogen G4 10W 12V x 4 Nos
+-
+O Ring Cell x 8 Nos
+
+1 Lot
+Quoted
+2
+Factory Acceptance Test
+
+1 No
+Quoted
+
+Packing and Forwarding Charges
+1 No
+Quoted
+
+Transportation up to HMPL Bathinda Site
+1 No
+Quoted
+
+Supervision of Installation & commissioning charges
+Lumpsum
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Site Acceptance Test
+1 No
+Quoted
+
+Training at Site
+2 Days
+Quoted
+3
+AMC Charges after warranty
+1st Year
+2nd Year
+3rd Year
+
+Note: As discussed, Prices to be provided on a later basis.
+1 Lot
+Not Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Section 3: Scope Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Process Isolation Valve at tapping point
+
+Yes
+4
+Isolation Valve at process return point
+
+Yes
+5
+Supply of start-up and commissioning spares
+Yes
+
+6
+Supply of Mandatory spares- OPTIONAL
+
+7
+Consumables spares- OPTIONAL
+
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+
+9
+Factory Acceptance Test at Adage Works
+Yes
+
+10
+Packing forwarding
+Yes
+
+11
+Freight up to site including Insurance
+
+Yes
+12
+Storage of supplied system at site
+
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+
+17
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+
+Yes
+18
+Supply of 2 years O&M spares
+Yes
+
+19
+Training at Site-
+Yes
+
+20
+Training at Goa facility- OPTIONAL
+
+21
+AMC after standard warranty (24/36)
+Yes
+
+22
+CAMC after standard warranty (12/18) - OPTIONAL
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+As per tender terms
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date PO receipt.
+Offer validity
+90 days.
+Payment Terms
+As per tender terms
+Guarantee Clause
+As per tender terms
+-
+
+Icon Scientific Limited
+t +44 (0) 1225 667050 e info@iconscientific.com w www.iconscientific.com
+
+All Icon products are...
+Easy to use: with an intuitive multilingual graphic user interface
+on a large armoured-glass wipe-clean touch-screen display.
+Certified to global standards: ATEX, IECEx, UKEx, TIIS,
+EACEx, and ETL approved to give absolute confidence and
+peace of mind in hazardous areas and manufactured under an
+ISO9001:2015 certified Quality Management System.
+Robust and fully explosion proof: with no air or inert gas
+purging required for safe operation in explosion hazard areas.
+Highly efficient: with low sample consumption and no utility
+requirements.
+Safety assured: with configurable status alarms.
+Flexible: with standard Modbus, 4-20mA, and digital outputs.
+
+“The Icon Scientific Colour Opacity
+Analyser is extremely versatile and
+may be readily re-application
+engineered by the user in the field.
+The use of a solid-state spectrometer
+module avoids the band pass and
+transmission loss problems
+associated with optical filters and
+moving parts such as filter wheels
+and chopper motor assemblies”.
+
+Icon Scientific Colour Opacity Analyser Brochure - V06 (Jul-2021)
+What does it do?
+The Icon Colour/Opacity analyser uses a dispersive spectrometer module to carry
+out colour, opacity, and concentration measurements. It is designed to overcome
+the shortcomings of optical filter-based instruments, such as sensitivity losses due
+to bandpass width and the low transmission characteristics of fixed optical filters.
+The analyser can measure colour and opacity simultaneously, and can perform
+concentration measurements based on light absorption at single or multiple
+wavelengths.
+
+A unique measuring instrument, the analyser is extremely versatile and can be
+readily re-programmed in the field. It provides accurate measurements on the many
+petroleum products that have colour as part of their specification, and can be used
+to duplicate a range of standard visual colour comparison tests dealing with light
+and dark samples. Delivering exceptional results, the analyser enables you to
+measure contamination, purity, or clarity of a liquid. It is also very good at detecting
+dye colour and product contamination in pipeline applications.
+
+How does it work?
+The analyser uses visible light produced by a 12V tungsten halogen lamp running
+under reduced voltage to increase its lifetime. Light passes out of the analyser
+enclosure through an optical window and is guided along a fibre-optic cable to an
+external measuring cell. The light enters the cell through another window fitted with
+a focusing lens. It then passes through the test sample and out via a further window
+and fibre-optic cable. It travels back into the enclosure to the dispersive
+spectrometer module, where the optical transmission or absorbance measurements
+are carried out. These measurements are fed into a control computer which
+calculates the final results according to the method(s) selected.
+
+Why choose the Icon Scientific
+Colour/Opacity Analyser?
+Full-spectrum analysis: with measurements over the full visible-light spectrum
+allows for precise colour detection and complex multi-product interfacing even
+when the peak absorption wavelength varies (ASTM colour, Red/Green dyes, etc).
+
+Excellent stability: to compensate for drift and dirt build-up on the cell windows, all
+measurements are carried out using one or more reference wavelengths.
+
+Dual method analysis: the analyser can perform up to two simultaneous
+measurements as standard. These could include any combination of colour,
+opacity, concentration, or product interfacing measurements.
+
+Versatile measurements: with a range of inbuilt detection and calculation
+algorithms to choose from to ensure the best match to any required application.
+
+Remote cell mounting: extended fibre optic cables allow the separation of
+measuring cell and controller if required.
+
+Standard SMA connectors: a range of third-party transmittance and reflectance-
+measuring cells can be used in addition to the standard Icon transmittance cells.
+
+Icon Scientific Colour Opacity Analyser Brochure - V06 (Jul-2021)
+
+Sample Requirements
+Inlet Temperature
+Maximum 200°C (390°F)
+Inlet Pressure
+Maximum 100 bar (1450 psi)
+Outlet Pressure
+Can be returned to pressure, provided
+minimum flow requirement is achieved.
+Sample Flow
+(continuous)
+Minimum 6 L/H
+Maximum 30 L/H
+Filtration
+Filtration generally not required.
+Water Content
+Sample should be ‘clear and bright’ at
+room temperature, bubble free, and
+contain no free water.
+Utility Requirements
+Instrument Air
+Not Required.
+Coolant
+Not Required.
+Power
+115-230VAC 50-60Hz, Max 75VA
+Installation Requirements
+Location
+Unit must be located out of direct wind
+sun and rain.
+Ambient Temperature
++5 to +45 °C
+Ambient Humidity
+0-95% RH, non-condensing.
+Remote Flowcell
+Analyser can be optionally supplied
+with loose flowcell and extended fibre
+optic cables for remote installation in
+3rd party sampling system.
+Control System
+Control System
+Based on fan-less industrial PC with
+solid state hard drive.
+Graphical User Interface (GUI)
+10.5” armoured glass touch-screen.
+The GUI is used to program the unit
+and display current and historical
+analyser results and alarm status.
+Language
+User-selectable multilingual display.
+Certification
+Hazardous Area Certification
+Exd certified to ATEX, IECEx, UKEx,
+and EACEx standards, suitable for
+zone 1 or zone 2 use with gas group
+and T-rating of IIB+H2 T6.
+It is also ETL listed for the USA and
+Canada Class 1, Div 1, groups B,C,D.
+IP Ratings
+Tested and certified to IP66/IP67 (dust
+tight and protected from temporary
+total immersion in water).
+
+Specification
+Applications & Measuring Ranges
+(output freely adjustable within range)
+ASTM D1500 (0 to 8 ASTM)
+ASTM D156 (+30 to -16 Saybolt)
+ASTM D1209 (Hazen / PtCo)
+Colour concentrations
+Dosing applications
+Multi-product identification
+
+Other – contact Icon for details
+Measuring Cell Pathlength
+Standard flowcell pathlengths are:
+10mm (ASTM D1500)
+100mm (Saybolt D156)
+
+Other – contact Icon for details
+(e.g.: 1mm, 60mm, etc)
+Repeatability
+ASTM Colour ≤0.2, (typically <0.03)
+Saybolt Colour ≤1.0, (typically <0.15)
+
+Other – contact Icon for details
+Cycle Time
+Continuous output.
+Multiple Methods
+Up to 2 simultaneous measurement
+methods based on: linear interpolation
+of calibration curves, multi-wavelength
+regression calculations based on
+absorbance or transmittance at single
+or multiple wavelengths, peak area
+integration, opacity or transmission
+measurements, etc.
+Light Source
+10W tungsten halogen lamp
+(lifetime > 7000 hr)
+Spectrometer
+Full range: 360-1100 nm
+Inputs/Outputs
+Analog Outputs
+1 x 4-20mA isolated output (active or
+passive) is provided as standard.
+
+Second output available as option.
+Alarms
+
+The analyser provides changeover
+alarm contacts for the following
+conditions:
+
+•
+Result 1 high / low level alarm
+
+•
+Result 2 high / low level alarm
+
+•
+Spectrometer fault alarm
+
+•
+Bulb fail / low light
+transmission alarm
+
+•
+Analyser online / offline
+(run / standby mode)
+
+All contact ratings are
+24VDC 0.5A, 230VAC 1A
+Communications
+Modbus RTU or OPC over RS485 or
+Ethernet (TCP/IP), with optional fiber
+optics. Optional OPC server software.
+
+Icon Scientific Colour Opacity Analyser Brochure - V06 (Jul-2021)
+Note: Icon Scientific products are subject to a program of continuous development and improvement and specifications are liable to change without notice.
+Please check that you have the latest information available before relying on any specification.
+
+Dimensions & Weights
+
+Notes:
+All dimensions in mm
+Unpacked weight approx. 103kg
+Packed weight approx. 165kg

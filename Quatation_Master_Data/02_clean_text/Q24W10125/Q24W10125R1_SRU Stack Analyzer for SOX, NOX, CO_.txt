@@ -1,0 +1,484 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which
+includes analysers as per your requirement.
+
+ADAGE QUOTE REF:
+Q24W10125R1
+DATED : 29.07.2025
+BID TYPE : BQ
+PROJECT TITLE:
+Supply of SRU STACK ANALYZER SYSTEM FOR SOX,NOX,CO
+
+INQUIRY DETAILS:
+Inquiry received via mail dtd: 21.11.2024
+CUSTOMER:
+
+Kind Attention : Mr. Blessingson Kp
+Mobile-8447271820
+Bharat Petroleum Corporation Ltd.|Mumbai Refinery|
+END USER:
+
+Bharat Petroleum Corporation Ltd.|Mumbai Refinery|
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Offering Basis
+SECTION-2: Technical Literature
+SECTION-3: Scope Definition
+SECTION-4: Commercial Terms & Condition
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr Sanjit Sardessai
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9518546315
+sanjit@adage-automation.com
+
+TECHNICAL OFFER
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 1: OFFERING BASIS
+
+1. NOX & SO2 Analyser
+
+a. Make: Ametek, Model: 920
+b. Principle: Multiple wavelength, high resolution, non-dispersive UV
+c. Measuring Ranges: NOX: (Min, Max) : 300 ppm – 100%
+SO2: (Min, Max) : 250 ppm – 100%
+d. Accuracy: ±1.0% full-scale of standard ranges
+e. Repeatability: Better than 0.5% full scale
+f. Linearity: Better than 1% full scale
+g. Response time: Typically less than 30s to T90 (excluding sample system)
+h. Sample gas temperature: Ambient to 150°C (302°F)
+i.
+Pressure and temperature compensation: Standard
+j.
+Ambient temperature: 5 to 50°C
+k. Communications: Analog: (4) x 4-20 mA self-powered; Digital: One RS232 port for service
+diagnostics; One RS422 with Modbus protocol; Relays: Three independent sets of SPDT
+relays alarm conditions
+l.
+Power: 120 VAC ±10%, 47-63 Hz or 220 VAC ±10%, 47-63 Hz, 600 W for analyzer only
+m. Area Classification: Zone 1, IIC, T3, Exp
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+2. CO Analyser
+
+a. Make: Ametek, Model: 5100HD
+b. Principle: Tunable Diode Laser Absorption Spectroscopy (TDLAS)
+c. Ranges and performance: Percent level down to parts per million (ppm) level ranges
+d. Accuracy: ±1.0% full-scale of standard ranges
+e. Ambient temperature: -20 to 50°C
+f. Speed of response: <2 seconds photometric response.
+g. Inputs: One non-isolated analog input configurable as 0-5 V or 0-20 mA
+One optically isolated discrete DC input
+h. Outputs: 4 line x 20 character alphanumeric VF display
+Fast Ethernet (IEE802.3)
+RS485 serial port, isolated (supports Modicon MODBUS RTU)
+RS232 serial port (for service use only)
+One Isolated 4-20 mA analog output per laser diode (i.e. one output for single laser
+analyzer and two outputs for dual laser analyzer)
+Four dry relay contacts (contact rating 30 VAC, 60 VDC, 100 VA resistive)
+i.
+Electrical Requirements: 120/240 VAC (108-132V/216-264V), 47-63Hz
+j.
+Area Classification: Zone 1, IIC, T3, Exp
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 2: TECHNICAL LITERATURE
+
+1
+CEMS ANALYZERS MOUNTED INSIDE CABINET
+
+Component to be measured: SOx/NOx/CO
+Service: On Stack
+Measurement Type: Hot wet Extractive
+Hazardous Area Classification: Zone 1 IIC T3 with Purge
+Mounting Location: Ex-Proof Cabinet with Vertex Cooler
+
+For Measurement of NOX/SOX
+Make: Ametek
+Model: 920 (Extractive Type)
+Technology: UV
+
+For Measurement of CO
+Make: Ametek
+Model: 5100HD
+Technology: TDLAS
+
+Sample Conditions at Tapping Point:
+•
+Temperature (Min/Max): 300 / 650°C
+•
+Pressure (Normal): Not Provided (kgf/cm2-g)
+•
+Sample return: to Vent
+
+Measuring Ranges:
+•
+SOx: 0 – 10000 PPM
+•
+NOx: 0 – 700 mg/m3
+•
+CO: 0 –1500 mg/m3
+
+Probe Details:
+•
+Heated sample probe with required flanges.
+MOC: SS316
+•
+Process connection: To be provided
+•
+Suitable for Zone 2 IIC
+
+Sample Transportation:
+•
+1⁄4” PTFE HTT - 20 mtr
+
+Calibration Cylinder with Regulators:
+2 Sets
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+•
+10 Ltrs Zero Gas cylinder (N2)
+•
+Individual 10 Ltrs Span Gas cylinder for SOx, NOx, CO
+analyzer.
+
+Analyzer Outputs:
+•
+2 nos x 4-20 mA Analog output
+•
+1 nos x RS-232 Output
+•
+1 nos x RS-485 Output
+•
+Potential free contacts for fault
+
+Utilities Required:
+•
+Power supply: 110 VAC, 50HZ UPS
+•
+Power supply: 230 VAC, 50HZ Non UPS
+•
+Instrument Air @ 4-5bar, Free of Oil, Dust & Moisture.
+
+Notes:
+Power and signal cables shall be in customer scope of supply.
+
+2
+Mandatory Sapres:
+a. Magnesium Lamp
+b. Cadmium Lamp
+c. Seal Kit
+d. Kit O-Rings
+e. Fuses
+f. Power Supply
+g. Display Unit
+h. Filters
+
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: SCOPE DEFINITION
+
+Our Scope of Supply and Work Includes:
+
+•
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of
+complete analyzer system for the following analyzers as per MR.
+•
+All Analysers complete with all hardware, software and necessary accessories.
+•
+Power distribution boxes as necessary for power distribution, junction boxes for
+termination of the signals.
+•
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items.
+•
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4)
+•
+Project Management and Documentation
+•
+Documentation including as-built documentation, warranty of Complete Analyser system
+•
+Supply of spares and consumables as per MR requirements (If ordered)
+•
+Training at site as per MR requirements (If ordered)
+•
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation
+of Analyzers.
+
+Our Scope of Supply Does Not Include:
+
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated
+Electrical traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer
+shelter & sample return, fast loop, vent lines etc.
+•
+Provision of nozzles near tapping point/Stack.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals related to filed/DCS connection.
+•
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication
+cables/field tubes etc.
+•
+Providing all utilities as specified in MR at one point/battery
+limit near each Analyzer Shelter in field.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 4: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date PO.
+Offer validity
+3 Months
+Payment Terms
+20% Advance with the Purchase Order, 10 % against drawing approval in
+CODE 2, Balance 70 % against Proforma Invoice on readiness of material prior
+to dispatch
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.
+
+SR NO.
+DESCRIPTION
+MAKE
+QTY IN Nos
+1
+NOX/SO2 AMETEK ANALYSER, ZONE-1, ATEX II 2G Exd e px IIB, T3, Gb, MODEL: 920
+AMETEK
+1
+2
+CO AMETEK ANALYSER, ZONE -1, ATEX II 2G, Expx IIC,T3 , MODEL: 5100 HD
+AMETEK
+1
+3
+CEMS PROBE, 1.5" 300# RF,PROBE MOC: PTFE WITH CERAMICFILTER
+M&C/PSG
+1
+4
+HEATED SAMPLE LINE, 240VAC NON-UPS, 1/4"OD, SS316, SELF REGULATING TYPE
+THERMON
+20 Mtrs
+5
+ANALYSER CABINET WITH CANOPY, MOC: SS304, UNPAINTED,
+DIMENSIONS : 2000MM(W) X 800MM(D) X 2200MM(H)
+PYROTECH
+1
+6
+1/4" , 2-WAY BALL VALVE, SS316.
+EXCEL HYDRO
+5
+7
+1/2" , 2-WAY BALL VALVE, SS316.
+EXCEL HYDRO
+3
+8
+AIR FILTER REGULATOR 1/4" NPT(F), BODY MOC: SS316, MANUAL DRAIN, 5 MICRON FILTER
+PLACKA
+2
+9
+AIR FILTER REGULATOR 1/2" NPT(F), BODY MOC: SS316, MANUAL DRAIN, 5 MICRON FILTER
+PLACKA
+1
+10
+N2 ZERO GAS CYLINDER, 10L., MOC:CS
+CHEMTRON SCIENCE
+1
+12
+NOX SPAN GAS CYLINDER, 10L., MOC:CS
+CHEMTRON SCIENCE
+1
+14
+SO2 SPAN GAS CYLINDER, 10L., MOC:CS
+CHEMTRON SCIENCE
+1
+16
+CO SPAN GAS CYLINDER, 10L., MOC:AL
+CHEMTRON SCIENCE
+1
+18
+115VAC UPS PDP, ZONE 1 IIC, T6, LM6, Exd, PESO CERTIFIED
+FLAMEPROOF
+1
+20
+240VAC NON-UPS PDP, ZONE 1, IIC, T6, LM6, Exd, PESO CERTIFIED
+FLAMEPROOF
+1
+22
+SIGNAL JUNCTION BOX, ZONE 1, IIC, T6, LM6, Exd, PESO CERTIFIED
+FLAMEPROOF
+1
+24
+TUBE, SS316
+SANDVIK
+AS REQ.
+26
+TUBE FITTINGS, DOUBLE FERRULE TYPE, SS316
+EXCEL HYDRO
+AS REQ.
+28
+LIGHT, ZONE-1, IIC
+FLAMEPROOF
+1
+30
+VORTEX COOLER, SS316
+ACE FLOW
+2
+32
+FLANGES, SS316
+VIRAJ PROFILE/BRITEX
+2
+34
+POWER & SIGNAL CABLE
+KEI / THERMO / LAPP
+AS REQ.
+36
+CABLE TRAY, FRP
+IDS COMPOSITES
+AS REQ.
+38
+CABLE GLANDS
+FLAMEPROOF
+AS REQ.
+40
+BULK HEAD UNION
+EXCEL HYDRO
+AS REQ.
+BILL OF MATERIAL_AMETEK 920 & 5100HD ANALYSER
+ANNEXURE: 1

@@ -1,0 +1,2486 @@
+Quotation Number: Q24W10131
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Price (INR)
+1
+Analyzer Shelter (Analyzer Room)
+Tag no: AH-1
+Make: ADAGE
+Area Classification: Zone 1 IIC (Inside shelter)
+Zone 2 IIC (Outside shelter)
+Shelter construction
+-
+Dimensions- 7 Mtr X 3 Mtr X 3 Mtr
+-
+Design-Ribbed interlock
+-
+Internal MOC- SS316 with Type 20 coating
+-
+External MOC: SS316 with Type 20 coating
+-
+2 mm Thick Internal Wall & 2 mm Thick Outer Wall.
+-
+100 mm Insulation of Mineral Wool
+-
+Overhang Roof Canopy-1 Meter in all four sides,
+MOC: SS316 with Type 20 coating, 2 mm thick.
+-
+Base frame: ISMC 150
+-
+Panic Bar Installed on Each Door.
+-
+Floor: Anti-Slip and Non-Corrosive Aluminum Chequered
+Plate.
+-
+Doors: Main Door and Emergency Door with double glazed
+viewing windows with shatterproof Safety Glass Window
+-
+Louvers with bird screen
+-
+Lifting lugs
+-
+Switch sockets x 2Nos each (110 & 230 VAC)
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+SS316 tag plates
+-
+Cable Entry to Shelter: Through MCT Block (Separate for
+power & signal)
+-
+Tube Entry to Shelter: Gromet/ bulkhead, MOC: SS316
+-
+FRP Cable Trays
+-
+Portable CO2 Fire extinguisher – 2 no near each door
+Special Note:
+AH GAD is provided considering Spare space for analysers & SHS.
+AH shall be designed to meet RPMS specifications with required free
+space.
+1 No
+Quoted
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure 1
+-
+Junction Box’s Moc: GRP/FRP, Exe
+-
+Power Distribution Box & Warning Panels, Exd LM6 with
+standard paint
+-
+Redundant PLC & Power supply
+-
+Communication module, CPU & I/O cards shall be Non
+redundant
+-
+Shelter Safeguarding PLC Mounted Inside CRCA Purged
+Enclosure.
+Misc items:
+-
+Eye Wash & Wash Basin.
+-
+Document storage desk
+-
+Telephone(as per tkIS comment)
+-
+work bench
+-
+FRP ladder
+Communication Hardware at Shelter Side for each shelter:
+-
+RS 485 to Ethernet converter x 2 No
+-
+Ethernet to FO Convertors x 2 No (redundant)(Ethernet switch
+is with FOC ports)
+-
+Patch Panel (1 No), Patch cords (1 lot)
+Auto changeover system for carrier gas (4+4 cylinder) with Skid
+with all other accessories x 2 Nos.
+1.a
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: Epoxy Coated SS316
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC With Automatic Changeover & single blower
+-
+With internal duct
+-
+Capacity – 5 Tr (Size to be considered based on 12 Air volume
+change)
+-
+Air changes shall be 12 per hour
+-
+Fresh Air Duct with Rain cap and bird Mesh: 9 Meters above
+shelter, MOC: Hot dipped galvanized steel with type 20 coating
+Fresh air ducting inside AH is included.
+1 No
+Quoted
+1.b
+Chemical filter (Optionally Quoted as per TQ requirement)
+1 No
+Optionally
+Quoted
+1.c
+Gas vent recovery system (Hastelloy wetted parts) as per tkIS
+drawing available in MR
+1 No
+Quoted
+1.d
+Liquid Recovery system, PTFE lined & other components as
+PTFE lined/Hastelloy, 100 Ltr capacity and redundant Pump
+(Hastelloy/PTFE lined) configuration
+1 No
+Quoted
+ANNEXURE -1
+DETAILED BOQ FOR SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector
+4
+Toxic Detector
+4
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Diff pressure transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB. Rack for PDBs & warning Panel.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+1
+3 Way Beacon
+3
+2 Way Beacon
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, , double compression type certified flame proof cables glands & plugs, Utility
+Headers with Air filter & Other Accessories as per MR
+1 LOT
+S.N.
+Item Description
+Qty.
+Price (INR)
+1
+Moisture Analyser
+Tag No: 021AT151006
+Service1: MOIST ANALR VCM REFLUX PUMP
+Service2: MOIST ANALR VCM STRIPPER BOTTOM
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure.
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1, IIC, T3
+Mounting Location: Inside AH1
+Measuring range: 0.0 - 120.0 ppm
+Cell Material: Hastelloy
+Stream : 2
+Stream switching shall be done via Shelter PLC.
+Process Conditions for Str -1
+-
+Supply Pressure (Operating): 17.5 Kg/cm2g
+-
+Temperature (Operating): 44.8°C
+-
+Sample return Pressure: 5.75-8.39 Kg/cm2g
+-
+Sample return Temperature: 44.8-60°C
+Process Conditions for Str -2
+-
+Supply Pressure (Operating): 13.32 Kg/cm2g
+-
+Temperature (Operating): 42°C
+-
+Sample return Pressure: 5.75-8.39 Kg/cm2g
+-
+Sample return Temperature: 44.8-60°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P151002A (Return piping by
+TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1 No
+Quoted
+1.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+2 Nos
+Quoted
+1.1b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP tube for stream 1, 150 Meters
+-
+1’’ pipe (Common) for fast loop return (150 Meters by RIL)
+-
+1/2’’ SS316L Hastelloy EP tube for stream 2, 180 Meters
+Note :
+-
+Stream 2 is also fed to the GC Tag 021AT151003 and HCl
+Analyser tag 021AT151004.
+-
+Common fast loop return for Tag 021AT151003,
+021AT151004, 021AT151005 and 021AT151006
+1 Lot
+Quoted
+1.1c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+1.1d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+1.1e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+1.2
+Gas Chromatograph
+Tag No : 021AT151003
+Service: GC VCM STRIPPER BOTTOM
+Make: Valmet
+Model: Maxum ll
+Hazardous Area Classification: Zone 1, IIB+H2, T3
+Mounting Location: Inside AH1
+Air treater to be included as required
+Process Conditions
+-
+Supply Pressure (Operating): 13.32 Kg/cm2g
+-
+Temperature (Operating): 42.0°C
+-
+Sample Return to: Vent header with flame arrestor/Flare
+header
+-
+Fastloop Return to: MP-PV021-P151002A (Return piping by
+TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Common fast loop return for Tag 021AT151003, 021AT151004,
+021AT151005 and 021AT151006
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1 No
+Quoted
+1.2a
+Sample Probe
+Note: Common sample probe for Tag No: 021AT151006 (stream
+2), 021AT151003.
+Common Probe
+1.2b
+Sample Transportation Tube:
+Common Line for Tag No: 021AT151006 (stream 2),
+021AT151003
+Common Tube
+1.2c
+Common Secondary Sample Handling system
+-
+Tee off after fastloop filter with HPR
+-
+Shall be mounted inside SS316L enclosure outside Analyser
+house.
+1 No
+Quoted
+1.2d
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Autochangover regulators with Skid with canopy
+1 Each
+Quoted
+1.3
+HCL Analyser
+Tag No : 021AT151004
+Service: GC VCM STRIPPER BOTTOM
+Make: Airoptic
+Model: GasEye Extractive
+Hazardous Area Classification: Zone 1 llC
+Mounting Location: Inside AH1
+Power Supply: 110VAC 50Hz
+Special cable as applicable shall be considered by Adage
+Process Conditions at sample Inlet
+-
+Supply Pressure (Operating): 13.32 Kg/cm2g
+-
+Temperature (Operating): 42.0°C
+-
+Sample return to : GWW header via vent recovery system
+-
+Fastloop Return to: MP-PV021-P151002A (Return piping by
+TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Special note: Analyser & all other component MOC shall be
+SS316L
+1 Nos
+Quoted
+1.3a
+Sample Probe
+Note: Common sample probe for Tag No: 021AT151006 (stream
+2), 021AT151004.
+Common Probe
+1.3b
+Sample Transportation Tube:
+Note: Common sample probe for Tag No: 021AT151006 (stream
+2), 021AT151004.
+Common tube
+1.3c
+Sample handling system:
+-
+SHS system as required shall be considered for Extractive
+TDLS analyser.
+-
+Manual sampling arrangement with quick connector shall be
+considered
+1 No
+Quoted
+1.4
+Moisture Analyser
+Tag No: 021AT151005
+Service: MOIST ANALR VCM STRIPPER OVHD
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure.
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH1
+Measuring range: 0 - 150 ppm
+Cell Material: Hastelloy
+Sample phase : Vapour
+Process Conditions
+-
+Supply Pressure (Operating): 13.27 Kg/cm2g
+-
+Temperature (Operating): 77.1°C
+-
+Sample return Pressure: 5.75-8.39 Kg/cm2g
+-
+Sample return Temperature: 44.8-60°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P151002A (Return piping by
+TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Common fast loop return for Tag 021AT151003, 021AT151004,
+021AT151005 and 021AT151006
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1 No
+Quoted
+1.4a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+1.4b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 190 Meters
+-
+1’’ pipe (Common) for fast loop return (150 Meters by RIL)
+1 No
+Quoted
+1.4c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+1.4d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+1.4e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+1.5
+Moisture Analyser
+Tag No: 021AT151001
+Service: MOIST ANALR RECYCLE EDC
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure.
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH 1
+Measuring range: 0 - 150 ppm
+Cell Material: Hastelloy
+Sample Phase: Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 8.24 Kg/cm2g
+-
+Temperature (Operating): 49.6°C
+-
+Sample return Pressure: 4.07-4.5 Kg/cm2g
+-
+Sample return Temperature: 113-130°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MV-PV021-V141001 (Return piping by
+TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+Common fast loop return for Tag 021AT151001 and
+021AT141001
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1.5a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+1.5b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 220 Meters
+-
+1’’ pipe (Common) for fast loop return (190 Meters by RIL)
+1 No
+Quoted
+1.5c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+1.5d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+1.5e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+1.6
+Moisture Analyser
+Tag No: 021AT141001
+Service: MOIST ANALR FEED EDC
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH1
+Measuring range: 0 - 150 ppm
+Cell Material: Hastelloy
+Sample phase: Liquid
+1 No
+Quoted
+Process Conditions
+-
+Supply Pressure (Operating): 40.67 Kg/cm2g
+-
+Temperature (Operating): 116.2°C
+-
+Sample return Pressure: 4.07-4.5 Kg/cm2g
+-
+Sample return Temperature: 113-130°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MV-PV021-V141001 (Return piping by
+TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Common fast loop return for Tag 021AT151001 and
+021AT141001
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1.6a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+1.6b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 195 Meters
+-
+1’’ pipe (Common) for fast loop return (190 Meters by RIL)
+1 No
+Quoted
+16.c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+1.6d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+1.6e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+1.7
+Moisture Analyser
+Tag No: 021AT141009
+Service: MOIST ANALR QUENCH BOTTOM CONDENSATE II
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH1
+Measuring range: 0 - 150 ppm
+Cell Material: Hastelloy
+Sample Phase: Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 3.05 Kg/cm2g
+-
+Temperature (Operating): 116.5°C
+-
+Sample return Pressure: -0.6 Kg/cm2g
+-
+Sample return Temperature: 59.6°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: downwords of LV-141014 (Return piping
+by TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1 No
+Quoted
+1.7a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+1.7b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 225 Meters
+-
+1’’ pipe (Common) for fast loop return (270Meters by RIL)
+1 No
+Quoted
+1.7c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+1.7d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+1.7e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+1.8
+Moisture Analyser
+Tag No: 021AT141017
+Service: MOIST ANALR QUENCH BOTTOMS CONDENSER
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside Shelter
+Measuring range: 0 - 150 ppm
+Cell Material: Hastelloy
+Sample Phase: Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 18.26 Kg/cm2g
+-
+Temperature (Operating): 45°C
+-
+Sample return Pressure: 1.46 Kg/cm2g
+-
+Sample return Temperature: 45°C
+1 No
+Quoted
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P14004A (Return piping by
+TKIS)
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1.8a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+1.8b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 240 Meters
+-
+1’’ pipe (Common) for fast loop return (250 Meters by RIL)
+1 No
+Quoted
+1.8c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+1.8d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+1.8e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+DETAILED OFFER OF ANALYSERS MOUNTED INSIDE
+ANALYSER HOUSE 2
+2
+Analyzer Shelter
+Tag no: AH-2
+Make: ADAGE
+Area Classification: Zone 1 IIC (Inside shelter)
+Zone 2 IIC (Outside shelter)
+Shelter construction
+-
+Dimensions- 7 Mtr X 3 Mtr X 3 Mtr
+-
+Design-Ribbed interlock
+-
+Internal MOC- SS316 with Type 20 coating
+-
+External MOC: SS316 with Type 20 coating
+-
+2 mm Thick Internal Wall & 2 mm Thick Outer Wall.
+-
+100 mm Insulation of Mineral Wool
+-
+Overhang Roof Canopy-1 Meter in all four sides,
+MOC: SS316 with Type 20 coating, 2 mm thick.
+-
+Base frame: ISMC 150
+-
+Panic Bar Installed on Each Door.
+-
+Floor: Anti-Slip and Non-Corrosive Aluminum Chequered
+Plate.
+-
+Doors: Main Door and Emergency Door with double glazed
+viewing windows with shatterproof Safety Glass Window
+-
+Louvers with bird screen
+-
+Lifting lugs
+-
+Switch sockets x 2Nos each (110 & 230 VAC)
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+SS316 tag plates
+-
+Cable Entry to Shelter: Through MCT Block (Separate for
+power & signal)
+-
+Tube Entry to Shelter: Gromet/ bulkhead, MOC: SS316
+-
+FRP Cable Trays
+-
+Portable CO2 Fire extinguisher – 2 no near each door
+Special Note:
+AH GAD is provided considering Spare space for analysers & SHS.
+AH shall be designed to meet RPMS specifications with required free
+space.
+1 No
+Quoted
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure 1
+-
+Junction Box’s Moc: GRP/FRP, Exe
+-
+Power Distribution Box & Warning Panels, Exd LM6 with
+standard paint
+-
+Redundant PLC & Power supply
+-
+Communication module, CPU & I/O cards shall be Non
+redundant
+-
+Shelter Safeguarding PLC Mounted Inside CRCA Purged
+Enclosure.
+Misc items:
+-
+Eye Wash & Wash Basin.
+-
+Document storage desk
+-
+Telephone(as per tkIS comment)
+-
+work bench
+-
+FRP ladder
+Communication Hardware at Shelter Side for each shelter:
+-
+RS 485 to Ethernet converter x 2 No
+-
+Ethernet to FO Convertors x 2 No (redundant)(Ethernet
+switch is with FOC ports)
+-
+Patch Panel (1 No), Patch cords (1 lot)
+Auto changeover system for carrier gas (4+4 cylinder) with Skid
+with all other accessories x 2 Nos.
+2.a
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: Epoxy Coated SS316
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC With Automatic Changeover & single
+blower
+-
+With internal duct
+-
+Capacity – 5 Tr (Size to be considered based on 12 Air
+volume change)
+-
+Air changes shall be 12 per hour
+-
+Fresh Air Duct with Rain cap and bird Mesh: 9 Meters above
+shelter, MOC: Hot dipped galvanized steel with type 20
+coating
+Fresh air ducting inside AH is included.
+1 No
+Quoted
+2.b
+Chemical filter (Optionally Quoted as per TQ requirement)
+1 No
+Optionally
+Quoted
+2.c
+Gas vent recovery system (Hastelloy wetted parts) as per tkIS
+drawing available in MR
+1 No
+Quoted
+ANNEXURE -1
+DETAILED BOQ FOR SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector
+4
+Toxic Detector
+4
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Diff pressure transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB. Rack for PDBs & warning Panel.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+1
+3 Way Beacon
+3
+2 Way Beacon
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, , double compression type certified flame proof cables glands & plugs, Utility
+Headers with Air filter & Other Accessories as per MR
+1 LOT
+S.N.
+Item Description
+Qty.
+Price (INR)
+2
+HC Analyser (GC)
+Tag No: 021AT121007
+Service1: HC (EDC) IN WASTE WATER
+Service2: HC (EDC) IN WASTE WATER
+MODEL: Maxum ll
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, IIC, T3
+Detector: FID
+Mounting Location: Inside AH2
+Streams: 2
+Sample Phase: Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 4.47 Kg/cm2g
+-
+Temperature (Operating): 40°C
+Sample Return Details:
+-
+Ana vent return to ATM vent header with flame arrestor/Flare
+header
+-
+Condensate return to Drain header from HC Stripper.
+-
+Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Special Note: Analyser & SHS components wetted part MOC shall be
+SS316L
+1 No
+Quoted
+2.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+2 Nos
+Quoted
+2.1b
+Sample Transportation tube:
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 1
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 2
+1 No
+Quoted
+-
+1⁄4’’ SS316L PVC coated Tube, Qty: 230 meters (From
+stripper to GC) for stream 1
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 220 meters (From
+stripper to GC) for stream 2
+2.1b
+Integration and supply of SHS System:
+-
+With HC stripper near Primary
+2 Sets
+Quoted
+2.1c
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.1d
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Auto changeover regulators with Skid with canopy
+1 Each
+Quoted
+2.2
+Gas Chromatograph
+Tag No : 021AT121003
+Service1: GC ANALR - (C2H2/C2H4/C2H6/VCM)
+Service2: GC ANALR(C2H2/C2H4/C2H6/VCM)
+Make: Valmet
+Model: Maxum ll
+Hazardous Area Classification: Zone 1, IIC
+Mounting Location: Inside AH-2
+Stream: 2
+Sample Phase: Vapor
+Process Conditions
+-
+Supply Pressure (Operating): 10.61Kg/cm2g
+-
+Temperature (Operating): 170.5°C
+-
+Sample return Pressure: 0.475 Kg/cm2g
+-
+Sample return Temperature: 9.8°C
+Sample Return Details:
+-
+Ana vent return to ATM vent header with flame arrestor/Flare
+header
+-
+Fastloop return to GWW header
+Special Note: Analyser & SHS components wetted part MOC shall be
+Hastelloy.
+1 No
+Quoted
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+2.2a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+2 No
+Quoted
+2.2b
+Sample Transportation Tube:
+-
+1⁄4’’ Hastelloy insulated Tube, Qty: 220 meters for stream 1
+-
+1⁄4’’ Hastelloy insulated Tube, Qty: 210 meters for stream 1
+1 No
+Quoted
+2.2c
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.2d
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Auto changeover regulators with Skid with canopy
+1 Each
+Quoted
+2.3
+Oxygen Analyser
+Tag No : 021AT121011
+Service: O2 ANALR INLET
+Make: Siemens
+Model: Oxymat 6F
+Hazardous Area Classification: Zone 1, IIC
+Mounting Location: Inside Analyser Shelter AH-2
+Sample Phase: Vapour
+Process Conditions
+-
+Supply Pressure (Operating): 2.37kg/cm2g
+-
+Temperature (Operating): 48°C
+-
+Sample return Pressure: 0.975 Kg/cm2g
+-
+Sample return Temperature: 42°C
+Sample Return Details:
+-
+Analyser spend sample & Fastloop return to GWW header
+1 No
+Quoted
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Special Note: Analyser & SHS components wetted part MOC shall be
+Hastelloy.
+2.3a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+2.3b
+Sample Transportation Tube:
+-
+1⁄4’’ Hastelloy HTT Tube, Qty: 170 meters for stream 1
+1 No
+Quoted
+2.3c
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.3d
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range
+1 Each
+Quoted
+2.4
+Oxygen Analyser
+Tag No : 021AT121012
+Service: O2 ANALR INLET I
+Make: Siemens
+Model: Oxymat 6F
+Hazardous Area Classification: Zone 1, IIC, T3
+Mounting Location: Inside AH2
+Sample Phase: Vapour
+Process Conditions
+-
+Supply Pressure (Operating): 2.37kg/cm2g
+-
+Temperature (Operating): 48°C
+-
+Sample return Pressure: 0.975 Kg/cm2g
+-
+Sample return Temperature: 42°C
+1 No
+Quoted
+Sample Return Details:
+-
+Analyser spend sample & Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Special Note: Analyser & SHS components wetted part MOC shall be
+Hastelloy.
+2.4a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+2.4b
+Sample Transportation Tube:
+-
+1⁄4’’ Hastelloy HTT Tube, Qty: 170 meters for stream 1
+1 No
+Quoted
+2.4c
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.4d
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range
+1 Each
+Quoted
+2.5
+Oxygen Analyser
+Tag No : 021AT121013
+Service: O2 ANALR INLET I
+Make: Siemens
+Model: Oxymat 6F
+Hazardous Area Classification: Zone 1, IIC
+Mounting Location: Inside Analyser Shelter AH-2
+Sample Phase: Vapour
+Process Conditions
+-
+Supply Pressure (Operating): 2.37kg/cm2g
+-
+Temperature (Operating): 48°C
+-
+Sample return Pressure: 0.975 Kg/cm2g
+-
+Sample return Temperature: 42°C
+1 No
+Quoted
+-
+Sample Phase: Liquid
+Sample Return Details:
+-
+Analyser spend sample & Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Special Note: Analyser & SHS components wetted part MOC shall be
+Hastelloy.
+2.5a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+2.5b
+Sample Transportation Tube:
+-
+1⁄4’’ Hastelloy HTT Tube, Qty: 170 meters for stream 1
+1 No
+Quoted
+2.5c
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.5d
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range
+1 Each
+Quoted
+2.6
+Ethylene analyser
+Tag No : 021AT121014
+Service: ETHYLENE ANALR INLET
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1, IIC, T3
+Mounting Location: Inside AH2
+Measuring range: 0 – 10 %
+Cell Material: Hastelloy
+Sample Phase: Vapour
+1 No
+Quoted
+Process Conditions
+-
+Supply Pressure (Operating): 2.37kg/cm2g
+-
+Temperature (Operating): 48°C
+-
+Sample return Pressure: 0.975 Kg/cm2g
+-
+Sample return Temperature: 42°C
+Sample Return Details:
+-
+Analyser spend sample & Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+2.6a
+Sample Probe
+Notes: Common tapping with 021AT121011
+Common Probe
+2.6b
+Sample Transportation Tube:
+Notes: Common sample transportation line with 021AT121011
+Common Tubing
+2.6c
+Common SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+Sample line shall be Tee off after fastloop filter of
+021AT121011
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.6d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+2.6e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range
+1 Each
+Quoted
+2.7
+CO2/CO Analyser
+Tag No : 021AT121013
+Service: CO2/CO INLET
+Make: Siemens
+Model: Ultramat 6F
+Hazardous Area Classification: Zone 1, IIC, T3
+Mounting Location: Inside AH2
+Sample Phase: Vapour
+Process Conditions
+-
+Supply Pressure (Operating): 2.37kg/cm2g
+-
+Temperature (Operating): 48°C
+-
+Sample return Pressure: 0.975 Kg/cm2g
+-
+Sample return Temperature: 42°C
+Sample Return Details:
+-
+Analyser spend sample & Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+2.7a
+Sample Probe
+Notes: Common tapping with 021AT121012
+Common Probe
+2.7b
+Sample Transportation Tube:
+Notes: Common sample transportation line with 021AT121012
+Common Tube
+2.7c
+Common SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+Sample line shall be Tee off after fastloop filter of
+021AT121012
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.7d
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range
+1 Each
+Quoted
+2.8
+HC Analyser (4 Stream GC)
+Tag No: 021AT151013
+Service1: HC analyser in condensate pump
+Service2: HC analyser at VCM stripper reboiler outlet
+Service3: HC analyser at HCl column reboiler condensate
+Service4: HC analyser at blowdown water
+MODEL: Maxum ll
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, IIB+H2, T3
+Type: FID Detector
+Mounting Location: Inside AH2
+Streams: 4
+Sample Return Details:
+-
+Ana vent return to ATM vent header with flame arrestor/Flare
+header
+-
+Condensate return to Drain header from HC Stripper.
+-
+Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Special Note: Analyser & SHS components wetted part MOC shall be
+SS316L
+1 No
+Quoted
+2.8a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+4 Nos
+Quoted
+2.8b
+Sample Transportation tube:
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 1
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 2
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 3
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 4
+1 No
+Quoted
+-
+1⁄4’’ SS316L PVC coated Tube, Qty: 300 meters (From
+stripper to GC) for stream 1
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 180 meters (From
+stripper to GC) for stream 2
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 180 meters (From
+stripper to GC) for stream 3
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 205 meters (From
+stripper to GC) for stream 4
+2.8c
+Integration and supply of SHS System:
+-
+With HC stripper near Primary
+4 Sets
+Quoted
+2.8d
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.8e
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Auto changeover regulators with Skid with canopy
+1 Each
+Quoted
+2.9
+HC Analyser – (6 Stream GC)
+Tag No: 021AT001007
+Service: CWR return line BL
+MODEL: Maxum ll
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, IIB+H2, T3
+Type: FID
+Mounting Location: Inside AH2
+Streams: 6
+Sample Return Details:
+-
+Ana vent return to ATM vent header with flame arrestor/Flare
+header
+-
+Condensate return to Drain header from HC Stripper.
+-
+Fastloop return to GWW header
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+Special Note: Analyser & SHS components wetted part MOC shall be
+SS316L
+2.9a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+6 Nos
+Quoted
+2.9b
+Sample Transportation tube:
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 1
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 2
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 3
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 4
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 5
+-
+1⁄2’’ SS316L PVC coated Tube Qty: 10 meters (From tapping
+to stripper) for stream 6
+-
+1⁄4’’ SS316L PVC coated Tube, Qty: 205 meters (From
+stripper to GC) for stream 1
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 180 meters (From
+stripper to GC) for stream 2
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 250 meters (From
+stripper to GC) for stream 3
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 300 meters (From
+stripper to GC) for stream 4
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 250 meters (From
+stripper to GC) for stream 5
+-
+1⁄4’’ SS316L PVC coated Tube , Qty: 250 meters (From
+stripper to GC) for stream 6
+1 No
+Quoted
+2.9c
+Integration and supply of SHS System:
+-
+With HC stripper near Primary
+6 Sets
+Quoted
+2.9d
+SHS system
+-
+Sample handling System shall be inline with licensor scheme
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No
+Quoted
+2.9e
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Auto changeover regulators with Skid with canopy
+1 Each
+Quoted
+DETAILED OFFER OF ANALYSERS MOUNTED INSIDE
+ANALYSER HOUSE 3
+ANALYSER SHELTER – AH-3 & Analyzers
+3
+Analyzer Shelter (Analyzer Room)
+Tag no: AH-3
+Make: ADAGE
+Area Classification: Zone 1 IIC (Inside shelter)
+Zone 2 IIC (Outside shelter)
+Shelter construction
+-
+Dimensions- 7 Mtr X 3 Mtr X 3 Mtr
+-
+Design-Ribbed interlock
+-
+Internal MOC- SS316 with Type 20 coating
+-
+External MOC: SS316 with Type 20 coating
+-
+2 mm Thick Internal Wall & 2 mm Thick Outer Wall.
+-
+100 mm Insulation of Mineral Wool
+-
+Overhang Roof Canopy-1 Meter in all four sides,
+MOC: SS316 with Type 20 coating, 2 mm thick.
+-
+Base frame: ISMC 150
+-
+Panic Bar Installed on Each Door.
+-
+Floor: Anti-Slip and Non-Corrosive Aluminum Chequered
+Plate.
+-
+Doors: Main Door and Emergency Door with double glazed
+viewing windows with shatterproof Safety Glass Window
+-
+Louvers with bird screen
+-
+Lifting lugs
+-
+Switch sockets x 2Nos each (110 & 230 VAC)
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+SS316 tag plates
+-
+Cable Entry to Shelter: Through MCT Block (Separate for
+power & signal)
+-
+Tube Entry to Shelter: Gromet/ bulkhead, MOC: SS316
+-
+FRP Cable Trays
+-
+Portable CO2 Fire extinguisher – 2 no near each door
+Special Note:
+AH GAD is provided considering Spare space for analysers & SHS.
+AH shall be designed to meet RPMS specifications with required free
+space.
+1 Nos
+Quoted
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure 1
+-
+Junction Box’s Moc: GRP/FRP, Exe
+-
+Power Distribution Box & Warning Panels, Exd LM6 with
+standard paint
+-
+Redundant PLC & Power supply
+-
+Communication module, CPU & I/O cards shall be Non
+redundant
+-
+Shelter Safeguarding PLC Mounted Inside CRCA Purged
+Enclosure.
+Misc items:
+-
+Eye Wash & Wash Basin.
+-
+Document storage desk
+-
+Telephone(as per tkIS comment)
+-
+work bench
+-
+FRP ladder
+Communication Hardware at Shelter Side for each shelter:
+-
+RS 485 to Ethernet converter x 2 No
+-
+Ethernet to FO Convertors x 2 No (redundant)(Ethernet
+switch is with FOC ports)
+-
+Patch Panel (1 No), Patch cords (1 lot)
+Auto changeover system for carrier gas (4+4 cylinder) with Skid
+with all other accessories x 2 Nos.
+3.a
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: Epoxy Coated SS316
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC With Automatic Changeover & single
+blower
+-
+With internal duct
+-
+Capacity – 5 Tr (Size to be considered based on 12 Air
+volume change)
+-
+Air changes shall be 12 per hour
+-
+Fresh Air Duct with Rain cap and bird Mesh: 9 Meters above
+shelter, MOC: Hot dipped galvanized steel with type 20
+coating
+1 No
+Quoted
+Fresh air ducting inside AH is included.
+3.b
+Chemical filter (Optionally Quoted as per TQ requirement)
+1 No
+Optionally
+Quoted
+3.c
+Liquid Recovery system, PTFE lined & other components as
+PTFE lined/Hastelloy, 100 Ltr capacity and redundant Pump
+(Hastelloy/PTFE lined) configuration
+1 No
+Quoted
+ANNEXURE -1
+DETAILED BOQ FOR SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector
+4
+Toxic Detector
+4
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Diff pressure transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB. Rack for PDBs & warning Panel.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+1
+3 Way Beacon
+3
+2 Way Beacon
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, , double compression type certified flame proof cables glands & plugs, Utility
+Headers with Air filter & Other Accessories as per MR
+1 LOT
+S.N.
+Item Description
+Qty.
+Price (INR)
+3.1
+Moisture Analyser
+Tag No: 021AT131007
+Service: MOIST ANALR EDC COLUMN REFLUX PUMP
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH3
+Measuring range: 0 - 50 ppm
+Cell Material: Hastelloy
+Sample Phase: Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 10.2 Kg/cm2g
+-
+Temperature (Operating): 127°C
+-
+Sample return Pressure: 2.47-3.59 Kg/cm2g
+-
+Sample return Temperature: 137.3-147°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P131004B
+(Return piping by TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1 No
+Quoted
+3.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+2 Nos
+Quoted
+3.1b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 190Meters
+-
+1’’ pipe (Common) for fast loop return (190 Meters by RIL)
+1 Lot
+Quoted
+3.1c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+3.1d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+3.1e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+3.2
+Moisture Analyser
+Tag No: 021AT131015
+Service: MOIST ANALR
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH3
+Measuring range: 0 - 50 ppm
+Cell Material: Hastelloy
+Sample Phase: Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 3.47 Kg/cm2g
+-
+Temperature (Operating): 50°C
+-
+Sample return Pressure: 2.47-3.59 Kg/cm2g
+-
+Sample return Temperature: 127-147°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P131004A
+(Return piping by TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+3.2a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+2 Nos
+Quoted
+3.2b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 170 Meters
+-
+1’’ pipe (Common) for fast loop return (190 Meters by RIL)
+1 Lot
+Quoted
+3.2c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+3.2d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+3.2e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+3.3
+Moisture Analyser
+Tag No: 021AT131006
+Service: MOIST ANALR HEADS COLUMNS BOTTOMS PUMP
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside AH3
+Measuring range: 0 - 50 ppm
+Cell Material: Hastelloy
+Phase : Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 10.97 Kg/cm2g
+-
+Temperature (Operating): 100°C
+-
+Sample return Pressure: 0.67-0.99 Kg/cm2g
+-
+Sample return Temperature: 100-125°C
+1 No
+Quoted
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P131006A
+(Return piping by TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+3.3a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+-
+2 Nos
+Quoted
+3.3b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP insulated tube for supply, 165 Meters
+-
+1’’ pipe (Common) for fast loop return (165 Meters by RIL)
+1 Lot
+Quoted
+3.3c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+3.3d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+3.3e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+3.4
+Moisture Analyser
+Tag No: 021AT131008
+Service: MOIST ANALR VACUUM COLUMN REFLUX PUMP
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside Shelter
+Measuring range: 0 - 50 ppm
+Cell Material: Hastelloy
+Phase : Liquid
+Process Conditions
+-
+Supply Pressure (Operating): 9.71 Kg/cm2g
+-
+Temperature (Operating): 38°C
+-
+Sample return Pressure: -0.82-4.1 Kg/cm2g
+-
+Sample return Temperature: 38-46°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P131009A
+(Return piping by TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+1 No
+Quoted
+3.4a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+1 No
+Quoted
+3.4b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP tube for supply, 240 Meters
+-
+1’’ pipe (Common) for fast loop return (240 Meters by RIL)
+1 Lot
+Quoted
+3.4c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+3.4d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+3.4e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+3.5
+Moisture Analyser
+Tag No: 021AT131014
+Service: DEWATERING COLUMN BOTTOM PUMP
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted
+inside Zone 1 IIC certified purged enclosure
+MAKE: SERVOMEX
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside Shelter
+Measuring range: 0 - 50 ppm
+Cell Material: Hastelloy
+Process Conditions
+-
+Supply Pressure (Operating): 10.9 Kg/cm2g
+-
+Temperature (Operating): 104°C
+-
+Sample return Pressure: 0.85-1.19 Kg/cm2g
+-
+Sample return Temperature: 103.5-125°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P131009A
+(Return piping by TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+Special note: Analyser & all other component MOC shall be
+Hastelloy.
+3.5a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+-
+1 No
+Quoted
+3.5b
+Sample Transportation Line
+-
+1/2’’ Hastelloy EP tube for supply, 120 Meters
+-
+1’’ pipe (Common) for fast loop return (120 Meters by RIL)
+1 Lot
+Quoted
+3.5c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Liquid recovery system is considered
+1 No
+Quoted
+3.5d
+SS316 Enclosure with purge controller, Make : P&F for Ethylene
+analyser (GAD attached)
+1 No
+Quoted
+3.5e
+Calibration cylinders (Zero & Span) with double stage cylinder
+pressure regulators, 10 Ltr WC
+Zero gas: 100% Grade 5 N2
+Span Gas: 60-80% of the range as Surrogate
+1 Each
+Quoted
+3.6
+Gas Chromatograph for VCM and EDC monitoring in Ambient air
+Tag Nos. : 031AT700001
+Service: Ambient Air
+Sample Phase: Gas
+Model: Valmet
+Make: Siemens AG, Germany
+Hazardous Area Classification: Zone 1 IIB+H2 T3
+Mounting Location: Inside Analyzer shelter
+Streams: 20 streams
+Process Conditions at Sample inlet
+-
+Supply Pressure (Operating/Design): Ambient
+-
+Temperature (Operating/Design): Ambient
+GC Outputs:
+-
+Common 4-20 mA Analog output.
+-
+RS-485 / Ethernet Modbus Serial Output
+-
+Potential free contacts for fault & other alarms
+1 No
+Quoted
+Special note: Analyser MOC shall be Hastelloy and all other SHS
+component MOC shall be Hastelloy.
+3.6a
+Rain protection hood near probe
+20 Nos
+Quoted
+3.6b
+Field tubing
+By RIL
+By RIL
+3.6c
+SHS Shall be as per licensor scheme. However, modular AOVs in
+place of SOV, redundant suction and discharge pump to be
+considered.
+The SHS shall be suitable for 20 streams
+1 No
+Quoted
+3.6d
+With calibration cylinder, 10Ltr WC (Common for all streams) with
+pressure regulators.
+1 No
+Quoted
+Cl2 Handling
+S.N.
+Item Description
+Qty.
+Price (INR)
+4.1
+HCL Analyser
+Tag No:021AT151015
+Service: Flue gases from MV-PV021-C151004
+MODEL: GasEye
+MAKE: AirOptics
+Hazardous Area Classification: Zone 1 llC T3, Ex’p’
+Mounting Location: Insitu
+Measuring range: 0 – 30 Mg/Nm3
+Special cable as applicable shall be considered by Adage
+It’s a non contact measurement However Process flange
+4’’ 300# shall be SS with PTFE coated
+Process Conditions
+-
+Supply Pressure (Operating/Max/Design): 1.03/1.33/3.5
+Kg/cm2g
+-
+Temperature (Operating/Max/Design): 88/100/120°C
+-
+Sample return Pressure: ATM
+With Alignment kit (common for all 3 tags)
+With External TT & PT for compensation with cables in Adage scope
+JB’s, PDB’s as required shall be considered by Adage.
+Details:
+-
+All Field power and signal cables shall be in customer’s scope of
+supply
+-
+N2 @4-6 Kg/cm2g shall be provided by customer at process
+tapping point
+-
+Serial cable from HCL analyser at stack till analyser Shelter shall be
+provided by RIL, further communication from Shelter end using
+necessary converters by Adage.
+-
+With isolation flange and valve
+-
+All interconnecting cables shall be in Adage scope
+-
+TDLS Analyser is factory calibrated, calibration is automatically
+done using internal reference cell.
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+Modbus RTU (RS-485)
+Special note: Flange shall be Hastelloy, All others SHS
+components required for purging shall be SS316L.
+1 Set
+Quoted
+4.2
+Dew Point Analyser
+Tag No: 023AT241005
+Service1: HP NITROGEN TO NITROGEN BUFFER VESSEL
+MODEL: EasiDew Pro XP (With integral display)
+MAKE: Mitchell
+Hazardous Area Classification: Zone 1, IIC, T3
+Type: AL2O3
+Mounting Location: Field Rack with canopy arrangement
+Process Conditions
+-
+Supply Pressure (Operating): 25-28 Kg/cm2g
+-
+Temperature (Operating): 45°C
+-
+Sample/Fastloop return: ATM vent header with Flame arrestor
+Special note: Analyser & SHS component wetted part shall be
+SS316L
+1 Set
+Quoted
+4.1a
+Sample Probe:
+-
+Fixed probe with welded isolation valve
+-
+1.5’’ 300# RF Flange
+-
+MOC: SS316L
+1 Set
+Quoted
+4.1b
+Sample Transportation Line
+-
+1⁄4’’ SS316 EP HTT Tube, Qty: 50 meters
+1 Set
+Quoted
+4.1c
+Secondary Sample Handling system
+-
+ball valve, Stream Switching valve, Pressure indicator, with
+redundant Fast loop filter, Bypass rotameter, Sample
+Rotameter, Air operated valve, NRV, SRV, fine filter, etc
+-
+Shall be mounted inside SS316L enclosure outside Analyser
+house.
+1 Set
+Quoted
+5
+Network Switches and convertors at Control Room end
+-
+With Network switch and Media Convertors
+-
+With Laptop Loaded with GCP software
+1Set
+Quoted
+6
+Startup & Commissioning spares
+1 No
+Quoted
+7
+Mandatory spares (As RPMS MR philosophy)
+1 No
+Quoted
+8
+2 Years O&M spares
+1 No
+Optionally
+Quoted
+9
+Supervision of installation & commissioning
+Per
+Manday
+Quoted
+10
+Packing & Forwarding charges
+1 No
+Quoted
+11
+Transportation up to Site charges
+1 No
+Quoted
+12
+Project documentation
+1 No
+Quoted
+13
+FAT at Goa works
+1 No
+Quoted
+13.1
+FAT at OEM works
+1 No
+Optionally
+Quoted
+14
+Training at Goa works
+2 days
+Per Man
+day
+Quoted
+OPTIONAL QUOTE
+1
+Vent Recovery skid (All wetted parts shall be Hastelloy)
+1 No
+Quoted
+2
+Liquid Recovery system, PTFE lined & other components as PTFE
+lined/Hastelloy, 100 Ltr capacity and redundant Pump
+(Hastelloy/PTFE lined) configuration
+Unit Rates for Addition / Deletion Purpose
+1
+Chemical filter
+1 No
+Quoted
+2
+ATS with required accessories for redundant UPS in shelter
+1 No
+Quoted
+4
+1/2’’ Hastelloy EP insulated tube
+Per Mtr Quoted
+5
+1⁄4’’ Hastelloy HTT insulated tube
+Per Mtr Quoted
+SECTION 3: LIST OF ATTACHMENTS
+1. ANN1-Technical offer Checklist
+2. ANN2- SOW compliance
+3. ANN3- Exclusion & Deviation
+4. ANN4- List of Analysers
+5. ANN5-Bid offer format compliance
+6. ANN6-TQ2 treply by Adage
+7. ANN7-TDLS Cell ref Procedure
+8. ANN8-PESO of analysers
+9. ANN9-Spare List
+10. ANN10-Licensor Schematic
+11. ANN11-GAD
+12. ANN12-Utility List
+13. ANN13-Catalogues
+14. ANN14-Lag Time
+15. ANN15-Analyser parameter sheet (TBE sheet)
+16. ANN16-ITP for Process Analyser
+17. ANN17-Signed & Stamped Datasheets
+18. ANN18-PTR for TDLS & Moisture (Mitchell) Analyser

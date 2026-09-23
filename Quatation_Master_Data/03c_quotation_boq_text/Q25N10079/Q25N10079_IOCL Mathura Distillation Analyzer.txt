@@ -1,0 +1,117 @@
+Quotation Number: Q25N10079
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+DISTILLATION ANALYSER SYSTEM
+Test Method: ASTM D-86
+Make: Icon Scientific
+Analyser Measuring Range: 0-430 Deg C
+Hazardous Area: Zone 1 llB+H2 T4
+Power Supply: 110VAC, 50 Hz UPS, 1000 VA
+IP rating: IP66
+Analyzer mounting Location: Inside Analyzer cabinet with Ex
+proof AC
+Process condition at Sample:
+-
+Temperature Op (Min/Nor/Max): 30/45/65 Deg C
+-
+Pressure Op (Min/Nor/Max): 4/4.5/5.5 Kg/cm2g
+Process condition at Sample return:
+-
+Pressure (Min/Nor/Max): 4/4.5/5.5 Kg/cm2g
+Analyser Output:
+-
+4-20mA analog output for pour point
+-
+MODBUS RTU /OPC over RS485 or Ethernet TCP/IP.
+-
+Digital outputs
+Utility Requirement:
+-
+110VAC 50Hz UPS power supply
+-
+415/230 VAC 50Hz Non UPS power supply
+Note:
+1. Adage shall provide serial output till communication JB
+at analyzer cabinet end, further distribution shall be taken
+care by IOCL.
+2. Distillation cycle times is typically 15-20 minutes
+depending on temp difference between IBP to FBP. IOCL
+to provide IBP and FBP values.
+1 No
+Quoted
+1.1
+Sample Probe
+-
+Fixed type probe with welded isolation valve
+1 No
+Quoted
+1.2
+Sample transportation tube for Supply:
+-
+3⁄4’’ SS316 Line, Qty: 30 meters
+1 Lot
+Quoted
+Sample transportation tube for Return:
+-
+3⁄4’’ SS316 Line, Qty: 50 meters
+1.3
+Primary sample handing system:
+-
+Not required
+Secondary Sample handling system:
+-
+Secondary SHS: Mounted Outside analyser cabinet inside
+SS304 enclosure.
+-
+Analyzer shall be calibrated/validated using process sample.
+-
+With Fast Loop rotameter, redundant filter configuration,
+pressure reduction system & filtration system. -1 Nos
+1 Lot
+Quoted
+1.4
+Analyser Cabinet
+-
+Analyser Cabinet, 1800 W x 800 D x 2100 H in mm, MOC:
+SS304, 2 mm thick
+-
+IP65 Rated
+-
+With Ex proof Air conditioning unit suitable for Zone 1 llC T3
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+-
+Headers and other required accessories
+Remarks:
+-
+All Electrical Components shall be ATEX/CCOE Certified.
+-
+All makes shall be as per IOCL approved Vendor List
+1 No
+Quoted
+1.5
+Fast loop pumps in redundant configuration with other
+accessories
+1 No
+Quoted
+1.6
+With 20 Liter validation system
+1 No
+Quoted
+2
+Startup and Commissioning Spares
+1. Sight Glass Receiver Meniscus
+2. Fuse 5A Anti Surge 5 x 20mm
+3. Fuse 1A Anti Surge 5 x 20mm
+4. Fuse 3.15A Anti Surge 5 x 20mm
+5. Fuse 10A Anti Surge 5 x 20mm
+6. Fuse 2.5A Anti Surge 5 x 20mm
+7. Oil Silicone 350cPs 100ml
+1 Lot
+Inclusive

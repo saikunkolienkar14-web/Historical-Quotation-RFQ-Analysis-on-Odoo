@@ -1,0 +1,1058 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please 
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which 
+includes analysers as per your requirement. 
+
+ADAGE QUOTE REF: 
+Q24W10122R1 DATED : 12.11.2024 
+BID TYPE : Firm 
+PROJECT TITLE: 
+EDC CEMS RIL DMD 
+INQUIRY DETAILS: 
+Enquiry received via REIMS portal 
+JT-G23P03-D1GPD-JN0043-TIN-Q-00 
+CUSTOMER: 
+
+Kind Attention : Mr Vaibhav Apte 
+Reliance Industries Limited, DMD 
+
+END USER: 
+
+Reliance Industries Limited, DMD 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Summary Of Prices 
+SECTION-2: Technical Literature 
+SECTION-3: Scope Defination 
+
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr Tejas Rivonkar 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9284270984 
+tejas@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+This is in context to your requirement of for Gas analysis System & We Thank you for the same. 
+ 
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical 
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring & 
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc 
+ 
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern 
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have 
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership 
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60% 
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to 
+over 40 countries in Africa, Mid East, Far East and South America. 
+ 
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint 
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our 
+State of the art factory with its highly sophisticated infrastructure is second to none in India. 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+ SECTION 1: SUMMARY OF PRICES 
+
+Sr. No. 
+Item Description 
+Qty 
+Unit price (INR) 
+Total Price (INR) 
+1 
+SOx, NOx, CO, Chlorine Analyser 
+2 Sets 
+Quoted 
+Quoted 
+2 
+HCL, Moisture Analyser 
+2 Sets 
+Quoted 
+Quoted 
+3 
+SPM Analyser 
+2 Sets 
+Quoted 
+Quoted 
+4 
+Network Architecture 
+1 No 
+Quoted 
+Quoted 
+5 
+Project Documentation 
+1 No 
+Quoted 
+Quoted 
+6 
+FAT at Adage Factory 
+Shall be provided by OEM trained Adage 
+Engineers 
+1 No 
+Quoted 
+Quoted 
+7 
+Commissioning spares 
+- 
+Set of filter 
+- 
+Set of O ring 
+- 
+Set of Fuses 
+1 No 
+Quoted 
+Quoted 
+8 
+Packing, forwading & transportation 
+upto Site charges 
+1 No 
+Quoted 
+Quoted 
+9 
+Supervision of installation & 
+commissioning 
+60 Man days as per MR requirement 
+Per 
+diem 
+Quoted 
+Quoted 
+10 
+Special tools and tackles 
+Not applicable 
+0 No 
+Not Quoted 
+Not Quoted 
+11 
+Training at Site 
+For 5 days 
+Per 
+Diem 
+Quoted 
+Quoted 
+12 
+2 Years O&M spares (As per Adage 
+Recommendation) 
+1 No 
+Quoted 
+Quoted 
+
+ 
+
+ 
+
+Temperature Transmitter, Temperature element, thermowell as per MRQ requirements to be considered in bidders scope of supply
+Adage Reply : Noted and confirmed
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 2 : ANALYSER DETAILS/ASSUMPTIONS 
+
+We have Quoted below Analysers for EDC CEMS project 
+ 
+A. HCl/Moisture Analyser 
+a. Make: Siemens, Model: LDS6 (Extractive type) 
+b. Sensor unit is Ex’d‘ certified for Zone 2 llC T3 & Control unit shall be mounted inside purged enclosure 
+certified for Zone 2 llC T3. 
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each 
+measuring component. This also has digital outputs for customer configuration. 
+
+ 
+B. Cl2(Chlorine) Analyser 
+a. Make: Ametek, Model: 9900 
+b. Analyser shall be mounted inside purged enclosure certified for Zone 2 llC T3 
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for 
+measuring component. This also has digital outputs for customer configuration. 
+
+ 
+ 
+We understand simultaneous output is 
+configured and required accessories and 
+cables for each inputs are considered.
+As per MRQ all analysers shall be certified 
+for installation in Zone-2, IIC, T3 min, 
+bidder to clarify why safe area analyser 
+with purging system considered instead of 
+inherent hazardous area certified analyser 
+Bidder to confirm selected solution for Cl2 
+measurement with offered extractive 
+technique is suitable for given service and 
+trace Cl2 measurement.
+Adage reply: confirmed
+1.Quoted 9900 analyser also has a 
+certified version rated for Zone 2 llC
+T3. Peso shall be provided post order 
+during detailed Engineering.
+2. Noted and confirmed
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+C. SPM Analyser 
+a. Make: Durag, Model: Dr 320 Ex 
+b. SPM shall be Ex’p‘ certified for Zone 2 llC T3 
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each 
+measuring component. This also has digital outputs for customer configuration. 
+
+D. SO2,NO,CO Analyser 
+d. Make: Siemens, Model: Ultramat 6F 
+e. Ultramat 6F shall be Ex’p‘ certified for Zone 2 llC T3 
+f. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each 
+measuring component. This also has digital outputs for customer configuration. 
+
+2. Hazardous area classification is mentioned as Zone 2 llC T3 in ‘‘Sr no 4 of datasheet‘‘ for Analysers, 
+SHS & Probe. However in ‘‘Sr no 10 of datasheet‘‘ hazardous area is mentioned as Zone 1 llC T3. We 
+understand that Hazardous area to be considered for all analysers and other electrical equipments for 
+this CEMS package as Zone 2 llC T3. 
+ 
+3. Calibration gas cylinder shall be supplied for 1 year operation from the date of commissioning. Further 
+refilling shall be taken care by customer. 
+ 
+Bidder to clarify selection of back 
+scattering technology for given application 
+(measurement range, stack dia and 
+process condition). Bidder to select most 
+suitable scattered technology for specified 
+service.
+Vendor to clarify Ultramat 6F is configured 
+for simultaneous measurement 
+Noted
+6 Months
+calibration gas shall be deferred delivered 
+at site 1 month prior to commissioning 
+Noted and the same is working 
+satisfactory in similar application & 
+back scattering is non contact type 
+measurement which is suitable in 
+corrosive atmoshphere.
+Confirmed
+Confirmed
+Confirmed
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+4. All field power and signal cables shall be in RIL scope of supply, However any special cables required 
+between sensor unit & controller unit shall be considered by Adage. 
+ 
+5. For PM Analyser power cable upto stack shall be in RIL scope of supply 
+ 
+6. Supply of Instrument air @5-7 Kg/cm2 at stack for SPM/ blowback unit and at field cabinet shall be in 
+RIL scope of supply. 
+ 
+7. Supporting structure, Trays, clamps and other accessories for laying of all signal, power and 
+ communication cables and field tubing’s including EHT bundles shall be taken care by 
+ RIL. 
+ 
+8. We shall provide Modbus serial output multidropped using necessary converters at both ends with DAS 
+PC along with CPCB/SPCB connectivity software. FO cable shall be in customer’s scope of supply. 
+ 
+9. Since the analysers for both the Flue gas stacks are similar, we have considered 2 sets of analsers each 
+set for each flue gas stack. 
+ 
+10. SHS and other accessories makes shall be as per RIL AVL. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+tkUIPL will provide single point tie-in for 
+UPS and NON-UPS (near analyser 
+cabinet) further distribution is in bidders 
+scope of supply.
+Utility details are provided as part of MRQ, 
+bidder to consider additional conditioning 
+components to suite utility requirement to 
+analyser.
+tkUIPL will provide single point utility tie-in 
+connection near analyser panel, further 
+distribution to all analysers and its 
+ancillaries shall be considered and supplied 
+by bidder
+Support details if any to be provided by 
+bidder
+Communication cable shall be in bidder's 
+scope of supply as per MRQ
+Noted
+Noted
+Shall be provided during detailed 
+Engineering and site survey
+Network architecture is attached 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 2: TECHNICAL LITERATURE 
+ 
+1 
+FLUE GAS STACK 1 & STACK 2 
+ 
+CO/NO Analyser 
+Tag No: 121AT161001 / 121AT161002 
+Make: Siemens 
+Model : Ultramat 6F 
+Measuring range - CO : 0-50 Mg/nm3 
+ NO : 0-250 Mg/nm3 
+ 
+SO2 Analyser 
+Tag No: 121AT161001 / 121AT161002 
+Make: Siemens 
+Model : Ultramat 6F 
+Measuring range – SO2 : 0-50 Mg/nm3 
+ 
+Chlorine Analyser 
+Tag No: 121AT16105/121AT16103 
+Make: Ametek / Hemera 
+Model : 9900 
+Measuring range – SO2 : 0-20 Mg/nm3 
+Principle: NDUV 
+IP Rating: IP65 
+ 
+Hazardous area classification: Zone 2 llC T3 
+Mounting location : Shall be mounted inside common 
+Cabinet with AC 
+ 
+Process Conditions 
+- 
+Operating Temperature(Op/Design) : 62/110 Deg C 
+- 
+Operating Pressure(Op/Design): 0.001/0.0025 Kg/cm2g 
+ 
+Analyser Output 
+- 
+4-20Ma Analog output for each measuring component i.e 
+SO2,NO,CO,CL2 
+- 
+RS485 Modbus serial output 
+- 
+Digital contacts for fault alarms 
+ 
+2 Sets 
+Quoted 
+1.2 
+Common Sample Probe (SO2,NO,CO,Cl2) : 
+- 
+Heated probe assembly, MOC: PTFE, 4’’ 150# PTFE 
+coated flanged type 
+ 
+2 No 
+ 
+Quoted 
+FF facing to be ensured
+Cl2
+General Comments:
+All Wetted part of all offered analysers to 
+be specified and it shall be bidders 
+responsibility to ensure selected MOC is 
+suitable for given process fluid and 
+conditions
+We understand 9900 is safe area analyser 
+and will be mounted inside purge enclosure 
+as per page 4 of 12 of this document. 
+Bidder to clarify whether the whole cabinet 
+will be purged ?? or separate purge 
+enclosure is considered for 9900 analyser?
+AC unit shall be suitable for installation in 
+Zone-2, IIC, T3 min
+Bidder to confirm selected solution for Cl2 
+measurement with offered extractive 
+technique is suitable for given service and 
+trace Cl2 measurement and whether 
+selected technology is inline with CPCB 
+requirements
+Is NOx converter used for measuring NOx 
+value?
+The CEMS system sample probe must be 
+located inside the stack such that its tip lies 
+between 30% and 45% of the stack 
+diameter
+1. Process connection as per individual datasheet to be ensured, if required bidder to consider adapter to suite stack nozzle size, rating and type.
+2. Detail model number with de-codification to be provided along with the bid.
+3. Bidder to specify any inclination required for installation of sample probe based on OEM's recommendation and preferably submit nozzle detail drawing.
+4. Bidder to ensure selected technology is suitable for given process condition and application, also the same shall be inline with CPCB requirements, bidder to also 
+ensure the system be designed for minimum down time and robust.
+5. All cables shall be armoured type, in case of unarmoured cable, suitable metallic conduit to be considered by bidder.
+6. All analysers shall have remote calibration with for Auto / Manual feature and bidder to consider calibration / validation kit for all analysers as per MRQ requirements
+7. Cable glands and blind plugs shall be of Nickel/Cr plated brass and same shall be in bidders scope of supply.
+8. All the hardware (inside analyser cabinet and control room) till Main Control room to establish communication with CPCB shall be in bidder's scope of supply. 
+9. Bidder to consider any other parameter required to be monitored (apart from listed in MRQ/datasheet) based on guideline indicated by central / state pollution control 
+boards
+10. Panel inside / outside color shall be RAL No. 7032 whereas panel plinth color shall be RAL 7022
+11. Each Monitoring parameter shall have dedicated Analyzer. No multi stream/Multi stack analyses are allowed.
+Above points to be discussed and responded during 
+meeting.
+Confirmed
+NOx converter shall be considered.
+Noted and confirmed
+We have now quoted Zone 2 certified 
+analyser and hence purge controller is not
+require. PESO shall be provided post 
+order during detailed Engineering.
+Noted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+- 
+With Ceramic Filter 
+- 
+With Bushing Tube, Flanges & Mounting Accessories 
+ 
+1.3 
+Common Sample Transportation tube(SO2, NO, CO, Cl2): 
+- 
+¼’’ PTFE HTT Tube, Qty : Quoted per meter 
+- 
+With all necessary accessories and JB’S 
+ 
+Per meter 
+Quoted 
+1.4 
+Blowback unit 
+- 
+With Auto Cleaning of Probe Facility 
+- 
+With Solenoid Valve 
+- 
+Completely Tubed, Pre-Fabricated & Tested 
+ 
+2 No 
+Quoted 
+1.5 
+Common SHS : 
+- 
+Shall consists of Ball valves, Sample gas cooler with 
+peristatic pump assembly, Sample gas pump, SOV’s, 
+condensate monitor, NRV, Flowmeter, Fine filter, Nox 
+converter etc 
+- 
+CL2 analyser shall be mounted inside Purged enclosure 
+and same shall be further mounted inside common 
+analyser cabinet. 
+ 
+2 No 
+Quoted 
+1.6 
+Common Analyser Cabinet 
+- 
+2000(W) mm x 800(D) mm x 2100(H) mm, 3mm thick 
+cabinet with FRP canopy, IP65 rated 
+- 
+With Ex proof AC 
+- 
+With PLC mounted inside Exd JB 
+- 
+Purge controller 
+- 
+ASJB, DSJB, CSJB & PDB’s 
+- 
+Headers & other accesories 
+ 
+2 No 
+Quoted 
+1.7 
+Calibration cylinders: 
+- 
+Shall be supplied for 1 year operation from the date of 
+commissioning, further refilling shall be taken care by 
+customer 
+- 
+With individual 10L Span gas cylinder for SO2,NO,CO, 
+CL2 
+- 
+With 10L N2 zero gas cylinder 
+
+2 Sets 
+Quoted 
+General Comment:
+All sample handling components will be 
+reviewed during detail engineering and 
+bidder is required to follow all comments 
+given on sample schematic post 
+order.Bidder shall design sampling system 
+and select analyzer hardware for specified 
+application in order to ensure that there is 
+no adverse effect like acid corrosion etc. If 
+required, De-humidifier for knocking out of 
+moisture shall be considered as applicable 
+for specified application. Bare SS tube 
+wherever considered to be PVC coated
+Bidder to follow RPMS-ENGG-SPC-CI-013 
+clause "5.17. CEMS Local Panel 
+Specifications" without any deviation.
+Panel shall be provided with adequate 
+internal and external lighting (minimum 400 
+Lux). 
+Panel door shall be equipped with limit 
+switch which gives audible/visible alarms 
+on opening of the panel
+6 Months
+Sample cooler for sampling system should 
+be PVDF / glass or better suitable to 
+process conditions.
+MOC: CRCA plate with C5M coating, 
+however, thickness 
+of the panel / rack shall be increased 
+based on panel dimension as necessary, 
+min 3 mm, thick to be ensured
+separate PDB for UPS and NONUPS to be 
+considered. tkUIPL will provide single point 
+tie-in for UPS and NON-UPS (near 
+analyser cabinet) further distribution in 
+bidders scope of supply
+Sample handling systems should be placed 
+in a separate compartment isolated from 
+electrical & electronic components
+Make : Buhler /Balston
+Bidder shall be responsible for supplying all 
+peripheral equipment associated with 
+calibration gases, including all tubing, 
+regulators, fittings, valves, manifolds, 
+gauges, cylinder racks, low pressure 
+switches, installation hardware and PRVs 
+(as required), etc.
+The cylinder rack shall be installed outside 
+of the CEMS Panel with appropriate sun-
+shade and suitable locking arrangements.
+Confirme
+d
+Confirmed
+Confirme
+d
+Confirme
+d
+Confirme
+d
+Confirme
+d
+Shall be 
+complied
+Confirmed
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+2 
+HCL Analyser (INSITU TYPE) 
+ 
+Tag No : 121AT161010/121AT161012 
+Make: Siemens 
+Model : LDS 6 
+Hazardous area classification: Zone 2 llC T3 
+Mounting location: Insitu Type 
+Principle: TDLAS 
+ 
+With Hybrid cable – As required 
+With Loop cable – As required 
+With Central unit (Mounted inside purged enclosure) 
+ 
+Measuring range : 
+- 
+HLC: 0 - 40 Mg/nm3 
+ 
+Process Conditions 
+- 
+Operating Temperature(Op/Design) : 62/110 Deg C 
+- 
+Operating Pressure(Op/Design): 0.001/0.0025 Kg/cm2g 
+ 
+Analyser Output 
+- 
+4-20Ma Analog output for each measuring component 
+- 
+RS485 Modbus serial output 
+- 
+Digital contacts for fault alarms 
+ 
+2 Sets 
+Quoted 
+2.3 
+Sample handling system: 
+- 
+Utility plate consisting of AFR, Ball valves for 
+electronic/Process purging 
+- 
+With JB’s (ASJB, DSJB) 
+ 
+2 Sets 
+Quoted 
+3 
+SPM Analyser 
+ 
+Tag No: 121AT161006 / 121AT161007 
+Make: Durag 
+Model : Dr 320 Ex ll 
+Hazardous area classification: Zone 2 llC T3 
+Mounting location: Mounted directly on stack 
+Principle: Back scattering 
+IP Rating: IP65 rated 
+
+2 No 
+Quoted 
+Bidder to consider isokinetic sampling 
+and gravimetric calibration configuration 
+with required services.
+We understand this also has control / 
+display unit and bidder to clarify where the 
+same will be installed inside Analyser 
+cabinet ??
+Bidder to clarify selection of back 
+scattering technology for given application 
+(measurement range, stack dia and 
+process condition). Bidder to select most 
+suitable scattered technology for specified 
+service.
+Bidder to supply required mounting 
+accessories, alignment kit to ensure the in-
+situ pairs are installed and 
+aligned 180 deg apart, eliminating the 
+effects of vibration, swing / wind velocity, 
+thermal expansion / shock, heat radiants, 
+outdoor / climatic conditions etc.
+Bidder to consider isokinetic sampling and 
+gravimetric calibration configuration with 
+required services.
+Flow meters, SOV etc as required will be 
+reviewed in detail during detail engineering 
+H2O analyser details not provided, we 
+understand similar model number is offered 
+for H2O measurement, bidder to update 
+offer with inclusion of H2O analyser
+Process connection as per individual 
+datasheet to be ensured, if required bidder 
+to consider adapter to suite stack nozzle 
+size, rating and type.
+Process connection as per individual 
+datasheet to be ensured, if required bidder 
+to consider adapter to suite stack nozzle 
+size, rating and type.
+Bidder to clarify where the purge enclosure 
+kept, whether it is kept inside analyser 
+cabinet ??
+Noted and confirmed
+purge enclosure shall be 
+mounted inside common 
+Analyser cabinet.
+SOV's not require in utility 
+plate for HCL Analyser
+Confirmed
+Confirmed
+SPM values shall be displayed on Analyser
+cabinet HMI & Shall be Insitu type mounting 
+directly on stack
+Confirmed
+Noted and confirmed
+H2O analyser is not considered since 
+measurement is Hot dry and not Hot wet.
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Measuring range : 
+- 
+0-70 Mg/Nm3 
+ 
+Process Conditions 
+- 
+Operating Temperature(Op/Design) : 62/110 Deg C 
+- 
+Operating Pressure(Op/Design): 0.001/0.0025 Kg/cm2g 
+ 
+Analyser Output 
+- 
+4-20Ma Analog output 
+- 
+RS485 Modbus serial output 
+- 
+Digital contacts for fault alarms 
+ 
+3.1 
+With Utility Panel (SS Plate) 
+- 
+MOC of plate: SS304, 2mm Thick mounted on Stack 
+directly 
+- 
+Required Air filter Regulators, Ball Valves, Flow meter, 
+fittings and other accessories as required. 
+- 
+With 125 meters RS 485 serial cable from stack till 
+analyser cabinet. 
+ 
+2 Sets 
+Quoted 
+4 
+Temperature transmitter, make : Wika 
+ 
+2 No 
+Quoted 
+5 
+DATA AQUISION SYSTEM FOR CEMS 
+ 
+The DAS PC Shall have following Specifications and shall be 
+mounted inside Control Room 
+ 
+- Pentium i5, 2Ghz CPU or higher with at least 4GB RAM 
+- memory capacity 
+- 4 Hard Drives: 1 TB or greater. 
+- DVD Drive. 
+- Color Flat Panel Monitor, 21” Widescreen LCD. 
+- Ethernet connectivity to plant control network 
+- Colour Printer (A4 color) 
+ 
+Note: The Operating System shall be Raid 5 Server Based. 
+ 
+With Blind data Logger (As per Architecture svhematic 
+shared during prebid Query) 
+ 
+With Software for connectivity to CPCB/SPCB server. 
+
+1 No 
+Quoted 
+Bidder to refer to excel sheet provided via
+mail and consider temp element,
+transmitter and thermowell inline with
+requirements listed in that document
+Latest OS to be ensured by bidder and 
+server shall be RAID-5 or higher grade
+Bidder to comply to communication 
+architecture as per MRQ requirements, any 
+modification if required shall be reviewed 
+during detail engineering.
+Bidder to provide necessary assistance for 
+establishment of communication, transfer 
+of data to RIL Site Level CEEMS central 
+server.
+Bidder to ensure and comply to all 
+requirements listed under clause 
+5.25,5.26,5.27,5.28,5.29 of RPMS-ENGG-
+SPC-CI-013 
+Bidder to consider isokinetic sampling and 
+gravimetric calibration configuration with 
+required services.
+Confirmed
+Confirmed
+Noted
+Noted and confirmed
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Network hardware at cabinet side 
+- 
+RS 485 to ethernet converter 
+- 
+Ethernet to FO Converter 
+- 
+FO Patch panel, patch cords 
+ 
+Network hardware at Control room/DCS room 
+- 
+Network enclosure for mounting below components. 
+- 
+FO to ethernet converter 
+- 
+Patch panel, patch cords 
+- 
+Network firwall 
+- 
+Ethernet switch 
+ 
+Note 
+- 
+Supply of required FO Cables shall be taken care by 
+customer. 
+ 
+6 
+Project Documentation 
+1 No 
+Quoted 
+7 
+FAT at Adage Factory 
+- 
+Shall be provided by OEM trained Adage Engineers 
+1 No 
+Quoted 
+8 
+Commissioning spares 
+- 
+Set of filter 
+- 
+Set of O ring 
+- 
+Set of Fuses 
+1 No 
+Quoted 
+9 
+Packing, forwading & transportation upto Site charges 
+1 No 
+Quoted 
+10 
+Supervision of installation & commissioning 
+60 Man days as per MR requirement 
+Per diem 
+Quoted 
+11 
+Special tools and tackles 
+Not applicable 
+0 No 
+Not Quoted 
+12 
+Training at Site 
+For 5 days 
+Per Diem 
+Quoted 
+13 
+2 Years O&M spares (As per Adage Recommendation) 
+1 No 
+Quoted 
+
+ 
+Bidder as per MRQ requirements
+As per RPMS requirements to be ensured
+FAT at OEM's work and separate FAT at 
+integrator's work to be ensured.
+Bidder to specify / mention 2 Years O&M 
+spare 
+14. Bidder to list mandatory spare as per 
+OEM's recommendation
+15. Participation in post award meetings as 
+per Annexure-2
+Networking components shall not be 
+reviewed during bid stage, it shall be 
+bidders responsibility to ensure all 
+components as per MRQ requirements are 
+considered and network architecture shall 
+be reviewed during detail engineering and 
+bidder is required to modify architecture as 
+per observations made during post order
+Following items are in bidder's scope of supply
+1. Instrument Junction Boxes(Separate for Analog/Digital with IS/NIS segregation)
+2. Power Distribution Boxes (Separate for UPS and NON-UPS) & Intermediate Junction boxes as 
+applicable.
+3. AC unit for analyser cabinet
+4. Communication cable between Analyser cabinet to PIB/CCR in bidder scope of supply
+Noted
+Noted and confirmed
+Mandatory & 2 Years O&M spare
+list is attached as Annexure 3
+1-3 : Noted and confirmed
+All field cables shall be in customers scope
+Integrated FAT is considered at 
+Adage works
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 3: SCOPE DEFINITION 
+ 
+Utility Requirement 
+- 
+415 VAC 50Hz Non UPS Power supply for HTT, AC, Gas pump, Cooler etc 
+- 
+110 VAC 50Hz UPS Power supply for Analysers 
+- 
+Instrument air @5-7 Kg/cm2g 
+
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of 
+complete analyzer system for the following analyzers as per MR. 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyser system 
+• 
+Supply of spares and consumables as per MR requirements 
+• 
+Training at site as per MR requirements 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation of Analyz
+ers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, prefabricated electrical traced 
+tubes, baretubes, pipe, tube fittings betweensample take off and analyzer 
+shelter & sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication cables/field 
+tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery limit near each Analyzer Shelter in field. 
+Utility details are provided as part of MRQ, bidder to consider 
+additional conditioning components (filters, regulator, dryer etc) 
+to suit utility requirement to analyser system
+tkUIPL will provide single point tie-in for UPS and NON-UPS (near analyser 
+cabinet) further distribution in bidders scope of supply
+Intermediate JB's as required to be 
+considered by bidder
+All SOW listed in Annexure-2 are under 
+bidders scope of consideration
+Noted and confirmed
+Noted and confirmed
+Noted and confirmed
+Noted and confirmed

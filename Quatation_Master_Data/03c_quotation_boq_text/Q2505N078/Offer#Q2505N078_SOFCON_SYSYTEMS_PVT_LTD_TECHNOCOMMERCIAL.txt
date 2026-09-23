@@ -1,0 +1,130 @@
+Quotation Number: Q2505N078
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF H2S in CBG
+APPLICATION
+Model : INCA4001
+Make : Union Instruments Germany.
+Measuring Parameter : H2S
+Measuting range : 0 – 2000 PPM
+Accuracy : +/- 30 ppm (≤ 1000 ppm) +/- 3% MV2(> 1000
+ppm))
+Weight : Upto 30 Kgs
+Dimensions (WxHxD) [mm] : 745x630x220
+Degree of protection :IP20
+Storage temperature : -20 – 60 °C
+Relays : 3
+Dig. Interface : RS232
+With Sample handling system
+1 SET
+45,00,000
+45,00,000
+Note : As no process details are available we have considered following data. M/s. Sofcon Systems must verify the same
+and provide data accordingly if there is any change in the considered process details.
+Pocess details
+Sr.
+No.
+Description
+Line
+Size
+( NB )
+Fluid /
+Service
+Pressure bar(g)
+Temp. degC
+Flow m3/hr
+Max.
+Oper/Min.
+Max. Op./min
+Max.
+Oper/Min
+1
+Raw Biogas
+15
+RBG
+0.7
+0.6/0.1
+45
+35/30
+1855
+1687/590
+2
+Sweet Biogas
+15
+SBG
+0.35 0.15/0.05
+45
+35/30
+1742
+1584/480
+3
+Dry Gas
+15
+DBG
+8.5
+8/7
+45
+35/30
+1018
+926/280
+4
+Inlet Temperature to Analyser
+Unit
+35-40 deg C
+Range
+Sr.
+No.
+Description
+Composition
+Range
+Unit
+1
+Raw Biogas
+H2S
+0-50000
+ppm
+2
+Sweet
+Biogas
+H2S
+0-100
+ppm
+3
+Dry Gas
+H2S
+0-20
+ppm
+Moisture Content
+Sr. No.
+Description
+Moisture Content
+1
+Raw Biogas
+Saturated & content around 6.5 v/v% of moisture.
+2
+Sweet Biogas
+Saturated & content around 6.5 v/v% of moisture.
+3
+Dry Gas
+Around 5 mg/Nm3 of gas
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+TUBE SIZE: 1/2”
+WITH NECESSARY JB’s AND ACCESSORIES
+@3500 PER METER
+3
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+LODGING AND BOARDING TO BE ARRANGED BY THE CUSTOMER.TO AND
+FRO CHARGES TO BE CLAIMED AT ACTUALS (ACII TIER/FLIGHT)
+@30,000 PER MAN DAY

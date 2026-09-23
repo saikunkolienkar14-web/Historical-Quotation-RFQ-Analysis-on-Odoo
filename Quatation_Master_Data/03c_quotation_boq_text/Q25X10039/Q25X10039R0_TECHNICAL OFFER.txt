@@ -1,0 +1,424 @@
+Quotation Number: Q25X10039
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Price (INR)
+1.1
+Analyzer Shelter (Analyzer Room)
+Tag no: 20ANA001
+Make: ADAGE
+Area Classification for sample handling System room: Ex db
+IIC T1 Gb.
+Area Classification for Gas Storage and Analyzer room: Ex db
+IIC T1 Gc.
+-
+Dimensions(external)- 11.5 Mtr X 3 Mtr X 2.8 Mtr
+-
+Design-Ribbed interlock
+-
+Internal MOC- 1.5mm Carbon steel Epoxy white Painted
+-
+External MOC: 1.5mm Carbon steel Epoxy RAL 5012
+Painted
+-
+100 mm Insulation of Mineral Wool
+-
+Overhang Roof Canopy-1 Meter in all four sides,
+MOC: 1.5mm Carbon Steel Epoxy painted.
+-
+Base frame: ISMC 150
+-
+Panic Bar Installed on Each Door.
+-
+Floor: Anti-Slip and Non-Corrosive carbon steel painted
+Chequered Plate.
+-
+Doors: Door with double glazed viewing windows with
+shatterproof Safety Glass Window
+-
+Louvers with bird screen
+-
+Lifting lugs
+-
+Switch sockets x 1No each (230 VAC)
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+SS316 tag plates
+-
+Cable Entry to Shelter: Through MCT Block (Separate for
+power & signal)
+-
+Tube Entry to Shelter: Gromet/ bulkhead, MOC: SS316
+-
+FRP Cable Trays
+-
+Portable CO2 Fire extinguisher – 2 no near each door
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure 1
+-
+Junction Box’s Moc: GRP/FRP, Exe
+-
+Power Distribution Box & Warning Panels, Exd LM6 with
+standard paint
+1 Lot
+Quoted
+Misc items:
+-
+Document storage desk
+-
+work bench
+-
+FRP ladder
+Communication Hardware at Shelter Side for each shelter:
+-
+RS 485 to Ethernet converter x 1 No Make : Moxa
+-
+Ethernet to FO Convertors x 1 No Make :
+Hirschman(BRS30)/Cisco
+-
+Patch Panel (1 No), Patch cords (1 lot)
+Auto changeover system for carrier gas (4+4 cylinder) with Skid
+with all other accessories x 2 Nos.
+1.2
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: Epoxy painted carbon steel
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC With Automatic Changeover
+-
+With internal duct
+-
+Capacity – 5 Tr (Size to be considered based on 12 Air
+volume change)
+-
+Air changes shall be 12 per hour
+-
+Fresh Air Duct with Rain cap and bird Mesh: 9 Meters above
+shelter, MOC: Hot dipped galvanized steel
+1 No
+Quoted
+2
+1 Stream Gas Chromatograph
+Tag No: AT-2000202A
+Service1: Syn Gas from E-20001
+MODEL: Maxum Ed- ll
+MAKE: Valmet
+Gas Chromatograph Safety Protection ATEX II 3 G IIB + H2 T3 Gc
+Type: FID Detector and TCD detector
+CT time: 8 Minute
+Streams: 1
+Measurement range
+1 No
+Quoted
+Process Conditions
+-
+Supply Pressure (Operating): 60.5 bar(a)
+-
+Temperature (Operating): 108°C
+Return Details:
+-
+Sample Return to vent
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+2.1a
+CO,CO2 and H2 TDLAS Analyser
+Tag No: AT-2000202B and C
+Service1: Syn Gas from E-20001
+MODEL: GasEYE
+MAKE: Airoptic
+Safety Protection ATEX II 3 G IIC T3 Gc
+Type: TDLAS
+Measurement Range for CO : 0-10%
+Measurement Range for CO2 : 0-25%
+Measurement Range for H2 : 0-100%
+Process Conditions
+-
+Supply Pressure (Operating): 60.5 bar(a)
+-
+Temperature (Operating): 108°C
+Return Details:
+-
+Sample Return to vent
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+2.1c
+Welded Sample Probe Assembly with isolation valve :
+-
+1.5’’ 600# RF Flange
+-
+Probe tube, MOC: SS316
+1 No.
+Quoted
+2.1d
+Sample Transportation Line
+-
+1⁄4” SS316 Heated tube
+100meter
+Quoted
+2.1e
+Heated Primary Sample Handling system as below:
+-
+Primary Sample handling System shall be in line with licensor
+scheme.
+-
+SHS components are mounted inside carbon steel painted
+enclosure
+-
+Please refer attached schematic
+1 No
+Quoted
+2.1f
+Heated Secondary Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside carbon steel painted
+enclosure
+-
+Please refer attached schematic
+1 No
+Quoted
+3
+1 Stream Gas Chromatograph
+Tag No: AT-2000201
+Service1: Syn Gas from E-20005
+MODEL: Maxum Ed- ll
+MAKE: Valmet
+Gas Chromatograph Safety Protection ATEX II 3 G IIB + H2 T3 Gc
+Type: FID Detector and TCD detector
+CT time: 8 Minute
+Streams: 1
+Measurement range
+Process Conditions
+-
+Supply Pressure (Operating): Not Specified
+1 No
+Quoted
+-
+Temperature (Operating): Not specified
+Return Details:
+-
+Sample Return to vent
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+Digital Outputs
+3.1a
+Welded Sample Probe Assembly with isolation valve :
+-
+1.5’’ 600# RF Flange
+-
+Probe tube, MOC: SS316
+1 No.
+Quoted
+3.1b
+Sample Transportation Line
+-
+1⁄4” SS316 Heated tube
+100meter
+Quoted
+3.1c
+Heated Primary Sample Handling system as below:
+-
+Primary Sample handling System shall be in line with licensor
+scheme.
+-
+SHS components are mounted inside carbon steel painted
+enclosure
+-
+Please refer attached schematic
+1 No
+Quoted
+3.1d
+Heated Secondary Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside carbon steel painted
+enclosure
+-
+Please refer attached schematic
+1 No
+Quoted
+4
+1 Stream Gas Chromatograph
+Tag No: AT-2101201
+Service1: Pure MeOH from Overhead
+MODEL: Maxum Ed- ll
+MAKE: Valmet
+Gas Chromatograph Safety Protection ATEX II 3 G IIB + H2 T3 G
+CT time: 10 Minute
+Streams: 2
+1 No
+Quoted
+Measurement range for Str 1
+Measurement range for Str 2
+Process Conditions
+-
+Supply Pressure (Operating): 8.3Bar(a)
+-
+Temperature (Operating): 132oC
+Return Details:
+-
+Sample Return to vent
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+4.1a
+Welded Sample Probe Assembly with isolation valve :
+-
+1.5’’ 600# RF Flange
+Probe tube, MOC: SS316
+1 No.
+Quoted
+4.1b
+Sample Transportation Line
+-
+1⁄4” SS316 Heated tube
+100meter
+Quoted
+4.1c
+Heated Primary Sample Handling system as below:
+-
+Primary Sample handling System shall be in line with licensor
+scheme.
+-
+SHS components are mounted inside carbon steel painted
+enclosure
+-
+Please refer attached schematic
+1 No
+Quoted
+4.1d
+Heated Secondary Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside carbon steel painted
+enclosure
+Please refer attached schematic
+1 No
+Quoted
+5
+Project Documentation
+1 Set
+Quoted
+6
+Commissioning Spares
+List as per attached appendix -4
+1 Set
+Quoted
+7
+FAT at Adage Goa Works
+1 Set
+Quoted
+8
+Calibration and carrier gas cylinders for FAT purpose
+1 Set
+Quoted
+9
+Packing and Forwarding charges
+1 Set
+Quoted
+10
+Transportation up to site
+1 Set
+Quoted
+11
+Training
+Theoretical training (operation and maintenance)
+On-the-job training (operation and maintenance)
+Per
+Manday
+Quoted
+ANNEXURE -1
+DETAILED BOQ FOR EACH SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+3
+LEL detector in the fresh air duct
+1
+Toxic Gas Detector - inside Fresh Air Duct
+1
+Toxic Gas Detector -Inside Shelter
+3
+H2 Detector
+3
+O2 deficiency detector
+3
+OPTICAL SMOKE DETECTOR
+4
+Humidity Transmitter
+1
+Diff pressure Gauge and Switch
+1
+Temp Tx with Display
+1
+Safe Guard PLC with redundancy at power supply & communication cards (CPU & I/O
+cards are non redundant), Siemens S71500
+1 LOT
+Purge controller for PLC Panel with CRCA &Make : P&F(purge Controller)
+1
+Electrical Panels: Zone 1 IIC
+PDBs, Intermediate PDBs (Adalet/E2S), JBs, Interface JBs, Power JB (Phoenix Mecano)
+cum isolation switch for incomer cable termination prior to PDB. Rack for PDBs & warning
+Panel
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+2
+Hooter
+1
+3 Way Beacon
+2
+2 Way Beacon
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System,(Make : LAPP/Associated cable/Polycab/Kerpen Eleger), double compression
+type certified flame proof cables glands & plugs, Utility Headers with Air filter & Other
+Accessories as per MR
+1 LOT

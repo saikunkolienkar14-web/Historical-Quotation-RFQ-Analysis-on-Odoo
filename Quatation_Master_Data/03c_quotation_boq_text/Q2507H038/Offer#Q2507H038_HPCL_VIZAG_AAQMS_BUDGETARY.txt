@@ -1,0 +1,86 @@
+Quotation Number: Q2507H038
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES FOR AAQMS ANALYZERS
+SR.NO.
+DESCRIPTION
+QTY
+UNIT
+PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+SO2 ANALYZER
+•
+Based on UV – Fluorescence Principle.
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: 0-1 ppm / 0-10 ppm
+•
+Communication: Ethernet, USB
+•
+Lower Detection Limit: <0.4 ppb
+•
+Make: ENVEA, Model: AF22e
+Oxide of Nitrogen (NO - NO2 – NOX) Analyzer
+•
+Based on Chemiluminescence principle
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: 0-1 ppm / 0-10 ppm
+•
+Lower Detection Limit: <0.2 ppb
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, Model: AC32E
+NH3 Analyzer
+•
+Based on Chemiluminescence principle
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: 0-1 ppm / 0-10 ppm
+•
+Lower Detection Limit: <0.2 ppb
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, Model: AC32E CNH3
+CO Analyzer
+•
+Based on CO detection by absorption of IR
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: Auto ranging 0-50 ppm
+•
+Lower Detection Limit: 0.05 ppm
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA Model: CO12e
+O3 Analyzer
+•
+Based on UV photometry principle
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: Auto ranging 0-500 ppb
+•
+Lower Detection Limit: 0.2 ppb
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA Model: O342e
+1 SETS
+50,40,000
+50,40,000
+2
+CHARGES FOR ERECTION ,INSTALLATION & COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And
+Fro Charges To Be Claimed At Actuals (Acii Tier/Flight
+@30000 PER MANDAY

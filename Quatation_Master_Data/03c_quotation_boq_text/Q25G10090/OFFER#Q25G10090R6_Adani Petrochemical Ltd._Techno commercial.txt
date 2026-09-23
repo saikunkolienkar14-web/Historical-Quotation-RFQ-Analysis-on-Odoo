@@ -1,0 +1,110 @@
+Quotation Number: Q25G10090R6
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1.
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations : 4 Nos
+Make: HEMERA
+Model: G800
+Measuring Principle: UV Spectroscopy
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+Safe area analyser and SHS components mounted inside purged
+panel. For further details kindly refer attached P&ID & BOM.
+•
+Purged Cabinet with panel AC For Cl2 Analyser (04 Nos.) for both
+train, 401/402-AT -552303 –to 401/402-AT -552603, MOC: -
+SS316.
+•
+With remote calibration.
+Note: Please note that the panel dimensions shall be provided during
+detail Engineering.
+2 Sets
+Quoted
+Quoted
+2
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations: 3 Nos
+Make: HEMERA
+Model: G800
+Measuring Principle: UV Spectroscopy
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+Safe area analyser and SHS components mounted inside purged
+panel. For further details kindly refer attached P&ID & BOM.
+•
+Purged Cabinet with panel AC For Cl2 Analyser (03 Nos.) for both
+train, 401/402-AT-552703 to 401/402-AT-552903, MOC: -SS316.
+•
+With remote calibration
+Note: Please note that the panel dimensions shall be provided during
+detail Engineering.
+2 Sets
+Quoted
+Quoted
+NOTE: Please note OFC hardware i.e convertors, patch cord and patch panel at the analyser panel end is considered in the
+offer. However, supply and laying of all the OFC cables shall be in customer’s scope. Also, OFC hardware at the other end
+/DCS, CCR shall be in customer’s scope.
+3
+OFC COMMUNICATION HARDWARE
+Note: OFC communication hardware i.e patch panels, patch cords,
+Ethernet -OFC convertor at the panel end shall be provided. However,
+all the cables for OFC communication shall be in customer's scope.
+2 Sets
+Quoted
+Quoted
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+Suitable for Zone 2
+MOC: PTFE; Tube size: 1/4”
+With all necessary accessories and JB’S
+70 Meters x
+14
+@ Quoted
+per meter
+Quoted
+TOTAL PRICE FOR SUPPLY (FOR ITEM Sr NO-1 TO 4)
+8,55,00,000
+5
+SPARE LIST
+Pump service kit-1 No.
+Peristatic pump- 1 No.
+Dual Stage Pressure Regulator for Span gas Calibration cylinder-1 No.
+3/2 Way Solenoid valve -2Nos
+1 Set
+1,10,000
+1,10,000
+6
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(Boarding – lodging – local conveyance, to and FRO Air ticket/ AC II train
+fare to be arranged by customer)
+@30,000 Per Manday
+•
+External Cabling, Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customer’s Scope.
+•
+Customer shall provide Plant Nitrogen/ Air should be oil & moisture free @ 4-6 bar .
+•
+Power Supply Utilities required are:
+•
+Power Supply: 110 VAC, 50 Hz (UPS)
+230 VAC, 50 Hz (NON- UPS)

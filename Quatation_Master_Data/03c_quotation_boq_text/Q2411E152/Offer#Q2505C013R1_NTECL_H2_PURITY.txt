@@ -1,0 +1,43 @@
+Quotation Number: Q2505C013R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+OPTION 1-PANEL WITH SHS & ANALYZER
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF ONLINE H2
+MONITORING-WITH ANALYZER
+Make: SIEMENS AG
+Model: CALOMAT6E
+Component to be measured : H2
+System specifications:
+•
+With Sample Handling System
+•
+With Microprocessor Based H2 Analyzer
+•
+With Calibration Cylinders
+1 NO.
+15,00,000
+15,00,000
+OPTION 2-PANEL WITH SHS & WITHOUT ANALYZER
+2
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF ONLINE H2
+MONITORING-WITHOUT ANALYZER
+System specifications:
+•
+With Sample Handling System and complete Panel
+1 NOS
+6,00,000
+6,00,000
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING
+(Boarding – Lodging – Local Conveyance-Food, To and fro Air
+Ticket/ AC II Train Fare to be Arranged by Customer)
+@30000 PER MAN DAY

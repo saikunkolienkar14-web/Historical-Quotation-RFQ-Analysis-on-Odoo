@@ -1,0 +1,146 @@
+Quotation Number: Q26N10106
+BOQ Status: FOUND
+
+shall be in Technip scope of supply.
+10. All GC spent samples shall be connected to a common ATM vent header of shelter.
+11. Distance from Tapping till Analyser is not provided in datasheet. Per meter prices are considered.
+Approved Makes as per IOCL MASTER AVL
+Sr No
+Component
+Make
+1
+Retractable probe
+Lotus
+2
+Sample line tube
+Ratnamani/Jindal
+saw/Sandvik
+3
+HTT Tube
+Thermopad
+4
+Junction Box /PDB’s
+FEPL/FCG/Flamproof/Baliga
+5
+All valves (Ball valve, Needle valve, SRV,
+NRV etc)
+Astec/Excel Hydro/Comfit
+6
+Fittings
+Astec/Excel Hydro/Comfit
+7
+Filters
+Excel Hydro/Balston
+8
+Bypass filter
+Classic
+9
+Air operated valve
+Rotex/Hoke
+10
+Solenoid valve
+Asco/Rotex
+11
+Pressure gauge
+Wika/GIC
+12
+Pressure regulator
+Baldota
+13
+Flow meter
+Brooks/Krohne
+14
+Analyser cabinet
+Pyrotech/Rittal
+15
+Gas cylinders pressure regulator
+Baldota/CSL
+16
+Cables
+KEI/Lapp/Thermo
+17
+Calibration/Carrier cylinders
+CSL/Inox
+18
+Cable glands
+FEPL/FCG/Flamproof/Baliga
+SECTION 2: SUMMARY OF PRICES
+Sr. No.
+Tag No
+Item Description
+Qty
+Total Price
+A
+-
+Analyser shelter
+1 No
+Quoted
+1
+261-AT-0101
+Gas chromatograph system
+1 No
+Quoted
+2
+261-AT-0201
+Gas chromatograph system
+1 No
+Quoted
+3
+261-AT-0301
+Gas chromatograph system
+1 No
+Quoted
+4
+261-AT-1001
+Gas chromatograph system
+1 No
+Quoted
+5
+261-AT-1204
+Gas chromatograph system
+1 No
+Quoted
+6
+261-AT-1401
+Gas chromatograph system
+1 No
+Quoted
+7
+261-AT-1801
+Moisture Analyser
+1 No
+Quoted
+9
+261-AT-0501
+Cos Analyser
+1 No
+Quoted
+10
+261-AT-1701
+Total Sulfur
+1 No
+Quoted
+11
+-
+AMADAS System
+1 Lot
+Quoted
+12
+-
+Supervision of erection & Commissioning.
+Lumpsum
+Quoted
+13
+-
+Mandatory spares (As per Adage
+recommendation)
+1 Set
+Quoted
+14
+-
+2 Years Operations & Maintenance spares
+(As per Adage recommendation)
+1 Set
+Quoted
+15
+-

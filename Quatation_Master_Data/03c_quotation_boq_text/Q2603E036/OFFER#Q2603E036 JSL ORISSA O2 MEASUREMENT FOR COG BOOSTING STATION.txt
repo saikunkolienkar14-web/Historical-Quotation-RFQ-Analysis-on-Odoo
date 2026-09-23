@@ -1,0 +1,52 @@
+Quotation Number: Q2603E036
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+LASER BASED ANALYSER FOR MEASUREMENT OF O2 AT COG
+BOOSTING STATION
+MODEL: SITRANS SL
+MAKE: SIEMENS AG, GERMANY
+Operating principle: TDLAS
+Component to be measured: O2
+Mounting location: Extractive type
+Degree Of Protection: IP65
+With Primary Sample handling system consisting of:
+•
+Pre-Sample Conditioning & Purification System for
+Single tapping system for handling Impurities.
+With Secondary Sample handling system consisting of:
+•
+With Heated Flow Through Cell for Mounting of
+Laser Analyzer
+•
+With Aspirator Pump System for Extraction and
+Drawing of Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+1 SET
+QUOTED
+QUOTED
+2
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And
+Fro Charges To Be Claimed At Actuals (ACII TIER/FLIGHT).
+@QUOTED PER MANDAY

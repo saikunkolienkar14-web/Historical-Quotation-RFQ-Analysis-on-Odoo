@@ -420,6 +420,136 @@ reaches here) — keep both in sync if the source changes again.
    for this round per user direction; not yet assessed for whether it
    clusters in a few documents or is spread evenly.
 
+   **Opening-heading sub-items mis-split by `_split_self_contained_subitems`
+   — confirmed real-corpus bug, unresolved (investigated 2026-09-22).**
+   User-reported example: `Q24X10030`'s "GAS CHROMATOGRAPH" item has four
+   unnumbered sub-rows (Sample Probe, Sample Transport Line, Sample
+   Handling System, Provision for Calibration Gas Bottle), each with its
+   own `qty`/price ("1 No" / "Quoted") printed on the sub-item's *heading*
+   line, with descriptive bullets following below it.
+   `_split_self_contained_subitems` (`boq_coords/banded.py:204`) assumes
+   the opposite shape exclusively — a self-contained priced line is
+   always the *closing* line of a bundled description (the case it was
+   built for: `Q2501N005`'s "PORTA CABIN ... 1 SET 25,64,400", price
+   printed after the description). Splitting "after" the priced line for
+   an opening-heading sub-item glues the heading onto the *previous*
+   sub-item and starts the next one at its bullets instead — confirmed by
+   tracing actual PDF word coordinates for this document (not just the
+   CSV output), silently (`confidence=HIGH`, no `validation_error`). Also
+   traced: `path_taken=RULED` for this document is misleading — the
+   `RULED` label only reflects that `pymupdf`'s table-finder detected
+   column geometry; `ruled._ruling_line_ys()` found **zero** real drawn
+   ruling lines on this page (this vendor's borders aren't vector line
+   segments `get_drawings()` picks up), so row segmentation actually fell
+   through to the same anchor/gap heuristic the "unruled" path uses
+   (`_derive_boundaries_from_desc_gaps`).
+
+   An ad-hoc scan for this pattern (a row's `description_full` ending in
+   a short, capitalized, unpunctuated line — a heading bled onto the
+   wrong row) across a 59-document sample found it in **39 documents
+   (66%)**, correlated with the `RULED` path (56 of 59 sampled documents),
+   confirming this is systemic, not a one-off. This is an informal
+   detector for investigation only, not one of `validate.py`'s rules.
+
+   **Fix attempted and reverted, same session.** Tried classifying each
+   self-contained line as "opening" (split *before* it) vs. "closing"
+   (split *after* it, the original behavior) by the word count of its own
+   description text (`<=8` words → opening). Confirmed on real data: fixed
+   4 of 5 `Q24X10030` sub-items (headers correctly kept with their own
+   bullets) and reduced the 59-doc sample's suspect-row count from 168 to
+   139. **Broke `tests/test_boq_coords_integration.py::TestBundledSubItems`**
+   (the exact regression test for the PORTA CABIN/DATALOGGER/DUST MONITOR
+   bug this function was built to fix): `Q2501N005`'s "TUBE FITTING 1 LOT"
+   is a short, complete, standalone closing-style line item, but the
+   word-count heuristic misclassified it as an opening header and merged
+   a neighboring item's price into it — reproducing the exact
+   multi-number price concatenation bug `_split_self_contained_subitems`
+   exists to prevent. Word count and leading punctuation alone cannot
+   reliably distinguish a short closing single-line item from a short
+   opening heading; reverted rather than trade a confirmed regression for
+   a partial fix. `boq_coords/banded.py` is unchanged from before this
+   investigation.
+
+   **Second fix attempted (font-weight signal) and also reverted, same
+   session.** Directly inspected both documents' own PDF font spans
+   (`page.get_text("dict")`): confirmed every heading line in both is bold
+   (`Arial-BoldMT` / `Calibri-Bold`, span `flags & 16`) and every
+   closing/bullet line, including `Q2501N005`'s `"TUBE FITTING 1 LOT"`, is
+   regular weight — a much cleaner signal than word count. Implemented:
+   added `Word.bold` (`boq_coords/geometry.py`, populated by a new
+   `bold_span_boxes()`/`mark_bold()` pair cross-referencing
+   `page.get_text("dict")` span bboxes against each word's centre point,
+   wired into both word-construction sites, `ruled.rows_from_region` and
+   `rows._unheaded_continuation_rows`), then reused the same
+   opening/closing split logic from the first attempt but keyed off
+   `_is_opening_style`'s bold ratio on the line's own description-band
+   words instead of word count. Confirmed on real data: same `Q24X10030`
+   improvement as the word-count version (4 of 5 sub-items correctly
+   split), and reduced the `TestBundledSubItems` regression from 2 failing
+   assertions to 1 — but did not eliminate it. Root cause of the remaining
+   failure, traced directly against `Q2501N005`'s font spans on page 5: a
+   feature bullet mid-description, `"WITH REMOTE CALIBRATION"`, is *also*
+   bold (used for in-body emphasis, not just headings, in this vendor's
+   layout) and sits close enough in y-position to `cluster_lines()` onto
+   the same physical line as a price/qty pair, tripping the same
+   misclassification the bold signal was meant to avoid. Also identified
+   the actual structural fix that would make this whole code path
+   unnecessary for this specific case: the two items in question are
+   numbered `"3A"`/`"3B"` on the page (real, human-legible Sr. Nos.), but
+   `_valid_item_no`'s regex is digits-only and rejects the letter suffix,
+   so they never become real `item_anchors` and fall through to
+   `_split_self_contained_subitems` at all — this is the same, already
+   out-of-scope `ITEM_NO_MALFORMED` issue two paragraphs above, not a new
+   one. Reverted `geometry.py`/`ruled.py`/`rows.py`/`banded.py` back to
+   their pre-investigation state (118/118 tests pass) rather than ship a
+   second confirmed regression.
+
+   **Third fix — loosened `ITEM_NUMBER_RX` to accept a trailing letter,
+   kept (2026-09-22).** `ITEM_NUMBER_RX` (`banded.py:19`) changed from
+   `r"^\(?\d{1,3}(?:\.\d+)*[.)]?$"` to
+   `r"^\(?\d{1,3}(?:\.\d+)*[A-Za-z]?[.)]?$"` (accepts `"1A"`, `"1.1a"`,
+   ...; `_valid_item_no`'s numeric-range check already only reads the
+   leading digit group, so it needed no change). **Correction to the
+   `"3A"`/`"3B"` premise above**: traced further and found it was wrong —
+   those tokens sit at x≈45-57, entirely to the LEFT of this document's
+   own `description` band (x0=71.4; there is no `item_no` band in this
+   table's column geometry at all), so they're clipped out of word
+   extraction before any regex ever sees them. `_valid_item_no` was never
+   the blocker for `Q2501N005`; this was a misdiagnosis, corrected here
+   rather than left standing.
+
+   The regex change is still a **real, verified fix for a different,
+   confirmed case**: `Q24X10030`'s own revisions (`R1`, `R2`) print
+   genuine lettered Sr. Nos for alternate options —
+   `"1.1a Sample Probe (Fixed Type)"` / `"1.1b Sample Probe (Fixed
+   Type)"` / `"1.2a Sample Transport Line"` / etc. (confirmed directly
+   against the PDF's own word coordinates) — that the old regex silently
+   couldn't recognize as anchors at all. `Q24G10074`'s `"1A"` ("Optional
+   Price for Item O2 Analyser") is a second, independent real case in the
+   59-doc sample. 118/118 tests still pass; a scan of every newly-matched
+   letter-suffixed `item_no` across the sample (17 rows, 3 documents) found
+   no false positives — every one is a real printed Sr. No.
+
+   **But this does not fix the row-content-boundary bug two fixes above
+   solved for other rows.** Measured on the 59-doc sample: rows-written
+   811 → 815, informal trailing-heading-bleed count 168 → **171** (flat,
+   marginally worse, not better). Root cause, confirmed directly against
+   `Q24X10030R1`'s own coordinates: the anchor is now correctly recognized
+   (`item_no="1.1a"` at the right y-position), but the CONTENT assigned to
+   that row still starts one line late — `item_no="1.1a"`'s own
+   `description` begins with `"• Temperature (Op/Design): 30 to 45°C..."`
+   instead of `"Sample Probe (Fixed Type)"`, the line the anchor is
+   actually printed on. This is `_derive_boundaries_from_desc_gaps`
+   (`banded.py:287`) misplacing where an anchor's row starts relative to
+   the description column's own line gaps — a different, still-open
+   mechanism from the opening/closing self-contained-line ambiguity the
+   first two attempts targeted. **Net assessment: keep the regex change**
+   (it's independently correct — real Sr. Nos. should be recognized as
+   real Sr. Nos. — and doesn't regress anything), but it is not, by
+   itself, a fix for the user-reported `Q24X10030` symptom; the
+   anchor-to-content misalignment in `_derive_boundaries_from_desc_gaps`
+   is the remaining unresolved piece.
+
    **Full-corpus extraction run completed 2026-09-21** (3,586 documents,
    21,067 rows). Self-consistency held at full scale, matching the
    300-doc sample: 0% negative price, 99.15% arithmetic-ok (of 7,543
@@ -461,6 +591,186 @@ reaches here) — keep both in sync if the source changes again.
    `Quotation_Data/03_preprocessed_text_2` immediately after this one run.
    `quotation_parser_v1.py`'s prior output was backed up to
    `Quotation_Data/_backup_2026-09-21_03_structured_current_prev/` first.
+
+   **`_derive_boundaries_from_desc_gaps` anchor-to-content misalignment —
+   fixed (2026-09-22).** Continuation of the item above: traced directly
+   against `Q24X10030R1`'s own word coordinates (`banded.py:239`). The
+   function already computed the CORRECT per-anchor boundary for
+   `item_no="1.1a"` (yc=420.31, the line right before "Sample Probe
+   (Fixed Type)") — the bug was not in that per-anchor computation, it
+   was in what happened *after*: two OTHER, unrelated anchor pairs later
+   in the same region (`"1.2a"`/`"1.2b"` and `"1.3a"`/`"1.4a"`) collided
+   onto the same gap-derived boundary (ordinary line spacing between
+   them, no gap for the heuristic to key off), and `segment_rows`'
+   collision handling (`len(boundaries) < len(set(item_anchors))`)
+   reacted by discarding *every* gap-derived boundary in the region and
+   replacing all of them with raw midpoints between anchors' own
+   y-positions — including "1.1a"'s already-correct one. The 1.1a
+   midpoint (between anchor "1" at yc=180.50 and anchor "1.1a" at
+   yc=434.23) landed at yc=307.36, inside item 1's own unrelated "Process
+   Conditions at sample take-off LZA001" preamble, sweeping its "•
+   Temperature (Op/Design)..." bullet (yc=309.85) into row 1.1a — the
+   reported symptom.
+
+   **Fix**: resolve a collision locally, per colliding pair, instead of
+   globally for the whole region. `_derive_boundaries_from_desc_gaps` now
+   computes one gap-derived boundary per anchor as before, then walks
+   them in y-order; only when an anchor's boundary is `<=` the previous
+   anchor's already-assigned boundary does it get replaced, with the
+   midpoint of just that pair's own anchor y-positions (the original
+   centred-item-number rationale, preserved). Every other anchor's
+   gap-derived boundary is left untouched. `segment_rows`'
+   region-wide-fallback branch was removed as redundant — the function it
+   called now does this itself. 118/118 tests pass (`TestBundledSubItems`
+   included — that test's document has no colliding pairs at all, so it
+   was never exercising this fallback path).
+
+   Verified directly against `Q24X10030R1`: `item_no="1.1a"` now starts
+   `"For Customised Technical Details of this GC refer Annex-1\nSample
+   Probe (Fixed Type)\n..."` — the anchor's own heading line is now
+   correctly included (previously started one line late, on the
+   Temperature bullet from a different item). 4 of the 5 original
+   mis-split sub-items on this document now start on their own heading
+   line, up from 0. The still-imperfect two (`"1.1a"` carries one stray
+   preceding annex-reference line; `"1.2b"`/`"1.4a"` each pick up one
+   stray bullet line from their colliding sibling, since a raw midpoint
+   between two anchor y-positions can't know where a wrapped sentence's
+   own line break falls) are the same class of approximation the
+   midpoint fallback always accepted for the centred-item-number case —
+   but now correctly confined to the two lines immediately adjacent to
+   the collision, never smearing ~100pt into an unrelated, distant
+   section of the document as the global version did.
+
+   Not yet done: a full-corpus (or large-sample) re-run of the informal
+   trailing-heading-bleed scan (168 → 171 documents at the 59-doc sample,
+   per the regex-fix entry above) to quantify the corpus-wide effect of
+   this fix the same way the earlier attempts were measured.
+
+   **Base (non-revision) `Q24X10030` checked against the pasted plain-text
+   extraction (2026-09-22) — found two further, distinct bugs, both
+   fixed.** The base document (`Q24X10030 EM Singapore Jurong.pdf`, no
+   `R1`/`R2` suffix, no lettered Sr. Nos at all) hit a different code path
+   than `Q24X10030R1`'s fix above, and was still badly mis-extracting:
+   `item_no="2"`'s row started on `"Note- Calibration cylinder..."` (item
+   1's own leftover closing note) instead of its own `"GAS
+   CHROMATOGRAPH"` heading, and none of the unnumbered sub-items ("Sample
+   Probe (Fixed Type)", "Sample Transport Line", "Sample Handling
+   System") ever appeared as a row's own content — their qty/price tokens
+   concatenated into garbage like `qty="Assuming 50m 1 No"`.
+
+   **Bug 1 (top-level anchor boundary bleed) - fixed.** Same underlying
+   weakness as the R1 fix above (an anchor's own line often has no
+   detectable gap before it), but occurring in the PRIMARY per-anchor
+   lookup itself, not the collision path - `_derive_boundaries_from_desc_gaps`
+   picked the nearest preceding gap-candidate for item "2"'s anchor, which
+   was "Note-..." (item 1's own trailing content), not item 2's own
+   heading line. Distinguishing a genuinely unclaimed trailing line of the
+   previous item from the OTHER known real case this gap-search protects
+   (a vertically centred item number on the SECOND line of its own
+   two-line, hyphen-wrapped heading - `TestSQ2509N216`, `"SERVICE CHARGES
+   PER MAN-"` / `"1 DAYS [...]"`) needed a structural signal, not just
+   "is there a big gap": a complete sentence ending in terminal
+   punctuation (`.`, `:`, `)`, `!`, `?`) on the line immediately before an
+   anchor's own co-located heading line can never be a wrapped
+   continuation INTO that heading (wrapped continuations characteristically
+   end the prior line unfinished, often literally mid-word with a hyphen,
+   as `TestSQ2509N216`'s case does) - so it's always unclaimed content of
+   the item above, safe to exclude. Added as an anchor-precision override
+   inside `_derive_boundaries_from_desc_gaps` (`banded.py`), gated on this
+   punctuation check so `TestSQ2509N216` is untouched (verified: its
+   `"MAN-"` doesn't end in terminal punctuation, no override fires).
+
+   Item "3"'s own anchor sits on a page where `ruled._ruling_line_ys()`
+   only finds the page's own outer top/bottom border (2 points) - not
+   real per-row rulings - so `segment_rows` takes the ruled-boundary
+   branch (`ruling_ys and len(ruling_ys) >= 2`) and never reaches
+   `_derive_boundaries_from_desc_gaps` at all for that page; the same bug
+   still showed up there via a different mechanism (the whole page becomes
+   one row before self-contained-line splitting ever runs). Fixed with a
+   second, path-independent application of the same signal: a new final
+   pass, `_reattach_misattributed_leading_lines`, walks the FINISHED row
+   list (regardless of which boundary strategy produced it) and moves any
+   line(s) glued in front of a row's own item-number anchor back to the
+   previous row, gated on the identical terminal-punctuation check. Rows
+   with no item_no anchor (the bundled-subitem case) are untouched.
+
+   **Bug 2 (opening vs. closing self-contained-line ambiguity) - fixed,
+   a new approach after two prior reverted attempts.** PROJECT_NOTES
+   above documents two failed attempts at this (word-count heuristic,
+   then font-weight/bold heuristic), both reverted for regressing
+   `Q2501N005`'s `TestBundledSubItems` (a genuinely closing-style
+   document: "TUBE FITTING 1 LOT" and similar). The new signal is
+   structural instead of typographic: `_split_self_contained_subitems`
+   now splits BEFORE a self-contained line (instead of the default AFTER)
+   only when that line's own description is non-empty, does NOT itself
+   start with a bullet character (`BULLET_CHARS`, `fields.py` - rules out
+   a bulleted spec line that merely happens to carry a price mid-paragraph,
+   confirmed real case: `Q2501N005`'s `"• WITH HEATED FLOW THROUGH
+   CELL..."`), and IS immediately followed by a bullet-marked line (the
+   elaboration bullets only make sense following a heading, never
+   preceding one). Checked directly against every self-contained line
+   traced in both real regression-test documents: fires only for the four
+   confirmed `Q24X10030` headings and is a confirmed no-op everywhere in
+   `Q2501N005` (its self-contained lines are either price-only/empty
+   description, or non-bulleted text not followed by a bullet) - 118/118
+   tests pass, `TestBundledSubItems` included.
+
+   Verified directly against the base `Q24X10030`: `item_no="2"` and
+   `item_no="3"` now correctly start on their own `"GAS CHROMATOGRAPH"`
+   heading line (previously started on the previous item's leftover
+   closing note); `"Sample Probe (Fixed Type)"` and `"Sample Handling
+   System"` now correctly appear as a row's own leading content (previously
+   never appeared as any row's first line at all).
+
+   **Known remaining, narrower, separate issue - NOT fixed here.**
+   `"Sample Transport Line"` still doesn't become its own split point,
+   because its own quantity is phrased `"Assuming 50m"` / `"Quoted for
+   50m"` (the number is on a following bullet line, not fused with the
+   qty text on its own line) - `resolve_quantity_and_unit` (`money.py`)
+   doesn't recognise this phrasing as a valid qty+unit, so
+   `_is_self_contained_item_line` never flags that line as self-contained
+   and it silently flows into whichever neighboring row claims it. This
+   is a `money.py`-level quantity-parsing gap, not a row-segmentation bug
+   - a distinct, narrower follow-up, out of scope for this round.
+
+   **Cross-page row continuation - fixed (2026-09-22).** A DIFFERENT,
+   previously undocumented and untested bug, found while checking whether
+   the fixes above also covered multi-page items: `rows.py`'s
+   `extract_document_tables` stitches pages by flatly concatenating each
+   page's already-finished row list (`combined_rows.extend(...)`) with no
+   merge pass across the stitch boundary itself. A row whose content
+   genuinely continues from the previous page (its item cut mid-way by
+   pagination) lands as the FIRST row extracted from the new page - but
+   was never folded back into the item it continues, because it was never
+   in the same `segment_rows()` call as that row. Confirmed real-corpus
+   case, directly traced against actual page text: base `Q24X10030`'s
+   `"Sample Probe (Fixed Type)"` prints its own heading AND price
+   ("1 No"/"Quoted") on page 5; its own third bullet ("• with full port
+   gate valve, with provision to Rod Out.") is pushed onto page 6 by
+   pagination alone, landing after that page's letterhead/footer
+   boilerplate. Before the fix, that bullet became the leading content of
+   an unrelated orphaned row on page 6, which then also absorbed the
+   following, genuinely separate "Sample Transport Line" item into itself.
+
+   Whole-row `_merge_bundled_lots` (already used per-page inside
+   `segment_rows`, and re-run once across the fully-stitched `combined_rows`
+   as a coarser catch-all) could NOT catch this on its own: by the time
+   the new page's own row is fully formed, it had already absorbed
+   "Sample Transport Line"'s own price within that same page, so the row
+   as a whole no longer looked like a bundled lot (no item_no AND no
+   price) - only its LEADING line was the actual continuation. Fixed with
+   a new function, `banded.peel_leading_continuation_lines`, called at
+   BOTH of `rows.py`'s stitch points (headered-region stitching and
+   unheaded-continuation stitching), while each page's own row boundaries
+   are still known: a legitimate new row never opens directly on a bare
+   bullet with no heading of its own above it, so any leading run of
+   bullet-marked lines (`BULLET_CHARS`) on the first row of a newly
+   stitched page can only be a continuation of the previous page's last
+   row - move it there before the rest of the page's rows are appended.
+   118/118 tests pass; verified directly against `Q24X10030`: "Sample
+   Probe (Fixed Type)" now correctly ends with its own third bullet, and
+   "Sample Transport Line" now correctly starts its own row instead of
+   absorbing that stray bullet.
 
    Re-running `match_customers_coords.py` + `build_knowledge_bank_coords.py`
    against the refreshed `quotations.csv` (4,538 rows, up from 3,876)

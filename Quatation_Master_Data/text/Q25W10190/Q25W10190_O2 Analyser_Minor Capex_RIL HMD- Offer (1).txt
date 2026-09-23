@@ -1,0 +1,289 @@
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+Dear Sir/Madam, 
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to 
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing 
+and Supply of analyzer system as per your requirement. 
+ 
+COMMERCIAL PRICE OFFER 
+
+ADAGE QUOTE REF: 
+Q25W10190 
+DATED : 12.08.2025 
+BID TYPE : Firm 
+PROJECT TITLE: 
+Repeat order for Supply Flue Gas (O2/COe measurement) Analyser for 
+Minor Capex Project at RIL HMD 
+INQUIRY DETAILS: 
+RFX No: 1000229657 
+REPEAT ORDER AS PER : 
+PO Reference No: HPRJ/283/240637393, DATED : 14.08.2023 
+ 
+CUSTOMER: 
+Kind Attention : Mr Sujesh Kasargod 
+Reliance Industries Limited, Mumbai 
+END USER: 
+Reliance Industries Limited, HMD 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Summary Of Prices 
+SECTION-2: Technical Literature 
+SECTION-3: Scope Definition 
+SECTION-4: Commercial Terms & Condition 
+
+Kindly review and do let us know if you have any queries 
+Kind Regards 
+ 
+Mr Tejas Rivonkar 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9284270984
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to briefly 
+introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. Our 
+expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for various 
+industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ SECTION 1: SUMMARY OF PRICES 
+ 
+Item 
+Qty 
+Description 
+Unit Price 
+Total Price 
+1 
+1 No 
+O2 Analyser 
+26,21,692/- 
+26,21,692/- 
+2 
+1 No 
+FAT at Adage Works 
+Inclusive 
+Inclusive 
+3 
+Lumpsum Supervision of installation & commissioning 
+75,000/- 
+75,000/- 
+
+ 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+SECTION 2: TECHNICAL LITERATURE 
+ 
+1 
+Oxygen Analyzer 
+Service: Flue Gas 
+Make: Ametek, USA 
+Model: WDG-VC 
+Mounting Location: Closed Coupled Extractive 
+Hazardous Area Classification: Zone 2, IIA/IIB/IIC, T3 
+Principle: dual hot-wire catalytic detectors for Coe measurement 
+Enclosure Protection: IP65, NEMA 4X 
+Components to be Measured: Oxygen (0-21%) 
+ Coe (0-2000 PPM) 
+ 
+Process Conditions at sample Inlet 
+- 
+Temperature (Norm/Max): 1050/1202 Degree C 
+- 
+Pressure (Norm/Max): -3/-8 mmH2O 
+ 
+ Probe Type/Length: MOC: Hexoloy/ 4 Feet 
+- 
+4’’ 150 Flange connection 
+ Analyser Specifications: 
+- 
+Accuracy for O2: ± 0.75% or ± 0.05% of measured value 
+- 
+Accuracy for Coe ± 2% of full-scale output range 
+- 
+Drift: - < 0.1% of cell output per month 
+ Analyzer Output: 
+- 
+4-20 mA Analog output – 3 nos (O2, Coe, Temp.) 
+- 
+Alarms 5 independent, NO alarms. Set relays to energize or de-energize 
+on alarm (One Service Alarm, One Data valid Alarm. Remaining alarms 
+can be set to oxygen, combustibles.) 
+- 
+RS485 Modbus Serial Output 
+ Air requirements: 3 SCFH typical at 3 to 6 psig, instrument air. 
+ Utilities Required: 
+- 
+Power Input: 110 VAC UPS Power supply, 
+- 
+power consumption is 815 VA 
+- 
+Instrument Air, free of Oil & Dust 
+1 No 
+Quoted 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 
+2 
+ FAT at Adage Factory 
+1 No 
+Quoted 
+3 
+ Supervision of intallation & commissioning 
+1 No 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+SECTION 3: SCOPE DEFINITION 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of 
+complete analyzer system for the following analyzers as per MR. 
+• 
+All Analysers complete with all hardware, software and necessary accessories 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyser system 
+• 
+Supply of spares and consumables as per MR requirements (If ordered) 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation o
+f Analyzers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-
+fabricated Electrical traced tubes, bare tubes, pipe, tube fittings between 
+sample take off and analyzer shelter & sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication 
+cables/field tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery limit near each Analyzer Shelter in field 
+For Adage Automation Pvt. Limited 
+ 
+Mr. Tejas Rivonkar 
+ 
+tejas@adage-automation.com 
+ 
++91 9284270984 
+
+ADAGE HO - Goa
+
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74600 MH 2001 PT 133206 
+0832-6620500 
+www.adage-automation.com 
+CORPORATE HQ s REGISTERED OFFICE 
+Adage Automation Private Limited 
+Satra Plaza, Office No: 506, Sector 16 D, 
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA

@@ -1,0 +1,121 @@
+Quotation Number: Q25G10117R1
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+A
+1 No
+Analyser Shelter (AH-1)
+1,32,30,000
+1,32,30,000
+1
+1 No
+GC - 306-AT-1201
+1,13,90,000
+1,13,90,000
+B
+1 No
+Analyser Shelter (AH-2)
+1,43,81,000
+1,43,81,000
+2
+1 No
+GC - 302-AT-2601
+83,30,000
+83,30,000
+3
+1 No
+GC - 302-AT-2701
+64,17,000
+64,17,000
+4
+1 No
+GC - 305-AT-2701 (Lighter HC)
+1,36,64,000
+1,36,64,000
+5
+1 Lot
+Design Engineering & Project Documentation
+2,50,000
+2,50,000
+6
+1 Lot
+FAT at Adage Works
+1,00,000
+1,00,000
+7
+1 Lot
+Training at Site for 5 Man-days in 3 batches
+1,00,000
+1,00,000
+8
+1 Lot
+Packing, Forwarding & Transportation upto Site
+charges
+2,50,000
+2,50,000
+9
+1 Set
+Startup & Commissioning spares
+10,000
+10,000
+10
+1 Lot
+Consumable spares ( Including carrier and
+calibration gases suitable for 6 months operation)
+9,00,000
+9,00,000
+11
+1 Set
+Mandatory spares
+1,00,00,000
+1,00,00,000
+TOTAL PACKAGE PRICE 7,90,22,000/-
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Item
+Qty
+Description
+Unit Price
+Total Price
+OPTIONAL PRICES
+1
+1 No
+GC - 305-AT-2701 (Total Sulfur + Oxygenates)
+1,28,30,000
+1,28,30,000
+2
+1 No
+GC - 305-AT-2701(NH3)
+1,07,93,000
+1,07,93,000
+3
+1 No
+GC - 305-AT-2701 (Arsine + Phosphine)
+1,54,27,000
+1,54,27,000
+4
+1 Set
+2 Years O&M spares
+21,42,000
+21,42,000
+5
+1 Lot
+PWCAMC for 3 years
+2,45,00,000
+2,45,00,000
+6
+Per Diem Supervision of installation & commissioning
+50,000
+50,000
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. All Makes shall be as per EIL Approved vendor list.
+2. Standard power and signal cables upto battery limit of Analyser Shelter by L&T. Further internal

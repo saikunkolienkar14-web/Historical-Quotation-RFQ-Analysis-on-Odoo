@@ -1,0 +1,204 @@
+Quotation Number: Q2512C034
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR KILN INLET APPLICATION
+Service: Kiln Inlet
+Make: Siemens
+Model: ULTRAMAT23 x 2 Nos
+Principle: NDIR
+Component to be measured : CO/NO
+Model: OXYMAT61 x 1 No.
+Principle: Paramagnetic
+Component to be measured : O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Overview:
+•
+With Closed Loop Water Cooled Probe
+•
+Probe Length – 3.5 Meters
+•
+With Power Cylinder based Advanced Probe System
+•
+With Scavenging Box for Dual Stage Auto Probe Cleaning
+•
+With Sample Handling System
+•
+With IP54 Panel
+•
+With Touch Screen Graphic Color Display – 15“
+•
+With Calibration Gas Cylinders
+•
+With Microprocessor Based Analyzer
+•
+With Independent Analysers
+•
+With Independent Electronics
+•
+With Independent Display
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+•
+RS485 Serial Modbus Communication
+1 SET
+QUOTED
+QUOTED
+2.
+GAS ANALYSER SYSTEM FOR PRE-CALCINER OUTLET
+Service: Pre-Calciner Outlet
+Make: Siemens
+Model: ULTRAMAT23 x 1 Nos
+Principle: NDIR
+Component to be measured : CO
+Model: OXYMAT61 x 1 No
+Principle: Paramagnetic
+Component to be measured : O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Overview:
+•
+With Closed Loop Water Cooled Probe
+•
+Probe Length – 3 Meters
+•
+With Power Cylinder based Advanced Probe System
+•
+With Scavenging Box for Dual Stage Auto Probe Cleaning
+•
+With Sample Handling System
+•
+With IP54 Panel
+•
+With Touch Screen Graphic Color Display – 15“
+•
+With Calibration Gas Cylinders
+•
+With Microprocessor Based Analyzer
+•
+With Independent Analysers
+•
+With Independent Electronics
+•
+With Independent Display
+Analyzer output:
+•
+4-20 mA
+•
+Digital Output
+•
+RS485 Serial Modbus Communication
+1 SET
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM FOR PRE-HEATER OUTLET
+Service: Pre Heater Outlet
+Make: Siemens
+Model: ULTRAMAT23 x 2 Nos
+Principle: NDIR
+Component to be measured : CO/NO
+Model: OXYMAT61 x 1 No.
+Principle: Paramagnetic
+Component to be measured : O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Overview:
+•
+With Dual Gas Sampling Probe
+•
+With Dual Sacvenging Box For Dual Stage Auto Probe Cleaning
+•
+With Sample Handling System
+•
+With Touch Screen Graphic Color Display – 15“
+•
+With IP54 Panel
+•
+With Microprocessor Based Analyser
+•
+With Calibration Gas Cylinders
+•
+With Independent Analysers
+•
+With Independent Electronics
+•
+With Independent Display
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+•
+RS485 Serial Modbus Communication
+1 SET
+QUOTED
+QUOTED
+4
+GAS ANALYSER SYSTEM FOR COAL MILL OUTLET/BAG HOUSE
+OUTLET/PC FINE COAL BIN/KILN FINE COAL BIN/HGG COAL BIN
+Service: Coal Mill Outlet/Bag House Outlet/PC Fine Coal Bin/Kiln
+Fine Coal Bin/HGG coal bin
+Make: Siemens
+Model: ULTRAMAT23 x 1 Nos
+Principle: NDIR
+Component to be measured : CO
+Model: OXYMAT61 x 1 Nos
+Principle: Paramagnetic
+Component to be measured : O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Overview:
+•
+With Dual Gas Sampling Probe
+•
+With Dual Scavenging Box For Dual Stage Auto Probe
+Cleaning
+•
+With Sample Handling System
+•
+With Touch Screen Graphic Color Display – 15“
+•
+With IP54 Panel
+•
+With Microprocessor Based Analyser
+•
+With Calibration Gas Cylinders
+•
+With Independent Analysers
+•
+With Independent Electronics
+•
+With Independent Display
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+•
+RS485 Serial Modbus Communication
+5 SETS
+QUOTED
+QUOTED
+5
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+@Quoted per meter
+6
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+@Quoted per day

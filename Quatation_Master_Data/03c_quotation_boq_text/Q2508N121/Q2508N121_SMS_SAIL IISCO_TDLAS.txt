@@ -1,0 +1,66 @@
+Quotation Number: Q2508N121
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+EXTRACTIVE LASER GAS ANALYSER SYSTEM FOR O2
+MEASUREMENT
+Service: REHEATING FURNACE, BEFORE AND AFTER
+RECUPERATOR
+Make: Siemens
+Model: SITRANS SL
+Component to be measured: O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Laser Gas Analyser for Measurement of O2
+•
+Loop Cable: 2 Mtrs
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+O2: 0-25%
+With Sample handling system consisting of:
+•
+With Single probe system
+•
+With Heated Flow Through Cell for Mounting of Laser Analyzers
+•
+With Aspirator Pump System for Extraction And drawing of sample
+gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopad
+PER
+MTR
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II Train
+Fare to Be Arranged by Customer)
+Per
+Diem
+QUOTED PER DIEM

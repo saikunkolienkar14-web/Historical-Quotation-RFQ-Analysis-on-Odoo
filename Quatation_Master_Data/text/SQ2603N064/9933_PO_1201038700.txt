@@ -1,0 +1,336 @@
+Purchase Order
+Seller's Detail
+ADAGE AUTOMATION PVT LTD
+L 26B PHASE AND 13 II VERNA,INDUSTRIA SALCETE AND 13
+,
+SOUTH GOA,403722,GA
+GOA,
+PAN:AADCA1647D
+GSTIN:30AADCA1647D1ZF
+Vendor Code:0910032467
+Kind Attn:ANGSHUMAN PAUL
+Phone:9724165626
+Mobile:9920217222
+Email:kamalesh@adage-automation.com
+PO Release Date :
+ 07.03.2026
+ 
+PO No :
+ 1201038700/N201
+Buyer's details
+ACC LTD 
+PO: LAKHERI
+ BUNDI 323603 RAJASTHAN
+PAN
+AAACT1507C
+CIN
+L26940MH1936PLC002515
+GSTIN
+08AAACT1507C1ZX
+Our Contact Details
+Name
+Phone
+Email
+As per your Existing Order ref: 2801047053 dated 02.05.2025 and your Email Confirmation dated 02.03.2026
+GST Extra as applicable
+FOR ACC Site
+ SPECIAL TERMS AND CONDITIONS (STC)
+1.0 Delivery Term
+ FOR - SITE
+Enclosures:
+ 
+ANNEXURE-I
+PRICE SCHEDULE
+PO Item
+No / PR
+No /
+Item Code
+Description & Specification
+Delivery
+Date
+Taxes/Duties
+Value
+Qty
+UOM Price in INR
+Total
+Discount
+Amount in
+INR
+ACC LIMITED, CEMENT HOUSE, 121 MAHARSHI KARVE ROAD, MUMBAI-400 020, WWW.ACCLIMITED.COM, CORP ID NO L26940MH1936PLC002515
+Disclaimer: This is a system generated document and does not need any/additional/physical signatures
+Page 1 -of- 2
+Order Value Summary
+Basic Price after Disc in INR
+ 309,484.00
+Taxes in INR
+ 55,707.12
+PO Price
+ 365,191.12
+Total in INR
+Three Lakh Sixty Five Thousand One Hundred Ninety One and Twelve Paise Only
+ 365,191.12
+
+__________________________________________________________________________________________________________________
+PO No : 1201038700
+PO Item
+No / PR
+No /
+Dept
+Item Code
+Description & Specification
+Delivery
+Date
+Taxes/Duties
+Value
+Qty
+UOM Price in INR
+Total
+Discount
+Amount in
+INR
+Dept
+00001/
+25028
+83900
+/
+INSTR
+UMEN
+TAT
+308000302327
+PROBETUBE
+ASS.;PN:18418012;3000MM;AD
+AGE
+HSN Code:90273090
+PROBE TUBE
+ASSEMBLY;PART
+NO:18418012;SAMPLING
+TUBES:01;LENGTH
+:3000MM;WATER INLET/
+OUTLET:1 IN HOSE
+CONNECTION;MAKE:ADAG
+19.04.2026
+Integrated GST
+18%
+1.000 
+EA
+309,484.00 
+PER 1 EA
+INR 
+0.00 309,484.00 
+Basic Price after Disc in INR 309,484.00
+Taxes in INR 55,707.12
+PO Price 365,191.12
+ 365,191.12 
+Total in INR
+Three Lakh Sixty Five Thousand One Hundred Ninety One and Twelve Paise Only
+Disclaimer: This is a system generated document and does not need any/additional/physical signatures
+Page 2 -of- 2
+
+PO No : 1201038700
+GENERAL TERMS AND CONDITIONS
+(LOW VALUE DOMESTIC SUPPLY)
+1. Definitions
+Defined terms used herein or anywhere else in this PO, together with their respective grammatical variations and cognate expressions, shall
+have the meanings specified herein:
+"Basic Price" means the amount payable by Buyer to Seller for purchase of Goods, including costs in respect of materials, consumables, tools
+and tackles, manufacturing, packing, forwarding, freight, loading and unloading charges, insurance charges, margin, overheads, applicable Taxes
+(except GST) and all other costs associated with Delivery, unless specified otherwise in STC.
+"Buyer" means the company specified in this PO, including its legal successors and assigns.
+"Defect" means any defect or damage to Goods on account of non-conformance of Goods with Specifications, including faulty design,
+engineering or workmanship of Goods affecting the ability of Goods to comply with Specifications.
+"Defect Liability Period" means the period set out in STC, during which Seller shall remain liable for all repairs or replacement of any Defects at
+its own cost and expense.
+"Delivery" means the loading, delivery and ancillary services to be performed by Seller or its representatives to deliver undamaged Goods at
+Delivery Point, in accordance with Delivery Term and as per other applicable conditions of this PO.
+"Delivery Point" means the location at which Goods shall be Delivered, as specified in STC.
+"Delivery Schedule" means the schedule for Delivery as set out in STC.
+"Delivery Term" means the delivery term, including any applicable Incoterm, for Delivery of Goods, as specified in STC.
+"Drawings" means all drawings in respect of Goods, furnished by Buyer or Seller and approved by Buyer in writing.
+"Effective Date" means the date of issuance of this PO by Buyer to Seller, unless otherwise specified in STC.
+"Force Majeure" means the occurrence of any event which is: (i) beyond the reasonable control of the affected Party; (ii) unavoidable,
+notwithstanding reasonable care by the affected Party; and (iii) not a result of the affected Party's negligence or failure to perform its
+obligations, and which has a direct, material and adverse effect upon the affected Party's ability to perform its obligations under this PO, and
+such events mean acts of God, earthquake, volcanic activity, fire, flood or other natural disasters, war, invasions, riots, terrorism, civil
+disturbances or embargos.
+"Goods" mean the goods, including spares, accessories, tools and tackles (as applicable) to be supplied by Seller as per the scope of work in
+terms of this PO, as specified in STC.
+"GST" means the applicable goods and services tax payable in terms of applicable law of India for the time being in effect, as applicable to
+supply of Goods under this PO.
+"Incoterm" shall mean the delivery terms as published and defined by the International Chamber of Commerce, in INCOTERMS, 2020 (ICC
+Publication 723).
+"Party" means Buyer or Seller, as applicable.
+"PO" means this purchase order issued by Buyer, together with any schedule, annexure or attachment to this PO, including Specifications and
+Drawings, along with amendments to any of the foregoing.
+"PO Price" means the total of Basic Price and applicable GST, payable to Seller for performance of obligations under this PO, as specified in STC.
+"Price Schedule" means the schedule annexed to this PO, setting out the price payable in respect of Goods.
+"Seller" means the successful bidder who is awarded this PO by Buyer.
+"Specifications" mean all technical documents, specifications, guidelines, Drawings, latest international and Indian codes and standards
+applicable to Goods and any specific requirements that are attached to or set out in this PO or referred to in STC.
+"STC" means special terms and conditions applicable for this PO and as set out therein.
+"Taxes" mean and include taxes, duties, levies, cess, royalty, GST and similar imposts, whether in the nature of indirect tax or direct tax and
+whether or not imposed at the state, municipal or any other level.
+2. Price, Terms and Mode of Payment
+2.1. PO Price shall remain firm for the entire duration of this PO, including extensions, if any, and shall not be subject to escalation for any
+reason whatsoever, unless as provided for in the PO or otherwise agreed by Buyer.
+2.2. PO Price shall be paid by wire transfer as per the terms specified in STC and subject to deductions and/or withholdings required under
+applicable laws. Seller shall raise invoices for claiming payment of the PO Price, in electronic format as may be prescribed under applicable law
+and specified in STC. Seller shall ensure that all such invoices raised hereunder are correct and complete. Invoices issued in other manner shall
+be deemed to be invalid and shall not be eligible for any payments. Any payment made by Buyer shall not be deemed to constitute acceptance
+by Buyer of Goods or any part(s) thereof.
+3. Taxes
+3.1. Applicable Taxes on Goods shall be as specified in STC. Buyer shall pay the applicable GST to Seller at actuals, as per rates specified in the
+Price Schedule. Seller shall: (i) deposit applicable GST; (ii) file returns and such other analogous statutory filings in respect thereto with the
+relevant government authorities, in accordance with applicable laws; and (iii) submit to Buyer all relevant documentation evidencing such
+compliance and deposit of GST within three (3) days of filings and/or deposit. Buyer shall be entitled to withhold payments due to Seller under
+this PO, to the extent GST amounts are not deposited by Seller with the government authorities, along with any interest, fine and/or penalty
+that may be levied under applicable laws, if Seller fails to comply with this Clause 3.
+3.2. Seller shall comply with all requirements stipulated under applicable laws in respect of deposit of Taxes. Any expenses suffered by Buyer
+on account of Seller's non-compliance with such applicable laws shall be to Seller's account. Any new Tax or a variation in rate of applicable
+GST on Goods after the Effective Date and up to scheduled Delivery shall be to Buyer's account. Any increase in rate of applicable GST or
+Page 3 -of- 4
+
+PO No : 1201038700
+imposition of new Taxes during the period where Delivery is delayed, for reasons not attributable to Buyer, shall be to Seller's account.
+4. Drawings
+Unless otherwise required by Buyer, Seller shall submit copies of Drawings to Buyer for approval. Notwithstanding any consent or approval of
+Buyer, Seller shall be responsible for any discrepancies, errors or omissions in the Drawings, documents and other particulars supplied by Seller.
+5. Packing, Forwarding and Transportation
+5.1. Unless otherwise specified in STC, Basic Price shall be inclusive of packing, forwarding and transportation charges. Any loss/expense
+caused due to breakage, damage or pilferage of Goods while in transit, shall be borne by Seller. Seller shall either appoint a carrier
+recommended by Buyer, or engage a carrier or transporter which is acceptable to Buyer.
+5.2. Seller shall be responsible for complying with Central Goods and Services Act, 2017 ("CGST Act") and Central Goods and Services Tax Rules,
+2017 ("CGST Rules"), generation of applicable e-way bill in accordance with the provisions thereof, as well any extension, amendment and
+cancellation thereof, and Buyer shall provide the required details to Seller in this regard, upon request. Copy of e-way bill shall be provided
+along with details of dispatch vehicle and other transportation documents before carriage of Goods, and such e-way bill copy shall be handed
+over to Buyer upon Delivery. Any fine/penalty levied upon Buyer due to Seller's non-compliance with CGST Act and CGST Rules shall be
+recovered from Seller at actuals.
+5.3. All Goods shall be carefully packed according to nature of Goods, and in a manner appropriate for safe and secure carriage of Goods in
+accordance with any instructions specified in STC, or as per industry standards. All packing cases are non-returnable, unless otherwise
+specified in STC.
+6. Insurance
+Unless otherwise specified in STC, Seller shall procure at its cost, all insurances required to be obtained by Seller in terms of applicable law,
+including transit risk insurance. The insurance procured shall cover all risks till Goods are Delivered and unloaded at the Delivery Point, unless
+otherwise specified in STC. The Buyer's lenders (where required by Buyer) shall be designated as 'loss payees' in insurances obtained by Seller
+under this PO.
+7. Inspection
+Buyer reserves the right to appoint a third party inspector or its own representative for inspection of Goods, or require Seller's technically
+qualified experts at Seller's works to carry out inspection on Buyer's behalf. Seller shall provide all assistance to Buyer in inspection of Goods,
+including but not limited to providing access to Buyer to its works, and furnishing inspection reports and test certificates to Buyer.
+8. Acceptance and/or Rejection of Goods
+Final inspection of Goods for compliance with Specifications and the terms of this PO shall be performed upon Delivery, and Buyer's
+determination shall be final in this regard. Buyer reserves the right to reject Goods, in part or in full, that are non-compliant with Specifications
+and terms of this PO, and shall inform Seller of Buyer's determination in writing. Buyer shall have the right to adjust the PO Price in proportion
+to Goods rejected. No claim by Seller in respect of such rejection shall be entertained. Seller shall repair/replace the Defective Goods, at its own
+cost and risk, within a timeframe advised by Buyer. The rejected Goods shall be immediately retrieved by Seller. If Seller fails to retrieve such
+rejected Goods within thirty (30) days of such rejection, Buyer shall have the right, at Seller's risk and cost, to dispose such rejected Goods
+towards recovery of costs incurred by Buyer on storage, handling and disposal of such rejected Goods.
+9. Title and Risk
+Unless otherwise specified in PO, all Goods shall become the property of Buyer, on the earlier of: (i) completion of Delivery; or (ii) payment of PO
+Price by Buyer. The risk in Goods shall pass from Seller to Buyer upon Delivery. For avoidance of doubt, in the case of partial or staggered
+Delivery, title and risk in Goods shall pass from Seller to Buyer in accordance with this Clause in respect of such Goods which have been
+Delivered or paid for.
+10. Defect Liability
+During Defect Liability Period, any Defect or damage found in Goods shall be promptly repaired, replaced or otherwise made good at Seller's
+cost. If Seller fails to remedy such Defect within the time period advised by Buyer, Buyer may, by providing a notice to Seller, proceed to rectify
+such Defect, and all costs incurred by Buyer in connection therewith shall be reimbursed by Seller, or deducted by Buyer from any amounts due
+to Seller.
+11. Fitment, Interchangeability Guarantee and Shelf-Life
+11.1. All Goods procured under this PO shall be fully interchangeable (dimensionally and/or functionally, as applicable) with certain other parts
+or components (as may be specified in this PO) and identical to such corresponding main part or component. Seller shall submit to Buyer a
+certificate guaranteeing the fitment-cum-interchangeability of such spares, components or parts upon Delivery.
+11.2. Seller warrants that minimum residual shelf-life of all Goods supplied under this PO shall, at the time of Delivery, be at least seventy five
+percent (75%) of the shelf-life of such Goods as prescribed by Buyer.
+12. Seller's Liability for Failure to Perform
+In case Seller fails to complete Delivery or this PO is terminated in accordance with Clause 18, then without prejudice to any other rights that
+Buyer may have under applicable law or this PO, Buyer shall have the right to procure goods or equipment similar to Goods from a third party. In
+such an event, Seller shall be liable to reimburse additional costs incurred by Buyer on procurement of such goods or equipment.
+13. Representations, Warranties and Covenants
+13.1. Seller represents, warrants and covenants with the Buyer that: (i) it has full power and authority to execute and deliver this PO; (ii) the
+execution, delivery and performance of this PO by Seller does not and shall not conflict with or result in breach of any applicable laws; (iii)
+Goods furnished by it shall be fit for the purposes and uses intended and capable of operation as per Specifications and in accordance with this
+PO; (iv) it has requisite skill, knowledge, expertise, experience, personnel, financial and technical capability and adequate infrastructure to
+successfully perform all obligations under this PO; (v) it ensures responsible business management with respect to environmental, social and
+governance related matters; and (vi) it is fully aware of and shall comply with all safety regulations, code of conduct (as published on the
+Page 4 -of- 4
+
+PO No : 1201038700
+Buyer's website) and applicable laws which must be complied with in its performance of obligations under this PO.
+13.2. Seller further covenants that it shall, as a part of performing its obligations under this PO, ensure responsible business management
+pertaining to environmental, social and governance related matters and comply with policies, codes and guidelines, as may be notified by Buyer
+to Seller in this regard and as per applicable laws.
+14. Intellectual Property Rights
+Seller represents and warrants that Goods do not, and shall not, infringe any patent, utility model, design, trademark, copyright or other
+intellectual property right of any third party. The title and license to all designs, Drawings, documentation, inventions and discoveries made by
+Seller while performing its obligations under this PO, shall be vested in Buyer, and Buyer shall be entitled to copy or reproduce documents,
+Drawings and other information furnished by Seller in this regard for the purpose of which they are intended, without requiring Seller's
+permission.
+15. Indemnity
+Seller shall defend, indemnify and hold harmless Buyer, its employees and officers from and against any and all suits, actions or administrative
+proceedings, claims, losses, damages, costs and expenses of whatsoever nature, which Buyer may suffer, as a result of: (i) any infringement or
+alleged infringement of intellectual property rights of a third party; (ii) any fraud, gross negligence, wilful misconduct or illegal acts or omissions
+of Seller; (iii) non-compliance with applicable laws by Seller; or (iv) injury to or death of any person or damage to or loss of property of any
+parties caused by any act or omission of Seller or Seller's personnel.
+16. Limitation of Liability
+The aggregate liability of either Party under this PO shall not exceed PO Price, provided that the limitation shall not apply to: (i) any obligation
+of Seller to repair or replace Defects in Goods; or (ii) any liability pursuant to Seller's indemnity obligations set out in Clause 15.
+17. Force Majeure
+Each Party shall be excused from performance of its obligations under this PO and shall not be considered in default with respect to any
+obligation hereunder, if and to the extent that a failure of, or delay in performance is due to an event of Force Majeure, provided that the
+affected Party shall give notice of such event of Force Majeure to the other Party as a precondition to claiming relief for Force Majeure, as soon
+as reasonably practicable, but not later than seven (7) days after the date on which it knew or should reasonably have known of
+commencement of the event of Force Majeure. To the extent not prevented by an event of Force Majeure, the affected Party shall: (i) continue
+to perform its obligations under this PO; and (ii) use reasonable efforts to mitigate the effect of any event of Force Majeure.
+18. Termination
+Buyer reserves the right to terminate this PO either in part or full, by giving seven (7) days' written notice to Seller: (i) for convenience; (ii) in the
+event any proceeding is instituted against Seller seeking to adjudicate Seller as bankrupt or insolvent, and such proceeding has not been
+withdrawn or dismissed within ten (10) days of its institution; or (iii) in case of breach by Seller of its obligations under this PO. No claim shall
+lie against Buyer towards any losses suffered by Seller in this regard. Upon such termination, Buyer shall have an option of taking Delivery of
+completed portion of Goods and/or requiring Seller to refund all amounts paid. Any terms that by their nature survive termination of this PO
+remain in effect until fulfilled, and shall apply to successors and assigns of the Parties.
+19. Governing Law and Dispute Resolution
+This PO shall be governed by laws of India and courts at Ahmedabad, Gujarat, India shall have exclusive jurisdiction in all matters relating to this
+PO for the purpose of dispute resolution and for enforcement of any action and proceedings arising out of this PO.
+20. Amendment
+20.1. Buyer reserves the right to modify terms of this PO at any point of time, by written notice to Seller, and Seller shall incorporate such
+modifications in the course of performing its obligations.
+20.2. If: (i) any change pursuant to Clause 20.1 results in an impact on PO Price or Delivery Schedule; or (ii) Seller requires any addition,
+variation or change in terms of this PO, Seller shall provide notice to Buyer, and Parties shall mutually agree upon an equitable adjustment to
+PO Price and Delivery Schedule, which shall be effective upon a written amendment to this PO.
+21. Confidentiality
+All information including, without limitation, any oral and written information disclosed by Buyer to Seller or any other person/entity acting for
+and on behalf of Seller, shall be deemed to be confidential and proprietary to Buyer. Seller shall not disclose or use any information supplied
+hereunder for a purpose other than for performance of its obligations under this PO, unless otherwise specified, and further undertakes to not
+reverse engineer any information furnished by Buyer. Seller shall keep the confidential information securely and properly protected against
+theft, damage, loss and unauthorized access (including access by electronic means). Seller shall, as soon as practicable and upon request by
+Buyer, return to Buyer or irretrievably destroy all original documents and copies thereof which contain confidential information as set out in
+Buyer's request. The Seller shall abide by applicable laws prohibiting insider trading and shall not use any confidential information for the
+purposes of trading in the securities market.
+22. Set-off and Adjustment
+22.1. Seller agrees that Buyer shall have a right to set-off or adjust payments due and payable to Seller under this PO against any payments due
+and receivable from Seller. In case the amounts due to Buyer from Seller are more than the amounts that could be adjusted or set-off from
+payments due to Seller, Buyer shall have the right to raise a credit note on Seller to recover such due and outstanding amounts.
+22.2. It is agreed between Parties that all payments by Seller in respect of any payment obligations of Seller in terms of this PO shall be made
+without any deductions or set-off. If Seller is prevented by applicable law or otherwise from making or causing to be made such payments
+without deduction, Seller shall gross-up such payments by such amounts as may be necessary for Buyer to receive the full payments it would be
+entitled to receive, had such payments been made without such deduction.
+23. Anti-bribery and Anti-corruption
+Seller covenants that neither Seller nor any of its affiliates, sub-suppliers or representatives have offered or given, nor shall they offer or give,
+Page 5 -of- 4
+
+PO No : 1201038700
+any bribe, commission or gift to a representative of Buyer or its affiliates in relation to the obtaining or execution of this PO. Seller shall be
+liable for all losses suffered by Buyer on account of Seller's breach of this Clause, and Buyer may recover such losses by deduction, set-off or
+recovery from amounts otherwise due to Seller.
+24. Assignment and Subcontracting
+Buyer shall be entitled to assign the whole or any part of this PO, or any interest or benefit herein, without the consent of Seller. Seller shall not
+be entitled to assign any part of this PO or any benefit or interest thereunder without obtaining Buyer's prior written consent. Seller shall be
+responsible for acts, omissions and defaults of any subcontractor as fully as if they were the acts, omissions or defaults of Seller and any
+assignment or subcontracting shall not relieve Seller of any of its responsibilities under this PO or at law.
+25. Independent Contractor
+Parties acknowledge and accept that Seller shall act and perform its obligations under this PO as an independent contractor and that Seller
+shall not be regarded as an employee, agent or partner of Buyer. Seller shall not have any power or authority to enter into any contract,
+agreement or arrangement for or on behalf of Buyer.
+26. Waiver
+Any waiver of a Party's rights, powers or remedies under this PO shall be in writing, dated and signed by such Party or its authorized
+representative granting such waiver. A Party granting such waiver shall specify the right and the extent to which such right is being waived.
+Page 6 -of- 4

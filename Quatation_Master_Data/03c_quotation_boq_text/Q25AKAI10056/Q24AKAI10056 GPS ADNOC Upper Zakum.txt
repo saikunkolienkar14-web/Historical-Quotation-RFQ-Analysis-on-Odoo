@@ -1,0 +1,260 @@
+Quotation Number: Q24AKAI10056R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price $
+Total Price $
+1.
+Oil in Water Analyzer with Field Skid with
+Sampling system excluding Rotameter
+4
+131,897.00
+527,588.00
+Optional Quote
+A
+Remote / In Person FAT at OEM Works
+1 man day
+4795.00
+4,795.00
+B
+FAT at AKAI Works with integrated system
+1 man day
+2,500.00
+2,500.00
+C.
+2-Year Operational Spare
+2
+22,000.00
+88,000.00
+D.
+SAT support
+1 man day
+2,200.00
+2,200.00
+E
+Training
+1 man day
+2,500.00
+2,500.00
+F
+Rotameter Hast C/ Alloy 825 with the
+fittings
+4
+6,888.00
+27,522.00
+www.adage-kanoo.com
+Page 4
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quotation- Q24AKAI10056R1
+Section-2 Technical Description of Offering
+Sr.No.
+Description
+Qty
+1
+Oil in Water Analyzer
+Tag: 2110-AT-5502, 2110-AT-5501, 2010-AT-5501, 2010-AT-5502
+Make: Advanced Sensors
+Model: X-ONE-FS
+Measuring Principle: Laser Induced Fluorescence (LIF)
+Cleaning Principle: Enhanced Ultrasonic Cleaning (automatic)
+Area Classification: Ex db IIB T3 Gb Ta = -20 ̊C to +60 ̊C
+Max. liquid temperature 200
+Range: 0 – 1000/3000/20000 ppm
+Wetted Parts: Incoloy 825
+Ingress protection: IP rated for IP66
+Enclosure classification: Type 4X
+Power Supply: 100 - 240 VAC 50/60Hz, 25W norm, 180W max
+Mounting: Wall Mount
+•
+SS 316L Exd Enclosure - Painted
+•
+SS 316L Nameplate
+•
+7in Colour Display
+•
+Digital Relay (Dry Contact) – 3 available
+•
+Digital Input (Start/Stop Command)
+•
+Automatic Ultrasonic Cleaning
+•
+Measurement Cell (100ml approx.)
+•
+Process connection 1/2in NPTF Threaded Connection
+•
+Communications: 4-20mA Passive Signal Output (may be configured as
+“Active” upon request), HART 7 & MODBUS RTU (RS485)
+•
+316L Glands and stopping plugs (this includes all fittings and conduit
+glands)
+•
+General Purpose Bluetooth Keyboard. To be used during maintenance and
+is not hazardous area compliant, therefore the restrictions would apply (only
+to be used when no hazardous gases are present)
+•
+Hazardous Area Certificate Number IECEx CSAE 22.0028X
+4
+1.1
+Field Rack for analysers
+4
+Make: Adage
+•
+Freestanding Rack Structure MOC SS316
+•
+Base shall be of 100mm x 50mm x 5mm Channel.
+•
+Joints will be seal welded and ground smooth.
+•
+Lifting Devices: Two (2) Mild Steel lifting eyes shall be attached to the upper
+cross channel at each end and shall be designed to lift the total weight of
+the rack with all equipment installed.
+•
+Equipment/Enclosure Mounting Strut: Steel
+•
+With Sunshade
+•
+On-Off Switch, Signal JB 2x (EXd-LM6) Make: Baliga
+•
+Flowmeter Metal Tube Make: Brooks / Krohne
+GA Drawing and P&ID attached as Annexure-1
+www.adage-kanoo.com
+Page 5
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quotation- Q24AKAI10056R1
+A
+Sample Conditioning System
+4
+Consisting of
+•
+Sample Probe – Fixed Type – Alloy 825 with 1⁄2” OD Ball Valve.
+•
+Sample Transport Tube – Alloy 825, 15m
+•
+Ball Valve – 1⁄2” OD Alloy 825
+•
+Flow Indicator – 1⁄2” OD Hastelloy C
+•
+Sample Drain Header with funnel arrangement – SS316L
+•
+With required fittings.
+Refer attached P&ID Drawing
+B
+Remote / In Person FAT at OEM Works
+Per man
+day
+FAT or Inspection Visit (per day) Customer or TPI in attendance physically at ASL
+Premises or to view the test remotely via Teams/Zoom/Skype video call
+•
+FAT will be carried out as per FAT Procedure and ITP Witness points only.
+•
+PPM range during FAT will be 0-100ppm using Factory Standard Crude Oil
+unless clients oil sample is provided with requested range.
+C
+FAT at AKAI Works with integrated system
+Per man
+day
+•
+FAT Procedure, FAT Report and Inspection and Test Plan (ITP) will be
+provided.
+•
+FAT will be carried out as per FAT Procedure and ITP Witness points
+•
+OEM Certificates will be reviewed.
+•
+Integrated System Visual, Dimensional, and Functional Tests will be carried
+out as per FAT Procedure
+D
+2-Years Operational Spares
+4
+Consists of
+•
+Cell Glass Replacement
+E
+SAT Support
+Per man
+day
+Supervision of Installation of Oil in Water Analyzer for Commissioning, SAT (Site
+Acceptance Test)
+Buyer shall provide within Abu Dhabi, accommodation, food, and local
+transportation.
+F
+Training
+Training shall be carried out in the English language at site; soft copies of Analyzer
+Manuals and notes shall be provided. Training shall be in person with actual
+conditions (not virtual) in two batches of the site personnel.
+www.adage-kanoo.com
+Page 6
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quotation- Q24AKAI10056R1
+Section 3: General Notes and Clarifications
+1. Quoted Prices are in US Dollars $.
+2. Price Basis Ex Works AKAI- UAE – Excluding VAT and custom duty
+3. Filter is not considered as the its effectiveness against removal of Turbidity and/or Oil cannot be
+guaranteed and purpose of system is to measure Oil and chances of sample contamination due to
+filtration or later release of oil from said filter my lead to sample contamination.
+4. We have not considered Analyzer being installed inside cabinet as Analyzer is suitable for field
+installation, we have considered field skid.
+5. Analyzer body is SS316L however Signal JB and On/Off Sitch quoted are EXd type with LM6.
+6. Current system design does not allow sample return greater than ambient pressure due to funnel
+arrangement.
+7. We have considered Alloy 825 or better for wetted parts, Analyzer shall not be NACE Compliant.
+8. Bypass is not considered in the system as analyzer can support upto 25lpm flow.
+9. RF/EMI compliance is covered under CE certification of the Analyzer.
+10. There are no special tools required for operation of the system.
+11. Analyzer have RS485/Ethernet for communication with DCS.
+12. No Type Testing has been considered in current offer.
+13. Service support shall be made available though our facility in Kezad Abu Dhabi.
+14.
+15. Following exclusions are not quoted and to be taken care by customer.
+•
+All field tubes (standard tubes, 1⁄4’’ OD SS316, 1⁄2’’ OD SS316, 3⁄4’’ OD SS316 etc)
+including sample transportation and return, flare lines, instrument airline up to battery
+limit etc.
+•
+All field power, signal cables with cable trays and supporting structure as required.
+•
+Field Cable trays and supporting structures for heat tracer lines.
+•
+Process isolation valve near tapping point.
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Erection and Installation of analyser Shelter and hookup of required utilities, Pre-
+fabricated Electrical traced tubes, bare tubes, pipe, tube fittings between
+sample take off and analyzer shelter & sample return, fast loop, vent lines etc.
+•
+Material Handling at Site, unloading of analysers, Internal Shifting from Plant Store to
+Field.
+•
+Loop checking for analogue & digital signals related to filed/DCS connection.
+•
+Providing all utilities as specified in MR at one point/battery limit near each
+Analyzer house / Cabinet / Rack in field.
+•
+Painting is not included
+•
+Tropicalization is not include d
+www.adage-kanoo.com
+Page 7
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+Quotation- Q24AKAI10056R1
+Section 4: Commercial Terms *
+Prices Quoted
+Ex-Works AKAI, Abu-Dhabi
+Packing & forwarding
+Included
+Delivery
+20 weeks from Date of PO

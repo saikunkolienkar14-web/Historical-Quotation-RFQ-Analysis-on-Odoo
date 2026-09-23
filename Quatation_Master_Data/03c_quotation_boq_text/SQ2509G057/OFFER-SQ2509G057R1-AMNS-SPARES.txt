@@ -1,0 +1,788 @@
+Quotation Number: SQ2509G057R1
+BOQ Status: FOUND
+
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602002
+LCD Display Ultramat 23
+1.00
+177,928.00
+177,928.00
+1
+-
+Nos
+28602006
+Pressure Switch - Sample Gas,
+Ultramat 23
+1.00
+57,224.00
+57,224.00
+2
+-
+Nos
+28602016
+Plate with Threaded Nuts & bolts-
+Dual Component -Ultramat 23
+1.00
+114,264.00
+114,264.00
+3
+-
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+118,128.00
+118,128.00
+4
+-
+Nos
+28602056
+Condensate Trap - Ultramat 23
+1.00
+16,928.00
+16,928.00
+5
+-
+Nos
+28602105
+Detector SO2 - Ultramat 23 channel 2
+1.00
+547,400.00
+547,400.00
+6
+-
+Nos
+Nos
+28602046
+Detector NO Channel 1 - Ultramt 23
+1.00
+388,056.00
+388,056.00
+8
+-
+Nos
+28602083
+Transformer - Power Supply Ultramat
+23
+1.00
+46,552.00
+46,552.00
+9
+-
+Nos
+28602019
+Motherboard for Ultramat 23
+1.00
+534,888.00
+534,888.00
+10
+-
+Nos
+28602095
+CO Detector Set (CO
+receiver/analyzer chamber, 1mm)
+1.00
+253,000.00
+253,000.00
+11
+-
+Nos
+7
+28602206
+Detector, CO, Tripple Channel - U23
+1.00
+265,300.00
+265,300.00
+-
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+-
+Nos
+28602028
+Sample cell, 180 mm, U23
+1.00
+107,456.00
+107,456.00
+13
+-
+Nos.
+28602029
+Sample cell, 60 mm, U23
+1.00
+118,128.00
+118,128.00
+14
+-
+Nos.
+28602030
+Sample cell, 20 mm, U23
+1.00
+99,728.00
+99,728.00
+15
+-
+Nos.
+28602037
+Keypad - Ultramat 23
+1.00
+89,240.00
+89,240.00
+16
+-
+Nos
+Nos
+28602078
+Paramagn. Measuring cell (Dumbbell)
+Ultramat 23
+1.00
+525,000.00
+525,000.00
+18
+-
+Nos
+28602054
+Cartridge Filter
+1.00
+8,625.00
+8,625.00
+19
+-
+Nos
+28602003
+Sample cell SS 1.4571 without flow
+type compensation side - Oxymat
+1.00
+82,248.00
+82,248.00
+20
+-
+Nos
+28602055
+Spare part Display+Connection board
+1.00
+209,208.00
+209,208.00
+21
+-
+Nos
+28602017
+Motherboard For Oxymat
+1.00
+441,600.00
+441,600.00
+22
+-
+Nos
+28602021
+Reference gas supply (with Pump) -
+Oxymat 61
+1.00
+203,320.00
+203,320.00
+23
+-
+Nos
+28602034
+Measuring Head - Oxymat
+1.00
+503,792.00
+503,792.00
+24
+12
+1.00
+246,008.00
+246,008.00
+28602079
+Detector CO2
+Ultramat 23
+17
+28602020
+Detector CO - PPM, B25 U23
+1.00
+281,888.00
+281,888.00
+-
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+-
+Nos
+28601263
+PILOT SWITCH PRESSURE
+SWITCH-Oxymat 61
+1.00
+33,672.00
+33,672.00
+25
+-
+Nos
+28601264
+SET OF GASKET FOR DIAPHRAGM
+PUMP-OXYMAT 61
+1.00
+31,464.00
+31,464.00
+26
+-
+Nos
+Nos
+28602004
+Motherboard For Calomat 6
+1.00
+184,768.00
+184,768.00
+28
+-
+Nos
+28602023
+Sensor For Calomat 6
+1.00
+488,750.00
+488,750.00
+29
+-
+Nos
+78309050
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Purging,
+MOC Brass
+1.00
+11,334.00
+11,334.00
+30
+-
+Nos
+78409060
+Solenoid Valve 2/2 Way 1/4” NPT (F)
+230 VAC, NC, 4 MM Orifice, Universal
+MOC SS316
+1.00
+22,600.00
+22,600.00
+31
+-
+Nos
+78309054
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Pulsating,
+MOC Brass
+1.00
+16,500.00
+16,500.00
+32
+-
+Nos
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+1.00
+163,334.00
+163,334.00
+33
+-
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+43,050.00
+43,050.00
+34
+-
+Nos.
+27
+28602108
+Restrictor Set - Oxymat 61
+1.00
+9,315.00
+9,315.00
+-
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+78409061
+Solenoid Valve 3/2 Way 1/4” NPT (F)
+230 VAC, NC, 2.4 MM, Universal
+Orifice, MOC SS316
+1.00
+23,334.00
+23,334.00
+35
+-
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+4,500.00
+4,500.00
+36
+-
+Packets
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+1.00
+22,500.00
+22,500.00
+37
+-
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+13,917.00
+13,917.00
+38
+-
+Nos
+1.00
+32,500.00
+32,500.00
+39
+-
+Nos
+28932006
+Gasket to heat exchanger - For CWD
+2005
+1.00
+5,838.00
+5,838.00
+40
+-
+Nos
+28612054
+Diaphragm for precision gas regulator
+1.00
+31,926.00
+31,926.00
+41
+-
+Nos
+28728025
+Pressure regulator type 912N/112,Pin
+max. : 17,2 bar,Range: 30 - 60 mbar
+(spring blue)
+1.00
+86,773.00
+86,773.00
+42
+-
+Nos
+28932050
+Central Unit for CWD 2005 Without
+Conversion Kit, Controller 10", P/N
+87402199995, Union
+1.00
+840,252.00
+840,252.00
+43
+-
+Nos
+28612095
+Fan 24 VDC for CWD2005 175
+m3/h-110-240 VAC / 24 VDC
+1.00
+575,075.00
+575,075.00
+44
+-
+Nos
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+28932010
+CONTROL BOARD, PN :
+02402199887 (Old 02402199952),
+MAKE: UNION INSTRUMENT
+1.00
+218,978.00
+218,978.00
+45
+-
+Nos
+28612100
+Differential pressure sensor for
+CWD2005
+1.00
+54,232.00
+54,232.00
+46
+-
+Nos
+28612096
+Specific Gravity Sensor, Measuring
+range 0,2 – 2,2 dv,
+1.00
+988,475.00
+988,475.00
+47
+-
+Nos
+28612060
+ELECTRONIC WITH PRESSURE
+SENSOR GAS INLET ; PART NO :
+CW05-S-E-SENPIGA
+1.00
+41,339.00
+41,339.00
+48
+-
+Nos
+28612059
+Electronic pressure sensor gas
+1.00
+71,017.00
+71,017.00
+49
+-
+Nos
+28612055
+Solenoid valve 2/2 Alu-Flange
+1.00
+48,300.00
+48,300.00
+50
+-
+Nos
+Nos
+28612018
+Electronic Module Intern for
+CWD2005
+1.00
+368,376.00
+368,376.00
+52
+-
+Nos
+28612056
+Thermopile with 24 thermo elements,
+Diameter: 1,0mm
+1.00
+218,978.00
+218,978.00
+53
+-
+Nos
+28612052
+Air filter with Grip Protection,
+Dimensions 200 x 200 x 95 mm
+1.00
+29,880.00
+29,880.00
+54
+-
+Nos
+28708112
+Sample Gas Pump N87TTE - 450
+LPH - 230 VAC, 50Hz
+1.00
+161,000.00
+161,000.00
+55
+-
+Nos.
+51
+28612049
+Electronic Module Extern- Union Instrument
+1.00
+414,421.00
+414,421.00
+-
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+28919006
+Coalescing Filter Element - For SS
+Fine Filter
+1.00
+3,679.00
+3,679.00
+56
+-
+Nos.
+1.00
+17,690.00
+17,690.00
+57
+-
+Nos
+1.00
+5,359.00
+5,359.00
+58
+-
+Nos
+18410001
+Union 6mm OD-SS316
+1.00
+550.00
+550.00
+59
+-
+Nos
+1.00
+2,300.00
+2,300.00
+60
+-
+Nos
+-
+Nos
+18538001
+Fan 230 VAC 50 Hz; Model No. REC
+22038 B2 T
+1.00
+1,625.00
+1,625.00
+62
+-
+Nos
+18604013
+RTD/TC Input to 4-20mA Converter ,
+Power supply : 110/230 VAC, 50 Hz
+1.00
+20,934.00
+20,934.00
+63
+-
+Nos
+18606072
+DIGITAL OUTPUT SM 1222, 8 DO
+RELAY 2A
+1.00
+16,286.00
+16,286.00
+64
+-
+Nos
+18606070
+CPU 1214C,- S7 1200-14 DI 24V DC;
+10 DO RELAY 2A; 2 AI 0 - 10V DC
+1.00
+46,886.00
+46,886.00
+65
+-
+Nos
+18610061
+MMI 7"Display -Panel master
+1.00
+141,667.00
+141,667.00
+66
+-
+Nos
+28417050
+Inline Filter,Particulate Filter, 6 mm
+Tube Fitting, 7 Micron Pore Size
+18408011
+Ball Valve 2/2 -way Ball Valve with
+PVC handle connection size 1/2"
+OD -SS-316
+18528040
+Relay Slim-230 VAC,
+61
+1.00
+15,875.00
+15,875.00
+18531016
+Power Supply 24 VDC
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+-
+Nos.
+18709005
+Flow Meter 50-500 LPH 1/4" NPT (F)
+MOC Glass-Placka
+1.00
+13,125.00
+13,125.00
+68
+-
+Nos
+18709012
+Flow Meter 200-2000 LPH 1/4" NPT
+(F) MOC Glass
+1.00
+21,768.00
+21,768.00
+69
+-
+Nos
+18712001
+PRESSURE GAUGE WITH
+ELECTRIC CONTACT TYPE (-1 to 5
+Kg/cm2) 100 mm Dial size
+1.00
+18,500.00
+18,500.00
+70
+-
+Nos
+18728007
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder (LHS)
+1.00
+15,795.00
+15,795.00
+71
+-
+Nos
+18712037
+Pressure Gauge, Dial Size: 63mm,
+Bottom Entry, Range: 0 to 60 Mbar,
+Connection: 1/4" NPT(M)
+1.00
+10,200.00
+10,200.00
+72
+-
+Nos
+18728013
+Air Filter Regulator,1/4"BSP(F) with
+0-10 Kg Pressure Gauge
+1.00
+5,625.00
+5,625.00
+73
+-
+Nos
+18902003
+Heat Traced Tube 230 VAC 1/2" SS"
+Constant Voltage
+1.00
+5,500.00
+5,500.00
+74
+-
+Meters
+18902001
+Heat Traced Tube 230 VAC 1/4"
+PTFE", Constant Voltage Type
+1.00
+5,167.00
+5,167.00
+75
+-
+Meters
+18904008
+Cylinder N2 (Nitrogen) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+76
+-
+Nos
+18904009
+Cylinder O2 (Oxygen) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+77
+67
+1.00
+111,975.00
+111,975.00
+28708102
+Sample Gas Pump - 2040 LPH
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025
+-
+Nos
+18904010
+Cylinder CO (Carbon Monoxide) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+78
+-
+Nos
+18904011
+Cylinder CO2 (Carbon Dioxide) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+79
+-
+Nos
+18904012
+Cylinder NO (Nitric oxide) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+80
+-
+Nos
+18904013
+Cylinder SO2 (Sulphur Dioxide) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+81
+-
+Nos
+18904022
+Cylinder H2 (Hydrogen) 47
+Liters-MOC:CS
+1.00
+44,000.00
+44,000.00
+82
+-
+Nos
+18905017
+Cylinder Mixed Gas 47
+Liters-MOC:CS
+1.00
+56,000.00
+56,000.00
+83
+-
+Nos
+-
+Nos
+28211003
+Union 6 mm OD with insert , Material
+PVDF
+1.00
+2,160.00
+2,160.00
+85
+-
+Nos
+28519074
+Sample Gas Pump Bellow MP-F 05
+Material: PTFE capacity: 320l/h with
+counter pressure of -/+ 50 mbar-230V
+50Hz,
+1.00
+156,415.00
+156,415.00
+86
+-
+Nos
+84
+1.00
+3,469.00
+3,469.00
+18932044
+Ethernet Switch (5 Port - hub)
+Ref: Q25260281-SQ2509G057R1
+Date: 09-09-2025

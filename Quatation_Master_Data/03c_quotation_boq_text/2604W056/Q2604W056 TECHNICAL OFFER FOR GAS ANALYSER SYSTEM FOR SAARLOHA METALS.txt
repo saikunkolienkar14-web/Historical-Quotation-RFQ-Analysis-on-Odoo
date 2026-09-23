@@ -1,0 +1,129 @@
+Quotation Number: Q2604W056
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+SO2,NO
+SERVICE: CEMS FOR BOILER CEMS, WBF, SOAKING PIT
+AREA CLASSFICATION: SAFE
+PROCESS CONDITION AT STACK:
+Stack Name
+Temperature Deg
+Pressure
+mmWC
+Boiler CEMS
+110
+0.18
+WBF Stack
+147
+0.42
+Soaking Pit
+77
+1.05
+WITH SAMPLE GAS PROBE
+WITH LINE PURIGING
+WITH SAMPLE HANDLING SYSTEM
+WITH IP 54 ANALYSER PANEL
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 No
+For Sulphur Dioxide (SO2) Measurement
+For Nitric oxide (NO) Measurement
+MAKE SIEMENS AG, GERMANY
+3 Set
+QUOTED
+QUOTED
+1.2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : PTFE ; PORT SIZE: 1⁄4’’
+POWER SUPPLY : 230 VAC 50HZ
+DISTANCE FROM TO ANALYSER ROOM TO
+1. BOILER CEMS STACK:
+2. WBF STACK:
+3. SOAKING PIT:
+Per
+Mtrs
+QUOTED
+QUOTED
+2
+SPM ANALYSER
+SERVICE: CEMS FOR BOILER CEMS, WBF, SOAKING PIT
+AREA CLASSFICATION: SAFE
+MOUNTING LOCATION: DIRECTLY ON STACK
+3 Set
+QUOTED
+QUOTED
+PROCESS CONDITION:
+Stack Name
+Temperature Deg
+Pressure
+mmWC
+Boiler CEMS
+110
+0.18
+WBF Stack
+147
+0.42
+Soaking Pit
+77
+1.05
+MAKE: SICK/EQUIVALENT
+MODEL: SB30
+(FOR SAFE AREA)
+POWER SUPPLY: 230 VAC, 50 Hz
+WITH INTERCONNECTING CABLES
+WITH FLANGE TUBING FOR ANALYSER MOUNTING
+3
+DATA CONNECTIVITY
+IOT BASED DAS FOR SEAMLESS AND CONTINUOUS
+DATA TRANSFER FROM PLANT TO CPCB.
+LAN NETWORK & CONNETION FOR DATA
+CONNECTIVITY IS IN CUSTOMER SCOPE
+3 Set
+QUOTED
+QUOTED
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE,
+TO AND FRO II TIER RAIL/ ECONOMY AIR TICKET
+IS IN CUSTOMER SCOPE)
+Per
+Man
+days
+QUOTED
+QUOTED
+5
+ADDITIONAL PARAMETERS IN ABOVE CEMS SYSTEM
+(OPTIONAL)
+For Carbon Monoxide (CO) Measurement
+For Oxygen (O2) Measurement
+3 Set
+QUOTED
+QUOTED
+Assumption/Clarification:
+1. Gas analyser system is for measurement of SO2,NO is based on Hot extractive technology.
+2. Gas analyser system quoted is for safe area application.
+3. We assume that flue gas present in stack is free from moisture & thickness of stack is less than
+10 mm.
+4. All signal, power & communication cable & hardware will be in scope of customer.
+5. 230 VAC UPS & Non-UPS power supply for analyser panel shall be made available by customer
+6. Instrument air free from oil/moisture/dust @ 4-6 bar pressure is required for purging same
+should be provided by customer.
+7. Please provide distance from sampling point to analyser room for each stack.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+Plant Instrument air required
+•
+Additional tube will be on chargeable basis @ Rs.850/meter.
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (UPS)

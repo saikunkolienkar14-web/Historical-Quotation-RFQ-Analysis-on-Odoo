@@ -1,0 +1,84 @@
+Quotation Number: Q24S10074
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit Price(INR)
+Total Price(INR)
+1
+Gas Chromatograph with SHS
+1 No
+96,50,000
+96,50,000
+2
+Analyser Panel with Air conditioner
+1 No
+3
+Sample Probe
+1 No
+4
+Sample heat tracer line
+20 Mtr
+SECTION 2: TECHNICAL LITERATURE
+1
+Gas Chromatograph
+Service: Measurement Analysis of VOC
+Model: Maxum Ed II (GC is certified for Zone-2)
+Make: Valmet
+Hazardous Area Classification: Zone 2, Gr IIB, T3
+Mounting Location: Inside field cabinet
+No of Streams: 1
+Stream 1: Injection Phase: Vapor
+Process Conditions at Sample Inlet
+-
+Ambient
+GC Outputs:
+-
+4-20 mA Analog output for measuring component & ratio.
+-
+RS-485 / Ethernet Modbus Serial Output
+-
+Potential free contacts for fault & other alarms.
+Utility Requirement:
+-
+110 VAC UPS: 1200 Watts
+-
+Instrument air @5-6 kg/cm2g (Oil & water drop free)
+Remarks: Detailed GC Configuration is enclosed as ANN-1
+1 No.
+Quoted
+a
+Analyser Panel with Single Air conditioner suitable for Zone 2,
+IIA/IIB, T3
+MOC: SS316
+1 No.
+Quoted
+b
+Sample Probe
+1 No.
+Quoted
+c
+Heated Sample Line with Self-Regulated.
+MOC: SS316, 1/4" OD
+Make: Thermopad /Equivalent
+Power Supply: 230 VAC.
+20 Mtr.
+Quoted
+d
+Secondary Sample Handling System
+-
+Secondary SHS Box MOC: SS304 consisting of ball valve
+Pressure reducer system, Pressure indicator, Air operated
+valve, NRV, SRV, Flow Meter, Filters, any other accessories
+as required.
+1 No
+Quoted
+e
+Calibration Gas Cylinder:
+-
+Calibration blend with cylinder pressure regulator
+(MOC: CS/Al, Capacity: 10 L)
+1 No
+Quoted

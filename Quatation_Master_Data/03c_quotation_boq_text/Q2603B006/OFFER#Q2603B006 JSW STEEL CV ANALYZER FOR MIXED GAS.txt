@@ -1,0 +1,68 @@
+Quotation Number: Q2603B006
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER-MIXED
+GAS
+MODEL: CWD
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 1200-3000 Kcal/Nm3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for
+Single tapping system for handling Impurities such
+as Tar, Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve, Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: Mixed Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value,
+Wobbe Index and Specific gravity resp.
+1 Set
+67,00,000
+67,00,000
+2
+PREFABRICATED HEAT TRACED TUBE:
+Size: 1⁄2”
+MOC: SS
+Power Supply: 230 VAC
+@4000 PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/
+AC II Train Fare To Be Arranged by Adage)
+@30000 PER MANDAY

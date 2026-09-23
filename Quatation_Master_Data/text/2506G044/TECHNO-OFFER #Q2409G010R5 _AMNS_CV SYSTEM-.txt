@@ -1,0 +1,1049 @@
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ Customer: 
+
+ ARCELORMITTAL NIPPON STEEL INDIA LIMITED 
+ HAZIRA, GUJARAT 
+
+ Subject: CV Measurement systems in Gas Mixing and Boosting Station 
+ 
+ Kind Attention: Mr. Divyakumar Patel 
+
+ Dear Sir, 
+
+ We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If you have 
+ any questions or require additional information, please feel free to contact us. 
+ 
+ Table of Contents: - 
+
+ SECTION 1: SUMMARY OF PRICES 
+ SECTION 2: NOTE AND SCOPE DEFINITION 
+ SECTION 3: COMMERCIAL TERMS AND CONDITIONS 
+ SECTION 4: BILL OF MATERIAL 
+
+ 
+
+ 
+
+ 
+Our Quotation No: Q2409G010R5 
+Dated: 28.05.2025 
+ 
+Contact persons : 
+ 
+Mr. Ashutosh Shende 
+Email: ashutosh@adage-automation.com 
+Mob: + 91 9096312604 
+(Adage-MUMBAI) 
+ 
+Ms. Namrata Kamat 
+Email: namrata.kamat@adage-automation.com 
+Mob: + 91 8390956707 
+(Adage-Goa-HO) 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ Dear Sir, 
+ 
+Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in India and 
+worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in the industrial field of Steel, 
+Cement, Power, Fertilizers, Chemical & Petrochemicals, Oil & Gas etc. We are an ISO 9000:2015 & ISO 45001-2018 
+certified company. 
+ 
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG , Germany for the Indian market for 
+ Process Gas Analyzers . We have 11 Offices across India with subsidiary companies in Sharjah , UAE & New Jersey , 
+ USA and we have 200+ Specialist Engineers and a modern state of the art Factory in Goa. We have already installed 
+more than 5,000 Analyser Systems & more than 10,000 Analyzers in India . At the present moment , we enjoy a 
+leadership position in the Indian Industry . We are also the largest exporter of Gas Analytical Systems from India to 
+over 40 countries in Europe , Africa, Middle East, Far East and South America. 
+ 
+Our State of the art application Lab and the Regional Repair Centre ( RRC ) is under a joint investment from SIEMENS 
+AG Germany . Adage have been awarded in 2018 by the Ministry of Industries , Govt of India as one of the India’s Small 
+Giants , which is an initiative to recognize the top performing companies in terms of sustainable growth and 
+innovations . 
+
+ 
+
+ 
+
+ 
+
+ 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+Our Major customers in Steel Plants include: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AND MANY MORE… 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 1: SUMMARY OF PRICES 
+Sl.NO 
+DESCRIPTION 
+QTY 
+TOTAL PRICE (INR) 
+
+ 
+
+ 
+
+ 1.1 
+CALORIFIC VALUE ANALYSER SYSTEM- MIXED GAS- 
+17-CV-004, 17-CV-005, 17-CV-006, 17-CV-007 
+MODEL: CWD 2005 
+MAKE: UNION AG GERMANY 
+Area Classification: Safe Area 
+Note: The quoted analyser is for safe area and should be 
+placed inside an Porta Cabin. 
+Measuring Range: 
+For tag No-17-CV-004 , 17-CV-005, 17-CV-006, 17-CV-007 , 
+ 
+• 
+Calorific value: 1750 Kcal/m3 
+Primary Sample Handling System: 
+• 
+Pre-Sample Conditioning & Purification System 
+for handling Impurities such as Tar, 
+Naphthalene etc. 
+Secondary Sample Handling System: 
+• 
+Sample will be taken from process with the help 
+of ½” tapping point. 
+• 
+Sample Gas cooler, Sample gas Pump, Sample 
+Isolation Valve. 
+• 
+Coalescing Filter, Pressure regulators. 
+• 
+Calibration Cylinder with Pressure Regulator. 
+Mounting Arrangement: 
+• 
+Shall be mounted on rack, MOC: CRCA. 
+Analyser Specifications: 
+Calorimeter Type CWD2005- for Measurement of 
+Calorific Value 
+• Kind of Gas (Tag No-17-CV-004, 17-CV-005, 
+ 17-CV-006, 17-CV-007) 
+• Power supply 230V, 50 Hz 
+• Power consumption: 185 VA 
+Output: 
+• Individual 4-20 mA analog output for Calorific 
+value, Wobbe, Specific Gravity 
+Modbus TCP OUTPUT 
+Note: The primary SHS should be kept as close as 
+possible to the sampling location. 
+
+ 
+
+ 
+
+4 Nos. 
+
+ 
+
+ 
+
+ 
+ 
+QUOTED 
+
+ 
+
+ 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+1.2 
+WITH ANALYZER SHELTER 
+• MOC: CRCA 
+• WITH SPLIT AC 
+• WITH INSULATION 
+• WITH ALUMINUM CHEQUERED PLATE FLOORING 
+• WITH SINGLE DOOR AND LOCK WITH LIGHTS 
+• DIMENSIONS: 4 M (L) X 3 M (W) X 2.7 M (H) 
+FOR 4 NO OF CV SYSTEM. 
+COMPLETELY WIRED AND TUBED TO HOUSE THE GAS 
+ANALYZER SYSTEM. 
+
+ 1Nos. 
+
+1.3 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+MOC: SS 
+Tube size: ½ ” 
+With all necessary accessories and JB’S 
+50 METERS X 4 SYSTEM- TOTAL 200 METERS 
+
+200 METER 
+
+QUOTED 
+2.1 
+CALORIFIC VALUE ANALYSER SYSTEM FOR -i) BFG ii) LD 
+GAS iii) COG Gas 
+17-CV-002, 17-CV-001, 17-CV-003 
+MODEL: CWD 2005 
+MAKE: UNION AG GERMANY 
+Area Classification: Safe Area 
+Note: The quoted analyser system is suitable for safe area 
+and should be placed inside Porta Cabin. 
+ 
+Measuring Range: 
+For tag No-17-CV-002 
+• 
+Calorific value: 4250 Kcal/m3 
+Measuring Range: 
+For Tag No-17-CV-001 
+• 
+Calorific value: 900 Kcal/m3 
+For Tag No-17-CV-003 
+• 
+- Calorific value: 1750 Kcal/m3 
+• 
+With Dust filter 
+ 
+Primary Sample Handling System:- For tag No-17-CV-002 
+• 
+Pre-Sample Conditioning & Purification System 
+for handling Impurities such as Tar, 
+Naphthalene etc. 
+ 
+ Sample Handling System: For Tag No-17-CV-001, For Tag 
+No-17-CV-003 
+
+ 
+
+ 
+
+3 Nos. 
+
+ 
+
+ 
+
+ 
+ 
+QUOTED 
+
+ 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+• 
+Sample will be taken from process with the help 
+of ½” tapping point. 
+• 
+Sample Gas cooler, Sample gas Pump, Sample 
+Isolation Valve. 
+• 
+Coalescing Filter, Pressure regulators. 
+• 
+Calibration Cylinder with Pressure Regulator. 
+ 
+Mounting Arrangement: 
+• 
+Shall be mounted on a rack, MOC: CRCA. 
+ 
+Analyser Specifications: 
+Calorimeter Type CWD2005- for Measurement of 
+Calorific Value 
+• Kind of Gas:(Tag No: 17-CV-001): BFG 
+• Kind of Gas: (Tag No: 17-CV-003): LD GAS 
+• Kind of Gas (Tag No: 17-CV-002) : COG Gas 
+• Power supply 230V, 50 Hz 
+• Power consumption: 185 VA 
+ 
+Output: 
+• Individual 4-20 mA analog output for Calorific 
+value, Wobbe Index, Specific Gravity 
+Modbus TCP OUTPUT 
+Note: The primary SHS should be kept as close as possible to 
+the sampling location. 
+
+2.2 
+WITH ANALYZER SHELTER 
+• MOC: CRCA 
+• WITH SPLIT AC 
+• WITH INSULATION 
+• WITH ALUMINUM CHEQUERED PLATE FLOORING 
+• WITH SINGLE DOOR AND LOCK WITH LIGHTS 
+• DIMENSIONS: 3 M (L) X 3 M (W) X 2.7 M (H) 
+FOR 3 NO OF CV SYSTEM. 
+COMPLETELY WIRED AND TUBED TO HOUSE THE GAS 
+ANALYZER SYSTEM. 
+
+1 Nos 
+2.3 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+MOC: SS 
+Tube size: ½ ” 
+With all necessary accessories and JB’S 
+50 METERS X 3 SYSTEM- TOTAL 150 METERS 
+
+150 METER 
+
+QUOTED 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+3.1 
+CALORIFIC VALUE ANALYSER SYSTEM- i) MIXED GAS 
+17-CV-011 
+MODEL: CWD 2005 
+MAKE: UNION AG GERMANY 
+Area Classification: Safe Area 
+Note: The quoted analyser is for safe area and should be 
+placed inside an airconditioned room. 
+Measuring Range: 
+For tag No- 17-CV-011 
+• 
+Calorific value: 1750 Kcal/m3 
+Primary Sample Handling System: 
+• 
+Pre-Sample Conditioning & Purification System 
+for handling Impurities such as Tar, 
+Naphthalene etc. 
+Secondary Sample Handling System: 
+• 
+Sample will be taken from process with the help 
+of ½” tapping point. 
+• 
+Sample Gas cooler, Sample gas Pump, Sample 
+Isolation Valve. 
+• 
+Coalescing Filter, Pressure regulators. 
+• 
+Calibration Cylinder with Pressure Regulator. 
+Mounting Arrangement: 
+• 
+Shall be mounted on rack, MOC: CRCA. 
+Analyser Specifications: 
+Calorimeter Type CWD2005- for Measurement of 
+Calorific Value 
+• Kind of Gas (Tag No-17-CV-010): Mixed Gas 
+• Power supply 230V, 50 Hz 
+• Power consumption: 185 VA 
+Output: 
+• Individual 4-20 mA analog output for Calorific 
+value, Wobbe, Specific Gravity 
+Modbus TCP OUTPUT 
+Note: The primary SHS should be kept as close as possible to 
+the sampling location. 
+
+ 
+
+ 
+
+ 
+1 Nos. 
+
+ 
+
+ 
+
+ 
+ 
+ QUOTED 
+
+ 
+
+3.2 
+WITH ANALYZER SHELTER 
+• MOC: CRCA 
+• WITH SPLIT AC 
+• WITH INSULATION 
+• WITH ALUMINUM CHEQUERED PLATE FLOORING 
+• WITH SINGLE DOOR AND LOCK WITH LIGHTS 
+• DIMENSIONS: 2.5 M (L) X 2.5 M (W) X 2.7 M (H) 
+
+ 
+1 Nos 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+FOR 1 NO OF CV SYSTEM. 
+COMPLETELY WIRED AND TUBED TO HOUSE THE GAS 
+ANALYZER SYSTEM. 
+3.3 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+MOC: SS 
+Tube size: ½ ” 
+With all necessary accessories and JB’S 
+50 METERS 
+
+50 METER 
+
+QUOTED 
+
+4 
+SUPERVISION OF INSTALLATION AND COMMISSIONING 
+CHARGES 
+(Boarding – Lodging – Local Conveyance, To and fro Air 
+Ticket/ AC II Train Fare To Be Arranged by Customer) 
+ 
+Per Mandays 
+ 
+QUOTED 
+Per Mandays 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+
+SECTION 2: NOTE & SCOPE DEFINITION 
+
+• 
+External Cabling, Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope. 
+• 
+Customer to provide Instrument Air which should be oil & moisture free @ 4-6. 
+• 
+The quoted analyser system is suitable for safe area and should be placed inside an airconditioned room. 
+• 
+Power Supply Utilities to be provided as below: 
+ 
+Power Supply: 230 VAC, 50 Hz (UPS) - 1170 VA Appro Per System 
+ 230 VAC, 50 Hz (NON- UPS) – 3780 VA Appro Per System 
+ Diesel free from Dust contaminate corrosive element- 20L / Months Appro Per System. 
+ Water free from Dust contaminate corrosive element- 20L / Months Appro Per System. 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, Engineering and Supply of system as per Summary of Prices 
+• 
+Supervision of Installation and Commissioning of the complete System 
+• 
+Project Management and Project Documentation 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+All Erection and Installation Activity. 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Welding of flanges or mounting of purge air unit and instrument on the stack/duct. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals. 
+• 
+Supply and laying of Cable and cable trays for Power supply / Analog and Digital signal / serial communication 
+cables etc. 
+• 
+Laying of trays/structural and support for field tubing. 
+• 
+All utilities as mentioned above. 
+• 
+For any delay in commissioning due to reasons not attributed to M/S Adage, commissioning charges shall be 
+as per quoted man days 
+
+ 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+
+SECTION 3: COMMERCIAL TERMS AND CONDITIONS 
+Price Basis 
+Ex-works Goa 
+Packing Charges 
+At actuals 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN CODE 
+9027.1000 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 8 months from the date of drawing approval. 
+Offer validity 
+30 days. 
+Storage charges 
+The storage charges shall be applicable @0.5% of the order value per week after inspection or 
+scheduled delivery 
+Payment Terms 
+20% Advance with the Purchase Order, 20 % with Drawing Approval and Balance 60 % against 
+Proforma Invoice on readiness of material prior to dispatch 
+ Warranty 
+Against manufacturing defects for 12 months from the date of Commissioning or 18 months 
+from the date of dispatch whichever is earlier. 
+
+For Adage Automation Pvt. Limited 
+
+ 
+
+Ashutosh Shende Sameer B Ghorpade 
+ashutosh@adage-automation.com sameer@adage-automation.com 
++91 9096312604 +918888200099 
+ ADAGE-MUMBAI ADAGE- MUMBAI 
+
+SOLUTION PARTNER
+ANALYTICAL
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+
+SECTION 4- BILL OF MATERIALS- MIXED GAS- 
+17-CV-004, 17-CV-005, 17-CV-006, 17-CV-007 
+QTY – 4 NOS 
+Sl No 
+Description 
+Legends 
+Qty 
+1 
+SAMPLE PRE-TREATMENT & PURIFICATION SYSTEM- PRIMARY SAMPLE SYSTEM 
+Consisting of ball valves and fittings, completely tubed 
+Make: Adage 
+PSHS 
+1 PC 
+2 
+SAMPLE GAS PUMP 
+Make: Adage Approved Vendor 
+MP 01 
+1 PC 
+3 
+GAS COOLER 
+Make: Adage Approved Vendor 
+GC 01 
+1 PC 
+4 
+SECONDARY FILTER 
+Make: Adage 
+SF 01 
+1 PC 
+5 
+FLOW MONITOR WITH NEEDLE VALVE 
+Measuring Range: 50 - 500 LPH 
+Make: Adage 
+FM 01 
+1 PC 
+6 
+PRESSURE GAUGE 
+Make: Adage Approved Vendor 
+PG 01/02 
+2 PC 
+7 
+PRESSURE REGULATOR 
+Make: Adage Approved Vendor 
+PR01/02 
+2 PC 
+8 
+INLINE FILTER 
+2 Micron 
+Make: Adage Approved Vendor 
+IF 01/02 
+2 PC 
+9 
+2 WAY BALL VALVE 
+Make: Adage Approved Vendor 
+BV 01 
+1 PC 
+10 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+MOC: SS 
+Tube size: ½ ” 
+With all necessary accessories and JB’S 
+HHT 
+50 METERS 
+11 
+PORTA CABIN 
+• MOC: CRCA 
+• WITH SPLIT AC 
+• WITH INSULATION 
+• WITH ALUMINUM CHEQUERED PLATE FLOORING 
+• WITH SINGLE DOOR AND LOCK WITH LIGHTS 
+• DIMENSIONS: 4 M (L) X 3 M (W) X 2.7 M (H) 
+FOR 4 NO OF CV SYSTEM. 
+ COMPLETELY WIRED AND TUBED TO HOUSE THE GAS ANALYZER SYSTEM. 
+PORTA CABIN 
+1 PC 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+12 
+CALORIFIC VALUE ANALYSER 
+
+Make: Union 
+Power 230 V Ac (+ 10 %), 50 Hz. 
+Weight Up To Approx. 54 Kg 
+Dimensions W X H X D [Mm] 1020 X 720 X 337 
+Protection Class IP 50 
+Ambient Temperature 5 – 45 °C 
+Allowed Temperature Change ≤ 5 °C Per Hour 
+Ambient Humidity 0 – 95% 
+Relative External Pressure 800 – 1100 Hpa (0.8 – 1.1 Bar) 
+Supply Pressure Of Gas 20 – 40 Mbar 
+Process Gas Supply Max. 2 
+Calibration Gas Supply Max. 2 
+Relative Gas Humidity ≤ 95%, 
+Condensate-Free Supply Temperature Of Gas Max. 45 °C 
+Voltage 240 Vac, 50 Hz 
+Max. Power Consumption 185 Va 
+T90 Display Time 20 S 
+- 
+1 PC 
+13 
+CALIBRATION GAS CYLINDER WITH PRESSURE REGULATOR 
+Gas Composition: Cal Gas 
+------ 
+1 PC 
+
+ 
+
+ 
+
+SOLUTION PARTNER
+ANALYTICAL
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 4- BILL OF MATERIALS i) BFG ii) LD GAS iii) COG Gas 
+17-CV-002, 17-CV-001, 17-CV-003 
+QTY- 3 NOS 
+Sl No 
+Description 
+Legends 
+Qty 
+1 
+SAMPLE PRE-TREATMENT & PURIFICATION SYSTEM- PRIMARY SAMPLE SYSTEM 
+Consisting of ball valves and fittings, completely tubed 
+Make: Adage 
+PSHS 
+1 PC 
+2 
+SAMPLE GAS PUMP 
+Make: Adage Approved Vendor 
+MP 01 
+1 PC 
+3 
+GAS COOLER 
+Make: Adage Approved Vendor 
+GC 01 
+1 PC 
+4 
+SECONDARY FILTER 
+Make: Adage 
+SF 01 
+1 PC 
+5 
+FLOW MONITOR WITH NEEDLE VALVE 
+Measuring Range: 50 - 500 LPH 
+Make: Adage 
+FM 01 
+1 PC 
+6 
+PRESSURE GAUGE 
+Make: Adage Approved Vendor 
+PG 01/02 
+2 PC 
+7 
+PRESSURE REGULATOR 
+Make: Adage Approved Vendor 
+PR01/02 
+2 PC 
+8 
+INLINE FILTER 
+2 Micron 
+Make: Adage Approved Vendor 
+IF 01/02 
+2 PC 
+9 
+2 WAY BALL VALVE 
+Make: Adage Approved Vendor 
+BV 06 
+1 PC 
+10 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+MOC: SS 
+Tube size: ½ ” 
+With all necessary accessories and JB’S 
+HHT 
+50 METERS 
+11 
+PORTA CABIN 
+• MOC: CRCA 
+• WITH SPLIT AC 
+• WITH INSULATION 
+• WITH ALUMINUM CHEQUERED PLATE FLOORING 
+• WITH SINGLE DOOR AND LOCK WITH LIGHTS 
+• DIMENSIONS: 2.5 M (L) X 2.5 M (W) X 2.7 M (H) 
+FOR 1 NO OF CV SYSTEM. 
+COMPLETELY WIRED AND TUBED TO HOUSE THE GAS ANALYZER SYSTEM. 
+PORTA CABIN 
+1 PC 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+12 
+CALORIFIC VALUE ANALYSER 
+
+Make: Union 
+Power 230 V Ac (+ 10 %), 50 Hz. 
+Weight Up To Approx. 54 Kg 
+Dimensions W X H X D [Mm] 1020 X 720 X 337 
+Protection Class IP 50 
+Ambient Temperature 5 – 45 °C 
+Allowed Temperature Change ≤ 5 °C Per Hour 
+Ambient Humidity 0 – 95% 
+Relative External Pressure 800 – 1100 Hpa (0.8 – 1.1 Bar) 
+Supply Pressure Of Gas 20 – 40 Mbar 
+Process Gas Supply Max. 2 
+Calibration Gas Supply Max. 2 
+Relative Gas Humidity ≤ 95%, 
+Condensate-Free Supply Temperature Of Gas Max. 45 °C 
+Voltage 240 Vac, 50 Hz 
+Max. Power Consumption 185 Va 
+T90 Display Time 20 S 
+- 
+1 PC 
+13 
+CALIBRATION GAS CYLINDER WITH PRESSURE REGULATOR 
+Gas Composition: Cal Gas 
+------ 
+1 PC 
+
+ 
+
+ 
+
+SOLUTION PARTNER
+ANALYTICAL
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 4- BILL OF MATERIALS i) MIXED GAS 
+17-CV-011 
+QTY- 1 NOS 
+Sl No 
+Description 
+Legends 
+Qty 
+1 
+SAMPLE PRE-TREATMENT & PURIFICATION SYSTEM- PRIMARY SAMPLE SYSTEM 
+Consisting of ball valves and fittings, completely tubed 
+Make: Adage 
+PSHS 
+1 PC 
+2 
+SAMPLE GAS PUMP 
+Make: Adage Approved Vendor 
+MP 01 
+1 PC 
+3 
+GAS COOLER 
+Make: Adage Approved Vendor 
+GC 01 
+1 PC 
+4 
+SECONDARY FILTER 
+Make: Adage 
+SF 01 
+1 PC 
+5 
+FLOW MONITOR WITH NEEDLE VALVE 
+Measuring Range: 50 - 500 LPH 
+Make: Adage 
+FM 01 
+1 PC 
+6 
+PRESSURE GAUGE 
+Make: Adage Approved Vendor 
+PG 01/02 
+2 PC 
+7 
+PRESSURE REGULATOR 
+Make: Adage Approved Vendor 
+PR01/02 
+2 PC 
+8 
+INLINE FILTER 
+2 Micron 
+Make: Adage Approved Vendor 
+IF 01/02 
+2 PC 
+9 
+2 WAY BALL VALVE 
+Make: Adage Approved Vendor 
+BV 06 
+1 PC 
+10 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+MOC: SS 
+Tube size: ½ ” 
+With all necessary accessories and JB’S 
+HHT 
+50 METERS 
+11 
+PORTA CABIN 
+• MOC: CRCA 
+• WITH SPLIT AC 
+• WITH INSULATION 
+• WITH ALUMINUM CHEQUERED PLATE FLOORING 
+• WITH SINGLE DOOR AND LOCK WITH LIGHTS 
+• DIMENSIONS: 3 M (L) X 3 M (W) X 2.7 M (H) 
+FOR 3 NO OF CV SYSTEM. 
+COMPLETELY WIRED AND TUBED TO HOUSE THE GAS ANALYZER SYSTEM. 
+PORTA CABIN 
+1 PC 
+
+` 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+12 
+CALORIFIC VALUE ANALYSER 
+
+Make: Union 
+Power 230 V Ac (+ 10 %), 50 Hz. 
+Weight Up To Approx. 54 Kg 
+Dimensions W X H X D [Mm] 1020 X 720 X 337 
+Protection Class IP 50 
+Ambient Temperature 5 – 45 °C 
+Allowed Temperature Change ≤ 5 °C Per Hour 
+Ambient Humidity 0 – 95% 
+Relative External Pressure 800 – 1100 Hpa (0.8 – 1.1 Bar) 
+Supply Pressure Of Gas 20 – 40 Mbar 
+Process Gas Supply Max. 2 
+Calibration Gas Supply Max. 2 
+Relative Gas Humidity ≤ 95%, 
+Condensate-Free Supply Temperature Of Gas Max. 45 °C 
+Voltage 240 Vac, 50 Hz 
+Max. Power Consumption 185 Va 
+T90 Display Time 20 S 
+- 
+1 PC 
+13 
+CALIBRATION GAS CYLINDER WITH PRESSURE REGULATOR 
+Gas Composition: Cal Gas 
+------ 
+1 PC

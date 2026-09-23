@@ -1,0 +1,61 @@
+Quotation Number: SQ2502E071
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+SL NO
+ITEM DESCRIPTION
+UNIT PRICE
+[INR]
+QTY
+UOM
+TOTAL RATE
+[INR]
+1.
+SERVICE CHARGES PER MAN-DAYS
+QUOTED
+10
+DAY
+QUOTED
+2.
+TO & FRO TRAVEL CHARGES
+QUOTED
+1
+VISIT
+QUOTED
+3.
+LODGING & BOARDING
+QUOTED
+1
+VISIT
+QUOTED
+4.
+LOCAL CONVEYANCE
+QUOTED
+1
+VISIT
+QUOTED
+SPECIAL NOTE:
+1.
+Any Operational/Critical Spares parts/ Consumable Spares found faulty in the sample handling system
+shall be in TSL Scope.
+2.
+Working time shall be as per industrial norms i.e., 8 hrs. per day.
+3.
+Above quoted price is for single visit considering 10 man days. Extra man days if consumed shall be
+charged accordingly.
+4.
+Supporting manpower required for lifting/shifting of material, housekeeping and other
+mechanical & electrical work shall be in customer scope.
+5.
+During the visit, the Quarantine Period (if any) of the Engineer shall be considered in total man hours of the
+visit and shall be chargeable as per Quoted price for per man day charges.
+COVID test (if any) charges shall be in customer scope.
+6.
+During the visit, service engineer Gate Pass arrangement shall be in TSL scope, actual work start delay due
+to gate pass arrangement shall be considered in total man hours of the visit and shall be chargeable as per
+quoted price for per man day charges.
+7.
+Mobilization Period: Minimum 2 weeks after receipt of Service Call and purchase order.
+8.
+Service tools for the repair of instrument will be carried by our engineer. Customer to provide manpower /
+lifting tools if it is required to shift heavy parts of the instruments from one place to another.

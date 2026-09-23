@@ -1,0 +1,352 @@
+Quotation Number: Q2508H041R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CEMS
+Tag No: SO2:412-AT-2304A/NO:412-AT-2304B/ CO:412-
+AT-2304C
+Component to be measured: NO/SO2/CO
+Service: Flue Gas Heater Stack
+Hazardous Area Classification: Zone 1, Gr-IIA/llB/llC, T3
+Mounting Location: Inside Analyzer Shelter
+Analyzers are mounted inside X-purged cabinet inside
+shelter.
+Make: ENVEA
+Model 1: NO measurement, Model: AC32E
+Model 2: SO2 measurement, Model: AF22E
+Model 3: CO measurement, Model: CO12E
+Process Condition at Stack:
+•
+Temperature (Op)(Nor/Max): 150-330 DegC / 355
+DegC
+•
+Pressure (Op)(Nor/Max): -6.6 mmwcg / 355 mmwcg
+Measuring Ranges:
+•
+NOx: 0-4 mg/m3 (After dilution range)
+•
+SO2: 0-1 ppm (After dilution range)
+•
+CO: 0-2 mg/m3 (After dilution range)
+•
+Dilution Ratio: 1:100
+Analyzer Outputs for Dilution analyzer
+•
+With 4-20 mA Analog Output
+•
+RS-485 Modbus serial output
+•
+Potential free contacts for Alarms
+1 Set
+QUOTED
+QUOTED
+1.1
+Probe for Dilution system
+•
+Dilution type Sample probe
+•
+Process Connection: 4” 150# RF Connection
+•
+Individual probes (1 x SO2/NOx Analyser & 1 x CO
+Analyser)
+2 Sets
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.2
+Sample Transportation tube for Dilution system
+•
+PTFE Umbilical Cord
+•
+Individual lines (100 meters x SO2/NOx Analyser &
+100 meters x CO Analyser)
+2 x
+100
+meters
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.3
+Secondary SHS System for Dilution system
+•
+With Auto/ Manual Calibration
+•
+With Common Dilution controller
+•
+With Common Heat less Air dryer & Accessories
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.4
+Analyzer Mounting for Dilution
+•
+Dilution Analyzer shall be mounted inside common
+X-purged cabinet MOC: CRCA, IP54
+•
+Complete Cabinet shall be X-purged using certified
+unit
+•
+The above purged enclosures shall be further
+placed inside analyser shelter.
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.5
+Calibration Cylinder with dual stage Regulator for one
+year operation after SAT.
+Calibration Cylinders for Dilution analysers
+•
+Individual
+10
+Ltrs
+Span
+Gas
+cylinder
+for
+CO/NO/SO2 analyzer.
+•
+Shall be supplied in 2 sets.
+•
+Gas cylinders shall be mounted on the cylinder
+rack outside Analyzer shelter.
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.6
+SPM FOR STACK
+Make: Durag, Model: DR-320
+Tag: 412-AE/AT-2303
+Principle: Backward Scattering
+Mounting Location: In-situ Type
+Area Classification: Suitable to Zone 1, IIC, T4
+Rating: IP65
+Measuring Ranges:
+•
+SPM: 0-200 mg/m3
+Accessories consists of:
+•
+With Display Unit, Make: Adage
+•
+Shall be safe area certified display unit mounted
+inside X-purged panel
+Signal cable from Stack till analyser shelter – 100
+meters
+Analyser Outputs:
+•
+4-20 mA
+•
+Digital Outputs
+•
+RS-485
+Notes:
+•
+Field Power Cables shall be in customer scope of
+supply.
+•
+Signal cable between Sender/receiver unit and
+shelter shall be supplied by Adage
+•
+RS 485 Serial cable from Control unit to DCS at
+Analyser shelter shall be in customers scope
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.7
+REMOTE DISPLAY UNIT FOR OXYGEN ANALYSER
+(SUPPLIED BY OTHERS)
+•
+Oxygen analyser shall be supplied by others
+•
+Shall be safe area certified display unit mounted
+inside X-purged panel inside analyser shelter
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.8
+Serial
+cable
+for
+O2
+analyser
+(In
+redundant
+configuration)
+240
+meters
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.9
+SHELTER FOR CEMS
+Make: Adage
+Size: 2.5 mtrs x 2.5 mtrs x 2.8 mtrs (L x W x H)
+Make: Adage
+Outside Area Classification: Zone 1 Gas Group IIC, T3
+Inside Area Classification: Zone 1 Gas Group IIC, T3
+Analyzer House Design & Construction Details:
+•
+MOC – SS304 without paint.
+•
+Houses shall be rainproof and dustproof and
+shall be designed to withstand the environmental
+conditions.
+•
+House interior shall be large enough to allow
+adequate access and Space for maintenance
+and repair activities.
+•
+House outer sheet MOC: SS316 2.0mm thick
+•
+House inner sheet MOC: SS316 1.5mm thick
+•
+Base frame-Fabricated from MC
+200mmx75mmx10mm (min.), structural carbon
+steel channel or I-beam, fully welded, Painted
+with zinc rich primer and PU topcoat for
+corrosion protection.
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation: Mineral Fiber Insulation
+•
+Overhang canopy: 1000 mm SS316 all four
+sides of the House
+•
+Cable entry to be provided in House through
+MCT block with 50% extra space for cables.
+•
+Tube entry to be provided in House through
+bulkhead plate
+•
+With redundant HVAC (4TR)
+•
+With Chemical Filter
+•
+DMR PLC for Shelter, HVAC shall work on relay
+logics
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.10
+SHELTER ACCESSORIES AS BELOWS:
+As per Annexure-1
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.11
+CONTROL DATA STORAGE UNIT (CDSU)
+The DAS PC Shall have following Specifications:
+•
+Pentium i5, 2Ghz CPU or higher with at least
+4GB RAM with at least 60% spare
+•
+21’’ LED/LCD display unit memory capacity
+•
+500 GB Hard disk
+•
+DVD Drive.
+•
+Printer (A4 color), Mouse, keyboard
+•
+With CPCB/SPCB connectivity
+Network Hardware at Supplied Shelter end
+•
+Serial to Ethernet converter x 2 No
+•
+Ethernet to FO converter x 2 No
+•
+Patch Panel, Patch cords x 2 No
+Network Hardware at SRR Room
+•
+FO to Ethernet converter x 2 No
+•
+Patch Panel, Patch cords x 2 No
+•
+Ethernet switch x 2 No
+Further connectivity to Existing central CPCB and SPCB
+DAS through FO Cable by customer
+Note:
+•
+Field Signal Cables shall be provided by customer
+•
+Fiber optic cable between Analyzer shelter and
+SRR Room shall be in customer’s scope.
+•
+Internet/Broadband connection shall be provided
+by customer
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.12
+Commissioning Spares
+•
+Set of Filters
+•
+Set of O-Ring
+•
+Set of Fuses
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+1.13
+Consumables for 1 year operation after SAT
+1 Set
+INCLUSIVE
+IN 1
+INCLUSIVE
+IN 1
+2
+MANDATORY SPARES
+1 LOT
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION AND
+COMMISSIONING CHARGES
+35 days
+in 7
+visits
+QUOTED
+QUOTED
+4
+TRAINING
+Training at manufacturers /suppliers works:
+2 Batches of 5 persons each for 5 working days
+Training at site:
+10 man days in two to three batches.
+(Boarding – Lodging – Local Conveyance, To and fro Air
+Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+PER
+DIEM
+QUOTED
+QUOTED
+OPTIONAL PRICE
+5

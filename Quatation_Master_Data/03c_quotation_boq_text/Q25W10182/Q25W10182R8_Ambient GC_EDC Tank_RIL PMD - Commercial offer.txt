@@ -1,0 +1,510 @@
+Quotation Number: Q25W10182R8
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+24 Stream Ambient air GC
+1,56,84,000/-
+1,56,84,000/-
+2
+1 No
+2 Stream Ambient air GC
+81,62,000/-
+81,62,000/-
+3
+1 No
+Project Documentation
+Inclusive
+Inclusive
+4
+1 No
+FAT at Adage Works
+Inclusive
+Inclusive
+5
+1 No
+Packing, Forwading & Transportation upto Site charges
+1,00,000/-
+1,00,000/-
+6
+Lumpsum Supervision of installation & commissioning
+2,00,000/-
+2,00,000/-
+7
+2 Days
+Training at Adage works for 2 days
+Inclusive
+Inclusive
+8
+1 Set
+Startup & Commissioning spares
+Set of Fuses
+Set of filter element
+Set of Oring
+15,000/-
+15,000/-
+9
+1 Set
+Mandatory Spares
+As per list below
+31,86,000/-
+31,86,000/-
+TOTAL PACKAGE PRICE 2,73,47,000-
+10
+1 Set
+2 Years O&M spares (Optionally Quoted)
+10,00,000/-
+10,00,000/-
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Mandatory Spares (As per RIL List)
+1
+As per RIL List
+Analyser Electronics Module
+1
+2
+Controller Electronics Module
+1
+3
+Power supply card
+1
+4
+Display
+1
+5
+Column Set
+1
+6
+Repair kit for GC Valves & sample shutoff valve
+1
+7
+FID Detector
+1
+8
+AOV & Repair kit
+1
+9
+Filter element & replacement kit
+1
+10
+Repair kit for solenoid valve in sampling system
+1
+11
+GC Auxiliary relays
+1
+12
+Set of fuses
+1
+13
+Pressure regulator & Repair kit
+1
+2 Years O&M Spare list (Optionally Quoted)
+1
+As per Adage recommendation
+FID Repairing kit
+1
+2
+MOD 50 Repairing kit
+1
+3
+Power supply
+1
+4
+EPC Module
+1
+5
+SVCM Module
+1
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 803AT101
+-
+Supply Pressure (Nor/Max): Ambient
+-
+Temperature (Nor/Max): Ambient
+Service: Ambient Air
+As per MR Requirement
+1.1
+Ambient Gas Chromatograph (Sequential measurement)
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Inside Analyser cabinet
+GC Hazardous Area Classification: Zone 1, llB+H2, T3
+No of Streams: 24
+Cycle time: 90 seconds
+Detector : FID
+Measuring component: EDC : 0-50PPM
+Analyzer Outputs:
+-
+4-20 mA Analog output for each stream
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.1
+Sampling Points
+-
+24 Nos with Rain Hood & Filter
+24 No
+Quoted
+1.2
+Sample Transportation tube:
+-
+1/4" SS316 with PVC Coating for stream 1, Qty: 80 Meters
+-
+1/4" SS316 with PVC Coating for stream 2, Qty: 160 Meters
+-
+1/4" SS316 with PVC Coating for stream 3, Qty: 120 Meters
+-
+1/4" SS316 with PVC Coating for stream 4, Qty: 160 Meters
+-
+1/4" SS316 with PVC Coating for stream 5, Qty: 160 Meters
+-
+1/4" SS316 with PVC Coating for stream 6, Qty: 130 Meters
+-
+1/4" SS316 with PVC Coating for stream 7, Qty: 115 Meters
+-
+1/4" SS316 with PVC Coating for stream 8, Qty: 58 Meters
+-
+1/4" SS316 with PVC Coating for stream 9, Qty: 92 Meters
+-
+1/4" SS316 with PVC Coating for stream 10, Qty: 80 Meters
+-
+1/4" SS316 with PVC Coating for stream 11, Qty: 160 Meters
+-
+1/4" SS316 with PVC Coating for stream 12, Qty: 90 Meters
+-
+1/4" SS316 with PVC Coating for stream 13, Qty: 195 Meters
+-
+1/4" SS316 with PVC Coating for stream 14, Qty: 121 Meters
+-
+1/4" SS316 with PVC Coating for stream 15, Qty: 160 Meters
+-
+1/4" SS316 with PVC Coating for stream 16, Qty: 140 Meters
+-
+1/4" SS316 with PVC Coating for stream 17, Qty: 190 Meters
+3141 Meter
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+-
+1/4" SS316 with PVC Coating for stream 18, Qty: 150 Meters
+-
+1/4" SS316 with PVC Coating for stream 19, Qty: 90 Meters
+-
+1/4" SS316 with PVC Coating for stream 20, Qty: 130 Meters
+-
+1/4" SS316 with PVC Coating for stream 21, Qty: 70 Meters
+-
+1/4" SS316 with PVC Coating for stream 22, Qty: 140 Meters
+-
+1/4" SS316 with PVC Coating for stream 23, Qty: 190 Meters
+-
+1/4" SS316 with PVC Coating for stream 24, Qty: 160 Meters
+1.3
+Secondary Sample Handling system as below:
+-
+Secondary SHS consisting of Air operated valves,
+Sample Cooler, sample Pump in redundant configuration,
+Glass tube rotameters, Pressure gauge, condensate monitor,
+ALD etc.
+-
+Fully tubed & integrated with SHS components.
+-
+Sample handling System shall be plate mounted inside
+Analyser cabinet
+1 No
+Quoted
+1.4
+Analyser Cabinet :
+-
+1800 mm x 800 mm x 2100 mm dimension, MOC : SS316 with
+type 20 coating
+-
+With Exproof AC (Redundant configuration) & Canopy
+extending 500mm from all sides.
+-
+With Temperature transmitter in field cabinet
+-
+ASJB, DSJB, CSJB, Exe, MOC: GRP/FRP.
+-
+H2 detector
+-
+Power distribution Box, Exd
+-
+Headers & Other accessories
+1 No
+Quoted
+1.5
+10L Calibration with double stage pressure regulator
+-
+For FAT, Commissioning & 1 year operation from the date of
+commissioning x 2 Sets
+-
+With cylinder mounting rack along with canopy
+Autochangover unit :
+- Auto changeover unit for 2+2 cylinder bank mounting
+-
+47L Carrier & Fuel gas cylinder shall be in Adage scope of
+supply for 1 year operation from the date of commissioning.
+Notes:
+-
+Field power and signal cable shall be in RIL scope of
+supply.
+-
+Instrument air @5-7 Kg/cm2g shall be provided till
+Analyser cabinet by RIL.
+-
+Typical schematic for 24 stream Ambient GC is
+attached, Similar scheme shall be applicable for 2
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+stream GC.
+-
+All the SHS components and other accessories shall be
+from RIL AVL.
+-
+All JB’s shall be Exe type, MOC: FRP/GRP and PDB
+shall be Exd type.
+-
+Individual 4-20Ma analog output shall be considered for
+each stream (Total 24 streams)
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+2
+PROCESS CONDITIONS
+TAG NO: 803AT100
+-
+Supply Pressure (Nor/Max): Ambient
+-
+Temperature (Nor/Max): Ambient
+Service: Ambient Air
+As per MR Requirement
+2.1
+Ambient Gas Chromatograph
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Inside Analyser cabinet
+GC Hazardous Area Classification: Zone 1, llB+H2, T3
+No of Streams: 2
+Cycle time: 90 seconds
+Detector: FID
+Measuring component: EDC : 0-50PPM
+Analyzer Outputs:
+-
+4-20 mA Analog output for each stream.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+2.2
+Sampling Points
+-
+2 Nos with Rain Hood & Filter
+2 No
+Quoted
+2.3
+Sample Transportation tube:
+-
+1/4" SS316 with PVC Coating for stream 1, Qty: 55 Meters
+-
+1/4" SS316 with PVC Coating for stream 1, Qty: 40 Meters
+95 Meters
+Quoted
+2.4
+Secondary Sample Handling system as below:
+-
+Secondary SHS Box consisting of Air operated valves,
+Sample Cooler, sample Pump in redundant configuration,
+Glass tube rotameters, Pressure gauge, condensate
+monitor, ALD etc.
+-
+Fully tubed & integrated with SHS components.
+-
+Sample handling System shall be plate mounted inside
+Analyser cabinet
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+2.5
+Analyser Cabinet :
+-
+1000 mm x 800 mm x 2100 mm dimention, MOC : SS316
+with type 20 coating
+-
+With Exproof AC (Redundant configuration) & Canopy
+extending 500mm from all sides.
+-
+With Temperature transmitter in field cabinet
+-
+ASJB, DSJB, CSJB, Exe, MOC: GRP/FRP.
+-
+H2 detector
+-
+Power distribution Box, Exd
+-
+Headers & Other accessories
+1 No
+Quoted
+2.6
+10L Calibration with double stage pressure regulator
+-
+For FAT, Commissioning & 1 year operation from the date
+of commissioning
+-
+With cylinder mounting rack along with canopy
+Autochangover unit :
+- Auto changeover unit for 2+2 cylinder bank mounting
+- Auto changeover unit for 2+2 cylinder bank mounting
+-
+47L Carrier & Fuel gas cylinder shall be in Adage scope
+of supply for 1 year operation from the date of
+commissioning.
+Notes:
+-
+Field power and signal cable shall be in RIL scope of
+supply.
+-
+Instrument air @5-7 Kg/cm2g shall be provided till
+Analyser cabinet by RIL.
+-
+Typical schematic for 24 stream Ambient GC is
+attached, Similar scheme shall be applicable for 2
+stream GC.
+-
+All the SHS components and other accessories shall
+be from RIL AVL.
+-
+All JB’s shall be Exe type, MOC: FRP/GRP and PDB
+shall be Exd type.
+-
+Individual 4-20Ma analog output shall be
+considered for each stream (Total 2 streams)
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 3 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Sampling point with Rainhood and Filter
+Yes
+4
+Sample transportation tube from tapping till SHS
+Yes
+5
+JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+6
+Inspection & Testing
+Yes
+7
+Project Management & Project Documentation
+Yes
+8
+Factory Acceptance Test at Adage Works
+Yes
+9
+Packing forwarding
+Yes
+10
+Freight up to site
+Yes
+11
+Storage of supplied system at site
+Yes
+12
+Mobilization of supplied system from Stores to location.
+Yes
+13
+Installation of supplied system at site
+Yes
+14
+Supply of Standard Field Cables including signal, power
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at
+site
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc)
+Yes
+17
+Provision of dry instrument Air
+Yes
+18
+Provision of Plant Nitrogen
+Yes
+19
+Provision of Power (UPS and NON-UPS) at one location near
+Battery limit.
+Yes
+20
+Supervision of Installation and Commissioning
+Yes
+21
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+22
+Site Acceptance Test & Handover
+Yes
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+90 days.

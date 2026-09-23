@@ -1,0 +1,61 @@
+Quotation Number: SQ2605N115
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+PR Line-Item No.: 10
+Material Code: STACKANALYSER NOX
+Short Description: NOX ANALYSER STACK
+Long Description: STACK ANALYSER FOR NOX MEASUREMENT
+6.00
+9,53,334
+57,20,004.00
+2
+PR Line-Item No.: 20
+Material Code: STACKANALYSER SOX
+Short Description: SOX ANALYSER STACK
+Long Description: STACK ANALYSER FOR SOX MEASUREMENT
+6.00
+8,84,000
+53,04,000.00
+3
+PR Line-Item No.: 30
+Material Code: STACKANALYSER SOX
+Short Description: Service for Installation & Commissioning
+1.00
+60,000.00
+60,000.00
+4
+PR Line Item No.: 3000010
+Material Code: INSILANLAGHZPL0AC
+Short Description: System Including Tubing/Wiring
+INSILANLAGHZPL*INSTLN ANLYZR GAS*Providing
+Services Without Material Installation Analyzer
+Type : Gas
+Job Scope
+Inspecting site and mechanical installation of panel/
+analyser with sampling Confirming proper electrical and signal
+wiring for correct termination inside the panel
+Powering up system and verifying analyser and system
+Condition Testing the analyser functionality of all system
+Components Inspecting all sample lines for proper installation in
+accordance with installation specifications Leak checking all
+sample lines and sample conditioning system Checking sample
+conditioning for functionality Calibration & simulation of interlock
+checking of instruments Calibration certificate shall be provided
+Area cleaning, scrap removal to be done daily during job
+1.00
+30,000.00
+30,000.00
+execution or after job completion Vendor Obligation
+Boarding And Lodging, Consumables, Fabrication, Fuel,
+Lifting Equipment, Offsite Logistic - Vendor To Worksite,
+Offsite Logistic - Worksite To Vendor, Onsite Logistic,
+Personal Protective Equipment, Scaffolding, Spares,
+Tools And Tackles, Travel HMEL Obligation
+Basic Amenities At Site(AIR, WATER, POWER)

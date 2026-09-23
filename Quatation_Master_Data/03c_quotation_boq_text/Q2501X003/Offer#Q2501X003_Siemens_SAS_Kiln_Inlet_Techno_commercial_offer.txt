@@ -1,0 +1,57 @@
+Quotation Number: Q2501X003
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(USD)
+TOTAL PRICE
+(USD)
+1
+GAS ANALYSIS SYSTEM FOR KILN INLET APPLICATION
+With Closed Loop Water Cooled Probe
+With Advanced Power Cylinder Based Retraction System (Pneumatic)
+With Scavenging Box For Dual Stage Auto Probe Cleaning
+With Sample Handling System
+With Touch Screen Graphic HMI
+With Provision For Microprocessor Based Gas Analyzer
+(For Details Please Refer Enclosed System Overview)
+1 SET
+60000
+60000
+2
+PRE FABRICATED HEAT TRACED TUBE
+Type : Simplex
+Power supply : 230 V AC, 50 Hz
+Material : 1⁄4 ” PTFE Tube
+With junction box & End seal connectors
+AS
+REQD
+@ 75 PER METER
+As a part of the Cement Kiln Inlet System package, Adage recommends compulsory bundling the following additional parts and
+services
+3
+Mandatory Parts Package :
+1.
+Spare Kiln Inlet Probe.
+2.
+Spare Probe Filter .
+3.
+Bag of spares including SOV, Retraction system spares ,etc
+1 SET
+6000
+4
+Mandatory Commissioning by Adage expert, which will include 2 visits . The 1st one
+during pre-commissioning & for supervision of the installation of the probe &
+retraction system and bushing tube and the 2nd visit for final commissioning
+Note : Air Tickets accommodation and local conveyance by Siemens
+2 Visits
+Included.
+5
+Preventive Maintenance Visit during the first 24 months of system installation, which
+will include 3 visits every year, which is total 6 visits to end customer site.
+Note : Air Tickets by Adage
+2 years
+20,000

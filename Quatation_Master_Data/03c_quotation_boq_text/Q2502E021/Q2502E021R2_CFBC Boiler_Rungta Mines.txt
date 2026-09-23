@@ -1,0 +1,81 @@
+Quotation Number: Q2502E021R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM TO MEASURE CO AT ECONOMISER INLET IN
+CFBC BOILER
+Service: Economiser Inlet
+Tag Number: 1-FLG-AT-103/ 2-FLG-AT-103
+Make: Siemens AG, Germany
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Component to be measured: CO
+Process Conditions at Sample Inlet:
+•
+Temperature: 500 Deg C
+•
+Pressure: -250/-650 mmWC
+•
+Pipeline ID/OD: 3000mm
+Measuring Ranges:
+•
+CO: 0 – 1000/5000 ppm
+System Features:
+•
+With Dual Gas Sampling Probe
+•
+With Scavenging Box for Auto Probe Cleaning
+•
+With Sample Handling System
+•
+With Touch Screen Graphic – HMI
+•
+With Calibration Gas Cylinders
+Analyzer Benefits:
+•
+AUTOCAL with ambient air (depending on the measured
+component)
+•
+Highly cost-effective as calibration gases are not required
+•
+High selectivity thanks to multi-layer detectors, e.g. low cross-
+sensitivity to water vapor
+•
+Analyzer cells can be cleaned on site as required
+•
+Cost savings due to reuse after contamination
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+1 Set
+19,79,000
+19,79,000
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With necessary accessories and JBs
+180 Mtr
+INCLUSIVE
+INCLUSIVE
+3
+POWER CABLE
+200 Mtr
+INCLUSIVE
+INCLUSIVE
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per Diem
+@30,000 PER DIEM

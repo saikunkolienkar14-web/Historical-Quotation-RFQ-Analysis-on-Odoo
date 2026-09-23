@@ -1,0 +1,26 @@
+Quotation Number: SQ2504G006
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+Sr. No.
+Description
+Part No
+QTY
+Unit Price
+Total Price
+1
+D-R 320 SP PCB No. 2
+suitable for D-R 320 M
+- printed circuit board No. 2 (main PCB)
+18709078
+01
+2,35,750.00
+2,35,750.00
+2
+D-R 320 SP Connector cable sensor
+suitable for D-R 320 M
+- internal cable for sensor
+28602459
+01
+36,500.00
+36,500.00

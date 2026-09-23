@@ -1,0 +1,48 @@
+Quotation Number: Q2507E094R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total
+Price
+(INR)
+1
+OXYGEN ANALYZER FOR AUXILLARY BOILER
+Tag No: AAG-AT-0142
+Service: FLUE GAS AT AUXILLARY BOILER
+Make: Airoptic
+Model: Gas Eye Probe
+Operating Principle: TDLAS
+Analyser Area Classification: Safe Area
+Mounting Location: In-situ Mounted
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Approx 300mmWC
+•
+Temperature (Nor/Design): 150 Deg C
+Measuring Range:
+•
+O2: 0-10%
+Analyser Outputs:
+•
+MODBUS TCP/IP
+•
+4-20mA Analog Outputs
+Utility Required:
+•
+Nitrogen required @ 4-6 bar
+Notes:
+•
+Probe Length yet to be confirmed by OEM
+1 Set
+41,00,000/-
+41,00,000/-
+2
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+Per
+Diem
+@30,000 PER DIEM

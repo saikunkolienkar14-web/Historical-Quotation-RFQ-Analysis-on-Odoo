@@ -1,0 +1,110 @@
+Quotation Number: SQ2506E232
+BOQ Status: FOUND
+
+Date: 01-07-2025
+Ref: Q25260184-SQ2506E232
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602004
+Motherboard For Calomat 6
+1.00
+201,388.00
+201,388.00
+1
+Nos
+1.00
+74,520.00
+74,520.00
+2
+Nos
+28602055
+Spare part Display+Connection board
+1.00
+209,208.00
+209,208.00
+3
+Nos
+28602023
+Sensor For Calomat 6
+1.00
+763,912.80
+763,912.80
+4
+Nos
+18728006
+Forward Pressure Regulator 0-16 KG
+With SRV
+1.00
+31,005.00
+31,005.00
+5
+Nos
+1.00
+10,046.00
+10,046.00
+6
+Nos
+28919006
+Coalescing Filter Element - For SS
+Fine Filter
+1.00
+3,772.00
+3,772.00
+7
+Nos.
+1.00
+45,110.00
+45,110.00
+8
+Nos
+18315007
+Ball valve 2 way 1/4 NPT (F) x 1/4"
+NPT (F) - Brass
+1.00
+5,057.00
+5,057.00
+9
+Nos
+1.00
+16,881.00
+16,881.00
+10
+Nos
+28602012
+Power Supply
+18919005
+SS-316 FILTER BODY ASSEMBLY
+FOR CO-ELASCING FILTER
+WITHOUT DRAIN
+28315006
+5 way Ball Valve 1/8” NPT (F),
+BRASS
+28315009
+Non Return Valve Brass 1/4" NPT(F)
+Date: 01-07-2025
+Ref: Q25260184-SQ2506E232
+1.00
+14,040.00
+14,040.00
+11
+Nos
+1.00
+13,546.00
+13,546.00
+12
+Nos
+18728007
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder (H2)
+18728008
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder (CO2)
+Date: 01-07-2025
+Ref: Q25260184-SQ2506E232

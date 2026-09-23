@@ -1,0 +1,245 @@
+Quotation Number: Q2412N094R3
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+2.1
+GAS ANALYSER SYSTEM FOR CO/CO2/CH4
+Service: LUMMUS 1, 2 & 3 reformers
+Make: Siemens
+Model: ULTRAMAT23 x 3 Nos
+Operating Principle: NDIR
+Area Classification: Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: CO/CO2/CH4
+Process Conditions at Sample Inlet:
+•
+Temperature: 45-50 Deg C
+•
+Pressure: 4.5 Bar
+Measuring Range:
+•
+CH4: 0 - 5%,
+•
+CO2: 0 - 15%
+•
+CO: 0 - 30%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System.
+With Secondary sample handling system consisting of:
+•
+With catch pot, flowmeters, solenoid valves etc
+•
+Mounted on a plate and shall be placed outside analyser
+room.
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+1 Nos
+$74690
+$74690
+•
+Please
+refer to section 4, page
+11-12 for its
+scheme and BOM
+2.2
+GAS ANALYSER SYSTEM FOR CO/CH4
+Service: MIDREX REFORMER
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: CO/CH4
+Process Conditions at Sample Inlet:
+•
+Temperature: 900 Deg C
+•
+Pressure: 1 Bar
+Measuring Range:
+•
+CH4: 0 - 5%
+•
+CO: 0 - 30%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System.
+With Secondary sample handling system consisting of:
+•
+With catch pot, flowmeters, solenoid valves etc
+•
+Mounted on a plate and shall be placed outside analyser
+room.
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+1 No
+$31300
+$31300
+•
+Please
+refer to section 4, page
+13-14
+for its
+scheme and BOM
+2.3
+GAS ANALYSER SYSTEM FOR H2
+Service: BUSTLE GAS LINE
+Make: Siemens
+Model: CALOMAT6E
+Operating Principle: TCD
+Area Classification: Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: H2
+Process Conditions at Sample Inlet:
+•
+Temperature: 830 Deg C
+•
+Pressure: 1.2 Bar
+Measuring Range:
+•
+H2: 0 - 80%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System.
+With Secondary sample handling system consisting of:
+•
+With catch pot, flowmeters, solenoid valves etc
+•
+Mounted on a plate and shall be placed outside analyser
+room.
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+1 No
+$28000
+$28000
+•
+Please
+refer to section 4, page
+15-16
+for its
+scheme and BOM
+2.4
+GAS ANALYSER SYSTEM FOR CO2
+Service: MIDREX REFORMER AND MIDREX REACTOR
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Zone 2, IIC
+Mounting Location: Panel mounted inside existing analyser room
+Component to be measured: CO2
+Process Conditions at Sample Inlet:
+•
+Temperature: 450 Deg C
+•
+Pressure: 1 Bar
+Measuring Range:
+•
+CO2: 0 - 30%
+With Primary sample handling system Consisting of:
+•
+With Single - probe System from each tapping point
+With Secondary sample handling system consisting of:
+•
+With catch pot, flowmeters, solenoid valves etc
+•
+Mounted on a plate and shall be placed outside analyser
+room.
+Analyzer Output:
+•
+4-20 mA Analog Output for each component
+•
+Digital Outputs
+Notes:
+1 No
+$34900
+$34900
+•
+Please
+refer to section 4, page
+17-18
+for its
+scheme and BOM
+2.6
+ON-SITE OXYGEN ANALYZERS
+Make: Emerson, Model: Oxymitter 4000
+Operating Principle: Zirconia
+Area Classification: Class I, Zone 1, Ex de IIB+H2 T6
+Mounting Location: Insitu
+Component to be measured: O2
+Configuration:
+•
+3 x Probe length – 3 ft.
+•
+3 x Probe length – 6 ft.
+Measuring Range:
+•
+O2: 0 - 10%
+Analyzer Output:
+•
+4-20 mA Analog Output
+Notes:
+•
+Please offered analyser has CSA certification instead of ATEX
+as per asked specifications.
+6 Nos
+$46000
+$ 276000
+2.7
+ANALYSER SPARE PARTS FOR 2 YEARS
+ULTRAMAT23:
+Condensate Trap-1 no
+Cart Filter- 1 no
+Fuse-1 no
+CALOMAT6E:
+Fuse-1 no
+OXYMITTER 4000:
+Cell Replacement Kit- Hazardous Area- 1 no
+1 lot
+$12000
+2.8
+HEAT TRACE TUBE
+Size: 1⁄4” SS
+Per mtr
+$87/meter
+2.9
+1⁄4” SS TUBE
+Per mtr
+$12/meter
+3
+FAT AT ADAGE WORKS
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges shall be taken care by customer)
+1 lot
+$2900
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+Per
+Diem
+$1000 per diem
+5
+TRAINING
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+Per
+Diem
+$1000 per diem
+Note:

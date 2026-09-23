@@ -1,0 +1,27 @@
+Quotation Number: Q24W10078
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price
+(INR)
+1
+310-AT-4001
+Process Gas Chromatograph
+Service: Cycle Gas from compressor for
+propylene
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens )
+Measuring range : Hydrogen : 0-15%
+Nitrogen : 0-100%
+Ethylene : 0-10%
+Ethane : 0-15%
+Propylene : 0-100%
+Propane :0-25%
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS485 Modbus Output
+1 Set
+72,30,000/-

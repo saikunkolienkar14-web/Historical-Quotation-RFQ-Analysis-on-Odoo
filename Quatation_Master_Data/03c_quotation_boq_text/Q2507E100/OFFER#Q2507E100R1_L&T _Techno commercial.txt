@@ -1,0 +1,78 @@
+Quotation Number: Q2507E100R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+GAS CHROMATOGRAPH FOR FURNACE TOP GAS ANALYSIS AT SEMI
+CLEAN BF GAS
+Make: Valmet
+Operating Principle: Gas Chromatography
+Analyser Area Classification: Suitable for safe area
+Measured Components and Ranges:
+CO:0-40%, CO2:0-30%, H2:0-21%, O2:0-20%
+With Sample Conditioning System:
+•
+With Dual probe with dual scavenging unit
+•
+With SHS consisting of flowmeter, Solenoid valves,
+sample gas cooler, sample gas pump etc
+•
+Refer to detailed BOM provided in section 4
+1 Set
+1,09,76,000
+1,09,76,000
+2
+GAS CHROMATOGRAPH FOR FURNACE TOP GAS ANALYSIS AT CLEAN
+BF GAS
+Make: Valmet
+Operating Principle: Gas Chromatography
+Analyser Area Classification: Suitable for safe area
+Measured Components and Ranges:
+CO:0-40%, CO2:0-30%, H2:0-20%, O2:0-21%
+With Sample Conditioning System:
+•
+With Dual probe with dual scavenging unit
+•
+With SHS consisting of flowmeter, Solenoid valves,
+sample gas cooler, sample gas pump etc
+•
+Refer to detailed BOM provided in section 4
+1 Set
+1,09,76,000
+1,09,76,000
+3
+DUPLEX HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS, Tube size: 1/2”
+With all necessary accessories and JB’S
+@5,500 PER METER
+4
+SPARES FOR SEMI CLEAN AND CLEAN GAS ANALYSIS SYSTEM
+Solenoid valve 3/2 way -qnty 1
+Set of O rings-1 set
+Tube fitting 1 lot
+Analyser fuse qnty 1
+Filter cartridge qnty 1
+Note: please note that temperature controller and pressure
+regulator is not applicable for the quoted system .
+2 SETS
+2,24,400
+4,48,800
+NOTE: PLEASE NOTE THAT PORTA CABIN SHALL BE IN CUSTOMER' SCOPE .
+5
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging and boarding to be arranged by the customer. To and fro
+charges to be claimed at actuals (acii tier/flight).
+@30,000 PER MAN DAY
+NOTE: KINDLY NOTE THAT THE PRICE VALID UP TO 31ST DECEMBER 2025 . BEYOND THAT THERE WILL BE A PRICE
+INCREMENT OF 7% EVERY YEAR . KINDLY NOTE THE PRICE PROVIDED IS CONSIDERING 1 EURO=102 INR . IF EURO
+INCREASE BEYOND 31ST DECEMBER 2025 THE INCREMENTAL EURO COST AT THAT TIME WILL BE APPLICABLE IN
+ADDITION TO PRICE INCREMENT OF 7% .

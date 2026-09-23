@@ -1,0 +1,23 @@
+Quotation Number: SQ2508E316
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+ITEM NO.
+ITEM DETAILS
+QTY
+UNITS
+UNIT RATE
+TOTAL RATE
+RFQ ITEM NO.10 AMC for process analyzer For 2 years
+10.1
+1st Year AMC Charges for Ametek Analyzer
+12
+DAY
+QUOTED
+QUOTED
+10.2
+2nd Year AMC Charges for Ametek Analyzer
+12
+DAY
+QUOTED
+QUOTED

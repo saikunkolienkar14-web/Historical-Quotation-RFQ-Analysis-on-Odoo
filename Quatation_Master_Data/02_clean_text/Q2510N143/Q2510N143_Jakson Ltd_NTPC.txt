@@ -1,0 +1,1563 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION. In reference to the same,
+please find enclosed our quotation for Design & Engineering, Manufacturing and Supply of Analyzer System as per
+your requirement.
+
+ADAGE QUOTE REF:
+Q2510N143
+DATED : 12.11.2025
+BID TYPE : Budgetary
+PROJECT TITLE:
+Gas Analysis System for 10 TPD CO2 to 4G-Ethanol Plant At NTPC
+Simhadri & Pudimadaka
+INQUIRY DETAILS:
+Enquiry received via mail Dtd. 21.08.2025
+CUSTOMER:
+
+Satyaki Sen
+Jakson Limited, Green Private Limited
+
+END USER:
+
+NTPC Simhadri & Pudimadaka
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Scope Definition
+SECTION-3: Commercial Terms & Condition
+SECTION-4: Bill of Material
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr Kush Jain
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 8668816625
+kush@adage-automation.com
+Mr Rajesh Gupta
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9163262766
+rajesh@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to briefly introduce
+our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. Our
+expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for various industrial
+sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of Saudi
+Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas Analytical
+Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven capabilities,
+global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 1: SUMMARY OF PRICES
+NTPC SIMHADRI SITE
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+SO2/NO2/CO2 MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDUV
+Area Classification: Safe
+Mounting Location: Extractive Type
+
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+
+Measuring Range:
+•
+CO2: 0-20/100%
+•
+NO2: 0-50/1250 mg/m3
+•
+SO2: 0-50/1250 mg/m3
+
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valves.
+•
+With Secondary SHS consisting of Flowmeter.
+•
+Refer to detailed BOM provided in section 4
+
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2
+pH MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH
+
+Measuring Ranges:
+•
+pH: 0-14
+
+With Sample handling system
+
+Analyser Outputs:
+•
+4-20 mA
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+4 Sets
+QUOTED
+QUOTED
+3
+CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: Conductivity
+
+Measuring Ranges:
+•
+Conductivity: 0-500 μS/cm
+
+With Sample handling system
+
+Analyser Outputs:
+•
+4-20 mA
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4
+CO2 MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+
+Measuring Range:
+•
+CO2: 0-20/100%
+
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valve.
+•
+With Secondary SHS consisting of Flowmeters.
+•
+Refer to detailed BOM provided in section 4
+
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3 Sets
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+NTPC PUDUMATKA SITE
+1
+CO, CO2, CH4, N2, O2 MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+
+Measuring Range:
+•
+CO2: 0-5/25%
+•
+CH4: 0-1/5%
+•
+O2: 0-25%
+•
+CO: 0-20/100%
+•
+N2: 0-100%
+
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valve.
+•
+With Secondary SHS consisting of Flowmeters.
+•
+Refer to detailed BOM provided in section 4
+
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+N2 shall be done on calculative basis and displayed in the HMI.
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.1
+CO, CO2, CH4, N2, O2 MEASUREMENT ANALYSER SYSTEM-
+OPTION 2
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Make: Siemens
+Model: CALOMAT6E
+Principle: TCD
+Area Classification: Safe
+Mounting Location: Extractive Type
+
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+
+Measuring Range:
+•
+CO2: 0-20/100%
+•
+CH4: 0-1/5%
+•
+O2: 0-25%
+•
+CO: 0-20/100%
+
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valve.
+•
+With Secondary SHS consisting of Flowmeters.
+•
+Refer to detailed BOM provided in section 4
+
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+N2 shall be done on calculative basis and displayed in the HMI.
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)2
+1 Set
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2
+pH & CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH & Conductivity
+
+Measuring Ranges:
+•
+pH: 0-14
+•
+Conductivity: 0-500 μS/cm
+
+With Sample handling system
+
+Analyser Outputs:
+•
+4-20 mA
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+3
+pH MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH
+
+Measuring Ranges:
+•
+pH: 0-14
+
+With Sample handling system
+
+Analyser Outputs:
+•
+4-20 mA
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4
+BIOGAS MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Union
+Model: INCA4003
+Component to be measured: CO2/CH4/O2/H2S
+Area Classification: Safe
+Mounting Location: Extractive Type
+
+Sample tapping details:
+•
+Kindly provide process duct ID/OD. For now, we have
+considered tapping points
+
+Measuring Range:
+•
+CO2: 0-100%
+•
+CH4: 0-100 %
+•
+O2: 0-25%
+•
+H2S: 0-1000ppm
+
+With Sample handling system consisting of:
+•
+With rack to mount the analyser & SHS Components like
+pressure regulators, gauges, etc
+•
+With Calibration Gas Cylinders
+
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+5
+PORTA CABIN WITH AC
+Make: Adage
+Porta cabin of size: 3mtrs X 3mtrs X 2.5mtrs
+
+SPECIFICATIONS:
+STRUCTURE : The base structure of the Porta Cabin shall be
+constructed using ISMC 75 and angles welded properly and adequately.
+All structural members shall be sized to ensure structural rigidity and to
+prevent deformation during dragging, lifting, loading and unloading
+operation of the Porta Cabin.
+FLOORING: The floor shall be fabricated from anti-slip and non-
+corrosive M.S chequered plates of 2 mm thick.
+ROOF: Top outer curved type of CRCA 1.2mm plain sheet welded with
+CRCA frame structure. Top inner is of 1.2mm plain sheet.
+EXTERNAL & INTERNAL: External sidewalls shall be ribbed
+interlocking CRCA sheet of 1.2 mm thickness and internal walls shall
+be CRCA sheet of 1.00 mm thickness.
+INSULATION: 50mm Rock wool 48kg/m3 Density
+
+DOORS: The Porta Cabin shall be provided with 1 no. door of size 1000
+W X 2000 H with safety glass window, suitable locking arrangement and
+automatic spring door closer opening by simple push.
+
+OTHERS:
+1. Hooks for easy lifting and shifting will be provided.
+2. Suitable A.C mounting plates will be provided on the side at
+required location
+3. WITH Door & Cylinder Canopy.
+4. Split AC- 1 ton
+
+PAINTING:
+Porta Cabin shall be treated and painted as follows:
+1. All surfaces including structures shall be treated and grinding
+done so that they are smooth and free of scale, rust etc.
+2. If necessary suitable filler shall be applied to all pits and
+blemishes on surfaces.
+3. Final coating will be outside RAL7035 and Inside – Brilliant white
+
+1 Set
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+ADDITIONAL PRICES
+1
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+PER
+MTR
+@ QUOTED PER METER
+2
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per
+Diem
+@ QUOTED PER DIEM
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 2- NOTE & SCOPE DEFINITION
+
+• External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+• All return to process/drain connections shall be taken care by customer
+• Plant Instrument air & Nitrogen required @ 4-6 bar (if applicable)
+• Analysers shall be mounted in Temperature controlled room maintaining a temperature of 5 to 45 Deg C
+• All the Process’ are considered to be pressurized lines without any presence of moisture in the sample gas
+composition
+• All Calibration cylinders shall be in customers scope of supply.
+• Cooling Water or DM water completely free from dust, contaminants, etc. by customer (if applicable)
+Power Supply Utilities required are:
+• Power Supply: 415V (3ph + N) / 230 VAC, 50 Hz (Non-UPS)
+• Power Supply: 230 VAC, 50 Hz (UPS)
+
+Our Scope of Supply and Work Includes:
+
+• Design, Engineering and Supply as per Summary of Prices
+• Supervision of Installation and Commissioning of the complete System
+• Project Management and Project Documentation
+
+Our Scope of Supply Does Not Include:
+
+• All Erection and Installation Activity.
+• Any kind of earthing related work
+• Any kind of Civil Work or Mechanical Work.
+• Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+• Loop checking for analog & digital signals. (Adage shall provide assistance)
+• Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal /
+serial communication cables etc. Any kind of splicing of OFC shall be in customers scope.
+• Laying of trays/structural and support for field tubing.
+• All utilities as mentioned above.
+• M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3- COMMERCIAL TERMS AND CONDITIONS
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of drawing Approval.
+Offer validity
+The quoted prices are valid up to 31st December 2025. Beyond this date, a
+price escalation of 7% per annum will apply. Please note that the quoted prices
+are based on an exchange rate of 1 EUR = 102 INR. In the event the EUR/INR
+exchange rate increases after 31st December 2025, the corresponding increase
+in the Euro value will be applicable in addition to the annual 7% price escalation
+Payment Terms
+10% Advance with the Order, 10% against Approval of Drawings & Balance
+80% payment against exchange of dispatch documents.
+Warranty Clause
+Against manufacturing defects for 12 months from the date of Commissioning
+or 18 months from the date of dispatch, whichever is earlier.
+Storage Charges
+The storage charges shall be applicable @0.5% of the order value per week
+after inspection or scheduled delivery
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 4- BILL OF MATERIAL
+
+BILL OF MATERIAL-SO2/NO2/CO2 MEASUREMENT ANALYSER SYSTEM
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+GA
+SO2/NO2/CO2 Analyser
+Siemens
+ULTRAMAT23
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+PR
+Pressure Regulator with one gauge, Size: 1/4"
+Spangas/Hylok
+#
+Nos
+1
+5
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+6
+CF
+Coalescing Filter
+Adage
+#
+Nos
+1
+7
+
+PSCS Enclosure, MOC: SS316 unpainted, shall
+be IP54 rated
+Size: Approx 500 x 500 x 510 mm
+Rittal
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+8
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+9
+FM
+Bypass Flowmeter
+Adage
+#
+Nos
+1
+10
+3BV
+3 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+11
+BVM
+Ball Valve Manifold
+Adage
+#
+Nos
+1
+12
+
+Analyser Rack
+Adage
+#
+Nos
+1
+#- Shall be provided post order
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+BILL OF MATERIAL-pH & Conductivity
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+
+pH Analyser with Flow Through Cell
+E&H/Forbes
+Marshall/Emerson/Equivalent
+#
+Nos
+1
+1.1
+
+Conductivity Analyser with Flow Through
+Cell
+E&H/Forbes
+Marshall/Emerson/Equivalent
+#
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+2
+5
+PI
+Pressure Indicator, Dial Size: 50mm
+Wika
+#
+Nos
+1
+6
+PR
+Pressure Regulator with one gauge, Size:
+1/4"
+Spangas/Hylok
+#
+Nos
+1
+7
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+8
+
+Analyser Skid
+Size: Approx 600 x 600 x 2100 mm
+Rittal
+#
+Nos
+1
+#- Shall be provided post order
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+BILL OF MATERIAL-pH
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+
+pH Analyser with Flow Through Cell
+E&H/Forbes
+Marshall/Emerson/Equivalent
+#
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+2
+5
+PI
+Pressure Indicator, Dial Size: 50mm
+Wika
+#
+Nos
+1
+6
+PR
+Pressure Regulator with one gauge, Size:
+1/4"
+Spangas/Hylok
+#
+Nos
+1
+7
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+8
+
+Analyser Skid
+Size: Approx 600 x 600 x 2100 mm
+Rittal
+#
+Nos
+1
+#- Shall be provided post order
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+BILL OF MATERIAL-Conductivity
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+
+Conductivity Analyser with Flow Through
+Cell
+E&H/Forbes
+Marshall/Emerson/Equivalent
+#
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+2
+5
+PI
+Pressure Indicator, Dial Size: 50mm
+Wika
+#
+Nos
+1
+6
+PR
+Pressure Regulator with one gauge, Size:
+1/4"
+Spangas/Hylok
+#
+Nos
+1
+7
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+8
+
+Analyser Skid
+Size: Approx 600 x 600 x 2100 mm
+Rittal
+#
+Nos
+1
+#- Shall be provided post order
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+BILL OF MATERIAL-CO2 MEASUREMENT ANALYSER SYSTEM
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+GA
+CO2 Analyser
+Siemens
+ULTRAMAT23
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+PR
+Pressure Regulator with one gauge, Size: 1/4"
+Spangas/Hylok
+#
+Nos
+1
+5
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+6
+CF
+Coalescing Filter
+Adage
+#
+Nos
+1
+7
+
+PSCS Enclosure, MOC: SS316 unpainted, shall
+be IP54 rated
+Size: Approx 500 x 500 x 510 mm
+Rittal
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+8
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+9
+FM
+Bypass Flowmeter
+Adage
+#
+Nos
+1
+10
+3BV
+3 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+11
+BVM
+Ball Valve Manifold
+Adage
+#
+Nos
+1
+12
+
+Analyser Rack
+Adage
+#
+Nos
+1
+#- Shall be provided post order
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+BILL OF MATERIAL-CO/CO2/CH4/O2/N2 MEASUREMENT ANALYSER SYSTEM- OPTION 1
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+GA
+CO/CO2/CH4/O2 Analyser
+Siemens
+ULTRAMAT23
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+PR
+Pressure Regulator with one gauge, Size: 1/4"
+Spangas/Hylok
+#
+Nos
+1
+5
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+6
+CF
+Coalescing Filter
+Adage
+#
+Nos
+1
+7
+
+PSCS Enclosure, MOC: SS316 unpainted, shall
+be IP54 rated
+Size: Approx 500 x 500 x 510 mm
+Rittal
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+8
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+9
+FM
+Bypass Flowmeter
+Adage
+#
+Nos
+1
+10
+3BV
+3 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+11
+BVM
+Ball Valve Manifold
+Adage
+#
+Nos
+1
+12
+
+Analyser Rack
+Adage
+#
+Nos
+1
+13
+
+Human Machine Interface-7"
+Adage
+#
+Nos
+1
+#- Shall be provided post order
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+BILL OF MATERIAL-CO/CO2/CH4/O2/N2 MEASUREMENT ANALYSER SYSTEM- OPTION 2
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+GA
+CO/CO2/CH4/O2 Analyser
+Siemens
+ULTRAMAT23
+Nos
+1
+1.1
+GA
+N2 Analyser
+Siemens
+CALOMAT6E
+Nos
+1
+B
+Sample handling system (Primary)
+2
+PRB
+Sample Probe, MOC: SS316
+Adage
+#
+Nos
+1
+3
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+4
+PR
+Pressure Regulator with one gauge, Size: 1/4"
+Spangas/Hylok
+#
+Nos
+1
+5
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+6
+CF
+Coalescing Filter
+Adage
+#
+Nos
+1
+7
+
+PSCS Enclosure, MOC: SS316 unpainted, shall
+be IP54 rated
+Size: Approx 500 x 500 x 510 mm
+Rittal
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+8
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+9
+FM
+Bypass Flowmeter
+Adage
+#
+Nos
+1
+10
+3BV
+3 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+11
+BVM
+Ball Valve Manifold
+Adage
+#
+Nos
+1
+12
+
+Analyser Rack
+Adage
+#
+Nos
+1
+#- Shall be provided post order
+
+SOLUTION PARTNER
+ANALYTICAL
+GAS ANALYSER
+INCA4003
+GAS ANALYSER INBUILT GAS COOLER AND PERISTALTIC PUMP.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+BILL OF MATERIAL-BIOGAS
+Sr No
+Legend
+Description
+Make
+Model
+UOM
+Qty
+A
+Analyzer and Accessories
+1
+GA
+CO2/H2S/CH4/O2 Analyser
+Union
+INCA4003
+Nos
+1
+B
+Sample handling system (Primary)
+2
+BV
+2 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+3
+PR
+Pressure Regulator with one gauge, Size: 1/4"
+Spangas/Hylok
+#
+Nos
+1
+4
+SRV
+Safety Relief Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+5
+CF
+Coalescing Filter
+Adage
+#
+Nos
+1
+6
+
+PSCS Enclosure, MOC: SS316 unpainted, shall be
+IP54 rated
+Size: Approx 500 x 500 x 510 mm
+Rittal
+#
+Nos
+1
+B
+Sample handling system (Secondary)
+7
+NV
+Needle Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+8
+FM
+Bypass Flowmeter
+Adage
+#
+Nos
+1
+9
+3BV
+3 Way Ball Valve, Size: 1/4"
+Hylok
+#
+Nos
+1
+10
+BVM
+Ball Valve Manifold
+Adage
+#
+Nos
+1
+11
+
+Analyser Rack
+Adage
+#
+Nos
+1
+#- Shall be provided post order

@@ -1,0 +1,163 @@
+Quotation Number: Q25G10120
+BOQ Status: FOUND
+
+Date
+Revision Details
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: SUMMARY OF PRICES
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Conductivity Analyser
+TAG-No.: 1102AT0110
+Quoted
+Quoted
+2
+1
+pH Analyser
+TAG-No.: 1102AT0120
+Quoted
+Quoted
+3
+1
+O2 Analyser
+TAG-No.: 1101AT0101A
+Quoted
+Quoted
+4
+1
+O2 Analyser
+TAG-No.: 1101AT0101B
+Quoted
+Quoted
+5
+1
+CO Analyser
+TAG-No.: 1801AT0102
+Quoted
+Quoted
+6
+1
+Manual Sampling system - Detail E
+Quoted
+Quoted
+7
+1
+Manual Sampling system - Detail H
+Quoted
+Quoted
+8
+1
+Manual Sampling system - Detail J
+Quoted
+Quoted
+9
+1
+Manual Sampling system - Detail G
+Quoted
+Quoted
+10
+1
+Manual Sampling system - Detail F
+Quoted
+Quoted
+11
+1
+Manual Sampling system - Detail K
+Quoted
+Quoted
+12
+1
+Design Documentation & Project Management
+Quoted
+Quoted
+13
+1
+FAT at Adage Factory
+Quoted
+Quoted
+14
+1
+Startup & Commissioning Spares
+Quoted
+Quoted
+OPTIONAL
+15
+1
+Packing, Forwarding & Transportation upto Site
+Quoted
+Quoted
+16
+Per
+diem
+Supervision of Installation, Commissioning & SAT
+Quoted
+Quoted
+17
+1
+Spares for two-years operation
+Quoted
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 3: ASSUMPTIONS/CLARIFICATIONS
+1. There is conflict in measuring ranges in document “&AG-P-SD 1001” and “&AG-J-LJ 4EN.0001”.
+We have quoted analysers in-line with measuring range requirement in documents “AG-P-SD 1001”
+2. Considering Hazardous Area Classification as Zone 2, IIC, T3.
+3. Supply of probe for analyser & manual sampling systems shall be in customer scope.
+4. Assuming Common Tapping point (Probe), Sampling line & Common SHS for Tag No: 1102AT0110
+& 1102AT0120. We have considered common transmitter for both pH & conductivity sensors.
+5. Manual Sampling system has been given in-line with the drawings provided in document” &AG-J-LJ
+4EN.0001”
+6. For manual sampling system: Supply of probe, Sample line/Return line from tapping point to manual
+sampling system is in customer scope.
+7. We have quoted supply of Heat traced tube for manual sampling system for Tag No: 1202AP0109
+(Detail-F), length: 20m
+8. Manual sampling systems shall be installed on SS316 mounting plates.
+Each mounting plate shall be supplied with sun / rain canopy and suitable for installation on free
+standing 2” pipe mounting stanchion/ Field rack
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 4: TECHNICAL LITERATURE
+S.N Item Description
+Qty
+Price(INR)
+1
+Conductivity Analyser
+Tag no: 1102AT0110
+Make: Emerson
+Model: Sensor: - Rosemount 400
+Transmitter: Rosemount 1056
+Hazardous Area Classification: Zone 2 llC T3
+Power Supply: 24V DC, Loop Powered
+Mounted on plate installed on 2’ stanchions/field rack
+Service: Blowdown from Steam drum, 1102D01
+Process conditions:
+-
+Temperature (Operating/Design): 45/250 Deg C
+-
+Pressure (Operating/Design): 1.5/ (-1/36) Kg/cm2
+-
+Sample return to UG drain
+Measuring Range:
+-
+Conductivity: 0-2000 μS
+Analyzer Outputs:
+-
+4-20mA Analog HART output
+Utility required:
+-
+Auxiliary power 24 V DC nominal.
+Notes:
+Sample return to UG Drain – UG Drain shall be in Linde

@@ -1,0 +1,434 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please 
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which 
+includes analysers as per your requirement. 
+
+ADAGE QUOTE REF: 
+Q25E10021R1 
+DATED : 21.03.2025 
+BID TYPE : Budgetary 
+PROJECT TITLE: 
+Supply of CO Analyser system at Haldia NCU heater unit 
+ 
+INQUIRY DETAILS: 
+Enquiry received via mail from Animesh Banerjee 
+CUSTOMER: 
+
+Kind Attention : Mr. Animesh Banerjee 
+Haldia Petrochemical Ltd. 
+
+END USER: 
+
+Haldia Petrochemical Ltd. 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Summary Of Prices 
+SECTION-2: Technical Literature 
+SECTION-3: Scope Definition 
+SECTION-4: Commercial Terms & Condition 
+
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr Himanshu Kapoor 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9460219551 
+himanshu@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+This is in context to your requirement of for Gas analysis System & We Thank you for the same. 
+ 
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical 
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring & 
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc 
+ 
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern 
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have 
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership 
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60% 
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to 
+over 40 countries in Africa, Mid East, Far East and South America. 
+ 
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint 
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our 
+State of the art factory with its highly sophisticated infrastructure is second to none in India. 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 1: SUMMARY OF PRICES 
+
+Sr. 
+No. 
+Tag No 
+Item Description 
+Qty 
+Total 
+Price(INR) 
+1 
+_ 
+IN-SITU TYPE CO ANALYSER 
+SYSTEM AT THE FIREBOX ARCH 
+FOR ETHYLENE FURNACES IN THE 
+NCU PLANT 
+ 
+Make : Ametek 
+ 
+Please refer technical Literature at 
+section-2 
+1 No 
+Quoted 
+OPTION-1 
+2 
+_ 
+EXTRACTIVE TYPE CO ANALYSER 
+SYSTEM AT THE FIREBOX ARCH 
+FOR ETHYLENE FURNACES IN THE 
+NCU PLANT 
+ 
+Make : Siemens 
+ 
+Please refer technical Literature details 
+at section-2 
+1 No 
+Quoted 
+3 
+- 
+FAT 
+1 Lot 
+Quoted 
+4 
+- 
+Supervision of Erection and 
+Commissioning 
+Lumpsum Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 2: TECHNICAL LITERATURE 
+ 
+1 
+IN-SITU TYPE CO ANALYSER SYSTEM AT THE FIREBOX ARCH 
+FOR ETHYLENE FURNACES 
+ 
+Service: Ethylene Furnace 
+Make: Ametek USA 
+Model: WDG VC 
+Mounting Location: In Situ mounting 
+Hazardous Area Classification: Zone 2 IIC, T3 
+Principle: Zirconium oxide for net oxygen (O2) measurement and 
+dual hot-wire catalytic detectors for COe 
+Rating: IP65 
+Power Supply: 230 VAC, 50 Hz 
+Measuring Ranges: 
+- 
+COe: 0-200 PPM 
+- 
+O2: 0-10% 
+ 
+Process Condition: 
+- 
+Temperature (Op / Max.): 1150/1225 Deg C 
+- 
+Pressure (Op / Max): -5 to +5 mmWC 
+ 
+Analyzer Outputs: 
+- 
+With 4-20 mA Analog output 
+- 
+With RS-485 Serial Output 
+- 
+Potential free contacts for fault 
+ 
+Utilities Required: 
+- 
+Power Input: 230VAC, power consumption is 800VA. 
+- 
+3 SCFH typical at 3 to 6 psig, instrument air. 
+Note: 
+1- 4” Flange shall be provided by Adage for mounting. 
+2- Analyser is Zone-2 certified 
+9 Nos 
+Quoted 
+1.1 
+Remote Calibration Unit (RCU): Mounted on MS painted rack 
+with canopy 
+ 
+- 
+RCU unit for Auto/Manual calibration. 
+- 
+With HMI (Suitable for Zone-2), Make Ametek. 
+- 
+With Electrical JB 
+- 
+Tubing & Cable between Sensor Unit at Stack & HMI at 
+grade level: 30 meters. 
+- 
+Calibration Gas regulators (2-Stage SS316) and required 
+accessories by Adage. 
+9 Nos 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+2 
+EXTRACTIVE TYPE CO ANALYSER SYSTEM AT THE 
+FIREBOX ARCH FOR ETHYLENE FURNACES 
+ 
+Service: Ethylene furnace 
+Make: Siemens 
+Model: Ultramat 6F 
+Measurement Range : 0-200ppm 
+Hazardous Area Classification: Zone 1, Gr IIC, T3 
+Mounting Location: Inside Analyser Panel Assembly 
+ 
+Process Condition: 
+Sample Point: 
+- 
+Temperature (Op / Max.): 1150/1225 Deg C 
+- 
+Pressure (Op / Max): -5 to +5 mmWC 
+Return Point: 
+- 
+It is advisable to return the sample to flare 
+ 
+Analyser Outputs: 
+- 
+4-20 mA Analog output for measuring component. 
+- 
+RS-485 / Ethernet Modbus Serial Output 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+9 Nos 
+Quoted 
+1.1 
+Sample Probe assembly followed by water cooler assembly 
+- 
+MOC: SS316 
+- 
+Connection: 3/4”, 150# RF connection 
+5 Nos 
+Quoted 
+1.2 
+Sample Line 
+- 
+¼” SS316 HTT 
+25 Mtrs X9 
+Quoted 
+1.3 
+Secondary Sample Handling System mounted inside 
+analyser enclosure (as per SHS P&ID) 
+- With Gas cooler assembly 
+- With membrane filter assembly followed Flow meter 
+- With Sample pump assembly 
+- With glass tube rotameter for sample inlet 
+- With condensate monitor and relay assembly 
+- With three way solenoid valve assembly for calibration 
+- Above items shall be completely tubed and equipped in a 
+suitable size panel assembly 
+9 Nos. 
+Quoted 
+1.4 
+Calibration Gases: 
+Span Calibration blend with cylinder pressure regulator 
+Zero Calibration blend with cylinder pressure regulator 
+9 Set 
+Quoted 
+1.5 
+Analyser Cabinet Assembly 
+MOC: CRCA painted 
+Make : Adage 
+• 
+With utility header assembly 
+• 
+With Power distribution PDP 
+• 
+With signal distribution PDP 
+• 
+With Ex-Proof Air conditioner Unit 
+9 Set 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: SCOPE DEFINITION 
+
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply 
+of complete analyzer system for the following analyzers as per MR. 
+• 
+All Analysers complete with all hardware, software and necessary accessories 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 
+4) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyser system 
+• 
+Supply of spares and consumables as per MR requirements (If ordered) 
+• 
+Training at site as per MR requirements (If ordered) 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful ope
+ration of Analyzers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated 
+Electrical traced tubes, bare tubes, pipe, tube fittings between 
+sample take off and analyzer 
+shelter & sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial 
+communication cables/field tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery 
+limit near each Analyzer Shelter in field. 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 4: COMMERCIAL TERMS & CONDITION 
+
+Price Basis 
+Ex works, Goa 
+Packing Charges 
+2% of the basic order value. 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN Code 
+90271000 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 10 months from the date PO reciept. 
+Offer validity 
+30 days. 
+Payment Terms 
+30% Advance with the Purchase Order, 20 % against drawing approval in 
+CODE 2, Balance 50 % against Proforma Invoice on readiness of material prior 
+to dispatch. 
+Guarantee Clause 
+ 
+Against manufacturing defects for 12 months from the date of Commissioning or 
+18 months from the date of dispatch whichever is earlier.

@@ -1,0 +1,110 @@
+Quotation Number: Q2509G064
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+GAS ANALYSER SYSTEM FOR HRSG CEMS
+WITH SAMPLE GAS PROBE
+WITH BLOWBACK UNTI FOR PROBE CLEANING
+WITH SAMPLE HANDLING SYSTEM
+WITH TOUCH SCREEN GRAPHIC DISPLAY
+WITH NO2 TO NO CONVERTOR
+WITH IP54 PANEL
+WITH REMOTE CALIBRATION FACILTIY
+WITH MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 MODULE- 1 No
+For Sulphur Dioxide (SO2) Measurement
+For Nitric Oxide (NO) Measurement
+Measuring range: 0-10 PPM
+MAKE: SIEMENS AG, GERMANY
+1
+Set
+QUOTED
+QUOTED
+2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : PTFE ;
+PORT SIZE: 1⁄4’’
+POWER SUPPLY : 230 VAC 50HZ
+DIDTANCE FROM STACK TO CEMS PANEL: 80
+80
+Mtrs
+QUOTED
+QUOTED
+3
+DATA CONNECTIVITY WITH EXISTING DAS
+IN CUSTOMER SCOPE.
+NOTE
+WE WILL PROVIDE RS 485 O/P FROM ANALYSER
+PANEL FOR SERIAL COMMUNICATION & ETHERNET
+O/P FOR DATA COMMUNICTAION.
+1 Set
+QUOTED
+QUOTED
+4
+2 YEARS OPERATIONAL SPARES
+1. FUSE FOR ULTARMAT 23 – 1 No
+2. CART FILTER – 1 No
+3. PACK OF 25 MEMBRANE FILTER – 1 No
+1 Set
+QUOTED
+QUOTED
+5
+5 YEARS MAITENANCE SPARES
+1. CART FILTER – 10 Nos
+2. IR Source: 1 No
+3. Probe Filter: 5 Nos
+4. Paper Filter: 10 Nos
+5. Sample Pump: 2 Nos
+6. SOV: 2 Nos
+7. Condensate Trap: 2 Nos
+1 Set
+QUOTED
+QUOTED
+6
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+BOARDING – LODGING – LOCAL CONVEYANCE,
+TO & FRO TRAVELLING IS IN OUR SCOPE
+1 VISIT OF 2 MANDAYS CONSIDERED
+ANY ADDITIONAL MANDAYS REQUIRED WILL BE ON
+CHARGEABLE BASIS
+Lum
+sum
+QUOTED
+Note
+1. All Power, Signal and Communication will be in scope of customer.
+2. Data transfer to CPCB/SPCB will happen from existing LAN network, we will provide Ethernet o/p
+further communication is in customer scope
+3. RS485 communication from gas analyser panel to Plant DCS is considered, required cable is in
+customer scope.
+4. Instrument air free from oil, moisture & dust shall be made available near analyser panel & at
+sampling location for CEMS .
+5. UPS & Non UPS Power supply should be made available near CEMS gas analyser panel, further
+distribution is in our scope.
+6. Cable tray for power & signal cable from analyser panel to sampling location is in customer
+scope.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope..
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for Heat Trace Tube for Sample Gas Transportation. Any Extra tubing
+Tube would attract a price per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel
+shall be Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+•
+Air conditioner room shall be provide to mount gas analyzer system.

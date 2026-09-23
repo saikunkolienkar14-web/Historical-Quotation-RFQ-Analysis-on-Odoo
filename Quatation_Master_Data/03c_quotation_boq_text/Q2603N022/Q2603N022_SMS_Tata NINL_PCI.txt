@@ -1,0 +1,76 @@
+Quotation Number: Q2603N022
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR FINE COAL SILO
+Application: Fine Coal Silo
+Make: Siemens
+Model: OXYMAT61 x 2 nos
+Component to be measured: O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 90 Deg C
+•
+Pressure: 0 – 0.1 bar (g)
+Measuring Ranges:
+•
+O2: 0-25%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System.
+•
+With Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+Notes:
+•
+Heat Trace tube shall be in customers scope
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+2
+CO MONITOR WITH HOOTER
+Make: MSA/Dragger/BW technologies
+1 No
+QUOTED
+QUOTED
+3
+SPARE PARTS FOR COMMISSIONING (RECOMMENDED)
+1 No
+QUOTED
+QUOTED
+4
+SPARE PARTS FOR 2 YEARS OPERATION (RECOMMENDED)
+1 No
+QUOTED
+QUOTED
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+PER
+DIEM
+@QUOTED PER DIEM

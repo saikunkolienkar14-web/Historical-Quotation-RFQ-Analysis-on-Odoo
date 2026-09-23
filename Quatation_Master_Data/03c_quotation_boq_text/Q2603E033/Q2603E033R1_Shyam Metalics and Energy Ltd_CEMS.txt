@@ -1,0 +1,92 @@
+Quotation Number: Q2603E033R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF CO, CO2,
+NO, SO2 & O2
+With Gas Sample Probe
+With Blowback Unit
+With Auto Probe Cleaning
+With Sample Handling System
+With Remote Calibration
+With Touch Screen Graphic Colour Display – 7”
+With IP54 Panel
+With Microprocessor Based Analyser
+ULTRAMAT 23 – 2 Nos
+Make: Siemens AG, Germany
+Measuring Range:
+•
+NO: 0-400/2000 mg/Nm3
+•
+CO: 0-250/1250 mg/Nm3
+•
+SO2: 0-400/2000 mg/Nm3
+•
+O2: 0-25%
+•
+CO2: 0 to 25%
+Notes:
+•
+The quoted system is hot extractive system with gas cooler and
+cold analysers where moisture is removed in the gas cooler and
+hence no moisture compensation is required since the readings
+are not affected by moisture. Therefore, moisture measurement
+is not necessary.
+•
+Total NOx values shall be reported as NO2 i.e., NOx = NO +
+NO2 = NO X 1.53 + NO2 = NOx as NO2.
+•
+As per CPCB guidelines, either of CO2 or O2 shall be measured.
+•
+Internet connectivity @ 1 MB/s speed with static public IP shall
+be provided by customer for data connectivity.
+3 SETS
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+75 x 3
+Mtrs
+QUOTED
+QUOTED
+3
+DUST MONITOR
+Make: Durag, Model: DR290
+Measurement Principle: Transmissometer – Scatter Light
+Utility requirement: instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer directly at stack, no separate purge
+air unit is requried
+3 SETS
+QUOTED
+QUOTED
+4
+FLOW MONITOR/TEMPERATURE/PRESSURE MEASUREMENT
+Make: Adage, Model: FlowCEMS100
+Utility requirement: Instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer
+3 SETS
+QUOTED
+QUOTED
+5
+SUPPLY OF FIELD CABLES AND TRAYS
+Shall be provided only between the tapping point and CEMS panel
+LUMPSUM
+QUOTED
+QUOTED
+6
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC
+II Train Fare to be arranged by Customer)
+PER DIEM
+QUOTED
+QUOTED
+6.1

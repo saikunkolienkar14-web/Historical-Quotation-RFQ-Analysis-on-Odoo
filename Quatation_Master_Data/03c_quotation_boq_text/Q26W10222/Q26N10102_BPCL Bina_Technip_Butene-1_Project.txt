@@ -1,0 +1,220 @@
+Quotation Number: Q26N10102
+BOQ Status: FOUND
+
+shall be in Technip scope of supply.
+SECTION 2: SUMMARY OF PRICES
+Sr.
+No.
+Stream
+Names
+Tag No
+Item Description
+Qty
+Total Price
+1
+-
+340-AS-001
+Analyser shelter with redundant
+HVAC (BUTENE-1 plant)
+1 No
+Quoted
+2
+Recycle
+Column
+Reflux Drum
+340-AT-4501
+Gas chromatograph system
+1 No
+Quoted
+3
+BUTENE-1
+Column
+Reflux Drum
+340-AT-4701
+Gas chromatograph system
+1 No
+Quoted
+4
+Ethylene
+Purification
+340-AT-
+2001A/B
+Gas chromatograph system
+1 No
+Quoted
+5
+Ethylene
+Purification
+340-AT-2002
+Moisture Analyser
+1 No
+Quoted
+6
+Ethylene
+Purification
+340-AT-2003
+Moisture Analyser
+1 No
+Quoted
+7
+N Hexane
+Section
+340-AT-
+5201A/B
+Moisture Analyser
+1 No
+Quoted
+8
+Utility Battery
+Limit
+340-AT-1202
+TOC Analyser
+1 No
+Quoted
+9
+Stabilized
+Condensate
+340-AT-6801
+Ph Analyser
+1 No
+Quoted
+10
+Suspect
+Condensate
+340-AT-6801
+Conductivity Analyser
+1 No
+Quoted
+11
+-
+-
+Project Engineering &
+Documentation
+1 Lot
+Quoted
+12
+-
+-
+FAT at Adage Factory
+1 Lot
+Quoted
+13
+-
+-
+Supervision of installation &
+commissioning
+Per Diem
+Quoted
+14
+-
+-
+Training at Site
+2 Days for 6 persons
+1 Lot
+Quoted
+15
+-
+-
+Commissioning Spares
+As per Annexure 2
+1 Lot
+Quoted
+16
+-
+-
+Consumable spares for 1 year
+operations
+As per Annexure 2
+1 Lot
+Quoted
+17
+-
+-
+Mandatory Spares
+As per Annexure 2
+1 Lot
+Quoted
+18
+-
+-
+2 Years O&M spares
+As per Annexure 2
+1 Lot
+Quoted
+19
+-
+-
+CAMC for 5 years
+Lumpsum
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+A.
+ANALYSER SHELTER – 340-AS-001
+AREA CLASSIFICATION: ZONE 1, IIB+H2 INSIDE HOUSE
+ZONE 2, IIC OUTSIDE HOUSE
+MAKE: ADAGE
+The shelter shall house :
+GC – 340-AT-2001A/B
+GC – 340-AT-4501
+GC – 340-AT-4701
+Analyser Shelter Design & Construction:
+-
+Dimensions- 4 Mtrs X 3 Mtrs X 3 Mtrs , MOC-SS304
+-
+Construction Ribbed interlock type sandwich construction with
+mineral wool insulation.
+-
+Overhang roof canopy ,MOC: SS304 1000mm from all sides
+-
+2 mm Thick Outer Wall & 2 mm Thick Inner Wall.
+-
+Mineral wool Insulation thickness in mm 80 mm
+-
+Floor Anti-slip & non corrosive aluminium Chequered plates
+-
+Panic bar & auto door closure Provided on each door
+-
+4 x Barometric adjustable louvers with screened aluminium
+-
+4 x Lifting lugs, Top Lift
+-
+Cable tray Aluminium, cable tray with cover
+-
+Cable Entry To Shelter: Through MCT Block.
+-
+Tube Entry To Shelter: Through Gromet.
+-
+Cable Tray: FRP Cable Tray
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, LM6, Exd
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes, LM6, Exd
+-
+PLC: with redundant power supply & CPU. Communication & IO
+cards are non redundant
+-
+Annunciator panel.
+HVAC Specifications:
+Make: ADAGE
+-
+MOC: SS304
+-
+Redundant HVAC With Automatic Changeover
+-
+Capacity – 5 Tr (Each), with 5 Air changes
+-
+With Common Chemical Filter
+-
+Single Blower
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 6 meters from
+the Shelter, MOC: SS304, 2mm thick
+1 No
+Quoted
+-
+All mounting accessories, hardware to install HVAC fresh air

@@ -1,0 +1,372 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+ADAGE QUOTE REF:
+Q25E10033
+DATED : 07.07.2025
+BID TYPE : FIRM
+PROJECT TITLE:
+SUPPLY OF AIR DEMAND ANALYSER FOR SRU-II UNIT AT HALDIA
+REFINERY
+INQUIRY DETAILS:
+Enquiry received via mail dated : 28.06.2025
+CUSTOMER:
+
+Kind Attention : INDIAN OIL COPORATION LIMITED (IOCL), HALDIA
+REFINERY
+
+END USER:
+
+INDIAN OIL COPORATION LIMITED (IOCL), HALDIA REFINERY
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: SUMMARY OF PRICES
+SECTION-2: NOTES
+SECTION-3: TECHNICAL LITERATURE
+SECTION-4: SCOPE MATRIX
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Piyush Tashildar
+ADAGE AUTOMATION PVT LIMITED
+piyush@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introfuce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Ametek Air Demand Analyser -28-AT-0801
+Quoted
+Quoted
+1.1
+1 No
+Project Documentation
+Quoted
+Quoted
+1.2
+1 No
+Integrated Factory Acceptance Test (FAT)
+Quoted
+Quoted
+1.3
+1 No
+Packing, Forwading & Transportation upto Site
+charges
+Quoted
+Quoted
+2
+Lumpsum
+Supervision of installation & commissioning
+(All charges towards travel fare, boarding, lodging,
+conveyance expenses in Adage scope)
+Quoted
+Quoted
+3
+1 Lot
+5 Years PWCAMC
+1st Year: Quoted
+2nd Year: Quoted
+3rd Year: Quoted
+4th Year: Quoted
+5th Year: Quoted
+Quoted
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 2: NOTES
+
+1. All field Power & Signal cables shall be in IOCL scope of supply.
+
+2. Instrument air/ Plant Nitrogen @5-7 Kg/cm2g for Purging & Hot steam for Blowback near analyser
+shall be in IOCL scope of supply.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3: TECHNICAL LITERATURE
+
+1
+PROCESS CONDITIONS
+TAG NO: 28-AT-0801
+-
+Temperature (Operating): 163 °C
+-
+Pressure (Operating): 0.19 to 0.22 kg/cm2.
+Service: SRU-II tail gas Air to TGTU
+
+As per MR
+Requirement
+1.a
+Air Demand Analyser:
+
+Make: AMETEK
+Model: 888
+Hazardous Area Classification: Zone 2 IIA/IIB T3
+Enclosure protection: IP65
+Principle: Non-dispersive UV
+Analyzer mounting: Pipe mounted Direct on tapping point with
+canopy
+Measuring Range: H2S 0 – 2 MOL%, SO2 0 – 1 MOL%.
+
+Probe Details:
+-
+Fixed Probe, MOC: SS316L
+-
+2” 150# RF flange.
+-
+With Hot air & condensate steam blowback.
+
+Utility Requirement:
+-
+110 VAC, 50/60 Hz UPS Power Supply For Analyser.
+-
+Power Consumption: 550 Watts
+-
+Steam for blowback
+-
+Instrument Air/N2 is required @ 5-7 Bar (80-100 psig) (Oil &
+Dust free) for analyser and aspirator.
+
+Analyzer Outputs:
+-
+Four 4-20 mA, H2S (0-2 VOL%), SO2(0-1 VOL%),
+-
+RS485 Serial Communication Port, two-wire.
+
+Analyzer Specifications:
+-
+Accuracy: H2S and SO2: ±1% of full scale
+-
+Reproducibility: ±1% of full scale
+-
+Speed of response :90% in less than 15 seconds
+-
+Ambient conditions: -20 to 60°C
+-
+Ingress Protection: IP65
+-
+Enclosure material: SS316
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Calibration
+-
+Zero calibration is done via Instrument air.
+-
+Span calibration is done internally & hence calibration cylinder is
+not required.
+
+Note:
+1. All the electrical components shall be CCOE/PESO
+Certified.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+
+4
+Sample Probe with flanges gaskets and nut bolts.
+Yes
+
+5
+Signal JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+
+6
+Inspection & Testing
+Yes
+
+7
+Project Management & Project Documentation
+Yes
+
+8
+Factory Acceptance Test at Adage Works
+Yes
+
+9
+Packing forwarding
+Yes
+
+10
+Freight up to site
+Yes
+
+11
+Storage of supplied system at site
+
+Yes
+12
+Mobilization of supplied system from Stores to location.
+
+Yes
+13
+Installation of supplied system at site
+Yes
+
+14
+Supply of Standard Field Cables including signal, power
+
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc)
+
+Yes
+17
+Provision of dry instrument Air
+
+Yes
+18
+Provision of Plant Nitrogen
+
+Yes
+19
+Provision of Hot steam
+
+Yes
+20
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+
+Yes
+21
+Supervision of Installation and Commissioning
+Yes
+
+22
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+23
+Site Acceptance Test & Handover
+Yes

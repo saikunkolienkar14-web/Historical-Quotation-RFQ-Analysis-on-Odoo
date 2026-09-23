@@ -1,0 +1,199 @@
+Quotation Number: Q26S10102R0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price(₹)
+Total Price(₹)
+1
+1
+Supply of Oxygen (O2) Analyzer with Probe, SHS,
+Field standing SS rack mounted Analyzer with all
+associated accessories and Mandatory Spares
+Tag No: 04-AT-522B
+Quoted
+Quoted
+2
+10
+Installation & Commissioning of O2 Analyzer for 10
+man days
+Quoted
+Quoted
+PWCAMC for system including Sample Handling
+Item
+Qty
+Description
+Unit Price(₹)
+Total Price(₹)
+1
+1
+PWCAMC for First Year
+Quoted
+Quoted
+2
+1
+PWCAMC for Second Year
+Quoted
+Quoted
+3
+1
+PWCAMC for Third Year
+Quoted
+Quoted
+SECTION 4: TECHNICAL LITERATURE
+1
+O2 ANALYSER
+Tag Numbers: 04-AT-522B
+Make: SIEMENS
+Model: OXYMAT 6F
+Service: Oxygen
+Measuring principle: Paramagnetic
+Measuring Range: O2: 20-25%
+Mounting: Field Skid with Canopy, MOC: SS304
+Repeatability: < 1% of the current measuring range
+IP Rating: IP65
+Area classification: Suitable for Zone 2, IIA/IIB, T3.
+Return: To Atm. Vent Header
+Process Conditions at sample Inlet:
+-
+Operating Temperature: 40°C
+-
+Operating Pressure: -0.430 Kg/cm2g
+Utilities Required:
+-
+Power supply: 110 VAC, 50HZ UPS Power supply
+-
+5- 6 Kg/cm2 Instrument Air, Free of Oil, Dust & Moisture
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.1
+Tapping Flange
+-
+Tapping flange, MOC: SS316
+-
+3/4”, 150# RF connection
+1 No
+Quoted
+1.2
+Sample Line:
+-
+1/4’’ SS316 Tube, Qty: 15 meters
+1 No
+Quoted
+1.3
+Sample Handling System:
+-
+Ball valve, Sample pump, Solenoid valves, Flow Meters, Inline filter,
+needle valve, NRV, tubes, etc.
+-
+SHS components shall be mounted inside SHS Enclosure.
+1 Set
+Quoted
+1.4
+Calibration Cylinders with Regulators:
+-
+With Calibration gas Cylinders and Regulator for Span
+-
+10L Zero Gas Cylinder (Pure Nitrogen) for 6 months operation- 1 No.
+-
+10L Span gas cylinder (O2 IN N2) for 6 months operation – 1 No.
+1 Set
+Quoted
+1.5
+Mandatory Spare for Analyser:
+1. Power Supply Board - 1 No
+2. O2 Cell - 1 No.
+Mandatory Spare Sample Handling System:
+1 Set
+Quoted
+1. 2-way ball valve- 1 No
+2. Bypass Filter- 1 No.
+3. AFR for Purging – 1 No.
+4. SOV– 1 No.
+5. Non-Return Valve – 1 No.
+6. Pressure Indicator – 1 No.
+7. Bypass Flow meter – 1 No.
+8. Inlet Flow meter – 1 No.
+9. Inline Filter- 1No.
+SECTION 5: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of Mandatory spares
+Yes
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+12
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+13
+4-20mA, RS485, TCP/IP from field to DCS
+Yes
+14
+Supervision of Commissioning SAT & Handover
+Yes
+15
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+16
+Supply of 2 years O&M spares
+17
+Training at Site- OPTIONAL
+Yes
+SECTION 6: COMMERCIAL TERMS & CONDITION
+Price Basis
+As per Tender
+Packing Charges
+As per Tender
+GST
+As per Tender
+HSN Code
+As per Tender
+Freight Charges
+As per Tender
+Insurances
+As per Tender
+Delivery
+As per Tender
+Offer validity
+As per Tender

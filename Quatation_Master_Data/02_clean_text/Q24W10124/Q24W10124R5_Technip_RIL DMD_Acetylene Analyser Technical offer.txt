@@ -1,0 +1,424 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which
+includes analysers as per your requirement.
+
+ADAGE QUOTE REF:
+Q24W10124R5
+DATED : 31.01.2025
+BID TYPE : Firm
+PROJECT TITLE:
+Acetylene (TDLAS) Analyzer for RIL DMD Cracker DBN Project (87.5TPH)
+INQUIRY DETAILS:
+Job Number: G24P04
+CUSTOMER:
+
+Kind Attention : M/s Priyanka Gokhale
+Technip Energies India Limited
+
+END USER:
+
+Reliance Industried Limited
+Dahej, Gujarat
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Technical Literature
+SECTION-3: Scope Definition
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Sanjit Sardessai
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9518546315
+sanjit@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+This is in context to your requirement of for Gas analysis System & We Thank you for the same.
+
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring &
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc
+
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60%
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to
+over 40 countries in Africa, Mid East, Far East and South America.
+
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our
+State of the art factory with its highly sophisticated infrastructure is second to none in India.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Sr.
+No.
+Item Description
+Qty
+Unit
+Price(INR)
+Total
+Price(INR)
+1
+Acetylene Analyser
+Make: Ametek
+Model: 5100HD
+Field Rack with SS316 Canopy
+2 Nos
+Quoted
+Quoted
+2
+Startup and commissioning spares
+1 Lot
+Quoted
+Quoted
+3
+Consumables Spares for 6 Months
+1 Lot
+Quoted
+Quoted
+4
+Project Documentation
+1 No
+Quoted
+Quoted
+5
+FAT at Adage works
+1 No
+Inclusive
+Inclusive
+6
+Packing and Forwarding
+1 No
+Quoted
+Quoted
+7
+Supervision of Installation and Commissioning
+Per Diem
+Quoted
+Quoted
+8
+FAT at OEM works (Optionally Quoted)
+1 No
+Quoted
+Quoted
+9
+2 Years O&M spares (Optionally Quoted)
+1 Lot
+Quoted
+Quoted
+10
+Training at Site (Optionally Quoted)
+Per Diem
+Quoted
+Quoted
+
+BELOW PRICE TO BE ADDED INCASE CABINET & EX PROOF AIR CONDITIONING UNIT IS
+REQUIRED IN SR NO 1 ABOVE.
+
+1
+Take off Price for SS316 cabinet and Ex Proof
+Air conditioing Unit(Non redundant)
+
+1 No
+Quoted
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: TECHNICAL LITERATURE
+
+1
+Acetylene Analyser
+
+Tag No : 10-AT-311102A
+Service: C2H EFFLUENT FR 10-V-463 GREEN OIL SEPR TO 10-V-
+461A/B ANALYSER
+Make: AMETEK
+Model: 5100HD
+Operating Principle: TDLS
+Area Classification: Zone 2, IIC, T3
+Mounting Location: Field Rack with Canopy
+
+C2H2: 0-10 PPMV
+
+Process Conditions at sample Inlet
+-
+Temperature (Design/Op): 305/36.4 °C
+-
+Inlet Pressure (Design/Op): 26/20.67 kg/cm2g
+-
+Sample Return: Flare header
+
+Sample Tubing Details:
+-
+1/4” SS316 EHT Tube 60 Mtrs.
+-
+Power Supply: 110 VAC, 50/60 Hz, 66 Watts/Meter
+
+Sample Probe:
+-
+Manual Welded Sample Probe with Flange, MOC: SS316
+-
+Connection: 2"300# Flanged
+
+Primary Sample Handling System:
+-
+Consisting of Heated pressure reduction system.
+
+Secondary Sample Handling System:
+-
+SHS Box Overall Dimension: 500X500X300
+-
+SHS consist of Fast Loop System, flowmeter, etc
+
+Analyser Shall be mounted on Field Rack with Canopy
+-
+Field cabinet 1000mm x 700mm x 2200mm (Approx)
+-
+MOC: MS Painted
+-
+With Canopy Extending 500mm in all Directions MOC: SS304
+-
+Power Distribution Panel, LM6, Junction Boxes, header and
+accessories.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Utility Requirement:
+-
+110 VAC, 50 Hz UPS Power Supply for Analyser
+-
+230 AC for HPR, EHT Tube, Power consumption shall be 66W
+per mtr
+-
+Instrument Air is required @ 5 - 7 Barg (80-100 psig) (Oil & Dust
+free) for analyser approximately consumption shall be 150 LPM
+for Analyzer Purging.
+-
+Zero Gas: Composition: Pure N2 (99.99%) for Zero
+
+Validation Gas with double stage pressure regulator:
+-
+Span Gas response check: 80% of measuring range of C2H2,
+balance N2 for Span Gas
+
+Remarks:
+The quoted analyser is suitable up to 50deg C ambient temperature
+and can be mounted on field rack with canopy.
+
+2
+Acetylene Analyser
+
+Tag No: 10-AT-311102B
+Service: C2H EFFLUENT FR 10-V-463 GREEN OIL SEPR TO 10-V-
+461A/B ANALYSER
+Make: AMETEK
+Model: 5100HD
+Operating Principle: TDLS
+Area Classification: Zone 2, IIC, T3
+Mounting Location: Field Rack with Canopy
+
+C2H2: 0-10 PPMV
+
+Process Conditions at sample Inlet
+-
+Temperature (Design/Op): 305/36.4 °C
+-
+Inlet Pressure (Design/Op): 26/20.67 kg/cm2g
+-
+Sample Return: Flare header
+
+Sample Tubing Details:
+-
+1/4” SS316 EHT Tube 60 Mtrs.
+-
+Power Supply: 110 VAC, 50/60 Hz, 66 Watts/Meter
+
+Sample Probe:
+-
+Manual Welded Sample Probe with Flange, MOC: SS316
+-
+Connection: 2"300# Flanged
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Primary Sample Handling System:
+-
+Consisting of Heated pressure reduction system.
+
+Secondary Sample Handling System:
+-
+SHS Box Overall Dimension: 500X500X300
+-
+SHS consist of Fast Loop System, flowmeter, etc
+
+Analyser Shall be mounted on Field Rack with Canopy
+-
+Field cabinet 1000mm x 700mm x 2200mm (Approx)
+-
+MOC: MS Painted
+-
+With Canopy Extending 500mm in all Directions MOC: SS304
+-
+Power Distribution Panel, LM6, Junction Boxes, header and
+accessories.
+
+Utility Requirement:
+-
+110 VAC, 50 Hz UPS Power Supply for Analyser
+-
+230V AC for HPR, for EHT Tube, Power consumption shall be
+66W per mtr
+-
+Instrument Air is required @ 5 - 7 Barg (80-100 psig) (Oil & Dust
+free) for analyser approximately consumption shall be 150 LPM
+for Analyzer Purging.
+-
+Zero Gas: Composition: Pure N2 (99.99%) for Zero
+
+Validation Gas with double stage pressure regulator:
+-
+Span Gas response check: 80% of measuring range of C2H2,
+balance N2 for Span Gas
+
+Remarks:
+The quoted analyser is suitable up to 50deg C ambient temperature
+and can be mounted on field rack with canopy.
+
+5100HD Analyzer Parameters:
+1. MDL: MDL shall be 0.2 PPMV
+2. Accuracy: Acuracy shall be +/-2% of measuring value.
+3. Response Time: <2 seconds photometric response
+4. Model Decodification: Shall be provided during detailed engineering post order.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: SCOPE DEFINITION
+
+Our Scope of Supply and Work Includes:
+
+•
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of
+complete analyzer system for the following analyzers as per MR.
+•
+All Analysers complete with all hardware, software and necessary accessories
+•
+Power distribution boxes as necessary for power distribution, junction boxes for
+termination of the signals.
+•
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items.
+•
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per SECTION 3)
+•
+Project Management and Documentation
+•
+Documentation including as-built documentation, warranty of Complete Analyzer system
+•
+Supply of spares and consumables as per MR requirements (If ordered)
+•
+Training at site as per MR requirements (If ordered).
+•
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation
+of Analyzers.
+
+Our Scope of Supply Does Not Include:
+
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated
+electrical traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer
+shelter & sample return, fast loop, vent lines etc.
+•
+Provision of nozzles near tapping point/Stack.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals related to filed/DCS connection.
+•
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication
+cables/field tubes etc.
+•
+Providing all utilities as specified in MR at one point/battery
+limit near each Analyzer Shelter in field.

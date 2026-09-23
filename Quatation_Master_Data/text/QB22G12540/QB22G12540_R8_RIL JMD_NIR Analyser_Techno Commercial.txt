@@ -1,0 +1,685 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please 
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which 
+includes analysers as per your requirement. 
+ 
+TECHNO COMMERCIAL OFFER 
+ 
+ADAGE QUOTE REF: 
+QB22G12540_R8 
+DATED : 12.06.2026 
+BID TYPE : Firm 
+PROJECT TITLE: 
+Supply of Dual Beam NIR-O Analyser at RIL JMD refinery. 
+INQUIRY DETAILS: 
+Revision as per Mail dtd.: 04.09.2025 
+ 
+CUSTOMER: 
+ 
+Kind Attention : Mr. Mahesh patel 
+Reliance Industries Limited, Jamnagar 
+
+END USER: 
+ 
+Reliance Industries Limited, Jamnagar 
+
+We are pleased to submit proposal for the analyser system along with a brief introduction about our 
+company. 
+ 
+The contents are as follows: 
+ 
+Section-1: Summary of Prices for Supply 
+Section-2: Summary of Prices for Services 
+Section-3: Technical Literature 
+Section-4: Commercial terms & conditions 
+ 
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+ 
+Mr. Damu Shelke 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9823840039 
+
+ 
+damu@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 1: SUMMARY OF PRICES FOR SUPPLY 
+ 
+Sr No 
+Qty 
+Description 
+Total Price (INR) 
+1 
+1 No 
+Dual Beam NIR O analyzer system suitable for 4 Streams. 
+*Details as per below BOQ. 
+Quoted 
+2 
+2 Nos 
+Eigenvector Solo Software 
+Quoted 
+3 
+4 Days 
+Model development training including NIR analyser interface 
+(model loading, bias tuning etc.) training is essential on new 
+software OMNI VIEW and” EIGENVECTOR” for 3-4 Engineers. 
+Quoted 
+
+ 
+OPTIONAL QUOTE 
+1 
+1 No 
+Multi-Purpose Flow Cell (MPFC) 
+Quoted 
+2 
+1 Set 
+Ultra-Low OH Fiber Optic Cable (20 mtrs) 
+Quoted 
+3 
+# 1 No 
+O-Ring Kit For 10 mm Path 1Length NIR 
+Multipurpose Flowcell 
+Quoted 
+4 
+# 1 Lot 
+NIR-O Spare Part Assembly 
+(Set of 8 Pc.) 
+Quoted 
+5 
+1 No 
+Safe area Monitor mounted inside analyser house 
+Quoted 
+6 
+1 No 
+Ethernet to FO converter is considered along with 
+required Patch cords at the PIB end. 
+Quoted 
+7 
+4 Nos 
+## Temperature Controller 
+Quoted 
+8 
+Per Diem 
+Per Diem Charges for Site Support for Model 
+tuning 
+Quoted 
+ 
+Notes: 
+1. #: Spares 
+2. ## Part Number to be provided by RIL. 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Notes: 
+Scope Matrix: 
+1. Old Properties will be migrated into new analyser by OEM. 
+2. Analyzer is configured for four streams. Existing SHS, flow cell and FO will be retained 
+for Existing 3 Streams. 
+3. SHS for Stream 4 is Quoted by Adage and same will be mounted outside existing 
+Analyser house. 
+4. A minimum of 20 sample spectra along with the associated laboratory analyses must be 
+submitted for each parameter with each request for off-site model maintenance. 
+5. Residue, sulphur, H2S liquid phase and H2S vapor phase is not measured as this in not 
+possible to realise using NIR. Cetane index is a calculated value. So, no NIR model is 
+required. 
+
+SECTION 2: SUMMARY OF PRICES FOR SERVICES 
+
+1 
+Supervision Of Installation & Commissioning Charges 
+Quoted 
+2 
+Packing Forwarding And Transportation Charges 
+Quoted 
+3 
+Project Documentation 
+Quoted 
+4 
+Training Charges At Site For 2 Days 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: TECHNICAL LITERATURE 
+ 
+ 1 
+NIR – O Analyzer 
+Model: NIR-O 
+Make: Process Insights (Guided Wave) 
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2 
+ 
+1 Set 
+Quoted 
+a 
+Dual Beam NIR O analyzer. 
+Area Classification: Certified, X- Purge, Zone 1 IIB+H2 
+Controller (solid state) included Installed inside analyzer housing; 
+ATEX Certified 
+Number of Channels: 6 
+Range: XNIR (1000-2100 nm) 
+Power Supply: 110 VAC 
+Temperature Management System 
+Communication protocol: Modbus TCP/IP included 
+ 
+MODBUS output for each parameter shall be available via RS485 
+to DCS 
+ 
+Incase migration accuracy (shall be as per respective ASTM 
+standards) of old properties do not match in new analyzer, then 
+RIL to provide spectra to OEM for review and fine tuning. Again, 
+the updated spectra to be loaded in the analyzer by RIL. This will 
+be repeated for a period of 3 months. 
+ 
+New properties modeling and fine tuning to be done by RIL. 
+ 
+Utility Details Required for Analyzer: 
+110 VAC UPS: 2000 Watts 
+Instrument air @5-6 kg/cm2g (Oil & water drop free) 
+ 
+1 No 
+Quoted 
+b 
+Measured Properties (Stream 1 to Stream 3) 
+ 
+Sr 
+No 
+ Parameter 
+Range 
+Unit 
+Normal 
+Remarks 
+1 
+RVP @ 38 Deg C 
+- 
+- 
+0.7 
+Existing Property 
+2 
+RON 
+80 - 110 
+OCT 
+No. 
+92 
+Existing Property 
+3 
+DIST @10% 
+30 - 100 
+°C 
+50 
+Existing Property 
+4 
+DIST @50% 
+70 - 150 
+°C 
+125 
+Existing Property 
+5 
+DIST @90% 
+90 - 200 
+°C 
+150 
+Existing Property 
+6 
+ENDPOINT 
+0 - 250 
+°C 
+215 
+Existing Property 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+7 
+RESIDUE 
+0 - 5 
+%VOL 
+2 
+Existing Property 
+8 
+RVP @ 38 Deg C 
+35 - 90 
+kPa 
+60 
+New Property 
+9 
+RON / MON 
+80 - 100 / 
+70 - 95 
+Numb
+er 
+92 / 82 
+New Property 
+10 
+E 70 oC 
+20 - 50 
+% 
+30 
+New Property 
+11 
+E 100 oC 
+30 - 100 
+% 
+60 
+New Property 
+12 
+E 150 oC 
+50 - 100 
+% 
+90 
+New Property 
+13 
+E 180 oC / (FBP) 
+60 - 100 
+% 
+95 
+New Property 
+14 
+Benzene 
+0 - 5 
+% 
+1 
+New Property 
+15 
+Aromatics 
+10 - 50 
+% 
+35 
+New Property 
+16 
+Olifins 
+ 5 - 50 
+% 
+20 
+New Property 
+17 
+Sulphur (Not 
+Measured) 
+0 - 100 
+ppmw 
+9 (Limit) / 
+10 
+(Value) 
+New Property 
+18 
+H2S (liquid Phase) 
+(Not Measured) 
+0 - 20 
+ppm 
+8 (Limit) / 
+5 (Value) 
+New Property 
+19 
+H2S (Vapour 
+Phase) 
+(Not Measured) 
+0 - 500 
+ppm 
+7 (Limit) / 
+20 
+(Value) 
+New Property 
+20 
+IBP 
+0 - 50 
+°C 
+6 (Limit) / 
+20 
+(Value) 
+New Property 
+
+Measured Properties (Stream 4) 
+ 
+Sr 
+No 
+ Parameter 
+Range 
+Unit 
+Normal 
+Remarks 
+1 
+Cetane no 
+45 - 60 
+ 
+- 
+New Property 
+2 
+FP 
+30 - 90 
+°C 
+- 
+New Property 
+3 
+Cetane index 
+30 - 60 
+ 
+- 
+New Property 
+4 
+D95 
+0 - 400 
+ 
+- 
+New Property 
+ 
+Note: Base Library Model for New Properties will be supplied by Adage. 
+ 
+c 
+Software – OmniView 
+Analyzer control software 
+Pre-Installed on NIR-O controller 
+ 
+1 No 
+Quoted 
+d 
+Software – Solo Predictor 
+Prediction Engine for calibration models developed in Solo. 
+No method development software 
+Pre-Installed on NIR-O controller 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+e 
+Stability Monitoring System 
+According to ASTM D6122 
+Includes validation standard 
+Installed inside NIR-O analyzer 
+Uses one channel of NIR-O 
+Real time monitoring of NIR-O performance 
+1 No 
+Quoted 
+f 
+Multi-Purpose Flow Cell (MPFC) 
+Body Material: Stainless Steel 
+Range: 400-2100 nm 
+SMA 
+ Kalrez 6375 
+ 
+1 Nos 
+Quoted 
+g 
+Ultra-Low OH Fiber Optic Cable 
+Fiber Length: 20 meters 
+Core Material: Fused Silica 
+Core Diameter: 500 micron 
+Connectors: SMA/SMA 
+2 Nos 
+Quoted 
+h 
+Sample Probe 
+1 No 
+Quoted 
+i 
+Sample Tubing 
+½” OD SS316 Tube 
+ 
+120 Mtrs 
+Quoted 
+j 
+Complete Sample Handling System 
+1 Lot 
+Quoted 
+k 
+Sample Recovery System for Stream 4 
+1 No 
+Quoted 
+l 
+Crate NIR-O Analyzer 
+1 No 
+Quoted 
+2 
+Eigenvector Solo Software 
+2 Nos 
+Quoted 
+3 
+Model development training including NIR analyser interface 
+(model loading, bias tuning etc.) training is essential on new 
+software OMNI VIEW and” EIGENVECTOR” for 3-4 Engineers. 
+ 
+4 Days 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+BELOW ITEMS ARE QUOTED OPTIONALLY AND TO BE DECIDED BY RIL 
+1 
+Kit O-Ring 
+O-Ring Kit For 10 mm Path Length, NIR Multipurpose Flowcell 
+1 No 
+Quoted 
+2 
+NIR-O Spare Part Assembly 
+(Set of 8 Pcs.) 
+1 No 
+Quoted 
+3 
+Multi-Purpose Flow Cell (MPFC) 
+Body Material: Stainless Steel 
+Range: 400-2100 nm 
+SMA 
+Kalrez 6375 
+ 
+1 No 
+Quoted 
+4 
+Ultra-Low OH Fiber Optic Cable x 2 Nos 
+Fiber Length: 20 meters 
+Core Material: Fused Silica 
+Core Diameter: 500 micron 
+Connectors: SMA to SMA 
+ 
+1 Set 
+Quoted 
+5 
+Safe area Monitor for Data check and configuration mounted 
+in Analyser House. 
+- 
+Make: DELL / HP 
+- 
+Table Top Mount Type 
+- 
+Size: 24” 
+- 
+Ports. 2 x HDMI. 
+- 
+Power Supply: 230V, 50Hz 
+- 
+With Wireless Keyboard and Mouse 
+ 
+1 No 
+Quoted 
+6 
+Ethernet to FO switch 
+Make: Hirschmann 
+Model: BOBCAT BRS30 Switch 
+ 
+1 No 
+Quoted 
+7 
+Temperature Controller 
+Make: Watlow / Eurotherm 
+1 No 
+Quoted 
+8 
+Per Diem Charges for Site Support for Model tuning 
+Per Diem 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: COMMERCIAL TERMS & CONDITION 
+Price Basis 
+FOR Site 
+Packing Charges 
+Inclusive 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN CODE 
+90271000 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 9 months from the date of receipt of PO 
+Offer validity 
+30 days. 
+Payment Terms for 
+Supply 
+Reliance standard payment terms as per latest PO for RIL 
+Warrantee Clause 
+Against manufacturing defects for 12 months from the date of 
+Commissioning or 18 months from the date of dispatch whichever is 
+earlier.

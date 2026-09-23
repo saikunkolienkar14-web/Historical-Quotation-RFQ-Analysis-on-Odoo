@@ -1,0 +1,690 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION PVT LTD and with reference to the same please find
+enclosed our quotation for Design, engineering, manufacture and Supply of analyser system which includes analysers
+as per your requirement.
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS.
+
+SECTION-1: SUMMARY OF PRICES
+SECTION-2: COMMERCIAL TERMS
+SECTION-3: TECHNICAL OFFER
+SECTION-4: DETAILED GC OFFER
+SECTION-: SCOPE DEFINITION
+
+ADAGE QUOTE REF:
+Q24G10050R2
+DATED : 14.05.2025
+BID TYPE : Commercial
+PROJECT TITLE:
+Supply of Cracker GC at Ril HMD
+INQUIRY DETAILS:
+Enquiry via mail dated 12.04.2024
+CUSTOMER:
+
+Reliance industries limited, HMD
+
+Kind attention
+Mr Parag Chhichhia
+
+END USER:
+
+Reliance industries limited, HMD
+
+In case of any clarifications, kindly feel free to contact us.
+
+Prepared by:
+
+Mr. Damu Shelke
+
++91 9823840039
+
+damu@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Sr.
+No.
+Item Description
+Qty
+Total
+Price(INR)
+1
+Gas chromatograph (AT-4001/AT-4111)
+
+1 No
+
+88,00,000/-
+
+1.1
+SS sintered Inline filter, Make : Swagelok
+2 Nos.
+1.2
+Metal tube rotameter with Switch,Make:Krohne
+2 Nos
+2
+Project Engineering & Documentation
+1 Lot
+3
+Integrated FAT at Adage Goa works
+1 Lot
+4
+2 years O&M spares as per below list.
+Syscon board
+1
+Column Set
+1
+TCD detector
+1
+DPM Board
+1
+
+1 Lot
+10,00,000/-
+5
+Lumpsum charges for supervision of installation & commissioning.
+Lumpsum
+3,00,000/-
+6
+P&F and Transportation upto Site
+Lumpsum
+1,20,000/-
+TOTAL PRICE 1,02,20,000/-
+
+OPTIONAL PRICES AND TO BE ADDED AS APPLICABLE
+
+1
+Calibration cylinders with doubble stage regulators and inlet outlet
+gauges
+Cylinder Make: Inox/Air gas USA
+Regulator make: GO
+2 Nos
+6,00,000/-
+2
+Communication Hardware as below
+a) Near Analyser house
+-
+Power supply module with diode O ring x 2 No
+-
+8 Port Ethernet to FO converter x 2 No
+-
+LIU box - 2 No
+-
+Patch cords x 5 meter - As required
+-
+CRCA enclosure with X Purge zone 1 certified unit (P&F
+make)
+1 Lot
+13,00,000/-
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+This enclosure will house all above hardware suitable for
+Zone 1. This will be fully wired and will be mounted inside
+existing analyser house.
+
+b) Near control room side
+-
+FO to ethernet converter x 2 No
+-
+LIU box - 2 No
+-
+Patch cords x 5 meter - As required
+-
+Ethernet cable x 50 meters
+Mounted inside CRCA enclosure
+
+3
+Remote FAT charges at OEM works
+1 Day
+1,50,000/-
+
+Cracker GC TQ over Mail:
+
+1) Pl. consider Separate oven for each application and both application shall run in parallel. Application One
+have three streams and Second application have one stream only.
+Adage Reply : Noted and confirmed for Separate oven & parallel injection with stream 1-3 in Application 1 & Stream 4
+in application 2
+
+2) Peso certification for Zone 1 llB+H2, T3 is required and need to be include in offer for GC and all other
+applicable components.
+Adage Reply : PESO application is attached.
+
+3) AE 4111 CH4 MDL value need to be checked it is very high and above the normal value.
+Adage Reply : MDL valves are updated in our revised offer.
+
+4) All sub vendor components should be RIL approved vendor only.
+Adage Reply : Noted and confirmed
+
+5) Commissioning spares to be removed
+Adage Reply : Noted and same is removed in the revised offer.
+
+6) Separate LIU to be consider for redundant communication at both ends ( 2NOS + 2NOS )
+Adage Reply : Confirmed and same is included in optional price
+
+7) 2 no Metal tube rotameter with low flow switch to be consider for flow through GC.
+Adage Reply : Noted and confirmed
+
+8) 2 years spares only following items required
+A. Syscon 1 no
+B. TCD Detector 1 no
+C. DPM board 1 no
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+D. Column set
+Adage Reply : Updated in our revised offer
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: COMMERCIAL TERMS
+
+Price Basis
+FOR Site basis
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from date of commercial clear PO
+Offer validity
+90 Days
+Payment Terms
+As per recent executed order with RELIANCE (PO ref: MQA/240427554)
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or 18
+months from the date of dispatch whichever is earlier.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3: TECHNICAL LITERATURE
+
+1
+Gas chromatograph
+Tag No: AT-4001/AT-4111
+Model: Maxum ll
+Make: Valmet
+Mounting: Inside existing analyser shelter
+Hazardous Area Classification: Zone 1 llB+H2, T3
+
+Repeatability Test: 8 Hours, Included
+
+GC technical configuration is attached below under Section 4
+
+1 No
+
+Quoted
+Note
+-
+Probe
+-
+Sample transportation line
+-
+Sample handling system
+-
+Auto changeover system
+-
+Field cable for DCS connection
+
+Existing shall be used
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: DETAILED GC OFFER
+
+Tag Number: AT-4001/AT-4111
+
+Hardware Configuration
+
+Maxum Oven: Single Airless
+Detector: Thermal Conductivity (IS-TCD)
+Electronic Pressure Control Modules: 2 (Type EPC3)
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 6
+Analog Inputs: 4
+Digital Outputs: 8 (2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+Analog and Digital I/O Boards: I2C 4 DO's, 4 DI's, 4 AO's, 4 AI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+Analytical Configuration
+Number of Streams: 4
+Number of Calibration Blends: 2
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+
+Analyzer Certification
+Repeatability Test: 8 Hours
+Area Classification: IECEx IIB + H2 T3 (200°C) Gb
+Y Purge
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+System Power: 100-130 V, 47-63 Hz
+Circuit : 1120 VA
+Instrument Air: 0.07 SCF/min (2 L/min) at 70 psig (4.9 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non flammable)
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Sample Inlet Conditions
+Physical State: Vapor
+Recommend Analyzer Sample Flow: 200 cc/min
+Recommend Filtration: 1 μm
+
+MDL: 10 PPMV
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+MDL: 10 PPMV
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+MDL: 25 PPMV
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+MDL: 0.0005 Mol% For Methane
+0.075 Mol% for Ethane
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 5: SCOPE DEFINITION
+
+Our Scope of Supply and Work Includes:
+
+•
+Design, engineering, manufacturing and supply of Gas Chromatograph & Other hardware indicated in our offer
+(Section 1)
+
+For Adage Automation Pvt. Limited
+
+Mr.Tejas Rivonkar
+
+tejas@adage-automation.com
+
+ADAGE HO - GOA
+
+Applicant Type : Company
+Applicant Name
+: ADAGE
+AUTOMATION PRIVATE
+LIMITED
+Phone :
+Email : k[dot]mahesh[at]adage-
+automation[dot]com
+Application Request
+FormIX
+Print Close
+Online Inward Number : OIN1905385
+Online Inward Date : 22/01/2025
+Application for Approval of Ex Electricle Equipment
+Chief Controller of Explosives,
+5th Floor, A-Block, CGO Complex, Seminary Hills,
+Nagpur - 440006
+1
+Applicant's name
+M/s. ADAGE AUTOMATION PRIVATE LIMITED,
+Applicant's calling
+Adage Automation Private Limited
+Applicant's full postal address
+NA
+2
+Situation of the premises where the EX electrical
+equipments will be manufactured
+NA: L26B VERNA INDUSTRIAL AREA VERNA GOA, L-26B,
+PHASE II, VERNA INDUSTRIAL AREA ,
+State
+Goa
+District
+SOUTH GOA
+Taluka
+Salcete
+Town and Village
+Verna
+PIN
+403722
+Police Station
+Nearest Railway Station
+3
+Particulars of approval held, if any::
+a) For Indian manufacturer:
+b)Indian Service Provider for foreign
+manufacturer:
+AdageAutomation
+Pvt. LimitedL26B
+VERNA
+INDUSTRIAL
+AREA VERNA
+GOA
+4
+Earlier approval no if any:
+.......................
+5
+BIS Certificate no(For Exd electricle equipment)
+CM/L-
+6
+Details of Ex electrical equipment:
+Sr.No
+Model/Equipment
+Safety Protection
+Agency
+Cetificate No.
+Cetificate Date
+Drawing
+No.
+1
+Maxum Edition II Gas
+Chromatograph
+Ex ec ib nC pxb
+pyb IIB+H2 Gb
+Eurofins E&E
+CML Limited
+IECEx
+CML18.0143X
+13/02/2024
+NA
+7
+Assembled Ex electrical product, proposed for approval:
+Sr.No
+Name of the Electricle
+Component
+Make
+Model
+Type of Safety
+Protection
+Testing
+Agency
+Cert. No.
+Cert. Date
+8
+Foriegn Address:
+Sr.No
+Party Name
+Address
+Country
+City
+Zip/Pincode
+Email
+Phone
+Number
+1
+Valmet Corporation
+Keilasatama5,
+FINLAND
+Espoo
+02150
+k.mahesh@adage-
+automation.com
+0832-
+6620538
+I hereby declare that the statements made above have been checked up by me and are true and I undertake to abide by the terms
+and conditions of the licence which will be granted to me.
+Remark
+Date of application 22/01/2025
+Signature and designation of the applicant
+-Following documents/drawings (whichever applicable) are to be Uploaded :
+1.
+Plese mention Online Inward Number : OIN1905385 and Online Inward Date : 22/01/2025 on the covering letter to be submitted along
+with a copy of this application.
+2.
+Name and address of the applicant/Principal company/manufacturer.
+3.
+Profile of the manufacturer.
+1/22/25, 5:53 PM
+Online Application
+https://online.peso.gov.in/PesoOnline/onlineApplicaton/Letters.aspx?OND_SYS_ID=NtzUEmaYWcEr5EI0V0Drqg%3d%3d&&OND_SYS_TransId...
+1/2
+
+Online Inward Number : OIN1905385
+Online Inward Date : 22/01/2025
+4.
+Details of customers in petroleum, petrochemical field to whom the equipment has already been supplied abroad.
+5.
+Name of the Indian subsidiary or Authorized Agent cum Service Provider in India with documents in support of the same like
+agreement between manufacturer and Indian agents cum service provider. The covering letter/Application addressed to Chief
+Controller shall be from the Indian Subsidiary or Authorised Agent only.
+6.
+Profile of the Indian agent or subsidiary and enclosing documents in respect of company like “Certificate of Incorporation from ROC”
+or Deed of Partnership, list of Directors/Partners and its set up in this country clearly indicating qualified and trained technical service
+team assigned with responsibilities of initial installation/commissioning of the equipment/apparatus as well as post sales, Technical
+back-up, repair, maintenance & supply of original spares etc. List of technical persons specially trained by principal
+company/manufacturer shall be separately attached.
+7.
+A letter of authorization by OEM/Principals addressed to CCE, authorizing their Indian Agent cum Service Provider/Subsidiary to apply
+and obtain approval on their behalf.
+8.
+Name of the product(s) for which approval is sought.
+9.
+Zone of hazardous area(s) and Gas Group(s) in which the equipment is proposed to be installed/used.
+10.
+Copies of Examination Certificate or Certificate of Conformity of equipment/component tested in compliance to presently valid
+Harmonized International Standard under ATEX OR IEC Ex Scheme respectively along with copy of the approved drawing, duly
+signed, from a Notified Test House under said scheme, with latest supplements (if any) indicating markings assigned including
+temperature Class i.e. – T1, T2, T3, T4, T5 or T6 as certified, duly countersigned by the authorized officers of the manufacturer.
+-
+ATEX Scheme
+IECEx Scheme.
+1) EC type Examination certificate under ATEX
+Scheme with latest standards as per EN 60079
+series.
+(2) Valid Production Quality Assurance
+Notification under ATEX Scheme
+(3) Declaration of Conformity as per latest EN
+standards by manufacturer
+(1) IECEx Certificate of Conformity as per latest
+IEC standard under IEC 60079 Series
+(2) Valid Quality Assessment Report mentioning
+the number of Certificate of Conformity under
+IECEx Scheme.
+-
+In case EC type Examination Certificate under ATEX Directive (94/9/EC) is furnished, a copy of latest “EC type Declaration of
+Conformity” issued by the manufacturer along with a valid copy of “Production Quality Assurance Notification” issued by an Accredited
+Certification Body/Notified Body in respect of manufacturing unit under ATEX Directive shall always accompany the examination
+certificate
+-
+- In case IECEx Certificate of Conformity is furnished as examination certificate, a copy of Quality Assessment Report (QAR) shall
+always be attached.
+The following International Standards are valid and acceptable at present for grant of approval by PESO,
+a) IEC 60079-0:2017 or EN IEC 60079-0:2018
+b) IEC 60079-1:2014 or EN 60079-1:2014
+c) IEC 60079-2:2014 or EN 60079-2:2014,EN 60079-2:2014/AC:2015
+d) IEC 60079-5:2015 or EN 60079-5:2015
+e) IEC 60079-6:2015 or EN 60079-6:2015
+f) EN 60079-7:2015 or IEC 60079-7:2015
+g) IEC 60079-7:2015 or EN 60079-7:2015 EN IEC 60079 7:2015/A1:2018
+h)IEC 60079-11:2023 or EN 60079-11:2012
+i) IEC 60079-15:2017 or EN 60079-15:2010
+j) IEC 60079-18:2014 or EN 60079-18:2015,EN 60079- 18:2015/A1:2017
+k) IEC 60079-25:2020 or EN60079-25:2010,EN 60079- 25:2010/AC:2013
+l) IEC 60079-26:2014 or EN 60079-26:2015
+m) IEC 60079-28:2015 or EN 60079-28:2015
+n) IEC 60079-29-4:2009 or EN 60079-29-4:2010
+o) IEC/IEEE 60079-30-1:2015 or EN 60079-30-1:2017
+p) IEC TS 60079-46 : 2017
+11.
+Technical Brochure and details of the equipment i.e, whether an associated apparatus or intrinsically safe system or like, including
+description of the equipment, its different models/variants, electrical parameters, working principle & operating mechanism (in case of
+special type of apparatus) and brief operation manual.
+12.
+If the approval is sought for any system/packaged apparatus where number of electrical components are used, separate Examination
+Certificate and copies of Production Quality Assurance Notification; EC type Declaration of Conformity from the manufacturer etc. is to
+be submitted for each component. Approval will be issued for system/package apparatus encompassing each component used.
+13.
+Scrutiny fee of Rs. 2000/- for each component or Examination Certificate involved, in form of D.D. drawn in favour of Chief Controller
+of Explosives, Nagpur payable at Nagpur.
+14
+Documentary evidence such as purchase order copy/inquiry/indent letter of any oil Company stating installation in petroleum
+hazardous area/installation.
+1/22/25, 5:53 PM
+Online Application
+https://online.peso.gov.in/PesoOnline/onlineApplicaton/Letters.aspx?OND_SYS_ID=NtzUEmaYWcEr5EI0V0Drqg%3d%3d&&OND_SYS_TransId...
+2/2

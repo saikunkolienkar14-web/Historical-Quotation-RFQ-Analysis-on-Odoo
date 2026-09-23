@@ -1,0 +1,32 @@
+Quotation Number: Q2601E008
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL
+PRICE (INR)
+1
+INSITU LASER GAS ANALYSIS SYSTEM FOR MEASUREMENT OF O2
+Model: SITRANS TDL
+Make: SIEMENS AG, Germany
+Total No. Of Sampling Location: 1 No.
+Mounting Location: Shall be in-situ mounted at the stack
+Gas Component: O2
+Degree Of Protection: IP65
+With Sensor Electronics
+With Reference Cell For Self-Monitoring
+Analyzer Outputs: Digital Outputs & 4-20mA Analog Outputs
+Documentation: English
+1 SET
+QUOTED
+QUOTED
+2
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer.To
+And Fro Charges To Be Claimed At Actuals (AC II Tier/Flight)
+@QUOTED PER MAN DAY

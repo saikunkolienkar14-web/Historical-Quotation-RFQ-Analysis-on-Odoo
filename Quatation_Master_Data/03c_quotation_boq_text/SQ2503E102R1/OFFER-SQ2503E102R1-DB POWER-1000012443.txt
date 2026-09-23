@@ -1,0 +1,171 @@
+Quotation Number: SQ2503E102R1
+BOQ Status: FOUND
+
+REFERENCE/RFQ No: RFQ - 1000012443
+KIND ATTENTION: PURCHASE DEPARTMENT
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28709104
+FLOW CEMS 100 - Stack Flow
+Temperature & Pressure Monitoring
+Analyser Pitot Tube Material SS 316 -
+For FGD
+2.00
+785,000.00
+1,570,000.00
+1
+Nos.
+78309154
+Manifold solenoid valve 1/4 NPT (F)
+230 VAC, 5 Station, MOC SS316
+1.00
+37,395.00
+37,395.00
+2
+nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+3,645.00
+3,645.00
+3
+Packets
+18611003
+Conductivity Switch Unit For
+Condensate Monitor 24 VDC
+1.00
+15,998.00
+15,998.00
+4
+Nos
+28602046
+Detector NO Channel 1 - Ultramt 23
+1.00
+328,251.00
+328,251.00
+5
+Nos
+28602105
+Detector SO2 - Ultramat 23 channel 2
+1.00
+462,869.00
+462,869.00
+6
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+99,847.00
+99,847.00
+7
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+11,273.00
+11,273.00
+8
+Nos
+18408015
+Needle Valve 1/4" BSP (F) - SS316 (
+For Wall Mounting )
+2.00
+2,498.00
+4,996.00
+9
+Nos
+78309054
+Solenoid Valve 2/2 way 1/2” NPT (F)
+16 MM Orifice 230 VAC NC Pulsating,
+MOC Brass
+1.00
+13,365.00
+13,365.00
+10
+Ref: Q24250601-SQ2503E102R1
+Date: 17-06-2025
+Nos
+18606074
+DIGITAL OUTPUT SM 1222, 16 DO
+RELAY 2A
+1.00
+35,381.00
+35,381.00
+11
+Nos
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+1.00
+132,300.00
+132,300.00
+12
+With inbuilt temperature controller &
+display
+Nos
+28602054
+Cartridge Filter
+2.00
+10,125.00
+20,250.00
+13
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+1.00
+18,225.00
+18,225.00
+14
+Nos
+1.00
+34,330.00
+34,330.00
+15
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+34,871.00
+34,871.00
+16
+Nos.
+18606070
+CPU 1214C,- S7 1200-14 DI 24V DC;
+10 DO RELAY 2A; 2 AI 0 - 10V DC
+1.00
+44,307.00
+44,307.00
+17
+Nos
+Nos
+18601101
+Zirconia Sensorfor Ad ZICOR 1000
+1.00
+170,839.00
+170,839.00
+19
+Nos.
+Ref: Q24250601-SQ2503E102R1
+Date: 17-06-2025
+18
+1.00
+174,800.00
+174,800.00
+28608002
+NO2 to NO Convertor- Power Supply:
+230 VAC 50/60Hz
+28708163
+Sample Gas Pump, 8.5 LPM, 100/240
+VAC

@@ -1,0 +1,960 @@
+www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+To, 
+
+SAUDI ARAMCO 
+
+ 
+Kind Attention: 
+Mr. Ankush Agarwal 
+ Analyzer Engineer 
+ Yanbu NGL Fractionation Division 
+ 
+Subject: 
+Obsolete Sulphur GC upgrade 
+ 
+Project: 
+ 
+Obsolete Sulphur GC upgrade 
+ 
+Bid Type: 
+ 
+Budgetary 
+
+Dear Sir, 
+ 
+We thank you for your interest in Adage Kanoo Industrial Company Products and with reference to 
+the same please find enclosed our quotation for Design, engineering, manufacture and Supply of analyser 
+system as per your requirement. 
+ 
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned. 
+ 
+Yours sincerely, 
+
+Nitin Jain 
+Email: nitin@adage-kanoo.com 
+Mob: +966537316510 
+(Head - Business unit & Sales) 
+ 
+ Our Quotation No: Q25AKIC10085 
+Date: 16.01.2025 
+ 
+Contact persons: 
+ 
+Mr. Nitin Jain 
+Email: nitin@adage-kanoo.com 
+Mob: +966537316510 
+(Head - Business unit & Sales) 
+ 
+Mr. Adil Bin Muhammed 
+Email: adil@adage-kanoo.com 
+Mob: +966547623190 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Summary of Prices 
+ 
+S/N 
+Item Description 
+Qty 
+Unit 
+Price(US$) 
+Total 
+Price(US$) 
+ 
+1 
+Gas Chromatograph with SCS 
+Tag No. 08-AT-322 
+1 
+$ 161,000 
+$ 161,000 
+2 
+Gas Chromatograph with SCS 
+Tag No. 37-AT-700 
+1 
+$ 161,000 
+$ 161,000 
+3 
+Gas Chromatograph with SCS 
+Tag No. 47-AT-700 
+1 
+$ 161,000 
+$ 161,000 
+4 
+Gas Chromatograph with SCS 
+Tag No. 08-AT-302 
+1 
+$ 168,600 
+$ 168,600 
+5 
+Gas Chromatograph with SCS 
+Tag No. 37-AT-800 
+1 
+$ 168,600 
+$ 168,600 
+6 
+Gas Chromatograph with SCS 
+Tag No. 47-AT-800 
+1 
+$ 168,600 
+$ 168,600 
+7 
+GC Portal Software with license 
+1 
+$ 4,200 
+$ 4,200 
+8 
+Commissioning & start up support for 15 days 
+Lump sum 
+$ 27,000 
+$ 27,000 
+9 
+Factory Acceptance Test (FAT) at OEM facility 
+Lump sum 
+$ 51,000 
+$ 51,000 
+10 
+Tubes, cables, C class items etc. required for connection 
+between SCS to analyser / Headers at site in existing shelter 
+Lump sum 
+$ 2,500 
+$ 2,500 
+Total 
+$ 1,073,500 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Technical Literature 
+ 
+S/N. 
+Item Description 
+Qty. 
+Price 
+(US$) 
+1 
+GAS CHROMATOGRAPH 
+Tag No. 08-AT-322 
+Service: Product propane from SAMREF 
+Make: Valmet 
+Model: MAXUM II 
+Area Classification: Class I, Div II, grp B/C/D, T3 
+Mounting location: Inside existing analyser house-210 
+ 
+Process Conditions at sample inlet: 
+• 
+Supply Pressure (nor/max): 400/510 PSIG 
+• 
+Temperature (nor/max): 110/135°F 
+• 
+Phase: Liquid 
+ 
+Hardware Configuration 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Flame Photometric with Two-Cell 
+Filament Detector 
+Intercolumn Detector: 
+Included (if applicable) 
+Mechanical Pressure Regulator: 
+None 
+Electronic Pressure Control Modules: 
+3 (Type EPC3) 
+Isolation Valve: 
+SSO (Sulfinert®) 
+Sample Valve: 
+Model 50 (Sulfinert®) Vapor Inject 
+Column Valve: 
+Model 50 (Sulfinert®) Human 
+Machine Interface: Local Color 
+Touch Screen 
+Ethernet Network: 
+1x 100 Base FX Fiber Multimode 
+1300 nm with ST connectors 3x 
+10 / 100 Mb (twisted pair) with 
+RJ45 connectors 
+Modbus Data Format: 32-bit IEEE 
+Floating Point 
+Analog Outputs: 
+2 
+Digital Outputs: 
+4 (1 reserved for System Fault) 
+Digital Inputs: 
+4 (2 reserved for Low Carrier and 
+Low Insturment Air Pressure 
+Switches) 
+Stream Switching: 
+Pneumatically via Solenoid Valve 
+Control Module(s) Stainless Steel 
+Tag: Included 
+Sulfinert® Treated Tubing: 
+Tubing installed in flow path in 
+contact with process sample 
+Other Tubing and Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+ 
+1 Nos 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Analytical Configuration 
+Number of Streams: 
+1 
+Calibration / Validation: 
+ Automatic (with calibration standard) 
+Repeatability Test: 
+ 8 Hours 
+Estimated Cycle Time: 
+4 Minutes/Stream 
+
+ 
+
+1.1 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Filters, Pressure regulators, flowmeter, 
+valves, safety relief valve etc.) as required for analyser. 
+• 
+Sampling system components shall be mounted inside SS316 enclosure, 
+2mm thick. 
+
+1 Nos 
+Included 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+1.2 
+Supply of validation and calibration accessories as required. 
+• 
+This consist of validation/calibration setup including regulators and valves and 
+one set (1W +1S) of calibration gas cylinders for span check. 
+• 
+10Ltr WC, MOC: CS/Aluminium 
+• 
+With required CGA connectors 
+ 
+1 Nos 
+Included 
+2 
+GAS CHROMATOGRAPH 
+Tag No. 37-AT-700 
+Service: Discharge propane transfer pump V84-G-372 
+Make: Valmet 
+Model: MAXUM II 
+Area Classification: Class I, Div II , grp B/C/D , T3 
+Mounting location: Inside existing analyser house-131 
+ 
+Process Conditions at sample inlet: 
+• 
+Supply Pressure (min/nor/max): 340/388/510 PSIG 
+• 
+Temperature (min/nor/max): 100/110/120°F 
+• 
+Phase: Liquid 
+Hardware Configuration 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Flame Photometric with Two-
+Cell Filament Detector 
+Intercolumn Detector: 
+Included (if applicable) 
+Mechanical Pressure Regulator: 
+None 
+Electronic Pressure Control Modules: 
+3 (Type EPC3) 
+Isolation Valve: 
+SSO (Sulfinert®) 
+Sample Valve: 
+Model 50 (Sulfinert®) Vapor 
+Inject 
+Column Valve: 
+Model 50 (Sulfinert®) 
+Human Machine Interface: 
+ Local Color Touch Screen 
+Ethernet Network: 
+1x 100 Base FX Fiber 
+Multimode 1300 nm with ST 
+connectors 
+3x 10 / 100 Mb (twisted pair) 
+with RJ45 connectors 
+Modbus Data Format: 
+32-bit IEEE Floating Point 
+Analog Outputs: 
+2 
+Digital Outputs: 
+4 ( 1 reserved for System Fault) 
+Digital Inputs: 
+4 ( 2 reserved for Low Carrier 
+and Low Insturment Air 
+Pressure Switches) 
+Stream Switching: 
+Pneumatically via Solenoid 
+Valve Control Module(s) 
+Stainless Steel Tag: 
+Included 
+Sulfinert® Treated Tubing: 
+Tubing installed in flow path in 
+contact with process sample 
+1 Nos 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Other Tubing and Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+ 
+Analytical Configuration 
+Number of Streams: 1 
+Calibration / Validation: Automatic (with calibration standard) 
+Estimated Cycle Time: 4 Minutes/Stream 
+Repeatability Test: 8 Hours 
+
+2.1 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Filters, Pressure regulators, flowmeter, 
+valves, safety relief valve etc.) as required for analyser. 
+• 
+Sampling system components shall be mounted inside SS316 enclosure, 
+2mm thick. 
+ 
+1 Nos 
+Included 
+2.2 
+Supply of validation and calibration accessories as required. 
+• 
+This consist of validation/calibration setup including regulators and valves and 
+one set (1W +1S) of calibration gas cylinders for span check. 
+• 
+10Ltr WC, MOC: CS/Aluminium 
+• 
+With required CGA connectors 
+ 
+1 Nos 
+Included 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+3 
+GAS CHROMATOGRAPH 
+Tag No.: 47-AT-700 
+Service: Discharge propane transfer pump V84-G-372 
+Make: Valmet 
+Model: MAXUM II 
+Area Classification: Class I, Div II, grp B/C/D, T3 
+Mounting location: Inside existing analyser house-141 
+ 
+Process Conditions at sample inlet: 
+• 
+Supply Pressure (min/nor/max): 340/388/510 PSIG 
+• 
+Temperature (min/nor/max): 100/110/120°F 
+• 
+Phase: Liquid 
+Hardware Configuration 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Flame Photometric with 
+Two-Cell Filament Detector 
+Intercolumn Detector: 
+Included (if applicable) 
+Mechanical Pressure Regulator: 
+None 
+Electronic Pressure Control Modules: 
+3 (Type EPC3) 
+Isolation Valve: 
+SSO (Sulfinert®) 
+Sample Valve: 
+Model 50 (Sulfinert®) 
+Vapor Inject 
+Column Valve: 
+Model 50 (Sulfinert®) 
+Human Machine Interface: 
+Local Colour Touch Screen 
+Ethernet Network: 
+1x 100 Base FX Fiber 
+Multimode 1300 nm with 
+ST connectors 3x 10 / 100 
+Mb (twisted pair) with RJ45 
+connectors 
+Modbus Data Format: 
+32-bit IEEE Floating Point 
+Analog Outputs: 
+2 
+Digital Outputs: 
+4 ( 1 reserved for System 
+Fault) 
+ 
+Digital Inputs: 
+4 ( 2 reserved for Low 
+Carrier and Low Insturment 
+Air Pressure Switches) 
+Stream Switching: 
+Pneumatically via Solenoid 
+Valve Control Module(s) 
+Stainless Steel Tag: 
+Included 
+Sulfinert® Treated Tubing: 
+Tubing installed in flow 
+path in contact with 
+process sample 
+Other Tubing and Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+ 
+1 Nos 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Analytical Configuration 
+Number of Streams: 1 
+Calibration / Validation: Automatic (with calibration standard) Estimated 
+Cycle Time: 4 Minutes/Stream 
+Repeatability Test: 8 Hours 
+
+3.1 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Filters, Pressure regulators, flowmeter, 
+valves, safety relief valve etc.) as required for analyser. 
+• 
+Sampling system components shall be mounted inside SS316 enclosure, 
+2mm thick. 
+ 
+1 Nos 
+Included 
+3.2 
+Supply of validation and calibration accessories as required. 
+• 
+This consist of validation/calibration setup including regulators and valves and 
+one set (1W +1S) of calibration gas cylinders for span check. 
+• 
+10Ltr WC, MOC: CS/Aluminium 
+• 
+With required CGA connectors 
+
+ 
+1 Nos 
+Included 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+4 
+GAS CHROMATOGRAPH 
+Tag No. 08-AT-302 
+Service: n-butane from SAMREF to NGL plant 
+Make: Valmet 
+Model: MAXUM II 
+Area Classification: Class I, Div II , grp B/C/D , T3 
+Mounting location: Inside existing analyser house- 210 
+ 
+Process Conditions at sample inlet: 
+• 
+Supply Pressure (min/nor/max): 90/110/250 PSIG 
+• 
+Temperature (min/nor/max): 80/110/135°F 
+• 
+Phase: Liquid 
+ 
+Hardware Configuration 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Flame Photometric with Two-Cell 
+Filament Detector 
+Intercolumn Detector: 
+Included (if applicable) 
+Mechanical Pressure Regulator: 
+None 
+Electronic Pressure Control Modules: 
+3 (Type EPC3) 
+Isolation Valve: 
+SSO (Sulfinert®) 
+Sample Valve: 
+Model 50 (Sulfinert®) Vapor Inject 
+Column Valve: 
+Model 50 (Sulfinert®) 
+Human Machine Interface: 
+Local Color Touch Screen 
+Ethernet Network: 
+1x 100 Base FX Fiber Multimode 
+1300 nm with ST connectors 
+ 
+3x 10 / 100 Mb (twisted pair) with 
+RJ45 connectors 
+Modbus Data Format: 
+32-bit IEEE Floating Point 
+Analog Outputs: 
+2 
+Digital Outputs: 
+4 ( 1 reserved for System Fault) 
+Digital Inputs: 
+4 ( 2 reserved for Low Carrier and 
+Low Insturment Air Pressure 
+Switches) 
+Stream Switching: 
+Pneumatically via Solenoid Valve 
+Control Module(s) 
+Stainless Steel Tag: 
+Included 
+Sulfinert® Treated Tubing: 
+Tubing installed in flow path in contact 
+with process sample 
+Other Tubing and Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+
+Analytical Configuration 
+Number of Streams: 1 
+Calibration / Validation: Automatic (with calibration standard) Estimated Cycle Time: 
+4 Minutes/Stream 
+Repeatability Test: 8 Hours 
+1 Nos 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+ 
+
+ 
+4.1 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Filters, Pressure regulators, flowmeter, 
+valves, safety relief valve etc.) as required for analyser. 
+• 
+With Sample Bomb; MOC: SS316, Capacity: 500ml. 
+• 
+Primary and secondary sampling system components shall be mounted 
+inside SS316 enclosure, 2mm thick. 
+ 
+1 Nos 
+Included 
+4.2 
+Supply of validation and calibration accessories as required. 
+• 
+This consist of validation/calibration setup including regulators and valves and 
+one set (1W +1S) of calibration gas cylinders for span check. 
+• 
+10Ltr WC, MOC: CS/Aluminium 
+• 
+With required CGA connectors 
+ 
+1 Nos 
+Included 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+5 
+GAS CHROMATOGRAPH 
+Tag No. 37-AT-800 
+Service: Butane G-374 Discharge 
+Make: Valmet 
+Model: MAXUM II 
+Area Classification Class I, Div II , grp B/C/D , T3 
+Mounting location: Inside existing analyser house -131 
+ 
+Process Conditions at sample inlet: 
+• 
+Supply Pressure (min/nor/max): 138/168/250 PSIG 
+• 
+Temperature (min/nor/max): 100/110/120°F 
+• 
+Phase: Liquid 
+
+Hardware Configuration 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Flame Photometric with Two-Cell 
+Filament Detector 
+Intercolumn Detector: 
+ Included (if applicable) 
+Mechanical Pressure Regulator: 
+None 
+Electronic Pressure Control Modules: 
+3 (Type EPC3) 
+Isolation Valve: 
+SSO (Sulfinert®) 
+Sample Valve: 
+Model 50 (Sulfinert®) Vapor Inject 
+Column Valve: 
+Model 50 (Sulfinert®) 
+Human Machine Interface: 
+Local Color Touch Screen 
+Ethernet Network: 
+1x 100 Base FX Fiber Multimode 
+1300 nm with ST connectors 
+3x 10 / 100 Mb (twisted pair) with 
+RJ45 connectors 
+Modbus Data Format: 
+32-bit IEEE Floating Point 
+Analog Outputs: 
+2 
+Digital Outputs: 
+4 ( 1 reserved for System Fault) 
+Digital Inputs: 
+4 ( 2 reserved for Low Carrier and 
+Low Insturment Air Pressure 
+Switches) 
+Stream Switching: 
+ Pneumatically via Solenoid Valve 
+Control Module(s) 
+Stainless Steel Tag: 
+Included 
+Sulfinert® Treated Tubing: 
+Tubing installed in flow path in 
+contact with process sample 
+Other Tubing and Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+Analytical Configuration 
+Number of Streams: 1 
+Calibration / Validation: Automatic (with calibration standard) Estimated Cycle 
+Time: 4 Minutes/Stream 
+Repeatability Test: 8 Hours 
+1 Nos 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+5.1 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Filters, Pressure regulators, flowmeter, 
+valves, safety relief valve etc.) as required for analyser. 
+• 
+Sampling system components shall be mounted inside SS316 enclosure, 
+2mm thick. 
+ 
+1 Nos 
+Included 
+5.2 
+Supply of validation and calibration accessories as required. 
+• 
+This consist of validation/calibration setup including regulators and valves and 
+one set (1W +1S) of calibration gas cylinders for span check. 
+• 
+10Ltr WC, MOC: CS/Aluminium 
+• 
+With required CGA connectors 
+
+1 Nos 
+Included 
+6 
+GAS CHROMATOGRAPH 
+Tag No. 47-AT-800 
+Service: Butane G-374 Discharge 
+Make: Valmet 
+Model: MAXUM II 
+Area Classification: Class I, Div II , grp B/C/D , T3 
+Mounting location: Inside existing analyser house-141 
+ 
+1 Nos 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Process Conditions at sample inlet: 
+• 
+Supply Pressure (min/nor/max): 138/168/250 PSIG 
+• 
+Temperature (min/nor/max): 100/110/120°F 
+• 
+Phase: Liquid 
+ 
+Hardware Configuration 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Flame Photometric with Two-Cell 
+Filament Detector 
+Intercolumn Detector: 
+Included (if applicable) 
+Mechanical Pressure Regulator: 
+None 
+Electronic Pressure Control Modules: 
+3 (Type EPC3) 
+Isolation Valve: 
+SSO (Sulfinert®) 
+Sample Valve: 
+Model 50 (Sulfinert®) Vapor Inject 
+Column Valve: 
+Model 50 (Sulfinert®) 
+Human Machine Interface: 
+Local Color Touch Screen 
+Ethernet Network: 
+1x 100 Base FX Fiber Multimode 
+1300 nm with ST connectors 
+ 
+3x 10 / 100 Mb (twisted pair) with 
+RJ45 connectors 
+Modbus Data Format: 
+32-bit IEEE Floating Point 
+Analog Outputs: 
+2 
+Digital Outputs: 
+4 ( 1 reserved for System Fault) 
+Digital Inputs: 
+4 ( 2 reserved for Low Carrier and 
+Low Instrument Air Pressure 
+Switches) 
+Stream Switching: 
+Pneumatically via Solenoid Valve 
+Control Module(s) 
+Stainless Steel Tag: 
+Included 
+Sulfinert® Treated Tubing: 
+Tubing installed in flow path in 
+contact with process sample 
+Other Tubing and Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+ 
+Analytical Configuration 
+Number of Streams: 1 
+Calibration / Validation: Automatic (with calibration standard) 
+Estimated Cycle Time: 4 Minutes/Stream 
+Repeatability Test: 8 Hours 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+6.1 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Filters, Pressure regulators, flowmeter, 
+valves, safety relief valve etc.) as required for analyser. 
+• 
+Sampling system components shall be mounted inside SS316 enclosure, 
+2mm thick. 
+ 
+1 Nos 
+Included 
+6.2 
+Supply of validation and calibration accessories as required. 
+• 
+This consist of validation/calibration setup including regulators and valves and 
+one set (1W +1S) of calibration gas cylinders for span check. 
+• 
+10Ltr WC, MOC: CS/Aluminium 
+• 
+With required CGA connectors. 
+
+1 Nos 
+Included 
+7 
+GC Portal Software with license 
+1 Nos 
+Quoted 
+8 
+Commissioning & start up support for 15 days 
+Lump 
+sum 
+Quoted 
+9 
+Factory Acceptance Test (FAT) at OEM facility 
+ 
+Lump 
+sum 
+Quoted 
+10 
+Tubes, cables, C class items etc. required for connection between SCS to 
+analyser / Headers at site in existing shelter 
+Lump 
+sum 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+
+ 
+
+ 
+
+ 
+
+ 
+
+MAXUM II Gas chromatograph dimensions:
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Industrial Company 
+Building NO: 2947, Additional NO: 6829 
+Jubail, Kingdom of Saudi Arabia 
+Postal code: 35717 
+ 
+Exclusions 
+ 
+All exclusions are not part of offer, same shall be taken care by customer. 
+ 
+1) All Erection Activities including but not limited to removal of old installation & installation of new supply 
+Analyzer Systems cabling, glanding and termination of all field cables and tubing or components & analyzer 
+houses. 
+2) All Interconnection Cables (From Analyser shelter to DCS/control unit) including FO cables, Standard Signal, 
+Standard Power cables, cable trays, tray supports. 
+3) We have quoted only for Analyser, SCS & Calibration cylinders. All other integration parts, Electrical, Civil and 
+Mechanical activities at site shall be taken care by customer. 
+4) All field, power & signal JBs shall be taken care by customer. 
+5) Sample Transportation line shall be used existing or to be taken care by customer. 
+6) Sample Bomb to be taken care by others/customer. 
+7) Sample probe to be taken care by others/customer. 
+8) Refiling of calibration cylinders to be taken care by others/customer. 
+9) Supply & refiling of Carrier Gas cylinders with mounting rack and other accessories like regulator/auto 
+changeover etc to be taken care by customer. 
+
+Commercial Terms 
+
+Prices Quoted 
+Ex-works AKIC, KSA 
+Freight 
+Shall be extra as applicable. 
+Packing 
+Inclusive 
+Delivery 
+8-10 months from the date of P.O. 
+Warranty 
+12 months from date of commissioning or 18 months from the 
+date of supply whichever is earlier. 
+Offer Validity 
+30 Days 
+Payment Terms 
+To be discussed and agreed.

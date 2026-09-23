@@ -1,0 +1,117 @@
+Quotation Number: Q25E10031R4
+BOQ Status: FOUND
+
+Date
+Revision Details
+SECTION 2: SUMMARY OF PRICES
+Item
+Qty
+Description
+Unit Price (₹) Total Price (₹)
+1
+5
+TDLS O2 analyser (Transmitter + Receiver)
+Quoted
+Quoted
+2
+1
+Project documentation
+Inclusive
+inclusive
+3
+1
+FAT at Adage Factory
+Inclusive
+inclusive
+4
+1
+Startup & Commissioning Spares
+Inclusive
+inclusive
+5
+1
+Packing, forwarding & transportation upto Site
+Quoted
+Quoted
+6
+1
+Supervision of installation & Commissioning per
+diem
+Free of Cost for 7 days
+TOTAL PACKAGE PRICE
+Quoted
+OPTIONAL
+Item
+Qty
+Description
+Unit Price (₹)
+Total Price (₹)
+7
+2 years O&M SPARES
+1
+Needle Valve x1
+Quoted
+Quoted
+1
+Air Filter Regulator x1
+Quoted
+Quoted
+TOTAL
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1
+TDLS Laser based – Oxygen Analyser (Transmitter + Receiver)
+Tag No: To be Provided by Customer
+Service: CALCIUM CARBIDE GAS HOLDER
+Make: Siemens
+Model : Sitrans SL
+Line No.: 64"-301-CFG-5203-1BA1D07-N
+Area Classification: Zone1 llC T4 (ATEX II 2G Ex de op is IIC
+T6) PESO Certified.
+Mounting location : InSitu (Directly on Pipe MG300-PRC-301-
+PD-5201)
+Flange connection (Cross Duct): 4” 150#
+Measuring Principle: TDLS
+Degree of Protection: IP65
+Measuring Range:
+-
+O2 : 0-5 Vol%
+Process Conditions at sample Inlet:
+-
+Pressure (Op): (0-4 barg max)
+-
+Temperature (Op): 60 Deg C
+Output Signal:
+-
+4-20 mA analog ouput
+-
+RS 485 Serial output
+-
+Digital outputs
+Sample handling system:
+-
+Utility plate Shall consists of Ball valve, needle valve, Air
+filter regulator and the necessary items required for SHS.
+-
+With JB’s (ASJB, PJB)
+Utilities Required:
+-
+110 VAC, 50Hz UPS power supply
+-
+Plant Nitrogen @5-6 bar at stack
+Note :
+-
+Sensor cable shall be 10 meters max.
+-
+Cable glands shall be SS316 Double compression type
+flameproof.
+-
+Field Power and signal cable shall be in Adani scope of
+supply.
+-
+Max Path length shall be 8 meters.
+-
+Distance between Tapping point to utility box shall be less
+than 5 mtrs.
+5 No
+Quoted

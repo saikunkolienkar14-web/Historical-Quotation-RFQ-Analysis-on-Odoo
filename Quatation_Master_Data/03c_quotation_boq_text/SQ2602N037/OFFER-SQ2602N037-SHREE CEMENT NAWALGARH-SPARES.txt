@@ -1,0 +1,317 @@
+Quotation Number: SQ2602N037
+BOQ Status: FOUND
+
+Date: 10-02-2026
+Ref: Q25260533-SQ2602N037
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602078
+Paramagn. Measuring cell (Dumbbell)
+Ultramat 23
+1.00
+454,750.00
+454,750.00
+1
+Nos
+1.00
+124,976.00
+124,976.00
+2
+Nos
+28602002
+LCD Display Ultramat 23
+1.00
+165,551.00
+165,551.00
+3
+Nos
+28602193
+Chopper, 1 IR Channel - Ultramat 23
+1.00
+53,244.00
+53,244.00
+4
+Nos
+28602093
+Chopper 2 IR Channels Ultramat 23
+1.00
+56,668.00
+56,668.00
+5
+Nos
+28602105
+Detector SO2 - Ultramat 23 channel 2
+1.00
+509,320.00
+509,320.00
+6
+Nos
+28602058
+Detector, NO, Channel 2
+1.00
+361,061.00
+361,061.00
+7
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+109,911.00
+109,911.00
+8
+Nos
+28602019
+Motherboard for Ultramat 23
+1.00
+497,679.00
+497,679.00
+9
+Nos
+28602037
+Keypad - Ultramat 23
+1.00
+83,032.00
+83,032.00
+10
+Nos
+18606074
+DIGITAL OUTPUT SM 1222, 16 DO
+RELAY 2A
+1.00
+28,043.00
+28,043.00
+11
+Nos
+28602007
+O2 Sensor Ultramat 23-
+Electrochemical
+Date: 10-02-2026
+Ref: Q25260533-SQ2602N037
+18606072
+DIGITAL OUTPUT SM 1222, 8 DO
+RELAY 2A
+1.00
+12,198.00
+12,198.00
+12
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+5.00
+25,830.00
+129,150.00
+13
+Nos.
+28708026
+Automatic Condensate Removal
+Pump 24 VDC Flow Rate 0.3 LPM
+2.00
+20,980.00
+41,960.00
+14
+Nos
+28602024
+Flow meter - Ultramat 23
+4.00
+44,879.00
+179,516.00
+15
+Nos
+28602006
+Pressure Switch - Sample Gas,
+Ultramat 23
+2.00
+60,683.00
+121,366.00
+16
+Nos
+4.00
+12,805.00
+51,220.00
+17
+Nos
+18418084
+Tube Assembly for KAS Length 3500
+mm (Single Tube), MOC SS310-New
+Design
+4.00
+225,610.00
+902,440.00
+18
+Nos
+28903011
+SS Filter for Kiln Probe length 250
+mm
+4.00
+26,750.00
+107,000.00
+19
+Nos
+1.00
+90,950.00
+90,950.00
+20
+Nos
+2.00
+28,088.00
+56,176.00
+21
+Nos
+1.00
+31,244.00
+31,244.00
+22
+Nos
+18709005
+Flow Meter 50-500 LPH 1/4" NPT (F)
+MOC Glass
+18610051
+MMI 7"Display with I/O card
+Support
+28709016
+WATER FLOW SWITCH PADDLE
+TYPE Connection 1"BSP
+18709010
+Flow Meter 10-100 LPH 1/4" NPT (F)
+MOC Glass With ring sensor
+Date: 10-02-2026
+Ref: Q25260533-SQ2602N037
+18606079
+S7 1200 - Communication Board CB
+1241, RS485
+1.00
+15,622.00
+15,622.00
+23
+Nos
+18606070
+CPU 1214C,- S7 1200-14 DI 24V DC;
+10 DO RELAY 2A; 2 AI 0 - 10V DC
+1.00
+35,118.00
+35,118.00
+24
+Nos
+18606071
+DIGITAL INPUT/OUTPUT SM 1223, 8
+DI & 8 DO RELAY
+2.00
+18,814.00
+37,628.00
+25
+Nos
+28602015
+Plate with threaded Nuts and bolts-
+Single Component-U23
+3.00
+78,244.00
+234,732.00
+26
+Nos
+28602016
+Plate with Threaded Nuts & bolts-
+Dual Component -Ultramat 23
+3.00
+121,171.00
+363,513.00
+27
+Nos
+28602056
+Condensate Trap - Ultramat 23
+5.00
+17,952.00
+89,760.00
+28
+Nos
+48519025
+Sample Gas Cooler with SS Dual Gas
+Path Heat Exchanger 230 VAC, 50 Hz
+with Dual Perilstatic Pump
+2.00
+179,269.00
+358,538.00
+29
+Nos
+3.00
+28,088.00
+84,264.00
+30
+Nos
+18710001
+Condensate Monitor
+2.00
+20,700.00
+41,400.00
+31
+Nos
+18816009
+Silencer For Pneumatic
+Cylinder(U1/2")
+5.00
+2,305.00
+11,525.00
+32
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+5.00
+10,183.00
+50,915.00
+33
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+20.00
+3,293.00
+65,860.00
+34
+18709010
+Flow Meter 10-100 LPH 1/4" NPT (F)
+MOC Glass With ring sensor
+Date: 10-02-2026
+Ref: Q25260533-SQ2602N037
+Packets
+28919002
+Glass Fiber Borosilicate Filter For
+Acid Filter Element
+5.00
+20,305.00
+101,525.00
+35
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+25.00
+3,293.00
+82,325.00
+36
+Packets
+48519030
+Sample Gas Cooler with Dual Gas
+Path SS Heat Exchanger 230 VAC,
+50 Hz with SINGLE Perilstatic Pump
+3.00
+119,513.00
+358,539.00
+37
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+3.00
+10,183.00
+30,549.00
+38
+Nos
+Date: 10-02-2026
+Ref: Q25260533-SQ2602N037

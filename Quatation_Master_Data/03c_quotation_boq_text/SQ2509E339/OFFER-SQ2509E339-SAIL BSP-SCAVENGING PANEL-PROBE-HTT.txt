@@ -1,0 +1,54 @@
+Quotation Number: SQ2509E339
+BOQ Status: FOUND
+
+Date: 22-09-2025
+Ref: Q25260320-SQ2509E339
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+4.00
+245,000.00
+980,000.00
+1
+Dual Stage Scavenging Panel with
+Solenoid Valves
+Inner Purging & Outer Purging
+Nos
+Nos
+18902003
+Heat Traced Tube 230 VAC 1/2" SS"
+Constant Voltage
+200.00
+4,290.00
+858,000.00
+3
+Tube Size: 1/2" O.D
+Tube Material: SS 316
+No of Tube: 1
+Operating Voltage: 230 VAC
+With JB & other Accessories
+Meters
+48802007
+Scavenging Panel Assembly - 400 X 500
+X 210 Double Stage 24VDC
+BURKERT-SAMPLE LINE 1/2"
+2
+4.00
+208,000.00
+832,000.00
+48412001
+HS Probe Assembly
+with Isolation Ball Valve
+HS Probe Assembly consisting of
+1. Probe Head
+2. Tube Assembly SS316 1200mm
+3. Ceramic Filter
+4. Ring Heater 230 VAC
+5. Bushing Tube
+6. Fittings & Gaskets

@@ -1,0 +1,42 @@
+Quotation Number: Q2507E101
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR THC MEASURMENT
+Make: Siemens
+Model: FIDAMAT
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: THC
+Measuring Range:
+• THC: 0-400 ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+Notes:
+• Sample line and cylinders( Both zero & span) shall be in customers scope
+of supply
+1 SET
+29,45,000
+29,45,000
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+160 METERS
+IN CUSTOMER SCOPE
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II Train
+Fare to be arranged by Customer)
+PER DIEM
+@30000 PER MANDAY

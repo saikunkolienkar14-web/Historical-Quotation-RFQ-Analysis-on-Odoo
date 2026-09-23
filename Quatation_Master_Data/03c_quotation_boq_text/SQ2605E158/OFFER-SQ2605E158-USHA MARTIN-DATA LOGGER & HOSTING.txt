@@ -1,0 +1,31 @@
+Quotation Number: SQ2605E158
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Datalogger For 1 ETP station data connectivity to CPCB
+ODAMS portal
+(Inclusive of 1 year data transmission charges)
+01 Sets
+2,50,000.00
+2,50,000.00
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+1.
+Modbus data of above-mentioned parameters shall be provided by M/s Usha Martin Ltd.
+2.
+4-20 mA to Ethernet existing converter shall be used to connect Modbus data. Which is healthy at site.
+3.
+Power 12-24 VDC shall be arranged by M/s Usha Martin Ltd.
+4.
+Necessary signal / power cable shall be provided by M/s Usha Martin Ltd.
+5.
+Internet Via Ethernet Connection shall be provided by M/s Usha Martin Ltd. Static IP address for the same shall
+also be arranged by customer.
+6.
+Necessary whitelisting for data configuration of datalogger and ODAMS data transmission shall also done at
+customer end, if the internet is being provided through plant LAN network.

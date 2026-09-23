@@ -1,0 +1,273 @@
+Quotation Number: Q25G10115
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+8
+Color Analyzer
+Tag No.: 205-AE-6003 / 4 / 5 & 6
+140-AE-6003 / 4 / 5 & 6
+Quoted
+Quoted
+2
+1
+H2S Analyser
+Tag No.: 205-AIT-6007
+Quoted
+Quoted
+3
+1
+Spare Parts for Erection, testing, Pre-Commissioning &
+Commissioning
+Quoted
+Quoted
+4
+1
+Recommended
+Two
+(2)
+years
+Operation
+and
+Maintenance Spare Parts (Optional)
+Quoted
+Quoted
+5
+1
+Supervision for Commisioning (Per DIEM )
+Quoted
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1
+COLOR ANALYZER
+Tag No.: 205-AE-6003 / 4 / 5 & 6
+140-AE-6003 / 4 / 5 & 6
+Make: ICON
+Model: Colour Opacity
+Measurement Principle: Spectro-photometry
+Process Sample - Condensate
+Sample Return - To low pressure return line.
+Mounting Location: Inside Analyser cabinet with Redundant Ex
+proof AC
+Analyzer Specification:
+-
+ASTM Method - D156 Saybolt
+-
+Measuring Cell Length - 100mm
+-
+Output Range - +12 to +20 Saybolt (exp. +14 to +18)
+-
+Power Supply - 110VAC 50Hz
+-
+Ex Certification - ATEX/IECEx - Zone 1, IIB+H2 T6
+-
+Cell Location (Local) - Mounted on backplate, complete with
+valves and fibre-optic cables (0.38m).
+-
+Sample inlet temperature is max. 200°C
+-
+Sample flow through the analyser is continuous, with
+continuous measurement output
+-
+Internal wetted tubing material is 316L SS
+-
+3.1 material certificates and additional material testing are
+not applicable for quoted ICON make analysers.
+Communication:
+-
+Output: 4-20 mA
+-
+Modbus output over TCP/IP or RS485
+-
+Digital Alarm Output: Available
+-
+LCD touch screen
+Utility Requirement:
+-
+110 VAC, 50 Hz UPS Power Supply – 75W for Analyser
+8 Nos.
+Quoted
+-
+415 VAC, 50 Hz NON- UPS Power Supply – 4000W for Ex-
+proof AC
+Sample Probe : Not quoted due to small line size.
+NA
+NA
+Sample transportation line for Supply
+- 1/2" OD SS316 Tube
+20 x 8
+Mtrs
+Quoted
+Primary sample handing system:
+-
+Not required
+Secondary Sample handling system:
+-
+Secondary SHS: Mounted Outside analyser cabinet inside
+SS316 enclosure.
+-
+Validation tank: 20 Liter capacity
+-
+Analyzer shall be calibrated/validated using process sample.
+-
+With Fast Loop rotameter (Metallic), redundant filter
+configuration & Safety Relief Valve -1 Nos
+8 Nos.
+Quoted
+Analyzer Cabinet
+-
+Analyser Cabinet, 1200 W x 800 D x 2100 H in mm, MOC:
+SS316, 2 mm thick
+-
+IP65 Rated
+-
+With Ex proof Air conditioning unit (Redundant) suitable for
+Zone 1 llC T3, Make: Adage
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+-
+Headers and other required accessories
+8 Nos.
+Quoted
+3
+H2S analyzer
+Tag No.: IP39-AT-010001
+Service: Jurassic Gas to Jurassic Gas Bypass Header
+Make: AMETEK
+Model: 993X Gas Analyzer
+Operating Principle: UV spectroscopy
+Area Classification: Zone 1 (purged version)
+Mounting Location: Inside Analyser cabinet with Redundant Ex
+proof AC
+Component to be measured: H2S.
+Measuring Ranges: H2S: 0 - 1200 PPM
+Power Supply: 110 VAC, 50 Hz
+Sample Return - To Flare header
+1 No.
+Quoted
+Analyzer Output:
+-
+4-20mA output.
+-
+RS485 Modbus port
+-
+Five Pot free relay contacts (2A, 240 V)
+Utility Requirement:
+-
+110 VAC, 50 Hz UPS Power Supply – 550W (For Analyser)
+-
+Instrument Air is required @ 5-7 Barg (80-100 psig) (Oil &
+Dust free) Near Analyser Cabinet
+-
+415 VAC, 50 Hz NON-UPS Power Supply – 5000W (for Ex-
+proof AC + HTT line + HPR)
+Sample Probe : Not quoted due to small line size.
+NA
+NA
+Primary Sample Handling System
+-
+This shall consist of ball valve, Heated pressure regulator &
+Filter.
+-
+PSHS shall be installed inside the SS316 insulated
+enclosure.
+1 No.
+Quoted
+Sample transportation line
+-
+1/4” OD SS316 HTT Sulfinert
+20 Meters
+Quoted
+Analyzer Cabinet
+-
+Analyser Cabinet, 1200 W x 800 D x 2100 H in mm, MOC:
+SS316, 2 mm thick
+-
+IP65 Rated
+-
+With Ex proof Air conditioning unit (Redundant) suitable for
+Zone 1 llC T3, Make: Adage
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB
+-
+Headers and other required accessories
+1 No.
+Quoted
+SECTION 4: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Process Isolation Valve at tapping point
+Yes
+3
+Supply of Mandatory spares, as per adage recommendation
+Yes
+4
+Inspection, Testing, Project Management & Project Documentation
+Yes
+5
+Factory Acceptance Test at Adage Works
+Yes
+6
+Packing forwarding
+Yes
+7
+Freight up to site including Insurance
+Yes
+8
+Storage of supplied system at site
+Yes
+9
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+10
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+11
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+12
+Supervision for Commisioning (Per DIEM )
+Yes
+13
+Supply & Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+14
+Supply of 2 years O&M spares, as per adage recommendation
+Yes
+15
+Training at Site- OPTIONAL
+16
+Training at Goa facility- OPTIONAL
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To be Borne by the Customer.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from the date PO receipt.
+Offer validity
+March 2026

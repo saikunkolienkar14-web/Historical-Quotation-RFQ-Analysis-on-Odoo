@@ -1,0 +1,94 @@
+Quotation Number: Q2603N024R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+Gas analysis system for measurement of CO,NO,SO2,CO2 at stack
+With gas sampling probe
+With Auto probe cleaning facility
+With Blow back unit
+With sample handling system
+With IP54 panel
+With microprocessor-based analyser
+With touch screen graphic color display – 7“
+Ultramat 23 – 01 No.
+For Carbon Monoxide (CO)
+For Nitric Oxide (NO)
+For Sulphur Dioxide (SO2)
+Ultramat 23 – 01 No
+For Carbon Dioxide (CO2)
+Analyzer make: Siemens Ag, Germany
+Note:
+•
+Please note that calibration gas cylinders shall be in customer’s scope.
+1 Set
+Quoted
+Quoted
+2
+Heat trace tube for sample gas transportation
+Moc: PTFE, Tube size: 1⁄4”
+Along with JB’S and accessories
+@Quoted Per Meter
+3
+PC With Software
+Note: Please note that the Quoted PC with Software is only for Local
+Datalogging and Viewing. Any Connectivity or Data Transmission to the
+Pollution Control Boards/ Authorities/Any Servers /Portals/Websites etc
+shall be in Isgec scope.
+Also, we understand that the quoted PC shall be kept in the same CEMS
+room very close to the analyser panel.
+1 Set
+Quoted
+Quoted
+4
+Recommended spares for 2 years trouble free operation for CEMS
+Cart filter – 1 No.
+Membrane filter (pack of 25) – 1 No.
+O-ring for probe – 1 No.
+O-ring for condensate monitor – 1 No.
+1 Set
+Quoted
+Quoted
+Note:
+•
+Please note that sample gas probe MOC shall be SS316.
+•
+Also 4....20 mA output shall be available; HART is not applicable.
+•
+The output shall be available in the analyser system. Further connectivity /transmission to DCS along with the
+cables, hardware etc .shall be in customer’s scope.
+•
+All Erection and Installation activity including supply and works shall be in customer’s scope.
+•
+Supply and laying of Cable and cable trays for Power supply / Analog and Digital signal / serial communication
+cables, special Cable etc. shall be in customer's scope
+5
+Dust Monitor
+Make: Forbes Marshall
+Model No: DCEM 2100
+Measurement Principle: Dual Beam, Single Pass Transmissometer
+Technique
+Output: 4...20 mA
+Note: Utility Requirement: Instrument Air Free From Oil,
+Dust & Moisture At 4/6 Bar To Be Provided By The
+Customer.
+1 Set
+Quoted
+Quoted
+Note: Please note that we have quoted Dust Monitor Considering the Stack Details as Below: -
+Stack Id: 4100 mm
+Stack Od: 4132 mm
+Stack Thickness:16 mm
+Please Confirm the Same as the Dust Monitor Model Might Change with It.
+6
+Service charges for supervision of Installation & Commissioning
+(Boarding – Lodging – Local Conveyance, To and FRO Air Ticket Fare, Visa
+Charges, Security, Work Permit shall be in Customer’s scope)
+@Quoted Per Man Day

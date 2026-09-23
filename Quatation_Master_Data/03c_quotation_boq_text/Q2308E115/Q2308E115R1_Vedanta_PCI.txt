@@ -1,0 +1,162 @@
+Quotation Number: Q2308E115R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR O2 AT MILL INLET
+Make: SIEMENS
+Model: OXYMAT61
+Operating Principle: Paramagnetic
+Area Classification: Safe Area
+Mounting Location: Extractive type
+Component to be measured: O2
+Process Details:
+•
+Temperature: 300/450 Deg C
+•
+Pressure: Suction
+Measuring Range:
+•
+O2- 0-25%
+With Sample handling system consisting of:
+•
+With Dual Gas Sampling Probe
+•
+With Common Scavenging box for Auto Probe Cleaning
+•
+With Isolation Valves, Needle Valves, Ball Valves
+•
+With Sample Gas Cooler
+•
+With Touch Screen Graphic – HMI
+•
+With Calibration Gas Cylinders
+Analyzer output:
+•
+Analog 4-20 mA
+•
+RS-485
+•
+Digital Outputs
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar near field rack
+•
+230VAC, 50 Hz power supply
+(For Detailed Specification Kindly Refer to Attached P&ID)
+1 Nos.
+QUOTED
+QUOTED
+2
+GAS ANALYSIS SYSTEM FOR O2 AT BAG FILTER OUTLET
+Make: SIEMENS
+Model: OXYMAT61
+Operating Principle: Paramagnetic
+Area Classification: Safe Area
+Mounting Location: Extractive type
+Component to be measured: O2
+Process Details:
+•
+Temperature: 150/250 Deg C
+•
+Pressure: Suction
+1 Nos.
+QUOTED
+QUOTED
+Measuring Range:
+•
+O2- 0-25%
+With Sample handling system consisting of:
+•
+With Dual Gas Sampling Probe
+•
+With Common Scavenging box for Auto Probe Cleaning
+•
+With Isolation Valves, Needle Valves, Ball Valves
+•
+With Sample Gas Cooler
+•
+With Touch Screen Graphic – HMI
+•
+With Calibration Gas Cylinders
+Analyzer output:
+•
+Analog 4-20 mA
+•
+RS-485
+•
+Digital Outputs
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar near field rack
+•
+230VAC, 50 Hz power supply
+(For Detailed Specification Kindly Refer to Attached P&ID)
+3
+GAS ANALYSIS SYSTEM FOR CO AT PULVERISED COAL BIN
+Make: SIEMENS
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Safe Area
+Mounting Location: Extractive type
+Component to be measured: CO
+Process Details:
+•
+Temperature: 100 Deg C
+•
+Pressure: Suction
+Measuring Range:
+•
+CO- 0-1% (To be confirmed by customer)
+With Sample handling system consisting of:
+•
+With Dual Gas Sampling Probe
+•
+With Common Scavenging box for Auto Probe Cleaning
+•
+With Isolation Valves, Needle Valves, Ball Valves
+•
+With Sample Gas Cooler
+•
+With Touch Screen Graphic – HMI
+•
+With Calibration Gas Cylinders
+Analyzer output:
+•
+Analog 4-20 mA
+1 Nos
+QUOTED
+QUOTED
+•
+RS-485
+•
+Digital Outputs
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar near field rack
+•
+230VAC, 50 Hz power supply
+(For Detailed Specification Kindly Refer to Attached P&ID)
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’s
+250 mtrs
+QUOTED PER MTR
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/
+AC II Train fare to be arranged by Customer)
+INCLUSIVE
+(FOR 2 MANDAYS, POST WHICH
+PER DIEM CHARGES (@30,000/-) SHALL BE
+APPLICABLE)

@@ -1,0 +1,62 @@
+Quotation Number: 2506W058
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR TRACE CH4 ,CO
+MEASUREMENT
+Service: Air Outlet of PPU Outlet & Product N2
+Make: Siemens
+Model: ULTRAMAT6E
+Operating Principle: NDIR
+Area Classification: ZONE 1
+Mounting Location: Extractive Type
+Component to be measured : CO,CH4
+Process conditions:
+•
+Temperature: 40 Deg C
+•
+Pressure: 25.30 -26.10 Kg/cm2g
+Measuring Range:
+•
+CO: 0 – 10 PPM
+•
+CH4: 0-50 PPM
+With Sample handling system consisting of:
+•
+With IP54 Purge panel suitable for zone 1 area to
+mount the analyser & SHS Component
+•
+With Filters, Pressure regulators, Ball Valves
+Analyzer output:
+•
+4-20 mA
+Utility requirement:
+•
+230 VAC, 50 Hz UPS Power Supply
+Notes:
+•
+Tapping with isolation to be provided by customer.
+1 Nos.
+98,92,000/-
+98,92,000/-
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1/4”
+Per Mtr
+650/-
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air
+Ticket/ AC II Train Fare to Be Arranged by Customer)
+Per Diem
+40,000/- PER MANDAY

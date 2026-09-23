@@ -1,0 +1,101 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+SECTION 2 : SCHEDULE OF PRICES
+Sr.
+No. Description
+Quantity
+Prices(INR)
+1.
+Gas Chromatograph for measurement of the following
+streams :-
+AE-1002 Make up gas from OSBL
+AE-1005 105 D-Syn gas feed
+AE-1006 105 D-Syn gas Effluent
+Make : Valmet
+1 Set
+1,92,00,000/-
+2.
+Electrochemical Oxygen Sensor
+Make : Mitchell / GE Panametrics
+1 Set
+3.
+Aluminum Oxide Moisture Sensor
+Make : Mitchell / GE Panametrics
+1 Set
+4.
+Sample Handling system for measurement of the
+above streams
+Make : Adage
+1 Set
+Page 5 of 6
+SECTION 3 : TECHNICAL LITERATURE
+S.No.
+Description
+Qty.
+A.
+BASE SCOPE
+1.1
+Gas Chromatograph
+Tag no: AT-1000
+Service: AE-1002 Make up gas from OSBL
+AE-1005 105 D-Syn gas feed
+AE-1006 105 D-Syn gas Effluent
+Make: Valmet
+Model: Maxum ED II
+Area classification: Zone-2 IIC
+Note: Instrument Air
+Process Parameters for stream 1
+-
+Sample Operating Pressure : 15Mpa ( 15kg/cm2)
+-
+Sample Operating Temperature: 37Deg C
+-
+Process Parameters for stream 2
+-
+Sample Operating Pressure : 15Mpa ( 15kg/cm2)
+-
+Sample Operating Temperature: 37.6Deg C
+Process Parameters for stream 3
+-
+Sample Operating Pressure : 15Mpa ( 15kg/cm2)
+-
+Sample Operating Temperature: 119Deg C
+Return Details: Low Pressure Header
+1 No
+B
+1⁄4” OD SS316 Tube
+•
+MOC & Size ; SS316 & 1⁄4” OD Size
+•
+Make : Sandvik
+10Mtrs X 3
+C
+Primary SHS assembly
+•
+With pressure reducer assembly, Pressure gauges, isolation valve etc.
+•
+Completely tubed and integrated in suitable size CRCA enclosure
+3 Sets
+E
+Secondary SHS :
+-
+With isolation Ball Valves, Fast loop Filter, Metal tube rotameters (Sample & Fast
+loop), Gauges with 2-way manifold, fine filter, Air operated Valves. and the same
+shall be mounted inside the CRCA enclosure cabinet.
+1 SET
+F
+Analyzer Panel Assembly for mounting of Analyser with Ex-Proof AC
+-
+MOC : CRCA
+-
+Make : Adage
+-
+With power distribution Panel for 230VAC, 50Hz UPS Supply Make FEPL
+-
+With power distribution Panel for 230VAC, 500Hz Non-UPS Supply Make FEPL
+1 SET
+G
+Calibration and Carrier Gas cylinders for Continuous operation of GC
+1 SET
+Page 6 of 6

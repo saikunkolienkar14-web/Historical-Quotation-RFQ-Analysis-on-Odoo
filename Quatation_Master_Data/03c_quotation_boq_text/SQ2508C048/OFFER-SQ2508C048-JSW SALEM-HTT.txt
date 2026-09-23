@@ -1,0 +1,40 @@
+Quotation Number: SQ2508C048
+BOQ Status: FOUND
+
+Date: 11-08-2025
+Ref: Q25260257-SQ2508C048
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18902001
+Heat Traced Tube 230 VAC 1/4"
+PTFE", Constant Voltage Type
+50.00
+2,200.00
+110,000.00
+1
+Tube Size :1/4" O.D
+Tube Material:PTFE Teflon
+No. of Tube:1
+Operating Voltage: 230 VAC
+Meters
+18902003
+Heat Traced Tube 230 VAC 1/2" SS"
+Constant Voltage
+50.00
+3,630.00
+181,500.00
+2
+Tube Size: 1/2" O.D
+Tube Material: SS 316
+No of Tube: 1
+Operating Voltage: 230 VAC
+Meters
+Date: 11-08-2025
+Ref: Q25260257-SQ2508C048

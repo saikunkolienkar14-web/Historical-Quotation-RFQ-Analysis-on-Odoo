@@ -1,0 +1,79 @@
+Quotation Number: Q2510N142
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total
+Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR BF GAS
+Service: BF gas before Scrubber
+Tag No: AIT-3601
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: CO/CO2 (NDIR)
+Model 2: CALOMAT6E
+Component to be measured: H2 (Thermal Conductivity)
+Area Classification: Safe
+Mounting Location: Panel mounted inside existing air conditioned
+room
+Process Conditions at Sample Inlet
+•
+Temperature(Min/Max): 100/300 oC
+•
+Pressure(Min/Max): 0.98/1.47 Kg/cm2
+Measuring Ranges:
+•
+CO: 0-50%
+•
+CO2: 0-50%
+•
+H2: 0-20%
+With Primary sample handling system Consisting of:
+•
+Auto Blowback-Facility
+•
+With Dual - probe System.
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Redundant Sample Gas Cooler
+•
+With Redundant Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With flowmeters, solenoid valves and condensate monitors.
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopad
+200
+meters
+(2 x
+100
+meters)
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per
+Diem
+QUOTED PER DIEM

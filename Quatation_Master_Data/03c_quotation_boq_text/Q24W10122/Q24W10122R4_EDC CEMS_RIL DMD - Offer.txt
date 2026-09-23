@@ -1,0 +1,188 @@
+Quotation Number: Q24W10122R3
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit price (INR)
+Total Price (INR)
+1
+SOx, NOx, CO, Chlorine Analyser
+2 Sets
+Quoted
+Quoted
+2
+HCL & Moisture Analyser
+2 Sets
+Quoted
+Quoted
+3
+SPM Analyser
+2 Sets
+Quoted
+Quoted
+4
+Temperature Transmitter,
+Temperature element & Thermowell
+2 Sets
+Quoted
+Quoted
+5
+Network components at Cabinet side
+1 Set
+Quoted
+Quoted
+5.1
+DAS PC & Datalogger with Software
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+5.2
+Datalogger
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+6
+Oxygen Analyser
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+7
+Project Documentation
+1 No
+Quoted
+Quoted
+8
+FAT at Adage Factory
+1 No
+Quoted
+Quoted
+8.1
+FAT at OEM’s works
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+8.2
+Remote FAT at OEM’s works
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+9
+Commissioning spares
+-
+Set of filter
+-
+Set of O ring
+-
+Set of Fuses
+1 No
+Quoted
+Quoted
+10
+Consumable spares
+1 Set
+Quoted
+Quoted
+11
+Packing, forwading & transportation
+upto Site charges
+1 No
+Quoted
+Quoted
+12
+Supervision of installation &
+commissioning
+60 Man days as per MR requirement
+Per
+diem
+Quoted
+Quoted
+13
+Special tools and tackles
+Not applicable
+0 No
+Not Quoted
+Not Quoted
+14
+Training at Site
+For 5 days
+Per
+Diem
+Quoted
+Quoted
+15
+Mandatory spares (As per Adage
+Recommendation)
+1 No
+Quoted
+Quoted
+16
+2 Years O&M spares (As per Adage
+Recommendation)
+1 No
+Quoted
+Quoted
+17
+Isokinetic sampling (Only for
+commissioning)
+1 No
+Quoted
+Quoted
+Adition/Deletion rates
+1
+1⁄4‘‘ PTFE HTT Tube
+Per meter
+Quoted
+Quoted
+2
+3C Power cable
+Per meter
+Quoted
+Quoted
+3
+RS 485 Serial cable
+Per meter
+Quoted
+Quoted
+SECTION 2 : ANALYSER DETAILS/ASSUMPTIONS
+We have Quoted below Analysers for EDC CEMS project
+A. HCl & Moisture Analyser (Both measurement considered)
+a. Make: Siemens, Model: LDS6 (Insitu Type)
+b. Sensor unit is certified for Zone 2 llC T3 & Control unit shall be mounted inside purged enclosure
+certified for Zone 2 llC T3.
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each
+measuring component. This also has digital outputs for customer configuration.
+B. Cl2(Chlorine) Analyser
+a. Make: Ametek, Model: 9900
+b. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for
+measuring component. This also has digital outputs for customer configuration.
+C. SPM Analyser
+a. Make: Durag, Model: Dr 320 Ex
+b. SPM shall be Ex’p‘ certified for Zone 2 llC T3
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each
+measuring component. This also has digital outputs for customer configuration.
+D. SO2,NO,CO Analyser
+d. Make: Siemens, Model: Ultramat 6F
+e. Ultramat 6F shall be Ex’p‘ certified for Zone 2 llC T3
+f. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each
+measuring component. This also has digital outputs for customer configuration.
+2. Hazardous area classification is mentioned as Zone 2 llC T3 in ‘‘Sr no 4 of datasheet‘‘ for Analysers,
+SHS & Probe. However in ‘‘Sr no 10 of datasheet‘‘ hazardous area is mentioned as Zone 1 llC T3. We
+understand that Hazardous area to be considered for all analysers and other electrical equipments for
+this CEMS package as Zone 2 llC T3.
+3. Calibration gas cylinder shall be supplied for 6 months operation from the date of commissioning. Further
+refilling shall be taken care by customer.
+4. Tkis shall provide single point tie in for UPS and Non UPS at the cabinet side. Further distribution shall
+be taken care by Adage.
+5. For PM Analyser power cable from cabinet UPS power supply to PM analyser at stack by Adage.

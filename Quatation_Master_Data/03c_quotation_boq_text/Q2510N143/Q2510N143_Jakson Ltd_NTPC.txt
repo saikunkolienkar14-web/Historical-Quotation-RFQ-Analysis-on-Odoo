@@ -1,0 +1,370 @@
+Quotation Number: Q2510N143
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+SO2/NO2/CO2 MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDUV
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+Measuring Range:
+•
+CO2: 0-20/100%
+•
+NO2: 0-50/1250 mg/m3
+•
+SO2: 0-50/1250 mg/m3
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valves.
+•
+With Secondary SHS consisting of Flowmeter.
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+2
+pH MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH
+Measuring Ranges:
+•
+pH: 0-14
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+4 Sets
+QUOTED
+QUOTED
+3
+CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: Conductivity
+Measuring Ranges:
+•
+Conductivity: 0-500 μS/cm
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 Sets
+QUOTED
+QUOTED
+4
+CO2 MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+Measuring Range:
+•
+CO2: 0-20/100%
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valve.
+•
+With Secondary SHS consisting of Flowmeters.
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3 Sets
+QUOTED
+QUOTED
+NTPC PUDUMATKA SITE
+1
+CO, CO2, CH4, N2, O2 MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+Measuring Range:
+•
+CO2: 0-5/25%
+•
+CH4: 0-1/5%
+•
+O2: 0-25%
+•
+CO: 0-20/100%
+•
+N2: 0-100%
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valve.
+•
+With Secondary SHS consisting of Flowmeters.
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+N2 shall be done on calculative basis and displayed in the HMI.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+1.1
+CO, CO2, CH4, N2, O2 MEASUREMENT ANALYSER SYSTEM-
+OPTION 2
+Service: To be provided by customer
+Make: Siemens
+Model: ULTRAMAT23
+Principle: NDIR
+Make: Siemens
+Model: CALOMAT6E
+Principle: TCD
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Pressurised (To be provided by
+customer)
+•
+Temperature (Nor/Design): (To be provided by customer)
+•
+Line Size: (To be provided by customer)
+Measuring Range:
+•
+CO2: 0-20/100%
+•
+CH4: 0-1/5%
+•
+O2: 0-25%
+•
+CO: 0-20/100%
+With Sample Conditioning System:
+•
+With Probe
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure
+Gauges, Pressure Regulators, Safety Relief Valve.
+•
+With Secondary SHS consisting of Flowmeters.
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+•
+RS485
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+N2 shall be done on calculative basis and displayed in the HMI.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)2
+1 Set
+QUOTED
+QUOTED
+2
+pH & CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH & Conductivity
+Measuring Ranges:
+•
+pH: 0-14
+•
+Conductivity: 0-500 μS/cm
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+3
+pH MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Safe
+Component to be measured: pH
+Measuring Ranges:
+•
+pH: 0-14
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+4
+BIOGAS MEASUREMENT ANALYSER SYSTEM
+Service: To be provided by customer
+Make: Union
+Model: INCA4003
+Component to be measured: CO2/CH4/O2/H2S
+Area Classification: Safe
+Mounting Location: Extractive Type
+Sample tapping details:
+•
+Kindly provide process duct ID/OD. For now, we have
+considered tapping points
+Measuring Range:
+•
+CO2: 0-100%
+•
+CH4: 0-100 %
+•
+O2: 0-25%
+•
+H2S: 0-1000ppm
+With Sample handling system consisting of:
+•
+With rack to mount the analyser & SHS Components like
+pressure regulators, gauges, etc
+•
+With Calibration Gas Cylinders
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+5
+PORTA CABIN WITH AC
+Make: Adage
+Porta cabin of size: 3mtrs X 3mtrs X 2.5mtrs
+SPECIFICATIONS:
+STRUCTURE : The base structure of the Porta Cabin shall be
+constructed using ISMC 75 and angles welded properly and adequately.
+All structural members shall be sized to ensure structural rigidity and to
+prevent deformation during dragging, lifting, loading and unloading
+operation of the Porta Cabin.
+FLOORING: The floor shall be fabricated from anti-slip and non-
+corrosive M.S chequered plates of 2 mm thick.
+ROOF: Top outer curved type of CRCA 1.2mm plain sheet welded with
+CRCA frame structure. Top inner is of 1.2mm plain sheet.
+EXTERNAL & INTERNAL: External sidewalls shall be ribbed
+interlocking CRCA sheet of 1.2 mm thickness and internal walls shall
+be CRCA sheet of 1.00 mm thickness.
+INSULATION: 50mm Rock wool 48kg/m3 Density
+DOORS: The Porta Cabin shall be provided with 1 no. door of size 1000
+W X 2000 H with safety glass window, suitable locking arrangement and
+automatic spring door closer opening by simple push.
+OTHERS:
+1. Hooks for easy lifting and shifting will be provided.
+2. Suitable A.C mounting plates will be provided on the side at
+required location
+3. WITH Door & Cylinder Canopy.
+4. Split AC- 1 ton
+PAINTING:
+Porta Cabin shall be treated and painted as follows:
+1. All surfaces including structures shall be treated and grinding
+done so that they are smooth and free of scale, rust etc.
+2. If necessary suitable filler shall be applied to all pits and
+blemishes on surfaces.
+3. Final coating will be outside RAL7035 and Inside – Brilliant white
+1 Set
+QUOTED
+QUOTED
+ADDITIONAL PRICES
+1
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+PER
+MTR
+@ QUOTED PER METER
+2
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per
+Diem
+@ QUOTED PER DIEM

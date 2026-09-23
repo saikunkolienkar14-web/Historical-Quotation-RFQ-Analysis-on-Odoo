@@ -1,0 +1,14 @@
+Quotation Number: SQ2506W139
+BOQ Status: FOUND
+
+PART NO.
+DESCRIPTION
+TOTAL PRICE
+1.
+28602231
+Opto Module with laser source.
+8,30,000.00
+Configuration of software.
+Factory calibration of Opto module.
+Laser temperature stabilization.
+Temperature compensation of complete Analyzer.

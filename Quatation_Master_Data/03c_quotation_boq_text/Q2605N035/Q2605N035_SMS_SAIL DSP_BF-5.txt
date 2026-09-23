@@ -1,0 +1,834 @@
+Quotation Number: Q2605N035
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+OPTION-1 (CONVENTIONAL)
+Sl
+No
+Description
+Qty
+UOM
+Unit Price (in INR)
+Final Price (in INR)
+1
+GAS ANALYSER SYSTEM FOR BALL
+MILL INLET/BOOSTER FAN IL/PCSB
+4
+Nos
+₹ 24,55,000.00
+₹ 98,20,000.00
+2
+GAS ANALYSER SYSTEM FOR BAG
+FILTER INLET
+2
+Nos
+₹ 20,12,000.00
+₹ 40,24,000.00
+3
+GAS ANALYSER SYSTEM FOR GCP
+CLEAN GAS
+1
+Nos
+₹ 40,71,000.00
+₹ 40,71,000.00
+4
+GAS ANALYSER SYSTEM FOR COLD
+BLAST
+1
+Nos
+₹ 17,80,000.00
+₹ 17,80,000.00
+5
+GAS ANALYSER SYSTEM FOR ABP
+1
+Nos
+₹ 82,72,000.00
+₹ 82,72,000.00
+1
+GAS ANALYSER SYSTEM FOR BALL MILL INLET/BOOSTER FAN
+I/L/PCSB
+Application: Ball Mill Inlet/Booster Fan Inlet/PCSB
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: CO & O2
+Principle: NDIR & Paramagnetic
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg
+C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-25%
+•
+O2: 0-21%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Dual Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+4 Nos
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR BAG FILTER INLET
+Application: Bag Filter Inlet
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: CO
+Principle: NDIR
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-25%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Dual Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 No
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM FOR CLEAN GAS AT GCP
+Application: Clean Gas at GCP
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: CO, CO2 & O2
+Principle: NDIR & Paramagnetic
+Model: CALOMAT6E
+Component to be measured: H2
+Principle: TCD
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-50%
+•
+CO2: 0-50%
+•
+O2: 0-25%
+•
+H2: 0-20%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Dual Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+4
+GAS ANALYSER SYSTEM AT COLD BLAST
+Application: Cold Blast
+Make: Siemens
+Model: OXYMAT61
+Component to be measured: O2
+Principle: Paramagnetic
+Make: Shaw/Michell/Rotronics
+Component to be measured: Moisture
+Principle: Aluminum Oxide
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+O2: 0-21%
+•
+H2O: 0-100 ppm
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+5
+GAS ANALYSER SYSTEM FOR ABP
+Application: ABP
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: CO & CO2
+Principle: NDIR
+Model 2: CALOMAT6E
+Component to be measured: H2
+Principle: TCD
+No of Sampling Points: 6
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-50%
+•
+CO2: 0-50%
+•
+H2: 0-20%
+With Dual Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Scavenging Panel
+With Single Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Sample Gas Cooler
+•
+With Sample Gas Pump
+•
+With Calibration Gas Cylinders
+•
+With Solenoid valves and condensate monitors.
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+MODBUS RS485
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+SECTION 1: SUMMARY OF PRICES
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+OPTION-2 (LASER BASED)
+Sl
+No
+Description
+Qty
+UOM
+Unit Price (in INR)
+Final Price (in INR)
+1.1
+LASER ANALYSER SYSTEM FOR BALL
+MILL INLET/BOOSTER FAN IL (IN-SITU)
+3
+Nos
+₹ 65,05,000.00
+₹ 1,95,15,000.00
+1.2
+LASER ANALYSER SYSTEM FOR BAG
+FILTER INLET (EXTRACTIVE)
+1
+Nos
+₹ 55,41,000.00
+₹ 1,10,82,000.00
+1.3
+LASER ANALYSER SYSTEM FOR PCSB
+(EXTRACTIVE)
+1
+Nos
+₹ 77,77,000.00
+₹ 77,77,000.00
+1.4
+GAS ANALYSER SYSTEM FOR GCP
+CLEAN GAS
+1
+Nos
+₹ 1,24,71,000.00
+₹ 1,24,71,000.00
+1.5
+GAS ANALYSER SYSTEM FOR COLD
+BLAST
+1
+Nos
+₹ 69,86,000.00
+₹ 69,86,000.00
+1.6
+GAS ANALYSER SYSTEM FOR ABP
+1
+Nos
+₹ 1,73,00,000.00
+₹ 1,73,00,000.00
+1.1
+GAS ANALYSER SYSTEM FOR BALL MILL INLET/BOOSTER FAN
+I/L
+Application: Ball Mill Inlet/Booster Fan I/L
+Make: Airoptics
+Model: Gaseye
+Component to be measured: CO & O2
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: In-situ
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg
+C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-25%
+•
+O2: 0-21%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3 Nos
+QUOTED
+QUOTED
+2.1
+GAS ANALYSER SYSTEM FOR BAG FILTER INLET
+Application: Bag Filter Inlet
+Make: Airoptics
+Model: Gaseye
+Component to be measured: CO
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-25%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Dual Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With Rack to mount the analyser & SHS Component
+•
+Heated Flow Through Cell for Mounting of Laser Analyser
+•
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas and Bypass
+•
+With Required Cylinders for Calibration
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 No
+QUOTED
+QUOTED
+3.1
+GAS ANALYSER SYSTEM FOR PULVERIZED COAL STORAGE BIN
+(PCSB)
+Application: PCSB
+Make: Airoptics
+Model: Gaseye
+Component to be measured: CO & O2
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-25%
+•
+O2: 0-21%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Dual Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With Rack to mount the analyser & SHS Component
+•
+Heated Flow Through Cell for Mounting of Laser Analyser
+•
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas and Bypass
+•
+With Required Cylinders for Calibration
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+4.1
+GAS ANALYSER SYSTEM FOR CLEAN GAS AT GCP
+Application: Clean Gas at GCP
+Make: Airoptics
+Model: Gas Eye x 2 Nos
+Component to be measured: CO/CO2/O2/H2
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-50%
+•
+CO2: 0-50%
+•
+H2: 0-20%
+•
+O2: 0-25%
+With Primary sample handling system Consisting of:
+•
+With Dual probe System
+•
+With Dual Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With Rack to mount the analyser & SHS Component
+•
+Heated Flow Through Cell for Mounting of Laser Analyser
+•
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas and Bypass
+•
+With Required Cylinders for Calibration
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+5.1
+GAS ANALYSER SYSTEM AT COLD BLAST
+Application: Cold Blast
+Make: Airoptics
+Model: Gaseye
+Component to be measured: H2O & O2
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+O2: 0-21%
+•
+H2O: 0-100 ppm
+With Primary sample handling system Consisting of:
+•
+With Single probe System
+•
+With Scavenging Panel
+With Secondary sample handling system consisting of:
+•
+With Rack to mount the analyser & SHS Component
+•
+With Flow Through Cell for Mounting of Laser Analyser
+•
+With Required Cylinders for Calibration
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+6.1
+GAS ANALYSER SYSTEM FOR ABP
+Application: ABP
+Make: Airoptics
+Model: Gaseye x 2 Nos
+Component to be measured: CO, CO2 & H2
+No of Sampling Points: 6 x 2 Nos
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): To be provided by customer Deg C
+•
+Pressure: To be provided by customer (g)
+Measuring Ranges:
+•
+CO: 0-50%
+•
+CO2: 0-50%
+•
+H2: 0-20%
+With Primary sample handling system Consisting of:
+•
+With 6 probe System for each scavenging panel
+•
+Consisting of Ball Valves, Heated Filters, Air Operated Valves,
+Solenoid Valves, Flow Monitor
+With Single Secondary sample handling system consisting of:
+•
+With Heated Flow through cell mounted on a rack
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+SECTION 1: SUMMARY OF PRICES
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+COMMON ITEMS
+Sl
+No
+Description
+Qty
+UOM
+Unit Price (in INR)
+Final Price (in INR)
+8
+GAS ANALYSER SYSTEM FOR CV
+ANALYSER
+1
+Nos
+₹ 66,97,000.00
+₹ 66,97,000.00
+9
+GAS ANALYSER SYSTEM FOR CEMS
+2
+Nos
+₹ 34,08,000.00
+₹ 68,16,000.00
+9.1
+SPM FOR STACK- IN-SITU TYPE
+2
+Nos
+₹ 14,08,000.00
+₹ 28,16,000.00
+9.2
+FLOWMETER FOR STACK
+2
+Nos
+₹ 9,72,000.00
+₹ 19,44,000.00
+10
+HEAT TRACE TUBE FOR SAMPLE GAS
+TRANSPORTATION-1/4" PTFE HTT
+1
+Mtr
+₹ 2,650.00
+₹ 2,650.00
+11
+HEAT TRACE TUBE FOR SAMPLE GAS
+TRANSPORTATION-1/2" SS HTT
+1
+Mtr
+₹ 3,000.00
+₹ 3,000.00
+12
+SAMPLE TUBE FOR SAMPLE GAS
+TRANSPORTATION-1/4" PTFE
+1
+Mtr
+₹ 750.00
+₹ 750.00
+13
+SPARE PARTS FOR CONSUMABLES &
+COMMISSIONING (RECOMMENDED)
+1
+Lumpsum
+₹ 6,05,000.00
+₹ 6,05,000.00
+14
+SUPERVISION OF INSTALLATION &
+COMMISSIONING CHARGES
+1
+Per Diem
+₹ 30,000.00
+₹ 30,000.00
+8
+CV ANALYSER SYSTEM
+Application: Blast Furnace Gas
+Make: Union, Model: CWD
+Process Conditions:
+•
+Temperature (Min/Norm/Max) :To be provided by customer Deg
+C
+•
+Pressure (Min/Norm/Max): To be provided by customer mmWC
+•
+Dust Content: To be provided by customer mg/Nm3
+Measuring Range:
+•
+CV: 850-900 Kcal/Nm3
+Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: BF Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+Digital Outputs
+•
+4-20 mA analog output
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+9
+GAS ANALYSER SYSTEM AT PCI STACK/STOVES
+Application: PCI Stack/Stoves
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: CO, NO, SO2 & O2
+Principle: NDIR & Paramagnetic
+Area Classification: Safe
+Mounting Location: Extractive Type
+Measuring Range:
+•
+NO: 0-400/2000 mg/Nm3
+•
+CO: 0-250/1250 mg/Nm3
+•
+SO2: 0-400/2000 mg/Nm3
+•
+O2: 0-25%
+With Primary sample handling system Consisting of:
+•
+With Single probe System
+•
+With Blowback Unit
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyser & SHS Component
+•
+With Auto Probe Cleaning, Sample Gas Cooler, Sample Gas
+Pump, Solenoid valves and condensate monitors
+•
+With Calibration Gas Cylinders
+•
+With Remote Calibration
+Analyzer output:
+•
+Individual 4-20 mA for each component
+•
+Digital Outputs
+Notes:
+•
+Total NOx values shall be reported as NO2 i.e., NOx = NO + NO2
+= NO X 1.53 + NO2 = NOx as NO2.
+•
+Either of O2 or CO2 shall be measured as per the CPCB
+guidelines.
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+2 No
+QUOTED
+QUOTED
+9.1
+DUST MONITOR
+Make: Sick / Durag, Germany
+Mounting Type: In-situ
+Measuring Principle: Backward Scattering
+Utility requirement: instrument air free from oil, dust & moisture at 4/5 bar
+to be provided by customer
+2 No
+QUOTED
+QUOTED
+9.2
+FLOW, PRESSURE AND TEMPERATURE TRANSMITTER
+Make: Adage (Flow)
+Mounting Type: In-situ
+Measuring Principle: Pitot Tube type
+Make: Honeywell/Wika (Pressure/Temperature)
+Utility requirement: Instrument air free from oil, dust & moisture at 4/5 bar
+to be provided by customer
+2 No
+QUOTED
+QUOTED
+9.3
+MANUAL SAMPLING POINT
+2 No
+NOT
+QUOTED
+NOT
+QUOTED
+10
+SPARE PARTS FOR CONSUMABLES & COMMISSIONING
+(RECOMMENDED)
+Solenoid valves- 1 No
+Pressure regulators- 1 No
+Filters- 1 No
+Temperature controller- 1 No
+Set of fuses- 1 No
+Set of O-rings- 1 No
+1 Lot
+QUOTED
+QUOTED
+11
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopads
+PER
+MTR
+QUOTED
+QUOTED
+12
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermopads
+PER
+MTR
+QUOTED
+QUOTED
+13
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+PER
+MTR
+QUOTED
+QUOTED
+14
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+PER
+DIEM
+@QUOTED PER DIEM

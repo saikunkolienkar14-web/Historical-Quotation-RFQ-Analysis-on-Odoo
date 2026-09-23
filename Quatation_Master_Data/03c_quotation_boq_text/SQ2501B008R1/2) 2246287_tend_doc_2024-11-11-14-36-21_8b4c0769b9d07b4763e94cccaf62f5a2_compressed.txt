@@ -1,0 +1,711 @@
+Quotation Number: SQ2501B008R1
+BOQ Status: FOUND
+
+Subject: AMETEK ANALYSER SPARES
+Kind Attn:
+Please quote your lowest prices for the supply of materials/services as per
+details given below. The quotation shall show separately and clearly (without
+any corrections) the basic price, discount (%), packing & forwarding (%), GST,
+freight(%), other charges, etc against each item separately, as applicable.
+Foreign vendors shall always quote their FOB prices against each item.
+Rates/charges quoted in the quotation shall be final and no additional
+charges/corrections will be accepted after the receipt of quotation unless the
+same is necessitated by BPCL in writing.
+_______________________________________________________________________
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+SPARES FOR ADA ANALYSER AT DHDS SRU
+MAKE: AMETEK
+MODEL: 900 CE - ADA
+00010
+59.03.64.232.5
+2
+each
+FITTING HAG/ASR PROBE 300-8544 ADA DSAC
+17.05.2025
+ADA/FEED GAS; ASR or HAG Probe flow restrictor.
+Make: AMETEK
+Models: 919/930/900 CE
+Part No: 300-8544
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+To,
+M/s. BPCL ESTIMATE
+MUMBAI . India - 400038.
+Ph:,Fax:.
+Vendor Code:300648
+Quotation Due Date/Time:25.11.2024/16:00:00
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+REQUEST FOR QUOTATION
+Collective RFQ Number/ Purchase Group
+1000426350 / J06-INSTRUMENT ITEMS
+Contact person/Telephone
+BINOY C. NEDUMPURAM/0484-2821605
+Fax : -
+Email:binoyc@bharatpetroleum.in
+Our ref.: 2246287
+RFQ No/Date: 6001814617 / 11.11.2024
+Page 1 of 17
+QUOTED
+INCLUSIVE
+9033.00.00
+GOA
+NA
+NA
+NA
+NA
+OFFER NO:SQ2501B008R1
+DTD:24-01-2025
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+SPARES FOR THERMOX O2 ANALYSER MAKE :AMETEK PROCESS INSTRUMENT
+00020
+59.03.63.242.1
+4
+each
+GASKET SET SILICONE 100.0893 AMETEKDHDS
+17.05.2025
+Analysers,Oxygen,Parts
+Name GASKET SET
+Mat SILICONE 33G/45G
+Manufacturer AMETEK PROCESS INSTRUMENTS
+Reference-number 100.0893
+Equipment-number AMETEKDHDS
+O2 ANALYSER
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+INCINERATOR DHDS SRU
+AMETEK SO2 ANALYSER
+00030
+59.03.64.200.5
+4
+each
+FILTER CERAMIC SO2 ANALYZER DSAI2602
+17.05.2025
+Name CERAMIC FILTER
+Manufacturer M&C
+Reference-number M&C PROBE MODEL SP200
+Measurements: 30/15 MM DIA. X 150 MM LONG
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 2 of 17
+INCLUSIVE
+NA
+NA
+NA
+INCLUSIVE
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+REGRET
+REGRET
+NA
+NA
+NA
+NA
+NA
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+BOTH END OPEN
+Operating temp: 600 DEG.
+Equipment-number SO2 ANALYSER DSAI2602
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00040
+59.03.64.197.5
+6
+each
+EEPROM 300-1582 AMETEK 2K X 8BITS ADA
+17.05.2025
+"Name EEPROM, 2K X 8BITS"
+Manufacturer AMETEK
+Reference-number 300-1582
+Equipment-number ADA ANALYSER
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00050
+59.03.63.044.5
+2
+each
+BOARD SENSOR 80485SE AMETEK
+17.05.2025
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 3 of 17
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+9033.00.00
+GOA
+QUOTED
+QUOTED
+NA
+NA
+NA
+NA
+NA
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Analysers Oxygen Parts
+Name SENSOR BOARD
+Manufacturer AMETEK PROCESS INSTRUMENTS
+Reference-number 80485SE
+Equipment-number AMETEK /THERMOX -02
+DDH1 INCINERATOR
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+Spares for ADA & Feedgas Analyzer
+Make : Ametek
+Supplier: Chemtrols Industries Limited
+Equipment : DS2-AT-1101, DS2-AT-2001,
+DS-AT-2001, DS-AT-6001 & DS-AT-1001
+00060
+59.03.67.330.5
+1
+each
+INSERT ASPIRATR AMETEK 3004926 DS2AT1101
+17.05.2025
+Name INSERT ASPIRATOR
+Mat TEFLON
+Manufacturer AMETEK PROCESS&ANALYT. INSTRU
+Reference-number 300-4926
+Equipment-number DS2AT1101/DSAT1001
+FOR FEED GAS ANALYZER
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 4 of 17
+NA
+NA
+NA
+NA
+INCLUSIVE
+NA
+NA
+NA
+9033.00.00
+GOA
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+NA
+INCLUSIVE
+9033.00.00
+GOA
+QUOTED
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00070
+59.03.63.122.5
+1
+each
+DISPLAY UNIT 90219VE AMETEK
+17.05.2025
+Analysers Oxygen Parts
+Name DISPLAY UNIT FOR CONTROLLER
+Manufacturer AMETEK PROCESS INSTRUMENTS
+Reference-number 90219VE
+Equipment-number AMETEK /THERMOX -02
+DDH1 INCINERATOR
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00080
+59.03.63.796.5
+2
+each
+VLV CHECK 301-1422 AMETEK 900/931
+17.05.2025
+SHORT DESCRIPTION : VLV CHECK 301-1422 AMETEK 900/931
+PART NUMBER : 301-1422
+MNFR : AMETEK
+MATGRP : 59
+UOM : EA
+NAME : CHECK VALVE 1/4 INCH (T) X 1/8 INCH NPT
+301-1422 AMETEK
+ANALYZER MODEL : 900/931
+EQUIPMENT TAG NUMBER : ISAT2201, ISAT5201, ISAT1101
+ISTAT1501/1502, ISTAT2501/2502
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 5 of 17
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+9033.00.00
+GOA
+QUOTED
+QUOTED
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+GAS ANALYSER/PARTS
+00090
+59.03.65.877.5
+2
+each
+VLV SEAL KIT AMETEK H2S FEEDGAS ANALYSER
+17.05.2025
+Name VALVE SEAL KIT
+Mat SS
+Manufacturer SWAGELOK
+Reference-number SS-91K-63T-SG
+SEAL KIT FOR 63 SERIES SOUR GAS CERTIFIED BALL VALVE
+"EQUIPMENT:FEED GAS ANALYSER(DS2AT1101,DSAT1001)"
+MANUFACTURER:SWAGELOK
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 6 of 17
+NA
+NA
+NA
+NA
+INCLUSIVE
+NA
+NA
+NA
+NA
+9033.00.00
+GOA
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+REGRET
+NA
+NA
+NA
+NA
+NA
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+SPARES FOR ADA ANALYSER AT DHDS SRU
+MAKE: AMETEK
+MODEL: 900 CE - ADA
+00100
+59.09.85.521.5
+8
+each
+O-RING AFLAS 300.8722 AMETEK ASRPROBE
+17.05.2025
+Name O-RING AFLAS
+Manufacturer AMETEK CANADA LP
+Reference-number 300.8722
+Equipment-number ADA ASR PROBE
+Equipment Location IREP/DHDS/VGO SRU UNIT
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00110
+59.09.85.523.5
+5
+each
+O-RING ASPIR 300.4651 CHEMTROLS ASRPROBE
+17.05.2025
+Analysers,Co/SO2/Nox,Parts
+Name O-RING SILICONE ASPIRATOR INSERT
+Manufacturer CHEMTROLS INDUSTRIES LTD.
+Reference-number 300.4651
+Equipment-number ADA ASR PROBE -DHDS SRU
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 7 of 17
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+INCLUSIVE
+9033.00.00
+GOA
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+INCLUSIVE
+9033.00.00
+GOA
+QUOTED
+QUOTED
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00120
+59.03.62.580.5
+1
+each
+POWER SUPPLY AMETEK M.AN CRAT1304
+17.05.2025
+Name POWER SUPPLY /KEY BOARD AND MO
+Manufacturer AMETEK
+Reference-number 500124901
+Equipment-number MOISTURE ANALYSER(CAT-II) DHDS
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+00130
+59.03.63.079.5
+2
+each
+CELL ZIRCONIA AMETEK 70949KE O2 ANALYSER
+17.05.2025
+Name CELL ZIRCONIA
+Manufacturer AMETEK PROCESS INSTRUMENTS
+Reference-number 70949KE
+Equipment-number O2 ANALYSER
+MODEL: WDG-IV UOP
+EQUIPMENT: CCR CYCLEMAX O2 ANALYSER
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 8 of 17
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+INCLUSIVE
+9033.00.00
+GOA
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+INCLUSIVE
+9033.00.00
+QUOTED
+QUOTED
+Item
+Material
+Qty
+Unit
+Unit Basic Rate
+Description
+Delivery date
+(in Figures)
+_______________________________________________________________________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+SPARE FOR TRAIN A/B AIR DEMAND ANALYSERS.
+AMETEK 9000 SERIES
+00140
+59.03.67.060.5
+1
+each
+BOARD TERMIN 100-1534AMETEKDHDS DSAT2001
+17.05.2025
+Name TERMINATION BOARD
+Manufacturer AMETEK
+Reference-number 100-1534
+Equipment-number 900ADA DSAT2001
+State GST % : ________ % Central GST % : ________ % Integrated GST % : ________ %
+Union Ter. GST % : ________ % GST Comp. Cess % : ________ %
+HSN Code / SAC Code : ______________
+Billing State : ______________
+Packing & Forwarding Charges : ________ % per unit OR ____________ (INR) per unit
+Freight Charges : ________ % per unit OR ____________ (INR) per unit
+Third party Inspection charges : ________ % per unit OR ____________ (INR) per unit
+Other charges (if any ) : Please specify separately
+_______________________________________________________________________
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 9 of 17
+GOA
+INCLUSIVE
+INCLUSIVE
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+INCLUSIVE
+INCLUSIVE
+INCLUSIVE
+NA
+9033.00.00
+GOA
+QUOTED
+1.Supplement-RFQ only
+THIS IS AN OEM TENDER. THE BID SUBMITTED BY THE OEM BIDDER OR THEIR
+AUTHORISED DEALER WILL ONLY BE CONSIDERED FOR EVALUATION. DEALERS MUST UPLOAD
+AUTHORISED DEALERSHIP CERTIFICATE FROM THE OEM FOR CONSIDERING THEIR OFFER.
+THIS IS A TENDER THROUGH GeM PORTAL:
+DIGITALLY SIGNED QUOTATIONS IN TWO BIDS ARE INVITED FROM VENDORS FOR THE
+SUBJECT ITEMS AS PER THE ENCLOSED TENDER DOCUMENTS.
+GENERAL NOTE TO THE VENDORS:
+DEVIATION TO TENDER CONDITIONS:
+DEVIATION TO ANY OF THE TENDER CONDITIONS IS NOT AT ALL ACCEPTABLE.
+DELIVERY PERIOD: -
+WITHIN 12 WEEKS FROM THE DATE OF PURCHASE ORDER F.O.R. BPCL-KOCHI REFINERY
+BASIS. SINCE TIME IS THE ESSENCE OF THIS CONTRACT, SUPPLY OF MATERIAL WITHIN
+THE DELVIERY PERIOD SHALL BE A TENDER CONDITION FOR SMOOTH RUNNING OF THE
+REFINERY. OFFERS WHICH ARE NOT MEETING ABOVE DELIVERY REQUIREMENT WILL NOT BE
+CONSIDERED FOR EVALUATION.
+SPECIAL NOTE:
+THE DELIVERY PERIOD MENTIONED IN THIS NOTE SUPERSEDES THE DELIVERY DATE /
+PERIOD, IF ANY, MENTIONED ELSEWHERE IN THE TENDER.
+DELIVERY POINT:
+THE ABOVE DELIVERY PERIOD SHALL BE FOR DELIVERY POINT F.O.R. DESTINATION
+(BPCL-KOCHI REFINERY). KINDLY MENTION THE DELIVERY POINT AS BPCL-KOCHI
+REFINERY IN OUR COMMERCIAL FORMAT.
+PRICE:
+PLEASE QUOTE F.O.R. DESTINATION PRICE. MATERIAL TO BE DELIVERED ON FREIGHT
+PAID BASIS.
+RATES PER UNIT:
+OFFER SHALL BE SUBMITTED WITH RATES PER UNIT AS PER THE UNIT OF MEASUREMENT
+SHOWN IN THE REQUEST FOR QUOTATION.
+PLEASE NOTE THAT THE ITEM RATE QUOTED IN THE BID MUST BE BOTH IN FIGURES AND
+WORDS.
+BID REJECTION CRITERIA FOR TENDER:
+RFQ Number :6001814617
+Date : 11.11.2024
+To:M/s. BPCL ESTIMATE MUMBAI - 400038 India (300648)
+For Bharat Petroleum Corporation Ltd.
+Vendor Sign & Stamp
+Page 10 of 17
+KINDLY REFER DEVIATION SHEET
+THE FOLLOWING PROVISIONS OF THE BIDDING DOCUMENT MUST BE ADHERED TO WITHOUT
+DEVIATION, FAILING WHICH THE BID SHALL BE CONSIDERED TO BE NON - RESPONSIVE
+AND REJECTED
+A) BID VALIDITY
+B) TIME SCHEDULE

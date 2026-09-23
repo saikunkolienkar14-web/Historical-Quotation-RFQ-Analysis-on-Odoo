@@ -1,0 +1,71 @@
+Quotation Number: EMAIL
+BOQ Status: FOUND
+
+Mob: + 91 9629393373
+(Adage-REGIONAL)
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR.
+NO.
+ITEM DESCRIPTION
+PART NOS
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+Wiring Module, P/N 880024901
+880024901
+1
+11,01,756.00
+11,01,756.00
+2
+Absolute Pressure Transmitter P/N: 280465003
+280465003
+1
+21,22,367.00
+21,22,367.00
+3
+Sample Inlet valve, P/N: 271446001
+271446001
+1
+4,61,620.00
+4,61,620.00
+4
+Viton O-ring window seal, P/N: 202813026
+202813026
+1
+12,623.00
+12,623.00
+5
+Power supply/keypad mod, P/N: 90253VE
+90253VE
+1
+4,94,077.00
+4,94,077.00
+6
+Processor board module, P No. 90219VE
+90219VE
+1
+13,90,268.00
+13,90,268.00
+7
+Cell Zirconia part 71063SE, O2 Analy, CIL
+71063SE
+1
+5,06,700.00
+5,06,700.00
+8
+Board, sensor cenelec, 80505SE
+80505SE
+1
+Correct Part No
+Required
+Correct Part No
+Required
+9
+K Type TC, ungrounded, P.N. 71697KE
+71697KE
+1
+1,35,240.00
+1,35,240.00

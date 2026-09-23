@@ -1,0 +1,128 @@
+Quotation Number: Q2603N017
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl No
+Description
+UOM
+Qty
+Unit Price
+Final Price
+1
+Dew point & O2 Analyser
+Set
+1
+₹ 25,00,000.00
+₹ 25,00,000.00
+2
+Gas Analyser System using a Gas
+Chromatograph & Trace H2
+Set
+1
+₹ 1,50,00,000.00
+₹ 1,50,00,000.00
+3
+Sample Line- SS316
+Per mtr
+1
+₹ 950.00
+₹ 950.00
+4
+Supervision of Installation and
+commisioning
+Per diem
+1
+₹ 45,000.00
+₹ 45,000.00
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+DEW POINT/MOISTURE ANALYSER
+Application: H2/O2 service
+Make: Shaw/Michell
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+Dew Point: -110°C to 20°C
+1 SET
+QUOTED
+QUOTED
+2
+O2 ANALYSER
+Application: O2 measurement in H2 gas
+Make: Michell/Southland Sensing
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+O2: 0 to 10 ppmv
+1 SET
+3
+H2 ANALYSER
+Application: H2 measurement in O2 gas
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: 25 to 28 Bar
+•
+Temperature: (20°C to 42°C)
+Measuring Range:
+•
+H2: 0 to 5 ppmv
+1 SET
+QUOTED
+(H2 stream
+has been
+considered
+with GC tag)
+QUOTED
+(H2 stream
+has been
+considered
+with GC tag)
+4
+GAS CHROMATOGRAPH
+Application: To be confirmed by customer
+Make: Valmet
+Area Classification: Suitable to Zone 2
+Mounting Location: Shall be mounted in temperature controlled
+room
+Process Details:
+•
+Pressure: To be provided by customer
+•
+Temperature: To be provided by customer
+Measuring Range:
+•
+Oxygen: Ranges to be confirmed by customer
+•
+Hydrogen: Ranges to be confirmed by customer
+•
+Moisture: Ranges to be confirmed by customer
+•
+Rest of N2 (majorly) & Argon: Ranges to be confirmed by
+customer
+Notes:
+•
+Refilling of carrier gas cylinders shall be in customers

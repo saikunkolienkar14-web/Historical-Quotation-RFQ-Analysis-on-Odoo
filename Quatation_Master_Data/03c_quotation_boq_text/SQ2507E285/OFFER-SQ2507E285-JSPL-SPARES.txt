@@ -1,0 +1,53 @@
+Quotation Number: SQ2507E285
+BOQ Status: FOUND
+
+Date: 30-07-2025
+Ref: Q25260234-SQ2507E285
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28614129
+O-ring for flange (10 pcs pack) , P/N
+CD 01.50.10 , Airoptic
+1.00
+10,257.00
+10,257.00
+1
+nos
+28614131
+Graphite Gasket for flange, P/N CD
+01.50.21 , Airoptic
+1.00
+1,093.00
+1,093.00
+2
+nos
+28614118
+Laser module CD mechanics
+1.00
+35,900.00
+35,900.00
+3
+Nos
+28614117
+Display module w/o PCB
+1.00
+30,771.00
+30,771.00
+4
+Nos
+28614065
+PCB display incl. firmware
+1.00
+35,900.00
+35,900.00
+5
+nos
+Date: 30-07-2025
+Ref: Q25260234-SQ2507E285

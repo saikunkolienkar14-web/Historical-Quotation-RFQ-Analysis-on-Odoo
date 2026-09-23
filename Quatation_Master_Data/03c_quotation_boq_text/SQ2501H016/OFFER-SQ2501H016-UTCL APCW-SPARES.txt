@@ -1,0 +1,104 @@
+Quotation Number: SQ2501H016
+BOQ Status: FOUND
+
+Ref: Q24250477-SQ2501H016
+Date: 23-01-2025
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602105
+Detector SO2 - Ultramat 23 channel 2
+1.00
+391,335.00
+391,335.00
+1
+Nos
+28602016
+Plate with Threaded Nuts & bolts-
+Dual Component -Ultramat 23
+1.00
+92,264.00
+92,264.00
+2
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+113,190.00
+113,190.00
+3
+Nos
+1.00
+108,402.00
+108,402.00
+4
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+10,481.00
+10,481.00
+5
+Nos
+18418004
+Tube Assembly for CEMS made of
+Material. 1.4401 having 3/4" BSP (M)
+Length 1200 mm, MOC SS316
+1.00
+31,902.00
+31,902.00
+6
+Nos
+18416050
+Sample Gas Probe head for HS 9502
+160 OD Flange
+1.00
+56,326.00
+56,326.00
+7
+NOS
+28903001
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 135-mm
+(L)
+1.00
+16,709.00
+16,709.00
+8
+Nos
+18814001
+Bushing Tube 160 OD Flange x 900
+L mm MOC MS
+1.00
+14,203.00
+14,203.00
+9
+Nos
+18524007
+Ring Heater 110 VAC Height 180 MM
+1.00
+11,615.00
+11,615.00
+10
+Nos
+Ref: Q24250477-SQ2501H016
+Date: 23-01-2025
+28602007
+O2 Sensor Ultramat 23-
+Electrochemical
+1.00
+22,453.00
+22,453.00
+11
+28708003
+Peristaltic Pump 230 VAC 30 RPM
+Nos
+Ref: Q24250477-SQ2501H016
+Date: 23-01-2025
+with relay

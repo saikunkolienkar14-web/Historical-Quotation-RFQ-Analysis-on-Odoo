@@ -1,0 +1,25 @@
+Quotation Number: SQ2506E210
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+GAS ANALYSER SYSTEM FOR DEW POINT
+MEASURMENT
+Make: Michell
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air-
+conditioned control room
+Component to be measured: Dew Point
+Measuring Range:
+• Dewpoint: -100~20°C
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Output
+1
+1,62,500.00
+1,62,500.00

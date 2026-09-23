@@ -1,0 +1,327 @@
+REGISTERED OFFICE
+Adage Analytics Solutions Private Limited
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA
+Adage Analytics Solutions Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+CIN No: U 26109 GA 2023 PT C016005
+To,
+
+BHARAT HEAVY ELECTRICALS LIMITED (BHEL)
+HEAVY ELECTRICAL EQUIPMENT PLANT (HEEP)
+HARIDWAR – 249403, INDIA
+
+Kind Attention: Purchase Department
+
+Dear Sir/ Ma’am,
+
+This is in reference to your above-mentioned enquiry for Online Hydrogen Measurement Gas Analyzer System please
+find enclosed our Technical Quotation for the same for your kind perusal.
+
+Table of Contents: -
+
+Section 1: TECHNICAL DESCRIPTION
+
+Section 2: SCOPE OF SUPPLY
+
+Section 3: BILL OF MATERIAL
+
+Our Quotation No:Q2505N067
+Dated: 04.06.2025
+Enquiry reference: GEM/2025/B/6231250
+dated 15.05.2025
+Contact Persons:
+Mr. Lokesh Bhandari
+Email:
+
+lokesh@adage-automation.com
+Mob: + 91 9999085693
+(Adage-
+
+Delhi)
+Mr. Kush Jain
+Email:
+
+kush@adage-automation.com
+Mob:+ 91 8668816625
+(Adage-Goa-HO)
+Subject:
+
+Gas Analyser Cabinet, Material Code
+
+-
+
+W90418108072,
+Commissioning of H2 Gas Analyser Cabinet, Material Code
+W90418108030
+
+REGISTERED OFFICE
+Adage Analytics Solutions Private Limited
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA
+Adage Analytics Solutions Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+CIN No: U 26109 GA 2023 PT C016005
+SUMMARY OF PRICES
+
+SL.No
+ITEM DESCRIPTION
+QTY
+UNIT PRICE (INR)
+TOTAL PRICE
+(INR)
+
+1
+MATERIAL CODE: W90418108072
+GAS ANALYSIS SYSTEM FOR ONLINE H2 MONITORING
+•
+With Sample Handling System
+•
+With Microprocessor Based H2 Analyzer
+Model Calomat 6E,
+Make: Siemens AG, Germany
+•
+With Calibration Cylinders
+(For details please refer enclosed BOM and Schematic Drawing
+
+QUOTED
+
+QUOTED
+
+MATERIAL CODE: W90418108030
+COMMISSIONING OF H2 GAS ANALYSER CABINET
+(Inclusive Of Boarding, Lodging, Local Conveyance, To & Fro Travel,
+Etc.)
+
+QUOTED
+
+QUOTED
+
+NOTE: TAXES & DUTIES
+IGST EXTRA
+
+P&F
+CHARGES
+
+ANY OTHER
+TAXES
+FREIGHT
+CHARGES
+INSURANCE
+
+GST SHALL BE EXTRA AS APPLICABLE.
+PRESENTLY 18%
+
+NIL
+NO
+FREIGHT
+PREPAID
+EXTRA TO BE
+ARRANGED BY BHEL
+
+SPECIAL NOTE
+
+1. ALL EXTERNAL TUBES, CABLES, ERECTION HARDWARE’S ETC. NOT SPECIFIED IN THE BOM SHALL BE IN
+BHEL’S SCOPE
+
+2. PLEASE NOTE THE CALIBRATION GAS CYLINDERS SHALL BE SUPPLIED ALONG WITH THE GAS ANALYSER
+SYSTEMS AND NOT DURING COMMISSIONING.
+
+26 Nos
+26 Nos
+2
+
+GAS ANALYSER PANEL
+GA01
+CALOMAT 6
+MATERIAL CODE: W90418108072
+
+NOTES :
+SPAN GAS-01
+OUTLET
+SAMPLE GAS
+FRONT VIEW
+REAR VIEW
+(M12)
+LIFTING EYE BOLT
+BASE FRAME
+Adage Automation Pvt Ltd.
+SAMPLE GAS
+(90% H2 Bal.N2)
+SPAN GAS-02
+INLET(100%H2)
+SPAN GAS-03
+INLET(100% CO2)
+INLET
+FRONT
+LH SIDE VIEW
+FRONT
+RH SIDE VIEW
+DISCHARGE
+CONDENSATE
+(M12)
+LIFTING EYE BOLT
+GENERATOR
+GAS ANALYZER CABINET
+EARTHING
+STUD
+
+CALOMAT 6E
+GA01
+EXPROOF JUNCTION BOX
+
+REGISTERED OFFICE
+Adage Analytics Solutions Private Limited
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA
+Adage Analytics Solutions Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+CIN No: U 26109 GA 2023 PT C016005
+SECTION 3: BILL OF MATERIAL
+
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF HYDROGEN (H2)
+Description
+Legends
+Qty
+2 WAY BALL VALVE
+Body Material : Brass, Connection: 1⁄4” NPT (F)
+Make: Baldota/ Excel Hydro
+
+BV 01
+BV 02
+2 PC
+5 WAY BALL VALVE
+For Test Gas Path
+Body Material : SS
+Make : Baldota / Excel Hydro
+
+BV 03
+
+1 PC
+PRESSURE REDUCING REGULATOR
+Inlet Pressure (Max) : 10 Bar
+
+Body Material : SS
+With Inlet & Outlet Pressure Gauge
+With Safety Relief Valve
+Make : Span Gas
+
+FPR 01
+
+1 PC
+SECONDARY FILTER
+Gas Flow Rate (Max): 300 L/Hr.
+Filter Element : Fiber Glass Membrane
+Body Material : SS
+Filter Size : >1 Micron
+Make : Adage
+
+SF 01
+
+1 PC
+FLOW MONITOR
+In Sample Line
+Meas. Range: 7... 70 Lph
+With Needle Valve ,
+With Low Flow Alarm
+Make : Placka
+
+FM 01
+
+1 PC
+FLAME ARRESTOR
+Make: PRECON/GCE DHRUVA
+
+FA 01
+FA 02
+
+2 PC
+OIL FILTER WITH AUTO DRAIN
+Make : Shavo Norgren/Asco
+
+OF 01
+
+1 PC
+NON-RETURN VALVE
+Body Material : Brass, Connection: 1⁄4” NPT (F)
+Make: Swagelok
+
+NRV 01
+
+1 PC
+EX-PROOF JB
+Make: Ex Protecta / Sudhir Switchgear.
+
+JB01
+
+1 PC
+MCB
+Make: Schneider
+
+CYLINDER RACK
+Make: Adage
+
+REGISTERED OFFICE
+Adage Analytics Solutions Private Limited
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA
+Adage Analytics Solutions Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+CIN No: U 26109 GA 2023 PT C016005
+CALOMAT 6E:
+• Calomat 6E Gas Analyzer Is Primarily Used
+For Quantitative Determination Of H2 In Binary Or Quasi-Binary Gas Mixture
+• 19" Plug-In Unit For Mounting In Enclosures
+• Gas Connections 6 mm Stub
+• Measuring Application: Turbo Generator Application
+
+• Measuring Component 1: Co2 In Air
+Measuring Range: 0 To 100%
+
+• Measuring Component 2: H2 In Co2
+Measuring Range: 0 To 100%
+
+• Measuring Component 3: H2 In Air
+Measuring Range: 90 To 100%
+
+• Ambient Temp : 300 C To +700 C
+• Output : 4-20 Ma , One Per Component
+
+Documentation: In English
+
+GA 01
+
+1 PC
+GAS CONDITIONING CABINET
+Above items will be mounted inside this cabinet, completely tubed, wired and
+functionally tested.
+Size &. Exact dimensions of the panel shall be informed after detailed engineering.
+Protection Class : IP 54, Make : Rittal
+
+CAB 01
+
+1 PC
+
+ZERO GAS CYLINDER
+With Dual Stage Cylinder Pressure Regulator
+Gas Composition: 99.999% Of H2 In N2
+
+ZG 01
+
+1 PC
+SPAN GAS CYLINDER
+With Dual Stage Cylinder Pressure Regulator
+Gas Composition: 100% Of Co2 In N2
+
+SG01
+1 PC
+SPAN GAS CYLINDER
+With Dual Stage Cylinder Pressure Regulator
+Gas Composition: 90% Of H2 In N2
+
+SG02
+1 PC

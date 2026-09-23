@@ -1,0 +1,80 @@
+Quotation Number: Q24S10063
+BOQ Status: FOUND
+
+Item Description
+Qty
+Price(INR)
+1
+74-AT-6252
+Oxygen Analyser – WDG V UOP
+1 No
+Quoted
+2
+-
+Supervision of installation and
+commissioning
+Lumpsum
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+UOP Oxygen Analyzer:
+Tag No: 74-AT-6252
+Make: AMETEK
+Model: WDG V UOP-RP
+Hazardous Area Classification: Zone 2 IIC T3 Exp type
+Enclosure protection: IP65
+Analyzer mounting: Close coupled extractive.
+Measuring Range: 0-2%
+Process Conditions at sample Inlet:
+-
+Temperature (Operating): 477 °C
+-
+Pressure (Operating): 3.16 kg/cm2.
+Utility Requirement:
+-
+110VAC, 50 Hz UPS power supply, 740 VA
+-
+Plant instrument air for aspirator and purging free of oil
+and dust.
+Analyzer Outputs
+-
+4-20 mA analog output for oxygen measurement.
+-
+5 Independent potential free alarm contacts.
+Remarks:
+1) Signal and Power cable up to analyzer and RCU
+unit to be provided by customer.
+2) Power and instrument air to be provided near
+analyzer and RCU unit.
+3) Distance between analyzer and RCU unit to be
+confirmed by MRPL.
+4) Analyzer probe MOC shall be Hastelloy however
+measuring cell MOC shall be SS316.
+1 No
+Quoted
+1.1
+RCU unit with AMEVision HMI and calibration gas cylinder
+-
+RCU unit for Auto/Manual calibration
+-
+With electrical JB
+-
+HMI, AMEVISION, Make: Ametek
+-
+1⁄4” SS316 Tubing between RCU unit and Analyzer Sensor.
+(10 meters)
+-
+Communication Cable between Sensor Unit at Stack &
+HMI at grade level: (10 meters).
+1 Set
+Quoted
+1.2
+Mandatory Spares
+a) Zirconia Cell x 1 No
+b) Sensor Board x 1 No
+1 Lot
+Quoted
+2
+Supervision of installation and commissioning
+Lumpsum
+Quoted

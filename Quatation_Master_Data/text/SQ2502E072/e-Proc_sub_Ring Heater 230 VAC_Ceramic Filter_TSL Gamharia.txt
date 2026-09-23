@@ -1,0 +1,249 @@
+View Quotation Details
+    
+Quotation Details  
+Enquiry
+No:
+  
+1103615732
+Enquiry
+Date:
+  
+25 Feb
+2025
+Due Date:
+  
+25 Feb
+2025
+Quotation
+Date:
+  
+26 Feb
+2025
+Quot
+Open
+Date:
+  
+Quotation
+Reference:
+  
+SQ2502E0
+72
+Payment
+Terms:
+  
+100%
+within 45
+days of
+stfy rcpt
+of
+Material
+Currency:
+  
+Indian
+Rupee
+Vendor
+Name:
+  
+ADAGE AUTOMATION PV
+T.LTD. (AH24)
+Vendor
+Mail:
+  
+paul@adage-automatio
+n.com
+Phone
+No:
+02243214
+321 / 9920
+217222
+Incoterms:
+BRG-Ex-
+Works
+Unpacked.
+Billing
+City/State:
+GOA/Goa,
+Daman &
+Diu
+Extra Charge Details (Tax Type --- Extra Charge Amount --- Unit)
+Freight % - FRA1  - 2   %
+Ins. on total bill % - Y019  - 1   %
+Forwad/Pack charge % - Y021  - 1   %
+Packaging charge (%) - Y098  - 2   %
+Item Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+Brief Desc:SPARE,INSTRUMENTATION
+Detailed Desc:Item text:
+SPARE;INSTRUMENTATION ITEM NAME
+: RING HEATER FOR PROBE ITEM TYPE :
+RI NG HEATER PARENT EQUIPMENT :
+GAS ANALYSER MAKE : ABB
+MODEL/PART NO : 7 865312 SPECIAL
+FEATURES : NO SPECIAL FEATURES
+ADDITIONAL UMC DETAIL:: Short
+Description : RING HEATER FOR PROBE
+4/SUPPLY:220V/50HZ 100W 5956
+A0241 MPN Text: Part no : 7865312
+Manufacturer : ABB INDIA LIMITED
+Purchase order text:
+SPARE,INSTRUMENTATION ITEM NAME
+: RING HEATER FOR PROBE ITEM TYPE :
+RING HEATER PARENT EQUIPMENT :
+GAS ANALYSER MAKE : ABB
+MODEL/PART NO : 7865312 SPECIAL
+FEATURES : NO SPECIAL FEATURES
+ADDITIONAL UMC DETAIL:: Short
+Description : RING HEATER FOR PROBE
+4/SUPPLY:220V/50HZ 100W
+Accepted
+Item No:  10
+Material No:  
+5956A0241
+Quantity(UOM):
+6.000 (NOS)
+Basic
+Rate:
+ 
+6449.00
+Lead
+Time(Days):
+ 
+90
+HSN Code:  90330000
+Invoicing Region:
+Goa
+Tax Description:
+All CGST-SGST/IGST @ 18% Creditable --
+(R3)
+Comments:
+Price have been quoted as per ARC PO
+4700119448 valid till 23.11.26.
+Extra Charges:  
+Tax
+Amoun
+Freight %-FRA1
+2 %
+Ins. on total bill %-Y019
+1 %
+Forwad/Pack charge %-
+Y021
+1 %
+Packaging charge (%)-
+Y098
+2 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Showing 1 to 2 of 2 rows
+ records per page
+ 
+ 
+Brief Desc:CERAMIC FILTER ,ABB
+,10768096 ,
+Detailed Desc:Item text: Short text:
+CERAMIC FILTER ;ABB ;10768096 ; Long
+Text: ITEM NAME:CERAM IC FILTER
+ITEM MAKE:ABB ITEM
+MODEL:10768096 SPECIAL
+FEATURES:NO SPECIA L FEATURES
+5532A0761 Purchase order text:
+Short text: CERAMIC FILTER ,ABB
+,10768096 , No Details are available
+Long Text: ITEM NAME:CERAMIC FILTER
+ITEM MAKE:ABB ITEM
+MODEL:10768096 SPECIAL
+FEATURES:NO SPECIAL FEATURES
+Accepted
+Item No:  20
+Material No:  
+5532A0761
+Quantity(UOM):
+3.000 (NOS)
+Basic
+Rate:
+ 
+11916.00
+Lead
+Time(Days):
+ 
+90
+HSN Code:  90330000
+Invoicing Region:
+Goa
+Tax Description:
+All CGST-SGST/IGST @ 18% Creditable --
+(R3)
+Comments:
+Price have been quoted as per ARC PO
+4700119448 valid till 23.11.26.
+Extra Charges:  
+Tax
+Amoun
+Freight %-FRA1
+2 %
+Ins. on total bill %-Y019
+1 %
+Forwad/Pack charge %-
+Y021
+1 %
+Packaging charge (%)-
+Y098
+2 %
+5 
+Declaration 
+I hereby declare that I am providing the material in the same capacity
+(Dealer/Distributor, Manufacturer) as registered in Tata Steel and quoting this
+RFQ as
+DEALER/DISTRIBUTOR
+I hereby declare that there is no deviation in technical/functional specification
+against the material/services mentioned in RFQ and the submitted Quote.
+Agree
+Note: Please select all rows and then Print to get the Complete Item List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

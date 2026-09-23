@@ -1,0 +1,258 @@
+Quotation Number: Q2601N006
+BOQ Status: FOUND
+
+SUMMARY OF PRICES
+SL.No
+ITEM DESCRIPTION
+QTY
+UNIT PRICE (INR)
+TOTAL PRICE
+(INR)
+1
+MATERIAL CODE: W90418108072
+GAS ANALYSIS SYSTEM FOR ONLINE H2 MONITORING
+•
+With Sample Handling System
+•
+With Microprocessor Based H2 Analyzer
+Model Calomat 6E,
+Make: Siemens AG, Germany
+•
+With Calibration Cylinders
+(For details please refer enclosed BOM and Schematic Drawing
+04 Nos
+QUOTED
+QUOTED
+2
+MATERIAL CODE: W90418108080
+Filter For Gas Analyser Cabinet
+02 Nos
+QUOTED
+QUOTED
+3
+MATERIAL CODE: W90418108030
+COMMISSIONING OF H2 GAS ANALYSER CABINET
+(Inclusive Of Boarding, Lodging, Local Conveyance, To & Fro Travel,
+Etc.)
+04 Nos
+QUOTED
+QUOTED
+NOTE: TAXES & DUTIES
+IGST EXTRA
+P&F
+CHARGES
+ANY OTHER
+TAXES
+FREIGHT
+CHARGES
+INSURANCE
+GST SHALL BE EXTRA AS APPLICABLE.
+PRESENTLY 18%
+NIL
+NO
+FREIGHT
+PREPAID
+EXTRA TO BE
+ARRANGED BY BHEL
+SPECIAL NOTE
+1. ALL EXTERNAL TUBES, CABLES, ERECTION HARDWARE’S ETC. NOT SPECIFIED IN THE BOM SHALL BE IN
+BHEL’S SCOPE
+2. PLEASE NOTE THE CALIBRATION GAS CYLINDERS SHALL BE SUPPLIED ALONG WITH THE GAS ANALYSER
+SYSTEMS AND NOT DURING COMMISSIONING.
+GAS ANALYSER PANEL
+GA01
+CALOMAT 6
+MATERIAL CODE: W90418108072
+NOTES :
+SPAN GAS-01
+OUTLET
+SAMPLE GAS
+FRONT VIEW
+REAR VIEW
+(M12)
+LIFTING EYE BOLT
+BASE FRAME
+Adage Automation Pvt Ltd.
+SAMPLE GAS
+(90% H2 Bal.N2)
+SPAN GAS-02
+INLET(100%H2)
+SPAN GAS-03
+INLET(100% CO2)
+INLET
+FRONT
+LH SIDE VIEW
+FRONT
+RH SIDE VIEW
+DISCHARGE
+CONDENSATE
+(M12)
+LIFTING EYE BOLT
+GENERATOR
+GAS ANALYZER CABINET
+EARTHING
+STUD
+CALOMAT 6E
+GA01
+EXPROOF JUNCTION BOX
+SECTION 3: BILL OF MATERIAL
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF HYDROGEN (H2)
+Description
+Legends
+Qty
+2 WAY BALL VALVE
+Body Material : Brass, Connection: 1⁄4” NPT (F)
+Make: Baldota/ Excel Hydro
+BV 01
+BV 02
+2 PC
+5 WAY BALL VALVE
+For Test Gas Path
+Body Material : SS
+Make : Baldota / Excel Hydro
+BV 03
+1 PC
+PRESSURE REDUCING REGULATOR
+Inlet Pressure (Max) : 10 Bar
+Body Material : SS
+With Inlet & Outlet Pressure Gauge
+With Safety Relief Valve
+Make : Span Gas
+FPR 01
+1 PC
+SECONDARY FILTER
+Gas Flow Rate (Max): 300 L/Hr.
+Filter Element : Fiber Glass Membrane
+Body Material : SS
+Filter Size : >1 Micron
+Make : Adage
+SF 01
+1 PC
+FLOW MONITOR
+In Sample Line
+Meas. Range: 7... 70 Lph
+With Needle Valve ,
+With Low Flow Alarm
+Make : Placka
+FM 01
+1 PC
+FLAME ARRESTOR
+Make: PRECON/GCE DHRUVA
+FA 01
+FA 02
+2 PC
+OIL FILTER WITH AUTO DRAIN
+Make : Shavo Norgren/Asco
+OF 01
+1 PC
+NON-RETURN VALVE
+Body Material : Brass, Connection: 1⁄4” NPT (F)
+Make: Swagelok
+NRV 01
+1 PC
+EX-PROOF JB
+Make: Ex Protecta / Sudhir Switchgear.
+JB01
+1 PC
+MCB
+Make: Schneider
+CYLINDER RACK
+Make: Adage
+CALOMAT 6E:
+• Calomat 6E Gas Analyzer Is Primarily Used
+For Quantitative Determination Of H2 In Binary Or Quasi-Binary Gas Mixture
+• 19" Plug-In Unit For Mounting In Enclosures
+• Gas Connections 6 mm Stub
+• Measuring Application: Turbo Generator Application
+• Measuring Component 1: Co2 In Air
+Measuring Range: 0 To 100%
+• Measuring Component 2: H2 In Co2
+Measuring Range: 0 To 100%
+• Measuring Component 3: H2 In Air
+Measuring Range: 90 To 100%
+• Ambient Temp : 300 C To +700 C
+• Output : 4-20 Ma , One Per Component
+Documentation: In English
+GA 01
+1 PC
+GAS CONDITIONING CABINET
+Above items will be mounted inside this cabinet, completely tubed, wired and
+functionally tested.
+Size &. Exact dimensions of the panel shall be informed after detailed engineering.
+Protection Class : IP 54, Make : Rittal
+CAB 01
+1 PC
+ZERO GAS CYLINDER
+With Dual Stage Cylinder Pressure Regulator
+Gas Composition: 99.999% Of H2 In N2
+ZG 01
+1 PC
+SPAN GAS CYLINDER
+With Dual Stage Cylinder Pressure Regulator
+Gas Composition: 100% Of Co2 In N2
+SG01
+1 PC
+SPAN GAS CYLINDER
+With Dual Stage Cylinder Pressure Regulator
+Gas Composition: 90% Of H2 In N2
+SG02
+1 PC
+TECHNICAL FEATURE OF GAS ANALYSER FOR ALL APPLICATION
+Model: CALOMAT 6, SIEMENS AG
+Measuring principal: THERMAL CONDUCTIVITY
+Measuring component: H2 monitoring in Turbo Generators
+Measuring Application: Turbo Generator
+DESCRIPTION:
+The CALOMAT 6 gas analyzer is primarily used for quantitative determination of H2 in binary OR Quasi-binary gas
+mixture.
+BENEFITS:
+•
+Semi-conductor detector
+•
+Small T90 time due to micromechanical –produced Si sensor
+•
+Integrated interfacing gas correction ,external calculation not required
+•
+Menu –assisted operation in plain text
+(Operation Control without Manual)
+•
+Service information and log book
+•
+Coded operator level against unauthorized access, increased safety
+DESIGN:
+•
+19” Unit with 4 HU for installation
+•
+Gas connection for sample gas INPUT & OUTPUT as well as ZERO gas , pipe diameter 6 mm OR 1⁄4”
+•
+Internal gas path :pipe made of Stainless steel
+DISPLAY:
+•
+Large , backlit LCD display for Measured Values
+•
+Menu-based input for programming ,test function and calibration
+•
+Washable membrane keypad
+•
+User help in plain text
+•
+Contrast of LCD panel adjustable using menu
+•
+Graphical display of concentration trend ; programmable time interval
+•
+Operating software in two languages: English /German, Spanish...French etc.
+ELECTRICAL INPUTS & INFLUENCING VARIABLES:
+•
+Analog output: Per Component, 0/2/4....20 mA, NAMUR, floating Max. load 750 Ω ( Isolated)
+•
+Power Supply : 230 V 50 HZ
+•
+Drift : < 1 % PER week
+•
+Response time(T90) : 2 Sec for direct sample cell connection
+•
+Characteristic : Linearized
+COMMUNICATION:
+•
+RS 485 present in basic unit (connection at the rear; with 19” unit also possibility of connection behind the
+front plate)

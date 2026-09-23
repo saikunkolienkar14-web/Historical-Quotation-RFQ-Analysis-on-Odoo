@@ -1,0 +1,22 @@
+Quotation Number: Q2510E130
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price (INR)
+1
+GAS ANALYSER SYSTEM FOR H2 MEASURMENT
+Make: Siemens
+Model: CALOMAT 6F
+Area Classification: Zone II
+Component to be measured: H2
+Measuring Range:
+• H2: 0-5%
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+Notes:

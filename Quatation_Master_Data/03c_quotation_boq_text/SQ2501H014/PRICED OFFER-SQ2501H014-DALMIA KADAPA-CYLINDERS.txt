@@ -1,0 +1,38 @@
+Quotation Number: SQ2501H014
+BOQ Status: FOUND
+
+Date: 21-01-2025
+Ref: Q24250465-SQ2501H014
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18904018
+Cylinder NO (Nitric oxide) 10
+Liters-MOC:AL
+2.00
+65,545.00
+131,090.00
+1
+Nos
+18905024
+Cylinder SO2 (Sulphur Dioxide) 10
+Liters-MOC:AL
+2.00
+65,200.00
+130,400.00
+2
+Nos
+CONC: 50 PPM NO BAL N2
+With Cylinder regulator
+With Hydro test Certificate
+CONC: 50 PPM SO2 BAL N2
+With Cylinder regulator
+With Hydro test Certificate
+Date: 21-01-2025
+Ref: Q24250465-SQ2501H014

@@ -1,0 +1,172 @@
+Quotation Number: Q24G10092
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit price (INR)
+Total Price (INR)
+1
+262AT 005 Gas Chromatograph system
+1 No
+93 Lakhs
+93 Lakhs
+2
+GCP portal software
+1 Lot
+4 lakhs
+4 lakhs
+3
+Project Documentation
+1 Lot
+Inclusive
+Inclusive
+4
+FAT at Adage Factory
+1 Lot
+Inclusive
+Inclusive
+5
+Supervision of installation &
+commissioning
+1 GCs
+2 Lakhs
+2 Lakhs
+6
+Commissioning spares
+Set of Orings, Set of fuses
+1 Set
+Inclusive
+Inclusive
+7
+Mandatory spares as below (Items to be decided by
+Reliance)
+Description
+Qty
+Unit Price
+SVCM Module repairing kit
+1
+1,40,000
+Valve, Model 50, repair kit
+1
+1,12,000
+FID repairing kit
+1
+1,86,000
+Fuel restrictor
+1
+60,000
+Combustion air restrictor
+1
+65,000
+LIV Repairing Kit
+1
+32,000
+Valco valve rotor
+1
+70,000
+Valco valve, set of Oring
+1
+35,000
+7 Lakhs
+8
+Consumable spares
+-
+LIV Seal
+1 No
+Inclusive
+Inclusive
+9
+P&F and transportation upto
+Site
+1 Lot
+1 Lakh
+1 Lakh
+TOTAL PRICE
+107 Lakhs
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 262AT 005
+-
+Inlet Supply Pressure (Nor/Max): 13.33/28.9 Kg/cm2
+-
+Outlet Return pressure (Nor): 11.33 Kg/cm2
+-
+Temperature (Nor/Max): 177/205 Degree C
+-
+Sample Return: To Process
+Service: P02 CIRC PMPS DISCHG
+As per MR Requirement
+1.1
+Gas Chromatograph (This GC system shall be same as
+Previous Supply)
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Inside existing cabinet
+GC Hazardous Area Classification: Zone 1, llB+H2 T3
+Sample phase: Liquid
+No of Streams: 1
+MDL:
+M- Xylene - 0.04 Mol%
+Non Aromatics - 0.04 Mol%
+Ethyle benzene - 0.04 Mol%
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.2
+Sample transportation Line for supply & Return: Existing
+shall be used
+-
+6 Meters for supply & 15 Meters for sample return
+Existing
+1.3
+Secondary Sample handling system:
+-
+SHS shall be same as previous supply,
+-
+Previous supply schematic is attached
+-
+Din Rail mounting arrangement for GC
+-
+SHS components shall be mounted inside SS316
+enclosure and shall be mounted outside Analyser cabinet.
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+1.4
+Analyser Cabinet :
+-
+1000 mm x 800 mm x 2100 mm dimention, MOC : SS316
+-
+With Ex proof AC & Vortex cooler (incase of AC failure)
+-
+ASJB, DSJB, CSJB
+-
+PSB’s, Headers & other accessories
+1 No
+Quoted
+1.5
+Calibration cylinder with double stage pressure regulator
+-
+For FAT, Commissioning & 1 year operation from the date
+of commissioning
+-
+Imported calibration blend with 3 year validity - 2 No
+Notes:
+-
+Autochageover skid shall be used Existing.
+-
+Carrier gas cylinders are excluded and shall be in RIL

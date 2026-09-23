@@ -1,0 +1,83 @@
+Quotation Number: Q2605W093
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF H2
+SERVICE: HYDROGEN ELECTROLYSER
+AREA CLASSFICATION: ZONE 2, IIC, T3
+PROCESS CONDITION:
+TEMPERATURE (Min/Nor/Max): 45/95/100 Deg C
+PRESSURE(Min/Nor/Max): -10/1/15 BARG
+WITH TWO SAMPLE TAPPING ARRANGMENT
+WITH SECONDARY SAMPLE HANDLING SYSTEM
+WITH SKID MOUNTING
+MICROPROCESSOR BASED GAS ANALYSER
+HYDRO TRANS – 1 No
+For HYDROGEN (H2) Measurement
+MAKE: PROCHEM ANALYTIC, GERMANY
+1 Set
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF O2
+SERVICE: HYDROGEN ELECTROLYSER
+AREA CLASSFICATION: ZONE 2, IIC, T3
+PROCESS CONDITION:
+TEMPERATURE (Min/Nor/Max): 45/95/100 Deg C
+PRESSURE(Min/Nor/Max): -10/1/15 BARG
+WITH SAMPLE TAPPING ARRANGMENT
+WITH SECONDARY SAMPLE HANDLING SYSTEM
+WITH SKID MOUNTING
+MICROPROCESSOR BASED GAS ANALYSER
+OXY TRANS I– 1 No
+For OXYGEN (O2) Measurement
+MAKE: PROCHEM ANALYTIC, GERMANY
+1 Set
+QUOTED
+QUOTED
+3
+SAMPLE GAS TUBE
+FOR SAMPLE GAS TRANSPORTATION
+PORT SIZE : 1/2 “ SS TUBE WITH INSULATION
+Per
+Mtrs
+QUOTED
+QUOTED
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+BOARDING – LODGING – LOCAL CONVEYANCE,
+TO AND FRO AIR TICKET VISA CHARGES
+WORK PERMIT IS IN CUSTOMER SCOPE
+Per
+Man
+day
+QUOTED
+QUOTED
+Assumption/ Clarification:
+1. H2 & O2 system will be field mounted on analyser skid.
+2. All Power, signal & communication cable is in customer scope.
+3. UPS & Non-UPS power supply near analyser room shall be made available by customer.
+4. 1⁄2” Tapping from pipe to be made available by customer for sampling.
+5. We will provide of 4-20 mA o/p from the gas analyser for H2 & O2 gases.
+6. All kind of civil, electrical, mechanical activity including material transportation from plant store
+to site is in customer scope.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope
+•
+Please note that UPS power shall be provide near panel by customer.
+•
+Please note that laying of signal/power cable trays shall be in customer’s scope.
+•
+Power Supply Utilities required are:
+•
+Power Supply: 230 VAC, 50 Hz (Non-Ups)
+•
+Power Supply: 110/230 VAC, 50 Hz (Ups)

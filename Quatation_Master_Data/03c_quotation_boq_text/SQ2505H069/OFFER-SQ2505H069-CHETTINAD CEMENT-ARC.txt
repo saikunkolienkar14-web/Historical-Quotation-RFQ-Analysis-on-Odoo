@@ -1,0 +1,124 @@
+Quotation Number: SQ2505H069
+BOQ Status: FOUND
+
+Date: 07-05-2025
+Ref: Q25260068-SQ2505H069
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18519001
+Sample Gas Cooler Dual Path 230
+VAC
+1.00
+59,697.00
+59,697.00
+1
+Nos
+18710001
+Condensate Monitor
+1.00
+20,652.00
+20,652.00
+2
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+1.00
+2,700.00
+2,700.00
+3
+Packets
+18524001
+Ring Heater 230 VAC Lenght 135 MM
+1.00
+8,208.00
+8,208.00
+4
+Nos
+28209010
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (White Color) MOC
+PTFE
+1.00
+489.00
+489.00
+5
+Mtrs
+18416001
+Sample Gas probe for CEMS SS 316
+1.00
+58,886.00
+58,886.00
+6
+Nos
+18418003
+Tube Assembly - 3/4" BSP(M) x 33
+mm OD x 27 mm ID x Length 1200
+mm (High Temperature) MOC
+Kanthal
+1.00
+146,970.00
+146,970.00
+7
+Nos
+18418004
+Tube Assembly for CEMS made of
+Material. 1.4401 having 3/4" BSP (M)
+Length 1200 mm, MOC SS316
+1.00
+34,811.00
+34,811.00
+8
+Nos
+28709015
+WATER FLOW SWITCHF PADDLE
+TYPE Connection 1"" BSP (M)
+1.00
+20,860.00
+20,860.00
+9
+Nos
+Date: 07-05-2025
+Ref: Q25260068-SQ2505H069
+1.00
+75,102.00
+75,102.00
+10
+Nos
+28903011
+SS Filter for Kiln Probe length 250
+mm
+1.00
+36,233.00
+36,233.00
+11
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+10,278.00
+10,278.00
+12
+Nos
+28519090
+Sample Gas pump P1.1, Voltage:
+230V/50Hz, Pump head: PVDF
+1.00
+37,872.00
+37,872.00
+13
+Nos
+28708015
+Centrifugal Pump, Operating Voltage :
+220 VAC, 50 Hz, Media : Water
+-Grundfoss Germany
+Date: 07-05-2025
+Ref: Q25260068-SQ2505H069

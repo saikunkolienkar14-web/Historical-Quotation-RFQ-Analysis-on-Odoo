@@ -1,0 +1,70 @@
+Quotation Number: Q2510M027
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT
+PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+GAS ANALYSIS USING GC FOR ASU PLANT
+Measurement of Ar, N2 and O2
+Make: LDTek
+Model: Multidetek 3
+Measured Component(s): All impurities other than moisture
+Operating Principle: Gas Chromatography
+Measuring Ranges:
+•
+Ar: 0- 300 ppm
+•
+N2: 0-300 ppm
+•
+O2: 0- 10 ppm
+Moisture Measurement
+Make: Michell Instruments
+Operating Principle: Metal-Oxide Sensor
+Measured Component(s): Moisture
+Measuring Ranges:
+•
+H2O: 0- 10 ppm
+Area Classification: Safe Area
+Mounting Location: Panel shall be mounted in Analyser room
+With Sample Conditioning System:
+•
+With Ball Valves, Filters and Flowmeters
+•
+Refer to detailed BOM & Scheme provided in section 4
+Analyser Outputs:
+•
+RS-485 Serial Output
+•
+Potential free contacts for fault & other alarms
+•
+4-20mA Analog Outputs
+Notes:
+•
+Carrier Gas (Argon), O2 doping (O2 in Ar ) cylinder & Calibration
+Blend Cylinder shall be in customers scope. We shall provide the
+details for the cylinders at the post order stage.
+•
+Pressure reduction and safety relief measures of the process gas
+shall be taken care by the customer.
+Sample tubing upto analyser panel shall be in customers scope. The
+process pressure shall be between 0.5-1.5 bar at the inlet of the panel.
+Same shall be taken care by customer
+1 SET
+QUOTED
+QUOTED
+NOTE: ALL EXTERNAL TUBINGS SHALL BE IN CUSTOMER’S SCOPE.
+PROCESS NOZZLE WITH ISOLATION VALVE AND THE SAMPLE GAS TUBE SHALL BE IN CUSTOMER’S SCOPE.
+2
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO AND FRO AIR TICKET/
+AC II TRAIN FARE TO BE ARRANGED BY CUSTOMER)
+@QUOTED PER MAN DAY

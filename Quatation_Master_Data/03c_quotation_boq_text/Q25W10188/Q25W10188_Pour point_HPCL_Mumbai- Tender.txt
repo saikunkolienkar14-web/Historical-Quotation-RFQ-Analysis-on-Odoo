@@ -1,0 +1,79 @@
+Quotation Number: Q25W10188
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Supply of Pour point Analyser
+Quoted
+Quoted
+2
+1
+Supervision of installation & Commissioning charges
+Inclusive
+Inclusive
+3
+1
+5 Years PWCAMC Charges
+Inclusive
+Inclusive
+SECTION 2: TECHNICAL LITERATURE
+1
+Tag No : 056-AT-0701
+Process condition at sample inlet:
+-
+Temperature: 55/60/265 °C (NOR/MAX/DESIGN)
+-
+Pressure: 7/12.9/16.7/25.8 kg/cm2g (MIN/NOR/MAX/DESIGN)
+Process condition at Sample return: Shall be provided Later
+Fastloop return : To process (By HPCL)
+Service: Measure Pour Point of Lube Product
+As per MR
+Requirement
+1.1
+Pour point Analyser
+Test Method: ASTM D-97
+Make: Icon Scientific
+Hazardous Area: Analyzer Suitable for Zone 1 IIB+H2 T4
+Range: -30 to 3 °C
+Power Supply: 110VAC, 50 Hz UPS, 500 VA
+IP rating: IP66
+Analyzer mounting Location: Inside existing analyser shelter
+Analyser Ambient temperature: +5 to 40 °C
+With 17” Armored glass touch screen
+Sample Consumption:20 LPH
+Analyser Output:
+-
+4-20Ma analog output for pour point
+-
+MODBUS RTU /OPC over RS485 or Ethernet TCP/IP.
+-
+Digital outputs
+Utility Requirement:
+-
+110VAC 50Hz UPS power supply
+-
+415/230 VAC 50Hz Non UPS power supply
+-
+Cooling water
+Note:
+-
+Adage shall provide serial output till communication JB at existing
+shelter, further distribution shall be taken care by HPCL as
+confirmed in Prebid query.
+1 No
+Quoted
+1.1
+Sample Probe
+-
+Online retractable type probe, Make: Lotus
+-
+1.5” 300# RF Flange
+1 No
+1.2
+Sample transportation tube:
+-
+Sample supply and return pipe / line till SHS mounted outside

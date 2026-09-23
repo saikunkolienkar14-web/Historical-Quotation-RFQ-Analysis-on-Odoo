@@ -1,0 +1,86 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Description
+Qty
+Price
+1.a
+CO Analyser:
+Service: Regeneration Flue Gas
+MODEL: Ultramat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone I, GR IIC, T3
+Measuring Component : CO
+Measruing Range : 0-1000PPM
+1 No.
+Quoted
+1.b
+CO2 Analyser:
+Service: Regeneration Flue Gas
+MODEL: Ultramat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone I, GR IIC, T3
+Measuring Component : CO2
+Measruing Range : 0-20%
+1 No.
+Quoted
+2
+pO2 Analyser:
+Service: Regeneration Flue Gas
+MODEL: Oxymat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone I, GR IIC, T3
+Measuring Component : O2
+Measruing Range : 0-5%
+1 No.
+Quoted
+a
+Heated Sample probe:
+-
+MOC: SS316
+-
+With heated filter assembly
+-
+Suitable for Zone-1 Area classification
+-
+1 No
+Quoted
+b
+1/4” PTFE Sample Tubing
+50 Meter
+Quoted
+c
+SSHS system.
+-
+With manual 3 way ball valve sample/purging selection
+-
+With gas sample cooler assembly for moisture removal
+-
+With Solenoid Valve assembly for Calibration gas selection
+-
+with filter, Rotameters, Air filter regulator assembly
+1 No
+Quoted
+Page 7 of 9
+d
+Analyser Cabinet Assembly
+-
+CRCA Painted
+-
+With CRCA canopy assembly
+-
+With Vortex Cooling arrangement
+-
+With Power Distribution PDP
+-
+With Signal Junction Box
+-
+With Media converter assembly
+-
+With LIU Panel Assembly suitable of 6 Core FO cable
+e
+Calibration gas cylinder
+Suitable for 1 year operation after SAT.
+1 Lot
+Quoted
+Page 8 of 9

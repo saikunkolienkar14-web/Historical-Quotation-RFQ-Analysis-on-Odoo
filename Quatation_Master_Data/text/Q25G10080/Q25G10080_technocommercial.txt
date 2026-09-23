@@ -1,0 +1,369 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please 
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which 
+includes analysers as per your requirement. 
+
+ADAGE QUOTE REF: 
+Q24G10080 
+DATED : 17.02.2025 
+BID TYPE : Budgetary 
+PROJECT TITLE: 
+Gas Chromatograph system for Flare gas GC 
+INQUIRY DETAILS: 
+Enquiry received via mail dated 22.01.2025 
+CUSTOMER: 
+
+Kind Attention : Mr Manoj Topiwala 
+Reliance Industries Limited, JMD 
+
+END USER: 
+
+Reliance Industries Limited, JMD 
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS: 
+SECTION-1: Summary Of Prices 
+SECTION-2: Technical Literature 
+SECTION-3: Scope Defination 
+
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+Mr Himanshu Kapoor 
+ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9460219551 
+himanshu@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+This is in context to your requirement of for Gas analysis System & We Thank you for the same. 
+ 
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical 
+Systems and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring & 
+Safety applications in the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc 
+ 
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern 
+Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have 
+already installed more than 4000 Analyser Systems in India and at present moment enjoy a leadership 
+position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain with more than 60% 
+market share. We are also the largest supplier and service provider of Gas Analytical Systems from India to 
+over 40 countries in Africa, Mid East, Far East and South America. 
+ 
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint 
+investment from SIEMENS AG Germany catering to all round services & repair for our customers . Our 
+State of the art factory with its highly sophisticated infrastructure is second to none in India. 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ SECTION 1: SUMMARY OF PRICES 
+
+Sr. 
+No. 
+Tag 
+No 
+Item Description 
+Qty 
+Unit price (INR) 
+Total Price (INR) 
+1 
+_ 
+Gas Chromatograph system for 
+Flare gas measurement 
+ 
+1 No 
+1,70,00,000/- 
+1,70,00,000/- 
+2 
+_ 
+GCP portal software 
+1 Lot 
+4,50,000/- 
+4,50,000/- 
+3 
+_ 
+AMS Connectivity hardware’s at 
+cabinet and AMS control room 
+1 Lot 
+6,00,000/- 
+6,00,000/- 
+4 
+_ 
+Software Tag Addition and 
+engineering 
+1 Lot 
+2,00,000/- 
+2,00,000/- 
+5 
+_ 
+Project Documentation 
+1 Lot 
+Inclusive 
+Inclusive 
+6 
+_ 
+FAT at Adage Factory 
+1 Lot 
+Inclusive 
+Inclusive 
+7 
+_ 
+Freight and P&F 
+1 Lot 
+1,00,000/- 
+1,00,000/- 
+8 
+_ 
+Supervision of installation & 
+commissioning 
+LumpSum 
+3,00,000/- 
+3,00,000/- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 2: TECHNICAL LITERATURE 
+ 
+1.1 
+Gas Chromatograph: 
+MODEL: MAXUM EDITION II, 
+MAKE: Valmet 
+Mounting location: Inside Analyser cabinet 
+GC Hazardous Area Classification: Zone 1, llB+H2 T3 
+Sample phase: Gas 
+No of Streams: 1 
+ 
+Sample Pressure : 700 to 1200 mmwc 
+Sample Temperature : 15 to 45 deg C 
+ 
+Analyzer Outputs: 
+- 
+RS-485/ Ethernet Modbus/TCP IP Serial Output. 
+- 
+Potential free contacts for fault & other alarms. 
+1 No 
+Quoted 
+1.2 
+Heated Sample Probe Assembly 
+ 
+Make shall be as per RIL AVL 
+1 No 
+Quoted 
+1.3 
+Sample transportation Line for supply 
+• 
+¼” OD SS316 Sulfinert HTT tube 
+ 
+Make shall be as per RIL AVL 
+50 Meter 
+Quoted 
+1.4 
+Heated Secondary Sample handling system: 
+- 
+Shall consist of Ball valve, pressure indicator, fastloop & 
+sample inlet flowmeter with low flow switch, AOV’s, NRV, 
+SRV, TG, etc 
+- 
+SHS components shall be mounted inside SS304 
+enclosure (Insulated front end) and shall be mounted 
+outside Analyser cabinet assembly. 
+Make shall be as per RIL AVL 
+1 No 
+Quoted 
+1.5 
+Calibration cylinder with double stage pressure regulator 
+- 
+For FAT, Commissioning & 6 month operation from the 
+date of commissioning 
+1 No 
+Quoted 
+1.6 
+Analyser Cabinet Assembly 
+- 
+1000 mm x 800 mm x 2100 mm dimension, MOC : SS316 
+- 
+With Ex proof Air Conditioner (Non Redundant) 
+- 
+ASJB, DSJB, CSJB 
+- 
+PSB’s, Headers & other accessories 
+- 
+Auto-changeover skid for above GC 
+1 No 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+2 
+GCP portal software 
+1 Lot 
+Quoted 
+3 
+AMS Connectivity hardware’s at cabinet and AMS control 
+room 
+• 
+Ethernet Switch with FO Port 
+• 
+Patch Panels 
+• 
+Patch cords 
+1 Lot 
+Quoted 
+4 
+Software Tag Addition and engineering 
+1 Lot 
+Quoted 
+5 
+Project Documentation 
+1 Lot 
+Quoted 
+6 
+FAT at Adage Factory 
+1 Lot 
+Quoted 
+7 
+Freight and P&F 
+1 Lot 
+Quoted 
+8 
+Supervision of installation & commissioning 
+Lum Sum 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 3: SCOPE DEFINITION 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of 
+complete analyzer system for the following analyzers as per MR. 
+• 
+Power distribution boxes as necessary for power distribution, junction boxes for 
+termination of the signals. 
+• 
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items. 
+• 
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4) 
+• 
+Project Management and Documentation 
+• 
+Documentation including as-built documentation, warranty of Complete Analyser system 
+• 
+Supply of spares and consumables as per MR requirements 
+• 
+Training at site as per MR requirements 
+• 
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation of Analyz
+ers. 
+
+Our Scope of Supply Does Not Include: 
+ 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Erection and Installation of analyzer Shelter and hookup of required utilities, prefabricated electrical traced 
+tubes, bare tubes, pipe, tube fittings between sample take off and analyzer 
+shelter & sample return, fast loop, vent lines etc. 
+• 
+Provision of nozzles near tapping point/Stack. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals related to filed/DCS connection. 
+• 
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication cables/field 
+tubes etc. 
+• 
+Providing all utilities as specified in MR at one point/battery limit near each Analyzer Shelter in field.

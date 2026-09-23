@@ -1,0 +1,140 @@
+Quotation Number: SQ2605X017
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY
+UNIT PRICE
+[USD]
+TOTAL PRICE
+[USD]
+1
+78309067
+Solenoid Valve 2/2 way 1/2” NPT (F) 16 MM
+Orifice 230 VAC NC MOC Brass-H
+Calss,Manual override
+2
+158.00
+316.00
+2
+78309067
+Solenoid Valve 2/2 way 1/2” NPT (F) 16 MM
+Orifice 230 VAC NC MOC Brass-H
+Calss,Manual override
+2
+158.00
+316.00
+3
+78409078
+Solenoid Valve-1/4” NPT F, 2/2 WAY VALVE,
+SS316L BODY, UNIVERSAL, 230VAC,50Hz-H
+class, Manual override
+2
+354.00
+708.00
+4
+78409070
+Solenoid Valve 3/2 Way 1/4” NPT (F) 230 VAC,
+NC, 4 MM, Universal Orifice, MOC SS316-H
+class, Manual override
+2
+480.00
+960.00
+5
+18524006
+Ring Heater 230 VAC Length 180 MM
+2
+161.00
+322.00
+6
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+2
+462.00
+924.00
+7
+28708014
+Sample Gas Pump for Bag Of Spares for 360
+LPH Pump ( N86)-(PM-26298-86)
+1
+236.00
+236.00
+8
+48519025
+Sample Gas Cooler with SS Dual Gas Path Heat
+Exchanger 230 VAC, 50 Hz with Dual Perilstatic
+Pump
+1
+2,625.00
+2,625.00
+9
+28708021
+Dosing Pump, 10 RPM,110/230 V,50 Hz,ASF
+Thomas make
+2
+750.00
+1,500.00
+10
+28708004
+Neoprene Tube For Peristaltic Pump ASF
+Thomas
+2
+111.00
+222.00
+11
+28602054
+Cartridge Filter
+6
+98.00
+588.00
+12
+28726035
+Water stop filter with two female
+connectors,Sun control- gmbh- NPT1/8"-4/ 6
+PVDF
+6
+300.00
+1,800.00
+13
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary Filter pack
+of 25
+1
+50.00
+50.00
+14
+18918001
+O'Ring Size : 68mm ODX4mmThick
+(CONDENSATE MONITOR)
+4
+7.00
+28.00
+15
+28903020
+Ceramic Filter, Dimension: 50-mm(OD) X 20-
+mm(ID) 190-mm (L) with Double ply
+4
+242.00
+968.00
+16
+18920003
+VITON GASKET - OUTER DIA: 50 MM X INNER
+DIA: 19 MM X THICKNESS: 2MM (BLACK
+COLOR)
+4
+7.00
+28.00
+17
+18918005
+O Ring For Probe 9502 - PTFE- FOR NEW KAS
+PROBE HEAD
+4
+33.00
+132.00
+18
+18709002
+Flow Meter 50-500 LPH 1/4" NPT (F) MOC
+Acrylic
+1
+143.00
+143.00

@@ -1,0 +1,93 @@
+Quotation Number: Q2506E081R4
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total
+Price
+(INR)
+1
+UREA OXYGEN ANALYZER FOR PASSIVATION AIR
+Tag No: AI-1001
+Service: TAIL GAS SAMPLE FROM 12-R-002
+Make: Siemens
+Model: SITRANS SL
+Operating Principle: TDLAS
+Analyser Area Classification: ATEX II 2G Ex de op is IIC T6
+Mounting Location: Shall be rack mounted in Analyser room
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): Approx 26 bar g
+•
+Temperature (Nor/Design): 150 Deg C
+•
+Line Size: To be provided by customer
+Measuring Range:
+•
+O2: 0-1%
+With Sample Conditioning System:
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure Gauges,
+Pressure Regulators, Safety Relief Valves, Filters, Catch pot
+•
+With Flow Through Cell for cross duct analysis
+•
+TDLAS based cross duct laser shall be mounted on a rack
+•
+Timer based auto drain arrangement at the catch pot drain end
+using AOV shall be provided.
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+MODBUS TCP/IP
+•
+4-20mA Analog Outputs
+Notes:
+•
+Shall be provided with necessary JBs and surge arrestors as
+required for the system.
+•
+Sample probe to be provided by customer. Our scope includes only
+providing the necessary heated line. Incase any heating
+arrangement is required at the probe or tapping, same shall be
+taken care by customer.
+•
+Only Analyser shall be suitable to Hazardous area, rest of the
+components shall be safe area based components.
+1 Set
+41,00,000/-
+41,00,000/-
+2
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+Suitable to Safe Area
+With necessary JBs and accessories
+15
+Mtrs
+3200/-
+48,000/-
+,
+3
+COMMISSIONING & 2 YEARS OPERATIONAL SPARES- OPTIONAL
+Commissioning spares is irrespective of any list and shall be hand carried by
+the service engineer
+2 year spare list
+Filter- 1 No
+Pressure Regulator- 1 No
+AOV- 1 No
+SOV- 1 No
+Flowmeter- 1 No
+1 Lot
+1,80,000/-
+1,80,000/-
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per
+Diem
+@30,000/- PER DIEM

@@ -1,0 +1,150 @@
+Quotation Number: Q25S10092
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Item Qty
+Description
+Unit Price (₹)
+(Excl GST)
+Total Price (₹)
+(Excl GST)
+1
+1
+Combustibles Analyzer including
+Startup & commissioning spares including below
+Items
+55,78,000
+55,78,000
+1.1
+1
+Design & Project Management
+Inclusive
+Inclusive
+1.2
+1
+FAT at Adage Factory
+Inclusive
+Inclusive
+1.3
+1
+Packing, Forwarding & Transportation upto Site
+1,10,000
+1,10,000
+1.4
+1
+O&M Training at Site for 7 nos. owner personnel in
+1 day.
+30,000
+30,000
+1.5
+1
+O&M Training at factory for 7 nos. owner personnel
+in 1 day.
+30,000
+30,000
+2
+1
+Mandatory Spares for CO Analyzer as per MR
+9,84,000
+9,84,000
+3
+1
+Supervision of installation & Commissioning & SAT
+The No. of days shall be 3 man-days at site in 2
+trips
+1,50,000
+1,50,000
+PRICE SCHEDULE FOR PWAMC
+During PWAMC period, 2 man-days every quarter visit will be done by service expert for maintenence
+purpose. if any spare required then same to be arranged by buyer
+Sr no.
+Description
+Total Price (₹)
+(Excl GST)
+1
+First year after expiry of defect liability
+4,00,000
+2
+Second year after expiry of defect liability
+4,50,000
+3
+Third year after expiry of defect liability
+5,00,000
+4
+Fourth year after expiry of defect liability
+5,50,000
+5
+Fifth year after expiry of defect liability
+6,00,000
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. Mounting Location of Analyser is Considered on Stack, HMI & RCU of the same shall be mounted on
+field.
+2. The Analyser is rated for ATEX II 3G Ex pz IIC T3 Gc and IECEx Zone 2, T3 with purge.
+3. Probe MOC shall be SS 310 rated upto 1024°C Max.
+4. HART output is not available.
+5. We have considered Zero and Span gas cylinders of 10 ltr sufficient for 1yr.
+SECTION 3: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 07-AT-6653
+Service: Combustibles (CO and H2) in Radiant section for Heater
+-
+Operating Pressure (Nor): -2.54 mmwcg
+-
+Operating Temperature (Nor): 825 DegC
+As Per MR
+Requirement
+GAS ANALYSER FOR COMBUSTIBLE MEASUREMENT
+Make: AMETEK
+Model: WDG-VC
+Measuring principle: Zirconia
+Hazardous Area Classification: Zone 2 llC T3
+Mounting Location: In-Situ Mounting with sample probe
+Phase : Gas
+IP rating : IP65
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault alarms
+Measuring Ranges: 0 to 2000 ppm combustibles.
+Process Connection: 4"NPS x Sch 40 with 150# WNRF Flange
+Probe Type: MOC:310SS
+Process Condition:
+Temperature (nor): 825 Deg C
+Pressure (nor): -2.54 mmwcg
+Utilities Required:
+-
+Power supply: 110 VAC, 50HZ UPS, Power
+Consumption:740VA .
+- 3 SCFH typical at 3 to 6 psig, instrument air, Free of Oil,
+Dust & Moisture.
+1 No
+Quoted
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+(MOC: SS316, 3mm)
+-
+RCU unit for Auto/Manual calibration.
+-
+With HMI (Suitable for Zone-2), Make: Ametek.
+-
+With electrical JB, MOC: LM6
+-
+1⁄4” SS316 Tubing between RCU unit and Analyzer Sensor. (30
+meters)
+1 No
+Quoted
+-
+Power Cable between Sensor Unit at Stack & HMI at grade
+level: (30 meters).
+-
+Signal Cable between Sensor Unit at Stack & HMI at grade
+level: (30 meters).
+-
+Communication Cable between Sensor Unit at Stack & HMI at
+grade level: (30 meters).
+-
+Calibration Gas of 10 ltrs for zero & Span with regulators (2-
+Stage SS) and required accessories by Adage.

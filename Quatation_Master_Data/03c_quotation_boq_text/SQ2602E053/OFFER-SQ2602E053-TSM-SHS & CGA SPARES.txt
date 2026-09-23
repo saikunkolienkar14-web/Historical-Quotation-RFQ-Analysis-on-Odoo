@@ -1,0 +1,65 @@
+Quotation Number: SQ2602E053
+BOQ Status: FOUND
+
+Date: 24-02-2026
+Ref: Q25260570-SQ2602E053
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18716008
+Pressure Transmitter,Absolute
+-Range :- 0 to 4 Bar process
+connection 1/2" BSP (M)
+1.00
+55,775.00
+55,775.00
+1
+Nos
+18607027
+Thermocouple K type Probe Detector
+20 mm & 1/4" NPTM with cable 4
+meter
+1.00
+2,991.00
+2,991.00
+2
+Nos
+18604005
+Temperature Controller-48 X48 mm
+RTD I/P 1 Alarm Output1 Ctrl Output
+1.00
+20,125.00
+20,125.00
+3
+Nos
+28417021
+Injector Propulsion gas inlet & Media
+inlet: G1/4", Outlet: G3/8", Material:
+SS
+1.00
+43,193.00
+43,193.00
+4
+Nos
+28601385
+Display for Sitrans SL
+1.00
+119,050.00
+119,050.00
+5
+Nos
+28601387
+Capillary kit
+1.00
+58,716.00
+58,716.00
+6
+Nos
+Date: 24-02-2026
+Ref: Q25260570-SQ2602E053

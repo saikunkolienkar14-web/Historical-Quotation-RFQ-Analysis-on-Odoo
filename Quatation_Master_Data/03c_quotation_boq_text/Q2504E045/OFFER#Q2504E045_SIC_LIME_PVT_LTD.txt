@@ -1,0 +1,65 @@
+Quotation Number: Q2504E045
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR-
+NATURAL GAS
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 14330 - 20300 kcal/m3
+•
+WI : 60.0 - 85.0 MJ/m3
+Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample
+Isolation Valve, Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific
+Value, Wobbe-Index, Specific Density
+•
+Kind of Gas: Natural Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value,
+Wobbe Index and Specific gravity resp.
+1 Set
+59,00,000
+59,00,000
+2
+PREFABRICATED HEAT TRACED TUBE:
+Size: 1⁄2”
+MOC: SS
+Power Supply: 230 VAC
+@3900 PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/
+AC II Train Fare To Be Arranged by Adage)
+@30000 PER MANDAY

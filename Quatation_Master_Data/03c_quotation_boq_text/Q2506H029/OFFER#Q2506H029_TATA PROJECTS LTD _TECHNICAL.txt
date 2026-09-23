@@ -1,0 +1,289 @@
+Quotation Number: Q2506H029
+BOQ Status: FOUND
+
+Description
+Qty.
+Unit Price
+(INR)
+Total
+Price
+(INR)
+Continuous Emission Monitoring System (CEMS)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF CO, NO, SO2 & O2
+With Gas Sample Probe
+With Blowback Unit
+With Auto Probe Cleaning
+With Sample Handling System
+With Remote Calibration
+With Touch Screen Graphic Colour Display – 7”
+With IP54 Panel
+With Microprocessor Based Analyser
+With pressure and temperature compensation
+With Calibration Gas Cylinders
+ULTRAMAT 23 – 1 No.
+For the measurement of
+Carbon Monoxide (CO)
+Nitric Oxide (NO)
+Sulphur Dioxide (SO2)
+Oxygen (O2)
+MAKE: SIEMENS AG, Germany
+Note : The quoted system is hot extractive system with gas cooler
+and cold analysers where moisture is removed in the gas cooler and
+hence no moisture compensation is required since the readings are
+not affected by moisture. Therefore moisture measurement is not
+necessary.
+4 SETS
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+@QUOTED PER MTR
+QUOTED
+3
+DUST MONITOR AT OUTLET OF STACK
+Make: Sick / Durag, Germany
+Utility requirement: instrument air free from oil, dust & moisture at
+4/5 bar to be provided by customer
+4 SETS
+QUOTED
+QUOTED
+4
+FLOW MONITOR AT OUTLET OF STACK
+Make: Sick / Durag, Germany
+Utility requirement: Instrument air free from oil, dust & moisture at
+4/5 bar to be provided by customer
+4 SETS
+QUOTED
+QUOTED
+5
+ONLINE TOTAL MERCURY ANALYSIS SYSTEM
+Model: HM-1400 TRX Make: Durag, Germany
+total no of sampling location: 1 no.
+for the measurement of total mercury
+for monitoring total hg concentration in sample gas
+measuring principle: Dual beam UV CVAAS photometer
+ionic Hg-compounds are converted to hg inside a thermal converter
+Measuring range: 0 to ... 200 mg/Nm3
+Display resolution: 0.1 mg/Nm3
+Protection class: IP54
+Power supply: 230VAC, 50 Hz
+With 35 mtrs heated line
+4 SETS
+QUOTED
+QUOTED
+6
+PC BASED DATA ACQUISITION SYSTEM
+PC based Data Acquisition System with License Software suitable for
+storing, logging, reporting, printing data, validation and
+communicating with above offered local DAS. PC with specifications as
+under:
+Make: PC with specifications as under: Make: HP/DELL INTEL I3
+Processor, 4 GB RAM, 500GB HDD, CD/DVD Combo drive, 18” TFT
+monitor, standard windows operating system, standard keyboard,
+mouse with pad
+Note: Internet connection with min. 1 mbps speed with
+static public ip is to be provided by the customer.
+4 SETS
+QUOTED
+QUOTED
+7
+High temperature O2
+Make: Forbes Marshal / Emerson /equivalent
+4 SETS
+QUOTED
+QUOTED
+8
+Low temperature O2
+Make: Forbes Marshal / Emerson /equivalent
+12 SETS
+QUOTED
+QUOTED
+Ambient Air Quality Monitoring System (AAQMS)
+9
+AMBIENT AIR QUALITY MONITORING SYSTEM
+SO2 Analyser
+•
+Measurement Principle: UV Fluorescence
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: Auto ranging 0 – 10 ppm
+•
+Communication: Ethernet
+•
+Detection Limit: < 0.4 ppb
+•
+Make: ENVEA; Model: AF22e
+Oxide of Nitrogen (NO - NO2 – NOX )Analyzer
+•
+Measurement Principle: Chemiluminescence
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: Auto ranging 0 – 10 ppm
+•
+Communication: Ethernet
+•
+Detection Limit: < 0.2 ppb
+•
+Make: ENVEA; Model: AC32e
+CO Analyser
+•
+Measurement Principle: Non-Dispersive Infra-Red
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0 – 50 ppm
+•
+Detection Limit: 0.05 ppm
+•
+Communication: Ethernet
+•
+Make: ENVEA; Model: CO12e
+Ozone Analyser
+•
+Measurement Principle: UV Photometric
+•
+Power Supply: 230V, 50 Hz
+•
+Measuring Range: 0-500 ppb / 0-10 ppm
+•
+Lower Detection Limit: 0.2 ppb
+•
+Communication: Ethernet
+•
+Make: ENVEA; Model: O342e
+1 Set
+QUOTED
+QUOTED
+PM10 and PM2.5 Analyser
+•
+Measurement Principle: Beta Ray Attenuation
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0-10 000 μg/m3
+•
+With C14 radioactive source
+•
+Pump
+•
+PM10 inlet
+•
+RS 232 & Ethernet port for serial communication
+•
+Make: ENVEA; Model: MP101-0PM
+Sample Handling System consisting of
+•
+Sample inlet Filter
+•
+Sample Inlet Hood
+•
+Glass Manifold for SHS
+•
+With Multipoint calibrator
+•
+With Zero Air Generator
+•
+With Standard 19” Rack Cabinet (Double Bay Rack)
+•
+Calibration Gas Cylinders for span calibration with double
+stage regulator (SO2, NO, CO,– Cylinder, 1 Set each, Capacity-
+10 L)
+10
+Porta Cabin for AAQMS
+•
+MOC: CRCA
+•
+With split AC
+•
+With insulation
+•
+With aluminium chequered plate flooring
+•
+With single door and lock with lights
+•
+Dimensions: 3 M (L) X 3 M (W) X 3 M (H)
+•
+Completely wired and tubed to house the gas analyser
+system.
+PC Based Data Acquisition System
+•
+PC based Data Acquisition System with License Software
+suitable for Storing, Logging, Reporting, Printing data,
+Validation and communicating with Local DAS system.
+•
+PC specifications as under:
+Make: HP/LENOVO/Eqv, Intel i3 Processor, 4 GB RAM, 500 GB HDD,
+CD/DVD Combo Drive, 18” TFT Monitor, Standard WINDOWS 10 latest
+operating System, standard keyboard, mouse with pad.
+UPS System
+•
+With 30 mins Battery Back-up.
+1 SET
+QUOTED
+QUOTED
+CONTINUOUS EFFLUENT QUALITY MONITORING SYSTEM (CEQMS)
+11
+COD, BOD, TSS, pH ANALYSER
+Make: HORIBA/ Endress+Hauser/ Equivalent
+Parameter: COD, BOD, TSS, pH
+UV-Visible spectrograph Range: 180 – 750 nm
+Resolution: 0.29 nm 2048 pixels,
+Colour graphic display: 640x480 pixels with touch screen
+7 available glands for inputs/ outputs
+RS232 included (Sub-D 9 ways female connector)
+With 2 meters cable for PC
+RS485 included for communication with probes.
+USB port included for USB key connection.
+Automatic cleaning system with 2-litres tank
+Power supply 90-260 VAC 47-63 Hz with power cord
+2 SETS
+QUOTED
+QUOTED
+12
+PTFE TUBE FOR SAMPLE GAS TRANSPORTATION
+Size: 1⁄4’’
+@QUOTED PER MTR
+QUOTED
+13
+ELECTROMAGNETIC FLOW METER
+Make: Endress+Hauser/UPC/ Equivalent
+Approval; Transmitter + Sensor: Non-hazardous area
+Design: Lap joint flange
+Functionality: Standard transmitter
+Power Supply: 100-230VAC
+Output; Input: 4-20mA HART, pulse/freq./switch output
+Display; Operation: LCD, 2.40"; SmartBlue app
+Housing: Compact, polycarbonate
+Electrical Connection: Gland M20
+Liner: PTFE 90oC
+Process Connection: Cl.150, carbon steel, lap joint flange ASME
+B16.5
+Electrodes: Alloy C22
+Calibration Flow: 0.5%
+Operation Language Display: English
+2 SETS
+QUOTED
+QUOTED
+14
+PC Based Data Acquisition System
+PC based Data Acquisition System with License Software suitable for
+Storing, Logging, Reporting, Printing data, Validation and
+communicating with Local DAS system.
+PC specifications as under:
+Make: HP/LENOVO/Eqv, Intel i3 Processor, 4 GB RAM, 500 GB HDD,
+CD/DVD Combo Drive, 18” TFT Monitor, Standard WINDOWS 10
+latest operating System, standard keyboard, mouse with pad.
+2 SETS
+QUOTED
+QUOTED
+SUPERVISION AND COMMISSIONING
+1
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II
+Train Fare to be arranged by Customer)
+@ QUOTED PER MAN DAY

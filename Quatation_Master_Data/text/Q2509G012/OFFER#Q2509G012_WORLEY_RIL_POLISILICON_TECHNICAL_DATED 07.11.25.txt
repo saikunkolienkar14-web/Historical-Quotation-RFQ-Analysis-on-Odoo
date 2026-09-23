@@ -1,0 +1,703 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ CUSTOMER: 
+
+WORLEY GROUP 
+
+ 
+END USER : 
+
+ 
+
+ Reliance Industries Limited (RIL) 
+
+ SUBJECT: Quotation for CEMS 
+
+ KIND ATTENTION: Mr. Sujit Gharat 
+
+ Dear Sir, 
+ 
+We thank you for your inquiry and are pleased to quote as per enclosed specification on terms stated below. If 
+you have any questions or require additional information, please feel free to contact us. 
+ Table of Contents: - 
+ 
+ Section 1: SUMMARY OF PRICES 
+ Section 2: SCOPE DEFINATION 
+ 
+ Section 3: COMMERCIAL CONDITIONS 
+ 
+ Section 4: BILL OF MATERIALS 
+ 
+Our Quotation No: Q2509G012 
+Dated: 07.11.2025 
+
+Contact persons : 
+ 
+Mr. Sameer Ghorpade 
+Email: sameer@adage-automation.com 
+Mob: +91 8888200099 
+(Adage-Mumbai) 
+ 
+Ms. Leonie Fernandes 
+Email: leonie@adage-automation.com 
+Mob: + 91 7038520982 
+(Adage-Goa-HO) 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir, 
+
+This is in context to your requirement for measurement of Gas Analysis System. 
+
+ Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in India and 
+worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in the industrial field of 
+Steel, Cement, Power, Fertilizers, Chemical & Petrochemicals , Oil & Gas etc. We are an ISO 9000:2015 & OHSAS 
+18001: 2007 certified company . 
+ 
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG , Germany for the Indian market 
+for Process Gas Analyzers . We have 11 Offices across India with subsidiary companies in Sharjah , UAE & New 
+Jersey , USA and we have 200+ Specialist Engineers and a modern state of the art Factory in Goa. We have 
+already installed more than 5,000 Analyser Systems & more than 10,000 Analyzers in India . At the present 
+moment , we enjoy a leadership position in the Indian Industry . We are also the largest exporter of Gas Analytical 
+Systems from India to over 40 countries in Europe , Africa, Middle East, Far East and South America. 
+ 
+Our State of the art application Lab and the Regional Repair Centre ( RRC ) is under a joint investment from 
+SIEMENS AG Germany . Adage have been awarded in 2018 by the Ministry of Industries , Govt of India as one of the 
+India’s Small Giants , which is an initiative to recognize the top performing companies in terms of sustainable 
+growth and innovations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ OUR MAJOR CUSTOMERS IN INDIA INCLUDES:- 
+
+ 
+
+ 
+
+ 
+
+ 
+AND MANY MORE 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3: TECHNICAL LITERATURE 
+ 
+S.No. 
+Description 
+Qty 
+Unit Price 
+Price 
+1 
+Gas analyser system for stack of both filament etching 
+machine vent and lab fume hood vent scrubber 
+system 
+ 
+Make: Siemens AG Germany 
+Model: Ultramat 6e 
+Area classification: Safe Area 
+Mounting location: Shall be mounted inside Cabinet 
+Principle: NDIR 
+ 
+Process Conditions 
+- 
+Operating Temperature(Op/Design) : 31 Deg C 
+- 
+Operating Pressure(Op/Design):- 9.26 mmWC 
+ 
+Analyser Output 
+- 
+4-20Ma Analog output 
+- 
+RS485 Modbus serial output 
+- 
+Digital contacts for fault alarms 
+- 
+ 
+Analyser Parameters 
+Accuracy : It is measured in terms of linearity , 
+which is Better than 1% of current measuring range 
+Response time :Within 5 seconds sec 
+
+Measuring range : Customer to specify 
+ 
+2 Nos 
+Quoted 
+Quoted 
+1.1 
+Sample Probe : 
+- 
+Heated probe assembly 
+- 
+With Ceramic Filter 
+- 
+With Bushing Tube, Flanges & Mounting 
+Accessories 
+- 
+Make : Adage 
+ 
+2 Nos 
+Quoted 
+Quoted 
+1.2 
+Sample Transportation tube: 
+- 
+¼’’ PTFE HTT Tube, 
+- 
+With all necessary accessories and JB’S 
+- 
+Make Thermon/ O’Brien 
+ 
+As 
+per 
+Rqd 
+qty 
+Quoted 
+Quoted 
+1.3 
+Blowback unit 
+- 
+With Auto Cleaning of Probe Facility 
+- 
+With Solenoid Valve, Make: Asco/Burkert 
+- 
+Completely Tubed, Pre-Fabricated & Tested 
+2 Nos 
+Quoted 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+1.4 
+SHS shall consists of 
+- 
+Ball valves, Sample gas cooler with peristatic pump 
+assembly, Sample gas pump, SOV’s, condensate 
+monitor, NRV, Flowmeter etc 
+ 
+2 Sets 
+Quoted 
+Quoted 
+1.5 
+Gas conditioning cabinet 
+- 
+Above items will be mounted inside this cabinet, 
+completely tubed, wired and functionally tested. 
+- 
+Size & exact dimensions of the panel shall be 
+informed after detailed engineering. 
+- 
+Ip 54 rated panel 
+ 
+1 Set 
+Quoted 
+Quoted 
+1.6 
+Calibration cylinders: 
+- 
+With 10L NO Span gas cylinder 
+- 
+With 10L N2 zero gas cylinder 
+- 
+Shall be supplied for 6 months operation from the 
+date of commissioning, further refilling shall be 
+taken care by customer 
+ 
+1 Set 
+Quoted 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+2 
+ 
+HCL Analyser (Insitu Type) 
+Make: Siemens 
+Model : LDS 6 
+area classification: Safe Area 
+Mounting location: Shall be directly mounted on stack 
+& controller shall be mounted inside common cabinet 
+(with NOX analyser) 
+Principle: TDLAS 
+IP Rating: IP65 rated 
+ 
+With Hybrid cable – As required 
+With Loop cable – As required 
+With Central unit 
+ 
+Process Conditions 
+- 
+Operating Temperature(Op/Design) : 31 Deg C 
+- 
+Operating Pressure(Op/Design):- 9.26 mmWC 
+ 
+Analyser Output 
+- 
+4-20Ma Analog output 
+- 
+RS485 Modbus serial output 
+- 
+Digital contacts for fault alarms 
+ 
+Analyser Parameters 
+Accuracy : It is measured in terms of linearity , 
+which is Better than 1 
+Response time : Min 1 sec 
+LDL: 0.6 ppm 
+ 
+Measuring range : Customer to specify 
+
+2 Nos 
+ 
+Quoted 
+ 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+3 
+HF Analyser (Insitu Type) 
+ 
+Make: Siemens 
+Model : LDS 6 
+area classification: Safe Area 
+Mounting location: Shall be directly mounted on stack 
+& controller shall be mounted inside common cabinet 
+(with NOX analyser) 
+Principle: TDLAS 
+IP Rating: IP65 rated 
+ 
+With Hybrid cable – As required 
+With Loop cable – As required 
+With Central unit 
+ 
+Process Conditions 
+- 
+Operating Temperature(Op/Design) : 31 Deg C 
+- 
+Operating Pressure(Op/Design):- 9.26 mmWC 
+ 
+Analyser Output 
+- 
+4-20Ma Analog output 
+- 
+RS485 Modbus serial output 
+- 
+Digital contacts for fault alarms 
+ 
+Analyser Parameters 
+Accuracy : It is measured in terms of linearity , 
+which is Better than 1 
+Response time : Min 1 sec 
+LDL: 0.6 ppm 
+ 
+Measuring range : Customer to specify 
+
+2 Nos 
+ 
+Quoted 
+ 
+Quoted 
+4 
+ 
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES 
+Lodging and boarding to be arranged by the customer. To and 
+To be claimed at actuals (acii tier/flight). 
+
+@QUOTED PER MANDAY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+ 
+SECTION 2: NOTE, UTILITIES & SCOPE DEFINATION FOR GAS ANALYSIS SYSTEM 
+ 
+• 
+External Cabling, Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope. 
+• 
+All Interconnecting Cables Between analyzers to Sample point location shall be in customer’s Scope. 
+• 
+Customer shall provide Plant Nitrogen/ Air should be oil & moisture free @ 4-6 bar. 
+• 
+Customer to provide air conditioned room for housing the panel. 
+• 
+Power Supply Utilities required are: 
+• 
+Power Supply: 110 VAC, 50 Hz (UPS) 
+ 230 VAC, 50 Hz (NON- UPS) 
+Our Scope of Supply and Work Includes: 
+• 
+Design, Engineering and Supply of system as per Summary of Prices 
+• 
+Supervision of Installation and Commissioning of the complete System 
+• 
+Project Management and Project Documentation 
+ 
+Our Scope of Supply Does Not Include: 
+• 
+All Erection and Installation Activity. 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Welding of flanges or mounting of purge air unit and instrument on the stack/duct. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals. 
+• 
+Supply and laying of Cable and cable trays for Power supply / Analog and Digital signal / serial communication 
+cables, special Cable ,etc. 
+• 
+Laying of trays/structural and support for field tubing. 
+• 
+All utilities as mentioned above. 
+• 
+For any delay in commissioning due to reasons not attributed to M/S Adage, commissioning charges shall be 
+as per quoted man days. 
+
+ 
+
+GA01
+SOLUTION PARTNER ANALYTICAL
+BLOW BACK UNIT
+GA02
+GA03
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 3: COMMERCIAL CONDITIONS 
+Price Basis 
+Ex – Works, Goa, India. 
+Packing & 
+Forwarding Charges 
+Extra 2% of the basic order value. 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 08 months from the date of Drawing Approval . 
+Storage Charges 
+The storage charges shall be applicable @0.5% of the order value per week after 
+inspection or scheduled delivery. 
+Offer validity 
+30 days. 
+Payment Terms 
+20% Advance with the Purchase Order, 20 % with Drawing Approval and 
+Balance 60 % against Proforma Invoice on readiness of material prior to 
+dispatch. 
+Guarantee Clause 
+Against manufacturing defects for 12 months from the date of Commissioning 
+or 18 months from the date of shipment whichever is earlier. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+BILL OF MATERIALS 
+DESCRIPTION 
+LEGEND 
+QUANTITY 
+SAMPLE GAS PROBE (HEATED TYPE) 
+WITH WEATHER PROTECTION SHIELD 
+WITH BLOWBACK ARRANGEMENT FOR PURGING 
+SUITABLE FOR SAFE AREA 
+MAKE ADAGE 
+PRB 01 
+1 PC 
+WITH SAMPLE GAS PUMP 
+CAPACITY: 280 LPH, POWER SUPPLY: 230VAC, 50HZ 
+MAKE: BUHLER 
+ MP01 
+1 PC 
+WITH SAMPLE GAS COOLER 
+WITH DUAL GAS PATHS, TYPE: REFRIGERATION 
+WITH AUTO DRAIN PUMP (AL01), MAKE: BUHLER 
+GC 01 
+1 PC 
+WITH FLOWMETER 
+FLOW RATE: 15-150 LPH, MAKE: BUHLER / KROHNE 
+FM01 
+1 PCS 
+NEEDLE VALVE 
+MAKE: SWAGELOK 
+NV01 
+ 1 PC 
+3/2 WAY SOLENOID VALVE 
+POWER SUPPLY: 24 VDC, 50 HZ, MAKE: ASCO 
+SV05 & SC 06 
+2 PCS 
+2/2 WAY SOLENOID VALVE 
+POWER SUPPLY: 24 VDC, 50 HZ, MAKE: ASCO 
+SV02-04 
+3 PCS 
+MOISTURE DETECTOR 
+WITH MEMBRANE FILTER, WITH SWITCHING UNIT 
+MAKE : BUHLER 
+CM01 
+1 PC 
+WITH FLOWMETER 
+FLOW RATE: 50-500 LPH, MAKE: BHULER / KROHNE 
+FM02 
+1 PC 
+RTD 
+FOR PANEL TEMPERATURE, WITH TEMPERATURE INDICATOR 
+MAKE : TEMPSEN 
+RTD -01 
+1 PC 
+ELECTRICAL COMPONENTS 
+WITH NECESSARY MCB’S 
+WITH NECESSARY ELCB’S 
+WITH TERMINALS(MAKE : WAGO/PHOENIX) 
+WITH PUSH BUTTONS & LAMPS FOR STATUS/FAULTS 
+WITH NECESSARY CABLES & WIRES FOR INTERCABLING 
+ 
+1 SET 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+CONNECTORS & FITTINGS 
+WITH NECESSARY PVDF FITTINGS ( MAKE : EM TECHNIC , GERMANY) 
+WITH NECESSARY SS FITTINGS (MAKE: HOKE/SWAGELOK) 
+ 
+1 SET 
+NO2 TO NO CONVERTER 
+POWER SUPPLY: 110 VAC, 50 HZ., MAKE: FUJI 
+NOX CONV. 
+1 PC 
+FILTER 
+MOC: SS , MAKE: SWAGELOK 
+ FF01 
+1 PC 
+AIR FILTER STATION 
+WITH PRESSURE GAUGE (MAKE: WIKA) 
+WITH PRESSURE SWITCH (MAKE: DANFOSS) 
+WITH PRESSURE RELIEF VALVE (MAKE: SWAGELOK) 
+AIR FILTER REGULATOR (MAKE:NORGEN) 
+AFS 01 
+1 PC 
+HMI 
+WITH DIGITAL INPUTS/OUTPUTS FOR SEQUENTIAL CONTROL 
+& OPERATION OF THE SYSTEM 
+MAKE: ADAGE 
+HMI 
+1 PC 
+PROGRAMMABLE LOGIC CONTROLLER 
+WITH DIGITAL INPUTS/OUTPUTS FOR SEQUENTIAL CONTROL 
+& OPERATION OF THE SYSTEM, MODEL: S71200, MAKE: SIEMENS 
+PLC 
+1 PC 
+ULTRAMAT 6E ANALYSER 
+MAKE: SIEMENS AG GERMANY 
+MODEL: ULTRAMAT 6E 
+MEASURING COMPONENT: NO 
+MEASURING RANGE: 0-20 PPM MEASURING 
+PRINCIPLE: NDIR 
+POWER SUPPLY: 110 VAC +10%, 50 Hz + 3 Hz. 
+OUTPUT: 4-20mA 
+LINEARITY: ±0.5% OF THE FULLSCALE VALUE 
+REPEATABILITY: ≤1% OF CURRENT MEASURING RANGE MAKE: SIEMENS AG, 
+GERMANY. 
+GA 01 
+1 PC 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+GAS ANALYSIS CABINET 
+MOC: CRCA 
+ABOVE ITEMS WILL BE MOUNTED INSIDE THIS CABINET, 
+COMPLETELY TUBED, WIRED AND FUNCTIONALLY TESTED 
+CAB 
+1 PC 
+SPAN GAS CYLINDERS FOR NO GAS 
+WITH DUAL STAGE CYLINDER PRESSURE REGULATOR, 
+CYLINDER MAKE: INOX 
+CYL - 1 
+1 SET 
+ZERO GAS CYLINDERS FOR N2 
+WITH DUAL STAGE CYLINDER PRESSURE REGULATOR 
+CYLINDER MAKE: INOX 
+ CYL - 1 
+1 SET

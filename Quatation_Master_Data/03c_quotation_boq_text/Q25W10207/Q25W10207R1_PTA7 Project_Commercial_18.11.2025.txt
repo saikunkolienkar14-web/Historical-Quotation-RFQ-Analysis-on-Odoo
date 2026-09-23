@@ -1,0 +1,349 @@
+Quotation Number: Q25W10207R1
+BOQ Status: FOUND
+
+Description
+Qty.
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+AH01
+Analyzer Shelter Assembly with
+HVAC and Other Accessories
+Make : Adage
+As per Drawing Attached as Appendix-A
+1 Set
+2,06,65,000
+2,06,65,000
+2
+107AT64101
+107AT63901A/B/C
+107AT13901A/B/C
+CO and CO2 Analyser
+Make : Servomex
+Model : SERVOTOUGH Spectra Exact
+2500
+7Nos.
+Free Issued
+Free Issued
+3
+107AT64102A/B/C
+107AT63902A/B/C
+107AT13902A/B/C
+Oxygen Analyser
+Make : Servomex
+Model : SERVOTOUGH Spectra Exact
+2200
+9Nos.
+Free Issued
+Free Issued
+4
+____
+Analyser Sample Probe with isolation
+valve
+As per Drawing Attached as Appendix-B
+9Nos.
+5,02,50,000
+5,02,50,000
+5
+____
+Pressure Reduction panel
+As per Drawing Attached as Appendix-C
+9Nos.
+6
+____
+Sample Conditioning Cabinet
+As per Drawing Attached as Appendix-D
+9Nos.
+7
+____
+Sample Lute Cabinet
+As per Drawing Attached as Appendix-E
+3 Nos.
+8
+____
+Analyser Sample Handling system for
+Infrared Analyser
+As per Drawing Attached as Appendix-F
+7Nos.
+9
+____
+Analyser Sample Handling system for
+Paramagnetic Oxygen Analyser
+As per Drawing Attached as Appendix-G
+9Nos.
+Note :
+1. Following items are excluded and free issued by Servomex during project execution stage
+•
+Centrifugal separator Assembly
+•
+Lute Assembly with it sub components
+•
+Field Tubing
+•
+Gas Scrubbing Column
+SCHEDULE OF PRICES SERVICES
+Sr
+No Description
+Qty.
+Total
+Price(INR)
+1
+Integration of Free Issued Analysers in Adage manufactured shelter
+1 Lot
+10,00,000
+2
+Testing of SCS, Shelter and HVAC
+1 Lot
+Inclusive
+3
+Supply of Calibration gas cylinders, Consumables for FAT
+1 Lot
+5,00,000
+4
+IFAT of Analyser system
+1 Lot
+3,00,000
+5
+Project Documentation#
+1 Lot
+6,00,000
+6
+PMI Testing
+1 Lot
+1,00,000
+7
+Design Calculations(heat Load Calculations of HVAC)
+1 Lot
+Quoted
+8
+Punch Point Clearance
+1 Lot
+Quoted
+9
+Packing and Forwarding
+1 Lot
+3,00,000
+10
+Site Acceptance Test
+(Boarding, Lodging and Local Conveyance shall be in customer scope.)
+Per
+Diem (8
+Hours
+Manday)
+50,000
+OPTIONAL PRICES
+Sr
+No Description
+Qty.
+Total Price
+1
+Mandatory spares for SCS, AH and HVAC.
+1 Lot
+Later
+2
+2 year O&M spares for SCS, AH and HVAC.
+1 Lot
+Later
+DETAILED OFFER OF ANALYSER SHELTER
+Train – 1 & Train - 2
+S.N.
+Item Description
+Qty.
+Price (INR)
+1
+Analyzer Shelter (Analyzer Room)
+Tag no: AH-1
+Make: ADAGE
+Area Classification: Zone 1 IIC (Inside shelter)
+Zone 2 IIC (Outside shelter)
+Shelter construction
+-
+Dimensions- 12 Mtr X 3 Mtr X 3 Mtr
+-
+Design-Ribbed interlock
+-
+Internal MOC- SS316
+-
+External MOC: SS316
+-
+2 mm Thick Internal Wall & 2 mm Thick Outer Wall.
+-
+100 mm Insulation of Mineral Wool
+-
+Overhang Roof Canopy-1 Meter in all four sides,
+MOC: SS316 2 mm thick.
+-
+Base frame: ISMC 150
+-
+Panic Bar Installed on Each Door.
+-
+Floor: Anti-Slip and Non-Corrosive Aluminum Chequered
+Plate.
+-
+Doors: Main Door and Emergency Door with double glazed
+viewing windows with shatterproof Safety Glass Window
+-
+Louvers with bird screen
+-
+Lifting lugs
+-
+Switch sockets x 2Nos each (110 & 230 VAC)
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+SS316 tag plates
+-
+Cable Entry to Shelter: Through MCT Block (Separate for
+power & signal)
+-
+Tube Entry to Shelter: Gromet/ bulkhead, MOC: SS316
+-
+FRP Cable Trays
+-
+Portable CO2 Fire extinguisher – 2 no near each door
+-
+With Services Panel as per Drawing Attached as Appendix-H
+Special Note:
+AH GAD is provided during detailed engineering considering Spare
+1 No
+Quoted
+space for analyzers& SHS. AH shall be designed to meet RPMS
+specifications with required free space.
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure 1
+-
+Junction Box’s Moc: GRP/FRP, Exe
+-
+Power Distribution Box & Warning Panels, Exd LM6 with
+standard paint
+-
+Power supply and communication card shall be Redundant
+CPU & I/O cards shall be Non redundant
+-
+Shelter Safeguarding PLC Mounted Inside CRCA Purged
+Enclosure.
+Misc items:
+-
+Eye Wash & Wash Basin.
+-
+Document storage desk
+-
+work bench
+-
+FRP ladder
+Communication Hardware at Shelter Side for each shelter:
+-
+RS 485 to Ethernet converter Make : Moxa
+-
+Ethernet to FO Convertors Make : Hirschman(BRS30)/Cisco
+-
+Patch Panel (1 No), Patch cords (1 lot)
+2
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: SS316
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC With Automatic Changeover & single blower
+-
+With internal duct
+-
+Capacity – 5 Tr (Size to be considered based on 12 Air volume
+change)
+-
+Air changes shall be 12 per hour
+-
+Fresh Air Duct with Rain cap and bird Mesh: 9 Meters above
+shelter, MOC: Hot dipped galvanized steel
+-
+With Chemical Filter Assembly mounted on Shelter roof
+Fresh air ducting inside AH is included.
+1 No
+Quoted
+ANNEXURE -1
+DETAILED BOQ FOR EACH SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter); Make : MSA; Model : PRIMA-X-IR
+2
+LEL detector in the fresh air duct; Make : MSA; Model : PRIMA-X-IR
+2
+Toxic Gas Detector - inside Fresh Air Duct ; Make : Honeywell; Model: Series 3000 MkIII
+2
+Toxic Gas Detector -Inside Shelter; Make : Honeywell; Model: Series 3000 MkIII
+2
+H2 Detector; Make : Honeywell; Model : XNX
+1
+O2 deficiency detector; Make : Honeywell; Model: Series 3000 MkIII
+1
+OPTICAL SMOKE DETECTOR; Make : Apollo Orbis; Model : ORB-OP-52028APO
+2
+Humidity Transmitter, Make: Honeywell / Siemens / Johnson Control
+1
+Diff pressure Gauge and Switch; Make : Maghelic and Differential pressure transmitter,
+Make: Emerson, Model : 3051CD
+1
+Temp Tx with Display; Make : Emerson, Model: 3144P
+1
+Safe Guard PLC with redundancy at power supply & communication cards (CPU & I/O
+cards are non redundant), Siemens S71500
+1 LOT
+Purge controller for PLC Panel with CRCA & Type 20 coating Make : P&F(purge
+Controller)
+1
+Electrical Panels: Zone 1 IIC
+PDBs, Intermediate PDBs ( FCG/Flexpro/FEPL), JBs, Interface JBs, Power JB (Phoenix
+Mecano) cum isolation switch for incomer cable termination prior to PDB. Rack for PDBs &
+warning Panel
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter), FCG/Flexpro/FEPL
+2
+110 VAC Switch Socket (Inside shelter), FCG/Flexpro/FEPL
+2
+Hooter, MEDC, DB3
+1
+3 Way Beacon, MEDC, SM87HXBA
+3
+2 Way Beacon, MEDC, SM87HXBA
+2
+Manual Call Point, MEDC, BG3
+2
+LED Tube lights inside, Cooper/R Stahl
+A/R
+LED Tube lights outside, Cooper / R Stahl
+A/R
+Tube light with battery backup , Cooper / R Stahl
+2
+MCT Blocks with 20% Spares, Roxtec
+1 LOT
+ESD SOV IS Type , Zone 1 llC, Asco
+1
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System,(Make : LAPP/Associated cable/Polycab/Kerpen Eleger), double compression
+type certified flame proof cables glands & plugs, Utility Headers with Air filter & Other
+Accessories as per MR
+1 LOT
+SECTION 3: LIST OF APPENDIX
+Appendix A: Tentative Shelter GAD
+Appendix B: Analyzer Sample Probe Drawing
+Appendix C : Pressure Reduction Panel
+Appendix D : Sample Conditioning Cabinet
+Appendix E : Sample Lute Cabinet
+Appendix F : Analyser Sample Handling System Drawing for IR Analyser
+Appendix G : Analyser Sample Handling System Drawing for Paramagnetic Analyser
+Appendix H : Services Panel

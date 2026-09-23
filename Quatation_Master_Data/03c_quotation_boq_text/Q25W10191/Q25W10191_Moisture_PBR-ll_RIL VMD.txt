@@ -1,0 +1,215 @@
+Quotation Number: Q25W10191
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+3 Stream Moisture sensor
+Quoted
+Quoted
+2
+1 No
+Project Documentation
+Quoted
+Quoted
+3
+1 No
+FAT at Adage Works
+Quoted
+Quoted
+4
+1 No
+Packing, Forwarding & Transportation upto Site
+charges
+Quoted
+Quoted
+5
+Lumpsum Supervision of installation & commissioning & SAT
+Quoted
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+Stream 1
+Service: No-2 Solvent column reflux pump
+-
+Supply Pressure (Nor/Max): 6-8/14 Kg/cm2g
+-
+Temperature (Nor/Max): 140/180 Deg C
+-
+Phase: Liquid
+Stream 2
+Service: E-110-1/2/3 Discharge
+-
+Supply Pressure (Nor/Max): 6-8/14 Kg/cm2g
+-
+Temperature (Nor/Max): 110/180 Deg C
+-
+Phase: Liquid
+Stream 3
+Service: E-111-Discharge
+-
+Supply Pressure (Nor/Max): 6-8/14 Kg/cm2g
+-
+Temperature (Nor/Max): 40/140 Deg C
+-
+Phase: Liquid
+As per MR
+Requirement
+1.1
+Moisture Sensor
+MODEL: Easidew Pro XP LQ
+MAKE: Mitchell instruments
+Mounting : On Rack with canopy
+Hazardous Area Classification: Zone 1 llC T3
+Principle: AL2O3
+No of Streams: 3
+Measuring range : 0 – 250 ppm
+Response time: 5 Mins to T95 (Dry to wet)
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+Potential free contacts for fault & other alarms.
+Note :
+-
+Common Moisture sensor is considered from all 3 streams as per RIL
+requirement.
+-
+Manual switchover is considered in secondary SHS.
+1 No
+Quoted
+1.2
+Sampling probe
+-
+Probe tube with welded isolation valve
+3 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+-
+As per Ril standard probe J10 - 038
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+1.3
+Sample transportation Line :
+-
+1/2’’ SS316 EP Line, Qty : 2 meters for each stream.
+6
+meters
+Quoted
+1.4
+SHS :
+-
+Shall be as per the typical scheme attached.
+-
+Shall be mounted inside closed SHS enclosure on rack with canopy
+-
+JB’s, Drain header & other Accessories
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 3 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Sampling Probe with isolation valve
+Yes
+4
+Sample transportation tube from tapping till SHS
+Yes
+5
+JBs & Headers and other Accessories
+Yes
+6
+Inspection & Testing
+Yes
+7
+Project Management & Project Documentation
+Yes
+8
+Factory Acceptance Test at Adage Works
+Yes
+9
+Packing forwarding
+Yes
+10
+Freight up to site
+Yes
+11
+Storage of supplied system at site
+Yes
+12
+Mobilization of supplied system from Stores to location.
+Yes
+13
+Installation of supplied system at site
+Yes
+14
+Supply of Standard Field Cables including signal, power
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at
+site if any
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc) if any
+Yes
+17
+Provision of Power (UPS and NON-UPS) at one location near
+Battery limit.
+Yes
+18
+Supervision of Installation and Commissioning
+Yes
+19
+4-20mA AO output from field to DCS
+Yes
+20
+Site Acceptance Test & Handover
+Yes
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+90 days.

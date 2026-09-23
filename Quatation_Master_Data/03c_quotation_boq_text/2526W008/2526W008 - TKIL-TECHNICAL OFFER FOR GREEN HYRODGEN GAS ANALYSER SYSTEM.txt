@@ -1,0 +1,124 @@
+Quotation Number: 2526W008
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT O2
+Tag No: OIHA-800
+Service: O2 IN H2 GAS ANALYZER
+Make: SIEMENS
+Operating Principle: PARAMAGNETIC
+Area Classification: Safe area
+Mounting Location: Extractive Type
+Component to be measured : O2
+Process conditions:
+•
+Temperature: 40 Deg C
+•
+Pressure: 0-2 BAR
+Measuring Range:
+•
+O2: 0 – 2%
+With Sample handling system consisting of:
+•
+With Plate to mount the analyser & SHS
+Components on a rack/plate. For further details kindly
+refer attached P&ID.
+•
+Sample to be extracted and drawn to the safe area
+in the plant.
+Analyzer output:
+•
+4-20 mA
+Utility requirement:
+•
+230 VAC, 50 Hz UPS Power Supply
+1 Set
+Rs 12,00,000
+Rs 12,00,000
+1.2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS Tube size: 1/4”
+5
+Meters
+Rs 650
+Rs 3,250
+`
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+2.1
+GAS ANALYSER SYSTEM FOR H2 MEASUREMENT
+Tag No: HIOD-610
+Service: H2 IN O2 GAS ANALYZER
+Make: Siemens
+Operating Principle: Thermal Conductivity
+Area Classification: Safe Mounting
+Location: Extractive Type
+Component to be measured : H2
+Process conditions:
+• Temperature: 80 Deg C
+• Pressure: 0-2 BAR
+Measuring Range:
+• H2: 0 – 4%
+With Sample handling system consisting of:
+•
+With Plate to mount the analyser & SHS Components
+on a rack/plate. For further details kindly refer attached
+P&ID.
+•
+Components shall be oxycleaned since this is an oxygen
+service.
+Analyzer output:
+• 4-20 mA
+Utility requirement:
+• 230 VAC, 50 Hz UPS Power Supply
+1 Set
+Rs 12,00,000
+Rs 12,00,000
+2.1
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS Tube size: 1/4”
+5
+Meters
+Rs 650
+Rs 3,250
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO AND FRO AIR
+TICKET/ AC II TRAIN FARE TO BE ARRANGED BY CUSTOMER)
+Per
+manday
+s
+Rs 35,000
+Per Mandays
+Rs 35,000
+Per Mandays
+`
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+•
+Power cable, signal cable, communication cable is in scope of customer.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for SS Tubing for Sample Gas Transportation. Any Extra Tube would attract a
+price Rs 650per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel shall be
+Provide by customer.
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+Air conditioner room shall be provide to mount gas analyzer system.

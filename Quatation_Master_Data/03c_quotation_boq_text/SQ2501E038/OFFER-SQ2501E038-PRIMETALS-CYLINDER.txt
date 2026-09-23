@@ -1,0 +1,88 @@
+Quotation Number: SQ2501E038
+BOQ Status: FOUND
+
+Date: 31-01-2025
+Ref: Q24250500-SQ2501E038
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+18904002
+Cylinder O2 (Oxygen) 10
+Liters-MOC:CS
+1.00
+34,500.00
+34,500.00
+1
+CONC: 99.5% O2
+Nos
+18904004
+Cylinder CO2 (Carbon Dioxide) 10
+Liters-MOC:CS
+3.00
+34,500.00
+103,500.00
+2
+CONC: 99.995% CO2
+Nos
+18904001
+Cylinder N2 (Nitrogen) 10
+Liters-MOC:CS
+2.00
+34,500.00
+69,000.00
+3
+CONC: 99.99% N2
+Nos
+18905033
+Cylinder HE (Helium) 10
+Liters-MOC:CS
+2.00
+61,870.00
+123,740.00
+4
+CONC: 99.995% He
+Nos
+1.00
+11,472.00
+11,472.00
+5
+For O2 cylinder
+Nos
+3.00
+11,472.00
+34,416.00
+6
+For CO2 cylinder
+Nos
+2.00
+11,472.00
+22,944.00
+7
+For N2 cylinder
+Nos
+2.00
+11,472.00
+22,944.00
+8
+For He cylinder
+Nos
+18728008
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder
+18728008
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder
+18728008
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder
+18728007
+Dual Stage Pressure Regulator for
+Calibration Gas Cylinder
+Date: 31-01-2025
+Ref: Q24250500-SQ2501E038

@@ -1,0 +1,353 @@
+Quotation Number: Q26S10100R0
+BOQ Status: FOUND
+
+Description
+Qty
+Total Price
+(INR)
+1
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: SHELTER-01
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+020-AT-0901 - Gas Chromatograph
+020-AT-0902 - Gas Chromatograph
+Shelter Specification:
+
+Dimensions: 4m (L) X 3m (W) X 2.8m (H)
+
+Shelter MOC: SS304
+
+2mm Thickness Outside And 1.5 mm Thickness Inside
+
+Insulation Thickness: 80 mm Rockwool (2 hrs Fire Rated)
+
+Overhang Roof Canopy- 1 meter in all four sides, MOC: SS304, 1.5 mm
+thick.
+
+Base frame: ISMC 150
+
+Panic Bar Installed on Each Door.
+
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+
+Doors: Main Door and Emergency Door with Glass Window
+
+Louvers: 4 Nos
+
+Lifting lugs x 4 Nos
+
+C Rail for mounting equipment’s inside and outside of the shelter
+
+SS tag plates
+
+Cable Entry to Shelter: Through MCT Block.
+1 No
+QUOTED
+
+Cable Tray: FRP
+
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC)
+
+With Safeguarding PLC in Purge Panel
+
+With Electrical Components & SHS Boxes
+
+With Fully Tubed Headers.
+
+With Exproof Junction Boxes
+
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+
+Make: Adage
+
+Area Classification: Zone 2, IIC, T3
+
+With Redundant HVAC Unit
+
+With Chemical Filter
+
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+
+HVAC Skid MOC: SS304
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with redundant CPU , non- redundant I/O for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)- Zone 1 IIC, T3
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+3
+Tube lights outside (Suitable for Zone 1)
+4
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total Price
+(INR)
+2
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: SHELTER-02
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 1, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+041-AT-0604A/B/C & 041-AT-0605 - SO2/NO/CO & O2 Analyser
+020-AT-1401A
+NH3 Analyser
+Shelter Specification:
+
+Dimensions: 4m (L) X 3m (W) X 2.8m (H)
+
+Shelter MOC: SS304
+
+2mm Thickness Outside And 1.5 mm Thickness Inside
+
+Insulation Thickness: 80 mm Rockwool (2 hrs Fire Rated)
+
+Overhang Roof Canopy-1 Meter in all four sides, MOC: SS304, 1.5 mm
+thick.
+
+Base frame: ISMC 150
+
+Panic Bar Installed on Each Door.
+
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+
+Doors: Main Door and Emergency Door with Glass Window
+
+Louvers: 4 Nos
+
+Lifting lugs x 4 Nos
+
+C Rail for mounting equipment’s inside and outside of the shelter
+
+SS tag plates
+
+Cable Entry to Shelter: Through MCT Block.
+
+Cable Tray: FRP
+
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC).
+1 No
+QUOTED
+
+With Safeguarding PLC in Purge Panel
+
+With Electrical Components & SHS Boxes
+
+With Fully Tubed Headers.
+
+With Ex proof Junction Boxes
+
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+
+Make: Adage
+
+Area Classification: Zone 2, IIC, T3
+
+With Redundant HVAC Unit
+
+With Chemical Filter
+
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+
+HVAC Skid MOC: SS
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC with redundant CPU , non- redundant I/O for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)- Zone 1 IIC, T3
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 1)
+6
+Tube lights outside (Suitable for Zone 1)
+6
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+3,4,5,6
+SO2, NO, CO & O2 ANALYSER
+Tag No.: 041-AT-0604A/B/C & 041-AT-0605
+Make: Siemens
+Model: ULTRAMAT 23
+Operating Principle: NDIR for SO2, NO, CO and Paramagnetic for Oxygen
+Area Classification: Zone 1 IIC T4 With Purged Enclosure
+No of Streams: 1
+Mounting Location: Inside Purged Enclosure Inside Shelter-02
+Process Conditions at sample Inlet:
+
+Pressure (Norm/Design): Customer to provide the details.
+
+Temperature (Norm/Design): Customer to provide the details.
+Measured Components:
+
+SO2: Customer to provide the measuring range details.
+
+NO: Customer to provide the measuring range details.
+
+CO: Customer to provide the measuring range details.
+
+O2 : Customer to provide the measuring range details.
+Utility required at Stack:
+
+115VAC UPS Supply by customer
+
+Inst. Air @ Press: 4 to 6 kg/cm2g
+Analyzer Output:
+
+4-20mA Analog Output for each measuring components.
+
+MODBUS RS485 for CPCB/SPCB Interface.
+System Details:
+
+Common heated Sample Probe and Probe Tube MOC: SS316.
+
+Common Blowback Unit at stack (Contractor to provide Instrument Air
+Connection at Stack)
+
+Common Sample handling system (Safe Area, installed inside purge
+enclosure inside Analyzers Shelter) inclusive of Sample Gas Cooler and
+Remote Validation Facility.
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+7,8 &
+10
+SPM Analyser
+Tag No: B10-AT-2050
+Make: Durag
+Model : DR 320 Ex l
+Hazardous area classification: Zone 1 llC T3
+Mounting location: In-situ Analyser Mounted directly on stack and RS485 output
+shall be connected to the signal jb, which shall be mounted on the wall of
+Analyzer Shelter-2.
+Principle: Back scattering
+IP Rating: IP65 rated
+Measuring range : 0-100 Mg/Nm3
+Analyzer Output
+
+4-20Ma Analog output
+
+RS485 Modbus serial output
+
+Digital contacts for fault alarm.
+Temperature Compensation:
+
+Temperature Transmitter with RTD
+Note:

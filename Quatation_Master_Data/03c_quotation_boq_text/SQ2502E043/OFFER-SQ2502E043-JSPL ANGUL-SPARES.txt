@@ -1,0 +1,193 @@
+Quotation Number: SQ2502E043
+BOQ Status: FOUND
+
+Date: 05-02-2025
+Ref: Q24250509-SQ2502E043
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+48519025
+Sample Gas Cooler with SS Dual Gas
+Path Heat Exchanger 230 VAC, 50 Hz
+with Dual Perilstatic Pump
+2.00
+160,528.00
+321,056.00
+1
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+4.00
+18,192.00
+72,768.00
+2
+Nos
+with inbuilt Temperature controller
+& display
+SAMPLE GAS COOLER WITH DUAL PERISTALTIC PUMP
+Sample gas coolers are used in gas analysis system to cool moisture –
+containing sample gas sufficiently so that nowhere in the subsequent
+analysis system does it fall below its dew-point.
+Presence of moisture in sample gas can falsify the actual reading and
+can cause irreparable damage to the Gas Analyser.
+While Sampling it is necessary to raise the dew point of the sample
+gas, such that the Sample Gas while entering the Sample Gas Cooler
+(maintained at a constant temperature lower than the dew point of
+the Sample Gas) shed’s all the moisture in the cooler such that the gas
+going out of the cooler is a dry gas with constant vapour.
+PART NO: 48519025
+Technical Data
+Model No.
+AEGK Series
+Number of Sample Gas circuits:
+2 gas paths
+Operating pressure (Absolute
+pressure)
+0.5...3.5 bar at + 100°C Sample Gas inlet
+temperature
+0.5...2.5 bar at + 140°C Sample Gas inlet
+temperature
+Cooling capacity (at 35°C)
+795 kJ/hr
+Dew point (set at factory)
+5 Deg C
+Sample gas outlet temperature deviation (For
+sample gas inlet temperature and inlet dew
+point, ambient temperature and power supply
+being constant)
++0.2°C at sample gas flow rate 150
+LPH
++0.3°C at sample gas flow rate 250 LPH
+Pressure loss in each cooling system
+Approx 25 mbar at 250 LPH
+Dead space in each cooling stream
+Approx. 20 cm3
+Power supply
+220 VAC (+/-) 10%, 50 Hz
+Power consumption in operation
+Approx. 300W + 10% at 220V, 50Hz
+Ambient temperature
++5...+50°C
+Transportation and storage temperature
+-25...+55°C
+Relative humidity
+< 75%annual average Infrequent and
+light condensation tolerated
+Dimensions:
+Width: 300mm Height: 240mm
+(excluding gas connections) Depth:
+360mm
+Case material:
+Powder coated Sheet steel (CRCA)
+Front Plate : SS 316
+Mounting Method:
+Wall mounting or mounting in analysis
+cabinet with fastening rails
+Degree of protection of case
+IP 22 to DIN 40 050 (IS-2147)
+Material of gas – carrying parts
+Stainless Steel AISI-316 / PTFE
+Sample gas connections:
+Pipe, 6mm external diameter x 4mm
+internal diameter
+Condensates drain:
+Pipe, 10mm external diameter x 8mm
+internal diameter
+Electrical connections
+Power supply mains cable with
+grounding plug and Alarm Contacts
+Weight:
+Approx.20 kg
+Peristaltic Pump
+(optional) 2 Nos
+One for each Gas Path
+Operation & Construction
+In the electric sample gas cooler, the sample gas is cooled to +4.5°C in a heat exchanger. The condensate
+precipitated from the sample gas is deposited in the precipitation vessel – precipitator (4) the cooling medium
+used is refrigerant R134.A compressor (6) compresses the gaseous refrigerant to approx.7 bar depending on
+the operating conditions.
+1
+Compressor
+2
+Condenser Coil
+3
+Condenser Fan
+4
+Strainer
+5
+Capillary Tube
+6
+Cooling Block with Replaceable 2 Path Heat Exchanger
+7
+Solenoid Valve
+8
+Schrader Valve (Pin Valve)
+9
+RTD
+10
+Controller
+Operating Principle
+The Compressor (1) used is hermetically sealed reciprocating type. Downstream of this compressor (1) is a
+condenser (2) where refrigerant is liquefied. The heat is dissipated by the means of a Motorized fan (3).
+Liquid refrigerant is then collected into strainer (gas dryer) (4). The pressure of the refrigerant is reduced by a
+capillary tube (5) for approx.150 psig to 5 psig thus reducing its boiling point. The Low pressure liquid
+refrigerant, is then injected into a cooling block(6). Where it absorbs energy from the sample gas from the
+heat exchanger inserted inside the cooling block. The vapor refrigerant is then returned back to the
+compressor inlet.
+The compressor is designed for continuous operation. Once set temperature is achieved inside the cooling
+block the SOV operates & hot refrigerant is by passed from the High pressure side to low pressure side thus
+reducing the flow of refrigerant to the cooling block. SOV operation is controlled by controller to maintain a
+constant temperature in the area of interest.
+In case of high temperature a potential free contact is available at the controller so that a High Alarm contact
+can be configured.
+The electric sample gas cooler is supplied with replaceable heat exchanger with two sample gas circuit (two
+cooling systems) However, either one or any one sample gas circuit can be used without disturbing other gas
+circuit.
+The sample gas line is normally connected with a hose of 4-mm internal diameter 6-mm external diameter. If
+screw fitting (bulkhead) are used, then in order to prevent tearing the joints care must be taken to ensure that
+the pipe inlets and outlets are not twisted on tightened (e.g. for relieving the strain on the pipe fittings use a
+suitable spanner).
+The precipitated condensate is, pumped out by peristaltic pumps mounted onto the cooler & operated by in
+built controller
+Sample Gas Cooler- AEGK Series
+AGEK
+Area Classification
+0
+Safe Area
+POWER SUPPLY
+0
+1 Phase ,230VAC, 50Hz
+1
+1 Phase ,110 VAC, 50Hz
+Skid Material
+0
+CRCA Powder Coated Adage Grey
+1
+Stainless Steel
+No Of Heat Exchanger
+0
+Single Heat Exchanger with Dual Sample Gas Path
+1
+Double Heat Exchanger - Each With Dual Gas Path
+Material of Heat Exchanger
+0
+SS 316
+1
+PTFE
+Peristaltic Pump
+0
+Without Peristaltic Pump
+1
+With Single Peristaltic Pump
+2
+With Dual Peristaltic Pump
+Date: 05-02-2025
+Ref: Q24250509-SQ2502E043

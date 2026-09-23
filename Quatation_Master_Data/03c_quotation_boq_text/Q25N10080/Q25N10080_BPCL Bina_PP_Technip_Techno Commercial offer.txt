@@ -1,0 +1,426 @@
+Quotation Number: Q26N10102
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price
+A
+-
+310-AS-001
+8x3x3 Meter shelter
+1
+16625000
+B
+-
+310-AS-002
+4x3x3 Meter shelter
+1
+15350000
+Hydrogen Stream
+1
+Hydrogen purification
+310-AI-01127
+H2O Analyser
+1 No
+2800000
+2
+Hydrogen Purification
+310-AI-01128
+Electrochemical O2 Analyser
+1 No
+3500000
+3
+Hydrogen
+Purification/Reaction
+&
+Ethylene Purification/
+Reaction
+310-AI-01129
+310-AI-12203
+310-AI-01120
+310-AI-10417
+4 Stream Gas Chromatograph
+1 No
+16750000
+4
+Hydrogen Reaction
+310-AI-12201
+H2O Analyser
+1 No
+2800000
+5
+Hydrogen Reaction
+310-AI-12202
+Electrochemical O2 Analyser
+1 No
+3500000
+Ethylene Stream
+6
+Ethylene Purification
+310-AI-01119
+H2O Analyser
+1 No
+2800000
+7
+Ethylene Purification
+310-AI-01118
+Electrochemical O2 Analyser
+1 No
+3500000
+8
+Ethylene Reaction
+310-AI-10416
+H2O Analyser
+1 No
+2800000
+9
+Ethylene Reaction
+310-AI-10415
+Electrochemical O2 Analyser
+1 No
+3500000
+Propylene Stream
+10
+Propylene
+Purification/Reaction
+310-AI-01123
+310-AI-20502
+2 Stream Total sulfur Analyser
+1 No
+13000000
+11
+Propylene Purification
+310-AI-01124
+H2O Analyser
+1 No
+2800000
+12
+Propylene Purification
+310-AI-01125
+Electrochemical O2 Analyser
+1 No
+3500000
+13
+Propylene
+Purification/Charge
+pump
+&
+Cycle Gas
+compressor 1 & 2
+310-AI-01126
+310-AI-20505
+310-AI-40312
+310-AI-43314
+4 Stream Gas Chromatograph
+1 No
+19290000
+14
+Propylene
+Purification/Charge
+pump
+310-AI-01130
+310-AI-20506
+2 Stream Gas Chromatograph
+(Arsine, Phosphine)
+1 No
+15590000
+15
+Propylene
+Purification/Charge
+pump
+310-AI-
+01130C
+310-AI-
+20506C
+2 Stream Gas Chromatograph
+(Ammonia)
+1 No
+13090000
+16
+Propylene Charge
+pump
+310-AI-20503
+H2O Analyser
+1 No
+2800000
+17
+Propylene Charge
+pump
+310-AI-20504
+Electrochemical O2 Analyser
+1 No
+3500000
+Regeneration Nitrogen Stream
+18
+Regeneration
+Nitrogen
+310-AI-21201
+H2O Analyser
+1 No
+2800000
+19
+Regeneration
+Nitrogen
+310-AI-21202
+Electrochemical O2 Analyser
+1 No
+3500000
+20
+Regeneration
+Nitrogen
+310-AI-21203
+Hydrocarbon Analyser (FID)
+1 No
+Not Quoted
+Nitrogen to Purification stream
+21
+Nitrogen purification
+310-AI-90101
+Hydrocarbon Analyser (FID)
+1 No
+5010000
+22
+Nitrogen purification
+310-AI-90102
+Electrochemical O2 Analyser
+1 No
+2800000
+23
+Nitrogen purification
+310-AI-90103
+H2O Analyser
+1 No
+3500000
+Cycle Gas Compressor 1
+24
+Cycle Gas
+Compressor 1
+310-AI-40312
+Cycle Gas GC
+1 No
+11200000
+Cycle Gas Compressor 2
+25
+Cycle Gas
+Compressor 2
+310-AI-43314
+Cycle Gas GC
+1 No
+11250000
+Recyle Gas Stream
+26
+Recycle Gas
+&
+Backup Cycle gas
+310-AI-52310
+310-AI-52515
+310-AI-52608
+310-AI-52704
+310-AI-52811
+310-AI-40312
+310-AI-43314
+7 Stream Gas chromatograph
+1 No
+18780000
+Extruder Feed Hopper/ Vent filter
+27
+Extruder feed hooper/
+Vent filter
+310-AI-70301
+HC Detector
+1 No
+350000
+28
+Extruder feed hooper/
+Vent filter
+310-AI-70307
+Paramagnetic O2 Analyser
+1 No
+3300000
+Bagging bin Exhaust vent
+29
+Bagging bin Exhaust
+310-AI-85201
+310-AI-85301
+310-AI-85401
+310-AI-86201
+310-AI-80403
+5 Stream HC (FID)
+1 No
+8800000
+Bulk loading bin Exhaust vent
+30
+Bulk loading bin
+Exhaust vent
+310-AI-86301
+HC Analyser
+1 No
+6600000
+Propane Purge Stream
+31
+Propane Purge
+310-AI-52812
+H2O Analyser
+1 No
+3500000
+Purified Nitrogen from OSBL
+32
+Purified N2
+310-AI-90106
+Electrochemical O2 Analyser
+1 No
+2800000
+33
+Purified N2
+310-AI-90107
+H2O Analyser
+1 No
+3500000
+Steam Condensate to OSBL
+34
+Steam Condensate
+310-AI-90203
+310-AI-90204
+Conductivity analyser
+pH analyser
+1 No
+1300000
+35
+Steam Condensate
+310-AI-90205
+HC in water
+1 No
+5200000
+Cooling water/Bearing CW return to OSBL
+36
+Cooling water return
+310-AI-90104
+TOC Analyser
+1 No
+6300000
+37
+Bearing cooling water
+310-AI-90105
+TOC Analyser
+1 No
+6300000
+Vent steam condenser
+38
+Vent steam
+condenser
+310-AI-90202
+HC in water
+1 No
+5200000
+39
+310-AI-
+XXXXXC
+H2O Portable Analyser
+1 No
+1200000
+40
+310-AI-
+XXXXXA
+H2O Portable Analyser
+1 No
+1100000
+41
+310-AI-
+XXXXXB
+O2+LEL Portable analyser
+1 No
+350000
+42
+-
+-
+24 Hours Repeatability test
+reports for review
+1 No
+1900000
+43
+-
+-
+Project Engineering &
+Documentation
+1 Lot
+1500000
+44
+-
+-
+FAT at Adage Factory
+1 Lot
+600000
+45
+-
+-
+Supervision of installation &
+Commissioning (40 Days with 4
+visits)
+Lumpsum
+1700000
+46
+-
+-
+Supervision of installation &
+Commissioning (Per Diem)
+Per Diem
+50000
+47
+-
+-
+Training at Site (For 1 Day)
+1 Lot
+50000
+48
+-
+-
+Commissioning Spares
+As per Annexure 2
+1 Lot
+300000
+49
+-
+-
+Consumable spares for 1 year
+operations
+As per Annexure 2
+1 Lot
+6900000
+50
+-
+-
+Mandatory Spares
+As per Annexure 2
+1 Lot
+15800000
+TOTAL PACKAGE PRICE 29,09,35,000/-
+51
+-
+-
+2 Years O&M spares
+As per Annexure 2
+1 Lot
+8800000
+52
+-
+-
+CAMC for 5 years
+Lumpsum
+56000000
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+CPT BPCL Bina
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO receipt.
+Offer validity
+30 Days

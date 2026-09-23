@@ -1,0 +1,79 @@
+Quotation Number: Q2512E166R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CALORIFIC VALUE ANALYSER
+I)Service -COG -For tag No. AT 70B040
+II) Service -Mixed gas -For tag No. AT-70A040
+III) Service -Mixed gas -For tag No. AT 70A140
+Model: CWD
+Make: UNION AG GERMANY
+Area Classification: Safe Area
+NOTE: Please note that the quoted CV analyser system is for safe
+area and has to be placed inside air-conditioned room by customer.
+Measuring Range:
+For Tag No: AT 70B040
+•
+Calorific value: 2990-5970 Kcal/m3
+For Tag No: AT-70A040
+•
+Calorific value: 720-1190 Kcal/m3
+For Tag No: AT 70A140
+•
+Calorific value: 3000-4300 Kcal/m3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for
+handling Impurities such as Tar, Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump,
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack , MOC: CRCA.
+1⁄2” SS HTT -25 mtrs
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value
+•
+Kind of Gas: (I) COG (II) Mixed Gas
+•
+Power supply 230VAC, 50 Hz
+Output:
+•
+Individual 4-20 mA analog output for Calorific value
+•
+Digital Outputs
+3 SETS
+65,90,000
+1,97,70,000
+2
+PORTA CABIN FOR CALORIFIC VALUE ANALYSER
+MOC: CRCA
+With split ac – 1 no.
+With 50 mm thick insulation
+With aluminum chequered plate flooring
+With single door and lock with lights
+Completely wired and tubed
+Dimension: to be decided during detailed engineering
+3 SETS
+14,50,000
+43,50,000
+3
+Service charges for supervision of installation & commissioning
+(Boarding – Lodging – Local Conveyance, To and FRO Air Ticket/ Ac II
+Train Fare to be arranged by L&T)
+Charges for 15 Mandays shall be INR 4,50,000/- beyond which charges
+shall be @30,000 per manday shall be applicable.
+4,50,000

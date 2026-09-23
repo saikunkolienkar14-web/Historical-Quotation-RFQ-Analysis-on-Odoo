@@ -1,0 +1,75 @@
+Quotation Number: Q2512E167R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+CO MEASUREMENT IN WASTE GAS CHANNEL
+TAG No : AT - 21305A/ AT - 21305B / AT – 22305A/
+AT – 22305B
+Service: The CO content of flue of pusher side
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: Non-dispersive IR
+Mounting Location: Extractive Type
+Component to be measured : CO
+Measuring Range:
+•
+CO: 0-3000/5000 mg/Nm3
+With Primary sample handling system Consisting of:
+•
+Pre-Sample Conditioning & Purification System which
+includes water bubbler and tar trace removal for handling
+Impurities.
+•
+Dual Probe ,with Isolation valve
+With Secondary sample handling system consisting of: Suitable to Safe
+area
+•
+With IP54-Sample Conditioning panel to mount the analyser &
+SHS Component
+•
+With Sample Gas Cooler, Sample Gas Pump, flowmeters,
+solenoid valves, filters and condensate monitors.
+•
+With 10 L Zero & Span Calibration Gas Cylinders
+•
+With Purge Controller Unit
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+•
+RS485 Serial Modbus Communication
+•
+Communication Outputs from Analyser system shall be 4-20mA
+Utility requirement:
+•
+110VAC, 50 Hz UPS Power Supply
+•
+Plant Nitrogen @ 4-6 bar near field rack
+(For Detailed Specification Kindly Refer to Attached P&ID)
+4 NOS
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄2”
+MOC: SS
+Power Supply: 230 VAC
+Per Mtr
+QUOTED PER MTR
+3
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (Acii Tier/Flight).
+@QUOTED PER MAN DAY

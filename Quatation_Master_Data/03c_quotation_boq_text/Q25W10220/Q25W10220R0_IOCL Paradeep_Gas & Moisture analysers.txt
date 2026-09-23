@@ -1,0 +1,96 @@
+Quotation Number: Q25W10220R0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Hydrogen (H2) Analyzer,
+Tag No: 071-AE-10001
+Quoted
+Quoted
+2
+1
+Oxygen (O2) Analyzer,
+Tag No: 071-AE-10002
+Quoted
+Quoted
+3
+2
+Moisture (H2O) Analyzer,
+Tag No: 071-AE-10003
+Tag No: 071-AE-10004
+Quoted
+Quoted
+4
+1
+Hydrocarbon (HC) Analyzer,
+Tag No: 071-AE-10005
+Quoted
+Quoted
+5
+1
+Design & Project Management
+Quoted
+Quoted
+6
+1
+Packing & Forwarding
+Quoted
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1
+Hydrogen Analyser
+Tag No: 071-AE-10001
+Service: Nitrogen Regeneration Gas to Hydrogenation Column
+Make: Siemens
+Model: Calomat 6F
+Hazardous Area Classification: Zone 1 llC T3, Exp
+Repeatability: < 1% of the current measuring range
+Mounting Location: Inside Analyzer cabinet
+Measuring range: 0 - 10%
+Return: To low Press. header
+Process Conditions at sample Inlet
+-
+Temperature (Op): 40-225 /60 °C
+-
+Operating Pressure(min/Max): 1 / 5 Barg
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+Notes:
+-
+Field Power and signal cables upto Analyser cabinet shall be provided
+by customer. Further distribution is in Adage scope.
+-
+4-20mA analog output shall be provided upto analyzer cabinet.
+1 No
+Quoted
+Sample Probe
+-
+Fixed Probe, MOC: SS316
+-
+2”, 600# RF connection
+1 No
+Quoted
+Sample Line:
+-
+1/4’’ SS316, Qty: 5 meters
+1 No
+Quoted
+Sample Handling system
+-
+ball valve, Fast loop filter, Rotameters, NRV, SRV, fine filter, etc
+-
+SHS components shall be mounted inside Analyser Cabinet on a plate.
+1 No
+Quoted
+Calibration cylinders
+-
+10L calibration cylinder (1+1) with double stage cylinder regulator for

@@ -1,0 +1,76 @@
+Quotation Number: Q2511G017
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR TRACE N2 & AR MEASUREMENT IN O2
+Make: LDTEK
+Model: MULTIDETEK-LITE
+Operating Principle: Gas Chromatography
+Measured Component(s): All impurities other than moisture
+Measuring Ranges:
+Ar: 0-100 ppm
+N2: 0-10 ppm
+With sample handling system Consisting of:
+•
+With Ball Valves, Safety Relief Valves, Filters
+•
+Refer to detailed BOM & Scheme provided in section 4
+•
+Further distribution to atm vent shall be in customers scope
+Analyser Outputs:
+• 4-20mA Analog Outputs
+Notes:
+• Carrier Gas (Helium cylinder & Calibration
+Blend Cylinder shall be in customers scope. We shall provide the
+details for the cylinders during detailed engineering
+1 SET
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF C2H2 & CnHm IN Air
+Make: LDTEK
+Model: MULTIDETEK-LITE
+Operating Principle: Gas Chromatography
+Measured Component(s): All impurities other than moisture
+Measuring Ranges:
+C2H2: 0-2 ppm
+CnHm: 0-500 ppm
+With sample handling system Consisting of:
+•
+With Ball Valves, Safety Relief Valves, Filters
+•
+Refer to detailed BOM & Scheme provided in section 4
+•
+Further distribution to atm vent shall be in customers scope
+Analyser Outputs:
+• 4-20mA Analog Outputs
+Notes:
+• Carrier Gas (N2 cylinder & Calibration
+Blend Cylinder shall be in customers scope. We shall provide the
+details for the cylinders during detailed engineering
+1 SET
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM FOR O2 MEASURMENT
+Make: Siemens
+Model: OXYMAT61
+Component to be measured: O2
+Measuring Range:
+• O2: 98-100%
+With sample handling system Consisting of:
+•
+With Ball Valves, Safety Relief Valves, Filters
+•
+Refer to detailed BOM & Scheme provided in section 4
+•
+Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+Notes:

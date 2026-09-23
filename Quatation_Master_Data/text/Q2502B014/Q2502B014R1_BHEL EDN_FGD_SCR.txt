@@ -1,0 +1,1055 @@
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+To, 
+
+ 
+BHARAT HEAVY ELECTRICALS LIMITED (BHEL) 
+EDN BANGALORE 
+
+End User: M/S WBPDCL 
+
+ 
+Subject: NOX ANALYSER FOR SCR INLET AND OUTLET & SO2 ANALYSER FOR FGD INLET AND OUTLET 
+
+Kind Attention: Purchase Dept 
+
+ 
+Dear Sir, 
+
+We thank you for your enquiry and are pleased to quote as per the enclosed specification on terms stated below. If 
+you have any questions or require additional information, please feel free to contact us. 
+ 
+Table of Contents: - 
+
+SECTION 1: SUMMARY OF PRICES 
+SECTION 2: NOTE AND SCOPE DEFINITION 
+SECTION 3: BILL OF MATERIALS 
+
+ 
+
+ 
+Our Quotation No: Q2502B014R1 
+Dated: 08.04.2025 
+ 
+Contact persons : 
+Mr. Chethan Kumar 
+Email: chethan@adage-automation.com 
+Mob: + 91 9611677998 
+(Adage- Chennai) 
+ 
+Mr. Kush Jain 
+Email: kush@adage-automation.com 
+Mob: + 91 8668816625 
+(Adage-Goa-HO) 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+ 
+SECTION 1: SUMMARY OF PRICES 
+A: MAIN SUPPLY- SCR INLET & OUTLET 
+Sl.NO 
+DESCRIPTION 
+QTY 
+UNIT PRICE (INR) 
+TOTAL PRICE (INR) 
+1 
+NOX ANALYZER SCR INLET & OUTLET 
+Service: SCR Inlet & Outlet (Reactor A & B) 
+Mounting Location: Inside Containerized Porta Cabin 
+Area Classification: Safe Area 
+Make: Siemens, Model: ULTRAMAT23 
+ 
+Process Conditions at SCR Inlet/Outlet: 
+• 
+As per details provided in the RFQ document 
+ 
+Measuring Range at SCR Inlet: 
+• 
+NOX: 0-500 ppm (Reactor A & B) 
+ 
+Measuring Range at SCR Outlet: 
+• 
+NOX: 0-200 ppm (Reactor A & B) 
+ 
+4 No. 
+
+QUOTED 
+QUOTED 
+2 
+SAMPLE HANDLING SYSTEM FOR NOX ANALYZER AT SCR 
+INLET & OUTLET 
+ 
+Sample Handling System: 
+• 
+BOM and scheme as per section 4 of the offer. 
+ 
+Panel Specification: 
+• 
+Total Analyser panels- 2 Nos 
+Reactor A- Inlet and Outlet- 1 No 
+Reactor B- Inlet and Outlet- 1 No 
+• 
+MOC: CRCA 
+ 
+4 No. 
+QUOTED 
+QUOTED 
+MOUNTING ACCESSORIES WITH STUB, COUNTER FLANGES, 
+MATING FLANGES & FASTNERS FOR NOX ANALYSERS 
+ 
+4 No. 
+QUOTED 
+QUOTED 
+AIR CONDITIONER FOR SCR NOX ANALYSER PANEL OR 
+CONTAINER 
+Since analyser panel shall be mounted inside AC porta cabin, 
+hence additional panel AC for panel is not required. 1 x Split 
+AC per porta cabin to be considered 
+2 No. 
+QUOTED 
+QUOTED 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+3 
+CALIBRATION GAS CYLINDERS for NOX ANALYZER AT SCR 
+INLET & OUTLET 
+Calibration Cylinder with dual stage Regulator: 
+• 
+10 Ltrs Span Gas cylinder. 
+• 
+10 Ltrs Zero Gas cylinder. 
+• 
+Gas cylinders shall be mounted on the cylinder 
+rack outside panel 
+4 Set 
+
+QUOTED 
+QUOTED 
+4 
+CONTAINERIZED PORTA CABIN FOR NOX ANALYZER 
+For SCR Inlet and Outlet for Reactor A- 1 no 
+For SCR Inlet and Outlet for Reactor B- 1 no 
+2 No. 
+ 
+QUOTED 
+QUOTED 
+6 
+SUPERVISION OF ERECTION, TOTAL COMMISIONING AND 
+HANDING OVER OF THE OFFERED SYSTEM 
+ 
+4 No. 
+ 
+QUOTED 
+QUOTED 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+A: MAIN SUPPLY- FGD INLET & OUTLET 
+Sl.NO 
+DESCRIPTION 
+QTY 
+UNIT PRICE (INR) 
+TOTAL PRICE (INR) 
+8 
+SO2 ANALYZER FGD INLET & OUTLET 
+Service: FGD Inlet & Outlet 
+Mounting Location: Inside Containerized Porta Cabin 
+Area Classification: Safe Area 
+Make: Siemens, Model: ULTRAMAT23 
+ 
+Process Conditions at FGD Inlet/Outlet: 
+• 
+As per details provided in the RFQ document 
+ 
+Measuring Range at FGD Inlet: 
+• 
+SO2: 0-500 ppm 
+ 
+Measuring Range at FGD Outlet: 
+• 
+SO2: 0-200 ppm 
+ 
+2 No. 
+
+QUOTED 
+QUOTED 
+9 
+SAMPLE HANDLING SYSTEM FOR SO2 ANALYZER FGD INLET 
+& OUTLET 
+ 
+Sample Handling System: 
+• 
+BOM and scheme as per section 4 of the offer. 
+ 
+Panel Specification: 
+• 
+Total Analyser panels- 1 Nos 
+FGD Inlet and Outlet- 1 No 
+• 
+MOC: CRCA 
+ 
+2 No. 
+ 
+QUOTED 
+QUOTED 
+MOUNTING ACCESSORIES WITH STUB, COUNTER FLANGES, 
+MATING FLANGES & FASTNERS FOR SO2 ANALYSERS 
+ 
+2 No. 
+ 
+QUOTED 
+QUOTED 
+AIR CONDITIONER FOR FGD SO2 ANALYSER PANEL OR 
+CONTAINER 
+Since analyser panel shall be mounted inside AC porta cabin, 
+hence additional panel AC for panel is not required. Since 
+both the FGD Inlet and Outlet Systems are to be mounted 
+inside common panel, once 1 AC would be required for the 
+porta cabin. 
+1 No. 
+ 
+QUOTED 
+QUOTED 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+10 
+CALIBRATION GAS CYLINDERS for SO2 ANALYZER AT FGD 
+INLET & OUTLET 
+Calibration Cylinder with dual stage Regulator: 
+• 
+10 Ltrs Span Gas cylinder. 
+• 
+10 Ltrs Zero Gas cylinder. 
+• 
+Gas cylinders shall be mounted on the cylinder 
+rack outside panel 
+2 Sets 
+
+QUOTED 
+QUOTED 
+11 
+CONTAINERIZED PORTA CABIN FOR FGD ANALYZER 
+For FGD Inlet and Outlet- 1 no 
+1 No. 
+ 
+QUOTED 
+QUOTED 
+12 
+SUPERVISION OF ERECTION, TOTAL COMMISIONING AND 
+HANDING OVER OF THE OFFERED SYSTEM 
+ 
+2 No. 
+ 
+QUOTED 
+QUOTED 
+ 
+B: MANDATORY SPARES 
+Sl.NO 
+DESCRIPTION 
+QTY 
+UNIT PRICE (INR) 
+TOTAL PRICE (INR) 
+1 
+MANDATORY SPARES- NOX ANALYSER (SCR INLET & 
+OUTLET) 
+1 Lot 
+QUOTED 
+QUOTED 
+2 
+MANDATORY SPARES- SO2 ANALYSER (FGD INLET & 
+OUTLET) 
+1 Lot 
+QUOTED 
+QUOTED 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+ 
+SECTION 2- NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM 
+ 
+• External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope 
+• Please note that supply/laying of all signal/power cables & trays shall be in the customer’s scope. 
+• Panel shall be mounted in Air conditioned porta cabin 
+• Instrument air/Nitrogen @ 4-6 bar by customer 
+• Power Supply Utilities required are: 
+• Power Supply: 230 VAC, 50 Hz (Non-UPS) 
+• Power Supply: 230 VAC, 50 Hz (UPS) 
+
+Our Scope of Supply and Work Includes: 
+ 
+• Design, Engineering and Supply as per Summary of Prices 
+• Supervision of Installation and Commissioning of the complete System 
+• Project Management and Project Documentation 
+
+Our Scope of Supply Does Not Include: 
+ 
+• All Erection and Installation Activity 
+• Any kind of Civil Work or Mechanical Work 
+• Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• Loop checking for analog & digital signals 
+• Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal / serial 
+communication cables etc. 
+• Laying of trays/structural and support for field tubing. 
+• All utilities as mentioned above. 
+• M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering. 
+
+ 
+
+ 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+SECTION 3: BILL OF MATERIALS 
+
+BILL OF MATERIAL-SCR REACTOR A INLET 
+Sr No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+NO Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Probe 
+Adage 
+# 
+Nos 
+2 
+3 
+SCV 
+Scavenging Panel 
+Adage 
+# 
+Nos 
+2 
+4 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+2 
+5 
+HTT 
+HTT-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+30 
+6 
+ 
+Sample Tube-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+170 
+7 
+2SV 
+3 way solenoid valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+8 
+3BV 
+3 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+9 
+MP 
+Sample Pump 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+10 
+5BV 
+5 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+1 
+11 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+12 
+NV 
+Needle Valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+13 
+ 
+Internal Tubing and fittings 
+ 
+# 
+Lot 
+1 
+#- Shall be provided post order 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+BILL OF MATERIAL-SCR REACTOR A OUTLET 
+Sr No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+NO Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Probe 
+Adage 
+# 
+Nos 
+2 
+3 
+SCV 
+Scavenging Panel 
+Adage 
+# 
+Nos 
+2 
+4 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+2 
+5 
+HTT 
+HTT-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+30 
+6 
+ 
+Sample Tube-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+170 
+7 
+2SV 
+3 way solenoid valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+8 
+3BV 
+3 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+9 
+MP 
+Sample Pump 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+10 
+5BV 
+5 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+1 
+11 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+12 
+NV 
+Needle Valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+13 
+ 
+Internal Tubing and fittings 
+ 
+# 
+Lot 
+1 
+#- Shall be provided post order 
+
+ 
+
+ 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+BILL OF MATERIAL-SCR REACTOR B INLET 
+Sr No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+NO Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Probe 
+Adage 
+# 
+Nos 
+2 
+3 
+SCV 
+Scavenging Panel 
+Adage 
+# 
+Nos 
+2 
+4 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+2 
+5 
+HTT 
+HTT-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+30 
+6 
+ 
+Sample Tube-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+170 
+7 
+2SV 
+3 way solenoid valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+8 
+3BV 
+3 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+9 
+MP 
+Sample Pump 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+10 
+5BV 
+5 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+1 
+11 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+12 
+NV 
+Needle Valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+13 
+ 
+Internal Tubing and fittings 
+ 
+# 
+Lot 
+1 
+#- Shall be provided post order 
+
+ 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+BILL OF MATERIAL-SCR REACTOR A OUTLET 
+Sr No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+NO Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Probe 
+Adage 
+# 
+Nos 
+2 
+3 
+SCV 
+Scavenging Panel 
+Adage 
+# 
+Nos 
+2 
+4 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+2 
+5 
+HTT 
+HTT-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+30 
+6 
+ 
+Sample Tube-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+170 
+7 
+2SV 
+3 way solenoid valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+8 
+3BV 
+3 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+9 
+MP 
+Sample Pump 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+10 
+5BV 
+5 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+1 
+11 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+12 
+NV 
+Needle Valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+13 
+ 
+Internal Tubing and fittings 
+ 
+# 
+Lot 
+1 
+#- Shall be provided post order 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+BILL OF MATERIAL-FGD INLET 
+Sr No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+SO2 Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Probe 
+Adage 
+# 
+Nos 
+2 
+3 
+SCV 
+Scavenging Panel 
+Adage 
+# 
+Nos 
+2 
+4 
+GC 
+Sample Gas Cooler 
+Adage 
+# 
+Nos 
+2 
+5 
+HTT 
+HTT-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+30 
+6 
+ 
+Sample Tube-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+110 
+7 
+2SV 
+3 way solenoid valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+8 
+3BV 
+3 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+9 
+MP 
+Sample Pump 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+10 
+5BV 
+5 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+1 
+11 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+12 
+NV 
+Needle Valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+13 
+ 
+Internal Tubing and fittings 
+ 
+# 
+Lot 
+1 
+#- Shall be provided post order 
+
+ 
+
+REGISTERED OFFICE 
+Adage Analytics Solutions Private Limited 
+L-26B, Phase II, Verna Industrial Area, Verna, Goa – 403722, INDIA 
+Adage Analytics Solutions Pvt. Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+Tel: 0832-6620500, Fax: 0832-6620599 
+CIN No: U 26109 GA 2023 PT C016005 
+ 
+BILL OF MATERIAL-FGD OUTLET 
+Sr No 
+Legend 
+Description 
+Make 
+Model 
+UOM 
+Qty 
+A 
+Analyzer and Accessories 
+1 
+GA 
+SO2 Analyser 
+Siemens 
+ULTRAMAT23 
+Nos 
+1 
+B 
+Sample handling system 
+2 
+PRB 
+Sample Probe 
+Adage 
+# 
+Nos 
+2 
+3 
+SCV 
+Scavenging Panel 
+Adage 
+# 
+Nos 
+2 
+4 
+- 
+Dryer 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+5 
+HTT 
+HTT-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+30 
+6 
+ 
+Sample Tube-1/4" PTFE 
+Adage Approved Vendor 
+# 
+Nos 
+110 
+7 
+2SV 
+3 way solenoid valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+8 
+3BV 
+3 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+9 
+MP 
+Sample Pump 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+10 
+5BV 
+5 way ball valve 
+Adage Approved Vendor 
+# 
+Nos 
+1 
+11 
+CM 
+Condensate Monitor 
+Adage 
+# 
+Nos 
+1 
+12 
+NV 
+Needle Valve 
+Adage Approved Vendor 
+# 
+Nos 
+2 
+13 
+ 
+Internal Tubing and fittings 
+ 
+# 
+Lot 
+1 
+#- Shall be provided post order

@@ -1,0 +1,43 @@
+SOW 
+ 
+1. Calibration work 
+• Perform zero and span gas calibration using certified calibration gases. 
+• Adjust span and zero settings as required. 
+• Log calibration results and analyzer response times. 
+• Ensure analyzer output matches reference values. 
+Adage Reply: Required test gas cylinder & Iso-kinetic sampling in JSW scope. 
+ 
+2. Sampling System Inspection 
+• Inspect and clean sample lines, filters, pumps, condensers, and dryers. 
+• Check for blockages, leaks, or condensation. 
+• Replace consumables (filters, peristaltic pump tubing) as needed. 
+• Verify flow rates and pressure at sample points. 
+Adage Reply: Noted. 
+ 
+3. Sensor and Detector Maintenance 
+• Inspect and clean sensors/analyzer module and optical components. 
+• Check and replace worn or expired sensors/detectors. 
+• Perform diagnostic tests for sensor health. 
+Adage Reply: Noted. 
+ 
+4. Software and Communication 
+• Check data logging and ensure proper data transmission. 
+• Verify integration with SCADA/DCS or data acquisition systems. 
+• Update firmware/software if required and approved. 
+Adage Reply: SCADA/DCS related activities and software update in JSW scope. 
+ 
+5. Functional Verification 
+• Conduct functional tests with test gases to verify analyzer performance under normal 
+conditions. 
+• Confirm alarm setpoints and interlocks are working. 
+Adage Reply: Noted, DCS Interlock shall be check by JSW. 
+ 
+6. Recommendations and Spare Parts 
+• Identify and list parts that need replacement or stocking (sensors, filters, regulators). 
+• Recommend improvements or upgrades if needed 
+Adage Reply: Noted. 
+ 
+Please note that Local transportation, Lodging & boarding for service engineer shall be provided 
+by m/s JSW free of cost. 
+ 
+One visit shall be minimum 2 days.

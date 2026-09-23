@@ -1,0 +1,123 @@
+Quotation Number: Q25W10135
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit price (INR)
+Total Price
+(INR)
+1
+O2 Analyser
+6 Nos.
+Quoted
+Quoted
+1.1
+Project Documentation
+1 Lot
+Quoted
+Quoted
+1.2
+FAT at Adage Factory
+1 Lot
+Quoted
+Quoted
+1.3
+Packing, forwarding & transportation up to
+Site charges
+1 Lot
+Quoted
+Quoted
+1.4
+Supervision of installation &
+commissioning
+Per Diem
+Quoted
+Quoted
+SECTION 2 : ANALYSER DETAILS/ASSUMPTIONS
+We have Quoted below Analyser for FCCU CO Oxidizer project
+Oxygen Analyser - TDLAS
+a. Make: Airoptic, Model: GasEye Cross Duct (Insitu Type)
+b. Certified for Zone 2 llC T6
+c. Process conditions:
+- Process temperature: 0°C to 1500°C.
+- Process pressure: 0.7 to 2 barA (up to 40barg for special applications)
+- Path length: Up to 25 meters
+d. Dynamic performance with minimum response time (T90) at just 100 milliseconds.
+e. Negligible zero drift and span drift
+f. Limit of Detection (LOD) from 0.01 ppmv*m
+SECTION 2: TECHNICAL LITERATURE
+1
+TDLS Analyser (O2)
+Make: Airoptic
+Model : GasEye Cross Duct
+Analyzer Type: Insitu
+Principle of operation: TDLAS
+With Hastelloy-C isolation flange equipped with Sapphire or
+Silica glass window (to be confirmed during detail
+engineering)
+Hazardous area classification: Zone 2 llA/IIB+H2 T3
+Mounting location : At process, cross duct.
+Process Operating Parameters:
+-
+Pressure (Normal/Max): 0.055/0.062 Kg/cm2g
+-
+Temperature (Normal/Design1): 267.9/278.8 degC
+Analyser Output
+-
+4 x Analog output 4-20mA for measuring component
+-
+8 x Digital Outputs (Purge fail).
+Analyser Features:
+-
+Local User Interface: Human Machine Interface (HMI) LCD
+backlight display located on the transmitter housing lid
+-
+Self-Calibration Features: Internal reference gas
+compartment is used for closed loop control of the zero and
+span drift
+Individual Utility Panel with Purge Accessories
+-
+MOC of plate: SS304, 2mm Thick mounted on Stack
+directly
+-
+Required Air filter Regulators, Ball Valves, Flow meter,
+fittings and other accessories as required.
+-
+Loop Cable between Transmitter and Receiver shall be
+considered by Adage
+-
+All the components shall be rated for Zone 2 llA/IIB+H2 T3
+-
+Required JBs shall be considered.
+-
+SMPS 24DC
+6 No
+Quoted
+Notes:
+-
+Instrument air to be provided for purging of analyser optics
+and window purging by customer.
+-
+Serial output shall be terminated at JB mounted on utility
+plate at stack. Further distribution in customer’s scope of
+supply.
+-
+Power cable at sensor unit mounted on stack by customer.
+1.1
+Project Documentation
+1 Lot
+Quoted
+1.2
+FAT at Adage Factory
+1 Lot
+Quoted
+1.3
+Packing, forwarding & transportation up to Site charges
+1 Lot
+Quoted
+1.4
+Supervision of installation & commissioning
+Per Diem
+Quoted

@@ -1,0 +1,77 @@
+Quotation Number: Q24W10121R5
+BOQ Status: FOUND
+
+Description
+Qty
+Total Price
+1
+Hydrocarbon Dew Point Analyser
+Tag No: ON-AT-1605
+Service: HYDROCARBON GAS
+Make: AMETEK,
+Model: 241CE II
+Operating Principle: Chilled-mirror
+Area Classification: Zone 1, IIA/B T4, Exd
+Mounting Location: Field Cabinet with Ex-Proof AC (Non-
+Redundant)
+Power Supply: 230 VAC, 50/60 Hz,
+Power Consumption: 275 Watts
+Measuring Range: Hydrocarbon Dew Point Temperature between
+-29 ̊C to 40 ̊C (Possible Measuring Range)
+Process Conditions at sample Inlet
+-
+Temperature (Operating / Design): 17.8 - 39.6 / -29 - 70 Deg C
+-
+Pressure (Operating / Design): 49.4 - 62.6 / 122.4 (kg/cm2)
+-
+Sample Return to Acid Flare/Process line.
+Sample Probe Details:
+-
+Fixed Type probe with Welded Isolation Valve
+-
+Quill Probe
+-
+Flange: 2” 900# RTJ
+-
+1⁄2” NPT process connection.
+Tubing Details:
+-
+1/4” SS316 Tube: 30 mtrs
+Analyzer Output:
+-
+4-20 mA Analog output
+-
+RS485 MODBUS (Option included)
+Deviation: HART output not available
+Analyzer Cabinet
+-
+Analyser cabinet (Approx dimension shall be finalised during
+detailed engineering) MOC: SS316 with 500 mm Canopy
+1 No.
+1,35,00,000/-
+extending from all the sides.
+-
+IP65 Rated
+-
+Ex Proof AC (Non-Redundant)
+-
+Power distribution box
+-
+With ASJB, DSJB, CSJB, Power JB. (MOC: SS316, Exd)
+-
+Headers.
+Utility Requirement:
+-
+230VAC,750W 50 Hz UPS Power Supply for Analyser
+Analyser Calibration:
+-
+Analyser is factory calibrated.
+-
+Manual calibration is done via the use of Pure Propane Gas.
+Note:
+-
+All the electrical components shall be CCOE/PESO
+Certified.
+-
+Field Power and signal cables upto Analyzer Cabinet shall
+be provided by customer. Internal distribution within

@@ -1,0 +1,346 @@
+Quotation Number: Q2506E071R1
+BOQ Status: FOUND
+
+PRICE SUMMARY
+Sl No
+Description
+Qty
+UOM
+Unit Price (in INR) Final Price (in INR)
+1
+PROCESS GAS ANALYSER SYSTEM FOR SO2
+MEASUREMENT, Tag No: AIT-754026
+1
+Nos
+₹ 46,00,000.00 ₹ 46,00,000.00
+2
+PROCESS GAS ANALYSER SYSTEM FOR SO2
+MEASUREMENT, Tag No: AIT-778029
+1
+Nos
+₹ 37,00,000.00 ₹ 37,00,000.00
+3
+GAS ANALYSER SYSTEM FOR SO2 & O2
+MONITORING AT STACK, Tag No: AIT-758503
+(O2) / AIT-758502 (SO2)
+1
+Nos
+₹ 42,00,000.00 ₹ 42,00,000.00
+4
+LIQUID ANALYSER SYSTEM
+1
+Nos
+₹ 1,85,00,000.00 ₹ 1,85,00,000.00
+5
+SHELTER
+1
+Nos
+₹ 1,15,00,000.00 ₹ 1,15,00,000.00
+6
+MANDATORY SPARES
+1
+Lot
+TO BE QUOTED
+TO BE QUOTED
+7
+2 YEAR O&M SPARES
+1
+Lot
+TO BE QUOTED
+TO BE QUOTED
+8
+CONSUMABLES
+1
+Lot
+TO BE QUOTED
+TO BE QUOTED
+9
+HEATED SAMPLE TUBE FOR SAMPLE GAS
+TRANSPORTATION
+300
+Mtr
+₹ 6,200.00 ₹ 18,60,000.00
+10
+SUPERVISION OF INSTALLATION AND
+COMMISIONING
+1
+Per Diem
+₹ 45,000.00 ₹ 45,000.00
+SECTION 1: SUMMARY OF PRICES
+Sr.
+No.
+Description
+Qty
+Unit
+Price
+(INR)
+Total
+Price
+(INR)
+1
+PROCESS GAS ANALYSER SYSTEM FOR SO2 MEASUREMENT
+Tag No: AIT-754026
+Service: Sulphur Dioxide, Dry Gas to Bed 1
+Make: Siemens
+Model: ULTRAMAT6E
+Operating Principle: NDIR
+Area Classification: Safe Area
+Sampling Technique: Hot Extraction
+Mounting Location: Shall be mounted inside purged panel inside shelter
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): 0.34/0.66 bar g
+•
+Temperature (Nor/Design): 415/500 Deg C
+Measuring Range:
+•
+SO2: 0-5/50%
+With Sample Conditioning System: Shall be Z-purged to meet Area
+Classification
+•
+With Manually Welded Probe
+•
+With Safe area components like Gas Cooler, Pump, Ball Valves, etc
+•
+Refer to detailed BOM provided in Section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+Notes:
+•
+All the tubing’s and fittings shall be PTFE and PVDF respectively to
+be suitable to the process gas composition.
+1 Nos
+QUOTED
+QUOTED
+2
+PROCESS GAS ANALYSER SYSTEM FOR SO2 MEASUREMENT
+Tag No: AIT-778029
+Service: Caustic Scrubber Stack (7787F)
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Safe Area
+Sampling Technique: Hot Extraction
+Mounting Location: Shall be mounted inside purged panel inside shelter
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): 0.05/0.66 bar g
+•
+Temperature (Nor/Design): 39/90 Deg C
+Measuring Range:
+•
+SO2: 0-500/2500 ppm
+With Sample Conditioning System: Shall be Z-purged to meet Area
+Classification
+•
+With Manually Welded Probe
+•
+With Safe area components like Gas Cooler, Pump, Ball Valves, etc
+•
+Refer to detailed BOM provided in Section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+Notes:
+•
+All the tubing’s and fittings shall be PTFE and PVDF respectively to
+be suitable to the process gas composition.
+1 Nos
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM AT STACK FOR SO2 & O2 MEASUREMENT
+Tag No: AIT-758503 (O2) / AIT-758502 (SO2)
+Service: Sulphur Dioxide, Dry Gas (Stack)
+Make: Siemens
+Model: ULTRAMAT23
+Operating Principle: NDIR
+Area Classification: Safe Area
+Sampling Technique: Hot Extraction
+Mounting Location: Shall be mounted inside purged panel inside shelter
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): 0.03/0.66 bar g
+•
+Temperature (Nor/Design): 75/185 Deg C
+Measuring Range:
+•
+SO2: 0-500/2500 ppm
+•
+O2: 0-25%
+With Sample Conditioning System: Shall be Z-purged to meet Area Classification
+•
+With Manually Welded Probe
+•
+With Safe area components like Gas Cooler, Pump, Ball Valves, etc
+•
+Refer to detailed BOM provided in Section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+Notes:
+•
+All the tubing’s and fittings shall be PTFE and PVDF respectively to be
+suitable to the process gas composition.
+1
+Set
+QUOTED QUOTED
+4
+LIQUID ANALYSER SYSTEM
+Sl No
+Tag No
+Parameter
+Make
+1
+DIT-778022
+Density
+E&H/Emerson/Yokogawa
+2
+DIT-779521
+Density
+E&H/Emerson/Yokogawa
+3
+AIT-778023
+pH
+E&H/Emerson/Yokogawa
+4
+AIT-854004
+pH
+E&H/Emerson/Yokogawa
+5
+AIT-854005
+pH
+E&H/Emerson/Yokogawa
+6
+AIT-787654
+pH
+E&H/Emerson/Yokogawa
+7
+AIT-781854
+pH
+E&H/Emerson/Yokogawa
+8
+AT-905202
+Conductivity
+E&H/Emerson/Yokogawa
+9
+AT-905240
+Conductivity
+E&H/Emerson/Yokogawa
+10
+AT-905241
+Conductivity
+E&H/Emerson/Yokogawa
+11
+AT-905242
+Conductivity
+E&H/Emerson/Yokogawa
+12
+AT-918001
+Conductivity
+E&H/Emerson/Yokogawa
+13
+AIT-523004
+Turbidity
+Regret
+14
+AIT-781806A
+Toroidal Conductivity Analyzer
+E&H/Emerson/Yokogawa
+15
+AIT-781806B
+Toroidal Conductivity Analyzer
+E&H/Emerson/Yokogawa
+Analyser Outputs:
+•
+4-20mA Analog Output
+1
+Set
+QUOTED QUOTED
+5
+ANALYSER SHELTER WITH HVAC AND ACCESSORIES
+Size: 3 mtrs x 3 mtrs x 2.8 mtrs (L x W x H)
+Make: Adage
+Outside Area Classification: Zone 2 Gas Group IIC
+Inside Area Classification: Zone 2 Gas Group IIC
+Analyzer House Design & Construction Details:
+•
+MOC – CRCA
+•
+Houses shall be rainproof and dustproof and shall be
+designed to withstand the environmental conditions.
+•
+House outer sheet MOC: CRCA 2mm thick
+•
+House inner sheet MOC: CRCA 2mm thick
+•
+Base frame-Fabricated from ISMC 150/ISMB 100 (min.)
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation: Mineral Fiber Insulation, Insulation Thickness shall
+be 80mm
+•
+With Main Door and Emergency door
+•
+Overhang canopy: 1000 mm length CRCA all four sides of the
+House. Shall be 2 mm thick
+•
+Cable entry to be provided in House through MCT block with
+50% extra space for cables.
+•
+Tube entry to be provided in House through bulkhead plate
+•
+With redundant HVACs
+1 Set
+QUOTED
+QUOTED
+5.1
+ACCESSORIES AS BELOWS:
+Panic Bar- 2 No
+Emergency button push alarm- 1 No
+LEL, O2 & Smoke Gas Detectors, Hooter & Beacon- 1 No
+Safe Guarding PLC mounted inside purged box
+Warning Panels, Distribution boxes, Fire Extinguisher
+1 Lot
+INCLUSIVE INCLUSIVE
+6
+MANDATORY SPARES
+1 Lot
+QUOTED
+QUOTED
+7
+2 YEAR O&M SPARES
+1 Lot
+QUOTED
+QUOTED
+8
+CONSUMABLES
+1 Lot
+QUOTED
+QUOTED
+9
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Per Mtr
+QUOTED
+QUOTED
+10
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per Diem
+@QUOTED PER DIEM
+Notes:
+1. For Gas Analysis, all Components shall be safe area components and shall be mounted inside purged panel
+2. The Purge controller shall be ATEX/IECEx certified.

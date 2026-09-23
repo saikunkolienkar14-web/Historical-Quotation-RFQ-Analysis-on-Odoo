@@ -1,0 +1,393 @@
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+CUSTOMER
+
+BHEL HYDERABAD
+TELANGANA
+
+END USER: TATA KPO
+
+SUBJECT: OFFER FOR CV ANALYSER
+
+KIND ATTN TO: MR. M NAGA SATHISH | DY. MANAGER
+
+Dear Sir,
+
+We thank you for your inquiry and are pleased to quote as per enclosed specification on terms stated
+below. If you have any questions or require additional information, please feel free to contact us.
+
+Table of Contents: -
+SECTION 1: SUMMARY OF PRICES FOR
+SECTION 2: SCOPE DEFINITION
+SECTION 3: COMMERCIAL CONDITIONS
+SECTION 4: SCOPE OF SUPPLY
+
+Our Quotation No: Q2512H067
+Dated: 16.12.2025
+Contact persons :
+Mr. G.Nageshwar Rao
+Email: gnrao@adage-automation.com
+Mob: + 91 9985379936
+(Adage-Hyderabad)
+
+Mr. Saheel Patil
+Email: p.saheel@adage-automation.com
+Mob: +919405372867
+(Adage-Goa-HO)
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR COG
+MODEL: CWD
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 1500-4000 Kcal/Nm3
+
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for Single
+tapping system for handling Impurities such as Tar,
+Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: Coke Oven Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+•
+Individual 4-20 mA analog output for Calorific value, Wobbe Index
+and Specific gravity resp.
+1 SET
+62,00,000
+62,00,000
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+2
+CALORIMETRIC BASED CALORIFIC VALUE ANALYSER FOR BFG
+MODEL: CWD
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+CV: 800- 2000 Kcal/Nm3
+
+Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump, Sample Isolation Valve,
+Ball Valves.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+
+Mounting Arrangement:
+•
+Shall be mounted on rack inside Analyser room
+
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value,
+Wobbe-Index, Specific Density
+•
+Kind of Gas: BF Gas
+•
+Power supply 230V, 50 Hz
+•
+Power consumption: 185 VA
+Output:
+•
+RS232 Serial Output
+•
+3 x Digital Outputs
+Individual 4-20 mA analog output for Calorific value, Wobbe Index and
+Specific gravity resp.
+1 SET
+59,50,000
+59,50,000
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+TUBE SIZE: 1⁄2”
+WITH NECESSARY JB’s AND ACCESSORIES
+@4500 PER METER
+4
+ESERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+CCOMMISSIONING
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (Ac II Tier/Flight).
+@30000 PER METER
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 2: NOTE & SCOPE DEFINITION
+• External cabling,Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope.
+• Instrument Air should be oil & moisture free @ 4-6 bar
+•
+This Offered system is suitable for Safe area.
+• Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (UPS)
+230 VAC, 50 Hz (NON- UPS)
+
+Our Scope of Supply and Work Includes:
+
+• Design, Engineering and Supply of system as per Summary of Prices
+• Supervision of Installation and Commissioning of the complete System
+• Project Management and Project Documentation
+
+Our Scope of Supply Does Not Include:
+
+• All Erection and Installation Activity.
+• Any kind of Civil Work or Mechanical Work.
+• Welding of flanges or mounting of purge air unit and instrument on the stack/duct.
+• Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+• Loop checking for analog & digital signals.
+• Supply and laying of Cable and cable trays for Power supply / Analog and Digital signal / serial communication
+cables etc.
+• Laying of trays/structural and support for field tubing.
+• All utilities as mentioned above.
+• For any delay in commissioning due to reasons not attributed to M/S Adage, commissioning charges shall be
+as per quoted man days
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 3: COMMERCIAL CONDITIONS
+Price Basis
+Ex – Works, Goa, India.
+Packing & Forwarding Charges
+Extra 2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of Drawing Approval.
+Offer validity
+30 days.
+Payment Terms
+20% Advance with the Purchase Order, 20 % with Drawing Approval and Balance 60
+% against Proforma Invoice on readiness of material prior to dispatch.
+Warranty
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of shipment whichever is earlier.
+
+For Adage Automation Pvt. Limited
+
+Mr. Nageshwar Rao
+Email: gnrao@adage-automation.com
+Mob: + 91 9985379936
+(Adage-Hyderabad)
+
+Mr. Saheel Patil
+Email: p.saheel@adage-automation.com
+Mob: + 91 9405372867
+(Adage-Goa-HO)
+
+SOLUTION PARTNER ANALYTICAL
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+SECTION 4- BILL OF MATERIALS
+COKE OVEN GAS- 1 SET
+Description
+Legends
+Qty
+SAMPLE PRE-TREATMENT & PURIFICATION SYSTEM
+Consisting of ball valves (BV02-BV06) and fittings, completely
+tubed
+Make: Adage
+-
+1 PC
+SAMPLE GAS PUMP
+Make: Adage Approved Vendor
+MP 01
+1 PC
+SAMPLE COOLER
+Make: Adage Approved Vendor
+GC 01
+1 PC
+COALESCING FILTER
+Make: Adage
+SF 01
+1 PC
+FLOW MONITOR WITH NEEDLE VALVE
+Measuring Range: 50 - 500 LPH
+Make: Adage
+FM 01
+1 PC
+PRESSURE GAUGE
+Make: Adage Approved Vendor
+PG 01-02
+2 PC
+PRESSURE REGULATOR
+Make: Adage Approved Vendor
+PR01-02
+2 PC
+INLINE FILTER
+2 Micron
+Make: Swagelok
+IF 01-02
+2 PC
+BALL VALVE
+Make: Adage Approved Vendor
+BV 01,08
+2 PC
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+Make: Union
+Media: Coke Oven Gas.
+Power 230 V Ac (+ 10 %), 50 Hz.
+Weight Up To Approx. 54 Kg
+Dimensions W X H X D [Mm] 1020 X 720 X 337
+Protection Class IP 50
+Ambient Temperature 5 – 45 °C
+Allowed Temperature Change ≤ 5 °C Per Hour
+Ambient Humidity 0 – 95%
+Relative External Pressure 800 – 1100 Hpa (0.8 – 1.1 Bar)
+Supply Pressure Of Gas 20 – 40 Mbar
+Process Gas Supply Max. 2
+Calibration Gas Supply Max. 2
+Relative Gas Humidity ≤ 95%,
+Condensate-Free Supply Temperature Of Gas Max. 45 °C
+Voltage 240 Vac, 50 Hz
+Max. Power Consumption 180 Va
+Industrial Ethernet
+T90 Display Time 20 S
+CALORIMETRY
+BASED ANALYSER
+1 PC
+CALIBRATION GAS CYLINDER WITH PRESSURE REGULATOR
+Gas Composition: Cal Gas
+------
+1 SET
+
+SOLUTION PARTNER ANALYTICAL
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+BF GAS- 1 SET
+Description
+Legends
+Qty
+SAMPLE GAS PUMP
+Make: Adage Approved Vendor
+MP 01
+1 PC
+SAMPLE COOLER
+Make: Adage Approved Vendor
+GC 01
+1 PC
+COALESCING FILTER
+Make: Adage
+SF 01
+1 PC
+FLOW MONITOR WITH NEEDLE VALVE
+Measuring Range: 50 - 500 LPH
+Make: Adage
+FM 01
+1 PC
+PRESSURE GAUGE
+Make: Adage Approved Vendor
+PG 01-02
+2 PC
+PRESSURE REGULATOR
+Make: Adage Approved Vendor
+PR01-02
+2 PC
+INLINE FILTER
+2 Micron
+Make: Swagelok
+IF 01-02
+2 PC
+BALL VALVE
+Make: Adage Approved Vendor
+BV 01,08
+2 PC
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+Make: Union
+Media: BFG
+Power 230 V Ac (+ 10 %), 50 Hz.
+Weight Up To Approx. 54 Kg
+Dimensions W X H X D [Mm] 1020 X 720 X 337
+Protection Class IP 50
+Ambient Temperature 5 – 45 °C
+Allowed Temperature Change ≤ 5 °C Per Hour
+Ambient Humidity 0 – 95%
+Relative External Pressure 800 – 1100 Hpa (0.8 – 1.1 Bar)
+Supply Pressure Of Gas 20 – 40 Mbar
+Process Gas Supply Max. 2
+Calibration Gas Supply Max. 2
+Relative Gas Humidity ≤ 95%,
+Condensate-Free Supply Temperature Of Gas Max. 45 °C
+Voltage 240 Vac, 50 Hz
+Max. Power Consumption 180 Va
+Industrial Ethernet
+T90 Display Time 20 S
+CALORIMETRY
+BASED ANALYSER
+1 PC
+CALIBRATION GAS CYLINDER WITH PRESSURE REGULATOR
+Gas Composition: Cal Gas
+------
+1 SET

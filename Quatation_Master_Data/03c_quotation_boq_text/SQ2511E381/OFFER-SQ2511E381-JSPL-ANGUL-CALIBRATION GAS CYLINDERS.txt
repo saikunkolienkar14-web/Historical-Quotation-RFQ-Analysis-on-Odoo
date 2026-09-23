@@ -1,0 +1,38 @@
+Quotation Number: SQ2511E381
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Cylinder N2 (Nitrogen) Conc. 99.999% 47 Liters-MOC:CS
+1
+48000
+48000
+2
+Cylinder NO (Nitric oxide) Conc. 2550 ppm Balance N2 47
+Liters-MOC:CS
+1
+51200
+51200
+3
+Cylinder SO2 (Sulphur Dioxide) Conc. 2450 ppm Balance
+N247 Liters-MOC:CS
+1
+50800
+50800
+4
+Cylinder O2 (Oxygen) Conc. 16% Balance N2 47 Liters-
+MOC:CS
+1
+51300
+51300
+5
+Cylinder CO (Carbon Monoxide) Conc. 2450 ppm Balance
+N2 47 Liters-MOC:CS
+1
+51400
+51400

@@ -1,0 +1,182 @@
+View Quotation Details
+    
+Quotation Details  
+Enquiry
+No:
+  
+1103943461
+Enquiry
+Date:
+  
+17 Oct
+2025
+Due Date:
+  
+23 Oct
+2025
+Quotation
+Date:
+  
+22 Oct
+2025
+Quot
+Open
+Date:
+  
+Quotation
+Reference:
+  
+SQ2510E3
+63
+Payment
+Terms:
+  
+100%
+within 45
+days of
+stfy rcpt
+of
+Material
+Currency:
+  
+Indian
+Rupee
+Vendor
+Name:
+  
+ADAGE AUTOMATION PV
+T.LTD. (AH24)
+Vendor
+Mail:
+  
+paul@adage-automatio
+n.com
+Phone
+No:
+98218441
+14 / 99202
+17222
+Incoterms:
+BRG-Ex-
+Works
+Unpacked.
+Billing
+City/State:
+GOA/Goa,
+Daman &
+Diu
+Extra Charge Details (Tax Type --- Extra Charge Amount --- Unit)
+Freight % - FRA1  - 2   %
+Ins. on total bill % - Y019  - 1   %
+Forwad/Pack charge % - Y021  - 1   %
+Packaging charge (%) - Y098  - 3   %
+Item Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2016 All Rights Reserved, Tata Steel
+
+
+
+Showing 1 to 1 of 1 rows
+ records per page
+ 
+ 
+Brief Desc:GAS ANLYR SPR;VALVE
+Detailed Desc:Item text: GAS ANLYR
+SPR;VALVE . Req: S Girish Group: IMRG
+Type: Nor Payment: Nor Additional
+text for item: Please supply the
+material on or before the delivery date
+as mentioned in PR. Need for
+Services: Analyser Spare General
+Instruction to Vendor: Last ref.
+Enquiry:1103943461 and Qtn No
+:/Dated :2025/10/17 Purchase order
+text: GAS ANLYR SPR;VALVE ITEM
+NAME : VALVE ITEM MAKE : ADAGE
+AUTOMATION PVT LTD ITEM MODEL :
+78409018 PARENT EQUIPMENT MODEL
+: GAS ANALYZER ACCESSORIES PARENT
+EQUIPMENT MAKE : ADAGE
+AUTOMATION PVT LTD SPECIAL
+FEATURES : NO SPECIAL FEATURES
+ADDITIONAL UMC DETAIL:: Solenoid
+Valve, 2/2 Way, 1/4"BSP(F), SS316, NC
+24 VDC
+Accepted
+Item No:  10
+Material No:  
+5532A0321
+Quantity(UOM):
+10.000 (NOS)
+Basic
+Rate:
+ 
+17549.00
+Lead
+Time(Days):
+ 
+90
+HSN Code:  90330000
+Invoicing Region:
+Goa
+Tax Description:
+All CGST-SGST/IGST @ 18% Creditable --
+(R3)
+Comments:
+Price have been quoted as per ARC PO
+4700145281/101
+Extra Charges:  
+Tax
+Amoun
+Freight %-FRA1
+2 %
+Ins. on total bill %-Y019
+1 %
+Forwad/Pack charge %-
+Y021
+1 %
+Packaging charge (%)-
+Y098
+3 %
+5 
+Declaration 
+I hereby declare that I am providing the material in the same capacity
+(Dealer/Distributor, Manufacturer) as registered in Tata Steel and quoting this
+RFQ as
+DEALER/DISTRIBUTOR
+I hereby declare that there is no deviation in technical/functional specification
+against the material/services mentioned in RFQ and the submitted Quote.
+Agree
+Note: Please select all rows and then Print to get the Complete Item List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2016 All Rights Reserved, Tata Steel

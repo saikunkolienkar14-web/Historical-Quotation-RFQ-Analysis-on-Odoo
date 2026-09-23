@@ -1,0 +1,63 @@
+Quotation Number: Q2512E165R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED ANALYSER FOR MEASUREMENT OF
+TOP GAS
+Laser Gas Analyzer for Measurement of CO/CO2/O2
+MAKE: AIROPTIC
+MODEL: GAS EYE
+Operating principle: TDLAS
+Component to be measured: CO, CO2, O2
+Mounting location: Extractive type
+Laser Gas Analyzer for Measurement of H2
+MAKE: AIROPTIC
+MODEL: GAS EYE
+Operating principle: TDLAS
+Component to be measured: H2
+Mounting location: Extractive type
+With Primary Sample handling system consisting of:
+•
+With Gas sampling Probe
+•
+With Scavenging Panel
+With Secondary Sample handling system consisting of:
+•
+With Aspirator Pump System for Extraction and
+Drawing of Sample Gas
+•
+Mounted on Analyzer Panel
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+1 Set
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE:
+Size: 1⁄2”
+MOC: SS
+Power Supply: 230 VAC
+100 METERS
+@QUOTED PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/
+AC II Train Fare To Be Arranged by Adage)
+@QUOTED PER MANDAY

@@ -1,0 +1,71 @@
+Quotation Number: SQ2602N047
+BOQ Status: FOUND
+
+SR._
+TOTAL PRICE
+DESCRIPTION
+-QTY.
+UNLTPRICE
+NO,
+Datalogger + Data Transmission Stack with SIM provisions mounted into
+the Box (Remote Support for Integration Included)
+1.
+4
+2,35,000.00
+9,40,000.00
+Including:
+Junction Box for the Data logger (300X300X210)
+Power Supply 24VDC/ HUB
+Terminals / Cables etc.
+A.
+Data Logger
+Data Transmission
+:INR 1,60,000/Unit.
+:1NR 75,000/Unit.
+B.
+M/s PSPCL_confirms before ordering
+●
+Internet shall be provided by EthernetBroadbandor GSM
+●
+All Signals shall be available in TCP/IP format
+4-20 mA to RS 485 Converter, Power & Signal Cable (For SPM
+Analyser, if Modbus 0/P not available presently)
+2.
+4
+95,000.00
+3,80,000.00
+Please consider Power & Signal Cable as accessories of Converter
+Unit.
+Modbus Communication Module for CEMS Analyser
+3.
+4
+1,10,000.00
+4,40,000.00
+If present SPM Analysers are having Digital 0/P, then the same
+wouldn’t be required. PSPCL needs to confirm.
+Yearly Data Transmission Charges - Parameter Wise (After 1st Year)
+4.
+75,000.00
+4
+3,00,000.00
+The charges will be required after 1 st year of operation as recurring
+charges per year.
+NOTE: BELOW MENTIONED POINTS SHALL B_E IN M/_s_PSPCL_S_COPE,
+Modbus TCP/IP signal for all the parameter shall be made available up to the data lo^er, All the signal cables for
+the same shall be in customer scope.
+Power supply for the data lo^er and necessary cabling, power socket arrangementshall be arranged by
+customer.
+Internet for the data lo^er shall be made available at site by customer preferably broadband connection. Internet
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS) (Please confirm
+before ordering)
+Remote calibration facility details of third part Gaseous analyser shall be provided by M/s PSPCL Scope.
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506. Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa - 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+0832-6620500 9
+www.adage-automation.com ©

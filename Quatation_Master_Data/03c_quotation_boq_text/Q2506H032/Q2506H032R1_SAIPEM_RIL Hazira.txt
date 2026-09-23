@@ -1,0 +1,63 @@
+Quotation Number: Q2506H032R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM AT NITROGEN RECEIVER FOR O2
+MEASUREMENT
+Tag No: 714-AT-090001
+Service: Nitrogen Receiver 1 (MV-FU714-V090001) to Dist
+Make: Siemens
+Model: OXYMAT61
+Operating Principle: Paramagnetic
+Area Classification: Safe Area
+Mounting Location: Shall be rack mounted on Panel
+Process Conditions at Sample Inlet:
+•
+Pressure (Nor/Design): 6/11 bar g
+•
+Temperature (Nor/Design): 35/65 Deg C
+•
+Line Size: 6” (150mm)
+Measuring Range:
+•
+O2: 0-10%
+With Sample Conditioning System:
+•
+With Probe, Flange Size: DN65 PN6
+•
+With PSHS Enclosure consisting of Ball Valves, Pressure Gauges,
+Pressure Regulators, Safety Relief Valves, Filters
+•
+With Panel consisting of ball valves, flowmeters.
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+1 No
+QUOTED
+QUOTED
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4”
+Make: Sanvik/As per RIL AVL
+10
+mtrs
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa
+charges is to be arranged by customer)
+Per
+Diem
+@ QUOTED PER DIEM

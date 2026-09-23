@@ -1,0 +1,40 @@
+Quotation Number: Q2503E030
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1.
+Dust Monitor Analyser
+MAKE: DURAG
+MODEL: D-R 808-Ex2
+Suitable for Zone 2
+Measuring principle: Forward scattering, In-Situ, Continuous,
+single-sided installation
+Measuring range: 0 ... 300 mg/m3
+Certificates: QAL1 and MCERTS
+Standards: IED 2010/75/EU, EN 15267-1, EN 15267-2, EN 15267-
+3, EN 14181, US EPA 40 CRF 60 PS 11
+Analogue output: 1x 4 ... 20 mA
+Digital output: 2x NC/NO
+1 x RS485 MODBUS
+Nominal voltage:24 VDC
+Degree of protection: IP65
+Light source: Laser, class 2
+Note: Utility requirement: Instrument air at 4-6 Kg/cm2 for
+purging in customer’s scope
+19 SETS
+QUOTED
+QUOTED
+2
+Service Charges For Supervision Of Installation &
+Commissioning
+Lodging and boarding to be arranged by the customer. To and fro
+charges to be claimed at actuals (ACII TIER/Flight).
+@QUOTED PER MAN DAY

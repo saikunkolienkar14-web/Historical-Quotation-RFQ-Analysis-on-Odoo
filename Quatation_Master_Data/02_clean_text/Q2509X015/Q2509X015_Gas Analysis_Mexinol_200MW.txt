@@ -1,0 +1,2242 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION. In reference to the same,
+please find enclosed our quotation for Design & Engineering, Manufacturing and Supply of analyser system as per
+your requirement.
+
+ADAGE QUOTE REF:
+Q2509X015
+DATED : 30.09.2025
+BID TYPE : Budgetary
+PROJECT TITLE:
+Supply of O2 Analyser Systems for Hydrogen Plant “Mexinol” of 200MW
+consisting of twelve Elyzer P300 Arrays
+INQUIRY DETAILS:
+P300_PEC012_Gas Analysis System
+CUSTOMER:
+
+Linda Seufert
+System Project Procurement
+SIEMENS ENERGY GLOBAL GMBH & CO. KG
+
+END USER:
+
+SIEMENS ENERGY GLOBAL GMBH & CO. KG
+Siemenspromenade 9
+91058 Erlangen, Germany
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Scope Definition
+SECTION-3: Commercial Terms & Condition
+SECTION-4: Bill of Material
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr Kush Jain
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 8668816625
+kush@adage-automation.com
+Mr Pankaj Lad
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 7507798958
+pankaj@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to briefly introduce
+our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. Our
+expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for various industrial
+sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of Saudi
+Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas Analytical
+Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven capabilities,
+global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+Sr.
+No.
+Description
+Qty
+Unit
+Price
+(USD)
+Total
+Price
+(USD)
+1
+GAS ANALYZER SYSTEM FOR MEASUREMENT OF O2 in H2
+TAG No: TBD
+Service: Gas separator vessel outlets (after H2O Electrolysis)
+and one of a H2 Header Line
+Make: SIEMENS
+Model: OXYMAT6 x 2 Nos
+Component to be measured : O2
+Operating Principle: Paramagnetic
+No of Streams: 7
+
+Process Conditions at Sample Inlet
+•
+Temperature (Min/Norm/Max): 60/70/90 Deg C
+•
+Pressure (Min/Norm/Max): 0.02/0.2 bar(g)
+
+With Sample Conditioning System Consisting of:
+•
+With SHS components as per BOQ provided in Section 4
+
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+
+Utility requirement:
+•
+120VAC, 60 Hz power supply
+
+Notes:
+•
+Sample line from each Tapping to Analyser location is in your
+scope. Distance considered as 25 meters as per technical
+document for SCS design.
+•
+Calibration cylinders with pressure regulators are excluded
+from Adage Scope of Supply
+
+(For Detailed Specification Kindly Refer to Attached BOM)
+
+1 Lot
+QUOTED
+QUOTED
+1.1
+N2 SUPPLY BY SITE FOR O2 IN H2
+(For Detailed Specification kindly refer to attached BOM)
+1 Lot
+QUOTED
+QUOTED
+1.2
+N2 SUPPLY BY BOTTLES - ALTERNATIVE FOR O2 IN H2
+(For Detailed Specification kindly refer to attached BOM)
+1 Lot
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2
+GAS ANALYZER SYSTEM FOR MEASUREMENT OF H2 IN O2
+TAG No: TBD
+Service: Gas separator vessel outlets (after H2O Electrolysis)
+Make: SIEMENS
+Model: CALOMAT6 x 2 Nos
+Component to be measured : H2
+Operating Principle: Thermal Conductivity (TCD)
+No of Streams: 6
+
+Process Conditions at Sample Inlet
+•
+Temperature (Min/Norm/Max): 60/70/90 Deg C
+•
+Pressure (Min/Norm/Max): 0.02/0.2 bar(g)
+
+With Sample Conditioning System Consisting of:
+•
+With SHS components as per BOQ provided in Section 4
+
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+
+Utility requirement:
+•
+120VAC, 60 Hz power supply
+
+Notes:
+•
+Sample line from each Tapping to Analyser location is in your
+scope. Distance considered as 25 meters as per technical
+document for SCS design.
+•
+Calibration cylinders are excluded from Adage Scope of
+Supply
+
+(For Detailed Specification Kindly Refer to Attached BOM)
+
+1 Lot
+QUOTED
+QUOTED
+3
+INDOOR ANALYSER ENCLOSURE/CONTAINER
+Size: 2100 x 1600 x 2300mm (H x W x L in mm)
+Make: Adage
+Description
+Qty
+Power
+Supply
+Remarks
+O2 in H2
+Measurement
+1
+120V, 60
+Hz
+Common enclosure for H2
+in O2 and O2 in H2 system
+H2 in O2
+Measurement
+1
+120V, 60
+Hz
+
+•
+Gas bottle container with lattice walls and protection roof.
+•
+Sample conditioning system incl. Analyzer located on
+mounting plates.
+•
+Front doors lockable
+
+1 No
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare,
+Visa charges is to be arranged by customer)
+Per Diem
+@ QUOTED PER
+DIEM
+Notes:
+1. Wetted parts in the H2 in O2 system shall be oxy-cleaned as per the “DP21T-7000221500-S300_PEC015_P-
+300 Equipment Cleaning Specification” procedure provided.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+OPTIONAL
+1A
+GAS ANALYZER SYSTEM FOR MEASUREMENT OF O2 in H2
+TAG No: TBD
+Service: Gas separator vessel outlets (after H2O Electrolysis)
+and one of a H2 Header Line
+Make: SIEMENS
+Model: OXYMAT6F x 2 Nos
+Component to be measured : O2
+Operating Principle: Paramagnetic
+No of Streams: 7
+
+Process Conditions at Sample Inlet
+•
+Temperature (Min/Norm/Max): 60/70/90 Deg C
+•
+Pressure (Min/Norm/Max): 0.02/0.2 bar(g)
+
+With Sample Conditioning System Consisting of:
+•
+With SHS components as per BOQ provided in Section 4
+
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+
+Utility requirement:
+•
+120VAC, 60 Hz power supply
+
+Notes:
+•
+Sample line from each Tapping to Analyser location is in your
+scope. Distance considered as 25 meters as per technical
+document for SCS design.
+•
+Calibration cylinders with pressure regulators are excluded
+from Adage Scope of Supply
+
+(For Detailed Specification Kindly Refer to Attached BOM)
+
+1 Lot
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2A
+GAS ANALYZER SYSTEM FOR MEASUREMENT OF H2 IN O2
+TAG No: TBD
+Service: Gas separator vessel outlets (after H2O Electrolysis)
+Make: SIEMENS
+Model: CALOMAT6 x 2 Nos
+Component to be measured : H2
+Operating Principle: Thermal Conductivity (TCD)
+No of Streams: 6
+
+Process Conditions at Sample Inlet
+•
+Temperature (Min/Norm/Max): 60/70/90 Deg C
+•
+Pressure (Min/Norm/Max): 0.02/0.2 bar(g)
+
+With Sample Conditioning System Consisting of:
+•
+With SHS components as per BOQ provided in Section 4
+
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+
+Utility requirement:
+•
+120VAC, 60 Hz power supply
+
+Notes:
+•
+Sample line from each Tapping to Analyser location is in your
+scope. Distance considered as 25 meters as per technical
+document for SCS design.
+•
+Calibration cylinders are excluded from Adage Scope of
+Supply
+
+(For Detailed Specification Kindly Refer to Attached BOM)
+
+1 Lot
+QUOTED
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2- NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM
+
+• External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+• All return to process/drain connections shall be taken care by customer
+• Analyzer drain line shall be connected to the plant nearest drain, the tubing for the same shall be in
+Customer’s scope.
+Power Supply Utilities required are:
+•
+Power Supply: 120VAC, 60 Hz power supply (Non-UPS)
+•
+Power Supply: 120VAC, 60 Hz power supply (UPS)
+
+Our Scope of Supply and Work Includes:
+
+• Design, Engineering and Supply as per Summary of Prices
+• Supervision of Installation and Commissioning of the complete System
+• Project Management and Project Documentation
+
+Our Scope of Supply Does Not Include:
+
+• All Erection and Installation Activity.
+• Any kind of Civil Work or Mechanical Work.
+• Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+• Loop checking for analog & digital signals. (Adage shall provide assistance)
+• Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal /
+serial communication cables etc. Any kind of splicing of OFC shall be in customers scope.
+• Laying of trays/structural and support for field tubing.
+• Calibration Cylinders shall be in customers scope as this is an export project
+• All utilities as mentioned above.
+• M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3- COMMERCIAL TERMS AND CONDITIONS
+Price Basis
+FOB, Nhava Sheva Port, Mumbai, India
+Packing Charges
+3.5% seaworthy packing of the basic order value.
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of drawing Approval.
+Offer validity
+30 days.
+Payment Terms
+10% Advance with the Order, 10% against Approval of Drawings & Balance
+80% payment against exchange of dispatch documents.
+Warranty Clause
+Against manufacturing defects for 12 months from the date of Commissioning
+or 18 months from the date of dispatch, whichever is earlier.
+Storage Charges
+The storage charges shall be applicable @0.5% of the order value per week
+after inspection or scheduled delivery
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: BILL OF MATERIAL
+
+BASE FRAME AND PIPING
+DESCRIPTION
+TAG NO
+QTY
+ENCLOSURE- (Carbon Steel Painted)
+Dimensions: 2100x1600x2300mm
+For housing of analysers including Sample conditioning system incl. Analyzer located
+on mounting plates with front doors lockable arrangement.
+Construction Type: Lattice walls with protection roof.
+MOC: Carbon Steel Painted
+Make: Adage
+-
+1 PC
+GAS LOW FLOW ALARM
+Common for Validation gas & Batterie Pressure Reducer Station (Common for H2/O2
+system)
+Low Gas Alarm System - 06 Channel Signal Box Signal box, for optical and acoustic
+signalling of fault reporting, Low supply pressure monitoring with contact gauges,
+Collective alarm for control room, Fast system overview, Installation outside the Ex-
+zone
+Make: GCE Model No: DGM-SK-06N 120V AC 50-60Hz
+-
+1 PC
+PIPING (FITTINGS)
+Make: Fitok/Hylok
+-
+AS
+REQUIRED
+
+6/25/2025, 09:38
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+IND.
+Rev. A
+Rev. B
+Rev. C
+=G01NHC01
++U012UNA01
+Rev. D
+Rev. E
+Rev. F
+Name
+SIEMENS ENERGY IS A REGISTERED TRADEMARK LICENSED BY
+SIEMENS AG.
+© THIS DOCUMENT IS PROTECTED BY COPYRIGHT LAW.
+UNAUTHORIZED REPRODUCTION OR DISTRIBUTION OF
+THIS DOCUMENT WILL RESULT IN A CLAIM
+FOR DAMAGES AND MAY BE PROSECUTED
+UNDER THE LAW.
+Department:
+Format:
+SE TI SES HS
+ANSI D
+Building:
+Countr./Plant:
+PRJ
+Measuring unit:
+Date
+Name
+Constr.
+Check
+Approv
+Title:
+Replacement for/Replaced by:
+To drawing/part list number:
+Remark
+P&ID
+Description
+Date
+Initial
+T. Sayers
+L. Trevisan
+10.20.2023
+12.14.2023
+T. Sayers
+02.01.2024
+Update
+Update
+Elyzer P-300 (1 Array)
+NAM Reference
+M22GT011
+=G01NHC01&017
+Document number:
+P300_PFB030_Electrolysis System-PID
+Sheet:
+A. Mahor
+02.24.2025
+K. Trinh
+02.24.2025
+L. Trevisan
+02.24.2025
+Update
+L. Trevisan
+03.13.2024
+Update
+L. Trevisan
+10.01.2024
+Update
+L. Trevisan
+02.24.2025
+Gasanalytic H2
+/
+17
+27
+Gas Management H2
+GAH
+=G01NHC01&016
+E4
+NHB01HN101-HN01
+GAH
+=G01NHB01&009
+A9
+NHB02HN101-HN01
+GAH
+=G01NHB02&010
+B8
+NHB03HN101-HN01
+GAH
+=G01NHB03&011
+A10
+NHB04HN101-HN01
+GAH
+=G01NHB04&012
+B8
+NHB05HN101-HN01
+GAH
+=G01NHB05&013
+A8
+NHB06HN101-HN01
+GAH
+=G01NHB06&014
+B8
+Gas Header H2
+GAH
+=G01NHC01&015
+A2
+N2 supply - case flushing
+N1.5
+=G01NHX01&024
+E3
+1%
+1%
+1%
+1%
+1%
+1%
+1%
+WP003-WP07
+0.25" OD-GAH-TUBH2
+WP003-WP01
+0.25" OD-GAH-TUBH2
+WP003-WP02
+0.25" OD-GAH-TUBH2
+WP003-WP03
+0.25" OD-GAH-TUBH2
+WP003-WP04
+0.25" OD-GAH-TUBH2
+WP003-WP05
+0.25" OD-GAH-TUBH2
+BQ001-WP26
+0.25" OD-N6-TUB1
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+BQ001-WP03
+0.25" OD-GAH_2-TUBH2
+BQ001-WP24
+0.25" OD-GAH_1-TUBH2
+BQ001-WP24
+0.25" OD-GAH_1-TUBH2
+BQ001-WP23
+0.5" OD-GAH_2-TUBH2
+BQ001-WP16
+0.5" OD-WPH_2-TUBH2
+BQ001-WP21
+0.5" OD-GAH_2-TUBH2
+V01NHC10WP003-WP11
+0.5" OD-GAH_2-TUBH2
+V01NHC10WP003-WP12
+0.5" OD-GAH_2-TUBH2
+WP003-WP12
+0.25" OD-GAH-TUBH2
+BQ001-WP18
+0.25" OD-GAH_2-TUBH2
+BQ001-WP30
+0.25" OD-N1.5-TUB1
+BQ001-WP30
+0.25" OD-N1.5-TUB1
+BQ001-WP17
+0.25" OD-GAH_2-TUBH2
+BQ001-WP25
+0.25" OD-GAH_2-TUBH2
+WP003-WP06
+0.25" OD-GAH-TUBH2
+BQ001-WP20
+0.25" OD-GAH_2-TUBH2
+BQ001-WP19
+0.25" OD-GAH_2-TUBH2
+BQ001-WP02
+0.25" OD-GAH_1-TUBH2
+A01QJB01WP004-WP10
+0.5" OD-N6-TUB1
+BQ001-WP30
+0.25" OD-N1.5-TUB1
+A01QJB01WP004-WP11
+0.25" OD-N1.5-TUB1
+BQ001-WP30
+0.25" OD-N1.5-TUB1
+BQ001-QM07
+0.25" OD
+AI
+paramagnetic
+BQ001-BQ01
+F
+BQ001-BF01
+YS
+BQ001-QM17
+BQ001-QM17
+0.25" OD
+G
+BQ001-QM17
+SE/PU
+Customer
+-TIP300
+Customer
+SE/PU
+-TIP308
+BQ001-QM01
+0.25" OD
+YS
+BQ001-QM11
+BQ001-QM11
+0.25" OD
+G
+BQ001-QM11
+BQ001-QM02
+0.25" OD
+YS
+BQ001-QM12
+BQ001-QM12
+0.25" OD
+G
+BQ001-QM12
+BQ001-QM03
+0.25" OD
+YS
+BQ001-QM13
+BQ001-QM13
+0.25" OD
+G
+BQ001-QM13
+BQ001-QM04
+0.25" OD
+YS
+BQ001-QM14
+BQ001-QM14
+0.25" OD
+G
+BQ001-QM14
+BQ001-QM05
+0.25" OD
+YS
+BQ001-QM15
+BQ001-QM15
+0.25" OD
+G
+BQ001-QM15
+BQ001-QM06
+0.25" OD
+YS
+BQ001-QM16
+BQ001-QM16
+0.25" OD
+G
+BQ001-QM16
+0.25" OD
+0.25" OD
+0.25" OD
+0.25" OD
+0.25" OD
+0.25" OD
+BQ001-GP01
+N01
+N02
+AI
+paramagnetic
+BQ001-BQ02
+F
+BQ001-BF02
+0.25" OD
+BQ001-QN20
+0.25" OD
+0.25" OD
+SE/PU
+Customer
+-TIP311
+BQ001-QN08
+0.25" OD
+BQ001-CM03
+PIC
+BQ001-QN40
+0.5 bar (g)
+BQ001-FL40
+BQ001-EQ01
+N01
+N02
+N03
+BQ001-HN02
+N01
+N02
+R-001
+0.25" OD
+R-002
+0.25" OD
+BQ001-QM23
+0.25" OD/0.25" OD/0.25" OD
+BQ001-QM22
+0.25" OD
+0.5" OD/0.25" OD
+BQ001-QN21
+0.25" OD
+BQ001-HN01
+N01
+N02
+0.25" OD
+BQ001-CM02
+PIC
+BQ001-QN22
+0.5" OD/0.25" OD
+0.5" OD/0.25" OD
+0.5" OD
+Customer
+SE/PU
+-TIP309
+BQ001-QM24
+0.25" OD
+YS
+BQ001-QM24
+G
+BQ001-QM24
+0.25" OD
+BQ001-QN24
+0.25" OD
+BQ001-QM26
+0.25" OD
+R-002
+0.25" OD
+F
+BQ001-BF10
+BQ001-QM28
+0.25" OD
+BQ001-QM27
+0.25" OD/0.25" OD/0.25" OD
+AL
+SE/PU
+Customer
+-TIP312
+AH
+AH
+AL
+NS
+BQ001-GP01
+M
+FI
+~60 Nl/h
+BQ001-BF02
+FI
+~60 Nl/h
+BQ001-BF01
+FIC
+~150 Nl/h
+BQ001-BF10
+NS
+BQ001-EQ01
+XA
+BQ001-EQ01
+SE/PU
+Customer
+-TIP313
+P
+BQ001-QN22
+P
+BQ001-BP10
+G
+BQ001-QM23
+PIC
+BQ001-QN30
+AL
+G
+BQ001-QM27
+OL (Cal.)
+X
+Funct. Control
+BQ001-BQ01
+X
+Funct. Control
+BQ001-BQ02
+SE/PU
+SE
+-TIP310
+AH
+AHH
+AHHHH
+OL
+OL
+OL
+OL
+OL
+OL
+OL
+OL
+BQ001-QN07
+0.25" OD
+BQ001-QN01
+0.25" OD
+BQ001-QN02
+0.25" OD
+BQ001-QN03
+0.25" OD
+BQ001-QN04
+0.25" OD
+BQ001-QN05
+0.25" OD
+BQ001-QN06
+0.25" OD
+CG
+TUB1
+GAH_2
+TUBH2
+X
+Sensor Fault
+BQ001-BQ01
+X
+Sensor Fault
+BQ001-BQ02
+BQ001-QN10
+0.25" OD
+SE/PU
+Customer
+-TIP314
+BQ001-QM40
+0.25" OD/0.25" OD/0.25" OD
+BQ001-QN41
+0.25" OD
+CG
+TUB1
+GAH_2
+TUBH2
+BQ001-CM04
+BQ001-RM40
+0.25" OD
+BQ001-RM41
+0.25" OD
+0.5 bar (g)
+BQ001-FL50
+0.25" OD
+CG
+TUB1
+GAH_1
+TUBH2
+BQ001-QM50
+0.25" OD/0.25" OD/0.25" OD
+BQ001-QN51
+0.25" OD
+CG
+TUB1
+GAH_1
+TUBH2
+BQ001-RM50
+0.25" OD
+AL
+AL
+BQ001-QN60
+0.5" OD
+3.5 bar (g)
+BQ001-FL30
+0.25" OD
+0.3 bar (g)
+BQ001-QN22
+0.25" OD
+3 bar (g)
+BQ001-QN30
+0.25" OD
+0.5" OD/0.25" OD
+0.3 bar (g)
+BQ001-QN40
+0.25" OD
+0.1 bar (g)
+BQ001-QN31
+0.25" OD
+PIC
+BQ001-QN31
+FIC
+25 Nl/h
+BQ001-BF31
+FIC
+25 Nl/h
+BQ001-BF32
+F
+BQ001-BF01
+F
+BQ001-BF02
+FLT
+AL
+BQ001-QM08
+0.25" OD
+BQ001-QM09
+0.25" OD
+BQ001-QM10
+0.25" OD
+AHHH
+Note 1
+Line size dependent on relief scenario of gas analytic system (by supplier) and length/routing of piping
+Note 1
+AH
+SE/PU
+SE
+-TIP307
+SE/PU
+SE
+-TIP301
+SE/PU
+SE
+-TIP302
+SE/PU
+SE
+-TIP303
+SE/PU
+SE
+-TIP304
+SE/PU
+SE
+-TIP305
+SE/PU
+SE
+-TIP306
+Wastewater Collection
+WW
+Nitrogen Supply 6 bar
+OL (Cal.)
+OH (Meas.)
+FLT
+No FLT
+BQ001-FL04
+BQ001-FL03
+AH
+AHH
+AHHHH
+AHHH
+No FLT
+SE/PU
+Customer
+-TIP315
+OH (Meas.)
+0.5" OD
+0.5" OD/0.25" OD
+BQ001-QM51
+0.25" OD
+Atmosphere
+Atmosphere
+Analyzer casing
+Analyzer casing
+BQ001-Package Unit
+Pressure Reducing Station BQ001-QN22
+"Atmospheric pressure
+equalization discharge"
+Siphon
+Pressure Reducing Station BQ001-QN40
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS ANALYSER- O2 in H2 (60Hz)
+DESCRIPTION
+TAG NO
+QTY
+BALL VALVE 1⁄4”
+Ball Valve, Body:316L SS, MWP:2,500psig, Seat:PTFE, Conn.:1/4in. x 1/4in.
+Tube O.D., 2-Ferrule, Orifice:3.2mm, Cv:0.6, Black Nylon Handle, 2- Way
+Make: Fitok/Hylok, Model: BO6L-FL4-03
+BQ001-QM01
+to QM07
+BQ001-QM28
+BQ001-
+QM22/26
+10 PC
+BALL VALVE 1⁄2”
+Ball Valve Body:316L SS, MWP:1500psig, Seat:PTFE, Conn.:1/2in. x 1/2in. Tube
+O.D., 2-Ferrule, Orifice:10.3mm, Cv:6.42, Black Nylon Handle
+Make: Fitok/Hylok, Model: BV6L-FL8-10
+BQ001-QM25
+1 PC
+SOLENOID VALVE
+Type (TYP_0009) 0330
+Circuit function (WW) A - 2/2-ways; normally closed
+Orifice size (DN) 03,0 - 3,0mm (1/8")
+Seal material (DWST) FF - FKM
+Material (WKST) VA – SS316L
+Port connection (LTA) GM82 - G1/4 threaded port
+Voltage (SP) 024 - 24 volts
+Pressure (bar) (min) 0
+Pressure (bar) (max) 10
+Medium temperature (degree C) (min) 0
+Medium temperature (degree C) (max) 90
+Ambient temperature (max) 55
+Make: Burkert, Model: 0330-A-03,0-FF-VA-GM82-024/DC-08
+
+BQ001-QM11
+to
+QM17/QM24
+8 PC
+NEEDLE VALVE
+Needle Valve Body:316L SS, MWP:3000psig, Packing: PTFE, Conn.:1/4in. Ã—
+1/4in. Tube O.D., 2-Ferrule, Orifice:4mm, Cv:0.35, Black Knob Handle
+Make: Fitok/Hylok, Model: NG6L-FL4-7-Y
+BQ001-QN01
+to
+QN07/QN10
+BQ001-QN20
+BQ001-QN08
+BQ001-
+QN21/24
+12 PC
+GAS PUMP
+Sample gas pump P2.2 Amex-O2 Cl.I, Div.2 Gps. B,C,D. T3/T3C
+voltage: 115V 50/60Hz
+pump head: Stainless steel
+valves: suitable for 140°C*
+incl. fittings VA 1/4
+incl. mounting-console and vibration-damper
+Optimized for use with high-purity hydrogen and leak tested!
+Make: Buhler, Germany , Model: P2.2 AMEX
+BQ001-GP01
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS COOLER
+Type: Peltier gas cooler
+Approval: Not specified
+Ambient-temperature: Ta=60°C
+Heat exchanger: Double Stainless steel
+Voltage: 115VAC 50/60Hz
+Hose connection/threads: inch
+Peristaltic pump: without
+Gas pump: without
+Filter: without
+Moisture detection: without
+Signal outputs: Status output
+Delta-T-Control: without
+Make: Buehler, Model: TC-MIDI 6112
+BQ001-EQ01
+1 PC
+WATER TRAP
+Operating pressure for gas: 0 - 50 bar
+Gas flow: 0 - 180 l air/h
+Pressure drop at 60 l air/h: approx. 20 mbar
+Pressure drop at 120 l air/h: approx. 40 mbar
+Pressure drop at 180 l air/h: approx. 60 mbar
+Diaphragm pore size: < 0,1μm
+Operating temperature: - 20° C - +190°C
+Effective filter area: 30 cm2
+Housing volume: 15 ml
+Materials used: SS316
+Wall mounting bracket (option): Stainless steel type 1.4301
+Housing dimensions: Diameter 100 mm, height 80 mm, Depth 160 mm (incl.
+mounting bracket)
+Gas connections:
+GAS-IN 1/4“ NPT inside thread
+BYPASS 1/4“ NPT inside thread
+GAS-OUT 1/8“ NPT inside thread
+Make: Sun Control; Model: type WT 20.82 E
+BQ001-
+HN01/02
+2 PC
+3/2 WAY BALL VALVE
+316L SS, BO Series Ball Valves, One-piece Instrumentation, PTFE Seats, 1/4"
+Tube Fitting, 2500psig (172bar), -20°F to 300°F(-28°C to 148°C), 0.13" Orifice, 3-
+way
+Make: Fitok/Hylok, Model: BO6L-FL4-03-3L
+BQ001-
+QM23/27
+2 PC
+FLAME ARRESTOR UPSTREAM GAS ANALYZER
+Functions: Sintered Flame arrestor, Thermal Trip Valve, Non Return Valve, MOC-
+SS316, Working Pressure Range 0-5 Bar, InletNPT1/4"F(female), Outlet
+NPT1/4"M(male)
+Make: GCE; Model: FS500-SS N14F N14M5BARH23
+BQ001-
+FL03/04
+2 PC
+FLOW METER
+For Sample line and Fast loop
+Make: Krohne, Model: DK32 with 2 contacts, equipped with needle valve + Switch
+amplifier NAMUR/relais contact (P+F KCD2-SR-2 or equal)
+BQ001-
+BF01/02
+BQ001-BF10
+3 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS ANALYZER
+19” Rack Mounted type
+Make: Siemens, Model: OXYMAT6, MLFB No: 7MB2021-0AG20-0BA1-Z C20
+BQ001-
+QN21/24
+2 PC
+GAS ANALYZER (OPTIONAL)
+Field Mounted type
+Make: Siemens, Model: OXYMAT6F, MLFB No: 7MB2521-0AG00-0AA1-Z
+C20+Y02
+BQ001-
+QN21/24
+2 PC
+PRESSURE REDUCER STATION, CALIBRATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned,
+Inlet Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29
+psi. Diaphragm=Hastelloy, with Patented damping system to avoid impact back
+pressure load on regulator body, adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet and 1 nos. Outlet Pressure Gauge,
+7. With Integrated 1 nos. Safety Valve at Outlet,
+Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE Model: MPLH0XDP0SFXAXBTBTM14MM06SN14F
+BQ001-QN40
+1 PC
+PRESSURE REDUCER STATION, VALIDATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned,
+Inlet Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29
+psi. Diaphragm=Hastelloy, with Patented damping system to avoid impact back
+pressure load on regulator body,
+adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet Inlet Contact Gauge and 1nos. Outlet
+Pressure Gauge, Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief
+Valve Port NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Glycerine-filled pressure gauges shall be used
+Make: GCE, Model: MPLH0XDP00FXAXI1BTM14MM06SN14F
+BQ001-QN22
+1 PC
+PRESSURE TRANSMITTER
+(7MF0300-1ND01-5AM2-ZA00+B30+C14+C20+D41+D61+E06+Y01)
+Make: Siemens; Model: SITRANSP320
+BQ001-BP10
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+N2 SUPPLY BY SITE FOR O2 IN H2
+DESCRIPTION
+TAG NO
+QTY
+BALL VALVE 1⁄4”
+Ball Valve, Body:316L SS, MWP:2,500psig, Seat:PTFE, Conn.:1/4in. x 1/4in.
+Tube O.D., 2-Ferrule, Orifice:3.2mm, Cv:0.6, Black Nylon Handle, 2- Way
+Make: Fitok/Hylok, Model: BO6L-FL4-03
+BQ001-QM08
+1 PC
+PRESSURE REDUCER FOR PURGE GAS
+Factory assembled, Integrated with Helium Leak
+Test, Single Stage, Purity 6 Grade Gases (99.9999%) MOC: SS316L Stainless
+Steel, Specially Cleaned and Electro-Polished, With Hastelloy Diaphragm,
+Inlet Pressure = 12 Bar / 174 psi, Outlet
+Pressure Range = 0 to 1 Bar / 0- 14.5 psi,
+Patented damping system to avoid impact of back pressure on regulator
+diaphragm and internal components,
+Adjustment Knob, With Integrated Inlet and Outlet Pressure Gauges, With
+Integrated Inline Filter of 10 micron and 100 micron mesh at Inlet and Outlet,
+Without pressure
+relief valve at delivery pressure side, Inlet & Outlet Port = NPT1/4F, Guaranteed
+leak rate of <1x10-9 mbar l/s (He)
+Make: GCE, Model: LSLLVSJRD1AYBTBTN14FN14F010001
+BQ001-QN30
+1 PC
+PRESSURE REDUCER FOR REFERENCE GAS
+Factory assembled, Integrated with Helium Leak
+Test, Single Stage, Purity 6 Grade Gases (99.9999%) MOC: SS316L Stainless
+Steel, Specially Cleaned and Electro-Polished, With Hastelloy Diaphragm,
+Inlet Pressure = 50 Bar / 725 psi, Outlet
+Pressure Range = 0.5 to 6 Bar /7 - 87 psi,
+Patented damping system to avoid impact of back pressure on regulator
+diaphragm and internal components, Adjustment Knob, With Integrated Inlet and
+Outlet Pressure Gauges, With Integrated Inline Filter of 10 micron and 100
+micron mesh at Inlet and Outlet, Without pressure relief valve at delivery pressure
+side, Inlet & Outlet Port = NPT1/4F,
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE, Model: LSLH0SJREXCXBTBTN14FN14F010001
+BQ001-QN31
+1 PC
+SAFETY VALVE
+Direct Acting, Spring Loaded, SS316, Activating Pressure Adjustable (3.4 to 24
+Bar), Inlet NPT1/4"M and Outlet NPT1/4"F
+Make: GCE, Model: AV505-SS3,4-24B N14M N14F
+BQ001-FL30
+1 PC
+FLOW METER PURGE GAS
+Make: Krohne, Model: DK800 with needle valve
+BQ001-
+BF31/32
+2 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+N2 SUPPLY BY BOTTLES - ALTERNATIVE FOR O2 IN H2
+DESCRIPTION
+TAG NO
+QTY
+BATTERIE PRESSURE REDUCER
+Dual Cylinder - Semi Auto Changeover Gas Regulator Panel – Wall Mount - For
+(N2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases (99.9999%)
+Bar / 2.9 -43.5 psi.
+Diaphragm=Hastelloy, with Patented damping system to avoid impact back
+pressure load on regulator body,
+adjustment knob,
+1. With Inbuilt 10-micron filter at Regulator Inlet,
+2. and 100-micron Filter at Regulator Outlet,
+3. With 2 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 2 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 2 nos. Inlet Inlet Contact Gauge and 1nos. Outlet Pressure
+Gauge,
+7. With 2 nos. Integrated Check Valve at Inlets and 1 nos. Safety Valve at Outlet
+Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port 6MM OD
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE Model: MPLH0SDP0UGXBXI1BTM14MM06SM06S
+WITH SAMPLE LOW GAS ALARM
+Low Gas Alarm System - 06 Channel Signal Box Signal box, for optical and
+acoustic signalling of fault reporting, Low supply pressure monitoring with contact
+gauges, Collective alarm for control room, Fast system overview, Installation
+outside the Ex-zone
+Make: GCE Model No: DGM-SK-06N 120V AC 50-60Hz
+-
+1 PC
+
+6/25/2025, 09:38
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+IND.
+Rev. A
+Rev. B
+Rev. C
+=G01NHE01
++U012UNA01
+Rev. D
+Rev. E
+Rev. F
+Name
+SIEMENS ENERGY IS A REGISTERED TRADEMARK LICENSED BY
+SIEMENS AG.
+© THIS DOCUMENT IS PROTECTED BY COPYRIGHT LAW.
+UNAUTHORIZED REPRODUCTION OR DISTRIBUTION OF
+THIS DOCUMENT WILL RESULT IN A CLAIM
+FOR DAMAGES AND MAY BE PROSECUTED
+UNDER THE LAW.
+Department:
+Format:
+SE TI SES HS
+ANSI D
+Building:
+Countr./Plant:
+PRJ
+Measuring unit:
+Date
+Name
+Constr.
+Check
+Approv
+Title:
+Replacement for/Replaced by:
+To drawing/part list number:
+Remark
+P&ID
+Description
+Date
+Initial
+T. Sayers
+L. Trevisan
+10.20.2023
+12.14.2023
+T. Sayers
+02.01.2024
+Update
+Update
+Elyzer P-300 (1 Array)
+NAM Reference
+M22GT011
+=G01NHE01&020
+Document number:
+P300_PFB030_Electrolysis System-PID
+Sheet:
+A. Mahor
+02.24.2025
+K. Trinh
+02.24.2025
+L. Trevisan
+02.24.2025
+Update
+L. Trevisan
+03.13.2024
+Update
+L. Trevisan
+10.01.2024
+Update
+L. Trevisan
+02.24.2025
+Gasanalytic O2
+/
+20
+27
+NHB01HN201-HN01
+GAO
+=G01NHB01&009
+B13
+NHB02HN201-HN01
+GAO
+=G01NHB02&010
+B10
+NHB03HN201-HN01
+GAO
+=G01NHB03&011
+B13
+NHB04HN201-HN01
+GAO
+=G01NHB04&012
+B12
+NHB05HN201-HN01
+GAO
+=G01NHB05&013
+B10
+NHB06HN201-HN01
+GAO
+=G01NHB06&014
+B13
+Gas Header O2
+GAO
+=G01NHE01&018
+B2
+1%
+1%
+1%
+1%
+1%
+1%
+WP003-WP01
+0.25" OD-GAO-TUBO2
+WP003-WP02
+0.25" OD-GAO-TUBO2
+WP003-WP03
+0.25" OD-GAO-TUBO2
+WP003-WP04
+0.25" OD-GAO-TUBO2
+WP003-WP05
+0.25" OD-GAO-TUBO2
+WP003-WP06
+0.25" OD-GAO-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP03
+0.25" OD-GAO_2-TUBO2
+BQ001-WP25
+0.25" OD-GAO_2-TUBO2
+BQ001-WP19
+0.25" OD-GAO_2-TUBO2
+BQ001-WP17
+0.25" OD-GAO_2-TUBO2
+BQ001-WP24
+0.25" OD-GAO_1-TUBO2
+BQ001-WP16
+0.5" OD-WPO_2-TUBO2
+BQ001-WP18
+0.25" OD-GAO_2-TUBO2
+V01NHE10WP003-WP12
+0.5" OD-GAO_2-TUBO2
+V01NHE10WP003-WP11
+0.5" OD-GAO_2-TUBO2
+BQ001-WP21
+0.5" OD-GAO_2-TUBO2
+WP003-WP07
+0.25" OD-GAO-TUBO2
+BQ001-WP15
+0.25" OD-GAO_2-TUBO2
+BQ001-WP24
+0.25" OD-GAO_1-TUBO2
+BQ001-WP02
+0.25" OD-GAO_1-TUBO2
+BQ001-WP20
+0.25" OD-GAO_2-TUBO2
+BQ001-WP23
+0.5" OD-GAO_2-TUBO2
+SE/PU
+SE
+-TIP301
+SE/PU
+Customer
+-TIP300
+Customer
+SE/PU
+-TIP308
+Customer
+SE/PU
+-TIP309
+SE/PU
+SE
+-TIP302
+SE/PU
+SE
+-TIP303
+SE/PU
+SE
+-TIP304
+SE/PU
+SE
+-TIP305
+SE/PU
+SE
+-TIP306
+Customer
+SE/PU
+TUBO2
+-TIP311
+AI
+H2 in O2
+BQ001-BQ01
+F
+BQ001-BF01
+BQ001-QM01
+0.25" OD
+YS
+BQ001-QM11
+BQ001-QM11
+0.25" OD
+G
+BQ001-QM11
+BQ001-QM02
+0.25" OD
+YS
+BQ001-QM12
+BQ001-QM12
+0.25" OD
+G
+BQ001-QM12
+BQ001-QM03
+0.25" OD
+YS
+BQ001-QM13
+BQ001-QM13
+0.25" OD
+G
+BQ001-QM13
+BQ001-QM04
+0.25" OD
+YS
+BQ001-QM14
+BQ001-QM14
+0.25" OD
+G
+BQ001-QM14
+BQ001-QM05
+0.25" OD
+YS
+BQ001-QM15
+BQ001-QM15
+0.25" OD
+G
+BQ001-QM15
+BQ001-QM06
+0.25" OD
+YS
+BQ001-QM16
+BQ001-QM16
+0.25" OD
+G
+BQ001-QM16
+0.25" OD
+0.25" OD
+0.25" OD
+0.25" OD
+0.25" OD
+BQ001-GP01
+N01
+N02
+AI
+H2 in O2
+BQ001-BQ02
+F
+BQ001-BF02
+0.25" OD
+BQ001-QN20
+0.25" OD
+0.25" OD
+BQ001-QN08
+0.25" OD
+BQ001-CM03
+BQ001-EQ01
+N01
+N02
+N03
+BQ001-HN02
+N01
+N02
+0.25" OD
+0.25" OD
+BQ001-QM23
+0.25" OD/0.25" OD/0.25" OD
+BQ001-QM22
+0.25" OD
+R-001
+0.5" OD/0.25" OD
+BQ001-QN21
+0.25" OD
+BQ001-HN01
+N01
+N02
+BQ001-CM02
+PIC
+BQ001-QN22
+0.5" OD/0.25" OD
+0.5" OD/0.25" OD
+0.5" OD
+BQ001-QM24
+0.25" OD
+YS
+BQ001-QM24
+G
+BQ001-QM24
+0.25" OD
+BQ001-QN24
+0.25" OD
+BQ001-QM26
+0.25" OD
+0.25" OD
+F
+BQ001-BF10
+BQ001-QM28
+0.25" OD
+BQ001-QM27
+0.25" OD/0.25" OD/0.25" OD
+Customer
+SE/PU
+-TIP312
+AL
+AL
+AH
+AH
+AL
+NS
+BQ001-GP01
+M
+FI
+~60 Nl/h
+BQ001-BF01
+FI
+~60 Nl/h
+BQ001-BF02
+FIC
+~150 Nl/h
+BQ001-BF10
+NS
+BQ001-EQ01
+XA
+BQ001-EQ01
+P
+BQ001-BP10
+P
+BQ001-QN22
+G
+BQ001-QM23
+AL
+G
+BQ001-QM27
+OL (Cal.)
+OL (Cal.)
+X
+Funct. control
+BQ001-BQ01
+X
+Funct. control
+BQ001-BQ02
+AH
+AHH
+AHHH
+AH
+AHH
+AHHH
+BQ001-QN01
+0.25" OD
+BQ001-QN02
+0.25" OD
+BQ001-QN03
+0.25" OD
+BQ001-QN04
+0.25" OD
+BQ001-QN05
+0.25" OD
+BQ001-QN06
+0.25" OD
+OL
+OL
+OL
+OL
+OL
+OL
+OL
+X
+Sensor Fault
+BQ001-BQ01
+X
+Sensor Fault
+BQ001-BQ02
+BQ001-QN10
+0.25" OD
+0.5 bar (g)
+BQ001-FL50
+0.25" OD
+CG
+TUB1
+GAO_1
+TUBO2
+BQ001-QM50
+0.25" OD/0.25" OD/0.25" OD
+BQ001-QN51
+0.25" OD
+CG
+TUB1
+GAO_1
+TUBO2
+BQ001-RM50
+0.25" OD
+PIC
+BQ001-QN40
+0.5 bar (g)
+BQ001-FL40
+0.25" OD
+CG
+TUB1
+GAO_2
+TUBO2
+BQ001-QM40
+0.25" OD/0.25" OD/0.25" OD
+BQ001-QN41
+0.25" OD
+CG
+TUB1
+GAO_2
+TUBO2
+BQ001-RM40
+0.25" OD
+BQ001-RM41
+0.25" OD
+SE/PU
+Customer
+-TIP314
+BQ001-CM04
+FLT
+AL
+FLT
+AL
+BQ001-QN60
+0.5" OD
+0.3 bar (g)
+BQ001-QN40
+0.25" OD
+0.3 bar (g)
+BQ001-QN22
+0.25" OD
+F
+BQ001-BF01
+F
+BQ001-BF02
+SE/PU
+SE
+-TIP310
+Note 1
+Line size dependent on relief scenario of gas analytic system (by supplier) and length/routing of piping
+Note 1
+AH
+Wastewater Collection
+WW
+No FLT
+OH (Meas.)
+OH (Meas.)
+No FLT
+0.5" OD
+0.5" OD/0.25" OD
+Atmosphere
+Atmosphere
+Pressure reducing station BQ001-QN22
+Pressure reducing station BQ001-QN40
+BQ001-Package Unit
+"Atmospheric pressure
+equalization discharge"
+Siphon
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS ANALYSER- H2 in O2 (OXYCLEAN)
+DESCRIPTION
+TAG NO
+QTY
+BALL VALVE 1⁄4”
+Ball Valve, Body:316L SS, MWP:2,500psig, Seat:PTFE, Conn.:1/4in. x 1/4in.
+Tube O.D., 2-Ferrule, Orifice:3.2mm, Cv:0.6, Black Nylon Handle, 2- Way
+Make: Fitok/Hylok, Model: BO6L-FL4-03
+BQ001-QM01
+to QM06
+BQ001-QM28
+BQ001-
+QM22/26
+9 PC
+BALL VALVE 1⁄2”
+Ball Valve Body:316L SS, MWP:1500psig, Seat:PTFE, Conn.:1/2in. x 1/2in. Tube
+O.D., 2-Ferrule, Orifice:10.3mm, Cv:6.42, Black Nylon Handle
+Make: Fitok/Hylok, Model: BV6L-FL8-10
+BQ001-QM25
+1 PC
+SOLENOID VALVE
+Type (TYP_0009) 0330
+Circuit function (WW) A - 2/2-ways; normally closed
+Orifice size (DN) 03,0 - 3,0mm (1/8")
+Seal material (DWST) FF - FKM
+Material (WKST) VA – SS316L
+Port connection (LTA) GM82 - G1/4 threaded port
+Voltage (SP) 024 - 24 volts
+Pressure (bar) (min) 0
+Pressure (bar) (max) 10
+Medium temperature (degree C) (min) 0
+Medium temperature (degree C) (max) 90
+Ambient temperature (max) 55
+Make: Burkert, Model: 0330-A-03,0-FF-VA-GM82-024/DC-08
+BQ001-QM11
+to
+QM16/QM24
+7 PC
+NEEDLE VALVE
+Needle Valve Body:316L SS, MWP:3000psig, Packing: PTFE, Conn.:1/4in. Ã—
+1/4in. Tube O.D., 2-Ferrule, Orifice:4mm, Cv:0.35, Black Knob Handle
+Make: Fitok/Hylok, Model: NG6L-FL4-7-Y
+BQ001-QN01
+to
+QN06/QN10
+BQ001-QN20
+BQ001-QN08
+BQ001-
+QN21/24
+11 PC
+GAS PUMP
+Sample gas pump P2.2 Amex-O2 Cl.I, Div.2 Gps. B,C,D. T3/T3C
+voltage: 115V 50/60Hz
+pump head: Stainless steel
+valves: suitable for 140°C*
+incl. fittings VA 1/4
+incl. mounting-console and vibration-damper
+Optimised for use with high-purity oxygen!
+Make: Buhler, Germany , Model: P2.2 AMEX
+BQ001-GP01
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS COOLER
+Type: Peltier gas cooler
+Approval: Not specified
+Ambient-temperature: Ta=60°C
+Heat exchanger: Double Stainless steel
+Voltage: 115VAC 50/60Hz
+Hose connection/threads: inch
+Peristaltic pump: without
+Gas pump: without
+Filter: without
+Moisture detection: without
+Signal outputs: Status output
+Delta-T-Control: without
+Make: Buehler, Model: TC-MIDI 6112
+BQ001-EQ01
+1 PC
+WATER TRAP
+Operating pressure for gas: 0 - 50 bar
+Gas flow: 0 - 180 l air/h
+Pressure drop at 60 l air/h: approx. 20 mbar
+Pressure drop at 120 l air/h: approx. 40 mbar
+Pressure drop at 180 l air/h: approx. 60 mbar
+Diaphragm pore size: < 0,1μm
+Operating temperature: - 20° C - +190°C
+Effective filter area: 30 cm2
+Housing volume: 15 ml
+Materials used: SS316
+Wall mounting bracket (option): Stainless steel type 1.4301
+Housing dimensions: Diameter 100 mm, height 80 mm, Depth 160 mm (incl.
+mounting bracket)
+Gas connections:
+GAS-IN 1/4“ NPT inside thread
+BYPASS 1/4“ NPT inside thread
+GAS-OUT 1/8“ NPT inside thread
+Make: Sun Control; Model: type WT 20.82 E
+BQ001-
+HN01/02
+2 PC
+3/2 WAY BALL VALVE
+316L SS, BO Series Ball Valves, One-piece Instrumentation, PTFE Seats, 1/4"
+Tube Fitting, 2500psig (172bar), -20°F to 300°F(-28°C to 148°C), 0.13" Orifice, 3-
+way
+Make: Fitok/Hylok, Model: BO6L-FL4-03-3L
+BQ001-
+QM23/27
+2 PC
+FLAME ARRESTOR UPSTREAM GAS ANALYZER
+Functions: Sintered Flame arrestor, Thermal Trip Valve, Non Return Valve, MOC-
+SS316, Working Pressure Range 0-5 Bar, InletNPT1/4"F(female), Outlet
+NPT1/4"M(male)
+Make: GCE; Model: FS500-SS N14F N14M5BARH23
+BQ001-
+FL03/04
+2 PC
+FLOW METER
+For Sample line and Fast loop
+Make: Krohne, Model: DK32 with 2 contacts, equipped with needle valve + Switch
+amplifier NAMUR/relais contact (P+F KCD2-SR-2 or equal)
+BQ001-
+BF01/02
+BQ001-BF10
+3 PC
+GAS ANALYZER
+19” Rack Mounted type
+Make: Siemens, Model: CALOMAT6E, MLFB No: 7MB2521-0AG00-0AA1-Z
+C20+Y02
+BQ001-
+QN21/24
+2 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+GAS ANALYZER (OPTIONAL)
+Field Mounted type
+Make: Siemens, Model: CALOMAT6F, MLFB No: 7MB2511-0AG00-0AA1-Z
+C20+Y02
+BQ001-
+QN21/24
+2 PC
+PRESSURE REDUCER STATION, CALIBRATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned,
+Inlet Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29
+psi. Diaphragm=Hastelloy, with Patented damping system to avoid impact back
+pressure load on regulator body, adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet and 1 nos. Outlet Pressure Gauge,
+7. With Integrated 1 nos. Safety Valve at Outlet,
+Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief Valve Port NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Make: GCE Model: MPLH0XDP0SFXAXBTBTM14MM06SN14F
+BQ001-QN40
+1 PC
+PRESSURE REDUCER STATION, VALIDATION GAS
+Single Cylinder - Gas Regulator Panel - Wall Mount - For (H2 & O2)
+Factory assembled, Integrated with Helium Leak Tested,
+Oxy cleaned, Purity 6 Grade Gases(99.9999%)
+Dual Stage, MOC= CW614 Brass, Nickel and Chrome Plated, Specially Cleaned,
+Inlet Pressure = 200 Bar / 2900 psi, Outlet Pressure Range= 0.2 -2 Bar / 2.9 -29
+psi. Diaphragm=Hastelloy, with Patented damping system to avoid impact back
+pressure load on regulator body,
+adjustment knob,
+1. With Inbuilt 10 micron filter at Regulator Inlet,
+2. and 100 micron Filter at Regulator Outlet,
+3. With 1 nos. of Diaphragm Inlet Shut-Off Valve,
+4. With 1 nos. of Diaphragm Internal Purge Valve,
+5. With 1 nos. Integrated Pressure Relief Valve,
+6. With Integrated 1 nos.Inlet Inlet Contact Gauge and 1nos. Outlet
+Pressure Gauge, Inlet Port M1/4"M & Outlet Port 6MM OD, Purge and Relief
+Valve Port NPT1/4"M
+Guaranteed leak rate of <1x10-9 mbar l/s (He)
+Glycerine-filled pressure gauges shall be used
+Make: GCE, Model: MPLH0XDP00FXAXI1BTM14MM06SN14F
+BQ001-QN22
+1 PC
+PRESSURE TRANSMITTER
+(7MF0300-1ND01-5AM2-Z A00+B30+C14+C20+D41+D62+E06+E80+Y01)
+Make: Siemens; Model: SITRANSP320
+BQ001-BP10
+1 PC
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+ELECTRICAL & IO MODULES SCOPE
+DESCRIPTION
+TAG NO
+QTY
+ELECTRICAL ACCESSORIES
+Junction Box or Cabinet for Electrical Supply and Signals
+Main switch for 120V AC UPS Input
+Circuit breakers for 120V AC UPS distribution
+Contactors for gas pump / gas cooler ON/OFF
+Relais for solenoid valve control Lighting
+-
+1 LOT
+IO MODULES
+With 24VDC Power Supply
+I/O Station for Operational Signals
+6DL1193-6BH00-0SM0 Carrier Interface module
+6DL1155-6AU00-0PM0 Interface Module
+6DL1193-6AR00-0AA0 Busadapter
+6DL1193-6GC00-0NN0 Carrier 8 Slots
+6DL1131-6TH00-0PH1 16x DI(Namur) x2
+6DL1132-6BH00-0PH1 16x DO x3
+6DL1134-6TH00-0PH1 16x AI x1
+6DL1193-6TP00-0DH1 New Powergroup x8
+6DL1133-6CV22-0AM0 TB-Cover x1
+
+I/O Station for Safety Signals
+6DL1193-6BH00-0SM0 Carrier Interface module
+6DL1155-6AU00-0PM0 Interface Module
+6DL1193-6AR00-0AA0 Busadapter
+6DL1193-6GC00-0NN0 Carrier 8 Slots
+6DL1136-6BA00-0PH1 16x F-DI(NAMUR) x3
+6DL1136-6AA00-0PH1 8x F-AI x2
+6DL1193-6TP00-0DH1 New Powergroup x8
+6DL1133-6CV22-0AM0 TB-Cover x4
+-
+1 LOT

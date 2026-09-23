@@ -1,0 +1,466 @@
+Quotation Number: Q24W10129
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Total Price(INR)
+1
+081AT 500001 O2 in Cl2 Analyser (PTFE Wetted parts)
+1 No
+Quoted
+1.1
+081AT 500001 O2 in Cl2 Analyser (Hastelloy Wetted parts)
+1 No
+Optionally
+Quoted
+2
+081AT 500002 O2 in Cl2 Analyser (PTFE Wetted parts)
+1 No
+Quoted
+2.1
+081AT 500002 O2 in Cl2 Analyser (Hastelloy Wetted parts)
+1 No
+Optionally
+Quoted
+3
+081AT 500005 O2 in Cl2 Analyser
+1 No
+Quoted
+3.1
+081AT 500005 O2 in Cl2 Analyser (Hastelloy Wetted parts)
+1 No
+Optionally
+Quoted
+4
+-
+Project Documentation
+1 Lot
+Inclusive
+5
+-
+FAT at Adage Factory
+1 Lot
+Inclusive
+6
+-
+Packing forwading & Transportation upto Site
+charges
+1 Lot
+Quoted
+7
+-
+Mandatory spares
+1 Lot
+Quoted
+8
+-
+2 Years O&M spares (As per Adage
+recommendation)
+1 Lot
+Optionally
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+EXTRACTIVE LASER BASED O2 ANALYSER
+Tag No: 081AT 500001
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone 2 llC T3 (As per MR Requirement)
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP65
+Measuring range : O2 - 0-1.5%
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+1 No
+Quoted
+1.1
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: PVDF
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+1.2
+Sample Transportation tube:
+-
+1⁄4’’ SS316 PTFE coated tube, Qty: 25 meters for supply
+-
+1⁄4’’ SS316 PTFE coated tube, Qty: 25 meters for return
+@0.2 Kg/cm2g
+25 Meters
+Quoted
+1.3
+Primary Sample Handling System
+-
+With Isloation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting of:
+-
+With Flow Through Cell(SS316 PTFE coated) for
+Mounting of Laser Analyzers
+-
+With ball valves, AFR, flow meter with low flow switch
+assembly for nitrogen purging of Process/Sensor
+-
+Mounting of Analyser on self standing MS painted rack
+with canopy
+-
+With required JB’s, vent header etc
+Note : Makes shall be As per RIL AVL.
+1 No
+Quoted
+1.1
+EXTRACTIVE LASER BASED O2 ANALYSER (HASTELLOY
+Wetted parts)
+Tag No: 081AT 500001
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone 2 llC T3 (As per MR Requirement)
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP65
+Measuring range : O2 - 0-1.5%
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+1 No
+Quoted
+1.a
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: Hastelloy
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+1.b
+Sample Transportation tube:
+-
+1⁄4’’ Hastelloy tube, Qty: 25 Meters for supply
+-
+1⁄4’’ Hastelloy tube, Qty: 25 meters for return @0.2
+Kg/cm2g
+25 Meters
+Quoted
+1.c
+Primary Sample Handling System
+-
+With Isloation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting of:
+-
+With Flow Through Cell for Mounting of Laser Analyzers
+-
+With ball valves, AFR, flow meter with low flow switch
+assembly for nitrogen purging of Sensor/Electronic
+purging
+-
+Mounting of Analyser on self standing MS painted rack
+with canopy
+-
+With required JB’s, vent header etc
+Note :
+1. Makes shall be As per RIL AVL.
+2. All sample wetted component MOC to be Hastelloy C.
+1 No
+Quoted
+2
+EXTRACTIVE LASER BASED O2 ANALYSER
+Tag No: 081AT 500002
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone 2 llC T3 (As per MR Requirement)
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP65
+Measuring range : O2 - 0-1.5%
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+1 No
+Quoted
+2.1
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: PVDF
+-
+1.5’’ 300# RF flange, MOD: Hastelloy
+1 No
+Quoted
+2.2
+Sample Transportation tube:
+-
+1⁄4’’ SS316 PTFE coated tube, Qty: 25 meters for supply
+-
+1⁄4’’ SS316 PTFE coated tube, Qty: 25 meters for return
+@0.2 Kg/cm2g
+25 Meters
+Quoted
+2.3
+Primary Sample Handling System
+-
+With Isloation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting of:
+-
+With Flow Through Cell (SS316 PTFE coated) for
+Mounting of Laser Analyzers
+-
+With ball valves, AFR, flow meter with low flow switch
+assembly for nitrogen purging of Sensor/Process
+-
+Mounting of Analyser on self standing MS painted rack
+with canopy
+-
+With required JB’s, vent header etc
+Note: Makes shall be As per RIL AVL.
+1 No
+Quoted
+2.1
+EXTRACTIVE LASER BASED O2 ANALYSER (HASTELLOY
+Wetted parts)
+Tag No: 081AT 500002
+Service: DRY CL2 GAS COMPRESSOR HEADER OUTLET
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone 2 llC T3 (As per MR Requirement)
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP65
+Measuring range : O2 - 0-1.5%
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+1 No
+Quoted
+2.a
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: Hastelloy
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+2.b
+Sample Transportation tube:
+-
+1⁄4’’ Hastelloy tube, Qty: 25 Meters for supply
+-
+1⁄4’’ Hastelloy tube, Qty: 25 meters for return @0.2
+Kg/cm2g
+25 Meters
+Quoted
+2.c
+Primary Sample Handling System
+-
+With Isloation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting of:
+-
+With Flow Through Cell for Mounting of Laser Analyzers
+-
+With ball valves, AFR, flow meter with low flow switch
+assembly for nitrogen purging of Sensor/Process
+-
+Mounting of Analyser on self standing MS painted rack
+with canopy
+-
+With required JB’s, vent header etc
+Note:
+1. Makes shall be As per RIL AVL.
+2. All the sample wetted parts shall be Hastelloy
+1 No
+Quoted
+3
+EXTRACTIVE LASER BASED O2 ANALYSER
+Tag No: 081AT 500005
+Service: ME-PA081-S500550 SUPERHEATER OUTLET
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone 2 llC T3 (As per MR Requirement)
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP65
+Measuring range : O2 - 0-1.5%
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+1 No
+Quoted
+3.1
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: PVDF
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+3.2
+Sample Transportation tube:
+-
+1⁄4’’ SS316 PTFE coated tube, Qty: 25 Meters for supply
+-
+1⁄4’’ SS316 PTFE coated tube, Qty: 25 meters for return
+@0.2 Kg/cm2g
+25 Meters
+Quoted
+3.3
+Primary Sample Handling System
+-
+With Isloation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting of:
+-
+With Flow Through Cell (SS316 PTFE coated) for
+Mounting of Laser Analyzers
+-
+With ball valves, AFR, flow meter with low flow switch
+assembly for nitrogen purging of Sensor/Process
+-
+Mounting of Analyser on self standing MS painted rack
+with canopy
+-
+With required JB’s, vent header etc
+Note: Makes shall be As per RIL AVL.
+1 No
+Quoted
+3.1
+EXTRACTIVE LASER BASED O2 ANALYSER (HASTELLOY
+Wetted parts)
+Tag No: 081AT 500005
+Service: ME-PA081-S500550 SUPERHEATER OUTLET
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone 2 llC T3 (As per MR Requirement)
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: As required
+Ingress Protection: IP65
+Measuring range : O2 - 0-1.5%
+Process Conditions at Sample Inlet :
+-
+Temperature (Norm/Max): 40/45 Deg C
+-
+Pressure (Norm): 6 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+RS485 Modbus serial output
+1 No
+Quoted
+3.a
+Sample Welded Probe Assembly
+-
+Fixed probe with welded isolation valve, MOC: Hastelloy
+-
+1.5’’ 300# RF flange, MOC: Hastelloy
+1 No
+Quoted
+3.b
+Sample Transportation tube:
+-
+1⁄4’’ Hastelloy tube, Qty: 25 Meters for supply
+-
+1⁄4’’ Hastelloy tube, Qty: 25 meters for return @0.2
+Kg/cm2g
+25 Meters
+Quoted
+3.c
+Primary Sample Handling System
+-
+With Isloation ball valve
+-
+With Inline filter and pressure reducer assembly
+Sample handling system consisting of:
+-
+With Flow Through Cell for Mounting of Laser Analyzers
+-
+With ball valves, AFR, flow meter with low flow switch
+assembly for nitrogen purging of Sensor/Process
+-
+Mounting of Analyser on self standing MS painted rack
+with canopy
+-
+With required JB’s, vent header etc
+1 No
+Quoted
+Note:
+1. Makes shall be As per RIL AVL.
+2. All sample wetted parts shall be Hastelloy
+5
+FAT at Adage Factory
+1 Lot
+Inclusive
+6
+Packing forwading & Transportation upto Site charges
+1 Lot
+Quoted
+7
+Mandatory spares (As per Adage Recommendation)
+Laser module assembled in PCB - 1no
+Display module - 1no
+1 Lot
+Quoted
+8
+2 Years O&M spares (As per Adage recommendation)
+1 Lot
+Optionally
+Quoted

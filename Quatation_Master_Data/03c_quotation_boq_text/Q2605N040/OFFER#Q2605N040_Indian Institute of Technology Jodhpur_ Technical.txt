@@ -1,0 +1,76 @@
+Quotation Number: Q2605N040
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr.No.
+Description
+Qty.
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+Gas analyser system for biogas application
+Number of sample points: 1
+Sample point 1: CH4, CO2, O2,H2S
+Sample handling system comprising of:
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Model: INCA4002
+Make: Union AG Germany
+Multi-Gas Analyser INCA4002
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Oxygen (O2) (Measuring Principle: EC)
+Hydrogen Sulphide (H2S) (Measuring Principle: EC-μPulse)
+•
+Kind of Gas: Biogas
+•
+Power supply 230VAC, 50 Hz
+•
+Signal output Modbus TCP/IP
+(For details, please refer the P&ID and Bill of materials).
+Please note that the quoted analyser system is for safe area.
+1 Set
+Quoted
+Quoted
+2
+Gas analyser system for biogas application (with H2 measurement)
+Number of sample points: 1
+Sample point 1: CH4, CO2, O2, H2S, H2
+Sample handling system comprising of:
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Make: Union AG Germany
+CAM INCA
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Oxygen (O2) (Measuring Principle: EC)
+Hydrogen Sulphide (H2S) (Measuring Principle: EC-μPulse)
+Hydrogen (H2)
+•
+Kind of Gas: Biogas
+•
+Power supply 230VAC, 50 Hz
+•
+Signal output Modbus TCP/IP
+(For details, please refer the P&ID and Bill of materials).
+Please note that the quoted analyser system is for safe area.
+1 Set
+Quoted
+Quoted
+3
+Service charges for supervision of Installation & Commissioning
+Lodging and boarding to be arranged by the customer. To and FRO
+charges to be claimed at actuals (ACII tier/flight).
+@Quoted Per Man Day

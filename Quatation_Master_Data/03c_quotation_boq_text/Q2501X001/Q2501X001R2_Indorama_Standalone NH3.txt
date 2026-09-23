@@ -1,0 +1,43 @@
+Quotation Number: Q2501X001R2
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(USD)
+TOTAL PRICE
+(USD)
+1
+GAS ANALYSER SYSTEM FOR STANDALONE NH3 SYSTEM
+Service: PROCESS GAS
+Tag No: AE-1036
+Make: Siemens
+Model: ULTRAMAT6F
+Component to be measured: NH3
+Measuring Principle: NDIR
+Area Classification: Suitable for Zone 1, IIC, T4 Exp
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 18/70 Deg C
+•
+Pressure(Normal/Design): 85.9/94.8 Kg/cm2
+Measuring Ranges:
+•
+NH3: 0-100/1000 ppm
+With Primary sample handling system Consisting of: Shall be in
+customers scope
+With Secondary sample handling system consisting of:
+•
+With IP54 panel to mount the analyzer & SHS Component
+•
+With Fast loop filter, Flowmeter, Non Return Valve.
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+Notes:
+•

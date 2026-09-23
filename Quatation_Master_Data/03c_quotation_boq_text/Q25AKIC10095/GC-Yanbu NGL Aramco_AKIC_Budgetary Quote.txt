@@ -1,0 +1,122 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Unit Price
+Total Price
+1
+02-AT-200
+MAXUM II
+PROCESS GAS CHROMATOGRAPH
+1
+USD 115,384.62.00
+USD 115,384.62.00
+1.1
+02-AT-200
+Single Stream Sample Conditioning
+System
+SS316
+1
+USD 50,000.00
+USD 50,000.00
+2
+50-AT-100
+MAXUM II
+PROCESS GAS CHROMATOGRAPH
+1
+USD 115,384.62.00
+USD 115,384.62.00
+2.1
+50-AT-100
+Single Stream Sample Conditioning
+System
+SS316
+1
+USD 50,000.00
+USD 50,000.00
+3
+50-AT-200
+MAXUM II
+PROCESS GAS CHROMATOGRAPH
+1
+USD 115,384.62.00
+USD 115,384.62.00
+3.1
+50-AT-200
+Single Stream Sample Conditioning
+System
+SS316
+1
+USD 50,000.00
+USD 50,000.00
+4
+58-AT-850
+MAXUM II
+PROCESS GAS CHROMATOGRAPH
+1
+USD 115,384.62.00
+USD 115,384.62.00
+4.1
+58-AT-850
+Single Stream Sample Conditioning
+System
+SS316
+1
+USD 50,000.00
+USD 50,000.00
+5
+Project Documentation
+1
+USD 5,067.57
+USD 5,067.57
+6
+Commissioning Spare parts
+1
+USD 1,668.73
+USD 1,668.73
+7
+2 Years Spare parts
+1
+USD 58,333.33
+USD 58,333.33
+8
+FAT
+OEM FAT and IFAT for 4 man-days
+1
+USD 37,073.51
+USD 37,073.51
+9
+SERVICE
+Pre-commissioning, Commissioning,
+Start-Up and SAT
+12
+USD 27,700.00
+USD 27,700.00
+10
+Training and Documentation
+1
+USD 12,000.00
+USD 12,000.00
+11
+Customs and Shipping Charge
+1
+USD 45,000.00
+USD 45,000.00
+TOTAL PRICE
+(Excluding VAT)
+USD 848,381.61
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+COMMERCIAL TERMS
+Prices Quoted
+Ex-works AKIC, Al Jubail, KSA
+Freight
+Shall be extra as applicable.
+Packing
+Inclusive
+Delivery
+10 months from the date of P.O.

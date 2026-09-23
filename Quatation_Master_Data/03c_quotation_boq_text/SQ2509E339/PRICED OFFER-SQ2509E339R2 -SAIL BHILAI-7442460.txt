@@ -1,0 +1,32 @@
+Quotation Number: SQ2509E339R2
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.
+48412001
+HS Probe Assembly & Loose Material
+for System
+HS Probe Assembly consisting of
+1. Probe Head
+2. Tube Assembly SS 316 1200mm
+3. Ceramic Filter
+4. Ring Heater 230 VAC
+5. Bushing Tube
+6. Fittings & Gaskets
+6
+2,57,712.00
+15,46,272.00
+2.
+48802007
+Scavenging Panel Assembly - 400 X
+500 X 210 Double Stage-24
+VDC-BURKERT-LOCAL
+FIT-SAMPLE LINE 1/2"
+Dual Stage Scavenging Panel with Solenoid Valves
+Inner Purging & Outer Purging
+6
+3,03,555.00
+18,21,330.00

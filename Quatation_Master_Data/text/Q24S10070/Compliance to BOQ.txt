@@ -1,0 +1,3117 @@
+Rev 0 
+
+ 
+ 
+8.4 - COMPLIANCE TO BID REQUIREMENTS DEVIATION SHEET 
+(To be filled, signed, sealed and submitted) 
+ 
+Tender No. /GeM Bid No. Date: 
+ 
+We confirm that our offer complies with the tender conditions (or) the requirements of the 
+Tender Document without any exception or deviation. Our Offer submitted is nil deviation offer. 
+(OR) 
+Bidder may stipulate exceptions and deviations to the tender document, if considered 
+unavoidable as per the following format, 
+ 
+Sl. 
+No. 
+Reference Clause 
+of Tender 
+Document 
+CPCL's Tender Condition 
+Bidder's Deviation 
+TECHNICAL 
+
+COMMERCIAL 
+
+ 
+
+ 
+Note: 
+1. All exceptions/deviations taken by the Bidder to the stipulations of the tender document 
+shall be brought out strictly as per the above format. Any exceptions/deviations brought out 
+elsewhere in the bid shall not be construed as valid. 
+2. If the above table is left blank (unfilled), it will be construed that the bidder has not taken 
+any deviation to this tender. 
+ 
+“Bidder have fully read and understood the tender requirements and accepts all terms and 
+conditions of the tender (except for the ones mentioned in the deviation statement) and the 
+submitted offer is in conformity with all terms of tender” 
+
+_______________________ 
+(Sign and stamp of bidder) 
+
+134/197
+GEM/2025/B/6516689
+20.08.2025
+1
+Annexure-IIIA
+Model: Residue
+Quoted Analyser cannot offer a model for 
+residue. Consider this as a deviation for the 
+same.
+1
+Annexure-1
+15. PAYMENT TERMS:
+75% - Delivery of analyser System at site
+10% - After Complete System Installation
+10% - Model building, Commissioning 
+SAT/PGTR and System Handing over
+2.5% - payable after successful completion 
+of 1st year extended warranty
+2.5% - payable after successful completion 
+of 2nd year extended warranty
+80% - Delivery of analyser System at site
+10% - After Complete System Installation or 4 months 
+from date of receipt of material at site whichever is 
+earlier.
+10% - Model building, Commissioning, SAT/PGTR and 
+System Handing over or 8 months from date of receipt of 
+material , site whichever is earlier.
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir/Madam, 
+
+With reference to the Tender no. GEM/2025/B/6516689. Please find enclosed our quotation for 
+design, engineering, manufacture and Supply of analyzer system which includes analysers as per your 
+requirement. 
+ 
+TECHNICAL OFFER 
+ 
+ADAGE QUOTE REF: 
+Q24S10070_Tender 
+DATED : 26.08.2025 
+BID TYPE : Tender 
+PROJECT TITLE: 
+Supply of Dual Stream MS -NIR Analyser at CPCL refinery. 
+INQUIRY DETAILS: 
+GEM Tender No: GEM/2025/B/6516689 
+ 
+CUSTOMER: 
+ 
+Kind Attention : Mr. N.Sakthivel 
+CHENNAI PETROLEUM CORPORATION LTD. 
+
+END USER: 
+ 
+CHENNAI PETROLEUM CORPORATION LTD. 
+ 
+We are pleased to submit proposal for the analyser system along with a brief introduction about our 
+company. 
+ 
+The contents are as follows: 
+ 
+Section-1: Scope of supply 
+Section-2: Scope of services 
+Section-3: Summary of prices 
+Section-4: Technical Litreature 
+Section-5: Responsibility matrix 
+Section-6: Commercial terms & conditions 
+ 
+Kindly review and do let us know if you have any queries 
+ 
+Kind Regards 
+
+ 
+Mr. Pravin. S (Regional Sales) Mr. Sanjit Sardessai (ACMG) 
+ADAGE AUTOMATION PVT LIMITED ADAGE AUTOMATION PVT LIMITED 
+Mob: +91 9629393373 
+
+ sanjit@adage-automation.com 
+pravin@adage-automation.com 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions. 
+ 
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to 
+briefly introduce our organization. 
+ 
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. 
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for 
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals. 
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence 
+includes: 
+• 
+16 offices across India 
+• 
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of 
+Saudi Arabia) 
+• 
+A team of over 300 professionals, including 200+ specialist engineers 
+• 
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas 
+Analytical Systems Integration (SI) facility 
+ 
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe. 
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven 
+capabilities, global footprint, and commitment to innovation and quality. 
+Looking forward to the opportunity to collaborate. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 1: SCOPE OF SUPPLY 
+ 
+1. 1 x DG NIR analyser system consisting of PC with Software, Stability monitoring system, FO Cable, 
+Flow Cell, Sample Probe, Redundant Fast loop pump Skid, Sample Tubing, Rrecovery Tank, etc.. 
+2. 1 Lot x Mandatory Spares. 
+3. 1 Lot Commissiong Spares 
+4. 1 Set x Documentation. 
+ 
+SECTION 2: SCOPE OF SERVICES 
+ 
+1. Engineering, Integration of DG NIR analyser system customized to the proccess data sheet. 
+2. FAT, Inspection and Training 
+3. Packing and Forwarding 
+4. Site Supervision for installation, commissioning & training. 
+5. Start up and commissioning services, PGTR for 5 months & Model building 
+6. SAT & handover. 
+7. Services during 2 years warranty & PWCAMC for 6 years. 
+
+SECTION 3: SUMMARY OF PRICES 
+ 
+Sr. No. 
+Item Description 
+Qty 
+Unit Price(INR) 
+Total Price(INR) 
+1 
+NIR – O Analyser System 
+1 Set 
+Quoted 
+Quoted 
+2 
+Supervision of I & C and Modelling including PGTR 
+Total Duration 5 Months for the above activities 
+1 Lot 
+Quoted 
+Quoted 
+3 
+Modelling Services-First Month 
+1 Lot 
+Quoted 
+Quoted 
+4 
+Modelling Services-Second Month 
+1 Lot 
+Quoted 
+Quoted 
+5 
+Modelling Services-Third Month 
+1 Lot 
+Quoted 
+Quoted 
+6 
+Modelling Services-Fourth Month 
+1 Lot 
+Quoted 
+Quoted 
+7 
+Modelling Services-Fifth Month 
+1 Lot 
+Quoted 
+Quoted 
+8 
+PWCAMC Charges for 1st year 
+1 Lot 
+Quoted 
+Quoted 
+9 
+PWCAMC Charges for 2nd year 
+1 Lot 
+Quoted 
+Quoted 
+10 
+PWCAMC Charges for 3rd year 
+1 Lot 
+Quoted 
+Quoted 
+11 
+PWCAMC Charges for 4th year 
+1 Lot 
+Quoted 
+Quoted 
+12 
+PWCAMC Charges for 5th year 
+1 Lot 
+Quoted 
+Quoted 
+13 
+PWCAMC Charges for 6th year 
+1 Lot 
+Quoted 
+Quoted 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4: TECHNICAL LITERATURE 
+ 
+ 1 
+NIR – O Analyzer 
+Model: NIR-O 
+Make: Process Insights (Guided Wave) 
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2 
+Mounting Location: Inside cabinet in existing Shelter 
+ 
+1 Set 
+Quoted 
+1.1 
+Dual Beam NIR O analyzer. 
+Area Classification: Certified, X- Purge, Zone 1 IIB+H2 
+Controller (solid state) included Installed inside analyzer housing; 
+ATEX Certified 
+Number of Channels: 6 
+Range: XNIR (1000-2100 nm) 
+Power Supply: 110 VAC 
+Temperature Management System 
+Communication protocol: Modbus TCP/IP included 
+ 
+Utility Details Required for Analyzer: 
+110 VAC UPS: 2000 Watts 
+Instrument air @5-6 kg/cm2g (Oil & water drop free) 
+ 
+1 No. 
+Included 
+1.2 
+Software – OmniView 
+Analyzer control software 
+Pre-Installed on NIR-O controller 
+ 
+1 No. 
+Included 
+1.3 
+Software – Solo Predictor 
+Prediction Engine for calibration models developed in Solo. 
+No method development software 
+Pre-Installed on NIR-O controller 
+ 
+1 No. 
+Included 
+1.4 
+Stability Monitoring System 
+According to ASTM D6122 
+Includes validation standard 
+Installed inside NIR-O analyzer 
+Uses one channel of NIR-O 
+ 
+1 No. 
+Included 
+1.5 
+Ultra-Low OH Fiber Optic Cable 
+Fiber Length: 10 meters 
+Core Material: Fused Silica 
+Core Diameter: 500 micron 
+Connectors: SMA/SMA 
+Termination fee included. 
+ 
+4 Nos. 
+Included 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+1.6 
+Multi-Purpose Flow Cell (MPFC) 
+Body Material: 316L Stainless Steel 
+Optical Path Length: 10 mm 
+Range: VIS/NIR (400-2100 nm) 
+Max. Temperature: 300°C, 
+Temperature is O-ring dependent 
+Windows Material: Sapphire 
+O-ring Material: Kalrez 6375 
+ 
+2 No. 
+Included 
+1.7 
+I/O kit consisting of: 
+I/O box 
+General purpose cabinet 
+12 Analog output modules 
+2 Digital output Modules 
+ 
+1 No 
+Included 
+1.8 
+Library models for 10 parameters 
+1.RON, 
+2.MON 
+3.RVP 
+4.E70 
+5.E100 
+6.E150 
+7.FBP 
+8.BENZENE 
+9.AROMATICS 
+10.OLEFINS, 
+11.DENSITY 
+12.E180 
+ 
+1 Lot 
+Included 
+1.9 
+PC with required Software 
+14th Gen Intel CoreTM i7, 16 GB, DDR5, 1 TB SSD Hard disk, 21" 
+Antiglare TFT monitor. 
+ 
+1 No. 
+Included 
+1.10 With Probe: Make: ADAGE 
+Manual online retractable type sample probe with first isolation 
+valve with mounting flanges, gaskets and bolts as required. 
+MOC: SS316 
+Process Connections: 1.5”, ANSI 300# 
+ 
+2 Nos 
+Included 
+1.11 With Sample and Return Tubing 
+½” SS316L Tube (Supply): 90+65 mtrs 
+½” SS316L Tube (Return): 90 mtrs 
+ 
+1 Lot 
+Included 
+1.12 With Redundant Fast loop pump Skid 
+2 Nos 
+Included 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+1.13 With Secondary SHS: Make: ADAGE 
+With Dual Fast loop filter, Rotameter, etc. required for proper 
+functioning of analyzer. 
+SHS shall be mounted on shelter wall inside SS304 SHS box 
+ 
+2 Nos 
+Included 
+1.14 With Calibration / Validation Tank System for both Streams 
+for Multipurpose flow cell measurement. 
+ 
+2 Nos 
+Included 
+1.15 With Common Sample Recovery Tank - 200 liters and 
+Pressure gauge 
+ 
+1 No 
+Included 
+1.16 Analyzer Cabinet 
+Analyzer shall be mounted inside cabinet inside existing shelter 
+MOC: SS304, 1.5mm thick; Electrical distribution boxes (Lm6); 
+With headers etc. 
+ 
+Note: Not required as per pre bid query reply. 
+ 
+0 Nos 
+Not Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 5: Responsibility Matrix 
+Sr. 
+No. 
+Description 
+Scope 
+Adage 
+Customer 
+1 
+Design, engineering & supply of System as per offer/BOQ. 
+Yes 
+ 
+2 
+Sample Tapping Nozzle Flange 
+ 
+Yes 
+3 
+Process Isolation Valve at tapping point 
+ 
+Yes 
+4 
+Isolation Valve at process return point 
+ 
+Yes 
+5 
+Supply of start-up and commissioning spares-As per Adage recommendation 
+Yes 
+ 
+6 
+Supply of Mandatory spares- Quoted 
+Yes 
+ 
+7 
+Consumables spares- Quoted 
+ Yes 
+ 
+8 
+Inspection, Testing, Project Management & Project Documentation 
+Yes 
+ 
+9 
+Factory Acceptance Test at Adage Works 
+Yes 
+ 
+10 
+Packing forwarding 
+Yes 
+ 
+11 
+Freight up to site including Insurance 
+Yes 
+ 
+12 
+Storage of supplied system at site 
+ 
+Yes 
+13 
+Civil foundation & installation at site including Cables, Field tubes with 
+supporting structures. 
+ 
+Yes 
+14 
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit. 
+ 
+Yes 
+15 
+4-20mA, RS485, TCP/IP from field/ AH to DCS 
+ 
+Yes 
+16 
+Supervision of Installation and Commissioning SAT & Handover 
+Yes 
+ 
+17 
+Training at Site 
+Yes 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 6: COMMERCIAL TERMS & CONDITION 
+ 
+Price Basis 
+As per Tender 
+Packing Charges 
+As per Tender 
+GST 
+As per Tender 
+HSN Code 
+9027100 
+Freight Charges 
+As per Tender 
+Insurances 
+In CPCL Scope 
+Delivery 
+As per Tender 
+Offer validity 
+As per Tender 
+Payment Terms 
+Please refer deviation sheet. 
+Guarantee Clause 
+As per Tender 
+
+ 
+
+ 
+
+ 
+
+PRODUCT DATASHEET
+PROCESS 
+ANALYZER
+NIR-O™ PROCESS 
+ANALYZER
+Full Spectrum Near-Infrared Spectrometer
+Real-time
+Configurable
+High sensitivity
+• Polyols: OH (hydroxyl) and acid number 
+• Polymers: reaction endpoint, co-polymer ratio 
+• Films: thickness, %T, %R 
+• Measurement of moisture content
+• Refinery products: RON, MON, RVP, 
+Distillation Points, Olefins, % Oxygen
+• Solvent compositions 
+• Process research and development
+
+NIR Process Analyzer
+Our NIR-O™ process analyzer offers remote multi-channel extended range near-infrared (NIR 1000-
+2100 nm) spectroscopic analysis. NIR-O provides excellent signal-to-noise ratio, wavelength stability, 
+NIST traceable wavelength calibration, dual beam optics and built-in diagnostics. Process engineers, 
+operators, and researchers will appreciate NIR-O’s ability to monitor up to12 process streams or points 
+within a stream with accuracy, repeatability, and reliability. Additionally, the optional Stability Monitor 
+System can provide confidence in hardware performance in the field. However a fiber optic jumper 
+cable must still be installed on channel 6 or 12. 
+Complete Analyzer System
+NIR-O is the core of a comprehensive process analyzer system that includes the spectrometer, one or 
+more NIR probes, fiber optic cables, and OmniView™ scanning and analysis software. Like our previous 
+spectrometers, NIR-O uses near infrared radiation to collect spectral data from liquids, gases, glass, 
+and polymer-based films. The spectral data are interpreted by the OmniView software to determine 
+the composition or physical characteristics of the material.
+Real-Time Measurements 
+Using intrinsically safe fiber optic cables to transmit light from the spectrometer to your process 
+and back, allows real time measurements at any time, providing you with up-to-date process 
+information. NIR-O is designed to be used with our 500 µm core jacketed fiber optic cables. These 
+unique cables contain a high purity fused silica core fiber, surrounded by specialized jacketing to 
+protect both the signal transmitted and the fiber itself, allowing the analyzer to be located up to 
+two hundred meters away. 
+True Multiplexing
+NIR-O can be configured for up to 12 channels (i.e., independent sample points). This allows you to 
+incorporate the number of sampling points you need now, while being able to easily and more 
+economically add sampling points as your process or facility needs change. NIR-O can measure 
+multiple parameters at up to 12 independent sampling locations in rapid succession by employing 
+digital optical switching technology. Multiplexing greatly reduces the cost-per-measurement point, 
+making cost-per-result more economical. 
+
+Dimensions shown in inches [mm]
+5 (139)
+36 (926)
+30 (762)
+24 (610)
+25 (641)
+24 (610)
+27 (673)
+17 (440)
+16 (406)
+Research-Grade Signal-to-Noise Ratio
+NIR-O’s dual beam design, coupled with its high output near-zero aberration scanning grating, puts more 
+light into the fiber. This provides an excellent signal-to-noise ratio, which means better sensitivity in your 
+measurements. Each NIR-O provides excellent wavelength accuracy (NIST traceable) and superb 
+wavelength repeatability. 
+Options:
+• Touch screen computer for local process visualization and control (only on general purpose and 
+Z-purge package) 
+• Z-Purge package: Class 1 Zone 2 Groups IIB+ H2 ATEX, IECEx certification 
+• X-Purge package: Class 1 Zone 1 Groups IIB+ H2 ATEX, IECEx certification 
+• Solo (PLS_Toolbox) or Piroutte® model prediction engines
+• Remote desktop computer 
+• External 4-20mA analog I/O box, custom configured for your needs
+• Starter Library models for Refinery Applications
+• Chemometric modeling support available 
+• FAT/SAT support available
+• Chemometric and/or instrument maintenance training
+• NIR-O General Purpose (GP) enclosure shown. Dimensions will vary depending upon purge packages.
+
+SMS Option Provides Peace of Mind
+An important consideration for successful process monitoring is the ability to continually validate the 
+performance of the analyzer system's hardware components. 
+The optional Stability Monitoring System (SMS) is a built-in package for NIR-O, which includes hardware 
+and software to perform analyzer validation accoring to ASTM methodology. If the SMS option is 
+selected, then one NIR-O channel must be dedicated to its use.
+Analyzer Performance Tests
+This topic is addressed in ASTM practice D-6122-
+191 under instrument performance tests. The 
+ASTM practice provides a set of criteria for 
+establishing baseline analyzer performance 
+validation. Three levels of hardware testing 
+are established: 
+Level 0 – Tests the analyzer hardware’s capability 
+to generate a consistent spectrum. This is 
+accomplished by measuring photometric noise, 
+baseline stability, spectral resolution, photometric 
+linearity, and wavelength stability. 
+Level A – Tests compare key parts of the spectral 
+data with historical data to identify deviations. 
+Level B – Tests and monitors the instrument 
+performance for deviations that affect the system 
+calibration models. 
+Typical SMS Level 0 Validation Process 
+A flow chart depicting a typical SMS level 0 
+validation flow diagram is shown below. Our 
+SMS operation is seamlessly integrated into the 
+OmniView control software. SMS provides 
+assurance that all of the ASTM required 
+measurements are conducted at the appropriate 
+time and will send a signal or message to the 
+control system if a validation issue is encountered. 
+Routine Process Loop
+New Reference 
+Apply Check sample
+Notify Operations of 
+Invalid Performance
+Invoke Backup Control
+Troubleshoot and 
+Repair Analyser
+Return NIR to 
+Process Control
+Time for Level 0?
+Values OK?
+Collect Scan
+Calculate Parameters:
+• Photometric Linearity
+• Baseline Stability
+• Wavelenght Stability
+• Photometric Noise
+• Spectral Resolution
+No
+Yes
+Yes
+No
+
+SMS Validation Detects Changes in Performance
+The performance tests identified in the ASTM practice are diagnostics that can be used to detect changes 
+in analyzer performance. This validation provides assurance that the measurement produced by the 
+analyzer is a result of equipment that is operating properly. Since this is a hands-off procedure, it can be 
+conducted in the background with no human intervention. The validation is done with an internal filter 
+having a characteristic spectral signature. There are no liquids or other external sampling modes that are 
+necessary. Everything is contained inside the NIR-O analyzer enclosure and all SMS related materials are 
+completely non-hazardous. 
+Tests Implemented in our SMS Package: 
+Level 0
+1. Photometric noise level 
+4. Bandwidth
+2. Peak location (wavelength stability) 
+5. Photometric linearity
+3. Baseline stability level 
+Level A
+This is a pass/fail performance test that is sensitive to all of the Level 0 parameters. Level A tests do 
+not identify specific failure modes, but do indicate if the instrument performance is within historical 
+bounds. In this test, the spectrum of a check sample (or an optical filter) is compared to a historical 
+spectrum of the check sample. 
+Level B
+The level B tests analyze the spectrum of the SMS filter against the models in use on the analyzer system. 
+This monitors for deviations to which the calibration model is sensitive. The results are compared to 
+historical values to detect any change in the analyzer performance.
+NOTE: The level B tests are not automatically part of the SMS because they require the customer’s 
+unique calibration models, which we may not have. We can assist customers in implementing Level B 
+tests as part of their SMS installation.
+1 ASTM D6122-19 Standard Practice for Validation of the Performance of Multivariate Online, At-Line, and 
+Laboratory Infrared Spectrophotometer Based Analyzer Systems, ASTM International, West 
+Conshohocken, PA, 2019 www.astm.org
+
+OmniView Process Analysis Software
+OmniView is a standalone software package controlling all aspects of a NIR-O anlyzer. It provides full 
+control of analyzer operations; diagnostics, data manipulation, event logging, trend graphs and alarms, 
+calibration model security, and control of inputs and outputs. Communications via MODBUS TCP are 
+included as standard. 4-20 mA analog signals are also supported with optional hardware. OmniView can 
+be customized with "add-on scripts" to meet the needs of any process installation.
+A Comprehensive Package
+Support for third-party model chemometric tools are available. Pre-and post-processing of spectral data 
+is done by way of the Python™ scripting language. OmniView supports the multiple probes available on 
+the NIR-O analyzer, each with multiple analyses. Models, probes, or the analyzer can be taken on and 
+offline with the click of a button.
+Remote Access without Interrupting Continuous Analyzer Operations
+OmniView allows remote access over LAN/WAN via a 
+web based Java application. With proper security 
+settings you can fully operate and configure the 
+OmniView software and your NIR-O analyzer from 
+the plant or from any remote location. Simultaneous 
+users can view the operations, function and “health” 
+of your NIR-O analyzer. This is extremely useful 
+as the process engineer, laboratory technician, 
+maintenance technician, and process supervisor 
+can all access the analyzer remotely to accomplish 
+their tasks. Furthermore, at your option are Service 
+Engineers and/or Applications Specialists can review 
+and support your system, on demand, from our 
+service centers.
+Features 
+• User configurable windows to allow customized views 
+– Multi-tasking 
+– Pre-Configured for Easy Set-up 
+– Real-time Trend Charts 
+– Current Value Display 
+– Powerful Python™ Script Language 
+– Multiple Access Levels (Security)
+• Built-in Reporting of Analyzer Diagnostics 
+Network Accessibility, Local and Global Remote, Real-time Access 
+• Component and System Level Event Logging
+• Event Logging with Manual Entry Option
+• I/O – MODBUS® TCP or MODBUS RS232/485 is standard. (4-20mA/discreet signals are optional and 
+require additional hardware)
+• Solo (PLS_Toolbox) or Piroutte® Model Predictions (optional) 
+NIR-O™
+Analyzer
+Remote 
+Sampling 
+System
+DCS
+OmniView™
+Server runs on the internal 
+analyzer controller. Accessible 
+via remote clients or optional 
+touchscreen.
+Remote Clients
+LAN WAN
+Ethernet
+MODBUS® TCP 
+Over Ethernet
+Optical Analog 4-20mA
+
+Specifications
+Design:
+DG NIR Analyzer spectrometer, post-dispersed scanning grating
+Bandwidth:
+≤ 6.3 nm
+Warranty:
+Two (2) year limited warranty
+Channels:
+Up to 12
+Dual Beam:
+1 reference channel for each 6 available sample channels
+Light Source / Life 
+Tungsten Halogen:
+7.5 V, 15 W (5K hour recommended replace 10K hour life MTBF), 
+additional spare lamp included
+Fiber Optic Cables:
+500 µm diameter ultra-low OH
+Fiber Optic Cable 
+Connectors:
+SMA 905
+Detector Type:
+Extended range InGaAs with 2-stage TE cooler
+Multiplexer:
+Digital rotary switch
+Model Engine:
+Solo (PLS_Toolbox) or Piroutte®
+Communications:
+Modbus TCP over ethernet or external OPTO 22 analog and digital I/O
+Software Required:
+OmniView™ Process Analysis Software 
+Wavelength Range:
+1000-2100 nm
+Wavelength Accuracy:
+±0.2 nm
+Wavelength Precision 
+(Repeatability):
+±0.02 nm 
+Wavelength Stability 
+(Drift):
+±0.02 nm/day rms
+Minimum Step Size:
+0.5 nm
+Photometric Noise:
+Single scan full range ≤50 µAU rms, 4 scan average full range ≤25 µAU rms
+Photometric Stability 
+(Baseline):
+≤0.00075 AU/day rms
+Photometric Linearity:
+@ 1 AU stray >0.987, stray light <0.1 %
+Scan Time (Dual Beam):
+6 sec/channel (full range, no long pass filter, 1 scan to average)
+RoHS Compliant:
+Yes
+Dimensions 
+(General Purpose):
+Overall: 36” (w) x 17” (d) x 27” (h) [93 cm x44 cm x 68 cm]
+Enclosure Options:
+Temperature controlled NEMA 12, NEMA 4, IP 54, IEC 60529
+Protection Options:
+General purpose, Z-Purge, X-Purge 
+Certifications:
+ATEX, CE, IECEx (C1Z1, C1Z2, C1D1, C1D2) CSA, PACE, CNEX
+Environmental:
+0-45°C, 0-100% Non-condensing, sun shaded and rain protected
+Weight:
+Approximately 180 lbs [82 kg] 
+Power Requirements:
+110/230 VAC, 50/60 Hz (325 W instrument only) (1500 W maximum with 
+air conditioner)
+Remote Clients 
+Minimum Computer Requirements 
+• Intel® Dual Core processor 
+• 4 GB RAM minimum, or as required for OS
+• Recommended 19 inch (minimum) monitor with 1080x1024 screen resolution
+• 100 MB Ethernet for network access 
+• Microsoft Windows® OS – Win 7/10
+
+www.process-insights.com Copyright © 2025 Process Insights, Inc. All Rights Reserved.
+GAIN REAL-TIME INSIGHT INTO YOUR PROCESS
+Process Insights delivers premium analytical sensors, analyzers, instrumentation, software and 
+solutions that are mission-critical to keep your operations, personnel, and the environment safe. 
+Our commitment to customer satisfaction is evident through our diverse range of products, 
+programs, and services, designed to accommodate various budgets and application needs.
+CENTERS OF EXCELLENCE | PROVIDING PROVEN SOLUTIONS
+Process Insights – The Americas
+14400 Hollister Street, Suite 800B, Houston, TX 77066, USA +1 713 947 9591
+info.americas@process-insights.com
+Process Insights – EMEAI
+ATRICOM, Lyoner Strasse 15, 60528 Frankfurt, Germany +49 69 20436910
+info.emeai@process-insights.com
+Process Insights – APAC & CN
+Wujiang Economic and Technology, Development Zone, No. 258 Yi He Road, 215200 Suzhou, 
+Jiangsu Province, China +86 400 086 0106
+info.apac@process-insights.com
+info.cn@process-insights.com
+_v25
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 1 of 25 
+
+ 
+
+ANNEXURE-I 
+TECHNICAL SPECIFICATIONS FOR DUAL STREAM ONLINE 
+ NIR ANALYSER 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+22/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 2 of 25 
+ 
+SL.NO 
+DESCRIPTION 
+PAGE NUMBER
+1. 
+INTRODUCTION 
+3 
+2. 
+PROPOSAL OVERVIEW 
+3 
+3. 
+PROVEN TRACK RECORD 
+3-4 
+4. 
+BILL OF MATERIAL 
+4-6 
+5. 
+SCOPE OF WORK 
+6-8 
+6. 
+GENERAL SPECIFICATION 
+8-16 
+7. 
+SPECIAL INSTRUCTIONS TO BIDDER 
+16 
+8. 
+INSPECTION, 
+FACTORY 
+ACCEPTANCE 
+TEST, 
+COMMISSIONING AND SITE ACCEPTANCE TEST 
+17 
+9. 
+INSTALLATION, TESTING & COMMISSIONING BY 
+BIDDER AT SITE 
+17-18 
+10. 
+FINAL SITE ACCEPTANCE TESTING 
+18 
+11. 
+WARRANTY 
+18 
+12. 
+POST WARRANTY CAMC ( PWCAMC) 
+19-21 
+13. 
+TRAINING REQUIREMENT 
+21 
+14. 
+PACKING AND SHIPPING 
+21-22 
+15. 
+PAYMENT TERMS 
+22 
+16. 
+RECOMMENDED SUB-VENDOR LIST 
+22-23 
+17. 
+BIDDER DOCUMENT REQUIREMENT 
+24 
+18. 
+CERTIFICATE FOR LOGISTIC SUPPORT 
+25 
+
+ 
+ 
+23/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 3 of 25 
+ 
+1. INTRODUCTION 
+ 
+ Chennai Petroleum Corporation Limited (CPCL), Manali intends to procure Dual Stream -Online- NIR 
+Analysers with 2 years’ warranty and 6 years Post Warranty Comprehensive Annual Maintenance 
+Contract (PWCAMC) for OM&S Unit (Two Streams). The offered analyser with Sample Handling System 
+is for the replacement of existing PIONIR 1024 X and it shall be mounted in the Existing Analyser Shelter. 
+ Field Ambient Conditions: 
+ 
+Ambient Temperature: Max.: 450C Min.: 150C 
+ 
+Relative Humidity: Max.: 95 %, Min.: 58% 
+ 
+Maximum temperature in the field is 45 Deg C and RH 87% at 38 0C. The atmosphere at site is 
+tropical in nature. 
+ 
+2. PROPOSAL OVERVIEW 
+ 
+ Bidder can offer DG NIR or FT NIR Type Analyser, both types are acceptable. In this document general 
+term NIR is used and is applicable to both types of Analysers. 
+ This specification and its attachments covers the minimum requirements for the Design, Engineering, 
+Manufacturing, factory testing, Packing and Forwarding & supply, Supervision of Site Installation, Site 
+Modelling & Commissioning of the NIR Analyser to the CPCL Refinery. 
+ The general specification of the NIR Analyser is attached as Annexure-II A and Inspection Test Plan is 
+attached as Annexure-II B. 
+ The data sheet of the NIR Analyser is attached as Annexure-IIIA, IIIB, IIIC. 
+ The supplied NIR Analyser shall be mounted in place of the existing NIR Analyzer in existing shelter. 
+ Bidder to submit PTR of the quoted make and model as per clause no.3 of this Annexure. 
+ Bidder to supply material as per BOM mentioned in clause no.4 of this Annexure. 
+ Bidder’s scope of work is mentioned in clause no.5 of this Annexure. 
+ Bidder’s clarification and deviation shall be given as per Deviation sheet attached along with Tender 
+document. In general, zero deviation is expected in the specification. Accordingly, all 
+clarifications/confirmations shall be taken up in pre-bid queries. 
+ In case Bidder has any other valid technical reason, they must include a list of clarifications/deviations 
+point number wise, summing up all the clarifications/deviations from the technical specifications along 
+with the technical reasons for each of these deviations. In absence of any written deviation clearly 
+specified in the offer, it will be considered that the offer is in line with the requirements & complied in 
+totality of this document. 
+ Bidder’s scope of Warranty, PWCAMC is mentioned in clause no. 13 of this Annexure. 
+ Bidder to submit logistic support as per clause no.18 of this Annexure. 
+ 
+3. PROVEN TRACK RECORD 
+ 
+ The offered make and model of NIR Analysers shall be rugged in design & should be in operation with 
+process application of hydrocarbon service in hazardous Process plants in Petroleum Refinery (or) 
+Petrochemical industries in India. Further, it should also have proven performance track record (PTR) of 
+continuous trouble-free operation for last one year and within last 7 years of installation in India preceding 
+the date of scheduled technical bid opening. 
+24/197
+Noted and Confirmed
+Noted and Confirmed
+Noted and Confirmed, PFA HPCL Mumbai , PO 
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 4 of 25 
+ 
+ Bidder shall furnish the following documentary evidence as a minimum in support of above point (3.1) 
+along with the offer for technical evaluation. All the below mentioned supporting details to be submitted 
+before due date of tender. Providing insufficient contact details stating that it is confidential and cannot 
+be shared shall not be accepted and it may lead to rejection of offer. 
+ Letter from the Petroleum Refinery or Petrochemical industries stating that the installed NIR Analysers 
+has been working satisfactorily for the last one year. This letter must be on the letter head of industry 
+along with details of signatory such as Name, designation and contact details. 
+ (or) 
+ In case letter is not available, details to be provided as per table given below with reference PO copy. 
+The person mentioned in the contact details must respond to queries/clarifications raised by CPCL else 
+the offer shall not be considered for further evaluation. 
+
+S.No. 
+Name of 
+Organisation 
+PO details 
+Make 
+Model 
+APPLN. 
+Name, 
+Mobile No., 
+E-Mail
+1 
+
+ 
+2 
+
+ 
+
+ CPCL reserves the right to use in-house information for the assessment of Make and Model quoted by 
+the bidder. 
+
+4. BILL OF MATERIAL(BOM) 
+ 
+ Evaluation of Offer: Overall Lowest price including PWCAMC and Modelling Charges. 
+ 
+25/197
+Noted and Confirmed
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 5 of 25 
+ 
+SN
+ITEM
+QUANTITY
+RATE
+1 
+Dual Stream MS -NIR Analyser (with 2 Streams) 
+1Lot 
+Lump sum 
+2 
+Sample handling for Stream 1 (Stream#1 take off to 
+Analyser: 90 Meters) 
+1. Fast Loop Pumps with SS316L tubing between 
+primary, secondary sample handling system, with 
+or without electrical heating arrangement (OEM 
+Requirement) 
+2. Primary 
+Sample 
+Handling 
+System- 
+SS-304 
+Cabinet, Heater, Retractable sample probe, Ball 
+Valves, Dual Filter, Regulator, Flame arrestor, 
+Chillers etc., along with fast loop pumps (SHS 
+Design Approved by OEM) 
+3. Secondary Sample Handling System consist of SS-
+304 Cabinet, Heater/Chiller Isolation Valve, SOV, 
+Dust Filter, Coalescing Dual Filter, Pressure 
+Regulator, Flow indicator, SS316L tubing, Flame 
+arrestor etc (SHS Design Approved by OEM) 
+Sample handling for Stream 2 (Stream#2 take off to 
+Analyser: 65 Meters) 
+1. Fast Loop Pumps with SS316L tubing between 
+primary, secondary sample handling system, with 
+or without electrical heating arrangement (OEM 
+Requirement) 
+2. Primary 
+Sample 
+Handling 
+System- 
+SS-304 
+Cabinet, Heater, Retractable sample probe, Ball 
+Valves, Dual Filter, Regulator, Flame arrestor, 
+Chillers etc., along with fast loop pumps (SHS 
+Design Approved by OEM) 
+3. Secondary Sample Handling System consist of SS-
+304 Cabinet, Heater/Chiller Isolation Valve, SOV, 
+Dust Filter, Coalescing Dual Filter, Pressure 
+Regulator, Flow indicator, SS316L tubing, Flame 
+arrestor etc., (SHS Design Approved by OEM) 
+and Stream 2 With Fast Loop Pumps, Sample Validation, 
+Sample recovery system, Data analysis PC with software. 
+3 
+Mandatory and startup/Commissioning spares/ Training 
+Requirements.
+4 
+Supervision of Installation and Commissioning, Modelling 
+and PGTR ( Lab NIR analyser for model building 
+(Returnable) – 5 Months 
+1Lot 
+Lump Sum 
+for 5 Months
+5 
+Price for Model building (Lab NIR analyser for model 
+building (Returnable) 6 Months will be utilized by CPCL in 
+addition to Sl.No.4) a Separate PO Will be issued by 
+CPCL. 
+6 Months 
+Month Wise 
+Price 
+Required 
+Post Warranty Comprehensive Annual Maintenance (a separate PO after Warranty Period) 
+6 
+PWCAMC -I year 
+Year 
+ 
+26/197
+Noted and Confirmed
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 6 of 25 
+
+ 
+
+5. SCOPE OF WORKS 
+ 
+ 
+Bidder's Scope 
+ 
+ Following will be the scope of bidder: 
+ Design, Engineering, Proper design of sampling system, selection, testing, supply, supervision of 
+installation, Modelling, validation and commissioning as per given in the list. 
+ Analyzer: Online NIR analyzer (shall be placed in existing analyser shelter with existing HVAC system) 
+ Sample Handling & validation and Recovery system: Vendor shall supply new Sample Handling & 
+validation and Recovery system 
+ Associated ancillary items: Vendor shall supply new Sample probes, Fast loop pump skid, cable glands, 
+etc. 
+ Laboratory NIR analyzer for model building on returnable basis till handing over of system. 
+ Mandatory consumables, commissioning and maintenance spares 
+ Calibration tools, calibration blends, special tools and required other utilities 
+ Fitting and accessories 
+ Packing, dispatch, unloading, shifting at site 
+ FAT, Inspection, Training 
+ Sample fast loop Pumps 
+ Site installation supervision 
+ Start up and commissioning services, model building 
+ Site Acceptance test, PGTR and handing over of system 
+ Two year extended warranty with same terms and condition 
+ Training of the customer personnel 
+ Vendor to quote for the value of model building man day basis for 6 Months in price bid which shall be 
+exercised by CPCL based on the feed composition changes or on requirement after commissioning and 
+handing over of the analyser. 
+ 
+ 
+Bidders other responsibilities includes 
+ 
+ Complete Application Engineering so as to achieve the desired analysis within the specified time 
+ Proper design of sampling system with Fast loop pump etc. as per the data sheet/relevant standards and 
+analyzer to measure the components of interest 
+ Selection of materials for all parts of the analyzer and sampling system so as to be compatible with 
+process stream and surrounding atmosphere as per purchaser data sheet. 
+7 PWCAMC -II year 
+Year 
+ 
+8 
+PWCAMC -III year 
+Year 
+ 
+9 
+PWCAMC -IV year 
+Year 
+ 
+10 PWCAMC -V year 
+Year 
+ 
+11 PWCAMC -VI year 
+Year 
+ 
+27/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 7 of 25 
+ 
+ Bidder shall make provision of 4-20 output for all parameters to be measured and RS-485 Modbus RTU 
+/TCP in analyzer shelter for interfacing analyzer system to purchaser's DCS. 
+ Bidder shall supply all equipment and accessories which are Class 1 Div 1, Gr.IIA/IIB/ITC, 'T4 certified. 
+ Bidder shall depute representative with expertise in sample analysis and analyzer handling to site. The 
+NIR representative shall collect the spectra of sample from CPCL Lab and develop NIR model. Fine 
+tuning shall be done at site. 
+ Bidder shall give complete list of utilities (air & Power supply) required and specify its consumption, and 
+size of all utilities connections. 
+ Bidder shall submit the power consumption chart for each unit and specify the requirement. 
+ Bidder shall submit all drawing for owner approval such as power distribution inside analyzer shelter, 
+utility distribution, Analyser GA /SHS drawing before commencement of manufacturing. 
+ Bidder shall accept the project on turnkey basis 
+ Power distribution should be in such a way that, isolation of each unit shall be possible independently. 
+ 
+ 
+Bidder's offer shall include a detailed document/ drawing sheet for the following 
+ 
+ Transportation time calculations indicating sample flow rates, recommended length and size of the 
+sampling tube between sampling point and sample handling system 
+ Recommended tapping position for sample take off and return across control valve shall be provided by 
+bidder. 
+ Schematic flow diagram for analyzer including sampling system details. 
+ Details of Sample conditioning system 
+ Various Utilities consumption 
+ Power distribution for 110 VAC UPS with necessary no. of feeders and feeder ratings. 
+ 
+ 
+CPCL scope 
+ 
+ 
+Following shall be in the scope of CPCL. 
+ 
+Arrangement of 
+a) LP/HP steam 
+b) Instrument and service air: @ 7.5 kg/cm2g, Dew point: -40 deg C. 
+c) Cooling water. 
+d) Nitrogen 
+ 
+ 
+Arrangement of Power with cables are available at existing Analyser shelter 
+a) For Analyzer: 110 VAC,50 Hz, Single phase from UPS 
+b) For lighting/ fans/heaters: 240 VAC,50 Hz, Single Phase Non UPS 
+c) For fast loop pumps motors: 415 VAC,50 Hz, 3 Phase 
+d) For HVAC: 415 VAC,50 Hz, 3 phase (existing HVAC) 
+ 
+ 
+The above cables already available at the analyzer house and further distribution within the 
+analyser is in bidder's scope. Bidder has to take care of any other than above power and utilities 
+and its distribution for calibration, validation and complete functioning of the analyzer system. 
+ 
+Configuration of all tags in DCS will be CPCL scope. 
+ 
+Shelter with AC and air handling system (AHU) shall be in CPCL scope (existing one shall be 
+utilized) 
+
+28/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 8 of 25 
+ 
+ 
+Laying of cables from analyser shelter to DCS shall be in CPCL scope. 
+ 
+Pump foundation if required shall be in CPCL scope. However, the required details shall be 
+provided by bidder 
+ 
+6. GENERAL SPECIFICATIONS FOR ONLINE ANALYZER: NIR 
+ 
+ The NIR analyzer requited to meet the following objectives: 
+a) To provide continuous and online analysis of the blended header. 
+b) To provide accurate real time analysis data. 
+c) To achieve precise blended header control to minimize re-blending and minimizing give way. 
+d) To manage blend header quality effectively and profitably. 
+ 
+ The analyzer system as offered shall be highly reliable and shall have well proven design. 
+ Online NIR Analyzer for blended MS from BS-VI & IV headers of CPCL OM&S unit is required for 
+monitoring properties such as density, RON, MON, RVP, E70, E100, E150, FBP, Residue, E180 
+Benzene, Aromatics and olefin, distillation of MS and analyzer shall be capable to measure other MS 
+related parameters which may be required to be monitored. 
+ Details of the accuracies to be met by the analyzer, which shall be part of analyzer guarantee Please 
+refer datasheet for details of parameters readings expected from online NIR analyzer against 
+actual (lab) readings. 
+ Analyzer shall be installed in existing analyzer shelter and installation shall normally be in Accordance 
+with API RP-550 equivalent suiting to our process conditions. 
+ In general analyzer and sampling system shall be designed and constructed in accordance with API-
+MPMS (Relevant portions) or ASTM D 417795 or equivalent. 
+ NIR analyzer shall have 4-20 mA analog signal and RS-485 MODBUS RTU for DCS interfacing. 
+Lightning surge protectors shall be provided for serial communication and other sensitive electronic 
+units. 
+ NIR analyzer shall have 2 input channels (BS-IV & BS-VI) as minimum as shown in drawing/ 
+specification. 
+ Bidder shall offer latest analysis methods for NIR analyzer, as per standards mentioned in Data sheet. 
+ Bidder shall provide minimum detection value and repeatability for each analyzer as part of Offer. 
+ The analyzer shall be fully tested for the calibration and repeatability test along with the Sample (nearest 
+to actual product) before dispatch. No analyzer shall be dispatched unless tested by the supplier. 
+ NIR analyzer shall be supplied with all its components, accessories and software to make the system 
+Complete. NIR PC shall be located inside analyzer shelter. 
+ System in general shall consist of 
+ 
+a) 
+NIR spectrometer 
+Spectrometer shall meet following requirements, as minimum 
+Wavelength Range-Typically: Vender to specify 
+Wavelength accuracy+/-0.2nm 
+Wavelength repeatability: + /-0.02 nm 
+Wavelength resolution: 6.8 nm 
+Response time: 30 sec/ channel 
+b) 
+Sample probe 
+ 
+29/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 9 of 25 
+ 
+c) 
+Sample conditioning system 
+d) 
+Sample flow cell 
+e) 
+Signal transmission media 
+f) 
+Properties display units 
+g) 
+System maintenance tools 
+h) 
+Chemo metric software 
+ 
+ NIR analyzer shall have a inbuilt stability monitoring system for validating the analyzer Without 
+interrupting the online channels thus eliminating any downtime caused due to Analyzer validation. 
+ NIR analyzer shall be able to record trends of unknown sample also. User shall be able to take these 
+trends for analysis and model building. NIR analyzer should also intimate the operator regarding 
+unknown sample. Outlier sample system shall be included in SHS. As part of SAT and FAT outlier shall 
+be demonstrated. 
+ NIR analyzer shall have the capability to analyze more than 100 parameters (blend Properties) with 25 
+or more different parameters at each channel. 
+ NIR analyzer shall be suitable for the specified hazardous area classification and Weatherproof to 
+IP65/NEMA 4x, which are intrinsically safe/ flame proof/purged, should Be certified by an approving 
+authorities like Baseefa, UL, FM, PTB, LCIE, ATEX etc. and Further should have certification by Chief 
+Controller of Explosives (CCOE), Nagpur, India. As a minimum all the instruments and enclosures in 
+field shall be dust proof and weatherproof to IP 65 as per IEC 60529/1S-2147 
+ Bidder scope shall include supply of analysis software (latest version) and it should also have facility to 
+do analysis during validation of analyzer system. Bidder shall take care to maintain uniformity in 
+hardware and software platforms supplied for this project. Hybrid technologies, obsolete models or 
+models which are likely to be discontinued shall not be offered. Vendor shall provide updates and 
+revisions in software without any price implication during AMC. 
+ Bidder shall also supply Chemo metric software for developing of tuning correlations for Specified 
+properties. It shall be possible to add more properties without any change in the Software. Training to 
+CPCL personnel shall be provided to develop chemo metric model. 
+ In addition to software supplied bidder shall provide 
+a) 
+Alarms, Diagnostics and Programming facility. 
+b) 
+Tuning and data validation 
+
+c) 
+Data processing 
+d) 
+Accurate and Reliable results 
+e) 
+Maintenance guided messages 
+f) 
+Data Storage and report generation 
+ 
+ Host computer supplied with NIR analyzer shall be latest with following specifications as a Minimum. 
+14th Gen Intel CoreTM i7, 16 GB, DDR5, 1 TB SSD Hard disk, 21" Antiglare TFT monitor. The OS shall 
+be latest version of Windows with Proper cyber security Programs. 5 Years OEM warranty shall be 
+provided. 
+ NIR analyzer shall be online-type only, laboratory model will not be accepted. 
+
+ 
+NIR Model Development and Tuning 
+30/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 10 of 25 
+
+ Bidder shall develop the model based on the data collected from the Refinery. This model shall be 
+developed based on the rough model available with the bidder. 
+ Site sample collection, chemo metrics model development and tuning of NIR analyser is in vendor 
+scope. Vendor to build the calibration model for the supplied NIR analyser with the help of Lab NIR 
+analyser, transfer the model to NIR analyser and make the analyser data available in DCS. 
+ In order to collect data, bidder shall depute their person along with a lab NIR analyzer to site in advance 
+after PO placement. The data shall be collected during this period for various plant operating Conditions 
+so that models are developed and fine-tuned to be as good as the near operating Conditions. 
+ Bidder shall supply Lab NIR analyzer two months in advance to CPCL on returnable basis till 
+commissioning and performance testing of system. In order to collect data, vendor shall depute their 
+trained person along with a lab NIR analyzer to site in advance (2 months). Suitable data shall be 
+collected during this period for various plant operating conditions so that models are developed and 
+fine-tuned to be as good as the near operating conditions. 
+ The supplied system shall not deviate from the specified acceptable limits given in datasheet for MS 
+for minimum 90% of the total number of individual batches made for the period of 2 months as per 
+CPCL QC laboratory results. The deviation should be within the repeatability and reproducibility 
+specified. 
+ The performance testing of the sample shall be carried out in CPCL Lab as per approved procedure. 
+ Vendor to provide guarantee that the analyser result shall be consistent with refinery laboratory methods 
+used. 
+ Vendor to quote for annual man day rates for Six Months (Month wise) and same can be consumed 
+within next Six years or continuously for any up gradation/ changes in model building along with the 
+price bid, Utilization of which shall be shall be exercised by CPCL based on the requirement only. 
+ 
+ 
+Analyser System General requirement 
+ 
+ Analyser cabinet supplied shall be installed in existing analyser shelter, vendor shall study the existing 
+analyser shelter layout, dimension and arrangement of equipment's and design the analyser cabinet 
+system such that it provides enough access to Front/back/ sides of the equipment's as necessary during 
+normal operation as well as during start up and maintenance. 
+ 
+ 
+Construction 
+ 
+ All wiring / tubing and all other erection work shall be done in accordance to API RP 550 
+ All cable entries / outlets in the junction boxes / distribution boxes etc and to the analyzer shall be 
+provided with double compression type certified flame proof cables glands suitable for the indicated 
+hazardous area. The material of the same shall be Nickel plated brass. The junction box shall be of die 
+cast aluminium & suitable for Zone 1, Gt IIC. 
+ Main switches shall be provided to isolate the analyser power, shall be mounted inside the analyzer 
+house which shall be weather proof to IP65 and explosion proof suitable to the hazardous area 
+classification. 
+ Properly segregated Panel/power earth and shield ground bus bar shall be provided in analyser cabinet. 
+31/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 11 of 25 
+ 
+ Analyser cabinet shall be fully assembled and pre wired from factory, Internal loop check and testing 
+shall be done at factory before dispatch. 
+ 
+ 
+Electrical Requirements 
+ 
+ The enclosure should be suitable for the specified location and authorized as specified on the data 
+sheets. The offered analyser shall be intrinsically safe/Ex-proof/purged certified. 
+ Vendor to ensure that offered analysers work satisfactorily at the ambient site conditions specified in 
+this tender. Temperature monitoring and controller shall be provided for the system. 
+ Field mounted equipment's with electrical components, which ate to be located in hazardous area, shall 
+be approved for use in the specified areas by an authorized testing agency. Bidder shall submit 
+certificate from relevant authority for ex. CMRS, CENELEC, FM, BASEEFA etc. In addition to the above, 
+certification of CCOE Nagpur, India shall be obtained as a mandatory requirement. All the electrical 
+components to be installed outside the analyzer shelter shall be suitable for Zone 1 group TIA, 11B T3 
+hazardous area. 
+ The internal wiring shall be terminated at terminal board or external junction boxes. Cable entry for the 
+customer's external cable shall be NPT (F) with bottom entry, unless otherwise specified on the data 
+Sheets. Terminal shall be suitable up to 2.5sq.mm cable. Internal and external grounding connection 
+shall be furnished on the shelter. Interconnecting wiring shall be color coded/numbered and terminals 
+shall be fully identified and marked. Analyzer shelter shall have two earthing cable connections 
+terminals at different locations. 
+ All cable glands shall be of nickel-plated brass and they shall be of double compression type suitable 
+for armoured cables. All cable glands are to be provided with PVC shroud. Flameproof glands wherever 
+required. 
+ The purchaser at Single point near the shelter will provide primary 110 VAC UPS supply. Further 
+distribution will be by bidder. Voltage and frequency, and their variation shall be as specified. The 
+variation of voltage and frequency will be expected +10 % and +2 Hz respectively for UPS supply. The 
+Analyzer performance shall be within specifications when the supply voltage varies as above. 
+ The bidder's power supplies shall convert, if necessary, the supplied AC power to the power requited 
+for each device, i.e. Bidder shall state the overall system power requirements. 
+These shall include the followings: 
+- AC power consumption (with break up) 
+- AC voltage and frequency tolerances. 
+
+ 
+ 
+Sample Handling, Validation and Recovery System 
+ 
+ 
+Scope 
+ 
+32/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 12 of 25 
+ 
+ Vendor is required to supply a completely assembled sample conditioning system, calibration & 
+validation and recovery system. The sampling system shall be designed as part of the analyzer system 
+and completeness of system shall ensure by bidder. When separate system is provided, easy 
+adaptation to the analyzer shall be considered. Scope includes the supply of pumps, filters, strainers, 
+pressure regulators, flow transmitter, pressure transmitters, solenoid valves, manual isolations valves, 
+drain taps, outlier (unknown) sample system and all other requited accessories to meet the 
+requirements according to process conditions mentioned in data sheet. 
+ 
+ 
+Objectives 
+ 
+ The objectives of sample handling, and recovery systems are 
+a) To deliver a clean, moisture free, bubble free and representative sample to the analyzer. 
+b) To calibrate, validate and check the response of the analyzer. 
+c) To recover and return the sample to the main product stream after completion of analysis. 
+d) To divert and collect the outlier (unknown) sample. 
+ 
+ 
+Design requirement for Sample handling system 
+ 
+ Vendor shall study the existing shelter and its periphery layout / dimension and design Analyser and 
+Sampling system suitably site visits can be included in SOW. 
+ The sample conditioning system shall be designed to provide a compatible & representative Sample at 
+a pressure, temperature, and flow rate suitable for the NIR analyzers & existing Sulphur Analysers and 
+Density meters. 
+ Sample handling systems parameters to be displayed in DCS for monitoring. The necessary Output 
+shall be given for DCS connections through Modbus RTU Communication 
+ The sample shall be filtered, pressure and temperature conditioned, degassed and Prepared so as to 
+provide the analyzer a uniform sample, and avoiding extraneous effects that can cause the system to 
+provide erroneous results. 
+ Maximum moisture content in the sample lines shall be 500 ppm. Bidder to design the system in such 
+a way that reading are not affected by moisture content. The requirement of sample handling system 
+shall be decided accordingly. 
+ Tube fitting shall be of double compression type. The thread type shall be NPT and tube Size in mm 
+only. 
+ All tubing work shall be done by using SS tube in mm and flare less, double compression type fittings. 
+ All atmospheric gas outlet line shall be equipped with protection from climatic condition. 
+ Sampling system shall consist of one or more of the following components as required by The service 
+conditions shown on the process datasheet; filters (coarse & fine), pressure Regulators, Pressure Relief 
+valves, flow indicators, flow controllers, temperature indicators, Scrubbers, heaters, coolers/Chillers, 
+dryers, sample pumps, etc. Bidder shall include any additional Requirements if any. 
+ The bidder shall submit the GA drawing of a complete sample conditioning system and Analyzer which 
+shows all equipment including outline dimensions, connection sizes and Types along with technical 
+bid. 
+33/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 13 of 25 
+ 
+ Additional Sample inlet and outlet connection with isolation valve shall be provided for existing Sulphur 
+analyser inside same Shelter. 
+ 
+ 
+Requirement for sample handling system 
+ 
+ Sample conditioning system shall be separate for each MS stream at different locations. 
+ Requirement of recovery tank for two MS headers shall be decided by bidder and shall offer the same. 
+ For MS sample headers reliable Flow transmitter shall be provided. For recovery tank(s) level 
+transmitters shall be contact type radar. 
+ All sample handling system and all fast loop devices, distrubution devices shall be kept outside the 
+shelter. A suitable restriction orifice shall be provided in each sample line to limit the sample flow not 
+exceeding the normal flow in the event of tube rupture / opening of the tube down the line. 
+ All analog transmitters/Analog Outputs/Analyser Outputs/RS485 required in sample handling 
+system/Analysers, pump Skid, sample recovery tank shall be connected to CPCL DCS/PLC system by 
+a bidder supplied JB and signals shall be terminated up to JB, Further Multipair cable supply and laying 
+shall be CPCL. 
+ I/ Os related to pump skid, Level Transmitter, Pressure transmitter shall be used to Auto/Manual 
+start/Stop locally, additionally the Level, Pressure and Pump Status (Running/Auto/Manual) shall be 
+terminated in a JB, Further Multipair cable supply and laying up to CPCL DCS/PLC system is by 
+Purchaser. Digital and Analog, Communication Signals shall be suitably segregated in separate JB. 
+ Bidder can utilize the existing piping from sample point in field to the sample conditioning system, if it 
+suits the offered system. The sample tapping will be provided by the owner with isolation valve. Bidder 
+shall confirm the size of the isolation valve before selecting the pipe/tubes. 
+ Sample shall be extracted from the line with the help of sample Probe. Sample probe shall allow 
+representative sample extraction from the line. The probes shall be extraction Type and suitable for 
+online removal, also suitable for the pressure temperature Conditions specified. Sample probe OD shall 
+be properly selected to suit the piping isolation Valve ID size. Necessary flange connection shall be 
+provided for the sample probe. Owner Shall be supplying first isolation valve at each tap off point. 
+ Sample conditioning system, validation system and sample recovery system shall be mounted in the 
+field near MS headers. Distance between sample handling system and analyzer shelter shall be up to 
+100 meters. 
+ Wetted parts in contact with the process fluid shall be 316 stainless steel as a minimum, unless other 
+materials are required by the process condition. Copper Of copper base alloys shall not be used for 
+any Interior metal parts that will be exposed to the sample. 
+ The sampling system shall be supplied pre-mounted on a self-standing panel in general. The panel 
+shall have holes to anchor it to the ground with anchor bolts. The Panel shall be SS plate mounted and 
+on self-standing skid. 
+ All fast loop pumps / moving parts shall have redundancy. During failure of one pump, other pump 
+should take auto start and maintain the flow to the analyser. Pump fun/ stop /trip indication shall be 
+given in DCS. Pump start/ stop auto/manual station shall be located near SHS. Normal pump operation 
+changeover shall be manual only. All cable between Shelter/Motor controls centers (MCC) to pump 
+skid, shall be in CPCL's scope. 
+34/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 14 of 25 
+ 
+ Filters shall be always dual & it shall be possible to remove & replace one of the filters without upsetting 
+the operation of the analyzer. 
+ 
+ The sample system shall be engineered designed, fabricated & furnished completely assembled as a 
+package. 
+ Sample conditioning design calculations such as probe wake frequency, transportation lag Time, and 
+pressure drop to be submitted along with the offer. 
+ Each sampling system component shall be capable of being removed without disassembling the entire 
+system. 
+ The sample recovery system should be eco-friendly, sample spill over shall be avoided. Recovered 
+sample shall be properly returned to the main stream to avoid loss of the final Product. 
+ All instrument cable related to SHS, Fast loop pump skid shall be terminated in Junction Box near SHS 
+in field. Junction box shall be suitable Zone 1 group ILA, 11B T3 hazardous Area. Vendor shall supply 
+required JB with glands. 
+ Field mounted electrical components, which are to be located in hazardous Area, shall be approved for 
+use in the specified areas by an authorized testing agency. Bidder shall submit 
+ from relevant 
+authority for ex. CMRS, CENELEC, FM, BASEEFA etc. In addition to the above, certification of CCOE 
+Nagpur, India shall be obtained as a mandatory requirement. All the components to be installed outside 
+the shelter shall be suitable for Zone 1 group ILA, 11B T3 hazardous area. 
+ Proper arrangement shall be made for SHS and other components to protect it from Rain, dust and 
+sunlight. 
+ Outlier (unknown) sample system shall be provided to divert and collect the unknown Sample if NIR 
+analyzer detects data as 'unknown'. Small chamber with 0.5 to 1liter storage Capacity for unknown 
+sample, shall be provided. 
+ LED Lights shall be provided at SHS skid. Power supply & cable laying shall be M/S CPCL scope. 
+ Safety against over pressure, over temperature shall be considered while designing SHS. PSVs and 
+TSVs shall be provided for protection of system. 
+ Protection shall be provided for fast loop pumps against low flow. System shall take care for high sample 
+flow also. SHS shall be designed for varying pressure of sample to ensure accuracy of analyzer. 
+ 
+ 
+Connections of sample, Vent, Drain and Utilities 
+ 
+ Flanged connection shall be in accordance with ANSI/ASME B 16.5, and threaded Connection shall be 
+NPT in accordance with ANSI/ASME B 1.20A, unless otherwise specified. Flange face finish shall be 
+serrated concentric according to ANSI/ASME B 16.5. 
+ Analyser sample systems and related equipment shall be mounted and interconnected by Bidder with 
+required utilities and accessories. Internal piping and tubing shall be terminated at bulkhead 
+connections, and internal wiring shall be terminated at external Junction boxes. All necessary hardware 
+should be also included. 
+ The sampling tubing shall preferably be 6 or 12mm OD SS316 except where higher grade Material is 
+requited. Compression fittings ferrules shall have hardness greater than the Connective tubing. Incase 
+of line pressure above or equal to 900 LBS 1/2" bore pipe & pipe Fittings to be used as per the piping 
+specifications. 
+35/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 15 of 25 
+
+ All sample vents, drain shall be gathered to external headers. The tie-in connections for Utilities (air, 
+vent, drain) shall also be provided, if necessary. Sample tubing and utilities Tubing shall have 
+nameplates, tag plate both inside and outside. 
+ Bidder shall specify the utility consumption and size of all utility connections. 
+ The filter regulator stations, if necessary, shall be provided on the instrument air supply line. Instrument 
+(or Compressed) air connection shall be provided with air set (filter, regulator and output gauge). 
+Connection size and type shall be 1 /4 inch NPT (F), unless otherwise specified on the Data Sheets. 
+ The sample vent line header shall be provided. The ending of header shall be expected to add the extra 
+pipe to exhaust the vent gases to safety area in plant site. So the Bidder shall have the duty to prepare 
+the flanged ending and hood for protection from bad Weather during the transportation or under 
+construction. 
+ All bleeders between block valves to be provided with flanged end. 
+ 
+ 
+Nameplate 
+ 
+ Each assembly shall have a nameplate made of corrosion-resistance metal and all data shall be clearly 
+and deeply stamped into the metal by raised letters. The nameplate shall be permanently attached to 
+the instrument housing and bearing the following information. 
+a) 
+Tag number. 
+b) 
+Bidder's name or trade mark, model number and serial number. 
+c) 
+Operating range and unit. 
+d) 
+Power supply and output signal. 
+e) 
+Degree of Explosion Proof & weather Proof / Enclosure Class 
+ Accessory equipment such as probes, sample conditioning elements, and other items which Cannot be 
+mounted on the Analyzer but. are furnished separately shall be tagged with a 25mm (1 in.) diameter 
+stainless steel tag on which is stenciled the instrument tag number. The tag shall be attached with 
+stainless steel wire. Only one tag is required for each Individual assembly. 
+ 
+ 
+Mandatory, Commissioning and Operational spares: 
+ 
+ Bidder shall prepare and submit the list of recommended spare parts and consumables as Specified 
+below: 
+ 
+ a) Spares parts and Consmable for Commissioning: Supply start up and commissioning spare parts 
+for each analyser system as per vendor recommendations, as commissioning is vendor responsibility. 
+Additional spare parts, if required, during start up and commissioning, even though not listed, shall be 
+supplied by the vendor without any price implication. 
+ b) Spare parts and consumables for 3 years of operations: These spares shall be supplied as loose 
+items. Minimum spares for commissioning & mandatory spares are given below 
+List of commissioning spare: 
+• 
+Lamp Assembly: 1 No. 
+• 
+Laser Head: 1 No. 
+• 
+Desiccant: 2 Sets. 
+36/197
+As per attached List
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 16 of 25 
+
+• 
+Pressure Transmitter: 1 No. 
+• 
+Basic board Assembly with Relay for Inner Pressure Protection: 1 No. 
+• 
+All type of fuses 
+ 
+Mandatory Spares: 
+ 
+• 
+Lamp Assembly: 6 Nos. 
+• 
+Laser Head: 1 Nos. 
+• 
+Detector assembly: 1 Nos. 
+• 
+Filter 
+wheel, 
+optical 
+filters, 
+grating 
+assembly, 
+and 
+spectrometer: 
+INOS 
+ each. 
+• 
+All type of power supply module i.e. laser, source, main analyser power 
+ supply, Control unit Power supply: 1 Nos. each 
+• 
+All type of PCBs /Modules: 1 No's each. 
+i.e. Communication module, main Processor board, temperature controller, Display and key 
+board module, CPU, Input/output module, DSP Board, Servo board 
+• 
+Fibre probes with connector's: 1 set 
+• 
+Sampling system consumables i.e. desiccants, filters, gas cylinders, calibration solution 
+(if any) etc. 
+ 
+ Wherever it is not possible to supply individual PCB or component, full assembly shall be supplied. 
+ 
+7. SPECIAL INSTRUCTIONS TO BIDDERS: 
+ 
+ Bidder shall study the given specification and carry out site visit, thoroughly check all the necessary 
+things, understand the job nature, tender requirements and accordingly proceed further. 
+ Bidder shall attend Pre-Bid meeting before submitting the offer. 
+ Bidder shall not make any assumption, and all clarifications shall be taken from purchaser during Pre-
+Bid meeting. The bid which is based on any assumption, the purchaser would have the option to reject 
+such bid. 
+ If the bidder has any specific item, component, design or services not explicitly indicated in the tender 
+but required to complete the job as per the tender requirements or by virtue of bidder's design, the same 
+shall be included in the bidder's scope. 
+ Bidder shall be responsible for the selection of instruments, other items including accessories and it's 
+suitability to meet the specification in totality. If at any stage, till the completion of the order, the offered 
+instruments, other items including accessories ate found unsuitable with respect to the tender 
+requirements, the bidder shall supply suitable model meeting the specification without any cost 
+implication to CPCL. 
+ In the event of conflict between this specification, datasheets, related standards, codes etc. the bidder 
+shall refer the matter to purchaser for any clarification. 
+ During the commissioning stage and model building, because of analyser problem if model building 
+requites modification or changes, it shall be in the scope of vendor for which no extra payment will be 
+done. 
+ 
+37/197
+As per attached List
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 17 of 25 
+
+8. INSPECTION, FACTORY ACCEPTANCE TEST, COMMISSIONING AND SITE ACCEPTANCE TEST 
+
+ Bidder shall provide schedule of factory testing and inspection. 
+ Bidder shall submit the factory testing and customer acceptance procedure for the approval of the CPCL 
+as per Inspection and Test plan attached as Annexure-IIB. The document shall contain the information 
+related to each test e.g., purpose of test definition, test procedure, and acceptance criteria. The cost of 
+performing all the tests shall be borne by the Bidder. 
+ Bidder shall notify the CPCL at least 15 days prior to the final system testing at Bidder’s works. In the 
+event of those representatives of CPCL arrive and the system is not ready for testing, the Bidder shall 
+liable for back charging for any extra time and expenses incurred by the CPCL. 
+ System checkouts shall be carried out i.e., checking of all inter-connection, configurations and overall 
+system functioning before intimating CPCL for final factory acceptance test. (FAT). A copy of the Pre-
+FAT report may be sent 15 days in advance for the review of the CPCL officials. 
+ All the bought-out item test certificates shall be furnished. Necessary certificates like CCOE shall also 
+be furnished. 
+ All the relevant test certification shall be shown 
+ During the Factory testing, bidder shall test and demonstrate to the CPCL, the functional integrity of 
+NIR Analyser, sampling system and all other hardware. Repeatability test shall be performed on all NIR 
+for a test period of 24 hours. No material equipment or equipment shall be transported until all required 
+tests are successfully completed and certified “ready for shipment’ by the CPCL. 
+ It shall be Bidder’s responsibility to modify and /or replace any hardware, equipment or NIR if the 
+specified functions are not completely achieved satisfactorily during factory testing & acceptance test 
+without any cost and time implication. 
+ Once FAT is completed satisfactorily, Bidder shall arrange for transportation of system to the site. 
+ The system shall be thoroughly checked and tested prior to the shipment to assure correct design, 
+construction and proper operation. The bidder shall integrate & complete FAT of the complete system 
+at Bidder’s / manufacturer’s works. 
+ The CPCL reserves the right to be involved and satisfy himself at each and every stage of inspection 
+and testing. 
+ If physical FAT is not possible due to unforeseen situation, bidder to offer virtual FAT. 
+ 
+9. INSTALLATION, TESTING & COMMISSIONING BY BIDDER AT SITE 
+ 
+ Bidder’s responsibility at site shall include supervision of all activities necessary to complete the job as 
+per the specification for mounting NIR Analyser, Sample Handling system and loose supplied items, 
+equipment and accessories 
+ The date intimation for supervision of Installation & Commissioning from the CPCL EIC shall be within 
+two weeks from the start of job activity. Bidder to plan accordingly 
+ Installation & integration of all loose supplied NIR components and electronics inside the Location 
+ Checking of all interconnection cabling. 
+ Checking of hardware configuration, overall system functioning. 
+ Supervision of system checkout activities. 
+38/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 18 of 25 
+
+ Pre-commissioning and commissioning of the complete NIR system by the bidder. 
+ Site Modelling to be done for Multiple samples with the help of Lab NIR Analyser on Returnable basis 
+till the completion of all activities required for the commissioning of NIR Analyser within the duration of 
+5 Months 
+ 
+10. FINAL SITE ACCEPTANCE TESTING 
+ 
+ The site acceptance test shall be carried out in the presence of CPCL representative and Engineer-in-
+charge or his authorized representative. 
+ Bidder shall carry out the following functional tests, as a part of site acceptance test as a minimum: - 
+ Hardware verification as per approved NIR system drawings. 
+ Visual and mechanical check-up for proper workmanship, identification, ferruling, nameplates etc. 
+ Demonstration of all operation & diagnostics. 
+ Checking of calibration of supplied NIR. 
+ Checking of proper functioning of all other peripherals like sample handling system. 
+ CPCL shall take over the system after uninterrupted, satisfactory, trouble free, fully functional 
+performance test for a period of one month after successful commissioning of NIR system in totality & 
+completion of all SAT punch points at the site. Minutes of meeting shall be made for recording the date 
+of handover of the NIR system 
+ 
+11. WARRANTY 
+ 
+ Vendor shall provide minimum of two years of warranty on complete analyser system and SHS from the 
+date of handing over of the system after PGTR including the consumable Items. 
+ Vendor shall be responsible for the manufacture in respect of proper design, quality workmanship and 
+operation of all the equipment, accessories etc. supplied by them for the complete analyser system. 
+ It shall be obligatory on the part of the vendor to modify and / or replace any hardware and modify the 
+operating application and diagnostic software free of cost, in case any malfunction is revealed even 
+during online operation after taking over by owner within the warranty period. During the warranty period 
+vendor shall visit the site once in every Quarter and ensure the calibration/proper functioning of the 
+analyser. 
+ In the event of any malfunction of the analyser system hardware/ system software during warranty period, 
+experienced service engineer shall be made available at site along with the necessary spates within 48 
+hours of the receipt of such information from CPCL 
+ Bidder to replace the faulty items under warranty. This warranty replacement time shall be completed 
+within 2 weeks. It is Bidder's responsibility to ensure that sufficient spares are kept ready with them for 
+warranty replacement within 2 weeks. 
+ Items supplied as warranty replacement shall also be covered under the 2-year warranty period. 
+ Refurbished cards or components are not accepted for replacement. 
+ In case of any modules getting obsolete or support withdrawn by OEM, it shall be replaced with suitable 
+successor model during the PWCAMC/warranty period. 
+ Penalty of Rs. 1000 will be levied for every day of delay in reporting to site after the 48 hrs. time or every 
+day of delay in delivering the replacement item against warranty after 2 weeks' time, per component to 
+be replaced. 
+ 24 x 7 telephonic and remote support shall be provided during warranty period. 
+ Vendor to note that, separate purchase order will be placed for PWCAMC 
+
+39/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 19 of 25 
+
+12. PWCAMC 
+ 
+ 
+Post Warranty Comprehensive Annual Maintenance Contract (PWCAMC): 
+ 
+ Vendor shall have the capability to provide comprehensive Annual Maintenance Contract (CAMC) service 
+after successful commissioning of the system i.e SAT. Proof for the same shall be submitted. 
+ In CAMC, supply of all the required spares and consumables shall be in vendor’s scope. 
+ 
+ 
+The PWCAMC scope shall broadly comprise of: 
+ 
+ Vendor shall provide total maintenance of the supplied system including all hardware / software along with 
+all the related accessories including bought out items for system. 
+ Travel, Lodging & Boarding of the service engineer during the CAMC period shall be under vendor’s scope. 
+ The maintenance contract shall include a minimum monthly one visit per Analyser / OEM recommendation 
+for preventive maintenance and any number of visits in case of system breakdown/emergency. 
+ In-case the OEM recommended calibration frequency is less than a month, vendor to consider the 
+frequency of visit as per calibration frequency as minimum. 
+ In addition to OEM recommendation, the frequency of calibration shall be decided based on the analyzer 
+performance over a period of time. 
+ The scope of work shall be performed by trained analyzer specialists for maintenance, operations and 
+performance improvement of analyzers. Vendor shall ensure the calibration / proper functioning of 
+Analysers, Sample handling system and other associated systems. 
+ Attending failure immediately by repair or replacement of the failed component. Provide system 
+maintenance and repair of system or workmanship defects during the contract period free of charge (parts 
+and labor). 
+ Service or maintenance personnel shall be able to receive 24-hour help-desk technical support. 
+ In the event of any malfunction of the analysers, experienced service engineer shall be made available 
+at site within 24 hours on the receipt of such information from CPCL. Contractor shall carry out the 
+job/activity after obtaining the proper permit from the user/ operation department. Contractor Engineers 
+will follow the safety rules, statutory rules and regulations, labor laws etc., of CPCL. 
+ Contractors engineer and technicians shall report to the CPCL engineer/ Engineer- in-charge for reporting 
+/performing the activities. 
+ Contractor needs to go through CPCL safety training before working in plant area and avail valid safety 
+certificate and gate pass. 
+ A quarterly review meeting of management of Contractor with CPCL will be held at site to assess the 
+performance of Analyzers and preparation of action plan for immediate implementation. 
+ In case of extreme emergency of the job requirement for working during holidays, compensatory off can 
+be given for the number of worked days in a month. 
+ Calibration shall be witnessed by CPCL officer in-charge for the purpose of establishing availability. 
+ For any modification in the analyzer system the same shall be detailed and carried out after approval 
+from M/s CPCL. 
+ 
+ 
+Preventive Maintenance Visits: 
+
+ The vendor’s certified experienced Field Service engineer shall visit the site once every month per 
+Analyser for preventive maintenance checks. 
+
+40/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR NIR ANALYSERS 
+ 
+Page 20 of 25 
+ 
+ The vendor shall prepare a detailed standard operating procedure (SOP) and calibration procedure for 
+the analyzer in-line with OEM recommendation. Vendor to submit the OEM recommended SOP & 
+calibration procedure. 
+ The software check shall include minor modifications to improve existing application performance, 
+backup operations and software updates (latest releases). All consumables required for the analyzer 
+functioning shall be under the vendor’s scope. 
+ As a minimum requirement, following activities shall be carried out during the visit: 
+a) Monthly performance checks of the analyzer. 
+b) Calibration of analyzers as per OEM recommended procedure for zero and span concentrations 
+using the certified calibration blend and same shall be made available by vendor on return able 
+basis. 
+c) 
+Servicing of the analyzers and the sample handling system. 
+d) Replacement of analyzer consumables, filter cleaning etc. 
+e) Report and attend any problem if found during the checking of the system. 
+f) 
+Prepare and submit the service report in tabular format for the analyzer after every visit to the 
+Engineer-in-charge. 
+g) Data obtained from the calibration checks and copies of associated Quality Assurance and 
+calibration documentation, shall be submitted to the Engineer-in- charge. 
+h) Complete 
+periodic 
+overhaul 
+of 
+the 
+analysers, 
+inspection 
+of 
+the 
+sample 
+handling, 
+cleaning/replacement of filters as per schedule, environmental operating condition checks, 
+calibration checks and detailed reporting. 
+i) 
+Regular replacement of analyzer consumable as per requirement / agreed procedures. 
+j) 
+Checking of leaks in system. 
+k) 
+Checking of gas cylinder pressure, remove empty cylinder and Connect new cylinder, if required. 
+Future cylinder requirement is to be given at least one week in advance. 
+l) 
+Vendor shall ensure the reliability of the analyzers. The reading should co-relate to standard 
+mixtures, lab results depending on method of lab measurement. 
+m) Vendor shall maintain LOG BOOK and update records of each analyzer for all activities like 
+calibration, faults observed, action taken, next cal. Schedule and spares utilized and available 
+spares. All these records as per CPCL approved formats. 
+n) Cleaning of site after/during the servicing/ maintenance job to maintain the necessary ambience. 
+o) Working hours shall be 8 hours’ basis, 6 days a week. Vendor’s engineer/technician shall follow 
+CPCL list of declared holidays. 
+ 
+ 
+Breakdown Maintenance: 
+ 
+ Troubleshooting of all instrument failures, in case the problem cannot be identified by the site engineers 
+then analyzer specialist to be organized as early as possible. If problem cannot have solved by specialist 
+and need OEM support in those circumstances methods of action will be mutually agreed and discussed 
+
+ 
+Emergency Visits: 
+ 
+ In the event of any failure / malfunctioning of the system, experienced service engineer shall be made 
+available at the site within 24hrs on receipt of such information from the owner. 
+ The engineer shall attend the problem and submit a root cause analysis report for the failure. 
+ There shall not be any limit on number of visits on emergency call. 
+41/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR FT NIR ANALYSERS 
+ 
+Page 21 of 25 
+ 
+ 
+Vendor’s Scope of Supply: 
+ 
+ All tools, test instruments and tackles required to maintain the analyzers shall be in Vendor’s scope. 
+ Minor consumable like Teflon tape, insulation tape and cleaning agents shall be arranged by vendor. 
+a) Supply of all required spares & consumables shall be in vendor’s scope. If any spares used 
+from CPCL stock due to emergency, then the same shall be replaced by Vendor within 7 days 
+with no cost to CPCL. Replaced spare shall be new and unused. 
+b) All personal protective equipment’s like safety helmet, safety shoes and safety belt required 
+for working inside battery area shall be in vendor’s scope. 
+c) Vendor shall ensure availability analyzer specialist Engineer trained from manufacturer works 
+at CPCL Refinery Site during contract period for carrying out day to day maintenance and 
+troubleshooting of analyzers as mentioned above. 
+d) CPCL shall reserve the right to seek the replacement of another engineer, in case of their 
+deputed site engineer / technician being found not suitable. 
+e) Vendor engineer to perform general shift duties of 9 hours’ duration (08:00 AM to 5:00 PM) and 
+also attend to the problems on odd hours if required to meet the exigencies. 
+f) During emergencies, the maximum working hours are limited to 12 Hours for any of the vendor 
+staff. 
+g) However, for any ongoing and continuation jobs and in situation where analyzers are down, the 
+vendor is expected to work on need basis with analyzer specialist to meet the 95% availability. 
+ 
+ 
+Reporting: 
+ 
+a) Generate calibration report strictly as per the format given by CPCL and as per the direction of 
+Engineer In-charge specifically mentioning the Drift, Faults, Action taken, Spares used, if any. 
+b) Maintain the records for monthly calibration, preventive maintenance and breakdown 
+maintenance. 
+c) Record all the observations and action taken in a register duly signed and certified by CPCL 
+engineer. 
+d) AMC start up initial activities following jobs are to be completed within 15 days of start-up of 
+contract jobs. 
+e) Yearly preventive maintenance schedule to be submitted. 
+f) List of annual spares / consumables consumption, adequate stock of spares required for all 
+the analyzers, covered under this contract to be submitted. 
+
+13. TRAINING REQUIREMENT 
+ 
+ Bidder shall arrange for 1-week training at CPCL site on NIR model building and maintenance. 
+ Bidder shall arrange for training on hardware and software maintenance at M/S CPCL site for 5 batches 
+of one or two days each. 
+ 
+14. PACKING AND SHIPPING 
+ 
+ 
+Packing 
+ Before packing, all openings of instruments, including the cable entrances of cable Connection shall be 
+properly coveted or plugged to prevent foreign matters from entering during transit and subsequent 
+storage. 
+42/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR FT NIR ANALYSERS 
+ 
+Page 22 of 25 
+ 
+ Flanges and screws shall be protected to prevent damage from or entrance of foreign Material 
+Instruments shall be packed in accordance with the modern practice consistent with Destination and 
+method of transport employed so as to avoid any physical damage to any Part of the supply. 
+ Total weight and Purchaser's Item No. shall be clearly marked on the crates. 
+ Maximum dimensions and weight of packing shall not exceed the specified transportation Limits. 
+ 
+ 
+Shipping 
+ 
+ One copy of the following documents shall be shipped with the Instruments. 
+ GA/ IA, drawings, BOM, Installation, operation and maintenance & service manual, including detailed 
+information. 
+ Detail Packing list of all instruments and accessories. 
+ The instruments ready for shipment shall be marked according to instructions issued by the Purchaser 
+and attached to the requisition. 
+ System delivery shall be made within 5 months from the date of order placement. 
+ 
+15. PAYMENT TERMS: 
+ 
+75% - Delivery of analyser System at site 
+10% - After Complete System Installation 
+10% - Model building, Commissioning, SAT/PGTR & System Handing over 
+2.5% - payable after successful completion of 1st year extended warranty 
+2.5% - payable after successful completion of 2nd year extended warranty 
+PWCAMC: For PWCAMC: 
+100% payment within 30 days shall be made on quarterly basis at the end of each quarter visit during 
+the PWCAMC period upon bills duly certified by CPCL Engineer in charge. 
+ 
+16. RECOMMENDED SUB VENDORS LIST 
+ 
+ Bidder shall supply all the items as pet the tender requirements from the recommended vendor list 
+given below. For those items which are not appearing in this list, bidder shall take prior approval from 
+CPCL, by providing requited details of the vendor for such items like credentials and previous 
+installation references. Supply of items from a vendor not mentioned in this list also shall be done only 
+with necessary prior approval from CPCL by submitting relevant documents and evidence as desired 
+by CPCL. 
+ 
+ Junction Boxes (Flameproof) & Cable gland (for hazardous area) 
+1. Baliga lighting equipments pvt.ltd. India 
+2. Ex-protecta India 
+3. Flexpro electrical Pvt.ltd. India 
+4. Flameproof equipments pvt. Ltd. India 
+5. Shyam switchgears Pvt. Ltd. 
+6. Prompt ltd 
+43/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR FT NIR ANALYSERS 
+ 
+Page 23 of 25 
+
+ Multicable transit 
+1. Brattberg 
+2. Roxtec 
+ Tubes 
+1. Sandvik 
+2. Swagelok India 
+3. Circor(Hoke) 
+4. Parker 
+ Fittings 
+1. Swagelok India 
+2. Circor (Hoke) 
+3. HiLok 
+4. Parker 
+ Valves 
+1. Swagelok India 
+2. Emerson Process Management India Ltd 
+3. HiLok 
+4. Circor(Hoke) 
+5. Parker 
+ MCB 
+1. Havells 
+2. Indo-asian 
+3. Schneider 
+4. Legrand 
+5. Hager 
+6. MDS 
+7. Anchor 
+ Programmable Logic Controller 
+1. Allen Bradley India Ltd 
+2. Siemens 
+3. Honeywell Ltd 
+4. HIMA 
+5. Triconex 
+6. Schneider Electric Company 
+ PC 
+1. HP 
+2. Dell 
+3. Fujitsu 
+ Pressure / Flow / Temperature 
+1. Emerson 
+2. Yokogawa 
+3. Honeywell 
+ Radar Level Transmitter 
+1. Emerson 
+2. VEGA 
+3. Magnetro 
+44/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR FT NIR ANALYSERS 
+ 
+Page 24 of 25 
+
+17. BIDDER DOCUMENT REQUIREMENT 
+ 
+ Three sets of following documents to be submitted during shipping: 
+
+S/N 
+ 
+Description 
+Along with 
+the offer 
+Post order For 
+Approval/Review/ 
+Information
+As Built 
+1. 
+Specifications sheet duly filled in as token 
+of Acceptance 
+ 
+X 
+
+2. 
+Make and Model of the offered instrument 
+along with DATASHEET & GAD 
+ 
+X 
+ 
+X 
+ 
+3.
+NIR GA drawings
+X
+X
+4. 
+Detailed BOM 
+ 
+X 
+X 
+5. 
+Sampling system schematic 
+X 
+X 
+X 
+6. 
+Utility Consumption details 
+X 
+X 
+X 
+7. 
+Carrier gas/ Calibration cylinder details 
+X 
+X 
+X 
+8. 
+Power Supply distribution 
+ 
+X 
+X 
+9. 
+System grounding details 
+ 
+X 
+X 
+10. 
+Interconnection cable details 
+ 
+X 
+ 
+11. 
+Filled in deviation/ compliance Statement 
+X 
+
+12. 
+Complete technical literature and 
+catalogues of the offered instrument 
+along with accessories along with 
+complete de codification sheet. 
+
+X 
+
+ 
+X 
+13. 
+Proven Track Record 
+X 
+
+14. 
+Guarantee/Warranty Certificates 
+
+X 
+15. 
+Other test certificates 
+
+X 
+16. 
+Packing list 
+
+X 
+17. 
+Operation & Maintenance instruction 
+manuals 
+
+X 
+18. 
+Calibration certificate 
+
+X 
+19. 
+Logistic Support Certificate 
+X 
+
+ 
+45/197
+
+ 
+ANNEXURE-I TECHNICAL SPCIFICATIONS FOR FT NIR ANALYSERS 
+ 
+Page 25 of 25 
+
+18. 
+CERTIFICATE FOR LOGISTIC SUPPORT 
+ 
+(To be signed by Bidder’s principal’s corporate level signatory on company letter Head) 
+
+I, on behalf of M/s. 
+confirm that the Gas Chromatograph quoted by M/s. 
+ 
+for CPCL Manali, Tamil Nadu (India) against material requisition shall 
+continue to be supported by us and quoted Gas chromatograph shall not be withdrawn from Indian 
+market as a matter of corporate policy. 
+ 
+I, further confirm that in case of placement of order by M/S. CPCL on M/S. 
+, 
+M/S. CPCL shall be supported in providing back-up engineering, maintenance support, and spare part 
+support for a period of not less than ten (10) years from the date of placement of order. 
+
+(SIGNATURE WITH SEAL) 
+46/197
+
+47/197
+ ANNEXURE-IIA
+
+48/197
+
+49/197
+
+50/197
+
+51/197
+
+52/197
+
+53/197
+
+54/197
+
+55/197
+
+56/197
+
+57/197
+
+58/197
+
+59/197
+
+60/197
+
+61/197
+
+62/197
+
+63/197
+
+64/197
+
+65/197
+
+66/197
+
+67/197
+CPCL/TPI
+ANNEXURE-IIB
+
+68/197
+CPCL/TPI
+
+69/197
+CPCL/TPI
+
+70/197
+CPCL/TPI
+
+Page 1 of 5 
+ 
+Annexure-IIIA 
+Data Sheet of Dual Stream-FT-NIR Analyzer (Online Process Analyzer) 
+ 
+General 
+1 
+Quantity 
+1 (One) 
+2 
+Analyzer Type 
+Dual-Stream (2 Streams) FT-Near Infrared 
+Analyzer (NIR) in BS-IV and BS-VI Headers of 
+CPCL OM&S Unit. 
+for online measurement of Gasoline 
+1.RON, 
+2.MON 
+3.RVP 
+4.E70 
+5.E100 
+6.E150 
+7.FBP 
+8.BENZENE 
+9.AROMATICS 
+10.OLEFINS, 
+11. RESIDUE, 
+12. DENSITY/SG13.E180 
+for feedback to CPCL blend control system. NIR 
+analyzer shall be supplied complete with operator 
+interface 
+system, 
+software 
+and 
+other 
+items/components/ accessories to make the 
+system Complete. Analyser have the capability to 
+add additional 2 streams in Future as a Minimum. 
+3 
+Location 
+Inside Existing Analyzer shelter 
+Hazardous 
+Location
+4 
+Electrical 
+Area 
+Classification 
+IEC Zone1 Gas Group IIA / IIB/IIC, Temp. class 
+T3 
+
+ 
+
+Probe 
+(Stream1& 2) 
+5 
+Type (Stream1 & 2) 
+a) Sample shall be extracted from the line with the 
+help of Sample Probe. Sample probe design shall 
+allow true representative sample extraction from 
+the line. In situ type probe is not acceptable. 
+b) Sample probe shall be manual retractable 
+type i.e. it shall be possible to remove sample 
+probe on-line for cleaning / maintenance, with 
+non-fly off design 
+6 
+Probe Material/ Rating SS316/ 300# (Stream1 & 2) 
+7 
+Process Connection 
+1.5”, ANSI 300# (Stream1 & 2) 
+8 
+Line Isolation Valve 
+1.5”, 300# (by Vendor) (Stream1 & 2) 
+9 
+Facing and Finish 
+RF, 125 AARH 
+10 
+Flange Material 
+ASTM A-105 
+11 
+Installation 
+Vertical in horizontal line 
+12 
+Probe 
+Length 
+/ 
+Diameter 
+Vendor to specify (Line Size 10 Inch) 
+71/197
+Note-12
+Please refer the deviation sheet
+
+Page 2 of 5 
+ 
+13 
+Probe Filter 
+Required. 
+14 
+Filter Material 
+Min. SS316 
+Sample 
+Conditioning 
+System(Stream1 
+& 2) 
+15 
+Type of Sampling 
+Extractive 
+a) The purpose of Sample Conditioning System 
+is 
+to 
+deliver 
+FT-NIR 
+analyzer 
+(spectrophotometer) a clean, bubble free and true 
+representative sample. 
+Primary Sample Conditioning shall be provided at 
+the sample take off. Subsequent Sample 
+Conditioning shall be carried out before the 
+sample 
+enters 
+Spectrophotometer. 
+The 
+secondary sample conditioning system shall be 
+located outside the analyzer shelter. 
+b) The sample shall be filtered, pressure and 
+temperature 
+conditioned, 
+degassed 
+and 
+prepared to provide the analyzer a uniform 
+sample, avoiding extraneous effects these can 
+cause the system to provide erroneous results. 
+c) Vendor shall note that water may be present in 
+the product streams and should design the 
+sample conditioner system to take care of the 
+presence of water. 
+16 
+Sample module 
+Redundant Fast loop pumps shall be provided by 
+vendor. Vendor’s scope shall include supply of all 
+the components, interconnecting tubing/ piping, 
+tube-fittings/ pipe fittings including connectors. 
+The sample return line and fast loop shall be 
+combined together by vendor and finally vendor 
+shall provide 1.5", 300#, RF, 125 AARH, ASTM A 
+105 flange connection to the return location 
+(Stream1 & 2)
+17 
+Enclosure Class 
+All the electrical components in primary & 
+secondary sample conditioning system shall be 
+Explosion proof certified suitable for mounting in 
+area 
+specified 
+as 
+per 
+Electrical 
+Area 
+Classification. 
+18 
+Interconnecting tubing 
+/ 
+fittings 
+between 
+probe 
+and 
+primary 
+/secondary 
+Sample 
+conditioning system. 
+Required, to be supplied by vendor 
+(Stream1 sample take off Nozzle to Shelter -90 
+Meters & Stream 2 Stream1 sample take off 
+Nozzle to Shelter -65 Meters) 
+19 
+Interconnecting tubing 
+/ fittings 
+between 
+Sample 
+conditioning 
+system and Analyzer 
+Required, to be supplied by vendor 
+20 
+Material of tubing 
+SS 
+316L 
+as 
+a 
+minimum 
+(Vendor 
+must 
+categorically confirm in the offer that tubing 
+material 
+is 
+compatible 
+with 
+the 
+sample 
+composition and condition)
+72/197
+
+Page 3 of 5 
+ 
+21 
+Material of fittings 
+SS 316 and suitable for tubing, Fittings shall be 
+double compression type. 
+22 
+Sample 
+Recovery 
+System 
+Common Sample Recovery System for Stream 1 
+and 2 With Dual Redundant pumps, Level 
+Transmitters, Discharge Gauges. 
+23 
+Sample 
+Validation 
+System with Mounting 
+Skid 
+Separate for Each Streams with Collection tank 
+and Level gauges. 
+Analyzer
+System 
+24 
+Analyzer Type 
+ 
+FT-NIR. The analyzer shall consist of 
+spectrophotometer, industrial grade portable 
+computer as engineering interface system, 
+chemo metric modeling software, necessary 
+control system (I/O section) to integrate the 
+analyzer 
+system, 
+analyzer 
+stability 
+& 
+performance monitoring system, and modem for 
+remote system diagnostics & trouble shooting. 
+Shall perform the analysis within the the near-
+infrared (NIR) portion 
+of the electromagnetic spectrum 
+25 
+Enclosure Class 
+Analyzer shall be explosion proof suitable for 
+area specified as per Overall Area Classification, 
+If flameproof is not available as manufacturer 
+standard, purged enclosure as per NFPA 496 
+shall be provided. 
+26 
+Location of Analyzer 
+Inside Analyzer Shelter 
+27 
+Location of Analyzer 
+Shelter 
+IEC Zone1 Gas Group IIA / IIB/IIC, T3 
+28 
+Measurement range 
+Refer Process Data Sheet Annexure-IB 
+29 
+Accuracy 
+Refer Process Data Sheet Annexure-IB 
+30 
+Repeatability 
+0.007 cm-1 or Better 
+31 
+Wave Length Range 
+900–2500 nm or Better 
+32 
+Reproducibility 
+0.04 cm-1 
+33 
+Laser Source 
+Class I (Long Life) 
+34 
+Power Supply 
+110 V AC ±10%, 50 Hz±3Hz UPS for analyzer, 
+industrial grade portable PC and its accessories. 
+230VAC ±10%, 50 Hz±3Hz Non UPS for 
+analyzer cabinet lighting (derived from 415VAC, 
+3 Phase by Vendor). 
+35
+Memory
+Non-volatile type or RAM with battery back up
+36 
+Self-diagnostic facility 
+Required 
+37 
+Outputs 
+4-20mA Output shall be available for all 10 
+Parameters and in addition, 
+-1 no. serial RS 485 output with Modbus protocol
+(RTU) and RS485 
+-Analyzer in calibration contact (Pot Free) 
+73/197
+
+Page 4 of 5 
+ 
+-Common fault alarm contact (Pot Free). 
+-Analyzer conc. high alarm contact (Pot free) 
+-Analyzer low flow alarm 
+-Outlier detection alarm
+38 
+Power Consumption 
+Vendor to specify 
+39 
+Utilities requirement 
+DM Water, Steam, N2 and Instrument air shall be 
+provided. Other than these, any additional 
+requirement shall be in bidder’s scope for 
+warranty and post warranty CAMC period.
+40 
+Test Procedure 
+ASTM/ISO/IP 
+Service 
+conditions 
+41
+Fluid Conditions
+Refer Process Data Sheet Annexure-IB
+42 
+Fluid composition 
+Refer Process Data Sheet Annexure-IB 
+43 
+Pressure 
+Refer Process Data Sheet Annexure-IB 
+44 
+Temperature 
+Refer Process Data Sheet Annexure-IB 
+45
+Density
+Refer Process Data Sheet Annexure-IB
+46 
+Cp / Cv 
+Refer Process Data Sheet Annexure-IB 
+47
+Vapor Press.
+Refer Process Data Sheet Annexure-IB
+Certification
+48 
+Statutory Certificates 
+Required 
+Other
+49
+Model
+Vendor to specify
+50 
+Manufacturer 
+Vendor to specify 
+ 
+1. Supply of all utilities like power supply, instrument air, service water, N2, Steam etc and further 
+distribution with all accessories like redundant power supply pack, regulators, adaptors, pipe, pipe 
+fittings etc shall be in vendor’s scope of supply. All the items required like pump etc. for pumping 
+the sample back to process line shall be in vendor’s scope. 
+ 
+2. Analyzer response time shall be less than 30 Sec/Channel. 
+ 
+3. Process data shall be as per process data sheet enclosed as Annexure-IB in this requisition. 
+ 
+4. Since the sample is returned to the same pressure/ Temperature conditions as sample take off 
+point, Vendor must consider sample pump while designing the sample return system. Preferably 
+sample pumps are to be located at Analyzer Shelter end. Fast loop pumps should trip on low 
+sample flow. Sample handling system shall be designed considering safety against over pressure 
+and over temperature. 
+ 
+5. Analyzer shall be equipped with an arrangement to pump back the sample to parent header at 
+the same location. Suitable Sample recovery tank with Level Based Cutin and Cutoff pumps to 
+be considered. 
+ 
+6. The element material shall be SS316 as a minimum. However, bidder must offer the same as pet 
+their standard product suitable for specific service. 
+ 
+7. Sample conditioning system shall be independent for each MS header as shown in drawing 
+attached as Annexure - IC. 
+ 
+8. Data provided are typical numbers and do not necessarily represents all ranges of operating 
+Conditions. 
+74/197
+NIR-O
+Process Insights
+1500 W 
+
+Page 5 of 5 
+ 
+9. Certificate of Compliance, Hazardous area certificate, Calibration certificate —2 copies each, 
+shall be Provided along with supply of material. 
+ 
+10. Bidder shall submit suitable CCOE Certificate for the Analyser and other components. 
+ 
+11. Bidder shall refer the Analyser Schematic Drawing as shown in Annexure - IC. 
+
+75/197
+12. Bidder shall offer either DG-NIR or FT-NIR Analysers.
+
+Page 1 of 2 
+ 
+Annexure-IIIB: Process Data Sheet 
+Item Name 
+ 
+FT-NIR Analyser for OM&S Unit 
+Fluid Handled 
+
+Measuring Properties 
+ 
+BENZENE, AROMATICS, OLEFINS, RON, MON, RVP, DISTILLATION Recovery @ 70,100,150,180, 
+SP GR/Density, FBP, Residue 
+ 
+Type 
+FT-NIR
+Operating Conditions 
+Pressure 
+Kg/cm2 
+1.8 to 2.8 
+Temperature 
+DEG C 
+Ambient 
+Design Conditions 
+Pressure 
+Kg/cm2 
+18.2 
+Temperature 
+DEG C 
+65 
+Dual Stream Analyser 
+Stream Header Size 
+MS Stream 1 – Size 10 inch 
+MS Stream 2 – Size 10 inch
+Fluid Properties at P&T 
+FCC 
+Gasoline
+CCR 
+Reformate
+Isomerate 
+Heavy 
+Naphtha from 
+OHCU 
+Light Naphtha 
+from OHCU 
+Syn. Naphtha 
+from DHDS 
+Syn. Naphtha 
+from DHDT 
+Liquid Density 
+KG/M3 
+695-720 
+805-815 
+657-668 
+750-770 
+695-720 
+720-750 
+695-730 
+Liquid Viscosity 
+cP 
+0.30 
+0.54 
+0.23 
+0.34 
+0.30 
+0.32 
+0.31 
+ 
+1. The Data Below is given as a reference, however it is the bidders responsibility to arrange a Laboratory type FT-NIR Analyser and capture 
+all the sample parameters through repetitive sampling and modelling of the analyser for configuration of range and other process data. 
+2. 4-20mA to be generated for all parameters in addition to Modbus TCP/IP. 
+76/197
+
+Page 2 of 2 
+
+PARAMETER 
+STREAM -1 
+STREAM2 
+ACCURACY 
+RANGE 
+UNIT 
+ 
+MIN 
+NOR 
+MAX 
+MIN 
+NOR 
+MAX 
+
+DENSITY 
+0.7006 
+0.7024 
+0.7031 
+0.7563 
+0.7714 
+0.7748 
++/- 1% 
+0.65 to 0.85
+gm/cc 
+RVP 
+62.3 
+63 
+63.5 
+42 
+47 
+50.30 
+ 
+25 to 150 
+Kpa 
+DISTILLATE REC@70 
+DEG C 
+52.1 
+53.4 
+54.4 
+13.5 
+18.3 
+23 
++/- 1% 
+0 to 100% 
+Vol% 
+DISTILLATE REC@100 
+DEG C 
+73.3 
+74.2 
+74.7 
+36.6 
+43.3 
+50.2 
++/- 1% 
+0 to 100% 
+Vol% 
+DISTILLATE REC@150 
+DEG C 
+91.1 
+91.3 
+91.7 
+75/88.88
+88.8 
+91.8 
++/- 1% 
+0 to 100% 
+Vol% 
+OLEFINS 
+18/21/25.70
+34.29 
+34.55 
+0 
+0.55 
+2.74 
++/- 1% 
+0-50 
+Vol % 
+AROMATICS 
+8.22 
+8.32 
+10.60/35 
+41.05 
+42.54 
+48.95 
++/- 1% 
+0-85 
+Vol % 
+BENZENE 
+0.25 
+0.26 
+0.27 
+1 
+1.05 
+1.18 
++/- 0.02% 
+0-7 
+Vol % 
+RON 
+90.1/91 
+90.2 
+90.5 
+90.5 
+93.4 
+95.7/97 
++/- 0.1% 
+65-115 
+OCT No 
+MON 
+81 
+81.161 
+81.2 
+82.7 
+83.8 
+85.864 
++/- 0.2% 
+75 to100 
+OCT No 
+DISTILLATE REC@180 
+DEG C 
+90 
+
++/- 1% 
+0 to 100% 
+Vol% 
+RESIDUE 
+
+2 
++/- 1% 
+0-10 
+Vol % 
+FBP 
+
+210 
++/- 1% 
+150-210 
+Deg C 
+77/197
+
+A1:AT79B2A1:AT90
+3"
+Modbus TCP/IP
+3"
+SAMPLE HANDLING SYSTEM#3
+NOTE
+1
+ALL FILTERS SHALL BE DUAL 
+2
+CHILLER/HEATER/FILTERS/BALL VLV/NRV/PSV/TSV/FLOWMETER /TEMP TRANSMITTER
+3
+COMMON SAMPLE RECOVERY SYSTEM FOR BOTH ANALYSERS
+4
+N2,STEAM,IA,DM WATER IN CPCL SCOPE
+SAMPLE RETURN HEADER
+3"
+VALIDATION SYSTEM 
+AND MOUNTING SKID 
+FOR STREAM31 & 
+STREAM#2
+STREAM 1 FAST LOOP SKID
+STREAM 2 FAST LOOP SKID
+OUTSIDE SHELTER
+SECONDARY SAMPLE HANDLING 
+SYSTEM
+SAMPLE RECOVERY SYSTEM WITH 
+REDUNDNANT PUMP & LT (Size of tank shall be 
+designed considering Analysers With Pump Auto Cut in 
+/Cut off)
+SECONDARY SAMPLE HANDLING 
+SYSTEM
+ STREAM #1
+FAST LOOP
+SKID (REDUNDANT PUMPS)
+4-20mA for Each Analyser Output
+ANNEXURE-FLOW SCHEMATICS FOR DUAL STREAM GASOLINE FT-NIR ANALYSER
+BS-VI- STREAM # 2
+NEAR FIELD
+OUTSIDE SHELTER
+ STREAM #2
+FAST LOOP
+SKID (REDUNDANT PUMPS)
+PRIMARY SAMPLE HANDLING 
+SYSTEM (NOTE-2)
+OUTSIDE SHELTER
+OUTSIDE SHELTER
+PRIMARY & SECONDARY SAMPLE HANDLING SYSTEM STREAM #1
+PRIMARY & SECONDARY SAMPLE HANDLING SYSTEM STREAM #2
+PRIMARY SAMPLE HANDLING 
+SYSTEM (NOTE-2)
+FT-NIR 
+ ANALYSER 
+DENSITY
+RON
+MON
+E70
+E100
+E150
+BENZENE
+OLEFINS
+FBP
+RVP
+AROMATICS 
+ETC….
+BS-IV STREAM # 1 (MS)
+NEAR FIELD
+EXISTING ANALYSER SHELTER
+OUTSIDE SHELTER
+INSIDE SHELTER
+OUTSIDE SHELTER
+78/197
+10"
+10"
+10"
+ ANNEXURE-IIIC

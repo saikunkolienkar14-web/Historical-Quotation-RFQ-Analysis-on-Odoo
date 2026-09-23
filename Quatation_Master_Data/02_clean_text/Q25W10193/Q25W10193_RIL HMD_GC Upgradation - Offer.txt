@@ -1,0 +1,694 @@
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+TECHNICAL OFFER
+
+ADAGE QUOTE REF:
+Q25W10193T0
+DATED : 04.09.2025
+BID TYPE : Firm
+PROJECT TITLE:
+Upgradation of Cracker GC AT-4083/4/6 at RIL HMD
+INQUIRY DETAILS:
+Enquiry received Via mail from Mr Purvesh Doshi on 12.08.2025
+CUSTOMER:
+Kind Attention : Mr Purvesh Doshi
+Reliance Industries Limited, Mumbai
+END USER:
+Reliance Industries Limited, HMD
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Assumptions/Clarifications
+SECTION-3: Technical Literature
+SECTION-4: Scope matrix
+SECTION-5: Commercial Terms & Conditions
+SECTION-6: Detailed GC offer
+
+Kindly review and do let us know if you have any queries
+Kind Regards
+
+Mr Tejas Rivonkar
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9284270984
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to briefly
+introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions. Our
+expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for various
+industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+REVISION HISTORY
+
+Revision
+Date
+Description
+Q25W10193T0
+04.09.2025
+Technical Offer
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+SECTION 1: SUMMARY OF PRICES
+
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Gas Chromatograph
+Quoted
+Quoted
+2
+1 No
+Spare column
+Quoted
+Quoted
+3
+1 No
+Communication panel with N/w hardware
+Quoted
+Quoted
+4
+1 No
+Design Engineering & Project Management
+Quoted
+Quoted
+5
+1 No
+FAT at Adage Works
+Quoted
+Quoted
+6
+1 No
+P&F & Transportation upto Site
+Quoted
+Quoted
+7
+Lumpsum Supervision of installation & commissioning & SAT
+Quoted
+Quoted
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+
+1. Our scope shall be limited to supply of Bare GC along with bypass rotameter x 3 No, sample supply
+rotameter x 1 No & calibration cylinder with regulator along with communication panel & necessary
+hardware at existing shelter.
+
+Below items are excluded & existing shall be used.
+All SHS components, SHS enclosure, sample transportation tube, Probe, Carrier gas cylinders,
+Autochangover unit, JB’s, PDB’s & Headers, power and signal cable & FO cable and N/w
+components at DCS & existing workstation.
+
+Integration between existing items & newly supplied Gas chromatograph to be taken care by RIL.
+Supervision for this activity shall be done by Adage.
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+SECTION 3: TECHNICAL LITERATURE
+
+1
+Gas Chromatograph
+TAG NO: AT-4083/4/6
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Inside Existing shelter
+GC Hazardous Area Classification: Zone 1, llC, T4
+No of Streams: 3
+Cycle time: 120 Seconds per stream
+Detector : TCD
+Sample return : To Existing Flare header/Vent header
+Analyzer Outputs:
+-
+Common 4-20 mA Analog output.
+-
+2 x Ethernet Modbus/TCP IP Output.
+-
+Potential free contacts for fault & other alarms.
+
+1 No
+Quoted
+1.1
+Sampling Probe
+Existing
+1.2
+Sample transportation tube from tapping till SSHS
+Existing
+1.3
+Secondary SHS system
+Existing
+
+1.4
+Fastloop metal tube rotameter (0-5664 cc/min)
+3 No
+Quoted
+1.5
+Flow through GC Metal tube rotameter (472 cc/min)
+1 No
+Quoted
+1.6
+Calibration gas cylinder with double stage pressure regulator
+-
+10L calibration gas cylinder for above GC, make:
+Inox/Equivalent.
+
+1 No
+Quoted
+2
+Spare column
+
+1 No each
+type
+Quoted
+3
+Communication JB in shelter (For mounting N/w hardware)
+-
+Power supply module with diode O ring x 2 No
+-
+8 Port Ethernet to FO converter x 2 No
+-
+LIU box - 2 No
+-
+Patch cords x 5 meter - As required
+1 set
+Quoted
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+-
+CRCA enclosure with X Purge zone 1 certified unit (P&F
+make)
+This enclosure will house all above hardware suitable for
+Zone 1. This will be fully wired and will be mounted inside
+existing analyser house.
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+SECTION 4 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Sample Probe
+
+Yes
+4
+Sample transportation tube from tapping till SHS
+
+Yes
+5
+JBs & PDPs with required TBs & MCBS and other Accessories
+
+Yes
+6
+Inspection & Testing
+Yes
+
+7
+Project Management & Project Documentation
+Yes
+
+8
+Factory Acceptance Test at Adage Works
+Yes
+
+9
+Packing forwarding
+Yes
+
+10
+Freight up to site
+Yes
+
+11
+Storage of supplied system at site
+
+Yes
+12
+Mobilization of supplied system from Stores to location.
+
+Yes
+13
+Installation of supplied system at site
+
+Yes
+14
+Supply of Standard Field Cables including signal, power
+
+Yes
+15
+Laying of Power cable, signal cable, Sample line and Airline etc at
+site
+
+Yes
+16
+laying of Trays (Power, Signal, Sample line, Air etc)
+
+Yes
+17
+Provision of dry instrument Air
+
+Yes
+18
+Provision of Plant Nitrogen
+
+Yes
+19
+Provision of Power (UPS and NON-UPS) at one location near
+Battery limit.
+
+Yes
+20
+Supervision of Installation and Commissioning
+Yes
+
+21
+4-20mA, Ethernet TCP/IP from field/ AH to DCS
+
+Yes
+22
+Site Acceptance Test & Handover
+Yes
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from the date of PO
+Offer validity
+15th December 2025
+Payment Terms
+Shall be discussed during commercial stage
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+SECTION 6: DETAILED GC OFFER
+
+Tag Number: AT-4083/84/86
+
+Hardware Configuration
+Maxum Modular Oven: Left - None
+Right - Large oven, large module,
+Detector: Thermal Conductivity
+Electronic Pressure Control Modules: 1 (Type EPC3)
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way
+(SS) Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted
+pair) with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 18
+Analog Inputs: 16
+Digital Outputs: 4 ( 2 DO(s) reserved for System Fault)
+Digital Inputs: 8
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+I2C 8 AO's, 8 AI's, 2 DI's
+Stream Switching: Pneumatically via Solenoid Valve Control
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54
+
+Analytical Configuration
+Number of Streams: 3
+Validation: Automatic (with calibration standard)
+Repeatability Test: 8 Hours
+
+Analyzer Certification
+Area Classification: ATEX II 2 G IIC T4
+(135°C) Gb
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+Stream Number 1
+Stream Tag AT-4083
+Stream name Cracker GC
+Aggregate state sample Analyser Vapour
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability
+LDL
+AO
+Hydrogen
+1,31
+0 - 3
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Methane
+0,014
+Not Measured
+Mol%
+Acetylene
+0,84
+0 - 1,5
+Mol%
+1 (% FS)
+0.5% FS
+Yes
+Ethylene
+84,87
+0 - 100
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Ethane
+14,9
+0 - 30
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+MA/PD
+0,0001
+Not Measured
+PPMV
+Propylene
+0,08
+Not Measured
+Mol%
+Propane
+30
+Not Measured
+PPMV
+Butadiene
+0,0001
+Not Measured
+PPMV
+Other C4s
+0,0001
+Not Measured
+PPMV
+C5s
+0,0001
+Not Measured
+PPMV
+
+Cycle time : 120 seconds
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+Stream Number 2
+Stream Tag AT-4084
+Stream name Cracker GC
+Aggregate state sample Analyser Vapour
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability
+LDL
+AO
+Hydrogen
+1,64
+0 - 4
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Methane
+0,019
+Not Measured
+Mol%
+Acetylene
+2,11
+0 - 2,5
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Ethylene
+84,87
+0 - 100
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Ethane
+14,9
+0 - 30
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+MA/PD
+0,0001
+Not Measured
+PPMV
+Propylene
+30
+Not Measured
+PPMV
+Propane
+0,0001
+Not Measured
+PPMV
+
+Cycle time : 120 seconds
+
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74600 MH 2001 PT 133206
+0832-6620500
+www.adage-automation.com
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+Stream Number 3
+Stream Tag AT-4086
+Stream name Cracker GC
+Aggregate state sample Analyser Vapour
+
+Chemical Name
+Min
+Normal
+Max
+Measuring Range
+Low - High
+Unit
+Repeatability
+LDL
+AO
+Hydrogen
+0,227
+0 - 0,75
+Mol%
+1 (% FS)
+0.5% FS
+Yes
+Methane
+0,019
+Not Measured
+Mol%
+Acetylene
+0,107
+0 - 0,5
+Mol%
+1 (% FS)
+0.5% FS
+Yes
+Ethylene
+84,89
+0 - 100
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Ethane
+14,9
+0 - 30
+Mol%
+0.5 (% FS)
+0.25% FS
+Yes
+Propylene
+0,084
+Not Measured
+Mol%
+Propane
+30
+Not Measured
+PPMV
+
+Cycle time : 120 seconds

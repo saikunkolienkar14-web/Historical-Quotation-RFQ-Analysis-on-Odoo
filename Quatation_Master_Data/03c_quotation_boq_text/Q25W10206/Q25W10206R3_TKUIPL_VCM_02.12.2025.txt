@@ -1,0 +1,315 @@
+Quotation Number: Q24W10206R3
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Price (INR)
+1
+3 Stream Gas Chromatograph
+Tag No: 021AT141011 / 022AT141011
+Service1: Furnance Feed EDC
+Service2: Furnance Feed EDC
+Service3: Furnance Feed EDC
+MODEL: Maxum ll
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, IIB+H2, T3
+Gas Chromatograph Safety Protection IECEx IIB + H2 T2
+Type: FID Detector
+CT time: 12 Minute
+Mounting Location: Inside AH1 Tag PV021-SHR-001
+Streams: 3
+Str-1 Measurement range
+Str-2 Measurement Range
+Str-3 Measurement Range
+1 Nos for
+each train
+Quoted
+Process Conditions for Str -1 AP131012
+-
+Supply Pressure (Operating): 10.2 Kg/cm2g
+-
+Temperature (Operating): 127°C
+Process Conditions for Str -2 AP131010
+-
+Supply Pressure (Operating): 9.8 Kg/cm2g
+-
+Temperature (Operating): 38°C
+Process Conditions for Str -3 AP141011
+-
+Supply Pressure (Operating): 40.5 Kg/cm2g
+-
+Temperature (Operating): 114°C
+Return Details:
+-
+Sample Return to: Spend sample to SOW via Liquid recovery
+system by vendor, further connection by TKIS
+-
+Fastloop Return to: MP-PV021-P141001A/B/C (Return piping
+by TKIS)
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+The wetted part MOC for all the SHS components including
+sample probes, SCS and Transportation line Wetted part shall
+be Hastelloy. Analyzer wetted part MOC : Hastelloy
+Common fast loop return for Tag 021AT151001, 021AT141011
+and 021AT141001
+Valmet assume 2-Chloro-1,3-Butadiene as chloroprene
+measurement.
+1.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: Hastelloy with welded isolation valve
+2 Nos for
+each train
+Quoted
+1.1b
+Sample Transportation Line
+-
+1/2’’ Hastelloy Prefab Insulated tube for stream 1, 275 Meters
+-
+1/2’’ Hastelloy Prefab Insulated tube for stream 2, 275 Meters
+-
+Stream 3 shall be from analyser tag 021AT141001
+-
+1’’ pipe (Common) for fast loop return (190 Meters by RIL)
+1 Lot for
+each train
+Quoted
+Note :
+-
+Stream 3 is fed to this GC from analyser tag 021AT14001.
+-
+Common fast loop return for Tag 021AT151001,
+021AT141011 and 021AT141001
+1.1c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+-
+Existing Liquid recovery system is considered
+1 No for
+each train
+Quoted
+1.1d
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Auto change over regulators with Skid with canopy
+Carrier Gas Detail : Grade 5 Hydrogen(in RIL Scope)
+Fuel Gas Detail : Grade 5 Hydrogen(in RIL Scope)
+1 Each
+Quoted
+DETAILED OFFER OF ANALYZERS MOUNTED IN
+FIELD CABINET
+(TRAIN-1 and TRAIN-2)
+S.N.
+Item Description
+Qty.
+Price (INR)
+1.1
+3 Stream Chlorine Analyzer
+Tag No: 021AT151033 / 022AT151033
+Service1: Recycle EDC
+Service2: Recycle EDC
+Service3: Recycle EDC
+MODEL: OMA300
+MAKE: Applied Analytics
+Hazardous Area Classification: Zone 1, IIC, T3
+Analyzer safety protection : Ex db IIB+H2,T6 Gb
+Detector: UV-Vis spectrophotometer
+Mounting Location: Field Cabinet with Ex-Proof Air conditioner
+Streams: 3
+Sample Phase: Liquid
+Measurement range : 0-400ppm
+Repeatability : ±0.5% of scale
+Accuracy : '+/-2ppm with the sample pressure supplied to flow
+cell
+Response time of analyzer T90 : <30 Seconds
+Minimum Detection Limit : <3ppm
+Zero / span stability : Analyzer is factory calibrated with certified
+calibration fluids; no re-calibration required after initial
+calibration; measurement normalized by Auto Zero
+Process Conditions for Str -1 AP151033
+-
+Supply Pressure (Operating): 7.1 Kg/cm2g
+-
+Temperature (Operating): 50°C
+Process Conditions for Str -2 AP151034
+-
+Supply Pressure (Operating): 1.3 Kg/cm2g
+-
+Temperature (Operating):51°C
+Process Conditions for Str -3 AP151035
+-
+Supply Pressure (Operating): 1.2 Kg/cm2g
+-
+Temperature (Operating): 50°C
+Return Details:
+-
+Sample Return to: Spend sample and fast loop sample shall
+be return to SOW via Liquid recovery system by vendor,
+further connection by TKIS
+1 No for
+each train
+Quoted
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1.1a
+Sample Probe:
+-
+1.5’’ 300# FF Flange; MOC SS316L
+-
+Probe tube, MOC: SS316L, with welded isolation valve
+MOC SS316L
+3 Nos for
+each train
+Quoted
+1.1b
+Sample Transportation tube:
+-
+1/2’’ SS316L Prefab Insulated tube for stream 1, 50 Meters
+-
+1/2’’ SS316L Prefab Insulated tube for stream 2, 50 Meters
+-
+1/2’’ SS316L Prefab Insulated tube for stream 3, 50 Meters
+1 Lot for
+each train
+Quoted
+1.1c
+Sample Handling system as below:
+-
+Sample handling System shall be in line with licensor scheme.
+-
+SHS components are mounted inside SS316 type 20 coated
+Enclosure
+1 No for
+each train
+Quoted
+1.1d
+Calibration cylinders
+-
+With calibration blend along with cylinder pressure regulator
+-
+With Auto change over regulators with Skid with canopy
+1 Each
+Quoted
+1.1e
+Analyzer Cabinet Assembly MOC : SS316 Type 20 Painted
+-
+With utility headers
+-
+With Tube light and Door switch
+-
+With Power supply PDP’s
+-
+With signal JB’s
+-
+With Non-redundant Ex-Proof Air conditioner
+1 Set
+Quoted
+1.1f
+Liquid Recovery system, SS316L100 Ltr capacity and redundant
+Pump (SS316L) configuration
+1 Lot for
+each train
+Quoted
+2
+Startup & Commissioning spares for Chlorine analyzer
+•
+Colimators x 1 No.
+•
+600 Micron 1.8 Meter Fiber optic cable x 1No.
+1 Set
+Quoted
+3
+Mandatory spares for chlorine analyser
+•
+Nova-II light source replacement x 1 No.
+•
+FFKM O ring x 4 No
+Mandatory spares for Gas chromatograph
+•
+Column of each type – 1 Set
+All other spares for GC is common and part of VCM main package.
+1 Set
+Quoted
+4
+Supervision of installation & commissioning
+Lumpsum
+Quoted
+5
+Packing & Forwarding charges
+1 No
+Quoted
+6
+Transportation up to Site charges
+1 No
+Quoted
+7
+Project documentation
+1 No
+Quoted
+8
+FAT at Goa works
+1 No
+Quoted
+9
+Training at Goa works
+1 No.
+Quoted
+10
+Training at Site
+1 No.
+Quoted
+11
+OEM Functional Test reports for all analyzers with certified
+blends
+1 No.
+Quoted
+12
+Additional scope of F&G Detectors for Analyser shelter
+1 Lot
+Quoted
+OPTIONAL QUOTE
+1
+FAT at OEM Works for Gas chromatograph and Chlorine
+analyzer(Applied)
+1 No.
+Optionally
+Quoted
+2
+Remote FAT for Gas chromatograph and Chlorine
+analyzer(Applied)
+1 No.
+Optionally
+Quoted
+3
+2 Years O&M Spares for Chlorine:
+Nova-II light source replacement x 1 No.
+Collimators x 4 No
+600 Micron 1.8 meter Fiber optic cables x 2 No
+Solid State Drive w/ preloaded software x 1 No.
+FFKM O ring x 4 No
+2 Years spares for Gas chromatograph
+•
+Column of each type – 1 Set
+All other spares for GC is common and part of VCM main package.
+1 Lot
+Optionally
+Quoted

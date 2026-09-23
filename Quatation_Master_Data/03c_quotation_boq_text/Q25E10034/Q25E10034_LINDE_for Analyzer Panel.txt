@@ -1,0 +1,638 @@
+Quotation Number: Q25E10034R0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Analyser Panel (AIT-01)
+With SHS for Analyser Tag: AIT 9635
+Quoted
+Quoted
+2
+1
+Analyser Panel (AIT-02)
+With SHS for Analyser Tag: AIT 9630, AIT 9634
+Quoted
+Quoted
+3
+1
+Analyser Panel (AIT-03)
+With SHS for Analyser Tag: AIT 9650, AIT 9651,
+AIT 9670, AIT 9671.
+Quoted
+Quoted
+4
+1
+Analyser Panel (AIT-04)
+With SHS for Analyser Tag: AIT 9631, AIT 9633,
+AIT 9660, AIT 9655.
+Quoted
+Quoted
+5
+1
+Analyser Panel (AIT-05)
+With SHS for Analyser Tag: AIT 9761, AIT 9751,
+AIT 9771, AIT 9772.
+Quoted
+Quoted
+6
+1
+Design Documentation & Project Management
+Inclusive
+Inclusive
+7
+1
+FAT at Adage Factory
+Inclusive
+Inclusive
+8
+1
+Packing, Forwarding & Transportation upto Site
+Inclusive
+Inclusive
+SECTION 3: TECHNICAL LITERATURE
+1
+Analyzer Panel 1 (AIT-01):
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: CRCA.
+-
+With Exhaust fan & Louver
+-
+With Internal Wiring
+1 No
+Quoted
+1.1
+THC Analyser (Free Issued by Linde)
+Tag No: AIT 9635
+Make: Siemens
+Model : FIDAMAT 6
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-01).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-01)
+-
+2-way Solenoid Valve – 3 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired.
+1 Set
+Quoted
+3-way Solenoid Valve – Loose supply
+1 No
+Quoted
+2
+Analyzer Panel 2 (AIT-02):
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: CRCA.
+-
+With Exhaust fan & Louver
+-
+With Internal Wiring
+1 No
+Quoted
+2.1
+CO2 Analyser (Free Issued by Linde)
+Tag No: AIT 9630
+Make: Siemens
+Model: ULTRAMAT 6E
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-02).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-02)
+-
+2-way Solenoid Valve – 5 Nos.
+-
+Bypass flow meter – 3 Nos.
+-
+3-way Solenoid Valve – 1 No.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+3 Nos
+Quoted
+2.2
+N2O Analyser (Free Issued by Linde)
+Tag No: AIT 9634
+Make: Siemens
+Model: ULTRAMAT 6E
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-02).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-02)
+-
+2-way Solenoid Valve – 5 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+3
+Analyzer Panel 3 (AIT-03):
+-
+Cabinet Dimensions: 1200(W) X 800(D) X 2100(H)
+Approx. MOC: CRCA.
+-
+With Exhaust fan & Louver
+-
+With Internal Wiring
+1 No
+Quoted
+3.1
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9650
+Make: Siemens
+Model: OXYMAT 64
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-03).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-03)
+-
+2-way Solenoid Valve – 5 Nos.
+-
+Bypass flow meter – 3 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+3.2
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9651
+Make: Siemens
+Model: OXYMAT 64
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-03).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-03)
+-
+2-way Solenoid Valve – 4 Nos.
+-
+Bypass flow meter – 2 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+2 Nos
+Quoted
+3.3
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9670
+Make: Siemens
+Model: OXYMAT 64
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-03).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-03)
+-
+2-way Solenoid Valve – 4 Nos.
+-
+Bypass flow meter – 2 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+1 Nos
+Quoted
+3.4
+N2 Analyser (Free Issued by Linde)
+Tag No: AIT 9671
+Make: SERVOMAX
+Model: SERVOPRO PLASMA (K2001)
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-03).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-03)
+-
+2-way Solenoid Valve – 1 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+4
+Analyzer Panel 4 (AIT-04):
+-
+Cabinet Dimensions: 1200(W) X 800(D) X 2100(H),
+Approx. MOC: CRCA.
+-
+With Exhaust fan & Louver
+-
+With Internal Wiring
+1 No
+Quoted
+4.1
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9631
+Make: SERVOMEX
+Model: MULTIEXACT 4100
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-04).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-04)
+-
+2-way Solenoid Valve – 5 Nos.
+-
+Bypass flow meter – 3 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+1 Nos
+Quoted
+4.2
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9633
+Make: SERVOMEX
+Model: MULTIEXACT 4100
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-04).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-04)
+-
+2-way Solenoid Valve – 3 Nos.
+-
+Bypass flow meter – 1 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+1 Nos
+Quoted
+4.3
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9660
+Make: SERVOMEX
+Model: MULTIEXACT 4100
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-04).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-04)
+-
+2-way Solenoid Valve – 4 Nos.
+-
+Bypass flow meter – 2 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+2 Nos
+Quoted
+4.4
+Dew Point Analyser (Free Issued by Linde)
+Tag No: AIT 9655
+Make: MICHELL
+Model: EA2-TX
+Hazardous area classification: Safe Area.
+Mounting location: Inside Analyser Cabinet (AIT-04).
+-
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-04)
+-
+2-way Solenoid Valve – 3 Nos.
+-
+Bypass flow meter – 4 Nos.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+NRV – No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Field pressure regulator with pressure gauge – Loose supply
+3 Nos
+Quoted
+5
+Analyzer Panel 5 (AIT-05):
+-
+Cabinet Dimensions: 1200(W) X 800(D) X 2100(H),
+Approx. MOC: CRCA.
+-
+With Exhaust fan & Louver
+-
+With Internal Wiring
+1 No
+Quoted
+5.1
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9761
+Make: SERVOMEX
+Model: MULTIEXACT 4100
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-05).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-05)
+-
+2-way Solenoid Valve – 3 Nos.
+-
+Bypass flow meter – 1 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Loose supply
+-
+Field pressure regulator with pressure gauge- 2 Nos
+-
+2- way solenoid Valve- 1 No
+-
+NRV -2 Nos
+1 Set
+Quoted
+5.2
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9751
+Make: Siemens
+Model: OXYMAT 64
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-05).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-05)
+-
+2-way Solenoid Valve – 4 Nos.
+-
+Bypass flow meter – 2 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Loose supply
+-
+Field pressure regulator with pressure gauge- 3 Nos
+-
+2- way solenoid Valve- 1 No.
+-
+NRV -2 Nos
+1 Set
+Quoted
+5.3
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9771
+Make: SERVOMEX
+Model: SERVOPRO PLASMA (K2001)
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-05).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-05)
+-
+2-way Solenoid Valve – 1 Nos.
+-
+Inline Filter – 1 No.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+2-way Needle valve – 2 Nos.
+-
+3-way Needle valve – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+5.4
+O2 Analyser (Free Issued by Linde)
+Tag No: AIT 9772
+Make: Siemens
+Model: OXYMAT 64
+Hazardous area classification: Safe Area
+Mounting location: Inside Analyser Cabinet (AIT-05).
+1 No
+-
+Sample handling system as mentioned in MR BOM:
+-
+SHS components shall be mounted inside Analyser
+Cabinet (AIT-05)
+-
+2-way Solenoid Valve – 3 Nos.
+-
+Inline Filter – 1 No.
+-
+Bypass flow meter – 1 Nos.
+-
+Press. regulator with pressure gauge – 1 No.
+-
+Above shall be completely tubed and wired
+1 Set
+Quoted
+Loose supply
+-
+Field pressure regulator with pressure gauge- 2 Nos
+-
+2- way solenoid Valve- 1 No.
+-
+NRV -2 Nos
+1 Set
+Quoted
+Section 5: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design & engineering as per offer/BOQ.
+Yes
+2
+Supply of Analyser
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Signal JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+5
+Intermediate JBs
+Yes
+6
+Sample Conditioning System
+Yes
+7
+Inspection & Testing
+Yes
+8
+Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation as required
+Yes
+14
+Mobilization of supplied system from Stores to location.
+Yes
+15
+Installation of supplied system at site
+Yes
+16
+Field supporting structure for cables, transportation tubes etc.
+Yes
+17
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+Yes
+18
+laying of Trays (Power, Signal, Sample line, Air etc)
+Yes
+19
+Provision of dry instrument Air
+Yes
+20
+Provision of Plant Nitrogen
+Yes
+21
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+Yes
+22
+Supervision of Installation and Commissioning
+Yes
+23
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+24
+Site Acceptance Test & Handover
+Yes
+Yes
+25
+Refilling of Calibration Cylinders
+Yes
+26
+Training at Goa facility
+Yes
+SECTION 6: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO receipt.
+Offer validity
+30 days

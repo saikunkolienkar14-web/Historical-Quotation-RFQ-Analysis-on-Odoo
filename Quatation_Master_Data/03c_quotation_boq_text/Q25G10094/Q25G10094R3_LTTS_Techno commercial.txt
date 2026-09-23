@@ -1,0 +1,77 @@
+Quotation Number: Q24N10094R3
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY.
+PRICE
+1.A
+QCM Moisture Analyser for sparging vessel
+Service: Sparging Vessel
+MODEL: 3050 SLR
+MAKE: Ametek
+Hazardous Area Classification: Class 1 Div.2. (Zone IIB +
+Hydrogen, T3)
+Mounting Location: Inside Analyzer Field rack Assembly
+Measuring range: H2O – 0- 50PPM
+Process Conditions
+-
+Supply Pressure min/nor/max : 1.2/2.1/6Bar
+-
+Temperature : 65 Degree C
+-
+Sample return: to ATM
+Analyzer Outputs:
+-
+4-20 mA Analog output
+-
+RS-485 Modbus Serial Output
+-
+Potential free contacts for fault & other alarms.
+Utility Required:
+-
+230 VAC, 50Hz NON UPS Power supply for analyser,
+cabinet heater, HTT etc
+-
+Instrument air
+-
+Plant Nitrogen
+1 No
+QUOTED
+1.B
+Fixed Type Sample Probe with 3⁄4” Line isolation valve and
+Equal TEE (One port Blind)
+1 No
+QUOTED
+1.C
+Sample Transportation Line
+-
+1⁄4’’ EP HTT SS316 line with Accessories
+50 Meter
+QUOTED
+1.D
+Heated Sample Handling system as below:
+-
+Isolation valve with red handle, Bypass and sample
+flowmeter, Fast loop filter,NRV etc
+-
+With Cabinet Heater Assembly
+-
+Shall be mounted inside suitable size SHS box, MOC:
+SS316.
+1 No
+QUOTED
+1.E
+MS Painted Filed rack with canopy arrangement for
+Mounting of above SHS and analyzer
+1 No
+QUOTED
+-
+With Utility Header Assembly
+-
+With Common Flare Header Assembly
+-
+With NON-UPS Power Distribution Panel
+-
+With Signal Junction Boxes
+-
+With Illumination light.

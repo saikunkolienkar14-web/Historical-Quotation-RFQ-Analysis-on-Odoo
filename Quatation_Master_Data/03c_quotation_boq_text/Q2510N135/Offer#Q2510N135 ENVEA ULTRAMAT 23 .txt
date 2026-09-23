@@ -1,0 +1,28 @@
+Quotation Number: Q2510N135
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL
+PRICE (INR)
+1
+GAS ANALYSER FOR MEASUREMENT OF CO & NO
+Analyzer Make: Siemens AG, Germany
+Analyzer Model No: Ultramat 23
+With Microprocessor Based Analyser
+With IP 40 Enclosure
+Power Supply: 230 Vac +10%, 50 Hz
+Output: 4-20 Ma Isolated 750 Ohms Resistive
+Detection Limit: 1% Of The Current Measuring Range
+Linearity Error: ≤ ±1% Of Full-Scale Value
+Repeatability: ≤ 1% Of Smallest Measuring Range
+For Measurement Of
+Carbon Monoxide (CO)-Range (0-1/5%)
+Nitric Oxide (NO)-Range (0-1000/5000 PPM)
+1 SET
+15,00,000
+15,00,000

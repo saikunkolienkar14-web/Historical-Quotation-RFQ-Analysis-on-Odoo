@@ -1,0 +1,99 @@
+Quotation Number: Q2509B059R2
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+NH3 Analyzer
+•
+Based on Chemiluminescence principle
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range: 0-1 ppm / 0-10 ppm
+•
+Lower Detection Limit: <0.2 ppb
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, Model: AC32Ee CNH3
+O3 Analyzer
+•
+Based on UV photometry principle
+•
+230 V, 50 Hz. power supply
+•
+Measuring Range : Auto ranging 0-500 ppb
+•
+Lower Detection Limit : 0.2 ppb
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, Model: O342e
+BTEX Analyzer
+•
+Based on Gas Chromatography (GC)
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: up to 1000 μg/m3
+•
+Lower Detection Limit: ≤0.05 μg/m3
+•
+Make: ENVEA; Model: VOC72e
+WITH SAMPLE HANDLING SYSTEM CONSISTING OF
+•
+Sample Inlet Hood
+•
+Glass Manifold for SHS
+•
+Calibration Gas Cylinders for span calibration with double stage
+regulator (NH3,BTEX, H2 – Cylinder, 1 Set each, Capacity- 10ltr.
+1 SET
+1,48,00,000
+1,48,00,000
+PORTA CABIN SUITABLE FOR ZONE 2
+•
+MOC: SS316
+•
+Suitable for Zone 2
+•
+With Redundant HVAC & with Auto changeover unit
+•
+With insulation
+•
+With aluminum chequered plate flooring
+•
+With Double door and lock with lights
+•
+Dimensions: 3 M (L) X 3 M (W) X 2.7 M (H)
+•
+Completely wired and tubed to house the gas analyzer
+system.
+PC BASED DATA ACQUISITION SYSTEM
+•
+PC based Data Acquisition System with
+•
+License Software suitable for Storing, Logging, Reporting, Printing
+data, Validation and communicating with AAQMS system.
+•
+PC WITH SPECIFICATIONS
+•
+Make: HP/LENOVO/Eqv , Intel i3 Processor, 4 GB RAM, 500 GB
+HDD, CD/DVD Combo Drive, 19 ” TFT Monitor, Standard
+WINDOWS 10 latest Operating System, standard keyboard,
+mouse with pad.
+REMOVAL & DISMENTLING OF EXISTING SHELTER
+2
+CRITICAL SPARES (ALL ELECTRONIC BOARDS AND SENSORS)
+1 SET
+58,00,000
+58,00,000
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Inclusive of Lodging and boarding,To and fro charges
+2,50,000

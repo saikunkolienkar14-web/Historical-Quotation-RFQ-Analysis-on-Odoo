@@ -1,0 +1,94 @@
+Quotation Number: 2508G055
+BOQ Status: FOUND
+
+SUMMARY OF PRICES
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF SO2
+NOx FOR CEMS APPLICATION
+WITH GAS SAMPLING PROBE
+WITH SAMPLE HANDLING SYSTEM
+WITH CALIBARTION GAS CYLINDER
+WITH TOUCH SCREEN GRAPHIC COLOR DISPLAY
+WITH REMOTE CALIBRATION FACILITY
+WITH IP54 PANEL
+WITH MOCROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 NO
+FOR SULPHUR DIOXIDE (SO2) MEASUREMENT
+FOR NITRIC OXIDE (NO) MEASUREMENT
+MAKE: SIEMENS AG, GERMANY
+1 Set
+Rs.
+26,00,000
+Rs.
+26,00,000
+1.2
+PREFABRICATED HEAT TRACE TUBE
+FOR SAMPLE GAS TRANSPORTATION
+PORT SIZE: 1/4 “ PTFE TUBE
+POWER SUPPLY: 230 VAC, 50 Hz
+THERMON/THERMOPAD
+Per
+Meter
+Rs.5000
+/Meter
+Rs. 150000 for
+30 Meter
+3
+OPACITY MONITOR FOR MEASUREMENT OF DUST
+MAKE: SICK/DURAG/ENVEA
+MODEL : SICK SB30
+MODEL : ENVEA
+1 Set
+Rs. 8,00,000/-
+4
+INSTALLATION & COMMISSIONING CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mandays
+Rs. 40,000 /Manday
+Note : Power, Signal and Communication will be in scope of customer.
+5
+OPTIONAL
+DAS FOR DATA CONNECTIVITY
+BLACKBOX BASED DATA ACQUISITION SYSTEM
+INTERNET CONNECTION WILL BE
+MADE AVAILABLE BY CUSTOMER.
+FOR SEAMLESS AND CONTINUOUS DATA
+TRANSFER FROM PLANT TO GPCB/CPCB.
+REQUIRED COMMUNICATION CABLE &
+HARDWARE, POWER CABLE & SIGNAL CABLE IS IN
+CUSTOMER SCOPE
+1 Set
+Rs. 4,00,000/-
+SECTION 2: NOTE & SCOPE
+
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+
+Power cable, signal cable is in scope of customer.
+
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+
+We have mentioned Unit Rates for Heat Trace Tube for Sample Gas Transportation. Any Extra Tube would
+attract a price per meter.
+
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel shall be
+Provide by customer.
+
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+
+Power Supply: 230/110 VAC, 50 Hz (UPS) for analyzer.
+
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+
+Air conditioner room shall be provide to mount gas analyzer system.

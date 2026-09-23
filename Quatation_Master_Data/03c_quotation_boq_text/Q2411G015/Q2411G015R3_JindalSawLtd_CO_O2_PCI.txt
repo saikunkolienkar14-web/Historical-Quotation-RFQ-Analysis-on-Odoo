@@ -1,0 +1,118 @@
+Quotation Number: Q2411G015R3
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED ANALYSER FOR CO & O2 FOR COAL MILL
+INLET, OUTLET AND BAG FILTER OUTLET
+Make: AIROPTIC
+Model: GAS EYE
+Operating Principle: TDLAS
+Area Classification: Safe Area
+Mounting Location: Extractive type
+Component to be measured: CO/O2
+Laser Gas Analyser for Measurement of CO/O2
+•
+Loop Cable: 2 Mtrs
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+CO- 0- 8000 ppm
+•
+O2- 0-25%
+With Sample handling system consisting of:
+•
+With Single probe single scavenging system for 2 locations
+•
+With Solenoid valves
+•
+With Heated Flow Through Cell for Mounting of Laser
+Analyzers
+•
+With Aspirator Pump System for Extraction And drawing of
+sample gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+Utility requirement:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+230VAC, 50 Hz power supply
+(For Detailed Specification Kindly Refer to Attached P&ID)
+1 no
+Quoted
+Quoted
+2
+EXTRACTIVE LASER BASED ANALYSER FOR CO & O2 FOR COAL DUST
+BUNKER-1,2,3 AND BAG FILTER INLET
+Make: AIROPTIC
+Model: GAS EYE
+Operating Principle: TDLAS
+Area Classification: Safe Area
+Mounting Location: Extractive type
+Component to be measured: CO/O2
+Laser Gas Analyser for Measurement of CO/O2
+•
+Loop Cable: 2 Mtrs
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+CO- 0- 8000 ppm
+•
+O2- 0-25%
+With Sample handling system consisting of:
+•
+With Single probe single scavenging system for 3 locations
+•
+With Solenoid valves
+•
+With Heated Flow Through Cell for Mounting of Laser
+Analyzers
+•
+With Aspirator Pump System for Extraction And drawing of
+sample gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+Utility requirement:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+230VAC, 50 Hz power supply
+(For Detailed Specification Kindly Refer to Attached P&ID)
+1 no
+Quoted
+Quoted
+3
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+210 mtr
+(30 mtr
+x 7
+probes)
+Quoted
+Quoted
+4
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to be Arranged by Customer)
+Per
+diem
+@Quoted Per Diem

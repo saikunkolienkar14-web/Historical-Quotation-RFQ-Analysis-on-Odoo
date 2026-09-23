@@ -1,0 +1,135 @@
+Quotation Number: Commercial
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+INSITUE LASER BASED ANALYSER FOR HCL & HF
+MEASUREMENT
+MAKE: AIROPTIC
+MODEL: GAS EYE - MGMP
+OPERATING PRINCIPLE: TDLAS
+AREA CLASSIFICATION: SAFE AREA
+MOUNTING LOCATION: INSITUE TYPE
+COMPONENT TO BE MEASURED: AS BELOW
+LASER GAS ANALYSER FOR MEASUREMENT OF
+HCL/HF/CO/CH4/O2
+•
+LOOP CABLE: 5 MTRS
+•
+INGRESS PROTECTION: IP65
+HF: 0-50 MG/NM3
+HCL: 0-50 MG/NM3
+CO: 0-15000 PPMV
+CH4: 0-5000 PPMV
+O2: 0-20 VOL%
+Dust : 0-300-500mg/nm3
+AVAILABLE OUTPUTS:
+4 X ANALOG OUTPUT 4-20MA FOR MEASURING
+COMPONENT
+8 X DIGITAL OUTPUTS (PURGE FAIL).
+MODBUS RTU (OPTIONAL)
+UTILITIES:
+1 SET
+1,37,00,000/-
+1,37,00,000/-
+SUMMARY OF PRICES
+INSTRUMENTS AIR/ N2 @ 4-6 BAR NEAR THE PURGE
+PLATE.
+110VAC, 50 HZ POWER SUPPLY
+ANALYZER FEATURES:
+LOCAL USER INTERFACE: HUMAN MACHINE
+INTERFACE (HMI) LCD BACKLIGHT DISPLAY LOCATED
+ON THE TRANSMITTER HOUSING LID
+SELF-CALIBRATION FEATURES: INTERNAL REFERENCE
+GAS COMPARTMENT IS USED FOR CLOSED LOOP
+CONTROL OF THE ZERO AND SPAN DRIFT.
+2
+INSITUE LASER BASED ANALYSER FOR HCL & HF
+MEASUREMENT
+MAKE: AIROPTIC
+MODEL: GAS EYE - MGMP
+OPERATING PRINCIPLE: TDLAS
+AREA CLASSIFICATION: SAFE AREA
+MOUNTING LOCATION: INSITUE TYPE
+COMPONENT TO BE MEASURED: AS BELOW
+LASER GAS ANALYSER FOR MEASUREMENT OF
+HCL/HF/SO2/O2
+•
+LOOP CABLE: 5 MTRS
+•
+INGRESS PROTECTION: IP65
+HF: 0-50 MG/NM3
+HCL: 0-50 MG/NM3
+SO2 :0-20 %
+O2: 0-20 VOL%
+AVAILABLE OUTPUTS:
+4 X ANALOG OUTPUT 4-20MA FOR MEASURING
+COMPONENT
+8 X DIGITAL OUTPUTS (PURGE FAIL).
+MODBUS RTU (OPTIONAL)
+UTILITIES:
+1 SET
+1,19,00,000/-
+1,19,00,000/-
+INSTRUMENTS AIR/ N2 @ 4-6 BAR NEAR THE PURGE
+PLATE.
+110VAC, 50 HZ POWER SUPPLY
+ANALYZER FEATURES:
+LOCAL USER INTERFACE: HUMAN MACHINE
+INTERFACE (HMI) LCD BACKLIGHT DISPLAY LOCATED
+ON THE TRANSMITTER HOUSING LID
+SELF-CALIBRATION FEATURES: INTERNAL REFERENCE
+GAS COMPARTMENT IS USED FOR CLOSED LOOP
+CONTROL OF THE ZERO AND SPAN DRIFT.
+3
+INSTALLATION & COMMISSIONING CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+PER
+MANDAY
+S
+RS. 37,000.00/MANDAY
+Note : Power,Signal and Communication will be in scope of customer.
+Note : we had considered above prices as per Euro Rate 112, any increment in euro rates shall
+increase in percentage accordingly.
+Price Validity : 30 Days.
+TECHNICAL ADVANTAGES OF GAS ANALYSER
+Key features include:
+ In-situ principle, no gas sampling
+ Multiples Gases Measurement simultaneously
+ Temperature up to 1000 °C & More on requirement
+ Ex-version available (optional)
+ NO effect of measurement in presence of high moisture and
+dust
+ NO cross interference effect with any other gases present in
+the Sample
+ NO drift.....in built reference cell...Life time calibration free
+instrument.
+ NO moving parts....NO effect of vibration
+SECTION 2: NOTE & SCOPE
+
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+
+Power cable, signal cable is in scope of customer.
+
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+
+We have mentioned Unit Rates for Heat Trace Tube for Sample Gas Transportation. Any Extra Tube
+would attract a price per meter.
+
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging
+panel shall be Provide by customer.
+
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230/110 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+
+Air conditioner room shall be provide to mount gas analyzer system.

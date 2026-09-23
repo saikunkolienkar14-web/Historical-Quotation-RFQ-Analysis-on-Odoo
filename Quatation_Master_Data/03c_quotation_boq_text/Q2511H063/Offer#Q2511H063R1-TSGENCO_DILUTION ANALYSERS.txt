@@ -1,0 +1,45 @@
+Quotation Number: Q2511H063R1
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CO Analyzer
+• Based on CO detection by absorption of IR
+• 230 V, 50 Hz. power supply.
+• Measuring Range: Auto ranging 0-50 ppm
+• Lower Detection Limit: 0.05 ppm
+• Communication: Ethernet, USB
+• Make: ENVEA, Model: CO12e
+1 NO
+13,00,000
+13,00,000
+2
+ZERO AIR GENERATOR
+1 NO
+4,00,000
+4,00,000
+3
+GAS SAMPLE DILUTION PROBE
+1 NO
+12,00,000
+12,00,000
+4
+CRITICAL ORIFICE:100ML
+1 NO
+90,000
+90,000
+5
+UMBILICAL CORD
+@4900 PER METER
+6
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and fro
+charges to be claimed at actuals (ACII tier/flight)
+@30000 PER MAN DAY

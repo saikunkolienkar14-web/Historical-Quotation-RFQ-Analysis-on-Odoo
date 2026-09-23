@@ -1,0 +1,21 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Scope of Supply & Schedule of Rates (Detailed Technical Specification is as per attached Technical Sheet )
+S N
+Material Code/
+HSN Code
+Description
+Quantity
+UOM
+Per Unit Rate
+(INR)
+Total Amt (INR)
+1
+IOSA000237/
+90330000
+SAMPLE GAS PUMP
+Power Supply : 230 VAC, 50 Hz
+Flow Rate : 360 LPH
+Make : KNF, Germany
+Part No/Model No- 28708055

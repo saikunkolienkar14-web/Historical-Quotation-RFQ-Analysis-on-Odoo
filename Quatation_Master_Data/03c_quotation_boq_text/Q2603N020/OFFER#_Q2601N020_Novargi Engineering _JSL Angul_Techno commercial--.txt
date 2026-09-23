@@ -1,0 +1,66 @@
+Quotation Number: Q2603N020
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF H2S FOR PROCESS
+GAS HEATER PROJECT
+Make: AIROPTIC
+Model: GAS EYE
+Operating Principle: TDLS
+Component To Be Measured: H2S
+Measuring Range: H2S: 0-50 PPM
+Mounting Location: Extractive Type
+With Sample Handling System Consisting Of:
+• With heated flow through cell for mounting of laser analyzer
+• With aspirator pump system for extraction and drawing of sample
+gas .
+• Mounting of analyser on field rack
+Analyser Output:
+• 4-20 mA
+• Digital Output
+(For More Details, Please Refer The Bill Of Material Section)
+1 SET
+57,30,000
+57,30,000
+2
+SAMPLE GAS TRANSPORTATION TUBE
+Size:1/2”,MOC: PTFE
+@4,000 Per Meter
+3
+Supervision of Installation & Commissioning Charges
+(Boarding – Lodging – Local Conveyance, To And FRO Air Ticket/ Ac II
+Train Fare To Be Arranged By Customer)
+@ 30,000 Per Man Day
+NOTES:
+1.
+The quoted analyser system shall be mounted on a free-standing rack and not a panel/cabinet.
+2.
+HART output is not available. 4..20 mA analog output shall be available in the analyser system.
+3.
+The components shall be as per Adage vendor list .
+4.
+The output shall be available in the analyser system. Further transmission/connectivity along with the
+cables/hardware etc to the DCS /control room etc shall be in customer’ scope.
+5.
+We shall provide only one number H2S gas cylinder. Refilling shall be in customer’s scope.
+6.
+Commissioning spares shall be hand carried by the service engineer at the time of commissioning and is
+irrespective of any list. Please provide philosophy for mandatory spares or two years operational and
+maintenance spares if required
+7.
+Sample gas pump is not applicable for the quoted system.
+8.
+The output signals, alarms signals shall be available in the analyser system. Further
+transmission/connectivity along with the cables/hardware etc to the DCS/control room etc shall be in
+customer’ scope.
+9.
+The quoted analyser system shall be mounted on free standing rack. Hence Panel AC is not applicable.
+The customer to keep the Rack in the temperature-controlled room.
+10. MOC of the nameplates shall be traffolyte.
+11. We understand that the process is dust free, the system has been designed accordingly

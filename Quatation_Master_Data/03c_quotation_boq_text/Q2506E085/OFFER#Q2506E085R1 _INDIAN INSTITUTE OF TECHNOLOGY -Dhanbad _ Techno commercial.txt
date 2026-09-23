@@ -1,0 +1,113 @@
+Quotation Number: Q2506E085R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1A
+CALORIFIC VALUE ANALYSER
+MODEL: CWD
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+Calorific value: 20-40 MJ/m3
+Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump,
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack, MOC: CRCA.
+Analyser Specifications:
+• Kind of Gas: Biogas
+• Power supply 230V, 50 Hz
+• Power consumption: 185 VA
+Output:
+•
+4-20 mA analog output for Calorific value
+•
+Digital Output
+1 SET
+56,00,000
+56,00,000
+1B
+SAMPLE TRANSPORTATION TUBE
+MOC: SS ,Tube size: 1⁄2 ”
+15 Mtrs
+@750
+Per meter
+11,250
+1C
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket/ Ac Ii
+Train Fare To Be Arranged By Customer)
+@30,000 per Man day
+OPTIONAL
+2A
+GAS ANALYSER SYSTEM FOR BIOGAS APPLICATION FOR
+MEASUREMENT OF CH4, CO2, O2 & H2S
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+MODEL: INCA4001
+MAKE: UNION AG GERMANY
+ANALYZER SPECIFICATIONS:
+Multi-Gas Analyser INCA4001
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Oxygen (O2) (Measuring Principle: EC)
+Hydrogen Sulphide (H2S) (Measuring Principle: EC)
+•
+Kind of Gas: Biogas
+•
+Power supply 230VAC, 50 Hz
+•
+Max. Power consumption: 250 VA
+OUTPUT:
+•
+Modbus TCP/IP Output
+1 SET
+38,00,000
+38,00,000
+2B
+SAMPLE TUBE FOR GAS TRANSPORTATION
+MOC: SS ,Size: 1⁄4’’
+15 Mtrs
+@750 per
+meter
+11,250
+2C
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket/ Ac Ii
+Train Fare To Be Arranged By Customer)
+@30,000 per Man day
+•
+External Cabling, Tubing and All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customer’s Scope.
+•
+The quoted analyser Systems are for safe area and is to be placed in an air conditioned room.
+•
+Customer shall provide Instrument Air should be oil & moisture free @ 4-6 bar .
+•
+The analyser output will be available in panel. Further connectivity (hardware and software shall be in
+customer’s scope)
+•
+Power Supply Utilities required are:
+•
+Power Supply: 230 VAC, 50 Hz (UPS)
+230 VAC, 50 Hz (NON- UPS)

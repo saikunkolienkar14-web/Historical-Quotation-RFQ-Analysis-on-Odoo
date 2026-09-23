@@ -1,0 +1,29 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Defined terms used herein or anywhere else in this PO, together with their respective grammatical variations and cognate expressions, shall
+have the meanings specified herein:
+"Basic Price" means the amount payable by Buyer to Seller for purchase of Goods, including costs in respect of materials, consumables, tools
+and tackles, manufacturing, packing, forwarding, freight, loading and unloading charges, insurance charges, margin, overheads, applicable Taxes
+(except GST) and all other costs associated with Delivery, unless specified otherwise in STC.
+"Buyer" means the company specified in this PO, including its legal successors and assigns.
+"Defect" means any defect or damage to Goods on account of non-conformance of Goods with Specifications, including faulty design,
+engineering or workmanship of Goods affecting the ability of Goods to comply with Specifications.
+"Defect Liability Period" means the period set out in STC, during which Seller shall remain liable for all repairs or replacement of any Defects at
+its own cost and expense.
+"Delivery" means the loading, delivery and ancillary services to be performed by Seller or its representatives to deliver undamaged Goods at
+Delivery Point, in accordance with Delivery Term and as per other applicable conditions of this PO.
+"Delivery Point" means the location at which Goods shall be Delivered, as specified in STC.
+"Delivery Schedule" means the schedule for Delivery as set out in STC.
+"Delivery Term" means the delivery term, including any applicable Incoterm, for Delivery of Goods, as specified in STC.
+"Drawings" means all drawings in respect of Goods, furnished by Buyer or Seller and approved by Buyer in writing.
+"Effective Date" means the date of issuance of this PO by Buyer to Seller, unless otherwise specified in STC.
+"Force Majeure" means the occurrence of any event which is: (i) beyond the reasonable control of the affected Party; (ii) unavoidable,
+notwithstanding reasonable care by the affected Party; and (iii) not a result of the affected Party's negligence or failure to perform its
+obligations, and which has a direct, material and adverse effect upon the affected Party's ability to perform its obligations under this PO, and
+such events mean acts of God, earthquake, volcanic activity, fire, flood or other natural disasters, war, invasions, riots, terrorism, civil
+disturbances or embargos.
+"Goods" mean the goods, including spares, accessories, tools and tackles (as applicable) to be supplied by Seller as per the scope of work in
+terms of this PO, as specified in STC.
+"GST" means the applicable goods and services tax payable in terms of applicable law of India for the time being in effect, as applicable to
+supply of Goods under this PO.

@@ -1,0 +1,66 @@
+Quotation Number: Q26E10039
+BOQ Status: FOUND
+
+Description
+Qty
+Price (INR)
+1
+RVP ANALYZER
+Tag No: 024-AZT-0022
+Test Method: ASTM D323
+Make: Icon Scientific
+Model: Vapour Pressure
+Principle: Piston Expansion Principle
+Hazardous Area: Analyzer Suitable for Zone 1 IIB+H2 T4
+Range: 0-15 Psi
+IP rating: IP66
+Mounting: Inside Existing Shelter
+Analyser Ambient temperature: +5 to 40 °C
+With 17” Armored glass touch screen
+Sample Consumption: 1-5 LPH
+Analyzer Communication:
+-
+Output: 4-20 mA non-IS
+-
+RS 485 MODBUS & TCP/IP
+-
+Digital Alarm output: Available (6 Nos)
+-
+Industrial PC with 17” Armored glass touch screen integrated
+with analyzers.
+Utility Required:
+-
+Instrument Air @ 5-10 LPM
+-
+115/230VAC, 60 Hz Power supply, 500VA
+Notes:
+1. The existing Sample Handling System (SHS) shall be
+utilized with the installation of the new Analyzer
+2. Mounting arrangement for the new Analyzer shall be
+provided by Adage
+3. During commissioning, if any components of the existing
+Sample Handling System are found to be defective, the
+replacement of such parts shall be in IOCL’s scope.
+1 No
+1,38,90,000/-
+2
+Supervision of Installation and Commissioning
+Per Diem
+50,000/-
+SECTION 2: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+30 days.

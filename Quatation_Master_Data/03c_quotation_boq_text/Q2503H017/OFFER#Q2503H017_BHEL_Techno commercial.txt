@@ -1,0 +1,70 @@
+Quotation Number: Q2503H017
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+CALORIFIC VALUE ANALYSER- BFG+COG
+MODEL: CWD 2005
+MAKE: UNION AG GERMANY
+Area Classification: Safe Area
+Measuring Range:
+•
+Calorific value: 1190- 3000 Kcal/m3
+Primary Sample Handling System:
+•
+Pre-Sample Conditioning & Purification System for
+handling Impurities such as Tar, Naphthalene etc.
+Secondary Sample Handling System:
+•
+Sample Gas cooler, Sample gas Pump,
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Mounting Arrangement:
+•
+Shall be mounted on rack , MOC: CRCA.
+Analyser Specifications:
+Calorimeter Type CWD2005- for Measurement of Calorific Value
+•
+Kind of Gas: Mixed Gas (BFG+COG)
+•
+Power supply 230VAC, 50 Hz
+Output:
+•
+Individual 4-20 mA analog output for Calorific value
+•
+Digital Outputs
+4 SETS
+60,00,000
+2,40,00,000
+2
+PORTA CABIN FOR CALORIFIC VALUE ANALYSER
+MOC: CRCA
+With split ac – 1 no.
+With 50 mm thick insulation
+With aluminum chequered plate flooring
+Completely wired and tubed
+Dimension: to be decided during detailed engineering
+4 SETS
+8,50,000
+34,00,000
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+@ 3,950 PER METER
+4
+Service charges for supervision of installation & commissioning
+Lodging and boarding to be arranged by the customer. To and Fro
+charges to be claimed at actuals (ACII TIER/flight).
+@30,000 PER MAN DAY

@@ -1,0 +1,724 @@
+Quotation Number: QB22G12540_R9
+BOQ Status: FOUND
+
+Qty
+Description
+Total Price (INR)
+1
+40515-13206
+1 No.
+Dual Beam NIR O analyzer.
+Quoted
+1.1
+506-03-000006
+6 Nos.
+Model Development (Old Properties)
+1.2
+20788-10001
+1 No.
+Software – OmniView
+1.3
+11711-00021
+1 No.
+Software – Solo Predictor
+1.4
+45310-10001
+1 No.
+Stability Monitoring System
+1.5
+36100-00005
+1 No.
+Crate NIR-O Analyzer
+1.6
+405-02-002823
+2 Nos.
+Multi-Purpose Flow Cell (MPFC)
+Quoted
+1.7
+405-02-000362
+4 Nos.
+Ultra-Low OH Fiber Optic Cable (20
+mtrs)
+Quoted
+1.8
+12522-016rC
+# 1 No.
+O-Ring Kit For 10 mm Path 1Length
+NIR Multipurpose Flowcell
+Quoted
+1.9
+40611-10001
+# 1 Lot
+NIR-O Spare Part Assembly
+(Set of 8 Pc.)
+Quoted
+1.10 11711-00031
+1 No.
+Software- Solo
+Method development software
+package
+Quoted
+1.11
+-
+1 No
+Safe area Monitor mounted inside
+analyser house
+Quoted
+1.12
+BRS30 Switch
+1 No
+Ethernet to FO converter is
+considered along with required Patch
+cords at the PIB end.
+Quoted
+1.13
+-
+4 Nos
+Temperature Controller
+Quoted
+Notes:
+#: Mandatory Spares
+OPTION: 2 (NEW ANALYSER WITH ADDITION OF NEW PARAMETERS)
+Sr
+No
+Part No.
+Qty
+Description
+Total Price (INR)
+2
+40515-13206
+1 No.
+Dual Beam NIR O analyzer.
+Quoted
+2.1
+506-03-000006
+6 Nos
+Model Development (Old Properties)
+2.2
+506-03-000006
+12 Nos
+Model Development (New Properties)
+2.3
+20788-10001
+1 No.
+Software – OmniView
+2.4
+11711-00021
+1 No.
+Software – Solo Predictor
+2.5
+45310-10001
+1 No.
+Stability Monitoring System
+2.6
+36100-00005
+1 No.
+Crate NIR-O Analyzer
+2.7
+405-02-002823
+2 Nos.
+Multi-Purpose Flow Cell (MPFC)
+Quoted
+2.8
+405-02-000362
+4 Nos.
+Ultra-Low OH Fiber Optic Cable (20
+mtrs)
+Quoted
+2.9
+12522-016rC
+# 1 No.
+O-Ring Kit For 10 mm Path 1Length
+NIR Multipurpose Flowcell
+Quoted
+2.10 40611-10001
+# 1 Lot
+NIR-O Spare Part Assembly
+(Set of 8 Pc.)
+Quoted
+2.11 11711-00031
+2 Nos.
+Eigenvector Solo Software
+Quoted
+2.12
+-
+4 Days
+Model development training including
+NIR analyser interface (model
+loading, bias tuning etc.) training is
+essential on new software OMNI
+VIEW and” EIGENVECTOR” for 3-4
+Engineers
+Quoted
+2.13
+-
+1 No
+Safe area Monitor mounted inside
+analyser house
+Quoted
+2.14 BRS30 Switch
+1 No
+Ethernet to FO converter is
+considered along with required Patch
+cords at the PIB end.
+Quoted
+2.15
+-
+4 Nos
+## Temperature Controller
+Quoted
+2.16
+-
+Per
+Diem
+Per Diem Charges for Site Support
+for Model tuning
+Quoted
+Notes:
+1. #: Spares
+2. ## Part Number to be provided by RIL.
+Notes:
+Scope Matrix:
+1. Old Properties will be migrated into new analyser by OEM.
+2. Analyzer is configured for four streams. Existing SHS, flow cell and FO will be retained for all 4
+Streams.
+3. A minimum of 20 sample spectra along with the associated laboratory analyses must be
+submitted for each parameter with each request for off-site model maintenance.
+4. Residue, sulphur, H2S liquid phase and H2S vapor phase is not measured as this in not
+possible to realise using NIR. Cetane index is a calculated value. So, no NIR model is required.
+SECTION 2: SUMMARY OF PRICES FOR SERVICES
+1
+Supervision Of Installation & Commissioning Charges
+Quoted
+2
+Packing Forwarding And Transportation Charges
+Quoted
+3
+Project Documentation
+Quoted
+4
+Training Charges At Site For 2 Days
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+OPTION: 1 (NEW ANALYSER WITH OLD PARAMETERS)
+1
+NIR – O Analyzer
+Model: NIR-O
+Make: Process Insights (Guided Wave)
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2
+1 Set
+Quoted
+1
+Dual Beam NIR O analyzer.
+Area Classification: Certified, X- Purge, Zone 1 IIB+H2
+Controller (solid state) included Installed inside analyzer housing;
+ATEX Certified
+Number of Channels: 6
+Range: XNIR (1000-2100 nm)
+Power Supply: 110 VAC
+Temperature Management System
+Communication protocol: Modbus TCP/IP included
+Utility Details Required for Analyzer:
+110 VAC UPS: 2000 Watts
+Instrument air @5-6 kg/cm2g (Oil & water drop free)
+1 No
+Quoted
+1.1
+Model Upgradation for Measured Properties
+Sr
+No
+Existing
+Properties (Strm 1
+to Strm 3)
+Range
+Unit
+Normal
+1
+RVP @ 38 Deg C
+-
+-
+0.7
+2
+RON
+80 - 110
+OCT
+No.
+92
+3
+DIST @10%
+30 - 100
+°C
+50
+4
+DIST @50%
+70 - 150
+°C
+125
+5
+DIST @90%
+90 - 200
+°C
+150
+6
+ENDPOINT
+0 - 250
+°C
+215
+7
+RESIDUE (Not
+Measured)
+0 - 5
+%VOL
+2
+1 Lot
+Quoted
+1.2
+Software – OmniView
+Analyzer control software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+1.3
+Software – Solo Predictor
+Prediction Engine for calibration models developed in Solo.
+No method development software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+1.4
+Stability Monitoring System
+According to ASTM D6122
+Includes validation standard
+Installed inside NIR-O analyzer
+Uses one channel of NIR-O
+Real time monitoring of NIR-O performance
+1 No
+Quoted
+1.5
+Crate NIR-O Analyzer
+1 No
+Quoted
+1.6
+Multi-Purpose Flow Cell (MPFC)
+Body Material: Stainless Steel
+Range: 400-2100 nm
+SMA
+Kalrez 6375
+2 Nos
+Quoted
+1.7
+Ultra-Low OH Fiber Optic Cable
+Fiber Length: 20 meters
+Core Material: Fused Silica
+Core Diameter: 500 micron
+Connectors: SMA/SMA
+4 Nos
+Quoted
+1.8
+Kit O-Ring
+O-Ring Kit For 10 mm Path 1Length NIR Multipurpose Flowcell
+1 No
+Quoted
+1.9
+NIR-O Spare Part Assembly
+(Set of 8 Pcs.)
+1 No
+Quoted
+1.10 Software- Solo
+Method development software package
+1 No
+Quoted
+1.11 Safe area Monitor for Data check and configuration mounted
+in Analyser House.
+-
+Make: DELL / HP
+-
+Table Top Mount Type
+-
+Size: 24”
+-
+Ports. 2 x HDMI.
+-
+Power Supply: 230V, 50Hz
+-
+With Wireless Keyboard and Mouse
+1 No
+Quoted
+1.12 Ethernet to FO switch
+Make: Hirschmann
+Model: BOBCAT BRS30 Switch
+1 No
+Quoted
+1.13 Temperature Controller
+Make: Watlow / Eurotherm
+4 Nos
+Quoted
+OPTION: 2 (NEW ANALYSER WITH ADDITION OF NEW PARAMETERS)
+2
+NIR – O Analyzer
+Model: NIR-O
+Make: Process Insights (Guided Wave)
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2
+1 Set
+Quoted
+2
+Dual Beam NIR O analyzer.
+Area Classification: Certified, X- Purge, Zone 1 IIB+H2
+Controller (solid state) included Installed inside analyzer housing;
+ATEX Certified
+Number of Channels: 6
+Range: XNIR (1000-2100 nm)
+Power Supply: 110 VAC
+Temperature Management System
+Communication protocol: Modbus TCP/IP included
+MODBUS output for each parameter shall be available via RS485
+to DCS
+Incase migration accuracy (shall be as per respective ASTM
+standards) of old properties do not match in new analyzer, then
+RIL to provide spectra to OEM for review and fine tuning. Again,
+the updated spectra to be loaded in the analyzer by RIL. This will
+be repeated for a period of 3 months.
+New properties modeling and fine tuning to be done by RIL
+Utility Details Required for Analyzer:
+110 VAC UPS: 2000 Watts
+Instrument air @5-6 kg/cm2g (Oil & water drop free)
+1 No
+Quoted
+2.1
+&
+2.2
+Measured Properties (Stream 1 to Stream 3)
+Sr No
+Parameter
+Range
+Unit
+Normal
+Remarks
+1
+RVP @ 38 Deg
+C
+-
+-
+0.7
+Existing Property
+2
+RON
+80 - 110
+OCT
+No.
+92
+Existing Property
+3
+DIST @10%
+30 - 100
+°C
+50
+Existing Property
+4
+DIST @50%
+70 - 150
+°C
+125
+Existing Property
+5
+DIST @90%
+90 - 200
+°C
+150
+Existing Property
+6
+ENDPOINT
+0 - 250
+°C
+215
+Existing Property
+7
+RESIDUE
+0 - 5
+%VOL
+2
+Existing Property
+8
+RVP @ 38 Deg
+C
+35 - 90
+kPa
+60
+New Property
+9
+RON / MON
+80 - 100 /
+70 - 95
+Numb
+er
+92 / 82
+New Property
+10
+E 70 oC
+20 - 50
+%
+30
+New Property
+11
+E 100 oC
+30 - 100
+%
+60
+New Property
+12
+E 150 oC
+50 - 100
+%
+90
+New Property
+13
+E 180 oC / (FBP)
+60 - 100
+%
+95
+New Property
+14
+Benzene
+0 - 5
+%
+1
+New Property
+15
+Aromatics
+10 - 50
+%
+35
+New Property
+16
+Olifins
+5 - 50
+%
+20
+New Property
+17
+Sulphur (Not
+Measured)
+0 - 100
+ppmw
+9 (Limit) /
+10
+(Value)
+New Property
+18
+H2S (liquid
+Phase) (Not
+Measured)
+0 - 20
+ppm
+8 (Limit) /
+5 (Value)
+New Property
+19
+H2S (Vapour
+Phase)
+(Not Measured)
+0 - 500
+ppm
+7 (Limit) /
+20
+(Value)
+New Property
+20
+IBP
+0 - 50
+°C
+6 (Limit) /
+20
+(Value)
+New Property
+Measured Properties (Stream 4)
+Sr
+No
+Parameter
+Range
+Unit
+Normal
+Remarks
+1
+Cetane no
+45 - 60
+-
+New Property
+2
+FP
+30 - 90
+°C
+-
+New Property
+3
+Cetane index
+30 - 60
+-
+New Property
+4
+D95
+0 - 400
+-
+New Property
+Note: Base Library Model for New Properties will be supplied by Adage.
+2.3
+Software – OmniView
+Analyzer control software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+2.4
+Software – Solo Predictor
+Prediction Engine for calibration models developed in Solo.
+No method development software
+Pre-Installed on NIR-O controller
+1 No
+Quoted
+2.5
+Stability Monitoring System
+According to ASTM D6122
+Includes validation standard
+Installed inside NIR-O analyzer
+Uses one channel of NIR-O
+Real time monitoring of NIR-O performance
+1 No
+Quoted
+2.6
+Crate NIR-O Analyzer
+1 No
+Quoted
+2.7
+Multi-Purpose Flow Cell (MPFC)
+Body Material: Stainless Steel
+Range: 400-2100 nm
+SMA
+Kalrez 6375
+2 Nos
+Quoted
+2.8
+Ultra-Low OH Fiber Optic Cable
+Fiber Length: 20 meters
+Core Material: Fused Silica
+Core Diameter: 500 micron
+Connectors: SMA/SMA
+4 Nos
+Quoted
+2.9
+Kit O-Ring
+O-Ring Kit For 10 mm Path 1Length NIR Multipurpose Flow cell
+1 No
+Quoted
+2.10 NIR-O Spare Part Assembly
+(Set of 8 Pcs.)
+1 No
+Quoted
+2.11 Eigenvector Solo Software
+2 Nos
+Quoted
+2.12 Model development training including NIR analyser interface
+(model loading, bias tuning etc.) training is essential on new
+software OMNI VIEW and” EIGENVECTOR” for 3-4 Engineers
+4 Days
+Quoted
+2.13 Safe area Monitor for Data check and configuration mounted
+in Analyser House.
+-
+Make: DELL / HP
+-
+Table Top Mount Type
+-
+Size: 24”
+-
+Ports. 2 x HDMI.
+-
+Power Supply: 230V, 50Hz
+-
+With Wireless Keyboard and Mouse
+1 No
+Quoted
+2.14 Ethernet to FO switch
+Make: Hirschmann
+Model: BOBCAT BRS30 Switch
+1 No
+Quoted
+2.14 Temperature Controller
+Make: Watlow / Eurotherm
+4 Nos
+Quoted
+SECTION 4: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+6
+Supply of Mandatory spares- Quoted
+Yes
+7
+Consumables spares- Not Applicable
+-
+-
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+17
+Training at Site
+Yes
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN CODE
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 9 months from the date of receipt of PO
+Offer validity
+30 days.

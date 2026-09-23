@@ -1,0 +1,28 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Scope of Supply & Schedule of Rates (Detailed Technical Specification is as per attached Technical Sheet )
+S N
+Material Code/
+HSN Code
+Description
+Quantity
+UOM
+Per Unit Rate
+(INR)
+Total Amt (INR)
+1
+IOSA000239/
+90330000
+Automatic Condensate Removal Pump 24 VDC Flow Rate
+0.3 LPM for Siemens
+make SOX-NOX analyzer, model: Ultramat-23
+Adage part no. 28708026
+1.000
+NOS
+Discount
+%
+Packing & forwarding
+GST
+Others
+Total

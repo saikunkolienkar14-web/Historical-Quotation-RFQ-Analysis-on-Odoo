@@ -1,0 +1,35 @@
+Quotation Number: SQ2512E403
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR. NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+STACK_1_COAL_MILL
+1
+DATA LOGGER
+1
+2,25,000.00
+2,25,000.00
+2
+YEARLY DATA TRANSMISSION (APPLICABLE
+FROM THE SECOND YEAR ONWARD)- PER STACK
+1
+45,000.00
+45,000.00
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+•
+RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal cables for
+the same shall be in customer scope.
+•
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+•
+Internet for the data logger shall be made available at site by customer preferably broadband connection. Internet
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS)
+•
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

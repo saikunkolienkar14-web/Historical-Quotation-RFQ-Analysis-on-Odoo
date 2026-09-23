@@ -1,0 +1,53 @@
+Quotation Number: SQ2504X017
+BOQ Status: FOUND
+
+NO.
+DESCRIPTION
+UNIT PRICE
+[EUR]
+QUANTITY
+UoM
+TOTAL PRICE
+[EUR]
+1
+SERVICE CHARGES PER MAN-DAYS
+600
+1
+DAY
+600
+2
+LODGING, BOARDING & LOCAL
+CONVEYANCE
+100
+1
+DAY
+100
+SCOPE OF WORK:
+M/S Adage Engineer will check the following during Supervision & Commissioning visit.
+1. M/S Adage Representatives will check the loose materials according to BOM.
+2. Supervision of field tube laying from analyser panel to scavenging panel & scavenging panel to probe
+head for probes.
+3. Supervision of field tube connections in the respective junction boxes, properly insulated with insulation
+tapes and sealant to prevent it from rain.
+4. Supervision of SS tube connections for outer purging of probes.
+5. Supervision of all the external wiring connections from field to analyser panel.
+6. Leakage test of overall systems.
+7. Communication & Logic check of overall systems.
+8. Calibration of all the analysers.
+9. Commissioning of overall systems.
+SPECIAL NOTE:
+1.
+Any Operational/Critical Spares parts/ Consumable Spares found faulty in the sample handling
+system shall not be in M/s Adage Scope.
+2.
+Working time shall be as per industrial norms i.e., 8 hrs. per day.
+3.
+Above quoted price is for single visit considering 1 man days. Extra man days if consumed shall be
+charged accordingly.
+4.
+Supporting manpower required for lifting/shifting of material, housekeeping and other
+mechanical & electrical work shall be in customer scope.
+5.
+During the visit, the Quarantine Period (if any) of the Engineer shall be considered in total man
+hours of the visit and shall be chargeable as per Quoted price for per man day charges.
+COVID test (if any) charges shall be in customer scope.

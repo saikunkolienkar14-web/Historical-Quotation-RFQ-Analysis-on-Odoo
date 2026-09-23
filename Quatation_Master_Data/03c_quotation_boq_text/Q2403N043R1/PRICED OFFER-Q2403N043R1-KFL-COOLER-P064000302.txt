@@ -1,0 +1,28 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Scope of Supply & Schedule of Rates (Detailed Technical Specification is as per attached Technical Sheet )
+S N
+Material Code/
+HSN Code
+Description
+Quantity
+UOM
+Per Unit Rate
+(INR)
+Total Amt (INR)
+1
+IOSA18519001/
+Sample Gas Cooler (Dual Path)
+Make: Adage
+Model: AEGK01
+Serial no: A-1513
+Power supply: 230Vac, 50Hz
+Part no.: 18519001
+Service: Flue Gas
+Cooler sample gas temp: 75°C max
+Cooler O/L temp.: (-)5°C to 8.0°C adjustable
+NO. of sample coil: 2 NOS. separate chamber
+Sample coil material: SS 316/304
+Sample tube connection INLET /OUTLET: 6MM OD
+Sample gas flow: 50LPM

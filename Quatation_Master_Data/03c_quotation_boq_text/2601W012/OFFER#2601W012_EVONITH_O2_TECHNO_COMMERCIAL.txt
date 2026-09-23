@@ -1,0 +1,59 @@
+Quotation Number: 2601W012
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+EXTRACTIVE LASER BASED ANALYSER FOR MEASUREMENT OF
+O2
+Laser Gas Analyser for Measurement of O2
+MAKE: SIEMENS
+MODEL: SINTRAL SL
+Operating principle: TDLAS
+Component to be measured: O2
+Mounting location: Extractive type
+With Primary Sample handling system consisting of:
+•
+Pre-Sample Conditioning & Purification System for
+Single tapping system for handling Impurities such
+as Tar, Naphthalene etc.
+With Sample handling system consisting of:
+•
+With Flow Through Cell for Mounting of Laser
+Analyzer
+•
+With Aspirator Pump System for Extraction and
+Drawing of Sample Gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+4-20 mA
+•
+Digital output
+Utility requirement:
+•
+Plant Nitrogen @ 4-6 bar
+•
+230VAC, 50 Hz power supply
+1 Set
+32,00,000
+32,00,000
+2
+PREFABRICATED HEAT TRACED TUBE:
+Size: 1⁄2”
+MOC: SS
+Power Supply: 230 VAC
+INCLUSIVE OF 50 METERS HTT
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/
+AC II Train Fare To Be Arranged by Adage)
+@35000 PER MANDAY

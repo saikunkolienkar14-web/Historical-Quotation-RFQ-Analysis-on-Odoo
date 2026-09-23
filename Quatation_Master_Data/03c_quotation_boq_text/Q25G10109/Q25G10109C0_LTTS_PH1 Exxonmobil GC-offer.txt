@@ -1,0 +1,62 @@
+Quotation Number: Q25G10109C0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+1 No
+Gas Chromatograph with SHS System
+1,62,80,000/-
+1,62,80,000/-
+3
+1 Lot
+Design Engineering & Project Documentation
+9,40,000/-
+9,40,000/-
+3
+1 Lot
+FAT at Adage Works
+7,80,000/-
+7,80,000/-
+4
+1 Lot
+Packing & Forwarding
+2% of Basic PO Value
+5
+Per Diem Supervision of installation & commissioning
+2500 USD
+2500 USD
+# Currently we are unable to Quote our standard Mod 50 Valves for this application due to very low
+instrument air pressure at site. We have used Mod 20 & Mod 11 valves which operates at very low pressure
+but bigger in size.
+We can consider gas cylinder (air) with higher pressure so that Mod 50 valves can be used which is superior
+against Mod 20/Mod 11 valves. Customer to review & advice.
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+REVISION HISTORY
+Revision
+Date
+Description
+Q25G10109C0
+14.10.2025
+Commercial Offer inline with Technical offer Q25G10109T0
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL NOTES
+1. Hazardous area classification for GC and all other electrical equipment shall be ATEX II 2 G IIB
++ H2 T3
+2. All Field power and signal cable shall be in Customer’s scope
+3. Instrument air @5-7 Kg/cm2g shall be provided at existing analyser shelter.
+4. Existing PDB’s, JB’s (Analog signal JB, Digital signal JB, Digital signal JB), Headers shall be used
+at existing shelter.
+5. Serial output shall be terminated at existing communication JB at shelter end & further distribution
+upto DCS shall be used existing.
+6. Calibration blend with Cylinder pressure regulator & Carrier gas cylinders shall be in Customer’s

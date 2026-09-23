@@ -1,0 +1,82 @@
+Quotation Number: Q25W10215R4
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Moisture in EDC Analyser (Hastelloy wetted parts)
+Quoted
+Quoted
+2
+1 Lot
+Commissioning spares
+Set of filter, Set of Oring , Set of Fuses
+Quoted
+Quoted
+3
+1 No
+Design Engineering & Project Documentation
+Inclusive
+Inclusive
+4
+1 No
+FAT at Adage Works
+Inclusive
+Inclusive
+5
+1 No
+Packing, Forwading & Transportation upto Site
+charges
+Quoted
+Quoted
+6
+Lumpsum Supervision of installation & commissioning
+Quoted
+Quoted
+OPTIONALLY QUOTED
+1
+1 No
+Moisture in EDC Analyser (SS316 wetted parts)
+Op Quoted
+Op Quoted
+2
+Per
+Meter
+1⁄2’’ SS316 with PVC Jacketing
+Op Quoted
+Op Quoted
+3
+2 Years O&M Spares (As per Adage
+recommendation)
+FUSE KIT 2500F
+Kit, Cell Windows CaF2 Spare
+Scrubber Sachets, Hopcalite Spare
+Chopper Box PCB Assy
+Spare Display Window
+Spare Power Supply Unit
+I. R. SOURCE ASSEMBLY - CaF2
+Op Quoted
+Op Quoted
+4
+Price adder for Redundant Exproof AC
+(Single AC considered in base offer)
+Op Quoted
+Op Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. Design of Moisture in EDC (0-100ppm) required is quoted inline with our current order with RIL for
+VCM & EDC process package for similar application.
+2. Hazardous area classification for Analyser & all other electrical equipment shall be Zone 2 llC
+T3
+3. All Makes shall be as per RIL Approved vendor list.
+4. Standard power and signal cables upto battery limit of Analyser cabinet by RIL. Further internal

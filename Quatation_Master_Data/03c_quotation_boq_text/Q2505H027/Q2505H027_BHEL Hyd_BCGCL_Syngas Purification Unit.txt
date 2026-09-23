@@ -1,0 +1,407 @@
+Quotation Number: Q2505H027
+BOQ Status: FOUND
+
+SECTION 1: PRICE SUMMARY
+Sl No
+Description
+Qty
+UOM
+Unit Price (in INR) Final Price (in INR)
+1
+Gas Analyser System for CO2 Measurement-
+12AT2001
+1
+Nos
+₹ 55,00,000.00 ₹ 55,00,000.00
+2
+Gas Analyser System for CO2 Measurement-
+13AT6610
+1
+Nos
+₹ 54,00,000.00 ₹ 54,00,000.00
+3
+Gas Analyser System for CO & H2
+Measurement- 19AT6690A & 19AT6690B
+1
+Nos
+₹ 91,00,000.00 ₹ 91,00,000.00
+4
+Gas Analyser System for CO2 Measurement-
+19AT6630
+1
+Nos
+₹ 54,00,000.00 ₹ 54,00,000.00
+5
+Gas Analyser System for H2S & COS
+Measurement- 13AT6611 & 13AT6800
+2
+Nos
+₹ 2,69,00,000.00 ₹ 5,38,00,000.00
+6
+Liquid Analyser System for pH, Conductivity
+1
+Nos
+₹ 17,50,000.00 ₹ 17,50,000.00
+7
+Analyser Shelter-8 x 3 x 3 m
+1
+Nos
+₹ 1,66,00,000.00 ₹ 1,66,00,000.00
+8
+Heated Sample Line- 1/4"SS316- Simplex
+1
+Per Mtr
+₹ 4,500.00 ₹ 4,500.00
+9
+Heated Sample Line- 1/4"SS316- Duplex
+1
+Per Mtr
+₹ 10,500.00 ₹ 10,500.00
+10
+Sample Line- 1/4" SS316
+1
+Per Mtr
+₹ 800.00 ₹ 800.00
+11
+Supervision of Installation and commissioning
+1
+Per Diem
+₹ 45,000.00 ₹ 45,000.00
+Sr.
+No.
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CO2 MEASUREMENT
+Tag No: 12AT2001
+Service: Syngas
+Make: Sick/Siemens
+Operating Principle: IR
+Area Classification: Suitable to Zone 2
+Mounting Location: Inside Temperature controlled room
+Measuring Range:
+•
+CO2: 0-100 %
+Process Conditions at Sample Inlet:
+•
+Pressure: 29 bar g
+•
+Temperature: 280 Deg C
+•
+Process Line size: To be provided by customer
+With Sample handling system consisting of:
+•
+With probe, valves, regulators, filters, flowmeters, etc
+•
+For details, refer to section 4 for the BOM & P&ID
+Analyser Outputs:
+•
+4-20 mA Analog Output
+•
+Digital Outputs
+Notes:
+•
+Shall be mounted inside temperature controlled room
+1 Set
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR CO2 MEASUREMENT
+Tag No: 13AT6610
+Service: Purified Syngas
+Make: Sick/Siemens
+Operating Principle: IR
+Area Classification: Suitable to Zone 2
+Mounting Location: Inside Shelter
+Measuring Range:
+•
+CO2: 0-50ppm
+Process Conditions at Sample Inlet:
+•
+Pressure: 22 bar g
+•
+Temperature: 65/-70 Deg C
+•
+Process Line size: To be provided by customer
+With Sample handling system consisting of:
+•
+With probe, valves, regulators, filters, flowmeters, etc
+•
+For details, refer to section 4 for the BOM & P&ID
+Analyser Outputs:
+•
+4-20 mA Analog Output
+•
+Digital Outputs
+1 Set
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM FOR CO & H2 MEASUREMENT
+Mounting Location: Inside Shelter
+Measuring Range:
+•
+CO: 0-10ppm
+•
+H2: 0-100%
+Process Conditions at Sample Inlet:
+•
+Pressure: 22 bar g
+•
+Temperature: 65 Deg C
+•
+Process Line size: To be provided by customer
+With Sample handling system consisting of:
+•
+With probe, valves, regulators, filters, flowmeters, etc
+•
+For details, refer to section 4 for the BOM & P&ID
+Analyser Outputs:
+•
+4-20 mA Analog Output
+•
+Digital Outputs
+1 Set
+QUOTED
+QUOTED
+Tag No:
+19AT6690A
+& B
+Service:
+Purified Syngas
+Make:
+Sick/Siemens
+Operating Principle:
+IR
+& TCD
+Area Classification:
+Suitable to
+Zone
+2
+4
+GAS ANALYSER SYSTEM FOR CO2 MEASUREMENT
+Tag No: 19AT6630
+Service: Purified Syngas
+Make: Sick/Siemens
+Operating Principle: IR
+Area Classification: Suitable to Zone 2
+Mounting Location: Inside Temperature controlled room
+Measuring Range:
+•
+CO2: 0-2ppm
+Process Conditions at Sample Inlet:
+•
+Pressure: 22 bar g
+•
+Temperature: 65/-70 Deg C
+•
+Process Line size: To be provided by customer
+With Sample handling system consisting of:
+•
+With probe, valves, regulators, filters, flowmeters, etc
+•
+For details, refer to section 4 for the BOM & P&ID
+Analyser Outputs:
+•
+4-20 mA Analog Output
+•
+Digital Outputs
+Notes:
+•
+Shall be mounted inside temperature controlled room
+1 Set
+QUOTED
+QUOTED
+5
+GAS ANALYSER SYSTEM FOR H2S/COS MEASUREMENT
+Tag No: 13AT6611 & 13AT6800
+Make: AMETEK
+Model: 932 Multi-Gas Analyzer
+Operating Principle: Multiple wavelength,Non dispersive UV/VIS
+Component to be measured : H2S , COS
+Area Classification: Suitable to Zone 2
+Mounting Location: Inside Shelter
+Process Conditions at Sample Inlet:
+Sl
+No
+Service
+Process
+Temp
+(in Deg C)
+Process Pressure
+(in Bar g)
+Process Pipe
+Size(ID/OD)
+1
+Purified Syngas
+65 / -45
+22
+To be provided by
+customer
+2
+CO2 Product
+65
+3.5
+To be provided by
+customer
+With Sample handling system consisting of:
+•
+With probe
+•
+With necessary tubing (duplex type)
+•
+With Manual calibration facility with ball valves
+•
+For details, refer to section 4 for the BOM & P&ID
+Analyzer Specifications:
+•
+Accuracy: ±1.0% full-scale of standard ranges
+•
+Linearity: Better than ±1% of full scale
+•
+Repeatability: Better than ±0.5% of full scale range
+•
+Zero drift: Better than 2% of full-scale range, with auto zero disabled, over 24-hour
+period
+•
+Response time: < 30 Seconds
+•
+Ambient temperature: Rated up to 50 Deg C.
+•
+Analyzer Enclosure material: SS304
+•
+Physical dimensions (W x H x D) of Analyser - 1185 x 780 x 254 mm
+•
+Weight – 145 Kg
+Analyser Outputs:
+•
+4-20 mA Analog Output
+•
+Digital Outputs
+•
+RS-485
+2 Sets
+QUOTED
+QUOTED
+6
+LIQUID ANALYSER SYSTEM FOR CO2 MEASUREMENT
+Tag No: 8001AT0060A & 8001AT0060
+Service: Boiler Feed Water
+Make: E&H/Forbes Marshall/Emerson
+Area Classification: Suitable to Zone 2
+Mounting Location: Inside Shelter
+Measuring Range:
+•
+pH: 5-12
+•
+Conductivity: 0-50 μS/cm
+Process Conditions at Sample Inlet:
+•
+Pressure: 3.5 / -1.0 bar g
+•
+Temperature: 160 Deg C
+•
+Process Line size: To be provided by customer
+With Necessary Sample handling system
+Analyser Outputs:
+•
+4-20 mA HART Analog Output
+Notes:
+•
+Shall be mounted inside temperature controlled room
+1 Set
+QUOTED
+QUOTED
+7
+ANALYSER SHELTER WITH HVAC AND ACCESSORIES
+Size: 8 mtrs x 3 mtrs x 2.8 mtrs (L x W x H)
+Make: Adage
+Outside Area Classification: Zone 2 Gas Group IIC
+Inside Area Classification: Zone 1 Gas Group IIC
+Analyzer House Design & Construction Details:
+1 No
+QUOTED
+QUOTED
+7.1
+ACCESSORIES AS BELOWS:
+Panic Bar
+Emergency button push alarm
+Necessary Gas Detectors
+Safe Guarding PLC mounted inside purged box
+Warning Panels and Distribution boxes
+Fire Extinguisher
+1 lot
+INCLUSIVE
+in Sl no 7
+INCLUSIVE
+in Sl no 7
+8
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION-SIMPLEX
+MOC: SS316
+Tube size: 1⁄4”
+With all necessary accessories and JB’S suitable to Zone 2
+Per mtr
+QUOTED PER MTR
+•
+MOC
+–
+SS316 without paint.
+•
+Houses shall be rainproof and dustproof and shall be designed to withstand the
+environmental conditions.
+•
+House interior shall be large enough to allow adequate access and Space for
+maintenance and repair activities.
+•
+House outer sheet MOC: SS316
+1.5mm thick
+•
+House inner sheet MOC: SS316 1.5mm thick
+•
+Base frame-Fabricated from MC 200mmx75mmx10mm (min.), structural
+carbon steel channel or I-beam, fully welded, Painted with zinc rich primer and
+PU topcoat for corrosion protection.
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation:
+Rockwool
+•
+Insulation Thickness shall
+be
+50mm
+•
+Overhang canopy: 1000 mm SS316 all four sides of the House
+•
+Cable entry to be provided in House through MCT block with 50% extra space
+for cables.
+•
+Tube entry to be provided in House through bulkhead plate
+•
+With HVAC
+•
+With Chemical Filters
+9
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION-DUPLEX
+MOC: SS316
+Tube size: 1⁄4”
+With all necessary accessories and JB’S suitable to Zone 2
+Per mtr
+QUOTED PER MTR
+10
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS316
+Tube size: 1⁄4”
+Per mtr
+QUOTED PER MTR
+11
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II
+Train Fare to be arranged by Customer)
+Per
+Diem
+QUOTED PER DIEM

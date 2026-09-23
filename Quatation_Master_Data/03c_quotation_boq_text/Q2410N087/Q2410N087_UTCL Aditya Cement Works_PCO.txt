@@ -1,0 +1,68 @@
+Quotation Number: Q2410N087
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR PRE-CALCINER OUTLET
+Service: Pre-Calciner Outlet
+Make: Siemens
+Model: ULTRAMAT23 x 1 Nos
+Principle: NDIR
+Component to be measured : CO
+Model: OXYMAT61 x 1 Nos
+Principle: Paramagnetic
+Component to be measured : O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Overview:
+•
+With Closed Loop Water Cooled Probe
+•
+Probe Length – 3 Meters
+•
+With Electric based Retraction System
+•
+With Scavenging Box for Dual Stage Auto Probe
+Cleaning
+•
+With Sample Handling System
+•
+With IP54 Panel
+•
+With Touch Screen Graphic Color Display – 7“
+•
+With Calibration Gas Cylinders
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+Utility requirement:
+•
+230 VAC, 50 Hz UPS & Non UPS Power Supply
+•
+Plant Nitrogen @ 4-6 bar near field rack
+3 Nos.
+37,00,000/-
+1,11,00,000/-
+2
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+3 x 100 mtrs
+750/-
+2,25,000/-
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air
+Ticket/ AC II Train Fare to Be Arranged by Customer)
+PER DIEM
+@30,000/- PER DIEM

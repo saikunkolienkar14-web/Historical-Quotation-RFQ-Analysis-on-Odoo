@@ -1,0 +1,226 @@
+Quotation Number: Q2602C007R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl No
+Description
+Qty
+UOM
+Unit Price (in INR)
+Final Price (in INR)
+1
+GAS ANALYSER SYSTEM FOR CH4 &
+NH3 MEASUREMENT
+1
+Nos
+₹ 36,81,000.00
+₹ 36,81,000.00
+2
+GAS ANALYSER SYSTEM FOR H2
+MEASUREMENT
+1
+Nos
+₹ 19,53,000.00
+₹ 19,53,000.00
+3
+GAS ANALYSER SYSTEM FOR NH3
+MEASUREMENT
+1
+Nos
+₹ 24,32,500.00
+₹ 24,32,500.00
+4
+LIQUID ANALYSER SYSTEM FOR
+CONDUCTIVITY MEASUREMENT
+4
+Nos
+₹ 15,75,500.00
+₹ 63,02,000.00
+5
+SAMPLE TUBE FOR SAMPLE GAS
+TRANSPORTATION
+1
+Per Mtr
+₹ 750.00 ₹ 750.00
+6
+SPARES
+1
+Lot
+₹ 60,00,000.00
+₹ 60,00,000.00
+7
+SUPERVISION OF INSTALLATION AND
+COMMISIONING
+1
+Per Diem
+₹ 45,000.00 ₹ 45,000.00
+Sr.
+No.
+Description
+Qty
+Unit
+Price
+(INR)
+Total
+Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CH4 & NH3 MEASUREMENT
+Tag No: AT-7431/7433
+Service: Synthesis gas from E 7404 1/2 to E 7405
+Make: Siemens
+Model: ULTRAMAT6E
+Operating Principle: NDIR
+Area Classification: Safe Area
+No of Streams: 3 (3140/3120/3145)
+Mounting Location: 19” rack unit mounted inside Panel
+Process Conditions at Sample Inlet:
+•
+Pressure (Min/Max): 158.9/210bar g
+•
+Temperature (Nor/Design): 82/200 Deg C
+•
+Line Size: 12” (300mm)
+Measuring Range:
+•
+CH4: 0-2/10%
+•
+NH3: 0-3/30%
+With Sample Conditioning System:
+•
+With Steam Jacketed Probe and Tubing
+•
+With Primary Panel consisting of Steam heated Pressure
+Regulator
+•
+With Secondary Panel IP54 consisting of flowmeters, Safety
+Relief Valves, Filters, Automatic stream selection SOVs
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+1 No
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR H2 MEASUREMENT
+Tag No: AT-7432
+Service: Synthesis gas from E 7405 to E 7406
+Make: Siemens
+Model: CALOMAT6E
+Operating Principle: TCD
+Area Classification: Safe Area
+No of Streams: 3 (3140/3120/3145)
+Mounting Location: 19” rack unit mounted inside Panel
+Process Conditions at Sample Inlet:
+•
+Pressure (Min/Max): 158.9/210bar g
+•
+Temperature (Nor/Design): 82/200 Deg C
+•
+Line Size: 12” (300mm)
+Measuring Range:
+•
+H2: 0-1/100%
+With Sample Conditioning System:
+•
+With Manually welded probe
+•
+With Primary Panel consisting of Pressure Regulator
+•
+With Secondary IP54 Panel consisting of flowmeters, Safety
+Relief Valves, Filters, Automatic stream selection SOVs
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+1 No
+QUOTED
+QUOTED
+3
+GAS ANALYSER SYSTEM FOR NH3 MEASUREMENT
+Tag No: AT-7451
+Service: NH3 in Synthesis Gas from D 7402 to BL
+Make: Siemens
+Model: ULTRAMAT6E
+Operating Principle: NDIR
+Area Classification: Safe Area
+No of Streams: 1 (3160)
+Mounting Location: 19” rack unit mounted inside Panel
+Process Conditions at Sample Inlet:
+•
+Pressure (Min/Max): 157.9/210bar g
+•
+Temperature (Nor/Design): 4/100 Deg C
+•
+Line Size: 12” (300mm)
+Measuring Range:
+•
+NH3: 0-1/10%
+With Sample Conditioning System:
+•
+With Steam Jacketed Probe and tubing
+•
+With Primary Panel consisting of Steam heated Pressure
+Regulator
+•
+With Secondary IP54 Panel consisting of flowmeters, Safety
+Relief Valves, Filters
+•
+Refer to detailed BOM provided in section 4
+Analyser Outputs:
+•
+Digital Outputs
+•
+4-20mA Analog Outputs
+1 No
+QUOTED
+QUOTED
+4
+CONDUCTIVITY MEASUREMENT ANALYSER SYSTEM
+Tag No: AT-7451
+Service: NH3 in Synthesis Gas from D 7402 to BL
+Make: E&H/Forbes Marshall/Emerson/Equivalent
+Area Classification: Zone 2, IIC, T3
+No of Streams: 1
+Mounting Location: 19” rack unit mounted inside Panel
+Measuring Ranges:
+•
+Conductivity: 0-2500 μS/cm
+With Sample handling system
+Analyser Outputs:
+•
+4-20 mA
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+4 Nos
+QUOTED
+QUOTED
+5
+SAMPLE TUBE FOR TRANSPORTATION
+MOC: SS
+Size: 1⁄4”
+PER METER
+QUOTED
+QUOTED
+6
+SPARES
+Spare parts shall be inline with annexure 5 (Spare parts requirement)
+of Instrumentation design basis DOC NO. :37061-74-INS-DB-
+0001.
+1 LOT
+QUOTED
+QUOTED
+7
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare/AC
+II train is to be arranged by customer)
+PER DIEM
+@QUOTED PER
+DIEM

@@ -1,0 +1,16 @@
+Quotation Number: SQ2601W005
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+Sr. No.
+Description
+Part No
+QTY
+Unit Price
+Total Price
+1
+Opto Module for HCL - LDS 6
+A5E02466670026
+01
+15,33,300.00
+15,33,300.00

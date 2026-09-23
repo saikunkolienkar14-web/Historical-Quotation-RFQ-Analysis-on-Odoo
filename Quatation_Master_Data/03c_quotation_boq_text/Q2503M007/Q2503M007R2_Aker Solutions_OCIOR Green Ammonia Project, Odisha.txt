@@ -1,0 +1,336 @@
+Quotation Number: Q2503M007R2
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM USING A MASS SPECTROMETER
+Tag No: 401-AT-1000
+Make: Extrel
+Model: MAX300 RTG 2.0
+Operating Principle: Quadrupole Mass Filter
+Area Classification: Suitable to II 3 G Ex db ib mb nA nC pzc IIC T3 Gc Tamb:-20°C to
+50°C
+Mounting Location: Free standing in Existing Analyser Shelter
+Process Conditions at Sample Inlet:
+Tag No- AT-1000
+Sl No
+Stream No
+Pressure (bar g)
+Temperature (Deg C)
+Service
+Normal Design
+Normal
+Design
+1
+AE-1002
+14.5
+36
+46.9
+80
+150-D TO 103-J
+2
+AE-1013
+144.4
+158
+65.4
+100
+103-J TO 121-C
+3
+AE-1022
+139.3
+158
+82.3
+150
+121-C TO 124-C
+Analyser Outputs:
+• MODBUS TCP/IP
+1 Set
+QUOTED
+QUOTED
+1.1
+Sample Probe
+3 Nos
+1.2
+Pre-Conditioning System
+3 Nos
+1.3
+Secondary Sampling System
+Mounted inside a common cabinet. For details refer to section 4 for BOM and P&ID
+1 Lot
+2
+GAS ANALYSER SYSTEM FOR H2O & O2 MEASURMENT
+Service: SG FROM SYNGAS COMPRESSOR SUCTION DRUM 150-D TO SG
+COMPRESSOR 103-J
+Tag No: 401-AT-1007 & 401-AT-1003
+Make: Airoptic/Equivalent
+Component to be measured: H2O & O2
+Operating Principle: TDLS
+Area Classification: Suitable to Zone 2, IIC, T6, Ex p
+Mounting Location: Rack mounted inside existing Shelter
+Process Conditions at Sample Inlet:
+•
+Pressure (Normal/Design): 14.5/36 kg/cm2g
+•
+Temperature(Normal/Design): 46.9/80 Deg C
+Measuring Range:
+• O2: 0 – 10ppmv
+• H2O: 0-10ppmv
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+QUOTED
+QUOTED
+2.1
+Sample Probe
+1 No
+2.2
+Pre-Conditioning System
+1 No
+2.3
+Secondary Sampling System
+Refer to section 4 for BOM and Scheme
+1 No
+3
+LIQUID ANALYSER SYSTEM
+Analyzer Output:
+• 4-20 mA Analog Output
+1 Set
+QUOTED
+QUOTED
+Tagwise details
+Tag Number
+Area Classification
+Range
+Measuring
+System
+Quantity
+Mounting
+406-AT-3601
+Suitable to Zone 2
+0 - 1 MG/L
+FRC
+1
+Common Rack
+Mounting In
+Field
+406-AT-3701
+Suitable to Zone 2
+0 - 14
+PH
+1
+407-AT-3001
+Safe Area
+0 - 14
+PH
+1
+Rack
+Mounting In
+Field
+407-AT-2501
+Safe Area
+0 - 1 MG/L
+FRC
+1
+Rack
+Mounting In
+Field
+400-AT-5903
+Safe Area
+0 - 750 μS/CM
+CONDUCTIVITY
+1
+Common Rack
+Mounting In
+Field
+400-AT-5901
+Safe Area
+0 - 14
+PH
+1
+400-AT-5902
+Safe Area
+0 - 120 MG/L
+TSS
+1
+401-AT-1019
+Suitable to Zone 2
+0 - 4 μS/CM
+CONDUCTIVITY
+1
+Rack Mounted
+in field
+401-AT-1015
+Suitable to Zone 2
+0 - 3 μS/CM
+CONDUCTIVITY
+1
+401-AT-1051
+Suitable to Zone 2
+0 - 4 μS/CM
+CONDUCTIVITY
+1
+401-AT-1050
+Suitable to Zone 2
+0 - 120 μS/CM
+CONDUCTIVITY
+1
+401-AT-1005
+Suitable to Zone 2
+2-12
+PH
+1
+401-AT-1006
+Suitable to Zone 2
+2-12
+PH
+1
+Make and Model Details
+Tag Number
+Measuring System
+Make
+Sensor
+Transmitter
+406-AT-3601
+FRC
+Emerson/Forbes Marshall
+499ACL-01/FMRCS-2
+1066-CL-HT/Aqua4Trans
+406-AT-3701
+PH
+Forbes Marshall
+FM1106P
+Aqua4Trans
+407-AT-3001
+PH
+Forbes Marshall
+Polilyte Plus PHI S8 120
+Aqua4Trans
+407-AT-2501
+FRC
+Emerson/Forbes Marshall
+499ACL-01/FMRCS-2
+1066-CL-HT/Aqua4Trans
+400-AT-5903
+CONDUCTIVITY
+Forbes Marshall
+FM8311
+Aqua4Trans
+400-AT-5901
+PH
+Forbes Marshall
+FM1106P
+Aqua4Trans
+400-AT-5902
+TSS
+Forbes Marshall
+FMTCS-1000
+Aqua4Trans
+401-AT-1019
+CONDUCTIVITY
+Forbes Marshall
+831X
+AQUA2TRANS
+401-AT-1015
+CONDUCTIVITY
+Forbes Marshall
+831X
+AQUA2TRANS
+401-AT-1051
+CONDUCTIVITY
+Forbes Marshall
+831X
+AQUA2TRANS
+401-AT-1050
+CONDUCTIVITY
+Forbes Marshall
+831X
+AQUA2TRANS
+401-AT-1005
+PH
+Forbes Marshall
+FM 1104
+AQUA2TRANS
+401-AT-1006
+PH
+Forbes Marshall
+FM 1104
+AQUA2TRANS
+4
+ANALYSER SHELTER WITH HVAC AND ACCESSORIES
+Size: 6 mtrs x 3 mtrs x 2.8 mtrs (L x W x H)
+Make: Adage
+Outside Area Classification: Zone 2 Gas Group IIC
+Inside Area Classification: Zone 2 Gas Group IIC
+Analyzer House Design & Construction Details:
+•
+MOC – CRCA without paint.
+•
+Houses shall be rainproof and dustproof and shall be designed to withstand the environmental conditions.
+•
+House interior shall be large enough to allow adequate access and Space for maintenance and repair activities.
+•
+House outer sheet MOC: CRCA 1.5mm thick
+•
+House inner sheet MOC: CRCA 1.5mm thick
+•
+Base frame-Fabricated from MC 200mmx75mmx10mm (min.), structural carbon steel channel or I-beam, fully welded,
+Painted with zinc rich primer and PU topcoat for corrosion protection.
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation: PUF (polyurethane (40-kg/m3 minimum density))
+•
+Insulation Thickness shall be 50mm
+•
+Doors- 1 Main + 1 Emergency (outward opening)
+•
+Overhang canopy: 1000 mm CRCA all four sides of the House
+•
+Cable entry to be provided in House through MCT block with 50% extra space for cables.
+•
+Tube entry to be provided in House through bulkhead plate
+•
+With redundant HVAC (1W + 1S)
+4.1
+ACCESSORIES AS BELOWS:
+Flammable Gas Detector
+Smoke Detector
+Manual Call Point (MCP)
+Beacons & Hooters – Audible/visual alarms for local indication
+Fire Alarm Panel / Annunciator Panel – Local indication panel
+Potential-Free Alarm Contacts – For remote signaling to Owner’s FGS/DCS
+Oxygen Deficiency Alarm
+5
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS316
+Tube size: 1⁄4”
+Per mtr
+@QUOTED PER MTR
+6
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II
+Train Fare to be arranged by Customer)
+Per Diem
+@QUOTED PER MTR
+7
+AMC FOR 2 YEARS
+LUMPSUM
+QUOTED
+8
+TRAINING CHARGES
+LUMPSUM
+QUOTED
+9
+LIST OF MANDATORY SPARES
+1 LOT
+QUOTED
+10
+LIST OF 2 YEAR RECOMMENDED SPARES
+1 LOT
+QUOTED

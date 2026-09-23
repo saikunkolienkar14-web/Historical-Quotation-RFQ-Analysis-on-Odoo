@@ -1,0 +1,10 @@
+Quotation Number: Q25S10095R1
+BOQ Status: FOUND
+
+1. All Field power and signal cable shall be in RIL scope of supply.
+2. GC & all Electrical equipment shall be rated to Zone 2 llB+H2 T3.
+3. Instrument air @5-7 Kg/cm2g shall be provided at existing analyser shelter & at Analyser cabinet.
+4. AT 328106 & AT 328107 GC’s shall be mounted inside existing shelter with PDB,
+JB’s(ASJB,DSJB,CSJB), headers shall be used existing.
+5. 4-20Ma hardwire AO output & Serial output shall be terminated at Analog signal JB &
+Communication JB at shelter/cabinet side, further distribution through FO cable shall be in MRPL

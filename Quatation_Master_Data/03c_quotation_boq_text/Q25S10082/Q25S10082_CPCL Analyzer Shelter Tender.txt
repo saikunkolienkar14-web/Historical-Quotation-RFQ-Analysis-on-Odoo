@@ -1,0 +1,180 @@
+Quotation Number: Q25S10082
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price (INR)
+1
+8426910748
+Analyser Shelter with HVAC (3x3x3mtrs)
+1
+Quoted
+2
+8426910758
+Analyser Shelter with HVAC (6x3x3mtrs)
+1
+Quoted
+3
+-
+PWCAMC for 1st Year
+1
+Quoted
+4
+-
+PWCAMC for 2nd Year
+1
+Quoted
+5
+-
+PWCAMC for 3rd Year
+1
+Quoted
+6
+-
+PWCAMC for 4th Year
+1
+Quoted
+7
+-
+PWCAMC for 5th Year
+1
+Quoted
+8
+-
+PWCAMC for 6th Year
+1
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+Item Code: 8426910748
+Analyzer Shelter (Analyzer Room)
+Make: ADAGE
+Area Classification: Zone 1 IIC T3
+- Dimensions- 3 Mtrs X 3 Mtrs X 3 Mtrs
+- MOC-SS304
+- 2 mm Thick Internal Wall with SS Finish
+- 2 mm Thick Outer Wall with SS Finish.
+- 100 mm Insulation of Rock/Mineral Wool
+- Overhang Roof Canopy, MOC: SS304, 2 mm thick.
+- Base frame: ISMC 150, Epoxy black painted.
+- Panic Bar Installed on Each Door.
+- Floor: 5 Mm Thick Anti-Slip and Non-Corrosive Aluminum
+Chequered Plate.
+- Doors: Main Door and Emergency Door with Glass Window with
+key lock and door handle
+- Lifting lugs x 4 Nos
+- C rails
+- 4 Grouting plates
+- Power cable entry
+- Tube Lights fittings
+- AC switch Board x 1 No
+- Smoke detectors x 2 Nos
+- Fire Extinguisher X 1 No
+- O2 deficiency detector x 3 Nos
+- Hooters x 1No
+- Beacon 3 color x1 No
+- Humidity Display 1No
+- Temperature switch with indicator x 2 Nos
+- LIU Box
+- Storage rack for calibration gas cylinders
+- Air Dryer
+- LEL Detector x 1 No
+- 110V power distribution Panel x 1No #
+- 415V power distribution Panel x 1No #
+1 No.
+Quoted
+- Annunciator panel x 01 No
+- Analog Signal JB x 01 No
+- Digital Signal JB x 01 No
+- Wash Basin. X 01 No
+Note:
+# : Detailed wiring drawings is to be provided post order by customer.
+1.1
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: Epoxy Coated SS304
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC
+-
+Capacity – 3 TR
+-
+Fresh Air Duct with Rain cap and bird Mesh: 6 Mtr above shelter,
+MOC: Epoxy Coated SS304.
+1 No
+Quoted
+1.2
+Integration of above items (Covered under Sr no.1) with fully wired
+including cable trays.
+Integration of Analyzers/ any other items not supplied by Adage are
+excluded.
+2
+Item Code: 8426910758
+Analyzer Shelter (Analyzer Room)
+Make: ADAGE
+Area Classification: Zone 1 IIC T3
+- Dimensions- 6 Mtrs X 3 Mtrs X 3 Mtrs
+- MOC-SS304
+- 2 mm Thick Internal Wall with SS Finish
+- 2 mm Thick Outer Wall with SS Finish.
+- 100 mm Insulation of Rock/Mineral Wool
+- Overhang Roof Canopy, MOC: SS304, 2 mm thick.
+- Base frame: ISMC 150, Epoxy black painted.
+- Panic Bar Installed on Each Door.
+- Floor: 5 Mm Thick Anti-Slip and Non-Corrosive Aluminum
+Chequered Plate.
+- Doors: Main Door and Emergency Door with Glass Window with
+key lock and door handle
+- Lifting lugs x 4 Nos
+1 No.
+Quoted
+- C rails
+- 4 Grouting plates
+- Power cable entry
+- Tube Lights fittings
+- AC switch Board x 1 No
+- Smoke detectors x 2 Nos
+- Fire Extinguisher X 1 No
+- O2 deficiency detector x 3 Nos
+- Hooters x 1No
+- Beacon 3 color x1 No
+- Humidity Display 1No
+- Temperature switch with indicator x 2 Nos
+- LIU Box
+- Storage rack for calibration gas cylinders
+- Air Dryer
+- LEL Detector x 1 No
+- 110V power distribution Panel x 1No #
+- 415V power distribution Panel x 1No #
+- Annunciator panel x 01 No
+- Analog Signal JB x 01 No
+- Digital Signal JB x 01 No
+- Wash Basin.
+Note:
+# : Detailed wiring drawings is to be provided post order by customer.
+2.1
+HVAC System for Analyzer Room
+HVAC Specifications: Suitable for Zone 1, Group IIC, T3
+Make: ADAGE, MOC: Epoxy Coated SS304
+-
+Design as per NFPA 496
+-
+Frame mounted on shorter side of shelter.
+-
+Redundant HVAC
+-
+Capacity – 5 TR
+-
+Fresh Air Duct with Rain cap and bird Mesh: 6 Mtr above shelter.
+-
+MOC: Epoxy Coated SS304.
+1 No
+Quoted
+2.2
+Integration of above items (Covered under Sr no.2) with fully wired
+including cable trays.
+Integration of Analyzers/ any other items not supplied by Adage are
+excluded.

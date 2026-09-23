@@ -1,0 +1,295 @@
+Ref No: SQ2603G021
+Dated: 12-03-2026
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+To,
+
+(Formerly UPL Limited)
+Unit-5, Plot No. 746 & 750, GIDC Jhagadia,
+Dist.: Bharuch-393110, Gujarat, India.
+
+SUBJECT: AMC quotation for Aanlyzers
+
+Kind Attention: Mr. Sonu Jangra
+
+We thank you for your enquiry and with reference to the same, please find below our quotation for Maintenance,
+Servicing, Troubleshooting and Calibration of Hydrogen Gas Analyzers installed at 1x800 MW WTPS - SUPERFORM.
+
+PART A TECHNICAL SCOPE ..........................................................................................................PAGE 02
+PART B SUMMARY OF PRICES .....................................................................................................PAGE 06
+PART C COMMERCIAL TERMS AND CONDITION........................................................................PAGE 07
+
+We hope that the above would serve your purpose, however in case of any further clarifications please feel free to
+contact us.
+
+Thanking you and assuring you our best services and attention at all times.
+Yours faithfully,
+For Adage Automation Pvt. Limited
+
+Satya Prakash Dhaked Samaresh Day
+dhaked@adage-automation.com samaresh@adage-automation.com
+
++91 9234146689 +91 9769012864
+ADAGE- GOA ADAGE- GOA
+
+Ref No: SQ2603G021
+Dated: 12-03-2026
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+TECHNICAL SCOPE
+
+We shall carry out scheduled maintenance of gas analyser system for the period of one year.
+
+I. Maintenance of Gas Analyser & Systems shall include the following;
+
+M/S Adage Engineer will check the following during priventive maintenance visits.
+
+1. Functioning of all system and sub-system of analyser, e.g. pumps, probes, filters, sensors, main
+analyser, power supplies etc.
+
+2. Preventive maintenance of probe.
+
+3. Flushing & cleaning of the sample lines, leak checks, temperature and suction levels etc.
+
+4. Preventive maintenance of Sample Handling System including filters, internal tubes etc. Back
+purging of the sample line will be done as recommended in schedule (Whichever is earlier)
+depending upon requirement.
+
+5. To monitor any corrosion and take suitable measures to prevent them. In order to avoid corrosion
+to probes and other parts of the system, it would require routine inspection.
+
+6. Functioning of all the accessories connected with the system will be checked.
+
+7. Functional checking and calibration of the total system.
+
+8. Checking of the healthiness of other instruments such as PLC's, HMI’s & other electrical instruments
+connected with the system.
+
+9. Calibration of the analyser with the help of suitable standard gases of appropriate range and duly
+certified.
+
+10. Verify room environment and report to M/s SUPERFORM CHEMISTRIES LIMITED site in-charge for
+doing the needful, if needed.
+
+11. Checking of the Room AC & Preventive maintenance if required.
+
+Ref No: SQ2603G021
+Dated: 12-03-2026
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+12. M/S Adage Engineer will submit all functional reports to site in-charge who will consult periodically
+with Designated Person of Operating/instrument Department.
+
+13. The maintenance data collected during these visits will be suitably plotted in the OEM maintenance
+Charts to forecast preventive & breakdown maintenance as well as replacement.
+
+14. Calibration cells/Gas pressure required for calibration of Analysers will be monitored during the
+visit. These shall be replaced by M/s SUPERFORM CHEMISTRIES LIMITED. before the pressure drops
+from below designed pressure or before the expiry. Required calibration gas cylinder shall be
+arranged by M/s SUPERFORM CHEMISTRIES LIMITED INDIA Limited.
+
+15. Required spare parts for analyser sysytem shall supplied by m/s SUPERFORM CHEMISTRIES LIMITED
+
+16. Working time shall be as per industrial norms i.e. 8 hrs. per day.
+
+Sr. No.
+Analyzer Make
+Analyzer model
+Parameter
+Installation Location/Stack
+Name/Process Name
+1
+forbes Marshal
+DCEM2100
+PM
+Stack_1_CFBC_Boiler
+2
+Yokogawa
+IR400
+SO2
+NOX
+3
+SICK
+DHSB T30 CANBUS
+PM
+Stack_2_Boiler_114TPH
+4
+Siemens
+ULTRAMAT 23
+SO2
+NOX
+5
+SEPL
+BS-100
+PM
+Stack_5_Boiler_110TPH
+6
+Siemens
+ULTRAMAT 23
+SO2
+NOX
+
+Ref No: SQ2603G021
+Dated: 12-03-2026
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+II. Exclusions to the AMC Agreement:
+
+A) Exclusions -The AMC does not include the following:
+
+❖
+Repair of damage resulting from accident, neglect or misuse (including absence of voltage
+protection), environmental stresses including dust/water/ storm or any cause other than ordinary
+use.
+
+❖
+Performing service in connection with relocation of machines or adding or removing accessories,
+devices or addition of cards & other peripheral devices.
+
+❖
+Electrical /other work external to system & other devices not covered by this agreement.
+
+❖
+Sample tube & utility item not coverd under AMC contract.
+
+❖
+Required calibration cylinder not coverd under AMC contract.
+
+❖
+Required spare parts not coverd under AMC contract.
+
+❖
+Incase of supporting manpower required for house keeping and other mechanical & electrical
+work shall be arrange by m/s Superform Chemistries Limited.
+
+B) Care of equipment
+
+M/s SUPERFORM CHEMISTRIES LIMITED shall give full access to the equipment to enable the m/s
+Adage to provide maintenance services & make available to their representative, appropriate
+personnel from the SUPERFORM CHEMISTRIES LIMITED who are familiar with plant & provide
+suitable working space & facilities as well as storage space for keeping of maintenance equipment
+& spare if the need arises.
+
+Ref No: SQ2603G021
+Dated: 12-03-2026
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SUMMARY OF PRICES
+
+AMC CHARGES FOR ONE YEAR CONTRACT
+Sl.
+No.
+Item Description
+BASIC RATE
+Without Taxes
+1
+AMC Charges for the period of one year.
+
+Price shall be considered below:
+
+1. Quarterly preventive maintenance visit.
+2. Local transportation.
+3. Lodging & boarding for service engineer.
+4. To & fro Charges for service engineer.
+5. Backup support from Adage Automation.
+
+Rs. 8,32,400.00/-
+
+Ref No: SQ2603G021
+Dated: 12-03-2026
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+COMMERCIAL TERMS AND CONDITIONS
+
+GST
+: Shall be charged extra as applicable. Presently @ 18%
+
+Offer Validity
+: 30 days
+
+SAC code : 998333
+
+GST Details
+
+:30AADCA1647D1ZF
+
+Payment Terms : 100% payment within 15 days after submission of invoice.
+Our Bank Details :
+Kotak Mahindra Bank Limited
+Account No. : 6449378755
+IFSC Code : KKBK0002495
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Satya Prakash Dhaked Samaresh Day
+dhaked@adage-automation.com samaresh@adage-automation.com
+
++91 9234146689 +91 9769012864
+ADAGE- GOA ADAGE- GOA

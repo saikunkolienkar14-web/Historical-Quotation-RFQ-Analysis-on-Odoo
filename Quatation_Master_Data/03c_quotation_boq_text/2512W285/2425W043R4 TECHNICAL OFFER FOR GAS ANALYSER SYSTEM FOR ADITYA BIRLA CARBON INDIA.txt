@@ -1,0 +1,345 @@
+Quotation Number: 2425W043R4
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF SO2
+& O2 AT INLET OF ABSORBER FOR FGD APPLICATION
+WITH GAS SAMPLING PROBE
+WITH BLOWBACK ARRANGEMENT
+WITH SAMPLE HANDLING SYSTEM
+WITH CALIBRATION GAS CYLINDER
+WITH TOUCHSCREEN GRAPHIC COLOUR DISPLAY
+WITH IP54 PANEL
+WITH MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 NO
+For Sulphur Dioxide (SO2) Measurement
+For Oxygen (O2) Measurement
+MAKE SIEMENS AG, GERMANY
+1Set
+QUOTED
+QUOTED
+1.2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : PTFE ;
+PORT SIZE: 1⁄4’’
+POWER SUPPLY : 230 VAC 50HZ
+50
+Mete
+r
+QUOTED
+QUOTED
+SI
+No
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+2.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+SO2,NO,CO & O2 AT STACK FOR CEMS APPLICATION
+WITH GAS SAMPLING PROBE
+WITH BLOWBACK ARRANGEMENT
+WITH SAMPLE HANDLING SYSTEM
+WITH CALIBRATION GAS CYLINDER
+WITH TOUCHSCREEN GRAPHIC COLOUR DISPLAY
+WITH IP54 PANEL
+WITH REMOTE CALIBRATION FACILITY
+WITH MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 NO
+For Sulphur Dioxide (SO2) Measurement
+For Nitric Oxide (NO) Measurement
+For Carbon Monoxide (CO) Measurement
+For Oxygen (O2) Measurement
+MAKE SIEMENS AG, GERMANY
+1 Set
+QUOTED
+QUOTED
+2.2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : PTFE ;
+PORT SIZE: 1⁄4’’
+POWER SUPPLY : 230 VAC 50HZ
+50
+Mete
+r
+QUOTED
+QUOTED
+2.3
+GAS ANALYSER FOR MEASUREMENT OF O2 AT STACK
+FOR CEMS APPLICATION
+GAS ANALYSER ON SOLID STATE ZIRCONIA
+ELECTROLYTE TECHNOLOGY
+MAKE: AS PER AVL
+For Oxygen (O2) Measurement
+WITH DISPLAY
+WITH IP 65 RATING FOR DIRECT FIELD MOUNTING
+WITH SERIAL COMMUNICATION
+1 Set
+QUOTED
+QUOTED
+2.4
+DUST ANALYSER-EXTRACTIVE TYPE CONSISTS OF
+MAKE: DURAG/ENVEA/EQUIVALENT
+1 X SAMPLE NOZZLE(STANDARD D13)
+1 X SAMPLE PROBE(L080) INCL. STRAY LIGHT
+ANALYSER, PROBE LENGTH 1000MM, SUPPLY
+VOLTAGE 230VAC
+1 X SUPPLY UNIT, 230VAC SUPPLY UNIT, PROTECTION
+IP55,
+1 X BLOWER UNIT, 230V-50HZ BLOWER UNIT,
+CONSISTING OF TWO SIDE-CHANNEL BLOWERS FOR
+DILUTION AND INJECTION.
+1 X RACK FOR MOUNTING D-R 820F SU AND D-R 820F
+BL.
+1 X SET ACCESSORIES(HOSES, HOSE CLAMPS, BRUSHES
+ETC.)
+1 X CABLE SET CONSISTING OF
+- 2 SYSTEM CABLE FOR CONNECTION OF PROBE TO
+THE SUPPLY UNIT(I=5M)
+- 2 SYSTEM CABLE FOR CONNECTION OF THE BLOWER
+UNIT TO THE SUPPLY UNIT 1 X WELDING PIPE WITH
+FLANGE(MATCHING FLANGE)
+1 Set
+QUOTED
+QUOTED
+2.5
+ULTRASONIC FLUE GAS FLOWMETER
+MAKE: DURAG/ENVEA/EQUIVALENT
+2 X SENDING AND RECEIVING SENSORS TYPE 2,
+WITH 5 AND 12 M CONNECTION CABLE FOR THE
+SENSORS, 2 X MOUNTING FLANGES,
+1 X TERMINAL AND CONNECTION BOX IN IP 65
+HOUSING, 1 X DISPLAY & CONTROL UNIT
+1 X PURGE AIR UNIT INCL HOSE PIPE
+1 X CALCULATION AND INSTALLATION DOCUMENTS
+1 Set
+QUOTED
+QUOTED
+2.6
+TEMPERATURE & PRESSURE TRANSMITTER
+FOR NORMALISATION OF DUST READING
+MAKE: ADAGE APPROVED VENDOR
+1 Set
+QUOTED
+QUOTED
+2.7
+COMMUNICATION HARDWARE
+1 Set
+QUOTED
+QUOTED
+2.8
+DATA ACQUISTION SYSTEM
+PC BASED DAS FOR SEAMLESS AND CONTINUOUS
+DATA TRANSFER FROM PLANT TO GPCB/CPCB.
+INTERNET CONNECTION WILL BE MADE AVAILABLE BY
+CUSTOMER
+REQUIRED POWER & SIGNAL CABLE IS IN CUSTOMER
+SCOPE
+1 Set
+QUOTED
+QUOTED
+3
+Analyser Shelter
+Area Classification: SAFE INSIDE AH
+SAFE OUTSIDE AH
+Make: Adage
+The shelter shall house the below analyzers
+-
+Inlet SO2 & O2 Analyser System x 1 No
+-
+CEMS SO2,NO,CO,O2 Analyser System x 1 No.
+Analyser Shelter Design & Construction Details:
+-
+Dimensions- 3 Mtrs X 3 Mtrs X 2.7 Mtrs
+-
+Design-Ribbed interlock
+-
+MOC-SS304
+-
+1.5 mm Thick Internal Wall & Outer Wall.
+-
+50 mm Insulation of Rock Wool 48kg/m3 density
+-
+Top Outer curved roof & inner roof of SS 304 1.5mm plain
+sheet.
+-
+Roof Canopy-1 Meter in all four sides, MOC: SS304, 1.5
+mm thick
+-
+Base frame: ISMC 75
+-
+Panic Bar Installed on Door.
+-
+Floor: Anti-Slip and Non-Corrosive M.S Chequered Plate 2
+mm thick
+-
+Doors: will be of 1000 W x 2000 H, with Safety Glass
+Window, suitable locking arrangement & Automatic door
+closer opening by simple push
+-
+Lifting lugs x 4 Nos
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+Suitable mounting plate will be provided with door &
+canopy for cylinder
+-
+SS tag plates
+-
+Cable Entry To Shelter: Through MCT Block.
+-
+Tube Entry To Shelter: Through Gromet/Bulkhead Plate.
+-
+Cable Tray
+1 LOT
+QUOTED
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels for safe area
+-
+Shelter Safeguarding PLC Mounted Inside Purged
+Enclosure.
+-
+Junction Boxes for Safe area
+-
+PLC Required for Shelter shall be and I/O card
+Accessories for Shelter
+-
+Annunciator panel for safe area
+HVAC Specifications:
+Make: ADAGE
+-
+Design as per NFPA 496
+-
+Mounted on Skid
+-
+MOC: SS304
+-
+Redundant HVAC With Automatic Changeover
+-
+Capacity –(Each)-Shall be optimized during detailed
+engineering
+-
+With Common Chemical Filter for safe area
+-
+Blower for safe area
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 1.5
+meters from the Shelter, MOC: SS304
+-
+Air Changes: Minimum 6 Air Changes Per Hour.
+-
+Positive Pressure Inside Shelter. (Normal 50 Pa above
+ambient)
+-
+Temperature Maintained Inside House Is 18 ± 27 Deg C.
+ANNEXURE - 1
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+1
+Heat Detector
+1
+Temperature & Humidity Gauge
+1
+Pressure Gauge
+2
+Pressure switch
+1
+PLC System-with IO's
+1
+Manual Transfer switch
+1
+Electrical Panels: Safe Area
+Analog Signal JB, Digital Signal JB, Communication JB, PDP -31 -415 VAC 3 Phase,
+110 VAC UPS Panel, Warning Panel outside shelter.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+110 VAC Switch Socket (Inside shelter)
+1
+Door Limit Switch (Inside shelter) for each door.
+1
+Electric hooter (Inside shelter) for each door
+2
+Single Way Beacon inside & outside
+2
+External Light switch & internal light switch
+4
+Manual Call Point (Outside shelter)
+1
+Warning Panel/ Annunciator
+1
+Tube lights inside
+4
+Tube lights outside
+4
+Tube light with battery backup
+4
+MCT Blocks
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Cables, Cable trays, Glands, Utility Headers with Air filters & Other Accessories as per
+MR
+1 Lot
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+BOARDING – LODGING – LOCAL CONVEYANCE TO BE
+ARRANGED BY CUSTOMER
+TO AND FRO CHARGES (II TIER RAIL/ECONOMY AIR
+TICKET) WILL BE CLAIMED AT ATCUALS
+Per
+Man
+day
+QUOTED
+QUOTED
+Note:
+1. We have quoted Hot Extractive SO2,O2 System at FGD inlet and SO2,NO,CO, O2 at CEMS where
+O2 measurement will be on dry basis & Insitu zirconia O2 at CEMS, where O2 will be measured
+on wet basis. So moisture will be calculated with difference in reading from both O2 at CEMS.
+2. We will provide counter flange suitable to process connection “4” Flat Faced (FF), ANSI B16.5,
+#150” for mounting gas analyser probe, Flow monitor, Temperature & Pressure monitor, SPM
+analyser.
+3. We have already shared instrument air consumption details.
+4. Instrument tubing & fittings will be of Swagelok/parker.
+5. Flow, Temperature & Pressure transmitter have isolated 4-20 mA output. Hart o/p is applicable
+for Temperature & Pressure transmitter only.
+6. Power & signal cable from shelter to sampling point along with cable tray is in customer scope.
+7. Drawing 230 VAC supply from Raw 415 VAC supply inside analyser shelter & its distribution at
+sampling point for gas analyser probe, SPM, Flow monitor, TT,PT O2 is in our scope.
+8. SS tubing from cylinder to panel & from panel to vent is in our scope.
+9. Measuring ranges for CO & NO is considered as per CPCB guidelines for FGD application.
+10. Temperature transmitter is thermocouple type.
+11. Communication cable from shelter to plant DCS for TCP IP communication is in customer scope.
+SECTION 2: NOTE & SCOPE
+•
+Instrument Air {Free From Water Droplets or Moisture} @ 4 - 6 Kg/Cm2 to be provided by the
+Customer for purging of probe, dust and flow monitor.
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope
+•
+Please note that UPS/Non UPS power shall be provide near analyser shelter.
+•
+Please note that laying of signal/power cable trays shall be in customer’s scope.
+•
+Power Supply Utilities required are:
+•
+Power Supply: 415 VAC, 50 Hz (Non-Ups)- Appro 2500 W + 4120VA/ Per System
+•
+Power Supply: 110 VAC, 50 Hz (Ups) – 1069 VA / Per System

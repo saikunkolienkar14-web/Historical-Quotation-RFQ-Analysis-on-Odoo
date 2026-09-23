@@ -1,0 +1,90 @@
+Quotation Number: Q24W10126
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Total Price(INR)
+1.
+O2 in Cl2 Analyser system
+1 No.
+Quoted
+2.
+FAT
+1 Lot
+Inclusive
+3.
+Project Documentation
+1 Lot
+Inclusive
+4.
+Transportation Till Site
+1 Lot
+Quoted
+5.
+Packing and Forwading charges
+1 Lot
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1.
+EXTRACTIVE LASER BASED O2 ANALYSER FOR CL2 TO
+BATTERY LIMIT
+Service: CL2 TO BATTERY LIMIT
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone-2 IIA/IIB T3
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: 2 Mtrs
+Ingress Protection: IP65
+Measurement Range : 0-500PPM O2 in CL2
+Process Conditions at Sample Inlet
+Temperature (Min/Norm/Max): 50 Deg C
+Pressure (Min/Norm/Max): 6.2kg/cm2-g
+With Sample handling system consisting of:
+With Flow Through Cell for Mounting of Laser Analyzers
+With Aspirator Pump System for Extraction and Drawing of
+Sample Gas
+Mounting of Analyser on Field Rack
+Analyzer output:
+4-20 mA
+RS485 Modbus
+Note : Analyser is Ex-P Type.
+1 No.
+QUOTED
+1.A
+Sample Welded Probe Assembly
+MOC: Monel with 3/4” 150# Flange
+Note : Isolation Globe valve in the scope of tKIUPL.
+1 No.
+QUOTED
+1.B
+Primary Sample Handling System
+•
+With Isloation ball valve
+•
+With Inline filter and pressure reducer assembly
+Note : Makes shall be As per RIL AVL.
+1.B
+Sample Transportation tube:
+Sample Tubing: 1/4” Monel Tube
+Note : Makes shall be As per RIL AVL.
+25Mtrs
+QUOTED
+1.C
+Filed Mounted Self standing MS painted Rack with canopy:
+-
+With flow through cell assembly for mounting of Laser
+analyzer
+-
+With isolation ball valves and flow meter assembly for
+nitrogen utility
+-
+With utility header assembly
+-
+With return header assembly
+Note : Makes shall be As per RIL AVL.
+Schematic shall be inline with drawing given in Annexure-
+1(attached with offer)
+1 Set
+QUOTED

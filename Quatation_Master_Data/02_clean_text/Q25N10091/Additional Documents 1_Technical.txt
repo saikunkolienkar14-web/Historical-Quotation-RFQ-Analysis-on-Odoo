@@ -1,0 +1,544 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+With reference to the Tender no. GEM/2025/B/6566405. Please find enclosed our quotation for
+design, engineering, manufacture and Supply of analyzer system which includes analysers as per your
+requirement.
+
+TECHNICAL OFFER
+
+ADAGE QUOTE REF:
+Q25N10091
+DATED : 03.09.2025
+BID TYPE : Tender
+PROJECT TITLE:
+Supply of Water Quality Analyser-Oil In H2O TOC/TC For
+POLYPROPYLENE PROJECT-KOCHI REFINERY
+INQUIRY DETAILS:
+GEM Tender: GEM/2025/B/6566405
+RFQ No.: B895-000-YA-MR-1613
+
+CUSTOMER:
+
+Engineers India Limited
+
+END USER:
+
+BPCL - KOCHI REFINERY
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Offering Basis
+SECTION-2: Summary Of Prices
+SECTION-3: Technical Literature
+SECTION-4: Scope Definition
+SECTION-5: Commercial Terms & Condition
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Sanjit Sardessai
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9518546315
+sanjit@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 1: SUMMARY OF PRICES
+
+Sr.
+No.
+Tag Nos.
+Item Description
+Qty
+Unit
+Price(INR)
+Total
+Price(INR)
+1
+PPC-AT-1102
+OIW TOC Analyser System
+1 No
+Quoted
+Quoted
+2
+-
+Transportation Charges
+1 Lot
+Quoted
+Quoted
+3
+-
+Mandatory Spares as per MR
+1 Lot
+Quoted
+Quoted
+4
+-
+Supervision and erection
+1 Lot
+Quoted
+Quoted
+5
+-
+Training charges at site
+1 Day
+Quoted
+Quoted
+6
+-
+PWMC
+1 Lot
+Quoted
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: TECHNICAL LITERATURE
+
+1
+TOC Analyser
+Tag no: PPC-AT -1102
+Service: Measurement of TOC in CW return
+Make: LAR (Safe area mounted inside purged cabinet)
+Model: Quick TOC Ultra
+Operating Principle: UV persulphate oxidation
+Hazardous Area Classification: Zone 2 llA / IIB, T3
+Mounting location: Inside X-Purged cabinet
+Sample phase: Liquid
+Range: 0-10 ppm
+IP rating : Analyser shall be mounted inside IP65 Purged cabinet
+Approval Type : PESO certified (Purge Controller)
+Repeatability : 2 - 4%
+Detection limit : 0.1 – 100 ppm
+Linearity : +/- 2% of FS
+Accuracy: 2 - 4%
+Response time : 1 – 6 Mins
+Zero drift: 2% of full scale/week
+Span drift: 2% of full scale/week
+DI / DO: 8x Digital inputs , 8x Relays
+
+Process Condition:
+-
+Temperature (Op): 45 – 65 Deg C
+-
+Pressure (Op): 1.5 - 3 Kg/cm2g
+-
+Sample Return: to Drain
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 232 serial interface
+-
+Potential free contacts for fault & other alarms.
+
+Utility required:
+-
+110VAC 50Hz, UPS power supply
+-
+230VAC 50Hz, Non UPS Power supply
+
+1 No
+Quoted
+
+Sample probe:
+-
+Manual Retractable probe with isolation valve
+-
+1.5’’ 150# RF flange
+
+1 No
+Quoted
+
+Sample Transportation tube:
+-
+1⁄2’’ SS316 insulated tube, Qty: 70 Meters
+
+70
+Meters
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Secondary Sample Handling system
+-
+Ball valve, Pressure indicator, Fast loop filter (Redundant
+Configuration), Bypass rotameter, Sample Rotameter with low
+flow switch, etc
+
+1 No
+Quoted
+
+Analyser Cabinet:
+-
+Analyser cabinet (Approx dimention shall be finalised during
+detailed engineering) MOC: CRCA with 500 mm Canopy MOC:
+FRP, extending from all the sides.
+-
+IP65 Rated
+-
+Single Ex proof AC certified for Zone 2
+-
+Purge controller
+-
+Power distribution box
+
+1 No
+Quoted
+
+Buffer solution shall be provided for commissioning and 12
+months operation from date of SAT.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 5: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Process Isolation Valve at tapping point
+
+Yes
+4
+Isolation Valve at process return point
+
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+
+6
+Supply of Mandatory spares- Quoted
+Yes
+
+7
+Consumables spares- Quoted
+Yes
+
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+
+9
+Factory Acceptance Test at Adage Works
+Yes
+
+10
+Packing forwarding
+Yes
+
+11
+Freight up to site including Insurance
+Yes
+
+12
+Storage of supplied system at site
+
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+
+17
+Training at Site
+Yes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+As per Tender
+Packing Charges
+As per Tender
+GST
+As per Tender
+HSN Code
+As per Tender
+Freight Charges
+As per Tender
+Insurances
+As per Tender
+Delivery
+As per Tender
+Offer validity
+As per Tender
+Payment Terms
+As per Tender
+Guarantee Clause
+As per Tender
+
+PRODUCT DATASHEET
+Superior reliability
+Fast and reliable
+Maximize profits
+Applications
+• Industrial Wastewater
+• Process Water
+• High Salt Concentrations
+• De-Icing Water
+INNOVATIVE
+WATER SOLUTIONS
+QuickTOCultraTM
+ONLINE TOC ANALYZER
+Online TRUE TOC for every kind of water.
+Especially for the rough stuff.
+
+Quick and precise – QuickTOCultra a product you can rely on!
+The QuickTOCultraTM continually checks the TOC content of waste water. Optionally, other sum
+parameters can be detected aswell. At 1,200 °C, samples are completely oxidised and within 3 minutes
+the TRUE TOC result is determined.
+Our TOC analyzer is the most reliable measurement system for the roughest waste water applications.
+Due to an unrivaled injection and oxidation technique, the QuickTOCultra easily handles sticky, fatty,
+salty, and high-particle samples unlike other TOC analyzers.
+Applications
+Our total organic carbon analyzer is suitable for a variety of applications and types of water, even with
+frequently changing sample matrixes.
+• Water Influent
+• Water Effluent
+• Discharge Control
+• Industrial Waste Water
+• De-Icing Water
+• Process Water
+• High Salt Concentrations
+• Oil-in-Water
+Features
+The raw water sample is oxidized at 1,200 °C and the CO2 produced is detected and
+quantitatively determined.
+• High Temperature Method at 1,200 °C
+• Catalyst-free technique
+• Batch principle
+• Robotic Injection System
+Benefits
+Reliable determination of all ingredients of the sample and complete analysis of organic
+carbon compounds.
+• Reliable sample analysis with high reproducibility
+• Exceptionally low maintenance and
+operational costs
+• Fast process control possible
+• Response Time TOC: 1-2 minutes
+
+Technical Data
+Measurement Technique and Sample Preparation
+Measurement M­ethod
+Thermal oxidation at 1,200°C
+Measurement Compliance
+According to DIN EN 1484:1997-08/ ISO 8245:1999-03/ US-EPA 415.1 / ASTM D-5173
+Measurement Ranges
+0.1 - 50,000 mg/l (ppm) TOC, with optional dilution up to 500,000 mg/l (ppm)
+possible, other ranges on request
+Parameters
+TOC, TC, TIC, combinations with COD, TNb possible
+Sensitivity
+Depending on the detector/measuring range used for 0.1-100ppm --> 0.1ppm at
+600μl injection volume
+Oxidation Principle
+High Temperature Oxidation (Non-catalytic at 1,200 °C)
+Accuracy
+Max. 2% of FSR
+Repeatability
+Max. 2% of FSR
+Cycle Time
+TConly / TNb / COD_o: 1-2 min. TOCdiff: 4-5 min. TOCdirect (NPOC): 4-6 min.
+Response Time
+3 minutes
+Sample Preparation
+• Flow Sampler - Maintenance-free particle seperator
+• Optional homogeniser for continuous homogenisation of samples
+Particle Size
+Particles < 800μm
+Temperature and Humidity
+Permissible Sample
+Temperature
+5-60°C / 41°F - 140°F TC only
+5-50°C / 41°F - 122°F TOC
+Ambient Temperature
+recommended
+10 to 30 °C / 50°F - 86°F
+Ambient Air Humidity
+Max. 80% (non condensing)
+Dimensions and Weight
+Housing
+Steel IP54, powder-coated; Optional: Stainless steel, IP 65,
+EXp Zone 1 and 2 for T3, T4 classes (ATEX, IECEx)
+Dimensions
+W 848 x H 1100 x D 635 mm (Standard housing)
+W 33.4" x H 43.3" x D 25" (Standard housing)
+Weight
+From 115 kg / 253.6Lbs (Standard housing)
+Electric and Hydraulic Specifications
+Inflow and Outflow
+Tube 4,8 mm ID, Tube 8 mm ID, Tube 12 mm ID
+Tube 0.18" ID, Tube 0.31" ID, Tube 0.47" ID
+Power Supply
+230 /115 V~, 50 / 60 Hz
+Analogue Output
+0/4 - 20 mA
+Serial Interface
+RS 232
+Safety
+2/6 A internal, 16 A external
+Internet Capability
+LAN, Option for WLAN
+Option
+Remote control via TCP/IP protocol
+Equipment Devices and Data Output
+TFT Touchscreen-Graphic-Display, 10,4", high resolution, back-lit
+Self explanatory software, Autostart function
+Standard data interface to office PC (USA 2.0)
+
+quicktocultra DS.rev23.1
+www.process-insights.com Copyright © 2023 Process Insights, Inc. All Rights Reserved.
+INNOVATIVE
+WATER SOLUTIONS
+Process Insights manufactures and delivers
+premium sensors, monitors, detectors,
+analyzers, instrumentation, and software that
+are mission-critical to keep your operations,
+personnel, and the environment safe – every
+day across the globe.
+Get the most reliable, precision analytical
+technologies available on the market today.
+We will work to match your needs and budget,
+and provide the optimal, and most stable
+process analysis solution for your application.
+GAIN REAL-TIME INSIGHT INTO YOUR PROCESS
+For a complete range of products, applications, systems, and service options, please contact us at:
+info@process-insights.com
+For a complete list of sales & manufacturing sites, please visit:
+https://www.process-insights.com/about-us/locations/
+COSA Xentaur, Tiger Optics, Extrel, Alpha Omega Instruments, ATOM Instrument, MBW Calibration, MGA, Guided Wave,
+ANALECT and LAR TOC Leader are trademarks of Process Insights, Inc.
+CENTERS OF EXCELLENCE | PROVIDING PROVEN SOLUTIONS
+Process Insights is committed to solving our customers’ most complex analytical, process,
+and measurement challenges everyday.
+Process Insights – The Americas
+4140 World Houston Parkway Suite 180, Houston, TX 77032, USA +1 713 947 9591
+Process Insights – EMEA
+ATRICOM, Lyoner Strasse 15, 60528 Frankfurt, Germany +49 69 20436910
+Process Insights – APAC
+Wujiang Economic and Technology, Development Zone, No. 258 Yi He Road, 215200 Suzhou,
+Jiangsu Province, China +86 400 086 0106

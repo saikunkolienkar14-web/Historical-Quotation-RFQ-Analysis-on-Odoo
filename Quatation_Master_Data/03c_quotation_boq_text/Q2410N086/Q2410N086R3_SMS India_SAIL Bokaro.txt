@@ -1,0 +1,110 @@
+Quotation Number: Q2410N086R3
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSER SYSTEM FOR TOP GAS SYSTEM
+Service: BF Clean gas measurement after GCP
+Tag No: AIT 03GNT01 CQ 001
+Make: Siemens
+Model 1: ULTRAMAT23
+Component to be measured: CO/CO2 (NDIR)
+Tag No: AIT 03GNT01 CQ 002
+Model 2: CALOMAT6E
+Component to be measured: H2 (Thermal Conductivity)
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+• Temperature: <=40 oC
+• Pressure: >= 0.10 Kg/cm2
+Measuring Ranges:
+• CO: 0-50%
+• CO2: 0-50%
+• H2: 0-20%
+With Primary sample handling system Consisting of:
+• Auto Blowback-Facility
+• With Dual - probe System.
+With Secondary sample handling system consisting of:
+• With IP54 panel to mount the analyzer & SHS Component
+• With Redundant Sample Gas Cooler
+• With Redundant Sample Gas Pump
+• With Calibration Gas Cylinders
+• With flowmeters, solenoid valves and condensate monitors.
+Analyzer output:
+• 4-20 mA
+• Digital Outputs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+2
+GAS ANALYSER SYSTEM FOR WASTE GAS SYSTEM
+Service: Hot Stoves Plant 2,3,4
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured: CO/O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Process Conditions at Sample Inlet
+• Temperature: 214 oC (Min.), 394 oC (Max.)
+• Pressure: - 200 to 2000 mmWC
+Measuring Ranges:
+• CO: 0-2%
+• O2: 0-5/21%
+With Primary sample handling system Consisting of:
+• With Dual - probe System.
+• With Common Scavenging Panel
+With Secondary sample handling system consisting of:
+• With IP54 panel to mount the analyzer & SHS Component
+• With Redundant Sample Gas Cooler
+• With Redundant Sample Gas Pump
+• With Calibration Gas Cylinders
+• With Needle valves, solenoid valves and condensate monitors.
+Analyzer output:
+• 4-20 mA
+• Digital Outputs
+Utility requirement:
+• Plant Nitrogen @ 4-6 bar near field rack
+• 230VAC, 50 Hz power supply
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3 Set
+QUOTED
+QUOTED
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+Make: Thermopad
+For Waste Gas Line: 385 mtrs
+For Top Gas System: 45 mtrs
+430 mtr
+QUOTED
+QUOTED
+4
+PORTA CABIN FOR TOP GAS SYSTEM
+External Wall MOC : 1.2 mm thick CRCA
+With MS Chequered Plate Flooring
+With Door and Lock with Lights
+With Door – Size : 900 (L) X 2000 (H) - 2 No.
+With Wiring for tubelights, AC Point and sockets of 5A and 15A each
+With Necessary PDP- 1 No
+Size: 2.5 X 2.5 X 2.7 M
+With 1.0 Ton Non-Inverter AC- 2 Nos
+With gas leakage detector for analyzer housing room
+1 Set
+QUOTED
+QUOTED
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per Diem
+@QUOTED PER DIEM

@@ -1,0 +1,73 @@
+Quotation Number: Q2512N158
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price (INR)
+1
+GAS ANALYSIS SYSTEM FOR SO2, NOx MEASUREMENT
+Service: Flue gas Stack at Steam generation Plant bathinda
+Make: Siemens
+Model: ULTRAMAT23
+Component to be measured : SO2, NOx
+Mounting Location: Hot Extraction Type
+Stack conditions: to be provided by customer
+System Overview: Panel shall be Y-purged to meet area classification
+•
+With Gas Sampling Probe
+•
+With Auto Probe Cleaning Facility
+•
+With Remote Calibration Facility
+•
+With Blow Back Unit
+•
+Mounted in IP54 Panel
+•
+With Sample Handling System
+•
+With Touch Screen Graphic Color Display – 7“
+•
+With Microprocessor Based Analyser
+•
+With Calibration Gas Cylinders
+•
+For Nitric Oxide (NO)
+•
+For Sulphur Dioxide (SO2)
+Measuring Range:
+•
+NOx: 0-500/2500 ppm
+•
+SO2: 0-500/2500 ppm
+Analyzer output:
+•
+4-20 mA
+•
+Digital Outputs
+Utility requirement:
+•
+230 VAC, 50 Hz UPS Power Supply
+•
+Instrument Air/Plant Nitrogen @ 4-6 bar near field rack/Panel
+•
+Inputs for Temperature, Pressure for normalization to be provided by
+customer
+•
+1 SET
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION (CEMS)
+MOC: PTFE
+Tube size: 1⁄4 ”
+With all necessary accessories and JB’S
+@QUOTED PER METER
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II Train Fare
+to be arranged by Customer)
+PER
+DIEM
+@QUOTED PER MANDAY

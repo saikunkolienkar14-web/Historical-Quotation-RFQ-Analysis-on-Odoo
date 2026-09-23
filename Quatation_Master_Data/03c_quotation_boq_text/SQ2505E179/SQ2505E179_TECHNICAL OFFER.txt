@@ -1,0 +1,163 @@
+Quotation Number: SQ2505E179
+BOQ Status: FOUND
+
+build quality whilst ensuring we operate in a safe and environmentally conscious way.
+Adage offers complete project management services from conceptual design through pre-tender feed
+study, design approval, detailed engineering, project management, procurement activities, production,
+testing and commissioning, site survey, site installation, handing over as well as after sales service and
+training. We offer a 24/7 technical helpline and call out facility to many of our customers.
+Adage is also, one of the fastest growing Gas Analytical Company in the world with 25% CAGR over last 10
+years and presently growing by 200% in every 2 years.
+With large project engineering capability, widest product portfolio and presence in multiple countries,
+Adage have an Unique identity in the Global perspective for the Gas Analytical domain.
+Ref: SQ2505E179
+Date: 27-05-2025
+We have a market leadership position for Process Gas Applications in the Steel Industry in India covering all
+applications in Blast Furnaces, Steel Melting Shops, Coke ovens, Sinter Plants, Hot Strip Mills, CRM, Lime
+Calcination Plants etc. We have proven installations in almost all Steel Plants in India including TATA STEEL,
+JSW, JSPL, SAIL Bhilai, Bokaro, Durgapur, Rourkela & IISCO Steel Plant, Essar Steel etc.
+It is worthwhile to mention here, that we were maintaining the gas analyser systems in TATA Steel
+Jamshedpur, TATA Steel BSL, TATA Steel NINL & KPO from 2008 to till now for maintenance of different
+make and model of gas analysers & sample handling systems. Proper AMC in the STEEL Industry has
+given immense benefit in terms of Safety, Process Optimization and also savings in cost of operation.
+We come to you with our inherent long experience in executing projects with Gas Analyzers and our long
+involvement in Maintenance of these Analyzers at TATA STEEL, RINL Vizag, SAIL Bhilai, SAIL IISCO, JSPL
+Units, JSW Units, Reliance and many more. ADAGE has a dedicated pool of Specialist Engineers with
+desired competence level and skill set to provide services and maintain these specialized Analyzers. Our
+Engineers have been trained at various levels at our HQ in SIEMENS AG Karlsruhe on Gas Analyzers to
+extend competent Technical Services and Support.
+Our State-of-the-art application Lab and the Regional Repair Centre (RRC) is under a joint investment
+from SIEMENS AG Germany. This is one of its kind facilities available in India to extend all configuration,
+repairs, spare parts replacement and other associated activities for SIEMENS Analyzers. This gives us the
+unique advantage to extend prompt all round support and services for our installations in India.
+Ref: SQ2505E179
+Date: 27-05-2025
+We have more than 200+ Specialist Engineers and a modern state of the art Factory in Goa. We have
+already installed more than 5,000 Analyser Systems & more than 10,000 Analyzers in India. At the present
+moment, we enjoy a leadership position in the Indian Industry. We are also the largest exporter of Gas
+Analytical Systems from India to over 40 countries in Europe, Africa, Middle East, Far East and South
+America.
+Thanking you and assuring you our best services and attention at all times.
+Yours faithfully,
+For Adage Automation Pvt. Limited
+Satya Prakash Dhaked Amarendra Kumar Das
+dhaked@adage-automation.com akdas@adage-automation.com
++91 9234146689 +91 9566089038
+ADAGE- GOA ADAGE- Bhubaneswar
+Ref: SQ2505E179
+Date: 27-05-2025
+RFQ DETAILED DESCRIPTION
+Long text for service master: Short Text : ADAGE GAS ANALYZER TECHNICAL SUPPORT
+Long Text :
+Analyser Type : Gas ,Calorific Value
+Type Of Application : Co ,Co2 ,H2 ,No ,Nox ,Oxygen ,Sox
+Maintenance Type : Routine Maintenance
+Model Installed (All) : Oxymat61_Siemens ,Calomat6_Siemens
+,Ultramat23_Siemens ,Ultramat6_Siemens ,Cwd 2005
+Total Analyser Installed : Above 40
+Frequency : Quarterly
+Schedule Prepared By : Tsl
+Schedule Approved By : Tsl
+Items To Check : Accuracy ,Air Blower ,Air Filter ,Calibration Drift,Filter ,Flow ,Flow (By Pass Line) ,Flue Gas
+Analyser Probe,Gas Cooler ,Heat Traced Tube ,Heated Filter ,Instrument Air Line ,Ma Output ,Membrance
+Pump For Anlyser ,N2 Line ,O Ring For Probe Checks To Be Performed : Alarm ,Analog Input ,Cleanliness ,Co
+Measure,Co2 Measure ,Error Signal ,H2 Measure ,Nox Measure ,Probe,Sample Flow ,Zero Check Variation
+Calibration Gas Supply By : Tsl
+Replacement Of Defective Components By : Tsl
+Drawing Updation By : Tsl
+Working Height : Upto 2 M
+Report Preparation By : Vendor
+Spare List Preparation By : Vendor
+Spare Supply By : Tsl
+Spare Audit By (All) : Tsl ,Vendor
+Consumable Supply By : Tsl
+Tools Tackles Supply By : Vendor
+Additional Details :
+Model Installed :
+1. Rosemount.
+2. Emerson.
+3. Union Instruments.
+Ref: SQ2505E179
+Date: 27-05-2025
+SUMMARY OF CHARGES FOR AMC
+Item No
+Serv Line No
+Service No
+Quantity
+UOM
+Specification
+Rate
+Comments
+10
+10
+USCESI02A575
+30.000
+MDY
+Detailed Desc: Service text: Short Text :
+ADAGE GAS ANALYZER TECHNICAL SUPPORT
+Long Text :
+Analyser Type : Gas ,Calorific Value
+Type Of Application : Co ,Co2 ,H2 ,No ,Nox ,Oxygen
+,Sox
+Maintenance Type : Routine Maintenance
+Model Installed (All) : Oxymat61_Siemens
+,Calomat6_Siemens,Ultramat23_Siemens
+,Ultramat6_Siemens, Cwd 2005
+Total Analyser Installed : Above 40
+Frequency : Quarterly
+Schedule Prepared By : Tsl
+Schedule Approved By : Tsl
+Items To Check : Accuracy ,Air Blower ,Air Filter
+,Calibration Drift, Filter ,Flow ,Flow (By Pass Line) ,Flue
+Gas Analyser Probe,Gas Cooler ,Heat Traced Tube
+,Heated Filter ,Instrument Air Line ,Ma Output
+,Membrance Pump For Anlyser ,N2 Line ,O Ring For
+Probe Checks To Be Performed : Alarm ,Analog Input
+,Cleanliness ,Co Measure,Co2 Measure ,Error Signal
+,H2 Measure ,Nox Measure ,Probe, Sample Flow, Zero
+Check Variation
+Calibration Gas Supply By : Tsl
+Replacement Of Defective Components By : Tsl
+Drawing Updation By : Tsl
+Working Height : Upto 2 M
+Report Preparation By : Vendor
+Spare List Preparation By : Vendor
+Spare Supply By : Tsl
+Quoted
+Please note that
+quoted price shall be
+one man-day charges.
+Ref: SQ2505E179
+Date: 27-05-2025
+Spare Audit By (All) : Tsl ,Vendor
+Consumable Supply By : Tsl
+Tools Tackles Supply By : Vendor
+Additional Details :
+Model Installed :
+1. Rosemount.
+2. Emerson.
+3. Union Instruments.
+Check Point Data :
+Check Point :LEAKAGE
+Min :0
+Max :0
+UOM :Percentage
+Hazard With Job:
+E<(>&<)>P - Job with normal access / having no plant
+operational hazard
+Skill Level :
+National level/ Industry best (OEM)/Very High level of
+local expertise
+Drawing Updation By : Tsl
+Working Height : Upto 2 M
+Report Preparation By : Vendor
+Spare List Preparation By : Vendor
+Spare Supply By : Tsl
+Spare Audit By (All) : Tsl ,Vendor
+Consumable Supply By : Tsl
+Tools Tackles Supply By : Vendor
+Skill Level :
+National level/ Industry best (OEM)/Very High level of
+local expertise
+Ref: SQ2505E179
+Date: 27-05-2025

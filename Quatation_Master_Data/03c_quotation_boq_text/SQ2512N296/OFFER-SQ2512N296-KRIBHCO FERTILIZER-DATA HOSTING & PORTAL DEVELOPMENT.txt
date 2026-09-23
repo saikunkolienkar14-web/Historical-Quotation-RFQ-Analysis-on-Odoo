@@ -1,0 +1,36 @@
+Quotation Number: SQ2512N296
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+OCEMS PORTAL DEVELOPMENT AND UPGRADATION AS
+PER LATEST CPCB GUIDELINES.
+1
+35000.00
+35000.00
+2
+ANNUAL CHARGES, INTEGRATION, AND SUPPORT FOR
+CEMS (ETP) DATA TRANSMISSION TO THE CPCB RTDMS
+PORTAL, AS WELL AS INTEGRATION WITH THE NEW
+OCEMS PORTAL - FOR 1 YEAR (COVERING REMOTE
+IMPLEMENTATION).
+1
+12500.00
+12500.00
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+•
+RS-485 Modbus signal for all the parameter shall be made available up to the data logger, All the signal cables for
+the same shall be in customer scope.
+•
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+•
+Internet for the data logger shall be made available at site by customer preferably broadband connection. Internet
+Connectivity Via Broadband / Lease Line / GSM shall be in Customer Scope (Minimum 1 MBPS)
+•
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

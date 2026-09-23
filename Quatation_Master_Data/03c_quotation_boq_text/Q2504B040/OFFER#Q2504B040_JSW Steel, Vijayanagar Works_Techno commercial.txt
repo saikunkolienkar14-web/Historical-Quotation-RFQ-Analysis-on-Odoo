@@ -1,0 +1,30 @@
+Quotation Number: Q2504B040
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+STACK FLOW MONITOR
+Measuring Principle: Differential Pressure Pitot Tube
+With Temperature and Pressure Measurement
+Output: 4 ... 20 mA
+Suitable for Operating Temperature upto 700 Deg C
+Pressure: -10kPa ... +10kPa
+Response Time: < 1 Sec
+Velocity: 0 ... 15m/s 0 ... 40m/s
+Power Supply: 230 VAC, 50 Hz
+Make: ADAGE, Model: FLOW CEMS 100
+Utility Requirement: Instrument Air @ 4 ... 6 Bar free from Oil, Dust &
+Moisture shall be provided by the Customer.
+1 SET
+7,91,000
+7,91,000
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and Fro charges
+to be claimed at actuals (ACII Tier/Flight)
+@30,000 PER MAN DAY

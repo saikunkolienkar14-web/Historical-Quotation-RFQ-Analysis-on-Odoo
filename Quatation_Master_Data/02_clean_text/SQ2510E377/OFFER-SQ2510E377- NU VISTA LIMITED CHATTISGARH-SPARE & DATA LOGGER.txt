@@ -1,0 +1,229 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+NU VISTA LIMITED IS LOCATED IN VILLAGE-RISDA,
+TEHSIL-BALODABAZAR, BHATAPARA,
+CHHATTISGARH, PIN CODE 493332.
+INDIA.
+
+SUBJECT
+
+: QUOTATION FOR DATA LOGGER/IOT
+DEVICE FOR CEMS SYSTEM AND SPARES
+
+REFERENCE/RFQ
+: EMAIL DATED 28.10.2025
+
+KIND ATTENTION
+: MR. OM SHANKAR
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If you have
+any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+•
+DATA LOGGER HARDWARE, ANALOG CARD AND CLOUD INTEGRATION
+
+SECTION 2: SCOPE OF SUPPLY
+
+SECTION 3: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2510E377
+Dated: 31.10.2025
+
+Contact persons :
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Zafar Ali
+Email: zafar@adage-automation.com
+Mob: +91 7856077462
+(Adage-Goa-HO)
+TECHNO-COMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+Dear Sir/Madam,
+
+This is in context to your requirement for Online Gas Analyser and we thank you for the same,
+
+Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in India and worldwide.
+We provide solutions in Process, Emission Monitoring & Safety applications in the industrial field of Steel, Cement, Power,
+Fertilizers, Chemical & Petrochemicals , Oil & Gas etc. We are an ISO 9000:2015 & OHSAS 18001: 2007 certified
+company .
+
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG , Germany for the Indian market
+for Process Gas Analyzers . We have 11 Offices across India with subsidiary companies in Sharjah , UAE & New
+Jersey , USA and we have 200+ Specialist Engineers and a modern state of the art Factory in Goa. We have already
+installed more than 5,000 Analyser Systems & more than 10,000 Analyzers in India . At the present moment , we
+enjoy a leadership position in the Indian Industry . We are also the largest exporter of Gas Analytical Systems from
+India to over 40 countries in Europe , Africa, Middle East, Far East and South America.
+
+Our State of the art application Lab and the Regional Repair Centre ( RRC ) is under a joint investment from SIEMENS AG
+Germany . Adage have been awarded in 2018 by the Ministry of Industries , Govt of India as one of the India’s Small Giants
+, which is an initiative to recognize the top perfroming companies in terms of sustainable growth and innovations .
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+
+• RS-485 Modbus signal for all the PM parameter instruments shall be made available up to the data
+logger, All the signal cables for the same shall be in customer scope.
+• Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+• Internet for the data logger shall be made available at site by customer preferably broadband
+connection.
+
+SECTION 1: SUMMARY OF PRICES
+
+SR.
+NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+DATALOGGER ALONG WITH JB
+1
+80000.00
+80000.00
+2
+PER PARAMETER CONNECTIVITY
+12
+17,780.00
+213360.00
+3
+4-20 MA CARD FOR TETHYS INSTRUMENTS PH
+3
+199408.00
+598224.00
+4
+4-20 MA CARD FOR TETHYS INSTRUMENTS TSS
+5
+4-20 MA CARD FOR TETHYS INSTRUMENTS COD
+6
+4-20 MA CARD FOR TETHYS INSTRUMENTS BOD
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 2: NOTE & SCOPE DEFINITION FOR DATA LOGGER SYSTEM
+
+• External Cabling, and All Associated Erection Hardware Shall Be in Customer’s Scope.
+• Power arrangement, Signal Cable arrangement shall be in customer scope.
+• Power Supply Utilities required are:
+
+Power Supply: 230 VAC, 50 Hz (UPS)
+
+Our Scope of Supply and Work Includes:
+• Supply of data logger & accessories and cloud Integration as per summary of prices.
+
+Our Scope of Supply Does Not Include:
+• Any kind of Civil Work or Mechanical Work.
+• Welding of flanges or mounting of purge air unit and instrument on the stack/duct.
+• Material Handling at Site, unloading of Analysers, Internal Shifting from Plant Store to Field.
+• Loop checking for analog & digital signals.
+• Laying of Cable and cable trays for Power supply / Analog and Digital signal / serial communication
+cables etc.
+• Laying of trays/structural and support for field tubing.
+• All utilities as mentioned above.
+• Canopy for the data logger junction box.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 3: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+FOR Site
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90330000
+Freight Charges
+Our A/c
+Insurances
+Customer A/c
+Delivery
+Within 20 weeks from the date of receipt of Purchase Order
+Offer validity
+30 days
+Payment Terms
+100% Payment against Performa Invoice
+GSTIN NO
+30AADCA1647D1ZF
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Samaresh Dey
+
+Zafar Ali
+samaresh@adage-automation.com
+
+zafar@adage-automation.com
++91 9769012864
+
++91 78560 77462
+ADAGE- GOA
+
+ADAGE- GOA

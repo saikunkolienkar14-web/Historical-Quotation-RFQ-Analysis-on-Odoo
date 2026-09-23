@@ -1,0 +1,3844 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please
+find enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which
+includes analysers as per your requirement.
+
+TECHNO COMMERCIAL OFFER
+
+ADAGE QUOTE REF:
+Q25G10098
+DATED : 07.08.2025
+BID TYPE : Budgetary
+PROJECT TITLE:
+EPCC PACKAGE OF POLYPROPYLENE AND BUTENE-1 UNIT” FOR
+BINA PETCHEM AND REFINERY EXPANSION PROJECT
+
+INQUIRY DETAILS:
+MR No.: ONS-PE-0078-IN-QJ-J6-001 Rev. P2
+CUSTOMER:
+
+Mr. Sathish kumar
+Larsen & Toubro Limited
+L&T Energy – Hydrocarbon (Onshore)
+
+END USER:
+
+BPCL BINA
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Offering Basis
+SECTION-2: Summary of Prices
+SECTION-3: Technical Literature
+SECTION-4: Scope Definition
+SECTION-5: Commercial Terms & Condition
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Vikash Kumar
+ADAGE AUTOMATION PVT LIMITED
+MOB: +91 9860746003
+vikash@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+
+16 offices across India
+
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+
+A team of over 300 professionals, including 200+ specialist engineers
+
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Clarification
+
+1. Please note that the process data sheets for some of the tags were not provided. Accordingly, we
+have quoted based on our previous experience with similar requirements. Once we receive the
+specific data sheets, we will review and propose the exact model numbers. Please be advised that
+the final prices may vary based on the confirmed specifications.
+2. We have quoted a fixed-type welded probe. If a special or custom probe is required, the price may
+vary depending on your specific requirements.
+3. We have quoted single Ex-proof AC for standalone analyzer cabinet with MOC: SS304.
+4. We have quoted the moisture analyzer (Aluminum oxide) and Oxygen analyser in field mounted
+primary sample handling box, near to the tapping within 5 meters.
+5. As per the Annexure-5, we have quoted cycle gas GC for mesurement of C2H6,C3H6, C2H4, H2,
+N2, & C3H8. As per design guidance for analyser systems, CO analysis of cycle gas to be
+route/measure in propylene feed stream GC. Kindly check whether you want to measure the CO of
+cycle gas GC. If yes, then you have to mount/kept all the GC,s in one shelter.
+6. We have quoted the PPU package as per attached ANNEXURE-1 P&ID.
+7. We have quoted the shelter size for the mentioned analysers in the offer, including an additional
+25% spare space.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Details As per Attachment-4 of MR copy, Design Guidance for Analyzer Systems for PPU
+
+We have offered system as per below table. Please refer our remarks below against each tag.
+
+Table 3 – Continuous Analysis Requirements
+
+Stream
+Analyzer Point
+Components To
+Be Analyzed
+Remark by ADAGE
+Ethylene Supply &
+Purification
+AE-01119 & 10416
+H2O
+
+Nitrogen Supply &
+Purification
+AE-90102 & AE-11101
+AE-90103 & AE-11102
+H2O, O2
+
+Hydrogen Supply &
+Purification
+AE-11127 & AE-12201
+AE-11128 & AE-12202
+H2O, O2
+Tag No. should be, as per
+ANNEXURE 5- Analyser list
+AE-01127 & AE-12201
+AE-01128 & AE-12202
+Propylene Supply &
+Purification
+AE-01124 & AE-20503
+AE-01125 & AE-20504
+H2O, O2
+
+Mixer Feed Hopper/Vent
+Filter
+AE-70307
+O2
+
+Table 4 – Timed Cycle Analysis Requirements
+
+Stream
+Analyzer Point
+Normal Maximum
+Response
+Time, minutes
+Remark by ADAGE
+Ethylene Supply &
+Purification
+AE-01118 & 10415
+AE-01120 & 10417
+6 or less
+AE-01120 & 10417 – Quoted GC.
+CO & CO2 of Hydrogen Supply &
+Purification will sequentially analysis
+(AE 01129 & AE 12203).
+AE-01118 & 10415 – Separate O2
+quoted, as per table -2 Analyzer
+Configuration Suggestions.
+Nitrogen Supply &
+Purification
+AE-90101
+6 or less
+Quoted FID analyzer for Total HC
+measurement.
+Hydrogen Supply &
+Purification
+AE-01123 & AE-20502
+AE-01126 & AE-20505
+6 or less
+Tag No. should be, as per
+ANNEXURE 5- Analyser list
+AE-01129 & AE-12203 – CO & CO2
+will sequentially analysis in GC of
+Ethylene Supply & Purification
+AE-01126 & AE-20505 – This tag
+belongs to Propylene stream
+Propylene Supply &
+Purification
+AE-01123 & AE-20502
+AE-01126 & AE-20505
+6 or less
+AE-01126 & AE-20505– Quoted GC
+AE-01123 & AE-20502 – Quoted
+PAC for Total Sulfur.
+Reactor 310-RB-00-401
+Cycle Gas
+AE-40312
+3 or less
+Quoted GC
+Vent Recovery System
+
+Reactor 310-RB-00-431
+Cycle Gas
+AE-52310, AE-52515,
+AE-52608,
+AE-52704, AE-52811
+
+AE-43314
+6 or less
+
+Quoted 6 streams GC.
+5 streams of vent recovery.
+
+1 stream will be back up stream of
+cycle gas
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: OFFERING BASIS
+
+1. As per licensor document please refer to the below table to understand the GC configuration for PP
+
+GC
+No.
+Stream No.
+and detail
+Details
+GC configuration
+GC Model
+GC-1
+AE-12203
+
+(Hydrogen to
+reaction)
+1. CO and CO2 measurement
+for streams of hydrogen and
+propylene processes shall
+be automated
+2. Manual switching shall be
+done between inlet and outlet of
+process i.e. AE-12203 and AE-
+01129(hydrogen)
+
+3. Manual switching shall be
+done between inlet and outlet of
+process i.e. AE-01120 and AE-
+10417(Ethylene)
+Common GC for CO and CO2 analysis
+of AE-12203/AE-01129 and AE-
+01120/AE-10417,
+
+Stream switching between process
+areas i.e. hydrogen and ethylene to be
+via an automatic switching device.
+
+Manual switching shall be done between
+inlet and outlet of process.
+Maxum Ed-II
+AE-01129
+
+(Hydrogen to
+purification)
+GC-2
+AE-01126
+
+(propylene to
+Purification)
+1. Manual switching between
+streams AE-01126 and AE-
+20505.
+
+1. GC-2, Oven-1: AE-01126 / AE-
+20505
+
+Manual switching shall be done between
+inlet and outlet of process.
+Maxum Ed-II
+
+AE-20505
+
+(propylene to
+charge pump)
+GC-3
+AE-01130
+AE-01131
+(propylene to
+Purification)
+1. Manual switching between
+streams AE-01130/01131 and
+AE-20505/20507.
+
+Manual switching shall be done between
+inlet and outlet of process.
+Maxum Ed-II
+AE-20506
+AE-20507
+(propylene to
+charge pump)
+GC-4
+AE-40312
+1. Dedicated GC for cycle gas
+compressor
+
+1. Dedicated GC for cycle gas
+compressor
+
+Maxum Ed-II
+GC-5
+AE-52310
+1. Automatic Switching between
+5 streams, AE-52310, AE-
+52515, AE-52608, AE-52704
+and AE-52811,
+2. Back up for Cycle gas
+analyzer AE-40312
+1. GC-5, Oven-1: All 5 streams in
+sequential analysis
+2. GC-5 Oven-2: back up for Cycle gas
+analyzer (Except CO)
+Maxum Ed-II
+AE-52515
+AE-52608
+AE-52704
+AE-52811
+
+2. Timed cycle analysis is considered as per licensor document table-4.
+
+3. We have considered and quoted below Make analysers
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Gas Chromatograph
+Make: Valmet, Model: Maxum Ed II
+The communication output shall be ethernet RS 485 serial modbus output & 4-20mA analog output
+for measuring component. This also has digital outputs for customer configuration.
+
+4. UV based Total Sulfur Analyser
+Make: PAC, Model: NSure
+The communication output shall be ethernet RS 485 serial modbus output & 4-20mA analog output
+for measuring component. This also has digital outputs for customer configuration.
+
+5. Paramagnetic Oxygen Analyser
+Make: Siemens/Michell, Model: Oxymat 6F
+The communication output shall be ethernet RS 485 serial modbus output & 4-20mA analog output
+for measuring component. This also has digital outputs for customer configuration.
+
+6. Electrochemical Oxygen Analyser
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Make: Michell / Panametrics
+The communication output shall be 4-20mA analog output for measuring component. This also has
+digital outputs for customer configuration.
+
+7. Moisture Analyser
+Make: Michell / Panametrics
+The communication output shall be 4-20mA analog output for measuring component. This also has
+digital outputs for customer configuration.
+
+8. Hydrocarbon Analyser
+Make: Siemens, Model: Fidamat 6
+The communication output shall be ethernet RS 485 serial modbus output & 4-20mA analog output
+for measuring component. This also has digital outputs for customer configuration.
+
+9. The following electrical supplies shall be available at each analyser shelter and field cabinet/rack
+assembly:
+o 110 VAC +/- 3 %, 50 HZ single phase UPS backed. This supply will be for
+analysers, shelter PLC, PLC purge unit, heated pressure regulators and wall
+sockets.
+o 415 VAC 50 Hz 3 phase. Typically used for HVAC systems.
+
+10. All the sample returns(Fastloop) in vapour GC‘s shall be connected to a Common Return Header
+near the AH to route the sample returns to corresponding Carrier Gas compressor suction line or to
+LP flare.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: SUMMARY OF PRICES
+
+Sr.
+No.
+Stream
+Names
+Tag No
+Item Description
+Qty
+Total Price
+1.1
+Nitrogen to
+Purification
+
+Nitrogen to
+User
+
+&
+
+Regeneration
+Nitrogen
+AE-90101
+Total Hydrocarbon Analyser
+1 No
+2,82,00,000
+1.2
+AE-90103
+Moisture Analyser
+1 No
+1.3
+AE-90102
+Electrochemical Oxygen Analyser
+system
+1 No
+1.4
+AE-11102
+Moisture Analyser
+1 No
+1.5
+AE-11101
+Electrochemical Oxygen Analyser
+system
+1 No
+1.6
+AE-21201
+Moisture Analyser
+
+1 No
+1.7
+AE-21202
+Electrochemical Oxygen Analyser
+system
+
+1 No
+1.8
+AE-21203
+Total Hydrocarbon Analyser
+1 No
+2.1
+Hydrogen to
+Reaction and
+Hydrogen to
+Purification
+
+and
+
+Ethylene to
+Purification
+and Ethylene
+to Reaction
+AE-01127
+AE-12201
+Moisture Analyser
+2Nos
+2,95,00,000
+2.2
+AE-01128
+AE-12202
+Electrochemical Oxygen Analyser
+system
+2Nos
+2.3
+AE-01119
+AE-10416
+Moisture Analyser
+2Nos
+2.4
+AE-01118
+AE-10415
+Electrochemical Oxygen Analyser
+system
+2Nos
+2.5
+AE-01129
+AE-12203
+Gas chromatograph for hydrogen
+purification
+
+Note: Timed Cycle Analysis
+1 No
+3.1
+Propylene to
+Purification
+
+And
+
+Propylene to
+Charge pump
+AE-01124
+AE-20503
+Moisture Analyser
+2Nos
+4,60,00,000
+3.2
+AE-01125
+AE-20504
+Electrochemical Oxygen Analyser
+system
+2Nos
+3.3
+AE-01126
+AE-20505
+Gas chromatograph for propylene
+purification
+
+Note: Timed Cycle Analysis
+1 No
+3.4
+AE-01123
+AE-20502
+2 Stream Total Sulfur Analyser
+
+Note: Timed Cycle Analysis
+
+1 No
+3.5
+AE-01130
+AE-01131
+AE-20506
+AE-20507
+Gas chromatograph for propylene
+purification for measurement of
+Arsine, Phosphine & Ammonia
+
+Note: Timed Cycle Analysis
+1 No
+2,25,00,000
+4
+Cycle Gas
+from
+Compressor
+AE-40312
+Gas chromatograph system for cycle
+gas
+
+1 No
+2,30,00,000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+5
+Vent
+Recovery
+System
+AE-52310
+AE-52515
+AE-52608
+AE-52704
+AE-52811
+Gas chromatograph system for Vent
+gas
+
+Note: Timed Cycle Analysis
+1 No
+3,00,00,000
+6
+Propane
+Purge
+AE-52812
+Moisture Analyser
+1 No
+35,00,000
+7
+
+AE-86201
+HC Analyser
+1 No
+52,00,000
+8
+AE-86301
+HC Analyser
+1 No
+52,00,000
+9
+AE-90104
+TOC Analyser
+1 No
+46,00,000
+10
+AE-90105
+TOC Analyser
+1 No
+46,00,000
+11
+AE-11902
+HC Analyser
+1 No
+52,00,000
+12
+AE-90203
+Conductivity Analyser
+1 No
+5,50,000
+13
+AE-80403
+HC Analyser
+1 No
+52,00,000
+14
+AE-85201
+HC Analyser
+1 No
+52,00,000
+15
+
+AE-85301
+HC Analyser
+1 No
+52,00,000
+16
+AE-85401
+HC Analyser
+1 No
+52,00,000
+17
+
+AE-90106
+Electrochemical Oxygen Analyser
+system
+1 No
+32,00,000
+18
+
+AE- 90107
+Moisture Analyser
+1 No
+35,00,000
+19
+AE-90204
+pH Analyser
+1 No
+6,00,000
+20
+AE-90205
+HC Analyser
+1 No
+57,00,000
+21
+
+AS-01
+Analyser shelter with redundant
+HVAC for mounting of above gas
+chromatographs – 03 Nos., sulfur
+analyser-1 No., THC -02 Nos. (PPU
+plant) – 8mts (L) X 3mts (W) X 3
+mts (H)
+1 No.
+2,10,00,000
+22
+
+AS-02
+Analyser shelter with redundant
+HVAC for mounting of gas
+chromatographs – 2 No.(PPU plant)
+4mts (L) X 3mts (W) X 3 mts (H)
+1 No
+1,85,00,000
+BUTENE-1
+23
+-
+AS-01
+Analyser shelter with redundant
+HVAC for mounting of BELOW gas
+chromatographs - 04 Nos.
+(BUTENE-1 plant) - 5mts (W) X
+3mts (H) X 3 mts (L)
+1 No
+1,90,00,000
+24
+-
+AT-1202
+HC Analyser
+1 No
+57,00,000
+25
+Ethylene
+Purification
+AT-2001A
+Gas chromatograph system
+1 Nos
+1,80,00,000
+26
+Ethylene
+Purification
+AT-2001B
+Gas chromatograph system
+1 Nos
+1,80,00,000
+27
+-
+AT-2002A
+Moisture Analyser
+1 No
+35,00,000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+28
+-
+AT-2003
+Moisture Analyser
+1 No
+35,00,000
+29
+Recycle
+Column
+Reflux Drum
+AT-4501
+Gas chromatograph system
+1 No
+2,28,00,000
+30
+BUTENE-1
+Column
+Reflux Drum
+AT-4701
+Gas chromatograph system
+1 No
+1,90,00,000
+31
+-
+AT-5201A
+Moisture Analyser
+1 No
+35,00,000
+32
+-
+AT-5201B
+Moisture Analyser
+1 No
+35,00,000
+33
+-
+-
+Inspection & Factory Acceptance
+tests (FAT)
+1 Lot
+3,00,000
+34
+-
+-
+Erection, Pre-commissioning and
+Commissioning Spares
+1 Lot
+1,00,000
+35
+-
+-
+Mandatory Spares common for PPU
+& BUTENE-1
+1 Lot
+4,60,00,000
+36
+-
+-
+2 years Operational and
+Maintenance Spares for as per
+Adage recommendation
+1 Lot
+85,00,000
+37
+-
+-
+Consumables for 1 year operation
+after SAT
+1 Lot
+11,00,000
+38
+-
+-
+Packing & forwarding
+1 Lot
+3,00,000
+39
+-
+-
+Special Tools & Tackles
+Shall be supplied as required
+1 Lot
+1,25,000
+40
+-
+-
+Transportation
+1 Lot
+6,00,000
+41
+-
+-
+Supervision during Erection and
+Installation (Per Diem rates)
+Per diem
+50,000
+42
+-
+-
+Documentation
+1 Lot
+3,50,000
+43
+-
+-
+Training as per specification
+Lumpsum
+3,00,000
+44
+-
+-
+1 year extended warranty (in
+addition to standard warranty 12/18)
+12
+Months
+1,20,00,000
+45
+-
+-
+5 Years Comprehensive AMC post
+guarantee
+Lumpsum
+9,95,00,000
+TOTAL PACKAGE PRICE 56,70,75,000
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: TECHNICAL LITERATURE
+
+S. No
+Description
+Qty.
+Price
+1.1
+
+Total Hydrocarbon for Nitrogen Stream:
+TAG NO: AE-90101
+Service 1: Nitrogen to Purification
+MODEL: Fidamat 6
+MAKE: Siemens
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+1.2
+Moisture for Nitrogen Stream:
+
+TAG NO: AE-90103
+Service 1: Nitrogen to Purification
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.3
+Oxygen for Nitrogen Stream:
+
+TAG NO: AE-90102
+Service 1: Nitrogen to Purification
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.3A
+Sample Welded Probe for Nitrogen Stream as per below
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.3B
+PSHS system for Nitrogen Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+
+Note:
+Common tapping shall be used for moisture, oxygen and
+hydrocarbon analyzers in field for Streams AE-90101/02 and 03.
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+1 No.
+Quoted
+1.3C
+Non Heated SSHS system.
+-
+With isolation valve, filter and rotameter assembly
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+1.3D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+1 No.
+Quoted
+1.3E
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+1/4" OD SS316 Tube from PSHS to SSHS – 95Mtrs
+
+1 Lot
+Quoted
+1.4
+Moisture for Nitrogen Stream:
+TAG NO: AE-11102
+Service 1: Nitrogen to User
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.5
+Oxygen for Nitrogen Stream:
+TAG NO: AE-11101
+Service 1: Nitrogen to User
+MODEL: Minox or Delta F
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1.5A
+Sample Welded Probe for Nitrogen Stream as per below
+
+1 No.
+Quoted
+1.5B
+PSHS system for Nitrogen Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+
+Note:
+Common tapping shall be used for oxygen, moisture analyzers in
+field for Streams AE-11101 and 02.
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.5C
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+
+1 Lot
+Quoted
+1.6
+Moisture for Regeneration Nitrogen Stream:
+
+TAG NO: AE-21201
+Service : Regeneration Nitrogen
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+Quoted
+1.7
+Oxygen for Regeneration Nitrogen Stream:
+
+TAG NO: AE-21202
+Service : Regeneration Nitrogen
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+1.8
+Total Hydrocarbon for Regeneration Nitrogen Stream:
+TAG NO: AE-21203
+Service 1: Nitrogen to Purification
+MODEL: Fidamat 6
+MAKE: Siemens
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+1.8A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.8B
+PSHS system for Nitrogen Flare Stream
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, heated
+pressure regulator etc.
+-
+Mounted inside SS316 enclosure
+
+Note:
+Common tapping shall be used for oxygen, moisture and Gas
+chromatograph in field for Streams AE-21201/02 and 03
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+1 No.
+Quoted
+1.8C
+Non Heated SSHS system.
+-
+With isolation valve, filter and rotameter assembly
+-
+Mounted outside shelter wall inside SS enclosure.
+
+1 No.
+Quoted
+1.8D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+1.8E
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+1/4" OD SS316- from PSHS to SSHS – 95Mtrs X 1
+1 Lot
+Quoted
+Hydrogen and Ethylene Stream
+2.1
+Moisture for hydrogen Stream:
+
+TAG NO: AE-01127 & AE-12201
+Service : Hydrogen to reaction and Purification
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.2
+Oxygen for Hydrogen Stream:
+
+TAG NO: AE-01128 & AE-12202
+Service : Hydrogen to reaction and Purification
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+2 Nos.
+Quoted
+2.3
+Moisture for Ethylene Stream:
+
+TAG NO: AE-01119 & AE-10416
+Service : Hydrogen to reaction and Purification
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+2.4
+Oxygen for Ethylene Stream:
+
+TAG NO: AE-01118 & AE-10415
+Service : Hydrogen to reaction and Purification
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+2 Nos.
+Quoted
+2.5
+Gas chromatograph for hydrogen Purification :
+TAG NO: AE-01129 & AE-12203
+Service 1: Hydrogen to reaction and Purification
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+Technical Notes
+Common GC for CO and CO2 Analysis of AE-01129 / AE-12203 and
+AE-02011 / AE-10417, sequential analysis.
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+2.5A
+Sample Tapping Arrangement for Hydrogen and Ethylene
+4 Nos.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Line
+
+2.5A
+PSHS system for Hydrogen and Ethylene Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+
+Note:
+Common tapping shall be used for oxygen, moisture and Gas
+chromatograph analyzers in field for Streams AE-01127/28/29,
+AE-12201/02/03, AE-01118/19/20 and AE-10415/16/17.
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+4 Nos.
+Quoted
+2.5B
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+2.5C
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+2.5D
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr X 4
+1/4" OD SS316 Tube from PSHS to SSHS – 95Mtrs X 4
+
+1 Lot
+Quoted
+Propylene Stream
+3.1
+Moisture for Propylene Stream:
+
+TAG NO: AE-01124 and AE-20503
+Service : Propylene to Purification and charge pump
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+3.2
+Oxygen for Propylene Stream:
+
+TAG NO: AE-01125 and AE-20504
+Service : Propylene to Purification and charge pump
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+2 Nos.
+Quoted
+3.3
+Gas chromatograph for Propylene Purification :
+TAG NO: AE-01126 and AE-20505
+Service : Propylene to Purification and charge pump
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+3.4
+Total Sulfur for Propylene Purification :
+TAG NO: AE-01123 and AE-20502
+Service : Propylene to Purification and charge pump
+MODEL: NSure
+MAKE: PAC
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01.
+1 No.
+Quoted
+3.4A
+Sample Welded Probe for Propylene Stream as per below
+
+2 Nos.
+Quoted
+3.4B
+PSHS system for Propylene Streams
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, heated
+pressure regulator etc.
+-
+Mounted inside SS316 enclosure
+
+Note:
+Common tapping shall be used for oxygen, moisture, Gas
+chromatograph and Sulfur analyzers in field for Streams AE-
+01123/24/25/26 and AE-20502/03/04/05
+Oxygen and moisture sensors shall be mounted inside PSHS as
+indicated in above drawing.
+2 Nos.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Cable 1PX1.5mm2 Signal Cable from sensor unit to Shelter shall
+be provide by M/s Adage.
+3.4C
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+
+1 Nos.
+Quoted
+3.4D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+3.4E
+Sample Tubing
+1/4" OD SS316-Sulfinert HTT from Tapping to PSHS – 5Mtr X 2
+1/4" OD SS316-Sulfinert HTT Tube from PSHS to SSHS – 95Mtrs
+X 2
+
+1 Lot
+Quoted
+Cycle Gas Stream
+4
+Gas chromatograph for cycle Gas :
+TAG NO: AE-40312
+Service : Cycle gas from compressor
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-02.
+
+Technical Notes
+Please refer to Note 1 for Offer Basis
+
+1 No.
+Quoted
+4.A
+Sample Welded Probe for Cycle Gas Stream as per below
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+4.B
+PSHS system for Propylene Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+4.C
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+4.D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+4.E
+Sample Tubing
+1/4" OD SS316 HTT from PSHS to SSHS – 100Mtrs
+
+1 Lot
+Quoted
+Vent Recovery Streams
+5
+Gas chromatograph for Vent Recovery :
+TAG NOS: AE-52310, AE-52515, AE-52608, AE-52704 & AE-
+52811
+Service : Vent Recovery
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-02.
+Technical Notes
+
+Please refer to Note 1 for Offer Basis
+1 No.
+Quoted
+5.A
+Sample Welded Probe for line size above 2”
+
+5 Nos.
+Quoted
+5.B
+PSHS system for Liquid Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+3 Nos.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+5.C
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+2 Nos.
+Quoted
+5.D
+SSHS system.
+-
+Shall be as per licensor P&ID as below.
+-
+Mounted outside shelter wall inside SS enclosure.
+1 No.
+Quoted
+5.E
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+5.F
+Sample Tubing
+1/4" OD SS316 from PSHS to SSHS – 100Mtrs X 5
+1 Lot
+Quoted
+Propane Purging
+6
+Moisture for Propane Purging Stream:
+
+TAG NO: AE-52812
+Service 1: Propane Purging
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+
+Quoted
+6.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+6.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+6.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+
+1 Lot
+Quoted
+7
+Hydrocarbon Analyzer
+
+Tag No: AE-86201
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+
+1 No
+Quoted
+7.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+7.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+7.C
+Cabinet for HC Analyser:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+1 No.
+Quoted
+7.D
+Purge Cabinet for Analyser with Purge controller
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+7.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+7.F
+Sample Tube:
+-
+1/4” OD SS316 HTT
+
+100
+meters
+Quoted
+8
+Hydrocarbon Analyzer
+
+Tag No: AE-86201
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+
+1 No
+Quoted
+8.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+8.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+8.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+1 No.
+Quoted
+8.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+8.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+8.F
+Sample Tube:
+-
+1/4” OD SS316 HTT
+
+100
+meters
+Quoted
+9
+TOC Analyser
+
+Tag no: AE-90104
+Make: HACH / E&H / Forbes Marshall (Safe area mounted inside
+purged cabinet)
+Hazardous Area Classification: Zone 1 llC
+Mounting location: Inside X-Purged cabinet
+IP rating : Analyser shall be mounted inside IP65 Purged cabinet
+
+-
+Sample Return: to Drain
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 232 serial interface
+-
+Potential free contacts for fault & other alarms.
+
+Utility required:
+-
+110VAC 50Hz, UPS power supply
+-
+230VAC 50Hz, Non-UPS Power supply
+-
+Cooling water
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+9.A
+Sample Probe:
+-
+1.5’’ 300# RF flange
+-
+Probe tube with welded isolation valve
+
+1 No
+Quoted
+9.B
+Sample Transportation tube:
+-
+1/4’’ OD SS316 tube
+
+100 Mtr
+Quoted
+9.C
+Secondary Sample Handling system
+-
+ball valve, Pressure indicator, Fast loop filter (Redundant
+configuration, Bypass rotameter, Sample Rotameter with
+low flow switch, Heat Exchanger, TSV etc
+
+1 Set
+Quoted
+9.D
+Cabinet Specification:
+-
+MOC: SS304, 2 mm Thick
+-
+With Canopy, Extending 500mm in all sides. MOC: SS304
+-
+With Ex Proof Ac
+-
+With Junction Boxes, LM6
+-
+With Header & Accessories
+
+1 No
+Quoted
+9.E
+Buffer solution shall be provided for commissioning and 1
+year operation from date of SAT.
+
+1 Lot
+Quoted
+10
+TOC Analyser
+
+Tag no: AE-90105
+Make: HACH / E&H / Forbes Marshall (Safe area mounted inside
+purged cabinet)
+Hazardous Area Classification: Zone 1 llC
+Mounting location: Inside X-Purged cabinet
+IP rating : Analyser shall be mounted inside IP65 Purged cabinet
+
+-
+Sample Return: to Drain
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 232 serial interface
+-
+Potential free contacts for fault & other alarms.
+
+Utility required:
+-
+110VAC 50Hz, UPS power supply
+-
+230VAC 50Hz, Non-UPS Power supply
+-
+Cooling water
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+10.A
+Sample Probe:
+-
+1.5’’ 300# RF flange
+-
+Probe tube with welded isolation valve
+1 No
+Quoted
+10.B
+Sample Transportation tube:
+-
+1/4’’ OD SS316 tube
+100 Mtr
+Quoted
+10.C
+Secondary Sample Handling system
+-
+ball valve, Pressure indicator, Fast loop filter (Redundant
+configuration, Bypass rotameter, Sample Rotameter with
+low flow switch, Heat Exchanger, TSV etc
+
+1 Set
+Quoted
+10.D
+Cabinet Specification:
+-
+MOC: SS304, 2 mm Thick
+-
+With Canopy, Extending 500mm in all sides. MOC: SS304
+-
+With Ex Proof Ac
+-
+With Junction Boxes, LM6
+-
+With Header & Accessories
+
+1 No
+Quoted
+10.E
+Buffer solution shall be provided for commissioning and 1
+year operation from date of SAT.
+
+1 Lot
+Quoted
+11
+Hydrocarbon Analyzer
+
+Tag No: AE-90202
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+1 No
+Quoted
+11.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+11.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+11.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+1 No.
+Quoted
+11.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+11.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+11.F
+Sample Tube:
+-
+1/4” OD SS316 HTT
+100
+meters
+Quoted
+12
+Conductivity Analyser
+
+Tag No: AE-90203
+Model: Aqua2trans Exia and FM8310
+Make: Forbes Marshall
+Operating Principle: Contacting type conductivity
+Hazardous Area Classification: Zone I IIC, T6, Exia
+IP Rating: IP67
+Power Supply: 24V DC, Loop Powered
+Mounting Location: Field with Skid and Canopy
+
+Sample Handling system as below:
+-
+With Sample Transport Line (1/2” OD SS316 Tube, 100
+mtr)
+-
+Wafer Type Probe
+-
+With Flow Through Chamber
+-
+With Indicator
+-
+With PG, TG.
+-
+With Rotameter
+-
+With Signal JB
+-
+With All Necessary Components Inclusive of Tube Fittings,
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Tube Connectors, Etc.
+-
+With buffer solution for validation purpose.
+
+Output :4-20mA DC with HART,
+
+Note: SHS as applicable for Quoted analyzer shall be considered.
+13
+Hydrocarbon Analyzer
+
+Tag No: AE-80403
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+1 No
+Quoted
+13.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+13.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+13.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+13.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+13.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+13.F
+Sample Tube:
+1/4” OD SS316 HTT
+100
+meters
+Quoted
+14
+Hydrocarbon Analyzer
+
+Tag No: AE-85201
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+1 No
+Quoted
+14.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+14.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+14.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+14.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+14.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+14.F
+Sample Tube:
+1/4” OD SS316 HTT
+100
+meters
+Quoted
+15
+Hydrocarbon Analyzer
+
+Tag No: AE-85301
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+1 No
+Quoted
+15.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+15.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+15.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+1 No.
+Quoted
+15.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+15.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+15.F
+Sample Tube:
+1/4” OD SS316 HTT
+100
+meters
+Quoted
+16
+Hydrocarbon Analyzer
+
+Tag No: AE-85401
+Service: Atmospheric Vent
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Instrument air required at cabinet
+1 No
+Quoted
+16.A
+Sample Welded Probe for line size above 2”
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+16.B
+Integration and supply of SHS System:
+
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+16.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+1 No.
+Quoted
+16.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+16.E
+Calibration cylinders & carrier gas cylinder
+
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+16.F
+Sample Tube:
+1/4” OD SS316 HTT
+100
+meters
+Quoted
+17
+Oxygen Analyzer
+TAG NO: AE-90106
+Service: Purified Nitrogen
+MODEL: Minox or Delta F
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+1 No.
+Quoted
+17.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+17.B
+PSHS system for Nitrogen Stream
+-
+Shall be as below P&ID.
+-
+Shall contain online filter, pressure gauge, pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+
+Note:
+Oxygen sensors shall be mounted inside PSHS as indicated in
+above drawing.
+
+1 No.
+Quoted
+17.C
+Sample Tubing
+1/4" OD SS316-EP HTT from Tapping to PSHS – 5Mtr
+
+1 Lot
+Quoted
+18
+Moisture Analyzer
+
+TAG NO: AE-90107
+Service: Purified Nitrogen
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+
+Quoted
+18.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+18.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+18.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+
+1 Lot
+Quoted
+19
+pH Analyser
+
+Tag No: 90204
+Model: Aquamon Smartpro 8966-EX
+Make: Forbes Marshall
+Operating Principle: Liquid Filled Electrode
+Hazardous Area Classification: Zone 1 IIC, T6 ,Exia
+IP Rating: IP68
+Power Supply: 24V DC, Loop Powered
+Mounting Location: Field with Skid and Canopy
+
+Sample Handling system as below:
+-
+With Sample Transport Line (1/2” OD SS316 Tube, 100
+mtr)
+-
+With Flow Through Chamber
+-
+With Indicator/Transmitter
+-
+With Rotameter
+-
+With Signal JB
+-
+With All Necessary Components Inclusive of Tube Fittings,
+Tube Connectors, Etc.
+-
+With buffer solution for validation purpose.
+
+Output :4-20mA DC with HART,
+
+Note: SHS as applicable for Quoted analyzer shall be considered.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+20
+Hydrocarbon Analyzer
+
+Tag no: AE-90205
+Service: Condensate Return Pump
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge
+control unit.
+Mounting Location: Inside Analyser Cabinet
+
+Nitrogen required for stripper assembly
+Instrument air required at cabinet
+
+Sample Return Details:
+-
+Vapour to ATM vent header at Cabinet side
+-
+Open Liquid drain for water from PSHS
+1 No
+Quoted
+20.A
+Sample Probe:
+-
+1.5’’ 300# RF flange
+-
+Probe tube with welded isolation valve
+1 No
+Quoted
+20.B
+Integration and supply of SHS System:
+
+-
+Stripper Assembly
+-
+Secondary Sample Handling System consisting of ball
+valve, Filters, SRV, any other accessories as required
+
+1 Set
+Quoted
+20.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4
+sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+1 No.
+Quoted
+20.D
+Purge Cabinet for Analyser with Purge controller
+1 No.
+Quoted
+20.E
+Calibration cylinders & carrier gas cylinder
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+
+1 Lot
+Quoted
+20.F
+Sample Transportation tube
+-
+1/2” inch SS316
+
+100
+MTRS
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+21
+Analyser shelter
+Tag no: AS-01
+Area classification outside analyser shelter: Zone 1, IIB, T3
+Area classification inside analyser shelter: Zone 1, IIB, T3
+Analyser shelter to house below analysers:
+
+Total Hydrocarbon Analyser – 2 No.
+
+Hydrogen Purification GC- 1 No.
+
+Propylene Purification GC- 2 No.
+
+Sulfur Analyser- 1No.
+
+Analyser shelter design & construction details:
+-
+Dimensions- 8 mtrs x 3 mtrs x 3 mtrs, as per MR
+-
+MOC-SS304,
+-
+2 mm thick internal wall with ss finish.
+-
+2 mm thick outer wall with ss finish.
+-
+80mm insulation of rock/mineral wool
+-
+Overhang roof canopy-1 meter, MOC: SS304.
+-
+Base frame: ISMC 150
+-
+Panic bar installed on each door.
+-
+Floor: 5 mm thick anti-slip and non-corrosive aluminum
+chequered plate.
+-
+Doors: main door and emergency door double door
+-
+Louvers: 4 no’s
+-
+Cable entry to shelter: through MCT block.
+-
+Tube entry to shelter: through gromet/bulkhead plate.
+-
+Cable tray: FRP
+-
+Portable fire extinguisher.
+-
+Light Switch near main door.
+-
+With Auto changeover regulator for GC’s
+-
+With Vent recovery system make Parker Hafinn/Equivalent
+Mounted on shelter wall.
+-
+Bubbling bottle for GC vent Make Uehling or Equivalent
+
+Electrical specifications:
+-
+F&G devices as per attached Annexure A
+-
+Power distribution & warning panels, exd
+-
+Shelter safeguarding plc mounted inside purged
+enclosure.
+-
+Junction boxes, Exd
+
+HVAC specifications
+-
+Redundant HVAC with common chemical filter
+-
+MOC: SS304.
+-
+Capacity – 7.5 tr (each)
+-
+Fresh air duct: 8 mtrs, MOC:GI
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Diff pressure transmitter
+1
+Humidity Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, (With DMR Configuration at processor, Power
+supply, I/O level)
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB.
+1 LOT
+Electrical fittings & components
+
+Auto Transfer switch for UPS switchover
+1
+230 VAC UPS Switch Socket (Inside shelter)
+1
+230 VAC NON-UPS Switch Socket (Inside shelter)
+1
+Pneumatic Hooter
+1
+3 Way Beacon Xenon Flashing type
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench and chair
+1
+Portable Fire Extinguisher
+1
+Armoured XLPE Cables, Cable trays, cable Glands, Utility Headers with Air filter &
+Other Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+22
+Analyser shelter
+Tag no: AS-02
+Area classification outside analyser shelter: Zone 1, IIB, T3
+Area classification inside analyser shelter: Zone 1, IIB, T3
+Analyser shelter to house below analysers:
+
+Cycle Gas GC
+
+Vent Gas GC
+
+Analyser shelter design & construction details:
+-
+Dimensions- 4 mtrs x 3 mtrs x 3 mtrs, as per MR
+-
+MOC-SS304,
+-
+2 mm thick internal wall with ss finish.
+-
+2 mm thick outer wall with ss finish.
+-
+80mm insulation of rock/mineral wool
+-
+Overhang roof canopy-1 meter, MOC: SS304.
+-
+Base frame: ISMC 150
+-
+Panic bar installed on each door.
+-
+Floor: 5 mm thick anti-slip and non-corrosive aluminum chequered plate.
+-
+Doors: main door and emergency door double door
+-
+Louvers: 4 no’s
+-
+Cable entry to shelter: through MCT block.
+-
+Tube entry to shelter: through gromet/bulkhead plate.
+-
+Cable tray: FRP
+-
+Portable fire extinguisher.
+-
+Light Switch near main door.
+-
+With Auto changeover regulator for GC’s
+-
+With Vent recovery system make Parker Hafinn/Equivalent Mounted on shelter wall.
+-
+Bubbling bottle for GC vent Make Uehling or Equivalent
+
+Electrical specifications:
+-
+F&G devices as per attached Annexure A
+-
+Power distribution & warning panels, exd
+-
+Shelter safeguarding plc mounted inside purged enclosure.
+-
+Junction boxes, Exd
+
+HVAC specifications
+-
+Redundant HVAC with common chemical filter
+-
+MOC: SS304.
+-
+Capacity – 7.5 tr (each)
+-
+Fresh air duct: 8 mtrs, MOC:GI
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Diff pressure transmitter
+1
+Humidity Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, (With DMR Configuration at processor, Power
+supply, I/O level)
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB.
+1 LOT
+Electrical fittings & components
+
+Auto Transfer switch for UPS switchover
+1
+230 VAC UPS Switch Socket (Inside shelter)
+1
+230 VAC NON-UPS Switch Socket (Inside shelter)
+1
+Pneumatic Hooter
+1
+3 Way Beacon Xenon Flashing type
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench and chair
+1
+Portable Fire Extinguisher
+1
+Armoured XLPE Cables, Cable trays, cable Glands, Utility Headers with Air filter &
+Other Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Technical Summary for Butene-1
+23
+Analyser shelter
+Tag no: AS-01
+Area classification outside analyser shelter: Zone 2, IIC, T3
+Area classification inside analyser shelter: Zone 1, IIC, T3
+Analyser shelter to house below analysers:
+
+Recycle Column Reflux Drum
+
+BUTENE-1 Column Reflux Drum
+
+Ethylene Purification x 2
+Analyser shelter design & construction details:
+-
+Dimensions- 5 mtrs x 3 mtrs x 3 mtrs
+-
+MOC-SS304,
+-
+2 mm thick internal wall with ss finish.
+-
+2 mm thick outer wall with ss finish.
+-
+80mm insulation of rock/mineral wool
+-
+Overhang roof canopy-1 meter, MOC: SS304.
+-
+Base frame: ISMC 150
+-
+Panic bar installed on each door.
+-
+Floor: 5 mm thick anti-slip and non-corrosive aluminum chequered
+plate.
+-
+Doors: main door and emergency door double door
+-
+Louvers: 4 no’s
+-
+Cable entry to shelter: through MCT block.
+-
+Tube entry to shelter: through gromet/bulkhead plate.
+-
+Cable tray: FRP
+-
+Portable fire extinguisher.
+-
+Light Switch near main door.
+-
+With Auto changeover regulator for GC’s
+
+Electrical specifications:
+-
+F&G devices as per attached Annexure A
+-
+Power distribution & warning panels, exd
+-
+Shelter safeguarding plc mounted inside purged enclosure.
+-
+Junction boxes, Exd
+
+HVAC specifications
+-
+Redundant HVAC with common chemical filter
+-
+MOC: SS304.
+-
+Capacity – 5tr (each)
+-
+Fresh air duct: 8 mtrs, MOC:GI
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+ANNEXURE -A
+DETAILED BOQ FOR SHELTER :
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Diff pressure transmitter
+1
+Humidity Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, (With DMR Configuration at processor, Power
+supply, I/O level)
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Intermediate PDBs / Power JB cum isolation switch for
+incomer cable termination prior to PDB.
+1 LOT
+Electrical fittings & components
+
+Auto Transfer switch for UPS switchover
+1
+230 VAC UPS Switch Socket (Inside shelter)
+1
+230 VAC NON-UPS Switch Socket (Inside shelter)
+1
+Pneumatic Hooter
+1
+3 Way Beacon Xenon Flashing type
+2
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench and chair
+1
+Portable Fire Extinguisher
+1
+Armoured XLPE Cables, Cable trays, cable Glands, Utility Headers with Air filter &
+Other Accessories as per MR
+1 LOT
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+24
+Hydrocarbon Analyzer
+
+Tag no: AE-1202
+Service: LP Condensate
+Model: Fidamat 6
+Make: Siemens
+Hazardous Area Classification: Zone 1, Gr IIB, T3 with Purge control
+unit.
+Mounting Location: Inside Analyser Cabinet
+
+Nitrogen required for stripper assembly
+Instrument air required at cabinet
+
+Sample Return Details:
+-
+Vapour to ATM vent header at Cabinet side
+-
+Open Liquid drain for water from PSHS
+1 No
+Quoted
+24.A
+Sample Probe: Line size is 2”- Hence probe is not applicable.
+-
+1.5” 150# RF Flange with isolation valve arrangement, MOC:
+SS316
+1 No
+Quoted
+24.B
+Integration and supply of SHS System:
+
+-
+Stripper Assembly
+-
+Secondary Sample Handling System consisting of ball valve,
+Filters, SRV, any other accessories as required
+-
+
+1 Set
+Quoted
+24.C
+Cabinet Specification:
+
+-
+Cabinet Dimensions: 800(W) X 800(D) X 2100(H), Approx.
+MOC: SS304, Canopy with 500 mm overhang on all 4 sides
+-
+With Ex-Proof AC., Make: Adage
+-
+With Junction Boxes, LM6
+-
+Power Distribution Box
+
+1 No.
+Quoted
+24.D
+Purge Cabinet for Analyser with Purge controller
+
+1 No.
+Quoted
+24.E
+Calibration cylinders & carrier gas cylinder
+-
+Suitable for 1 year operation after SAT.
+With Auto changeover system for carrier gas cylinders (2+2 banks)
+1 Lot
+Quoted
+24.F
+Sample Transportation tube
+-
+1/2” inch SS316
+100
+MTRS
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+25
+Gas chromatograph:
+TAG NO: AT-2001A
+Service: Ethylene Purification
+MODEL: Maxum ED II
+MAKE: Valmet (Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01 of BUTENE-1
+
+1 No.
+Quoted
+25.A
+Sample Welded Probe for line size above 2”
+
+.
+1 No.
+Quoted
+25.B
+PSHS system.
+-
+Shall contain online filter, pressure gauge, Pressure regulator,
+Cabinet Heater etc.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+25.C
+SHS system.
+-
+Mounted outside shelter wall inside SS316 enclosure.
+-
+Shall contain filter. Cabinet heater, Rotameters, ball valves,
+needle valves, AFR, Double block and bleed valve, Fittings.
+
+1 No.
+Quoted
+25.D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+25.E
+Sample Tubing
+1/4" OD SS316 HTT– 100Mtrs
+1 Lot
+Quoted
+26
+Gas chromatograph:
+TAG NO: AT-2001B
+Service: Ethylene Purification
+MODEL: Maxum ED II
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+MAKE: Valmet (Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01 of BUTENE-1
+26.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+26.B
+PSHS system.
+-
+Shall contain online filter, pressure gauge, Pressure regulator,
+Cabinet Heater etc.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+26.C
+SHS system.
+-
+Mounted outside shelter wall inside SS316 enclosure.
+-
+Shall contain filter. Cabinet heater, Rotameters, ball valves,
+needle valves, AFR, Double block and bleed valve, Fittings.
+
+1 No.
+Quoted
+26.D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+26.E
+Sample Tubing
+1/4" OD SS316 HTT– 100Mtrs
+1 Lot
+Quoted
+27
+Moisture Analyzer
+
+TAG NO: AT-2002A
+Service: Process
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+27.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+27.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+27.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+
+1 Lot
+Quoted
+28
+Moisture Analyzer
+
+TAG NO: AT-2003
+Service: Process
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+28.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+28.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+28.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+
+1 Lot
+Quoted
+29
+Gas chromatograph :
+TAG NO: AT- 4501
+Service : Recycle Column Reflux Drum
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01 of BUTENE-1
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+29.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+29.B
+PSHS system.
+-
+Shall contain online filter, pressure gauge, pressure regulator
+etc.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+29.C
+SHS system.
+-
+Mounted outside shelter wall inside SS316 enclosure.
+-
+Shall contain filter. Cabinet heater, Rotameters, ball valves,
+needle valves, AFR, Double block and bleed valve, Fittings.
+
+1 No.
+Quoted
+29.D
+Calibration and carrier gas cylinder
+-
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+29.E
+Sample Tubing
+1/4" OD SS316 HTT– 100Mtrs
+
+1 Lot
+Quoted
+30
+Gas chromatograph:
+TAG NO: AT- 4701
+Service: BUTENE-1 Column Reflux Drum
+MODEL: Maxum ED II
+MAKE: Valmet(Siemens)
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: inside Analyzer Shelter AS-01 of BUTENE-1
+
+1 No.
+Quoted
+30.A
+Sample Welded Probe for line size above 2”
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+30.B
+PSHS system.
+-
+Shall contain online filter, pressure gauge, Heated Pressure
+regulator etc.
+-
+Mounted inside SS316 enclosure
+
+1 No.
+Quoted
+30.C
+SHS system.
+-
+Mounted outside shelter wall inside SS316 enclosure.
+-
+Shall contain filter. Cabinet heater, Rotameters, ball valves,
+needle valves, AFR, Double block and bleed valve, Fittings.
+
+1 No.
+Quoted
+30.D
+Calibration and carrier gas cylinder
+Suitable for 1 year operation after SAT.
+
+1 No.
+Quoted
+30.E
+Sample Tubing
+1/4" OD SS316 HTT– 100Mtrs
+
+1 Lot
+Quoted
+31
+Moisture Analyzer
+
+TAG NO: AT-5201A
+Service: Process
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+
+Quoted
+31.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+31.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+31.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+
+1 Lot
+Quoted
+32
+Moisture Analyzer
+
+TAG NO: AT-5201B
+Service: Process
+MODEL: Easidew or Hygropro
+MAKE: Michell or GE Panametrics
+Hazardous Area Classification: Zone 1, GR llB T3.
+Mounting Location: in Field Primary SHS
+
+1 No.
+
+Quoted
+32.A
+Sample Welded Probe for line size above 2”
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+32.B
+PSHS system for Gas Streams
+-
+Shall be as below P&ID.
+-
+Mounted inside SS316 enclosure
+1 No.
+Quoted
+32.C
+Sample Tubing
+1/4" OD SS316-EP HTT from PSHS to SSHS – 5Mtrs
+
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Section 3: Scope Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyzer as per offer/BOQ.
+Yes
+
+2
+Analyser House with HVAC
+Yes
+
+3
+Analyser Cabinet with AC
+Yes
+
+4
+Sample Tapping Nozzle Flange
+
+Yes
+5
+Process Isolation Valve at tapping point
+
+Yes
+6
+Sample Probe with flanges gaskets and nut bolts.
+Yes
+
+7
+Sample Transportation Line ( Bare SS316 tube)
+Yes
+
+8
+Sample Transportation Line ( Special tubes like EHT, EP, Sulfinert, etc)
+Yes
+
+9
+Sample Return Line
+Yes
+10
+Isolation Valve at process return point
+
+Yes
+11
+Supply of Calibration Cylinders with accessories
+Yes
+
+12
+Supply of Carrier Gas cylinders
+Yes
+
+13
+Auto change over regulator with Accessories
+Yes
+
+14
+Network Components
+Yes
+
+15
+Signal JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+
+16
+Intermediate JBs
+Yes
+
+17
+Sample Conditioning System
+Yes
+
+18
+Supply of startup and commissioning spares
+Yes
+
+19
+Supply of Mandatory spares
+Yes
+
+20
+Consumables spares
+Yes
+
+21
+Inspection & Testing
+Yes
+
+22
+Project Management & Project Documentation
+Yes
+
+23
+Factory Acceptance Test at Adage Works
+Yes
+
+24
+8 Hours Repeatability Test reports-OPTIONAL
+
+25
+Packing forwarding
+Yes
+
+26
+Freight up to site including Insurance
+Yes
+27
+Storage of supplied system at site
+
+Yes
+28
+Civil foundation as required
+
+Yes
+29
+Mobilization of supplied system from Stores to location.
+
+Yes
+30
+Installation of supplied system at site
+
+Yes
+31
+Supply of Standard Field Cables including signal, power & FO.
+
+Yes
+32
+Field supporting structure for cables, transportation tubes etc.
+
+Yes
+33
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+
+Yes
+34
+laying of Trays (Power, Signal, Sample line, Air etc)
+
+Yes
+35
+Provision of dry instrument Air
+
+Yes
+36
+Provision of Plant Nitrogen
+
+Yes
+37
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+
+Yes
+38
+Supervision of Installation and Commissioning
+Yes
+
+39
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+40
+Site Acceptance Test & Handover
+Yes
+Yes
+41
+Refilling of Calibration Cylinders
+
+Yes
+42
+Refilling of Carrier Gas cylinders
+
+Yes
+43
+Supply of 2 years O&M spares - OPTIONAL
+
+44
+Training at Site- OPTIONAL
+
+45
+Training at Goa facility
+Yes
+
+46
+AMC after standard warranty (12/18) – OPTIONAL
+
+47
+CAMC after standard warranty (12/18) – OPTIONAL
+Yes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+Ex works, Goa
+Packing Charges
+0.5 % of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO receipt.
+Offer validity
+31st Oct, 2025
+Payment Terms
+30% Advance with Purchase Order, 20 % against drawing approval in CODE 2,
+Balance 50 % against Proforma Invoice on readiness of material prior to
+dispatch.
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.

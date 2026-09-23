@@ -1,0 +1,25 @@
+Quotation Number: Q2503X006
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(EURO)
+TOTAL PRICE
+(EURO)
+1
+TYPE-1 CABINET (SINGLE PROBE CEMS)
+11 Nos
+€45100
+€496100
+Area Classification: Suitable for Zone 2, IIC, T3
+With Single Sample Gas Probe
+With Sample Handling System duly mounted on IP65 cabinet, MOC: CRCA, thickness: 2mm, approx. dimensions: 800 X 800 X
+2000mm (L X W X H)
+PLC controlled system with necessary DI, DO and AO modules.
+HMI interface unit mounted on the front side of the panel
+With Electrical PDPs (UPS and Non-UPS) suitable for Zone 2, IIC, T3 area classification.
+With Signal JBs suitable for Zone 2, IIC, T3 area classification.
+Notes:

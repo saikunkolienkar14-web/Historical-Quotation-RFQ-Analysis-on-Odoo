@@ -1,0 +1,344 @@
+Quotation Number: Q25W10201T1
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+H2 Gas Purity Analyser, Tag No.: QI-0055
+Quoted
+Quoted
+2
+1
+O2 Gas Analyser, Tag No.: QI-0053
+Quoted
+Quoted
+3
+1
+Moisture Analyser, Tag No.: QI-0054
+Quoted
+Quoted
+4
+1
+H2 Gas Analyser, Tag No.: QI-0076
+Quoted
+Quoted
+5
+1
+O2 Gas Analyser, Tag No.: QI-0083
+Quoted
+Quoted
+6
+1
+Moisture Analyser, Tag No.: QI-0075
+Quoted
+Quoted
+7
+1
+H2 Gas Analyser, Tag No.: QI-0102
+Quoted
+Quoted
+8
+1
+O2 Gas Analyser, Tag No.: QI-0098
+Quoted
+Quoted
+9
+1
+Moisture Analyser, Tag No.: QI-0100
+Quoted
+Quoted
+10
+1
+O2 Gas Analyser, Tag No.: QI-0001
+Quoted
+Quoted
+11
+1
+Supervision of Commissioning (Per Diem)
+Quoted
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1, 4
+& 7
+H2 ANALYZER
+MODEL: XTC601
+MAKE: Michell
+Operating Principle: Thermal Conductivity
+Hazardous Area Classification: II 2 G D Ex db IIB +H2 T6 Gb
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC
+Measuring Range:
+-
+TAG No.- QI-0055 : 95 to 100%
+-
+TAG No.- QI-0076 : 0 to 2%
+-
+TAG No.- QI-0102 : 0 to 500 PPM
+Communication output shall be 4-20mA analog output for
+measuring component + alarm contact.
+3 Nos.
+Quoted
+Integration and supply of PSHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted SS304 enclosure on field Skid of SS304.
+3 Nos.
+Quoted
+Sample Transportation tube for Tag No. QI-0055
+-
+1/4” OD SS316 HTT
+6 meters
+Quoted
+Sample Transportation tube for Tag No. QI-0076 & QI-0102
+-
+1/4” OD SS316 Tube
+6 x 2
+meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Litre Calibration gas cylinder with cylinder pressure
+regulators
+3 Sets
+Quoted
+2 &
+8
+O2 ANALYZER
+MODEL: GPR-1500
+MAKE: Michell
+Operating Principle: Electrochemical
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Measuring Range:
+-
+TAG No.- QI-0053: 0 to 10000 PPM
+-
+TAG No.- QI-0098: 0 to 500 PPM
+Communication output shall be 4-20mA analog output only.
+2 Nos.
+Quoted
+Integration and supply of PSHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted SS304 enclosure on field Skid of SS304.
+2 Nos.
+Quoted
+Sample Transportation tube for Tag No. QI-0053
+-
+1/4” OD SS316 HTT
+6 meters
+Quoted
+Sample Transportation tube for Tag No. QI-0098
+-
+1/4” OD SS316 Tube
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter gas cylinder with cylinder pressure regulators
+2 Set
+Quoted
+5
+O2 ANALYZER
+MODEL: XTP601
+MAKE: Michell
+Operating Principle: Paramagnetic
+Hazardous Area Classification: II 2 G D Ex db IIB +H2 T6 Gb
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC
+1 No.
+Quoted
+Measuring Range:
+-
+TAG No.- QI-0083 : 0 to 50%
+Communication output shall be 4-20mA analog output for
+measuring component + alarm contact.
+Integration and supply of PSHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted SS304 enclosure on field Skid of SS304.
+1 No.
+Quoted
+Sample Transportation tube for Tag No. QI-0083
+-
+1/4” OD SS316 Tube
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter gas cylinder with cylinder pressure regulators
+1 Sets
+Quoted
+10
+O2 ANALYZER
+MODEL: GPR-2500
+MAKE: Michell
+Operating Principle: Electrochemical
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Measuring Range:
+-
+TAG No.- QI-0001: 0 to 2%
+Communication output shall be 4-20mA analog output only.
+1 No.
+Quoted
+Integration and supply of PSHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, Pressure regulator, filter, needle valve, Flowmeter
+with low flow switch, etc. and same shall be mounted inside
+wall mounted SS304 enclosure on field Skid of SS304.
+1 No.
+Quoted
+Sample Transportation tube
+-
+1/4” OD SS316 HTT
+6 meters
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+-
+10 Liter gas cylinder with cylinder pressure regulators
+1 Set
+Quoted
+3 &
+6
+MOISTURE ANALYZER
+MODEL: HF5-EX Transmitter & HC2-IE102-EX Probe
+MAKE: Rotronic
+Operating Principle: Metal-Oxide Moisture Sensor technology
+Hazardous Area Classification: Zone1, IIC
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+Measuring Range:
+-
+TAG No.- QI-0054: 0 to 2%
+-
+TAG No.- QI-0075: 0 to 2%
+Communication output shall be 4-20mA analog output.
+2 Nos.
+Quoted
+Integration and supply of PSHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, filter, Flowmeter with low flow switch, Sample cell,
+etc. and same shall be mounted inside wall mounted
+SS304 enclosure on field Skid of SS304.
+2 Nos.
+Quoted
+Sample Transportation tube for Tag No. QI-0054
+-
+1/4” OD SS316 EP HTT
+6 meters
+Quoted
+Sample Transportation tube for Tag No. QI-0075
+-
+1/4” OD SS316 EP Tube
+6 meters
+Quoted
+9
+MOISTURE ANALYZER
+MODEL: EASIDEW I.S. DEW-POINT TRANSMITTER
+MAKE: Michell
+Operating Principle: Metal-Oxide Moisture Sensor technology
+Hazardous Area Classification: II 1 G Ex ia IIC T4 Ga
+Mounting Location: in Field Primary SHS
+Phase: Gas
+Power Supply: 24VDC Loop powered
+1 No.
+Quoted
+Measuring Range:
+-
+TAG No.- QI-0100: 0 to 500 PPMV
+Communication output shall be 4-20mA analog output.
+Integration and supply of PSHS System:
+-
+Primary Sample Handling System consisting of Ball
+Values, filter, Flowmeter with low flow switch, Sample cell,
+etc. and same shall be mounted inside wall mounted
+SS304 enclosure on field Skid of SS304.
+1 Nos.
+Quoted
+Sample Transportation tube for Tag No. QI-0100
+-
+1/4” OD SS316 EP Tube
+6 meters
+Quoted
+SECTION 4: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of Mandatory spares
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+12
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+13
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+14
+Supervision of Commissioning SAT & Handover
+Yes
+15
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+16
+Supply of 2 years O&M spares
+17
+Training at Site- OPTIONAL
+18
+Training at Goa facility - OPTIONAL
+19

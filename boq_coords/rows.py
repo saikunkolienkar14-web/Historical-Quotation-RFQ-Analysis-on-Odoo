@@ -18,7 +18,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from boq_coords.banded import LogicalRow, segment_rows
+from boq_coords.banded import LogicalRow, _merge_bundled_lots, peel_leading_continuation_lines, segment_rows
 from boq_coords.columns import bands_capture_price, infer_bands_from_words
 from boq_coords.geometry import Word
 from boq_coords.locate import (
@@ -212,7 +212,10 @@ def extract_document_tables(doc) -> list[DocumentTable]:
                     continue
                 if not _bands_agree(current.bands, other.bands):
                     continue
-                combined_rows.extend(region_rows[id(other)])
+                next_rows = region_rows[id(other)]
+                if combined_rows:
+                    next_rows = peel_leading_continuation_lines(combined_rows[-1], next_rows)
+                combined_rows.extend(next_rows)
                 combined_pages.append(other.page_no)
                 used_page_regions.add(id(other))
                 current = other
@@ -231,9 +234,22 @@ def extract_document_tables(doc) -> list[DocumentTable]:
             extra_rows = _unheaded_continuation_rows(doc, next_page, current)
             if not extra_rows:
                 break
+            if combined_rows:
+                extra_rows = peel_leading_continuation_lines(combined_rows[-1], extra_rows)
             combined_rows.extend(extra_rows)
             combined_pages.append(next_page)
             next_page += 1
+
+        # Leading bullet-marked continuation lines were already peeled off
+        # at each stitch point above (peel_leading_continuation_lines),
+        # which needs the per-page row boundaries still visible to work.
+        # This second, coarser pass catches what that one can't: a row
+        # that is ENTIRELY an orphaned continuation (no item_no, no price,
+        # not just a leading bullet) - the same _merge_bundled_lots rule
+        # already applied per-page inside segment_rows, re-run here once
+        # more across the now-fully-stitched, flat row list so it also
+        # catches a continuation that crossed a page boundary.
+        combined_rows = _merge_bundled_lots(combined_rows)
 
         tables.append(DocumentTable(
             rows=combined_rows, page_nos=combined_pages,

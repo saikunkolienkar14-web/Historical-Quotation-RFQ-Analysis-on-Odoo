@@ -1,0 +1,364 @@
+Quotation Number: SQ2509E321R2
+BOQ Status: FOUND
+
+Date: 03-03-2026
+Ref: Q25260278-SQ2509E321R2
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+78309001
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.C. Purging, MOC Brass
+4.00
+13,290.00
+53,160.00
+1
+Nos
+78309007
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.C. Pulsating, MOC Brass
+2.00
+16,833.00
+33,666.00
+2
+Nos
+78409008
+Solenoid Valve 2/2 Way 1/4" BSP (F)
+230 VAC, NC, MOC SS316
+2.00
+23,921.00
+47,842.00
+3
+Nos
+18519001
+Sample Gas Cooler Dual Path 230
+VAC
+1.00
+60,244.00
+60,244.00
+4
+Nos
+28708026
+Automatic Condensate Removal
+Pump 24 VDC Flow Rate 0.3 LPM
+1.00
+38,778.00
+38,778.00
+5
+Nos
+1.00
+43,067.00
+43,067.00
+6
+Nos
+1.00
+21,207.00
+21,207.00
+7
+Nos
+1.00
+13,835.00
+13,835.00
+8
+Nos
+18607001
+RTD with cable 4 m for Cooler
+1.00
+3,850.00
+3,850.00
+9
+Nos
+18710001
+Condensate Monitor
+1.00
+24,633.00
+24,633.00
+10
+Nos
+18709010
+Flow Meter 10-100 LPH 1/4" NPT (F)
+MOC Glass
+18709005
+Flow Meter 50-500 LPH 1/4" NPT (F)
+MOC Glass
+18613001
+Ring Sensor For Flow Monitor 10 mm
+Dia;
+Date: 03-03-2026
+Ref: Q25260278-SQ2509E321R2
+18611003
+Conductivity Switch Unit For
+Condensate Monitor 24 VDC
+1.00
+16,590.00
+16,590.00
+11
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+2.00
+42,378.00
+84,756.00
+12
+Nos.
+78409009
+Solenoid Valve 3/2 Way 1/4" BSP (F)
+230 VAC MOC SS316
+1.00
+25,873.00
+25,873.00
+13
+Nos
+78309008
+Solenoid Valve 2/2 Way 1/4" BSP (F)
+230 VAC Calibration MOC Brass
+1.00
+17,678.00
+17,678.00
+14
+Nos
+18728011
+Air Filter Regulator,1/2" BSP(F) with
+Gauge 16Kg/m3
+1.00
+11,389.00
+11,389.00
+15
+Nos
+18901001
+Condensate Vessel -150 ml for
+Sample Gas Cooler
+1.00
+595.00
+595.00
+16
+Nos
+18106001
+Fibre Glass Wool Membrane filter for
+Condensate Monitor and Secondary
+Filter pack of 25
+5.00
+2,700.00
+13,500.00
+17
+Packets
+28209010
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (White Color) MOC
+PTFE
+10.00
+698.00
+6,980.00
+18
+Mtrs
+28216001
+Tube 6 MM OD X 4 MM ID X
+Thickness 1 MM (Black Color) MOC
+Viton
+10.00
+2,056.00
+20,560.00
+19
+Mtrs
+1.00
+54,180.00
+54,180.00
+20
+Nos
+18610052
+MMI 4.3"Display with I/O card
+Support
+Date: 03-03-2026
+Ref: Q25260278-SQ2509E321R2
+18604001
+Temperature Controller - 48 X48 mm
+Digital Indicator RTD Input 1 Alarm
+Output
+1.00
+6,657.00
+6,657.00
+21
+Nos
+28903005
+SS Filter for Special Probe length
+1.00
+61,936.00
+61,936.00
+22
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+11,690.00
+11,690.00
+23
+Nos
+18918001
+O'Ring Size : 68mm ODX4mmThick
+(CONDENSATE MONITOR)
+1.00
+490.00
+490.00
+24
+18918005
+O Ring For Probe 9502 - PTFE- FOR
+NEW KAS PROBE HEAD
+1.00
+2,555.00
+2,555.00
+25
+Nos.
+28602054
+Cartridge Filter
+1.00
+10,500.00
+10,500.00
+26
+Nos
+28602056
+Condensate Trap - Ultramat 23
+1.00
+14,720.00
+14,720.00
+27
+Nos
+28602002
+LCD Display Ultramat 23
+1.00
+154,720.00
+154,720.00
+28
+Nos
+28602001
+Analyser Fuse 230 VAC -0.63A
+1.00
+1,280.00
+1,280.00
+29
+Nos
+28602006
+Pressure Switch - Sample Gas,
+Ultramat 23
+1.00
+49,760.00
+49,760.00
+30
+Nos
+28602019
+Motherboard for Ultramat 23
+1.00
+465,120.00
+465,120.00
+31
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+102,720.00
+102,720.00
+32
+Nos
+28602037
+Keypad - Ultramat 23
+1.00
+77,600.00
+77,600.00
+33
+Date: 03-03-2026
+Ref: Q25260278-SQ2509E321R2
+Nos
+28602083
+Transformer - Power Supply Ultramat
+23
+1.00
+40,480.00
+40,480.00
+34
+Nos
+28602010
+Optical filter NO for Ultramat
+1.00
+278,880.00
+278,880.00
+35
+Nos
+28602028
+Sample cell, 180 mm, U23
+1.00
+93,440.00
+93,440.00
+36
+Nos.
+28602097
+O-Ring Sample cell 180 90 60 20 mm
+for ultramat 23
+1.00
+1,920.00
+1,920.00
+37
+Nos
+28602052
+Optical filter SO2 - Ultramat 23
+1.00
+224,480.00
+224,480.00
+38
+Nos
+28602024
+Flow meter - Ultramat 23
+1.00
+36,800.00
+36,800.00
+39
+Nos
+28602063
+Gas filter, CO - Ultramat 23
+1.00
+90,560.00
+90,560.00
+40
+Nos
+28602171
+GAS FILTER SO2
+1.00
+103,680.00
+103,680.00
+41
+Nos
+28602016
+Plate with Threaded Nuts & bolts-
+Dual Component -Ultramat 23
+1.00
+99,360.00
+99,360.00
+42
+Nos
+28602046
+Detector NO Channel 1 - Ultramt 23
+1.00
+337,440.00
+337,440.00
+43
+Nos
+28602105
+Detector SO2 - Ultramat 23 channel 2
+1.00
+476,000.00
+476,000.00
+44
+Nos
+28602206
+Detector, CO, U23
+1.00
+350,000.00
+350,000.00
+45
+Nos
+Date: 03-03-2026
+Ref: Q25260278-SQ2509E321R2

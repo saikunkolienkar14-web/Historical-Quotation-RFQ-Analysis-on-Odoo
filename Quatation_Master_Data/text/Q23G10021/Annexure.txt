@@ -1,0 +1,3406 @@
+Adage Ref: Q23G10021R2 Dt. 01.04.2025
+L&T-Energy Hydrocarbon
+Project : Realization of a Fuel Oil Conversion Unit & Facilities Associated with RA1K
+Owner : Sonatrach, Algeria
+Job Code: SHCU
+Site: Algeria, Africa
+Tag No
+Quantity
+WBS
+Sample IN Process Connection
+Sample Probe
+Sample 
+Return
+Sample Return 
+Process 
+Connection
+INSTRUMENT AIR 
+Cooling Water 
+(Supply / Return)
+Process 
+Connection
+Output
+Size
+Probe Length
+Required
+Required
+Size
+Required
+Size
+Sample Probe
+Analyser Shelter/FIELD 
+Cabinet
+4-20 mA
+(HART)
+Alarm 
+Contacts
+General 
+Fault
+Modbus 
+Analyzer Make
+Analyzer Model
+Accessories in supply
+Accessories in purchaser scope
+ Unit Price 
+H2S
+TDLS (Tunable Diode Laser 
+Spectroscopy) 
+0-10ppmv
+2" 150# x 2nos 
+cross duct 180°
+purge tube based 
+on stack dia
+Insitu Analyzer
+ATEX Zone-1 IIC T6 /
+IECEX Zone-2 IIC T6
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Airoptic
+Gas Eye
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 58,69,500.00 
+Particulates
+Back Scattering
+0-200mg/m3
+2" RAISED 
+FLANGED, 300# 
+4" 150# minimum
+400mm
+Insitu Analyzer
+ATEX Zone-1 IIC T4 /
+IECEX Zone-2 IIC T4
+1nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Durag
+DR320 Ex
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 27,72,000.00 
+SOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+CO
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+NOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+O2
+TDLS (Tunable Diode Laser 
+Spectroscopy) 
+0 – 5 MOL %
+APPROX. 100 METER 
+DN65 PN6
+purge tube based 
+on stack dia
+Required
+NA Insitu 
+Analyzer
+Insitu Analyzer
+N2
+Not Required
+Not Required
+SS
+Zone-1 IIC T6
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+SITRANS SL
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 36,96,000.00 
+3
+0
+0810-AE-1703
+1
+80018-0810-BQ-D017-A1
+Non-Condensables from Vent Gas Scrubber 0810-V-
+004A to Vacuum Heater 0810-H-001A
+Vacuum Distillation Unit
+1A6N2-ST
+NA
+Not Available
+N/A
+Refer Sheet-3 for fluid composition and other details
+H2S
+Non Dispersve UV analysis
+0-50 PPM
+APPROX . 100 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T3
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Analyzer Range
+0-125PPM
+Ametek
+919
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,33,10,000.00 
+4
+0
+0810-AS-001
+1
+Vacuum Distillation Unit
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+5
+0
+0810-AE-xxxx
+1
+Doc. No.: 9021443-697-01 for 
+UOP Heater Inst
+0810-H-001A
+Vacuum Distillation Unit
+VDU (810)
+Later
+Later
+Not Available
+N/A
+Later
+O2 + Combustible (as per UOP 
+Spec for 9021443-697-01-Heater 
+Instrumentation Rev 00 / 9021444-
+697-01-Heater Instrumentation 
+Rev 00 / 9021445-697-01-Heater 
+Instrumentation Rev 00
+Zirconia for Oxygen and Catalytic for 
+Combustibles 
+O2 = 20.0 mol% wet
+O2 = 20.0 mol% dry
+COMBUSTIBLES = 200 ppmv
+FIELD CABINET
+1210-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+TBD During DDE
+Required
+to process
+Not applicable
+Yes 
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+4-20mA no 
+Hart 
+Yes
+Yes
+Yes through External Convertor t
+Ametek 
+WDG-V
+Sensor Unit, RCU unit Cylinder pressure regulator, Filed skid 
+RS485 Splitter, Interconnection cables 
+tubes etc.
+ 55,00,000.00 
+6
+0
+0860-AE-0701
+1
+80018-0860-BQ-D007-A1
+Acid Gas from Regeneration OVHD Drum 0860-V-004 to 
+SRU
+Amine Recover Unit
+1K1N3-ST
+NA
+Not Available
+N/A
+Refer Sheet-4 for fluid composition and other details
+NH3 and H2S
+Non Dispersve UV analysis
+H2S : 0-100%
+NH3 : 0-2%
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T3
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+IPS4
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 1,68,00,000.00 
+7
+0
+0860-AE-1301
+1
+80018-0860-BQ-D013-A1
+Lean Amine from Lean Amine Pumps 0860-P-004A/B to 
+Amine Distribution Header
+Amine Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+Refer Sheet-5 for fluid composition and other details.
+NH3 and H2S
+UV-VISIBLE SPECTROSCOPY
+0-100 mg/l NH4
+0-20 mg/l H2S
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1" 150# RF
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T3
+220VAC, 50 Hz, UPS
+2 Nos No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Horiba - Tethys
+UV500
+Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 67,20,000.00 
+8
+0
+0870-AE-1201
+1
+80018-0870-BQ-D0012-A1
+Stripped Water from 0870-EA-001 to Header
+Sour Water stripper
+1A4A1
+NA
+Not Available
+N/A
+Refer Sheet-6 for fluid composition and other details
+NH3 and H2S
+UV-VISIBLE SPECTROSCOPY
+0-100 mg/l NH4
+0-20 mg/l H2S
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1" 150# RF
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+2 Nos No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Horiba - Tethys
+UV500
+Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 67,20,000.00 
+9
+0
+0870-AE-1202
+1
+80018-0870-BQ-D0012-A1
+Acid Gas from 0870-V-002 to SRU
+Sour Water stripper
+1K1N3-ST
+NA
+Not Available
+N/A
+Refer Sheet-7 for fluid composition and other details
+NH3 and H2S
+Non Dispersve UV analysis
+H2S : 0-100%
+NH3 : 0-100%
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T3
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+IPS4
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 1,68,00,000.00 
+10
+0
+600S-AE-3001
+1
+80018-600S-BQ-D030-A1
+Off Spec LPG Bullet to Pumps Inlet 
+Off Spec LPG Storage
+1A1A2
+NA
+Not Available
+N/A
+H2S = 0.53 Mol%
+H2S
+Non Dispersve UV analysis
+0-50 PPM
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T3
+220VAC, 50 Hz, UPS
+upto 4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+933
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 1,55,92,500.00 
+11
+0
+600S-AE-3004
+1
+80018-600S-BQ-D030-A1
+Off Spec LPG Bullet to Pumps Inlet 
+Off Spec LPG Storage
+1A1A2
+NA
+Not Available
+N/A
+H2S = 0.53 Mol%
+H2S
+Non Dispersve UV analysis
+0-50 PPM
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T3
+220VAC, 50 Hz, UPS
+upto 4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+933
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 1,55,92,500.00 
+12
+0
+1210-AE-0201
+1
+80018-1210-BQ-D002-A1
+Fuel Gas Balance Drum to Fuel Gas Distribution
+Fuel Gas System
+1A1A1
+NA
+Not Available
+N/A
+Refer Sheet-9 for fuel gas composition and other details
+FG LHV and Wobbe Index
+Combustion Calorimeter
+Wobbe index range : 6000-
+16500 kcal/m3
+LHV ( NCV) : 10000-16000
+FIELD CABINET
+1210-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+ATM Vent
+Spiral duct
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+upto 3nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Union
+3000XP
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 88,20,000.00 
+12
+0
+1240-AE-0101
+1
+80018-1240-BQ-D001-A1
+RAW Water Storage Tank (1240-T-001)
+Raw Water
+1A6A1
+NA
+Not Available
+N/A
+pH = 8.4
+TAC = 15 wt ppm
+Chloride as Cl = 165.1 wt ppm
+Silica as SiO2 = 0 51wt ppm
+pH
+Glass Electrode Type
+6-14
+FIELD RACK
+(1240-RA-001)
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H 
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+13
+0
+1250-AE-0301
+1
+80018-1250-BQ-D003-A1
+Potable Water Pump to Distribution
+Potable Water
+1D1A3
+NA
+Not Available
+N/A
+Cl = 0.07 mg/l
+Cl
+Subject to model Finalization
+Subject to model Finalization
+FIELD RACK
+(1250-RA-001)
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Yes
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 36,75,000.00 
+14
+0
+1270-AE-0101
+1
+80018-1270-BQ-D001-A1
+Cooling Water Return to Tower Package
+Cooling Water
+1A3A1
+NA
+Not Available
+N/A
+HC : 10 wppm
+HC
+'INFRA-RED/ ULTRA-VIOLET / Subject to 
+model Finalization
+0-100%LEL
+FIELD CABINET
+1270-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+LAR-PI
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 79,80,000.00 
+15
+0
+1270-AE-0102
+1
+80018-1270-BQ-D001-A1
+Cooling Water Return to Tower Package
+Cooling Water
+1A3A1
+NA
+Not Available
+N/A
+Conductivity = 637μS/cm
+Conductivity
+'CONDUCTIVITY CELL-FLOW THROUGH 
+TYPE
+0-1000μS/cm
+ FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+16
+0
+1270-AE-0301
+1
+80018-1270-BQ-D003-A1
+From CW Pumps to Cooling Water Return
+Cooling Water
+1A3A1
+NA
+Not Available
+N/A
+pH = 8.4
+pH
+Glass Electrode Type
+6-14
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+17
+0
+1270-AE-0302
+1
+80018-1270-BQ-D003-A1
+From CW Pumps to Cooling Water Return
+Cooling Water
+1A3A1
+NA
+Not Available
+N/A
+Conductivity = 637μS/cm
+Conductivity
+'CONDUCTIVITY CELL-FLOW THROUGH 
+TYPE
+0-1000μS/cm
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+18
+0
+1280-AE-0101
+1
+80018-1280-BQ-D001-A1
+Oil Removal Package to Condensate Polishing Package
+Demineralized Water
+1A3A2
+NA
+Not Available
+N/A
+Parameter:
+Conc of Sodium and potassium = 20µg/kg
+Silicic acid content (as SiO2 equivalent) = 20µg/kg
+Iron compound content, I terms of Fe = 50µg/kg
+Copper content = 10µg/kg
+Conductivity = 1mS/cm
+pH at 25°C = 6 - 9
+Max. TOC content at package inlet: 500 ppmw
+Max. TOC content at package outlet: nil
+TOC
+Chemical or Thermal Oxidation + NDIR 
+Detection
+Subject to model Finalization
+FIELD CABINET
+1280-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Yes
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+LAR-PI
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 79,80,000.00 
+19
+0
+1280-AE-0301
+1
+80018-1280-BQ-D003-A1
+Resin Regeneration Effluent Pumps to Waste Water 
+Treatment
+Demineralized Water
+HOLD
+NA
+Not Available
+N/A
+Parameter: 
+Sodium = ≤ 3 ppb
+Sulphate = ≤ 3 ppb
+Chloride = ≤ 3 ppb
+Silica ppb ≤10 ppb
+Oxygen = Saturated
+Iron = ≤2 ppb
+Copper ≤ 3 ppb
+Total dissolved solids (TDS) = Not detectable
+Total Organic Carbon (TOC) = ≤ 1 ppb 
+Specific Conductivity = ≤ 0.1 μS/cm
+pH = 6-7
+pH
+Glass Electrode Type
+6-14
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+20
+0
+1280-AE-0401
+1
+80018-1280-BQ-D004-A1
+Inlet of Demineralized Water Storage Tank
+Demineralized Water
+1K0A5
+NA
+Not Available
+N/A
+Same as 0810-AE-0301.
+Conductivity
+'CONDUCTIVITY CELL-FLOW THROUGH 
+TYPE
+0-1000μS/cm
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+21
+0
+1280-AE-0402
+1
+80018-1280-BQ-D004-A1
+Polished Conedensate to Demineralized Water Storage 
+Tank
+Demineralized Water
+1A3A2
+NA
+Not Available
+N/A
+Parameter:
+Conc of Sodium and potassium = 20µg/kg
+Silicic acid content (as SiO2 equivalent) = 50µg/kg
+Iron compound content, I terms of Fe = 50µg/kg
+Copper content = 10µg/kg
+Conductivity = 1mS/cm
+pH at 25°C = 6 - 9
+Conductivity
+'CONDUCTIVITY CELL-FLOW THROUGH 
+TYPE
+0-1000μS/cm
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+subject to model finalization
+YIL / Mettler Toledo / HACH / 
+E&H
+'Tube, SHS, Adapter Flange, Power & Signal JB, Any Special Data Cable between 
+Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 4,72,500.00 
+SOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+CO
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+NOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+O2
+TDLS (Tunable Diode Laser 
+Spectroscopy) 
+0 – 5 MOL %
+APPROX. 100 METER 
+DN65 PN6
+purge tube based 
+on stack dia
+Required
+NA Insitu 
+Analyzer
+Insitu Analyzer
+N2
+Not Required
+Not Required
+SS
+Zone-1 IIC T6
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+SITRANS SL
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 36,96,000.00 
+23
+0
+0830-AE-XXX2
+1
+Doc. No.: 9021443-697-01 for 
+UOP Heater Inst
+HOT OIL HEATER (0830-H-001)
+Solvent Deasphalting unit (SDA)
+SDA (830)
+Later
+Later
+Not Available
+N/A
+Later
+O2 + Combustible (as per UOP 
+Spec for 9021443-697-01-Heater 
+Instrumentation Rev 00 / 9021444-
+697-01-Heater Instrumentation 
+Rev 00 / 9021445-697-01-Heater 
+Instrumentation Rev 00
+STS
+O2 = 20.0 mol% wet
+O2 = 20.0 mol% dry
+COMBUSTIBLES = 200 ppmv
+FIELD CABINET
+1210-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+TBD during DDE
+Required
+Yes 
+TBD during 
+DDE
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+4-20mA no 
+Hart 
+Yes
+Yes
+Yes through External Convertor t
+Ametek 
+WDG-V
+Sensor Unit, RCU unit Cylinder pressure regulator, Filed skid 
+RS485 Splitter, Interconnection cables 
+tubes etc.
+ 55,00,000.00 
+24
+0830-AS-001
+1
+Solvent Deasphalting unit(SDA)
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+SOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+CO
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+NOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+O2
+TDLS (Tunable Diode Laser 
+Spectroscopy) 
+0 – 5 MOL %
+APPROX. 100 METER 
+DN65 PN6
+purge tube based 
+on stack dia
+Required
+NA Insitu 
+Analyzer
+Insitu Analyzer
+N2
+Not Required
+Not Required
+SS
+Zone-1 IIC T6
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+SITRANS SL
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 36,96,000.00 
+26
+0
+0820-AE-XXX2
+1
+Doc. No.: 9021443-697-01 for 
+UOP Heater Inst
+COMBINED FEED HEATER TRAIN 1&2 (0820-H-001A)
+Hydrocracker Unit (HCK)
+HCK-RCT (820)
+Later
+Later
+Not Available
+N/A
+Later
+O2 + Combustible (as per UOP 
+Spec for 9021443-697-01-Heater 
+Instrumentation Rev 00 / 9021444-
+697-01-Heater Instrumentation 
+Rev 00 / 9021445-697-01-Heater 
+Instrumentation Rev 00
+STS
+O2 = 20.0 mol% wet
+O2 = 20.0 mol% dry
+COMBUSTIBLES = 200 ppmv
+FIELD CABINET
+1210-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+TBD during DDE
+Required
+Yes 
+TBD during 
+DDE
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+4-20mA no 
+Hart 
+Yes
+Yes
+Yes through External Convertor t
+Ametek 
+WDG-V
+Sensor Unit, RCU unit Cylinder pressure regulator, Filed skid 
+RS485 Splitter, Interconnection cables 
+tubes etc.
+ 55,00,000.00 
+27
+0820-AS-001
+1
+Hydrocracker Unit (HCK)
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+SOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+CO
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+NOX
+NDIR
+0-1000 ppmv
+APPROX. 100 METER 
+220VAC, 50 Hz, UPS
+O2
+TDLS (Tunable Diode Laser 
+Spectroscopy) 
+0 – 5 MOL %
+APPROX. 100 METER 
+DN65 PN6
+purge tube based 
+on stack dia
+Required
+NA Insitu 
+Analyzer
+Insitu Analyzer
+N2
+Not Required
+Not Required
+SS
+Zone-1 IIC T6
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+SITRANS SL
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 36,96,000.00 
+29
+0
+0821-AE-XXX2
+1
+Doc. No.: 9021443-697-01 for 
+UOP Heater Inst
+HEAVY FRACTIONATOR FEED HEATER A
+FEED HEATER 0821-H-001A
+Hydrocracker Fractionator
+HCK-FRAC.(821)
+Later
+Later
+Not Available
+N/A
+Later
+O2 + Combustible (as per UOP 
+Spec for 9021443-697-01-Heater 
+Instrumentation Rev 00 / 9021444-
+697-01-Heater Instrumentation 
+Rev 00 / 9021445-697-01-Heater 
+Instrumentation Rev 00
+STS
+O2 = 20.0 mol% wet
+O2 = 20.0 mol% dry
+COMBUSTIBLES = 200 ppmv
+FIELD CABINET
+1210-CA-001
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+TBD during DDE
+Required
+Yes 
+TBD during 
+DDE
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+4-20mA no 
+Hart 
+Yes
+Yes
+Yes through External Convertor t
+Ametek 
+WDG-V
+Sensor Unit, RCU unit Cylinder pressure regulator, Filed skid 
+RS485 Splitter, Interconnection cables 
+tubes etc.
+ 55,00,000.00 
+30
+0821-AS-001
+1
+Hydrocracker Fract.Unit (HCK-
+Frac.)
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+31
+0
+0821-AT-0201
+1
+9021444-120-02-A1
+Stripper Train 1 Overhead Vapor Molecular Weight
+Hydrocracker Fractionator
+B1A2
+NA
+Refer Attachmnent-8
+N/A
+Refer Sheet-8 for fluid composition and other details.
+Density; Molecular Weight
+Insitu Fork type Density Measurement
+45-75 Molecular Weight
+Refer Sheet-2 for 
+Installation detail
+APPROX . 100 METER 
+3" RAISED 
+FLANGED, 300# 
+Insitu
+Required
+NA Insitu 
+Analyzer
+NA Insitu 
+Analyzer
+Not Required
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Pressure and Temperature 
+inputs required for molecular 
+weight measurement.
+Emerson
+GDM
+Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 42,00,000.00 
+32
+1
+0840-AT-03010
+1
+EFD003
+FEED FROM HYDROGENATOR TO PREREFORMER 
+FEED MIXING POINT
+Hydrogen Manufacturing Unit
+E4A2
+NA
+Not Available
+N/A
+TOTAL SULPHUR= 0 to 500 ppm
+TOTAL SULPHUR
+Pyrolised UV Analysis
+0-750ppmv not by weight
+Price Adder in case of ppm w
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes
+Yes
+Yes
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+PAC
+Nsure
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 1,96,35,000.00 
+33
+1
+0840-AT-07003
+1
+EFD007
+SYNGAS FROM REFORMER GAS EXCHANGER A TO 
+MT SHIFT CONVERTER
+Hydrogen Manufacturing Unit
+FC-12
+NA
+Not Available
+N/A
+CH4= 3.87 mol%
+CH4
+NDIR
+0-5%
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes
+Not Required
+Yes
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+GA700
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 80,64,000.00 
+34
+1
+0840-AT-09012
+1
+EFD009
+RAW HYDROGEN FROM PROCESS CONDENSATE 
+SEPARATOR TO HYDROGEN PURIFICATION PSA 
+UNIT
+Hydrogen Manufacturing Unit
+1K0A5
+NA
+Not Available
+N/A
+CO= 2.65 mol%
+CH4= 4.50 mol%
+CO/CH4
+NDIR
+CO=0-5 mol%
+CH4= 0-10 mol%
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes
+Not Required
+Yes
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+GA700
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 80,64,000.00 
+35
+1
+0840-AT-10002A
+1
+EFD010
+HYDROGEN FROM PSA TO HYDROGEN HEADER
+Hydrogen Manufacturing Unit
+3A1A3
+NA
+Not Available
+N/A
+CO= NIL
+CO2= NIL
+CO,CO2
+NDIR
+CO= 0-100ppm
+CO2= 0-100ppm
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes
+Not Required
+Yes
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+GA700
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 80,64,000.00 
+36
+1
+0840-AT-10002B
+1
+EFD010
+HYDROGEN FROM PSA TO HYDROGEN HEADER
+Hydrogen Manufacturing Unit
+3A1A3
+NA
+Not Available
+N/A
+H2= 100 mol%
+H2
+TCD
+0-100%
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes
+Not Required
+Yes
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Siemens
+Calomat
+Heated Probe, Heat Traced Tube, cylinder pressure regulators, SHS, Adapter 
+Flange, Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+37
+1
+0840-AT-14004
+1
+EFD014
+STEAM REFORMER FURNANCE
+Hydrogen Manufacturing Unit
+1A3A1
+NA
+Not Available
+N/A
+O2= 1.4 mole % - 1.7 mole%
+(Required Range= 0.1 mol% -20.9 mole %)
+O2
+ZrO2
+0-20.95%
+APPROX. 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+Insitu
+Required
+To process 
+Insitu
+NA Insitu 
+Analyzer
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+WDG-V
+Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+38
+1
+0840-AT-15004
+1
+EFD015
+STEAM REFORMER FURNANCE
+Hydrogen Manufacturing Unit
+1A1A1
+NA
+Not Available
+N/A
+O2= 1.4 mole % - 1.7 mole%
+(Required Range= 0.1 mol% -20.9 mole %)
+O2
+ZrO2
+0-20.95%
+APPROX. 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+Insitu
+Required
+To process 
+Insitu
+NA Insitu 
+Analyzer
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+WDG-V
+Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+39
+1
+0840-AT-17009A
+1
+EFD017
+COMBUSTION AIR FROM COMBUSTION AIR/FUEL 
+GAS EXCHANGER
+Hydrogen Manufacturing Unit
+6A1A1
+NA
+Not Available
+N/A
+The following are emission limit as per HSE DESIGN CRITERIA 
+FOR LICENSORS (80018-0000-FS-S002-S)
+SOx: 800 mg/Nm3
+CO: 150 mg/Nm3
+VOCs: 150 mg/Nm3
+Sulphur acids: 5 mg/Nm3
+Particles: 30mg/Nm3
+NOx: 200 mg/Nm3
+CO
+NDIR
+0-1000 ppmv
+40
+1
+0840-AT-17009B
+1
+EFD017
+COMBUSTION AIR FROM COMBUSTION AIR/FUEL 
+GAS EXCHANGER
+Hydrogen Manufacturing Unit
+6A1A1
+NA
+Not Available
+N/A
+Same as 0840-AT-17009A
+NOX
+NDIR
+0-1000 ppmv
+41
+1
+0840-AT-17009C
+1
+EFD017
+COMBUSTION AIR FROM COMBUSTION AIR/FUEL 
+GAS EXCHANGER
+Hydrogen Manufacturing Unit
+6A1A1
+NA
+Not Available
+N/A
+Same as 0840-AT-17009A
+SOX
+NDIR
+0-1000 ppmv
+42
+840-AS-001
+1
+Hydrogen Manufacturing Unit
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+43
+1
+0880-AT-1701
+1
+80018-0880-BQ-D019-A1
+TAIL GAS FROM SRU WASTE HEAT BOILER TO 
+TGTU (TRAIN-1)
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+NOTE-19
+AIR DEMAND
+-5 - +5%
+Refer Attachment-10
+44
+1
+0880-AT-1701A
+1
+80018-0880-BQ-D019-A1
+TAIL GAS FROM SRU WASTE HEAT BOILER TO 
+TGTU (TRAIN-1)
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+SO2= 0.21 - 1.90 mole%
+SO2 ANLAYSER
+0-2%
+Refer Attachment-10
+45
+1
+0880-AT-1701B
+1
+80018-0880-BQ-D019-A1
+TAIL GAS FROM SRU WASTE HEAT BOILER TO 
+TGTU (TRAIN-1)
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+H2S= 0.42 - 3.80 mol%
+H2S
+0-5%
+Refer Attachment-10
+46
+1
+0880-AT-3101
+1
+80018-0880-BQ-D025-A1
+TO STACK
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+O2= 3.28 mol%
+(Required Range= 0 mol% -10 mole %)
+O2
+ZrO2
+0-10%
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+Insitu
+Required
+To process 
+Insitu
+NA Insitu 
+Analyzer
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+WDG-V
+Cylinder Pressure Regulators, Power & Signal JB, Any Special Data Cable 
+between Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+ 96,60,000.00 
+ 96,60,000.00 
+ 96,60,000.00 
+ 96,60,000.00 
+Remarks
+Adage Quote price in INR and Valid till 31st December 2025
+Composition
+Type of Analyzer
+Measurement Principle
+Measuring Range
+Analyzer 
+Installed at
+Distance Between Tapping 
+Point & Analyzer
+(Meter)
+Electrical Heat 
+Tracing / Heater 
+Requirement
+Material
+(Tube,Fittings, 
+Sensor etc)
+Area Classification 
+Power Supply
+220VAC, 50 Hz, UPS
+Insitu Analyzer
+Required
+Not Required
+FIELD CABINET
+0870-CA-001
+Refer Attachment-10
+FIELD CABINET
+0600S-CA-001
+Refer Attachment-10
+Sr. No
+Rev No
+P&ID No.
+Service
+Pipe Class (Sample IN)
+Pipe Class (Sample 
+Return)
+For Process data
+Scheme
+0
+0810-AE-1101
+1
+80018-0810-BQ-D011-A1
+Flue Gas from Vacuum Heater 0810-H-001A to Vacuum 
+Tower 0810-V-002
+2
+0
+0810-AE-1102
+1
+80018-0810-BQ-D011-A1
+Flue Gas from Vacuum Heater 0810-H-001A to Vacuum 
+Tower 0810-V-002
+ANALYSER SHELTER
+0810-AS-001A/B
+APPROX . 100 METER 
+NA Insitu 
+Analyzer
+2" RAISED 
+FLANGED, 300# 
+1/3 Stack OD + 
+Nozzle
+Required
+ATM Vent
+Vacuum Distillation Unit
+3A3A2
+NA
+Not Available
+N/A
+The following are emission limit as per 0810-H-001A process 
+datasheet
+Sox = 800 mg/Nm3
+Nox = 200 mg/Nm3
+CO = 150 mg/Nm3
+VOCs = 150 mg/Nm3
+Sulfuric acids = 5 mg/Nm3
+Particulates = 30 mg/Nm3
+1
+Vacuum Distillation Unit
+3A3A2
+NA
+Not Available
+N/A
+Same as 0810-AE-1101
+Not Required
+SS
+Refer Attachment-10
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+FIELD CABINET
+0860-CA-001
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+4nos. No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+TUV Certification for range 0-
+100mg/nm3 only
+ATM Vent 1/2" 
+Tube
+Required at stack for 
+Probe Filter Cleaning
+Not Required
+Required
+PTFE
+Zone-1 IIB T4
+Refer Attachment-10
+ FIELD RACK
+SICK
+S720Ex
+Heater Probe Filter, Heat Traced Tube, Sample Cooler, Sample Handling System, 
+Cylinder Pressure Regulators
+Refer Attachment-10
+22
+0
+0830-AE-XXX1
+1
+SHCU-PP-L4L-002_P0
+HOT OIL HEATER (0830-H-001)
+Solvent Deasphalting unit(SDA)
+MS-22 INS
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Required at stack for 
+Probe Filter Cleaning
+Not Required
+NA
+Not Available
+N/A
+The following are emission limit as per UOP BASIC ENGINEERING 
+DESIGN QUESTIONNAIRE
+SOx: 800 mg/Nm3
+CO: 150 mg/Nm3
+VOCs: 150 mg/Nm3
+Sulphur acids: 5 mg/Nm3
+Particles: 30mg/Nm3
+NOx: 200 mg/Nm3
+ANALYSER SHELTER
+0830-AS-001
+2" RAISED 
+FLANGED, 300# 
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+25
+0
+0820-AE-XXX1
+1
+9021443-990-01-A0
+COMBINED FEED HEATER TRAIN 1& 2 (0820-H-
+001A/B)
+Hydrocracker Unit (HCK)
+07A1 INS
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+TUV Certification for range 0-
+100mg/nm3 only
+SICK
+S720Ex
+Heater Probe Filter, Heat Traced Tube, Sample Cooler, Sample Handling System, 
+Cylinder Pressure Regulators
+Required
+PTFE
+Zone-1 IIB T4
+Refer Attachment-10
+4nos. No 
+HART
+Yes
+1/3 Stack OD + 
+Nozzle
+Required
+ATM Vent
+28
+0
+0821-AE-XXX1
+1
+9021443-990-01-A0
+HEAVY FRACTIONATOR FEED HEATER A
+FEED HEATER 0821-H-001A/B
+Hydrocracker Fract.Unit (HCK-
+Frac.)
+B4A2
+Yes
+Required
+PTFE
+Zone-1 IIB T4
+Refer Attachment-10
+4nos. No 
+HART
+Yes
+1/3 Stack OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Required at stack for 
+Probe Filter Cleaning
+Not Required
+NA
+Not Available
+N/A
+Required at stack for 
+Probe Filter Cleaning
+Not Required
+NA
+Not Available
+N/A
+Same as 0810-AE-XXX1.
+ANALYSER SHELTER
+0821-AS-001
+2" RAISED 
+FLANGED, 300# 
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+TUV Certification for range 0-
+100mg/nm3 only
+SICK
+S720Ex
+Heater Probe Filter, Heat Traced Tube (100m), Sample Cooler, Sample Handling 
+System, Cylinder Pressure Regulators
+Same as 0810-AE-XXX1.
+ANALYSER SHELTER
+0820-AS-001
+2" RAISED 
+FLANGED, 300# 
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ANALYSER SHELTER
+(840-AS-001
+Refer Attachment-10
+APPROX. 100 METER 
+2" RAISED 
+FLANGED, 300# 
+1/3 Stack OD + 
+Nozzle
+Required
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+TUV Certification for range 0-
+100mg/nm3 only
+SICK
+S720Ex
+Heater Probe Filter, Heat Traced Tube (100m), Sample Cooler, Sample Handling 
+System, Cylinder Pressure Regulators
+Required
+PTFE
+Zone-1 IIB T4
+Refer Attachment-10
+4nos. No 
+HART
+Yes
+1/3 Stack OD + 
+Nozzle
+Required
+ATM Vent 1/2" 
+Tube
+UV spectroscopy
+Insitu / Pipe Mounted
+NA, Insitu / Pipe Mounted
+2" (VTS) RAISED 
+FLANGED, 150# 
+1/3 Pipe OD + 
+Nozzle
+Required
+4nos. No 
+HART
+Yes
+Yes
+Required at stack for 
+Probe Filter Cleaning
+Not Required
+Required
+PTFE
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+To process 
+Insitu
+NA Insitu 
+Analyzer
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+ 2,77,20,000.00 
+Zone-1 IIB T4
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+S720Ex
+Heater Probe Filter, Heat Traced Tube , Sample Cooler, Sample Handling System, 
+Cylinder Pressure Regulators
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 96,60,000.00 
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+TUV Certification for range 0-
+100mg/nm3 only
+SICK
+888NSL
+Cylinder Pressure Regulators, Power & Signal JB, Any Special Data Cable 
+between Field Equipment and Shelter/Controller
+Ametek
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+Budgetary Quote
+
+L&T-Energy Hydrocarbon
+Project : Realization of a Fuel Oil Conversion Unit & Facilities Associated with RA1K
+Owner : Sonatrach, Algeria
+Job Code: SHCU
+Site: Algeria, Africa
+Tag No
+Quantity
+WBS
+Sample IN Process Connection
+Sample Probe
+Sample 
+Return
+Sample Return 
+Process 
+Connection
+INSTRUMENT AIR 
+Cooling Water 
+(Supply / Return)
+Process 
+Connection
+Output
+Size
+Probe Length
+Required
+Required
+Size
+Required
+Size
+Sample Probe
+Analyser Shelter/FIELD 
+Cabinet
+4-20 mA
+(HART)
+Alarm 
+Contacts
+General 
+Fault
+Modbus 
+Analyzer Make
+Analyzer Model
+Accessories in supply
+Accessories in purchaser scope
+ Unit Price 
+Remarks
+Adage Quote price in INR and Valid till 31st December 2025
+Composition
+Type of Analyzer
+Measurement Principle
+Measuring Range
+Analyzer 
+Installed at
+Distance Between Tapping 
+Point & Analyzer
+(Meter)
+Electrical Heat 
+Tracing / Heater 
+Requirement
+Material
+(Tube,Fittings, 
+Sensor etc)
+Area Classification 
+Power Supply
+Sr. No
+Rev No
+P&ID No.
+Service
+Pipe Class (Sample IN)
+Pipe Class (Sample 
+Return)
+For Process data
+Scheme
+Budgetary Quote
+47
+1
+0880-AT-XXX1
+1
+80018-0880-BQ-D027-A1
+FROM TAIL GAS INCINERATOR TO HP BLOWDOWN 
+DRUM
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+Conductivity = 0 - 6000 µS/cm 
+Conductivity
+'CONDUCTIVITY CELL-FLOW THROUGH 
+TYPE
+0-10000µS/cm 
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+YIL / Mettler Toledo / HACH / 
+E&H
+Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+48
+1
+0880-AT-5501
+1
+80018-0880-BQ-D029-A1
+ABSORBER OVERHEAD TO INCINERATOR
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+H2S= 0-1000 ppmv (Normal value: 81 - 89 ppmv)
+CS2= 0 - 100 ppmv
+H2S
+CS2
+Non Dispersve UV analysis
+H2S= 0-1000 ppmv
+CS2= 0 - 100 ppmv
+FIELD CABINET
+880-CA-003
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Required
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+932
+Heater Probe Filter, Heat Traced Tube , Sample Cooler, Sample Handling System, 
+Cylinder Pressure Regulators
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 1,63,01,250.00 
+49
+1
+0880-AT-XXX3
+1
+80018-0880-BQ-D026-A1
+QUENCH WATER FROM QUENCH WATER COOLER 
+TO QUENCH TOWER
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+pH= 1 -13 (Normal value: 8.5)
+pH
+Glass Electrode Type
+0-14
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Closed Drain
+1/2" Tube OD
+Not Required
+Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+YIL / Mettler Toledo / HACH / 
+E&H
+Power & Signal JB, Any Special Data Cable between Field Equipment and 
+Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+50
+2
+0880-AT-XXX4 A
+1
+80018-0880-BQ-DXXX-A1
+STACK OUTLET TO ATMOSHERE
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+NOx= -- (Max. NOx = 200 mg/Nm3)
+(NOx Required Range= 0-1000 ppm)
+NOx
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+51
+2
+0880-AT-XXX4 C
+1
+80018-0880-BQ-DXXX-A1
+STACK OUTLET TO ATMOSHERE
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+SO2= 0.015 mol% (Maximum SOX=800 mg/Nm3)
+(SO2 Required Range= 0-1000 ppm)
+SO2
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+52
+2
+0880-AT-XXX4 B
+1
+80018-0880-BQ-DXXX-A1
+STACK OUTLET TO ATMOSHERE
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+O2= 3.28 mol%
+(Required Range= 0 mol% -10 mole %)
+O2
+ZrO2
+0-10%
+NA, Insitu
+2" (VTS) RAISED 
+FLANGED, 300# 
+Insitu
+Required
+To process 
+Insitu
+NA Insitu 
+Analyzer
+Yes
+Not Required
+Not Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+WDG-V
+Cylinder Pressure Regulators, Power & Signal JB, Any Special Data Cable 
+between Field Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 55,00,000.00 
+53
+880-AS-001
+1
+Sulphur Recovery Unit
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+54
+1
+0880-AT-XXX5
+1
+80018-0880-BQ-D026-A1
+QUENCH TOWER OVERHEAD TO ABSORBER 
+Sulphur Recovery Unit
+1A3N2
+NA
+Not Available
+N/A
+H2= 0.5 - 6 mol% (Normal value= 3.12 mol%)
+H2
+TCD
+0-10%
+ FIELD RACK
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Pipe OD + 
+Nozzle
+Required
+Flare
+1/2" Tube OD
+Yes
+Not Required
+Required
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Yes, No 
+HART
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+934
+Heater Probe Filter, Heat Traced Tube , Sample Cooler, Sample Handling System, 
+Cylinder Pressure Regulators
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 1,50,93,750.00 
+55
+1
+1
+Adage
+Field Cabinet per Analyzer with 
+single AC per Analyzer
+Light, Standard Armoured Cables, PDP, Signal JB, Any Special Data Cable 
+between Field Equipment and Shelter/Controller, FRP Cable Trays, etc
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 86,62,500.00 
+56
+1
+1
+Siemens
+AMADAS
+With PC
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 5,19,75,000.00 
+57
+0
+0860-AE-24X1
+1
+80018-0860-BQ-D024-A1
+Neutralization PIT
+ARU
+CS (Later)
+NA
+Not Available
+N/A
+Later
+pH
+Glass Electrode Type
+6-14
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+Loop Powered
+Yes 
+Loop 
+Powered
+Yes 
+Not applicable 
+Emerson/Forbes Marshall 
+Smart Pro / 1065
+Filed rack with SHS components 
+ hold 
+58
+0
+0820-AE-XXXX
+1
+9021443-120-146-A1
+Neutralization PIT
+HCK-RX
+CS (Later)
+NA
+Not Available
+N/A
+Later
+pH
+Glass Electrode Type
+6-14
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+Loop Powered
+Yes 
+Loop 
+Powered
+Yes 
+Not applicable 
+Emerson/Forbes Marshall 
+Smart Pro / 1065
+Filed rack with SHS components 
+ hold 
+59
+0
+0810-AE-26X1
+1
+80018-0810-BQ-D039-A1
+Neutralization PIT
+Vacuum Distillation Unit
+VDU (810)
+CS (Later)
+NA
+Not Available
+N/A
+Later
+pH
+Glass Electrode Type
+6-14
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+Loop Powered
+Yes 
+Loop 
+Powered
+Yes 
+Not applicable 
+Emerson/Forbes Marshall 
+Smart Pro / 1065
+Filed rack with SHS components 
+ hold 
+60
+0
+0830-AE-16X1
+1
+9021445-120-62-A1
+Neutralization PIT
+SDA
+CS (Later)
+NA
+Not Available
+N/A
+Later
+pH
+Glass Electrode Type
+6-14
+FIELD RACK
+APPROX . 20 METER 
+2" RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+Loop Powered
+Yes 
+Loop 
+Powered
+Yes 
+Not applicable 
+Emerson/Forbes Marshall 
+Smart Pro / 1065
+Filed rack with SHS components 
+ hold 
+61
+0
+1210-AE-0102
+1
+80018-1210-BQ-D001-A1
+H2S IN NG LINE
+U & O
+1A1A1
+NA
+Not Available
+N/A
+Later
+H2S
+STS
+0-50 PPM (HOLD)
+FIELD CABINET
+APPROX . 20 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+ hold 
+62
+1
+1291-AS-01
+1
+U&O
+Adage
+Ethernet / FO / RS485 / Power / Signal Cables to Shelter / DCS / DB
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+63
+1
+1291-AE-1XX1
+1
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-15 %
+O2
+STS
+0-15 %
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+Siemens
+SITRANS SL
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 36,96,000.00 
+64
+1
+1291-AE-1XX2
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-200 mg/Nm3
+NOx
+STS
+0-200 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+65
+1
+1291-AE-1XX3
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-800 mg/Nm3
+SOx
+STS
+0-800 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+66
+1
+1291-AE-1XX4
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-150 mg/Nm3
+CO
+STS
+0-150 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+67
+1
+1291-AE-1XX5
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-30 mg/Nm3
+Particles
+STS
+0-30 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+Durag
+DR320 Ex
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 27,72,000.00 
+68
+1
+1291-AS-02
+1
+U&O
+Adage
+'2nos HVAC 5TR, PDP, Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller, F&G Devices, Headers, Lights, Cabling using 
+armoured cables a using MCT blocks, and FRP Cable Trays.
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,77,72,500.00 
+69
+1
+1291-AE-2XX1
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-15 %
+O2
+STS
+0-15 %
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+Siemens
+SITRANS SL
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+ 36,96,000.00 
+70
+1
+1291-AE-2XX2
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-200 mg/Nm3
+NOx
+STS
+0-200 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+71
+1
+1291-AE-2XX3
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-800 mg/Nm3
+SOx
+STS
+0-800 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+72
+1
+1291-AE-2XX4
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-150 mg/Nm3
+CO
+STS
+0-150 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+73
+1
+1291-AE-2XX5
+1
+-
+Boiler Stack
+U & O
+CS (Later)
+NA
+Not Available
+N/A
+0-30 mg/Nm3
+Particles
+STS
+0-30 mg/Nm3
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+VTS
+Required
+VTS
+VTS
+VTS
+VTS
+VTS
+Refer Project 
+specifications_80018-
+0000-YZ-0001-E
+Zone-1 IIB T4
+Refer Attachment-10
+220VAC, 50 Hz, UPS
+Required
+Required
+Required
+REDUNDANT MODBUS TCP/IP over 
+Ethernet
+Durag
+DR320 Ex
+Adapter Flange, Power & Signal JB, Any Special Data Cable between Field 
+Equipment and Shelter/Controller
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 27,72,000.00 
+ 71,00,77,250.00 
+Notes:
+1
+2
+3
+4
+5
+6
+7
+ 
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+ 96,60,000.00 
+ 96,60,000.00 
+TOTAL
+ANALYSER SHELTER
+(1291-AS-001)
+ANALYSER SHELTER
+(1291-AS-002)
+CEMS analyser shall be as per 
+Algerian Guidelnes also.
+Any Additional measurement 
+required on stack shall be by 
+supplier.
+In case dedicated shelter / 
+cabinet required for CEMS 
+Analyser, supplier to consider 
+the same.
+As per Algerian guidelines / 
+requirements supplier to 
+consider SPM Analyser.
+CEMS analyser shall be as per 
+Algerian Guidelnes also.
+Any Additional measurement 
+required on stack shall be by 
+supplier.
+In case dedicated shelter / 
+cabinet required for CEMS 
+Analyser, supplier to consider 
+the same.
+As per Algerian guidelines / 
+requirements supplier to 
+consider SPM Analyser.
+SICK
+S720Ex
+Heater Probe Filter, Heat Traced Tube (100m), Sample Cooler, Sample Handling 
+System, Cylinder Pressure Regulators
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+SICK
+S720Ex
+Heater Probe Filter, Heat Traced Tube (100m), Sample Cooler, Sample Handling 
+System, Cylinder Pressure Regulators
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter
+Not Required
+Required
+Yes, No 
+HART
+Non Dispersve UV analysis
+NOx, SO2: '0-1000ppm
+ANALYSER SHELTER
+(880-AS-001)
+APPROX . 100 METER 
+2" (VTS) RAISED 
+FLANGED, 300# 
+1/3 Stack OD + 
+Nozzle
+Required
+SRU LICENSOR (WOOD) RECOMMEND THE FOLLOWING VENDOR FOR THE SRU STACK EFFLUENT ANALYZER (0880-AT-3101 & 0880-AT-XXX4 A/B/C):
+ 1.) Ametek
+ 2.) Applied Analytics
+ 3.) Stick
+SUPPLIER SHALL PROVIDE THEIR STANDARD RANGE FOR STACK EFFLUENT ANALYZER.
+Adage- Noted, We shall supply Ametek.
+CABLE BETWEEN SENSOR AND CONTROL UNIT/ELECTRONICS UNIT/TRANSMITTER/ LOCAL DISPLAY SHALL BE IN THE VENDOR SCOPE OF SUPPLY.
+Adage- Confirmed.
+FOR DETAILS ON ANALYSER , ANALYZER SHELTER & CABINET PLEASE REFER DOC NO. Attch-3 (Doc. No.: 80018-0000-YS-S002-E) ANALYSER SYSTEM SPECIFICATION.
+Adage- Noted.
+THE ENCLOSURE OF THE OFFERED ANALYSERS SHALL COMPLY WITH THE FOLLOWING REQUIRMENTS
+a) WEATHERPROOF HOUSING IP-65 AS PER IEC-60529 OR EQUIVALENT NEMA 4X AND CANOPY SHALL BE PROVIDED HANGING 1.0 METER OUTSIDE BASE AREA OF SHELTER & CABINET
+Adage - Confirmed for Field Cabinets, Certifications are not applicable for Shelters.
+REFER ALL THE REQUIREMENTS ALONG WITH NOTES GIVEN IN MATERIAL REQUISTION.
+Adage- Noted.
+STS: SUPPLIER TO SUGGEST; ; NA: NOT APPLICABLE
+Adage- Noted.
+SUPPLIER TO PROVIDE SUITABLE SYSTEM FOR SPECIFIED TAPPING DISTANCE TO COMPLY TRANSPORTATION TIME AND RESPONSE TIME AND PROVIDE UNIT RATE OF SAMPLE TUBING IN ITS OFFER AT BIDDING STAGE ITSELF.
+Adage- Cost is inclusive of sample tubing as indicated, shall be modified based on Design/Bid Progress.
+ALL CARRIER AND SUPPORT GAS BOTTLES SHALL BE PROVIDED IN MANIFOLDS WITH QUANTITIES SUFFICIENT TO ALLOW CONTINUOUS OPERATION FOR 3 MONTHS AS A MINIMUM. . 
+Adage - Confirmed, Carrier and Support Gas bottles in L&T Scope
+ANALYSER, FLANGED SAMPLE PROBE (SAMPLE EXTRACTION PROBE WITH FULL BORE VALVE), SAMPLE HANDLING SYSTEM, SAMPLE TUBE, ANALYSER CABINET AND ANY OTHER SYSTEM AS REQUIRED FOR FULL FUNCTIONING OF ANALYSER SYSTEM SHALL BE SUPPLIED BY VENDOR.
+Adage- Confirmed - All probes are Non-Retractable Fixed Type.
+SUPPLIER SHALL LIST AND PROVIDE (IF REQUIRED) WITH THE ANALYSER AND THE SAMPLE SYTEM, SPARE AND CONSUMABLES PARTS FOR COMISSIONING, SPARE PARTS FOR START-UP & SPECIAL TOOLS
+Adage - Considered, List shall be based on Analyzer finalization and Design Progress.
+THE STAND ALONE CABINET ANALYSER PANELS SHALL HAVE AC. AMBIENT CONDITIONS ( LOW 01 DEG C & HIGH 47 DEG C).
+Adage - Considered Single AC per Cabinet.
+SUPPLIER SHALL INDICATE THE CHARGES FOR SITE SUPERVISION FOR INSTALLATION, PRE-COMMISSIONING, START-UP AND COMMISSIONING OF ANALYSER SYSTEM.
+Adage- Charges shall be USD.1100 per man-day per engineer, exclusive of Visa, Travel, Boarding, Lodging and Food.
+220 VAC UPS AND NON UPS POWER (WHERE REQURIED) FOR RESPECTIVE ANALYSER SHALL BE PROVIDED BY PURCHASER AT SINGLE POINT. FURTHER POWER DISTRIBUTION (AS REQUIRED) WITHIN THE RESPECTIVE ANALYSER PACKAGE SHALL BE BY SUPPLIER. POWER DISTRIBUTION OF STACK ANALYSERS SHALL BE MADE AVAILABLE FROM ANALYSER SHELTER ONLY.
+Adage- Noted for Power, Kindly note that cables for Power, Signal and Communication in Field shall be in L&T Scope.
+BIDDER TO SUBMIT THE INTEGRATED SYSTEM ARCHITECTURE FOR THE OFFERED ANALYSERS SYSTEM ALONG WITH THE BID.
+Adage- Shall be supplied later based on Model Selection.
+SUPPLIER TO QUOTE MANDATORY SPARES SEPARATELY AS PER ATTACHMENT-20 (Doc. No.: 80018-0000-GY-0001-G, Rev-0)
+Adage- Shall be supplied later based on Model Selection.
+SUPPLIER SHALL QUOTE FOR THEIR STANDARD RANGE WHEREVER RANGE IS NOT MENTIONED IN PROCESS DATASHEET AND WHEREVER PROCESS DATASHEET IS NOT AVAILABLE.
+Adage- Noted. Kindly note that Prices are subjected to change if the Analyzer Ranges are modified as Design Progresses.
+SUPPLIER TO PROVIDE ANALYSER SHELTER IN BASE QUOTE AND CABINET IN OPTIONAL QUOTE FOR CEMS ANALYSER. FOR SHELTER SPECIFICATION, REFER ANNEXURE-12
+Adage- Noted.
+SRU LICENSOR (WOOD) RECOMMEND THE FOLLOWING VENDOR FOR THE SRU AIR DEMAND ANALYZERs (0880-AT-1701 & 0880-AT-1801):
+ 1.) Ametek
+ 2.) Applied Analytics
+ 3.) Galvanic/Brimstone
+SUPPLIER SHALL PROVIDE THEIR STANDARD RANGE FOR AIR DEMAND ANALYZER.
+Adage- Noted, We shall supply Ametek.
+Heater Probe Filter, Heat Traced Tube , Sample Cooler, Sample Handling System, 
+Cylinder Pressure Regulators
+Ethernet / FO / RS485 / Power / Signal 
+Cables to Shelter / DCS / DB
+ 2,23,38,750.00 
+ALL STANDARD TUBING / PIPING INCLUDING FITTINGS FROM SAMPLE TAKE OFF POINT TO THE SAMPLING SYSTEM SHALL BE BY VENDOR INCLUDING WHERE STEAM TRACING, HEAT TRACING, INSULATED, SPEACIALLY COATED OR ANY OTHER SPECIAL TUBE IS REQUIRED ON SAMPLE LINES.
+Adage- Confirmed
+ALL REQUIRED COMPLETE CALIBRATION KIT CONSISTING OF CALIBRATON GAS CYLINDERS (SPAN/ZERO GAS CYLINDERS), PRESSURE REGULATOR, GAUGES, CYLINDER GAS PIPING MANIFOLD,DRIERS, AUTO CHANGE OVER VALVE, FLOW METERS AND MANUAL VALVES FOR CALIBRATION STANDARDS SHALL BE FURNISHED.
+Adage - Confirmed for all items except Calibration Cylinders
+Yes
+Yes
+Non Redundant MODBUS in Analyzer, 
+requirement met externally.
+Ametek
+920
+ATM Vent
+ATM Vent 1/2" 
+Tube
+Yes

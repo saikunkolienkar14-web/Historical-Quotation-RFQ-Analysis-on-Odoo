@@ -1,0 +1,286 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price(INR)
+1
+AR-3003
+Gas Chromatograph system
+1 No
+1,34,00,000/-
+2
+Network components and other
+Accessories
+1 Lot
+3
+FAT at Adage factory
+1 Lot
+Inclusive
+4
+Project documentation
+1 Lot
+Inclusive
+5
+Supervision of installation and
+commissioning
+Lumpsum
+2,00,000/-
+6
+Training at Adage Factory
+4 Engineers for 1 day
+1 Lot
+inclusive
+7
+Startup & Commissioning spares (As
+per TQ requirement)
+TCD element set for detector
+Column – 1 set
+Valves – 2 No
+1 Set
+5,00,000/-
+8
+Spares/Consumables for 2 years (As
+per TQ requirement)
+set of fuse
+valve diaphragm sets
+Filter
+1 Set
+20,000/-
+9
+FO cable
+5 Km
+6,00,000/-
+TOTAL SUPPLY PRICE
+1,47,20,000/-
+OPTIONAL PRICES
+Sr.
+No.
+Tag No
+Item Description
+Qty
+Total Price(INR)
+1
+-
+Redundant Vortex cooler
+1 No
+2,20,000/-
+1.31
+-
+1⁄4’’ SS316 HTT line
+300
+Meters
+4500/- Per meter
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS COMMON FOR BOTH STREAMS
+TAG NO: AR-3003:
+-
+Supply Pressure (Nor/Max): 20.1/23 Kg/cm2
+-
+Temperature (Min/Nor): -40/-10 Degree C
+-
+Sample Return: To Vent Header/ Flare header (With Flame
+arrestor)
+Service: EF bottom section tray analyzer
+MR Requirement
+1.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Sample phase: Liquid
+No of Streams: 2
+Switching Valve : Mod 50 Valve
+GC Ambient Temperature : -18 – 50 Deg C
+Ambient Humidity : Max 80%
+Oven Type: Airless Oven
+Oven linder: Aluminium
+Oven Temperature Accuracy: +/-0.02 Deg C
+Current Variation of +/-15%
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component
+-
+Redundant Ethernet Output
+-
+Potential free alarm contacts for Carrier pressure low, GC
+common fault, Purge failure.
+-
+Sample low flow & carrier pressure low contact in carrier ACU
+unit
+4-20 mA Analog output for cabinet temperature using RTD
+1 No
+QUOTED
+Utility Requirement:
+-
+110VAC 50 Hz UPS Power supply, 655 watts for GC
+-
+415VAC 50Hz Non UPS power supply, 7200 watts for HPR,
+Ex proof AC .
+1.2
+Sample Probe for both streams: Not required
+-
+Directly from tapping point with isolation valve
+0 No
+1.3
+Sample transportation Line for supply:
+-
+1/4’’ SS316 tube for stream 1, Qty : 150 meters
+-
+1/4’’ SS316 tube for stream 2, Qty : 150 meters
+Sample transportation line for fastloop return:
+-
+1⁄4’’ SS316 tube for fastloop return for stream 1 : 50 meters
+-
+1⁄4’’ SS316 tube for fastloop return for stream 2 : 50 meters
+400
+meters
+1.31
+-
+1/4’’ SS316 HTT tube for stream 1, Qty : 150 meters
+(Optionally Quoted)
+-
+1/4’’ SS316 HTT tube for stream 2, Qty : 150 meters
+(Optionally Quoted)
+300
+Meters
+1.4
+Primary sample handling system
+PSHS shall consists of Ball valve, inline filter, HPR, SRV, NRV,
+Temperature gauge x 2 sets
+Shall be mounted inside SS304 enclosure
+Secondary Sample handling system (Common for both the
+streams)
+Ball valves, pressure indicator, Fastloop filter, NRV, SRV, Bypass and
+sample flowmeter(with low flow switch), Fine filter, AOV’s, Double
+compression fittings, internal tubbing in SHS etc.
+Shall be mounted inside SS304 enclosure
+1 No
+1.5
+Calibration blend with double stage pressure regulator
+-
+For FAT, Commissioning & 1 year operation from the date of
+commissioning (2 No’s)
+-
+With cylinder rack (SS304 with canopy)
+1 Set
+1.6
+Auto changover unit with pressure transmitter for carrier gas
+cylinders with cylinder rack
+One set of ACU unit for N2 gas required for Valve operation
+One set of ACU unit for H2 gas required for carrier gas
+Carrier gas cylinders shall be in the scope of RIL.
+1 No
+1.7
+Analyser cabinet
+-
+1000 W X 800 D X 2100 H mm, MOC: SS316, 2mm thick
+-
+ATM Vent Header with flame arrestor & Flare Header
+-
+Air header
+1 No
+1.8
+With Redundant Ex proof AC
+1 No
+each
+1.9
+-
+PDB x 2 No, Exd LM6 and JB's (ASJB,DSJB,CSJB, Exe GRP)
+is considered.
+1 Set
+1.10
+-
+Air Headers, Flare header with flame arrestor and other
+accessories
+1 Lot
+2
+Network Accessories at Cabinet side and MCR room
+-
+Ethernet to FO converter x 1 No
+-
+FO patch panel, patch cords x 2 Sets
+-
+FO to Ethernet converter x 1 No
+-
+10 port FO to ethernet converter
+1 Sets
+Quoted
+2.1
+Workstation (Safe area) suitable for GCP portal software
+- Grade – Latest Quad Core, 2.66Ghz, Main memory 16 GB RAM, Hard disk :
+2X1TB GB (Raid 1) , 16 DVD Drive , QWERTY keyboard, Optical mouse,
+Windows 10 64 Bit LTSC, Tower type
+1 No
+2.2
+GCP portal software
+1 No
+2.3
+Network cabinet as per RIL standard for mounting accessories in
+MCR room
+1 No
+3
+FAT at Adage factory
+1 Lot
+Quoted
+4
+Project documentation
+-
+2 sets of Hard copy + DVD
+2 sets
+Quoted
+5
+Training at Adage
+4 Engineer at Adage works
+1 Lot
+Quoted
+6
+Supervision of installation and commissioning
+Lump
+sum
+Quoted
+7
+Special tools & tackels (As applicable)
+1 No
+Quoted
+8
+Startup & Commissioning spares (As per TQ requirement)
+TCD element set for detector
+Column – 1 set
+Valves – 2 No
+1 Set
+Quoted
+9
+Spares/Consumables for 2 years (As per TQ requirement)
+set of fuse
+valve diaphragm sets
+Filter
+1 Set
+Quoted
+10
+FO cable
+Minimum MOQ is 5 Km (Against 350 meter)
+5 Km
+Quoted
+AVL for SHS components (As per TQ confirmation
+Pressure relieve valve
+Tescom/go
+Fine filter / Fastloop filter
+Headline/ Classic
+Ball valve SS 316
+Swagelok
+NRV SS 316
+Swagelok/ Hoke/ Parker
+Pressure Gauge SS 316
+Wika
+Pressure regulator
+Tescom/go
+Air Header
+Anderson Greenwood (Emerson)/ Comfit/
+Astec/ Champ Instr.
+Junction Boxes
+Hawke
+Stahl
+Cooper (Eaton)
+Phoenix Mecano

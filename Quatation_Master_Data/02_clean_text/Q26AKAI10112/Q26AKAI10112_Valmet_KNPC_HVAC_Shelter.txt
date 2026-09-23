@@ -1,0 +1,625 @@
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+To,
+
+End User: KNPC
+
+Kind Attention: Mr. Eugene Leong
+System Integration Proposal Manager
+Analyzer Products and Integration
+Automation Solutions Business Area
+
+Valmet, Singapore
+
+Project: KNPC CFP Expansion Project
+
+Material / Equipment / Service: Analysers House with HVAC System
+
+Dear Sir,
+
+Adage Kanoo Analytical Industry LLC is pleased to provide the attached technical offer of Analysers House
+with HVAC System for KNPC CFP Expansion Project.
+
+We thank you for your interest in our products and services and thank you for the opportunity to offer our
+proposal for your consideration.
+
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned
+
+Yours sincerely,
+Ganesh Govindaraj
+Email: govind@adage-kanoo.com
+Mob: +971 58 5213703
+(Head - Business unit & Sales)
+
+Our Quotation No: Q26AKAI10112
+Date: 05.02.2026
+
+Contact persons:
+Mr. Ganesh Govindaraj
+Email: govind@adage-kanoo.com
+Mob: +971 58 5213703
+
+Ms. Megha Palan
+Email: sales@adage-kanoo.com
+Mob: +971 52 2885599
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+Table of Contents
+
+Section 1:
+General Notes and Clarifications
+
+Section 2:
+Scope of Supply and Price List
+
+Section 3:
+Exclusions
+
+Section 4:
+Technical Description of Equipment
+
+Section 5:
+Sub Vendor List
+
+Section 6: Commercial Terms and Conditions
+
+Quote Revision History.
+
+Sr. No.
+Date
+Tech. Rev.
+Comm. Rev.
+Description
+1
+02.02.2025
+0
+0
+Initial Submission
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+Section 1: General Notes and Deviation & clarifications
+
+1. Scope: We offer for Analysers House with HVAC for KNPC CFP Expansion Project.
+2. We have not considered supply of any type of Analysers, Gas Chromatographs, Primary / Secondary Sample
+conditioning systems, Gas cylinders, both Carrier and Calibration Blend with accessories for Site shall be
+procured locally by Contractor / Customer.
+3. Power Supply 440VAC-3PH-50HZ, 2x feeder (one for each HVAC) shall be arranged by the customer.
+
+S.n.
+Item
+Requirement
+Deviation & clarifications
+1
+Shelter
+External wall thickness 2.75mm thick
+SS304
+External wall thickness: 2.5 mm, SS 304
+2
+Shelter
+Mineral wool & Calcium Silicate Board
+Insulation thickness in mm 80 mm thick on
+walls, Roof and floor
+Insulation shall be mineral wool (Make:
+Rockwool). Calcium silicate board not
+included.
+3
+Shelter
+Fire resistance for 2 hours for walls, roof,
+and floor, and 90 minutes for doors and
+dampers.
+120-minute fire resistance for insulated walls
+and roof with SS sheets. 90 minutes for door
+materials and accessories.
+4
+Shelter
+Floor
+Floor chequered plate material of
+construction: Aluminium / SS 304
+5
+Shelter
+
+We are not included Shelter PLC.
+6
+HVAC
+Power 440VAC-3PH-50HZ, 2x feeder
+Power supply shall be provided by the
+customer.
+7
+HVAC
+Internal load
+Please provide internal load in kW
+for heat load calculation.
+
+Currently we have considered 5TR HVAC.
+8
+Chemical Filter
+Chemical Filter (Hold - refer to Technical
+Clarification)
+Not included in the current scope.
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+Section 2: Scope of Supply and Price List
+
+S.N.
+Tag Number
+Item Description
+Qty
+Unit Price
+Total Price
+1
+137-AH-XX
+Analyser House (SS 304)
+- Utility Headers, Detectors, Transmitters
+- Junction Boxes, Power Distribution Boxes
+- Includes Cylinder rack with ACU
+- AMADAS Network Junction Box,
+Fiber Optics Patch Panel
+
+1
+$ 240,500
+$ 240,500
+
+HVAC (Redundant)
+1
+$ 79,215
+$ 79,215
+2
+
+Packing
+1
+Included
+Included
+3
+
+Engineering and Design
+1
+$ 4,500
+$ 4,500
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+Section 3: Exclusions (To be taken care by Customer)
+
+1. Supply of Gas Chromatographs.
+2. Supply of Primary Sample Conditioning System / Secondary Sample Conditioning System.
+3. Supply of Sampel Probes, Transportation lines.
+4. Carrier and Calibration Blend for Site shall be procured locally by Contractor / Customer.
+5. Refilling of Carrier & Calibration Cylinders & accessories.
+6. 4-20mA, RS485, TCP/IP from field/Shelter to DCS/engineering room.
+7. Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+8. Provision of dry instrument Air & plant N2.
+9. Supply of Standard Field Cables including signal, power & FO.
+10. Laying of Power cable, signal cable, Sample line and Airline etc at site.
+11. Laying of Trays (Power, Signal, FO, Sample line, Air etc).
+12. Field supporting structure for cables, transportation tubes etc.
+13. Storage of supplied system at site.
+14. Civil foundation as required.
+15. Data Acquisition/ AMS Server/ PC
+16. CCTV in shelter
+17. Shelter Safeguard PLC.
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+Section 4: Technical Description of Equipment
+
+S.N.
+Item Description
+Qty.
+Price
+(USD)
+1
+Analyzer House
+Tag no: 137-AH-XX
+This shelter is dedicated for the following GCs
+1. GC Tag No: 137-AT-XXXX
+2. GC Tag No: 138-AT-XXXX
+
+•
+AH MOC SS304 painted
+•
+Construction Ribbed interlock type sandwich construction with mineral
+wool insulation 80 MM
+•
+Base frame Fabricated from structural hot-dipped galvanized steel
+channel or I-beam, fully welded. HVAC to be mounted on the House
+base frame.
+Internal wall thickness in mm 1.5mm thick SS304 and external
+wall thickness 2.5mm thick SS304
+•
+Shelter external dimensions (L x W x H) 4700 x 2700 x 3470 mm
+excluding airlock room.
+•
+Airlock room size 1400 x 1400 mm included
+•
+Doors - Located on 1 short wall and 1 on long wall, outward opening
+and sized as 900 x 2100mm Main & Emergency Exit
+Floor chequered plate material of construction: Aluminium / SS 304
+•
+Safety window on each door Yes (Minimum 0.2 sq meters, Safety
+glass shall be 6.4mm thick and laminated with 1.5mm interlayer)
+•
+Panic bar & auto door closure Provided on each door
+•
+Overhang Canopy 1000 mm in all 4 Sides
+Removable Sunshade over the roof
+•
+•
+Barometric adjustable louvers 2 Nos, with screened aluminium
+•
+Anchor bolts required for shelter fixing Included
+•
+Tube entry through shelter walls Using MCT Blocks
+•
+Cable entry through shelter walls Using MCT Blocks
+•
+Armoured cables with cable glands Included
+•
+Cable tray HDG Steel
+•
+Lifting lugs 4 Nos, Top Lift
+•
+Vent Master
+•
+Work Bench Metal workbench is not included
+•
+Eyewash with sink
+•
+Not blast rated
+1
+Quoted
+1.1
+HVAC
+•
+Make: ADAGE
+•
+Redundant HVAC
+•
+Electrical hazardous classification Suitable for use in IECEx Zone 1
+llB+H2 T3
+
+•
+Casing MOC SS316
+
+•
+Heater and Air blower Built-in Zone 1 Electric Heat with Low Watt
+Density Elements
+
+1
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+•
+Fresh air Min 6 air changes/hour
+
+•
+Refrigerant R134a
+
+•
+Temperature maintained inside AH 25° C
+
+•
+Temperature control Using adjustable thermostat
+
+•
+Inside AH pressure 50 Pa
+
+•
+Heating type Electric
+
+•
+HVAC attached to shelter
+
+•
+Fresh air intake duct Length (with all accessories) 12'' dia x 27' length
+GI unpainted spiral duct, SS punched angle rings, Rain cap, bird-
+screen, Fasteners and other supporting kit.
+
+•
+Return Air Filter Grille included
+
+•
+Anti-Static & Spark-Resistant Fan Blade included
+
+•
+IECEx Certified Zone 1 Condenser Fan Motor & Evaporator Blower
+Motor included
+
+•
+Intrinsically Safe Fan Cycling Pressure Switch included
+
+•
+Intrinsically Safe Loss of Flow, Switch and Alarm Contacts include
+•
+Power 440VAC-3PH-50HZ, [ 2x feeder (one for each HVAC) Customer
+to arrange]
+
+1.2
+Shelter Accessories
+
+•
+1x Emergency Power distribution Panel, 440VAC 3pH / 250 VAC 1pH
+MOC: Ex de, Copper free Aluminum alloy, IP66,
+•
+1x Emergency Power distribution Panel, 250/240 VAC 1pH
+MOC: Ex de, Copper free Aluminum alloy, IP66,
+•
+1x Transformer, Hammond Transformers 3ph 15kVA 480V-400Y/231V
+60Hz
+•
+1x UPS Power distribution Panel, 110 VAC 1pH
+MOC: Ex de, Copper free Aluminum alloy, IP66,
+•
+3x Analog Signal Junction Box, SS316L
+•
+2x Analog F&G Junction Box, SS316L
+•
+1x Digital Signal Junction Box, SS316L (DCS)
+•
+1x Digital Signal Junction Box, SS316L (FGS)
+•
+1x Digital Signal Junction Box, SS316L (FGS)(GAS)
+•
+1x Digital Signal Junction Box, SS316L (FGS)(FIRE)
+•
+1x Digital Signal Junction Box SS316L, (FGS)(MCP)
+•
+1x Digital Signal Junction Box, SS316L (HVAC)(NON-IS)
+•
+1x Digital Signal Junction Box, SS316L (DCS)(FF)
+•
+1x Field Power Junction box SS316L
+
+•
+1x Temperature transmitter
+•
+1x DP Transmitter
+•
+1x Door Switch Non-IS connection box
+
+•
+2x 240VAC Emergency tube light with Battery Backup
+
+•
+8x 240VAC Exterior Area Lighting – LED
+
+•
+Light Switches for Internal & External Lighting 2ea
+
+•
+2x 240V Receptacle
+
+•
+1x 20A 1P 2 Gang
+
+1 Lot
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+1.3
+Fire & Gas Devices
+•
+2x Combustible Gas Monitor inside the Analyser House
+•
+1x Combustible Gas Monitor inside the HVAC fresh air duct
+•
+2x H2S (Toxic) Gas Monitor inside the Analyser House
+•
+1x H2S (Toxic) Gas Monitor inside the HVAC fresh air duct
+•
+1x Oxygen Deficiency Monitor
+•
+2x Smoke Detector
+•
+2x Door switch
+•
+2x Manual call point
+•
+2x Horns (One at each door)
+•
+6x Beacons (Fire, Gas, Toxic) - 3 outside; 3 inside house
+•
+1x Alarm panel
+
+1 Lot
+Quoted
+1.4
+Utility Headers
+
+•
+316SS Instrument Air Header with Pressure Transmitter, Dual Filters
+and Primary isolation valve in redundant configuration. Valves: Branch
+connections to include 6mm ball valves for each user
+Taps: Taps with valves, provided. All unused taps to be plugged.
+
+•
+1/2" 316SS Plant N2 Header, With Pressure Gauge.
+Valves: Branch connections to include 6mm ball valves for each user
+Taps: Taps with valves, provided. All unused taps to be plugged.
+
+•
+2" 316SS Atm. Vent Header with Flame Arrestor & HC Diffuser (2 Nos)
+•
+2" 316SS Flare Header
+
+•
+2" 316SS Closed Drain Header
+
+•
+1/2" Tube 316SS H2 Carrier gas header
+
+1 Lot
+Quoted
+1.5
+Cylinder Rack with Auto-changeover Unit
+
+Construction Description for Dual 2-Pack Cylinder Rack
+Frame: Frame will be constructed of steel channel with horizontal strut. Joints
+will be seal welded and ground smooth. Framework will be Metallized except
+for struts.
+Lifting Devices: Two (2) Stainless Steel lifting eyes shall be attached to
+the upper cross channel at each end and shall be designed to lift the total
+weight of the rack with all equipment installed.
+Sun Shade: Included
+External Cage MOC Galvanized steel painted with lock arrangement:
+Included
+Carrier Gas Change Over Station
+Material: Aluminum Panel, Stainless Steel equipment and tubing
+components.
+Flow Capacity: 0.06 Cv
+Outlet Pressure Range: 0-200 psig
+Gauges: Inlet and Outlet gauges included
+Connections: 1/4” FNPT
+Includes: CGA Fitting, Stainless Steel Braided Flex Hose, Isolation
+Ball Valve, 2x Pressure switch.
+1 Set
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+1.6
+AMADAS Network Junction Box
+Includes
+2x Siemens/ Hirschmann Ethernet switches,
+2x SFP Transceiver modules per switch
+2x fused 24Vdc Power Supply.
+Each Ethernet Switch JB includes A and B network configurations (redundant
+power supply and ethernet switch) in a single enclosure.
+Included pre-wired to the communication circuits
+2x Fiber Optics Patch Panel (12 Pair Fiber Optic connections)
+
+1 Set
+Quoted
+
+Section 5: Sub vendor List
+
+S.N.
+Item
+Make
+1
+Bare Shelter
+Adage
+2
+HVAC
+Adage
+3
+Transformer
+HPS Titan Series Encapsulated Transformers
+4
+Differential Pressure Transmitter
+Dywer
+5
+Temperature Transmitter
+Emerson
+6
+Electrical Panels & Jbs. (Signal Jbs)
+Cortem/ Rose
+7
+Internal /External Lights
+Cortem/Stahl
+8
+Manual Call Point
+Apollo
+9
+Beacons
+MEDC
+10
+Horns
+MEDC
+11
+Smoke Detector
+MEDC
+12
+F&G Detectors
+Crowcon
+13
+Auto Change Over Regulator
+Tescom
+14
+Ethernet switches
+Siemens/ Hirschmann/IPCDAS
+
+www.adage-kanoo.com
+
+Adage Kanoo Analytical Industry LLC
+D 64 & 65 / KLP 3
+KEZAD, Abu Dhabi
+United Arab Emirates
+
+Section 6: Commercial Terms
+
+Price basis
+All prices are net prices in USD. Pricing in this quotation is based on Ex-works factory Goa, India.
+
+Price Validity
+Prices quoted will remain valid for a period of 180 days from the date of quotation or until end of
+calendar year, whichever comes earlier.
+
+Lead Time
+Shipment is typically 12 months from the receipt and acknowledgement of purchase order.
+
+Warranty
+The warranty period is 12 months from initial operation of the product or 18 months from the date of
+dispatch whichever is earlier.
+
+Payment terms
+10% against submission of engineering documents & receipt of approval in Code 2. Balance 90%
+within 45 days from the date of shipment.
+
+Packing Charges
+0.5% of basic supply order value shall be applicable for packing, crating & forwarding.
+
+Freight
+To Pay Basis or claimed extra at actual on prepaid basis.
+
+Taxes
+Taxes are not considered and shall be Extra if applicable at the time of delivery.

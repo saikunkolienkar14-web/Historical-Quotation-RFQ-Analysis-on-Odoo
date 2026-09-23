@@ -1,0 +1,114 @@
+Quotation Number: Q2503C007
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+AAQMS SO2 ANALYZER
+•
+Measurement Principle: UV Fluorescence
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: Auto ranging 0 – 1/10 ppm
+•
+Communication: Ethernet, USB
+•
+Detection Limit: < 0.4 ppb
+•
+Make: ENVEA; Model: AF22e
+AAQMS OXIDE OF NITROGEN (NO - NO2 – NOX) ANALYZER
+•
+Measurement Principle: Chemiluminescence
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: Auto ranging 0 – 1/10 ppm
+•
+Communication: Ethernet, USB
+•
+Detection Limit: < 0.2 ppb
+•
+Make: ENVEA; Model: AC32e
+AAQMS CO ANALYZER
+•
+Measurement Principle: Non-Dispersive Infra-Red
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0 – 50 ppm
+•
+Detection Limit: 0.05 ppm
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA; Model: CO12e
+AAQMS HC ANALYZER
+•
+Measurement Principle: FID
+•
+Power Supply: 230V, 50 Hz
+•
+Measuring Range: 0-10 ppm / 0-1000 ppm
+•
+Lower Detection Limit: 0.05 ppm (50 ppb)
+•
+Communication: RS232 / RS422
+•
+Make: ENVEA; Model: HC51M
+AAQMS PM10 & 2.5 ANALYZER
+•
+Measurement Principle: Beta Ray Attenuation
+•
+Power Supply: 230V, 50Hz
+•
+Measuring Range: 0-10000 μg/m3
+•
+With C14 radioactive source
+•
+Pump
+•
+PM10 inlet
+•
+Make: ENVEA; Model: MPM101M OPM
+1 No
+1,78,06,348
+1,78,06,348
+WITH SAMPLE HANDLING SYSTEM CONSISTING OF
+•
+Sample Inlet Filter
+•
+Sample Inlet Hood
+•
+Glass Manifold For SHS
+•
+Multipoint Calibrator with Zero Air Generator
+•
+With Standard 19” Rack Cabinet
+•
+Calibration Gas Cylinders for span calibration with double stage
+regulator for 1 year operation
+METEOROLOGICAL STATION
+(A) Wind Speed
+(B) Wind Direction
+(C) Ambient Temperature
+(D) Relative Humidity
+(E) Solar Radiation
+(F) Rainfall
+PC BASED SYSTEM
+PC based Data Acquisition System with
+License Software suitable for Storing, Logging, Reporting, Printing
+data.
+PC WITH SPECIFICATIONS AS UNDER
+Make: HP/LENOVO/Eqv , Intel i3 Processor, 4 GB RAM, 500 GB HDD,
+CD/DVD Combo Drive, 19 ” TFT Monitor, Standard WINDOWS 10
+latest operating System, standard keyboard, mouse with pad.
+SPLIT AC
+For mobile van
+1.5 ton AC- 2 Nos/van
+MOBILE VAN ALONG WITH FABRICATION WORK
+TATA LPT 712

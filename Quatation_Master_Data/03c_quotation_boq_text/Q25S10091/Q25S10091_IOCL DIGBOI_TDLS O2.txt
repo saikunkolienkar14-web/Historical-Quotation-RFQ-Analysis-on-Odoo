@@ -1,0 +1,119 @@
+Quotation Number: Q25S10091
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Item Qty
+Description
+Unit Price (₹)
+(Incl GST)
+Total Price (₹)
+(Incl GST)
+1
+2
+Oxygen analyser (TDLAS type) including
+commissioning Spares
+Quoted
+Quoted
+1.1
+1
+Design & Project Management
+Inclusive
+Inclusive
+1.2
+1
+FAT at Adage Factory
+Inclusive
+Inclusive
+1.3
+1
+Freight, P&F, Transit Insurance, GST, GeM
+transaction charges
+Inclusive
+Inclusive
+2
+1
+Mandatory Spares for O2 Analyzer as per tender
+Quoted
+Quoted
+3
+1
+Supervision of installation & Commissioning of 2
+Nos. of Oxygen analyser.
+Number of days: 6 Days at site in 3 trips.
+Price shall include lodging, boarding and
+Transportation.
+Quoted
+Quoted
+4
+1
+O&M Training for Oxygen Analyser at site.
+Operation and Maintenance training of Owner's
+personnel (7 nos.) for minimum 1 day on topic
+"Oxygen Analyser system".
+Quoted
+Quoted
+PRICE SCHEDULE FOR PWAMC (Optional)
+During PWAMC period, 2 man-days every quarter visit will be done by service expert for maintenence
+purpose. if any spare required then same to be arranged by buyer
+Sr no.
+Description
+Total Price (₹)
+(Excl GST)
+1
+First year after expiry of defect liability
+3,00,000
+2
+Second year after expiry of defect liability
+3,50,000
+3
+Third year after expiry of defect liability
+4,00,000
+4
+Fourth year after expiry of defect liability
+4,50,000
+5
+Fifth year after expiry of defect liability
+5,00,000
+SECTION 2: TECHNICAL LITERATURE
+1
+TDLS Based Oxygen Analyzer
+Tag No: 07-AE/AT-6654 & 07-AE/AT-6658
+Make: Siemens AG, Germany
+Model: SITRANS SL
+Mounting Location: Field, In-situ Cross Duct Type.
+Principle: TDLAS (Tunable Diode Laser Absorption Spectroscopy)
+Enclosure Protection: IP65
+Process Parameters:
+1. Tag No.: 07-AE/AT-6654
+- Pressure (Normal/Max): -2.54 mmwcg / 355 mmwcg
+- Temperature (Normal/Max): 675 DegC / 800 DegC
+2. Tag No.: 07-AE/AT-6658
+- Pressure (Normal/Max): -6.6 mmwcg / 355 mmwcg
+- Temperature (Normal/Max): 145-365 DegC / 420 DegC
+Measuring Ranges for both the Tags:
+-
+0-21% O2
+Process Connection
+-
+4"NPS x Sch 40 with 150# RF Flange,
+Analyzer Outputs
+-
+2X 4-20 mA analog output for measuring component.
+-
+RS-485 Modbus Serial output
+-
+2 configurable digital outputs (display of faults, maintenance
+requirement, function monitoring, alarms for limit violations of
+measured value or transmission)
+Required Utility plate for Purging (with N2):
+-
+Consisting of Ball valves, Flow meters, AFR
+-
+Process side purge flow: 0-50 l/min
+-
+Sensor (Electronics) purge flow: 0.25 l/min
+Calibration:
+-
+Factory Calibrated.
+Notes:
+-

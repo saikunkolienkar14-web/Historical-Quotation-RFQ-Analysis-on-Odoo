@@ -1,0 +1,68 @@
+Quotation Number: Q2605N041
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr.No.
+Description
+Qty.
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+Gas analyser system for biogas application
+Number of sample points: 4
+Sample point 1: CH4, CO2, O2,H2S
+Sample point 2: H2S
+Sample point 3: CH4, CO2, O2,H2S
+Sample point 4: CH4, CO2, O2 ,H2S
+Sample handling system comprising of:
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Model: INCA4002
+Make: Union AG Germany
+Multi-Gas Analyser INCA4002
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Oxygen (O2) (Measuring Principle: EC)
+Hydrogen Sulphide (H2S) (Measuring Principle: EC-μPulse)
+•
+Kind of Gas: Biogas
+•
+Power supply 230VAC, 50 Hz
+•
+Signal output Modbus TCP
+(For details, please refer the P&ID and Bill of materials).
+Please note that the quoted analyser system is for safe area.
+1 Set
+Quoted
+Quoted
+2
+Moisture Analyser for sample point 4
+Area Classification: Safe Area
+Measuring Range: 0 to (-) 800C
+Principle: Alumina Oxide
+Repeatability: Within + 0.2 Deg. C
+Response Time: 5 Minute to T95
+Output: 4-20 mA
+Supply: 18-24vdc
+Model: Easidew
+Make: Michell Instruments
+With Necessary Sample Handling System
+1 Set
+Quoted
+Quoted
+3
+Heated tube for Sample gas transportation for moisture analyser
+MOC: SS; size: 1/2”
+@Quoted Per Meter
+4
+Service charges for supervision of Installation & Commissioning
+Lodging and boarding to be arranged by the customer. To and FRO
+charges to be claimed at actuals (ACII tier/flight).
+@Quoted Per Man Day

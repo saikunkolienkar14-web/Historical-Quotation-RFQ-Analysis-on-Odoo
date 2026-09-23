@@ -1,0 +1,39 @@
+Quotation Number: Q2604B009
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(Inr)
+Total Price
+(Inr)
+1
+SHS for Gas Analysis System for measurement of CO, O2
+With IP54 panel
+With Secondary sample handling system consisting of
+Filters, Needle Valves, Ball Valves, Nafion dryer etc .
+With microprocessor-based analyser
+Ultramat 23 -1 No.
+For the measurement of
+Carbon Monoxide (CO)
+Oxygen(O2)
+Analyser Make: Siemens, Germany
+Note:
+•
+Please note that the Probe assembly, pump enclosure assembly,
+sample gas lines from probe to analyser panel shall be in JSW scope.
+•
+All the field tubes and cables along with mechanical and electrical
+accessories from probe to panel shall be in JSW scope.
+•
+Please note that we shall provide only Profibus connector. Profibus
+output shall be available in the analyser panel. Further connectivity
+and its associated cables, hardware etc shall be in JSW scope.
+1 Set
+34,10,000
+34,10,000
+2
+Supervision of Installation & Commissioning charges
+Lodging and boarding to be arranged by the customer. To and fro charges
+to be claimed at actuals (ACII tier/flight)
+@30,000 Per Man Day

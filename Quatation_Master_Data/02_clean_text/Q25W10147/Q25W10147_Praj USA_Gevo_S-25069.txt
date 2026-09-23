@@ -1,0 +1,2466 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in ADAGE AUTOMATION Products and with reference to the same please find
+enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which includes
+analysers as per your requirement.
+
+Adage Quote Ref:
+Q25W10147
+DATED : 01.04.2025
+BID TYPE : Budgetary
+Project Title:
+S-25069 -NET ZERO 1 BD PROJECT
+Inquiry Details:
+S-25069 -RFQ for Analysers
+Customer:
+
+Kind Attention : Mr Chinmay Shastri
+Sr. Manager-Instrumentation & Electrical
+Praj Industries Ltd.
+
+End User:
+
+GEVO INC
+Lake Preston, North Dakota, (USA)
+
+The Summary of System as per Below Sections:
+
+Section-1:
+Clarifications/Assumptions
+Section-2:
+Price Summary Sheet
+Section-3:
+Technical Literature
+Section-4:
+Exclusions
+Section-5:
+Commercial terms
+
+Kindly review and do let us know if you have any queries.
+
+Kind Regards
+
+Omendra Shaktawat
+ADAGE AUTOMATION PVT LIMITED
+omendra@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+This is in context to your requirement of Gas analysis System & We Thank you for the same.
+
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas Analytical Systems
+and Solutions in India and worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in
+the industrial field of Steel, Cement, Power, Fertilizers, Chemicals, Oil & Gas etc
+
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a modern Factory at
+Goa. Our set up for On Line Gas Analytical Business is second to none in India. We have already installed more than
+4000 Analyser Systems in India and at present moment enjoy a leadership position in the Steel, Cement , Oil & gas,
+Fertilizers, Power & other Industries domain with more than 60% market share. We are also the largest supplier and
+service provider of Gas Analytical Systems from India to over 40 countries in Africa, Mid East, Far East and South
+America.
+
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under joint investment
+from SIEMENS AG Germany catering to all round services & repair for our customers . Our State of the art factory
+with its highly sophisticated infrastructure is second to none in India.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Section 1: Assumptions/ Clarifications
+
+1. We have quoted the analyser system as per provided datasheets.
+
+2. All sample tubes are quoted electrically heat tracer coil tubes. 25 mtrs length (each stream) is quoted for gas
+chromatograph and 20 mtrs length is considered for remaining all other analysers (BTU, Moisture & pH).
+
+3. We will provide return connection till cabinet header further connection to flare/process shall be taken care by
+customer.
+
+4. We have considered and quoted cabinet heaters for analyser, pre SCS and SCS to meet the requirement of
+ambient temperature.
+
+5. We have not included, supply of calibration and carrier gas cylinders in our quotation.
+
+6. Standard power and signal cables up to battery limit of Analyser cabinet/rack by Customer. Further internal
+distribution shall be taken care by Adage.
+
+7. Foundation for mounting of Cabinet/Rack and accessories shall be taken care by Customer.
+
+8. All tubes/piping connections from Analyser Cabinet Headers to plant flare header/drain header shall be taken
+care by others.
+
+9. Supporting structure, Trays, clamps and other accessories for laying of all signal, power, communication
+cables and field tubing’s including EHT bundles shall be taken care by Customer.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Section 2: Price Summary Sheet
+
+S.N.
+Description
+Qty.
+Unit Price
+INR
+Total Price INR
+1
+Gas Chromatograph- AT-2002 (2 streams)
+Included
+Sample Probe
+PSCS
+Transportation Line
+SCS
+Cabinet with Heater
+Cylinder Rack + ACU
+1
+₹ 1,96,16,374.73
+₹ 1,96,16,374.73
+2
+BTU Analyser- AT-10
+Included
+Sample Probe
+PSCS
+Transportation Line
+SCS
+Cabinet with Heater
+1
+₹ 1,80,25,250.42
+₹ 1,80,25,250.42
+3-18
+Moisture Analyser- AT-601A, AT-601B, AT-602A,
+AT-602B, AT-603A, AT-603B, AT-604, AT-607, AT-
+16, AT-1006, AT-1007, AT-1008, AT-2007, AT-
+2006, AT-3001, AT-5002 Included
+Sample Probe
+PSCS
+Transportation Line
+SCS
+Cabinet with Heater
+16
+₹ 1,25,57,661.64
+₹ 20,09,22,586.18
+19-22
+pH Analyser- AT-1001, AT-1002, AT-1003, AT-
+1004
+Included
+Sample Probe
+PSCS
+Transportation Line
+SCS
+Field Rack
+4
+₹ 27,37,227.08
+₹ 1,09,48,908.34
+22
+Startup And Commissioning Spares
+1
+₹ 25,000.00
+₹ 25,000.00
+23
+Two year operational & Maintenance Spares
+1
+₹ 25,00,000.00
+₹ 25,00,000.00
+24
+Project management engineering
+documentation
+1
+Incl
+Incl
+25
+FAT at ADAGE Goa works
+3
+days
+₹ 2,50,000.00
+₹ 2,50,000.00
+
+Total
+INR 25,22,88,119.67
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Section 3: Technical Literature
+
+S.N.
+Item Description
+Qty
+Price
+1
+Gas Chromatograph
+
+Tag No : AT-2002
+Service: Ethylene Recycle & Ethylene Feed (from Atol Unit) to ethylene
+reaction section
+Make: Valmet
+Model: Maxum ll
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside SS316 Field Cabinet
+Streams: 2
+Detectors: TCD & FID.
+Power Supply: 120 VAC, 60 Hz
+Ambient temperature of Analyser: -18°C to +50°C
+
+Measuring Ranges: H2O: 0-1%
+Methane: 0-5%
+Ethane: 0-50%
+Ethylene: 0-100%
+Propylene: 0-1000ppm
+C4 Olefins: 0-25%
+C4 Paraffins: 0-500ppm
+C6 Olefins: 0-1000ppm
+
+Process Conditions of stream 1
+-
+Temperature (Op/Design): 40/90 °C
+-
+Upstream Pressure (Op/Design): 17.5/21.4 kg/cm2g
+
+Process Conditions of stream 2
+-
+Temperature (Op/Design): 21.1/140 °C
+-
+Upstream Pressure (Op/Design): 12.7/29.5 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault & other alarms.
+
+1 No
+Quoted
+1.1
+
+Sample Probe:
+Tag No: AE-2002A & AE-2002B
+-
+Retractable probe
+-
+2" 300# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+2 Nos
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.2
+Sample Transportation Tube:
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+-
+Length: 25 mtrs for each stream
+50 m
+Quoted
+1.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, Heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+
+1 Set
+Quoted
+1.4
+Heated Analyzer cabinet:
+-
+1200mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+1x Cylinder Rack with Auto-changeover regulator with
+pressure transmitter.
+-
+Utility Headers & other accessories
+
+1 lot
+Quoted
+2
+BTU Analyser
+
+Tag No : AT-10
+Service: ETJ Process vent to ETJ Fuel gas drum V-610
+Make: Process Insights (COSA)
+Model: 9800 Calorimeter
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC, 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: Heating Value: 0-3000 BTU/SCF
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 72/90 °C
+-
+Inlet Pressure (Op/Design): 3.8/21.4 kg/cm2g
+
+Area Safety: Built to Ex Ib px IIC T3 Gb Ta
+–Z Purge system
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+–Flame Arrestor
+Analyser Outputs: Hardwired
+Analog Outputs: 2 standard isolated 4-20mA
+with programmable span: Calorific Value.
+Relay Contacts: up to 8 channels (digital) Standard Temperature Sample
+
+2.1
+
+Sample Probe: Tag No: AE-10
+-
+Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+2.2
+Sample Transportation Tube
+-
+1/4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+2.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 No
+Quoted
+2.4
+Heated Analyzer cabinet:
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 Set
+Quoted
+3
+Moisture Analyser
+
+Tag No : AT-601A
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/190 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+3.1
+Sample Probe: Tag No: AE-601A
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+3.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+-
+
+20m
+Quoted
+3.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+3.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+4.
+Moisture Analyser
+
+Tag No : AT-601B
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/190 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+4.1
+Sample Probe: Tag No: AE-601B
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+4.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+4.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+4.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+5
+Moisture Analyser
+
+Tag No : AT-602A
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/190 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+digital outputs
+5.1
+Sample Probe: Tag No: AE-602A
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+5.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+5.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+5.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+1 No.
+Quoted
+6
+Moisture Analyser
+
+Tag No : AT-602B
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/190 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+6.1
+Sample Probe: Tag No: AE-602B
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+6.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+6.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet..
+1 Set
+Quoted
+6.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+7
+Moisture Analyser
+
+Tag No : AT-603A
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Measuring principle: TDLS
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/155 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+7.1
+Sample Probe: Tag No: AE-603A
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+7.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+7.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+7.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+8
+Moisture Analyser
+
+Tag No : AT-603B
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/155 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+digital outputs
+8.1
+Sample Probe: Tag No: AE-603B
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+8.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+8.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+8.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+9
+Moisture Analyser
+
+Tag No : AT-604
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/155 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+digital outputs
+1 No.
+Quoted
+9.1
+Sample Probe: Tag No: AE-604
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+9.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+9.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Pressure indicator, Fast loop filter, Bypass rotameter, Sample
+Rotameter with low flow switch, Valves, filters, etc
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+9.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+Utility Headers & other accessories
+
+10
+Moisture Analyser
+
+Tag No : AT-607
+Service: On Equipment
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/155 °C
+-
+Upstream Pressure (Op/Design): 4.7/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+10.1
+Sample Probe: Tag No: AE-607
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+10.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+10.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+10.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+With Cabinet heater
+-
+
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+11
+Moisture Analyser
+
+Tag No : AT-16
+Service: Cooling Water return line
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 10/HOLD °C
+-
+Upstream Pressure (Op/Design): 7.3/HOLD kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+11.1
+Sample Probe: Tag No: AE-16
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+11.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+11.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter , Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Cabinet.
+11.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+12
+Moisture Analyser
+
+Tag No : AT-1006
+Service: Ethylene Gas to DR-101 A/B
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 40/135 °C
+-
+Upstream Pressure (Op/Design): 31/38 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+12.1
+Sample Probe: Tag No: AE-1006
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+12.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+12.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+1 Set
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+12.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+13
+Moisture Analyser
+
+Tag No : AT-1007
+Service: Ethylene Gas to E-121
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 38.8/140 °C
+-
+Upstream Pressure (Op/Design): 31/39 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+13.2
+Sample Probe: Tag No: AE-1007
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+13.3
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+13.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+14
+Moisture Analyser
+
+Tag No : AT-1008
+Service: Ethylene Stripper Reflux drum D-110 to Ethylene Stripper post
+condenser E-116
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): -20/140 °C
+-
+Upstream Pressure (Op/Design): 28.5/34.6 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+14.1
+Sample Probe: Tag No: AE-1008
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+14.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+14.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+14.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+15
+Moisture Analyser
+
+Tag No : AT-2007
+Service: Recycle column C-201 feed line
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 85/135 °C
+-
+Upstream Pressure (Op/Design): 17.5/42.8 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+15.1
+Sample Probe: Tag No: AE-2007
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+MOC: SS316
+-
+With block & bleed valve
+
+15.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+15.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+15.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+16
+Moisture Analyser
+
+Tag No : AT-2006
+Service: Naphtha From Regeneration to D-215
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 135/155 °C
+-
+Upstream Pressure (Op/Design): 8.4/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+16.1
+Sample Probe: Tag No: AE-2006
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+16.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+16.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+16.4
+Heated Analyzer cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+17
+Moisture Analyser
+
+Tag No : AT-3001
+Service: Polynaphtha Feed surge drum to Polynaphtha Feed pump P-301A
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 57.7/75 °C
+-
+Upstream Pressure (Op/Design): 34/64 kg/cm2g
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+17.1
+Sample Probe: Tag No: AE-3001
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+17.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+20m
+Quoted
+17.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+17.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+18
+Moisture Analyser
+
+Tag No : AT-5002
+Service: Dryers Regenerant Stripper to P-504 A/B
+Make: Air Optic
+Model: GasEye
+Measuring principle: TDLS
+Area Classification: Class 1, Div 2, Gas Group B,C,D, T3
+Mounting Location: Inside Cabinet
+Stream: 1
+Power Supply: 120 VAC 60 Hz
+Ambient temperature of Analyser: -20°C to +55°C
+
+Measuring Range: 0 – 1000 ppm
+
+Process Conditions at sample Inlet
+-
+Temperature (Op/Design): 135/155 °C
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+Upstream Pressure (Op/Design): 8.4/23.4 kg/cm2g
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+digital outputs
+18.1
+Sample Probe: Tag No: AE-1006
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+18.2
+Sample Transportation Tube
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+18.3
+Primary Sample handling system:
+-
+Ball Valve, Coarse filter, heated pressure regulator, SRV
+-
+Shall be mounted inside heated PSHS Box, MOC: SS316
+
+Secondary Sample Handling system consists of
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, Air operated valve, NRV,
+SRV, fine filter, etc
+-
+Shall be mounted inside heated SS316 enclosure outside Analyser
+Cabinet.
+1 Set
+Quoted
+18.4
+Heated Analyser cabinet
+-
+1000mm x 800mm x 2100mm (Approx dimension),
+-
+MOC: SS316 2mm thick
+-
+With Cabinet heater
+-
+1 x ASJB, 1x DSJB, 1x CSJB
+-
+2 x PDB (UPS & Non-UPS)
+-
+Utility Headers & other accessories
+
+1 No
+Quoted
+19
+pH Analyser
+
+Tag no: AT-1001
+Service: Diluted Water from P-105 A/B
+Make: Emerson
+Model: 3900 & 1066 series
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting location: Inside heated enclosure on field rack
+Power Supply: 24V DC, Loop Powered
+
+Process conditions:
+-
+Temperature (Op/Design): 142.7/190 Deg Celsius
+-
+Upstream Pressure (Op/Design): 17/35.6 Kg/cm2
+
+Measuring Range:
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+pH: 0-14 pH
+
+Analyzer Outputs:
+-
+4-20mA Analog HART output
+
+Utility required:
+-
+Auxiliary power 24 V DC nominal.
+-
+Cooling water
+
+Note: Cooling water is required only during summer season.
+19.1
+Sample probe: Tag No: AE-1001
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+19.2
+Sample Transportation tube:
+-
+1⁄4’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+
+20m
+Quoted
+19.3
+Sample Handling system as below:
+-
+With Flow Through Chamber, Isolation Valves
+-
+With Indicator/Transmitter
+-
+With Metal Tube Rotameter with low flow switch, Pressure Regulator,
+TSV, Heat exchanger.
+-
+With All Necessary Components Inclusive of Tube Fittings, Tube
+Connectors, Etc.
+-
+SHS components Shall be mounted on SS plate
+
+1 Set
+Quoted
+19.4
+Field Rack
+-
+MOC: SS316
+-
+With utility headers
+-
+With Signal JBs
+
+20
+pH Analyser
+
+Tag no: AT-1002
+Service: Diluted Water & Caustic Soda from P-105 A/B
+Make: Emerson
+Model: 3900 & 1066 series
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting location: Inside heated enclosure on field rack
+Power Supply: 24V DC, Loop Powered
+
+Process conditions:
+-
+Temperature (Op/Design): 151/180 Deg Celsius
+-
+Upstream Pressure (Op/Design): 17/35.6 Kg/cm2
+
+Measuring Range:
+-
+pH: 0-14 pH
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Analyzer Outputs:
+-
+4-20mA Analog HART output
+
+Utility required:
+-
+Auxiliary power 24 V DC nominal.
+-
+Cooling water
+
+Note: Cooling water is required only during summer season.
+20.1
+Sample probe: Tag No: AE-1002
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+20.2
+Sample Transportation tube:
+-
+1/2’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+20 m
+Quoted
+20.3
+Sample Handling system as below:
+-
+With Flow Through Chamber, Isolation Valves
+-
+With Indicator/Transmitter
+-
+With Metal Tube Rotameter with low flow switch, Pressure Regulator,
+TSV, Heat exchanger.
+-
+With All Necessary Components Inclusive of Tube Fittings, Tube
+Connectors, Etc.
+-
+SHS components Shall be mounted on SS plate
+
+1 Set
+Quoted
+20.4
+Field Rack
+-
+MOC: SS316
+-
+With utility headers
+-
+With Signal JBs
+1 No.
+Quoted
+21
+pH Analyser
+
+Tag no: AT-1003
+Service: Quench Tower C-102 to D-105
+Make: Emerson
+Model: 3900 & 1066 series
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting location: Inside heated enclosure on field rack
+Power Supply: 24V DC, Loop Powered
+
+Process conditions:
+-
+Temperature (Op/Design): 128.5/175 Deg Celsius
+-
+Upstream Pressure (Op/Design): 3.5/11.21 Kg/cm2
+
+Measuring Range:
+-
+pH: 0-14 pH
+
+Analyzer Outputs:
+-
+4-20mA Analog HART output
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Utility required:
+-
+Auxiliary power 24 V DC nominal.
+-
+Cooling water
+
+Note: Cooling water is required only during summer season.
+21.1
+Sample probe: Tag No: AE-1003
+-
+Single Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+21.2
+Sample Transportation tube:
+-
+1/2’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+20m
+Quoted
+21.3
+Sample Handling system as below:
+-
+With Flow Through Chamber, Isolation Valves
+-
+With Indicator/Transmitter
+-
+With Metal Tube Rotameter with low flow switch, Pressure Regulator,
+TSV, Heat exchanger.
+-
+With All Necessary Components Inclusive of Tube Fittings, Tube
+Connectors, Etc.
+-
+SHS components Shall be mounted on SS plate
+
+1 Set
+Quoted
+21.4
+Field Rack
+-
+MOC: SS316
+-
+With utility headers
+-
+With Signal JBs
+1 No.
+Quoted
+22
+pH Analyser
+
+Tag no: AT-1004
+Service: Purge Water Stripper Bottom Pump P-107A/B to Waste Water
+Make: Emerson
+Model: 3900 & 1066 series
+Area Classification: Class 1, Divi 2, Gas Group B,C,D, T3
+Mounting location: Inside heated enclosure on field rack
+Power Supply: 24V DC, Loop Powered
+
+Process conditions:
+-
+Temperature (Op/Design): 40/150 Deg Celsius
+-
+Upstream Pressure (Op/Design): 2.4/15.29 Kg/cm2
+
+Measuring Range:
+-
+pH: 0-14 pH
+
+Analyzer Outputs:
+-
+4-20mA Analog HART output
+
+Utility required:
+-
+Auxiliary power 24 V DC nominal.
+
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+22.1
+Sample probe: Tag No: AE-1004
+-
+Retractable probe
+-
+2" 150# RF Flanged
+-
+MOC: SS316
+-
+With block & bleed valve
+
+1 No
+Quoted
+22.2
+Sample Transportation tube:
+-
+1/2’’ OD SS316 Electrically heat traced tube
+-
+With necessary accessories.
+20m
+Quoted
+22.3
+Sample Handling system as below:
+-
+With Flow Through Chamber, Isolation Valves
+-
+With Indicator/Transmitter
+-
+With Metal Tube Rotameter with low flow switch, Pressure Regulator,
+TSV.
+-
+With All Necessary Components Inclusive of Tube Fittings, Tube
+Connectors, Etc.
+-
+SHS components Shall be mounted on SS plate
+
+1 Set
+Quoted
+22.4
+Field Rack
+-
+MOC: SS316
+-
+With utility headers
+-
+With Signal JBs
+1 No.
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Section 4: Exclusions
+
+Our Scope of Supply Does Not Include:
+
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Erection and Installation of analyzer Shelter/Cabinet/Rack and hookup of required utilities, pre-fabricated
+electrical traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer shelter & sample
+return, fast loop, vent lines etc.
+•
+Provision of nozzles near tapping point/Stack.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals related to filed/DCS connection.
+•
+Supply of field Cables and cable trays with support for Power supply / analog and Digital signal / serial
+communication cables/field tubes etc.
+•
+Providing all utilities as specified in MR at one point/battery
+limit near each Analyzer Shelter/Cabinet/Rack in field.
+•
+Calibration and carrier gas Cylinders with accessories like bull nose, Regulators etc. shall be taken care by
+customer.
+•
+Buffer Solution for calibration of pH Analyser.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Section 5 : Commercial Terms
+
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 06 months from the date DWG Approval.
+Offer validity
+30 days.
+Payment Terms
+20% Advance with the Purchase Order, 20 % against drawing
+approval, Balance 60 % against Proforma Invoice on readiness of
+material prior to dispatch.
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of
+Commissioning or 18 months from the date of dispatch whichever is
+earlier.

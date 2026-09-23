@@ -1,0 +1,23 @@
+Quotation Number: Q2509G013
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR THC MEASURMENT
+Make: Siemens
+Model: Calomat 62F
+Mounting Location: Inside air conditioned control room
+Component to be measured: H2
+Measuring Range:
+• H2: 0-15%
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• RS 485
+Notes:

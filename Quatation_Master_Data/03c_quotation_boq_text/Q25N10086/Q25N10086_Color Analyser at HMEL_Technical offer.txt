@@ -1,0 +1,169 @@
+Quotation Number: Q25N10086
+BOQ Status: FOUND
+
+A unique measuring instrument, the analyser is extremely versatile and can be
+readily re-programmed in the field. It provides accurate measurements on the many
+petroleum products that have colour as part of their specification, and can be used
+to duplicate a range of standard visual colour comparison tests dealing with light
+and dark samples. Delivering exceptional results, the analyser enables you to
+measure contamination, purity, or clarity of a liquid. It is also very good at detecting
+dye colour and product contamination in pipeline applications.
+How does it work?
+The analyser uses visible light produced by a 12V tungsten halogen lamp running
+under reduced voltage to increase its lifetime. Light passes out of the analyser
+enclosure through an optical window and is guided along a fibre-optic cable to an
+external measuring cell. The light enters the cell through another window fitted with
+a focusing lens. It then passes through the test sample and out via a further window
+and fibre-optic cable. It travels back into the enclosure to the dispersive
+spectrometer module, where the optical transmission or absorbance measurements
+are carried out. These measurements are fed into a control computer which
+calculates the final results according to the method(s) selected.
+Why choose the Icon Scientific
+Colour/Opacity Analyser?
+Full-spectrum analysis: with measurements over the full visible-light spectrum
+allows for precise colour detection and complex multi-product interfacing even
+when the peak absorption wavelength varies (ASTM colour, Red/Green dyes, etc).
+Excellent stability: to compensate for drift and dirt build-up on the cell windows, all
+measurements are carried out using one or more reference wavelengths.
+Dual method analysis: the analyser can perform up to two simultaneous
+measurements as standard. These could include any combination of colour,
+opacity, concentration, or product interfacing measurements.
+Versatile measurements: with a range of inbuilt detection and calculation
+algorithms to choose from to ensure the best match to any required application.
+Remote cell mounting: extended fibre optic cables allow the separation of
+measuring cell and controller if required.
+Standard SMA connectors: a range of third-party transmittance and reflectance-
+measuring cells can be used in addition to the standard Icon transmittance cells.
+Icon Scientific Colour Opacity Analyser Brochure - V06 (Jul-2021)
+Sample Requirements
+Inlet Temperature
+Maximum 200°C (390°F)
+Inlet Pressure
+Maximum 100 bar (1450 psi)
+Outlet Pressure
+Can be returned to pressure, provided
+minimum flow requirement is achieved.
+Sample Flow
+(continuous)
+Minimum 6 L/H
+Maximum 30 L/H
+Filtration
+Filtration generally not required.
+Water Content
+Sample should be ‘clear and bright’ at
+room temperature, bubble free, and
+contain no free water.
+Utility Requirements
+Instrument Air
+Not Required.
+Coolant
+Not Required.
+Power
+115-230VAC 50-60Hz, Max 75VA
+Installation Requirements
+Location
+Unit must be located out of direct wind
+sun and rain.
+Ambient Temperature
++5 to +45 °C
+Ambient Humidity
+0-95% RH, non-condensing.
+Remote Flowcell
+Analyser can be optionally supplied
+with loose flowcell and extended fibre
+optic cables for remote installation in
+3rd party sampling system.
+Control System
+Control System
+Based on fan-less industrial PC with
+solid state hard drive.
+Graphical User Interface (GUI)
+10.5” armoured glass touch-screen.
+The GUI is used to program the unit
+and display current and historical
+analyser results and alarm status.
+Language
+User-selectable multilingual display.
+Certification
+Hazardous Area Certification
+Exd certified to ATEX, IECEx, UKEx,
+and EACEx standards, suitable for
+zone 1 or zone 2 use with gas group
+and T-rating of IIB+H2 T6.
+It is also ETL listed for the USA and
+Canada Class 1, Div 1, groups B,C,D.
+IP Ratings
+Tested and certified to IP66/IP67 (dust
+tight and protected from temporary
+total immersion in water).
+Specification
+Applications & Measuring Ranges
+(output freely adjustable within range)
+ASTM D1500 (0 to 8 ASTM)
+ASTM D156 (+30 to -16 Saybolt)
+ASTM D1209 (Hazen / PtCo)
+Colour concentrations
+Dosing applications
+Multi-product identification
+Other – contact Icon for details
+Measuring Cell Pathlength
+Standard flowcell pathlengths are:
+10mm (ASTM D1500)
+100mm (Saybolt D156)
+Other – contact Icon for details
+(e.g.: 1mm, 60mm, etc)
+Repeatability
+ASTM Colour ≤0.2, (typically <0.03)
+Saybolt Colour ≤1.0, (typically <0.15)
+Other – contact Icon for details
+Cycle Time
+Continuous output.
+Multiple Methods
+Up to 2 simultaneous measurement
+methods based on: linear interpolation
+of calibration curves, multi-wavelength
+regression calculations based on
+absorbance or transmittance at single
+or multiple wavelengths, peak area
+integration, opacity or transmission
+measurements, etc.
+Light Source
+10W tungsten halogen lamp
+(lifetime > 7000 hr)
+Spectrometer
+Full range: 360-1100 nm
+Inputs/Outputs
+Analog Outputs
+1 x 4-20mA isolated output (active or
+passive) is provided as standard.
+Second output available as option.
+Alarms
+The analyser provides changeover
+alarm contacts for the following
+conditions:
+•
+Result 1 high / low level alarm
+•
+Result 2 high / low level alarm
+•
+Spectrometer fault alarm
+•
+Bulb fail / low light
+transmission alarm
+•
+Analyser online / offline
+(run / standby mode)
+All contact ratings are
+24VDC 0.5A, 230VAC 1A
+Communications
+Modbus RTU or OPC over RS485 or
+Ethernet (TCP/IP), with optional fiber
+optics. Optional OPC server software.
+Icon Scientific Colour Opacity Analyser Brochure - V06 (Jul-2021)
+Note: Icon Scientific products are subject to a program of continuous development and improvement and specifications are liable to change without notice.
+Please check that you have the latest information available before relying on any specification.
+Dimensions & Weights
+Notes:
+All dimensions in mm
+Unpacked weight approx. 103kg
+Packed weight approx. 165kg

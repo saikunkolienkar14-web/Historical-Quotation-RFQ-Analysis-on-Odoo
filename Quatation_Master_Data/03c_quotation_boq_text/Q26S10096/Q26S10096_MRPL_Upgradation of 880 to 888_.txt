@@ -1,0 +1,79 @@
+Quotation Number: Q26S10096
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+3 Nos
+Upgradation of Ametek 880 to 888
+2,55,00,000/-
+7,65,00,000
+2
+3 Lot
+Supervision of installation & commissioning
+as per mentioned scope.
+2,00,000/-
+6,00,000/-
+SECTION 2: TECHNICAL LITERATURE
+Why Upgrade to AMETEK 888 from 880?
+Ametek 880
+Ametek 888
+1. Increased Reliability – Improved thermal management extends electronics life and reduces
+unexpected failures.
+2. Predictive Diagnostics – Smart monitoring detects early warning signs, minimizing unplanned
+downtime.
+3. Better Process Protection – Automatic flow control and flange temperature alarms help prevent
+analyzer damage.
+4. Higher Ambient Capability – Operates in hotter environments without requiring additional cooling
+systems.
+5. Modern Connectivity – Ethernet, Modbus, and web-based interface allow remote monitoring and
+easier integration with DCS systems.
+6. Direct Replacement Design – Engineered for easier upgrade from existing 880-NSL installations
+with minimal modification.
+The Upgradation involves the following activities
+1
+Upgraded 888 Filter Photometer Assembly
+Upgraded Detector PCB (4-channel integration)
+Upgraded Sensor PCB with redundancy
+Upgraded Solenoid Manifold with Proportional Valve
+Optical Components Upgrade Kit
+Enhanced Demister Assembly (888 Type)
+Upgrade with Smart Diagnostics & Pressure Control Module
+Upgrade with Advance Communication Module (USB/Ethernet/Modbus)
+Upgrade includes AMEVision Color Display Interface
+Heater & Thermal Management Upgrade Kit
+Firmware & Software Upgrade
+2
+Supervision of Installation and Commissioning Activities
+MRPL scope:
+a) Analyser shifting from warehouse to site location.
+b) All types of assistance manpower requirements for
+installation/commissioning of supplied analyser system,
+c) Arrangement of crane/Hydra/Forklift for installation/Remove
+of analyser system.
+d) Removing of any abstracting items near the analyser
+mounting location.
+e) Utilities - Plant N2, Instrument air, LP steam near to the
+analyser
+Lump Sum
+Adage Scope: Installation of supervision and commissioning of the
+system.
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from date of PO
+Offer validity
+30 days.

@@ -1,0 +1,2699 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+TATA STEEL LIMITED
+JAMSHEDPUR, INDIA
+
+SUBJECT
+
+: QUOTATION FOR GAS ANALYSER MODULES/
+COMPLETE SYSTEM.
+
+REFERENCE/RFQ
+: 1600294815
+
+KIND ATTENTION
+: PURCHASE DEPARTMENT
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If
+you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2603E076
+Dated: 20.03.2026
+
+Contact persons :
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Anupam Chatterjee
+Email: anupam@adage-automation.com
+Mob: +91 8981411483
+(Adage-Region)
+
+Mr. Zafar Ali
+Email: zafar@adage-automation.com
+Mob: +91 7856077462
+(Adage-Goa-HO)
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 1: SUMMARY OF PRICES-SUPPLY
+
+Sr. No.
+Umc
+Description
+Qty
+Unit price
+[inr]
+Total price
+[inr]
+1
+5679A0010
+Brief desc: gas anlysr;oxygen analyser0-
+25%paneldetailed desc: item text: global arc of gas
+analyzer spares _tsj,tsk,tsm,tsggeneral instruction to
+vendor: last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;oxygen
+analyser,0-25%,paneltype : oxygen analyserinstallation :
+panelrange : 0-25 %working principle :
+paramagneticapplicable gases : o2accuracy : +/-0.5
+%power supply : 200-240 vacoutput : 4 to 20 madisplay :
+lcdsampling system accessories : not requiredgas
+preparation and cndng sys : not requiredgas analyzer
+panel with : nocalibration mode : manualrepeatability :
+linearity : zero drift : span drift : certification : atex, emc,
+lvdspecial features : paramagnetic-non - dumbell-
+o2additional umc detail::oxygen analyserparamagnetic (
+non - dumbell) - o2,measuring ranges (number,
+swithchable internally and externally; autoranging
+possiblity): 2 nos swithchable internally, andexternally,
+autoranging possiblecalibrated ranges: 0 - 25 %minimum
+detection limit: 1% of current measuring
+rangeintermediate ranges: can be configuredposition of
+use (mounting position-vertical or horizontal): horizontal
+19" rack mountedpower consumption: 37 vadegree of
+protection: ip 20 to en 60529warm-up period of analyser
+(with ambient temperature): with ambien tempmaximum
+accuracy achieved after warm up time: maximum
+accuracy is achived after approx. 2 hoursresponse
+time(t90): 3.5 sdamping (electric time constant): 0....100
+s programmablerelay outputs: 6 nos.part no:
+28061003make: siemens
+1 No.
+5,24,846.00
+5,24,846.00
+2
+5679A0018
+Brief desc: gas anlysr;co analyser0-100%detailed desc:
+general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;co
+analyser,0-100%type : co analyserinstallation : analyser
+roomrange : 0-100 %working principle : infraredapplicable
+gases : co/co2accuracy : +/-0.5 %power supply : 220
+vacoutput : 4-20 madisplay : 6" full color lcdsampling
+system accessories : not requiredgas preparation and
+cndng sys : not requiredgas analyzer panel with :
+nocalibration mode : applicablerepeatability : linearity : +/-
+0.01 %zero drift : span drift : certification : atex, emc,
+lvdspecial features : panel mountingadditional umc
+detail::
+1 No.
+9,20,000.00
+9,20,000.00
+3
+5679A0013
+Brief desc: gas anlysr;on linedetailed desc: general
+instruction to vendor: last ref. Enquiry:1600294815 and
+qtn no :/dated :2025/08/14purchase order text: gas
+anlysr;on linetype : on lineinstallation : analyser
+1 No.
+9,48,750.00
+9,48,750.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+roomrange : 0-10000 ppm & 0 - 25%working principle :
+ndir & paramagneticapplicable gases : co & o2accuracy :
++/-0.5 %power supply : 220 vacoutput : 4 to 20 madisplay
+: backlit liquid crystal displaysampling system
+accessories : probe,hosegas preparation and cndng sys :
+integral water catchpot and figas analyzer panel with :
+nocalibration mode : automatic and manualrepeatability :
++/-0.5 %linearity : +/-0.5 %zero drift : +/-1 %span drift :
++/-1 %certification : nema4xspecial features : no special
+featurescustom clarification::item description : ultramat
+23 for co and oxygen analysisfunction of the item : sample
+gas analysismoc : gas analyzermain equipmenmain
+equipment function and location : waste gas analyzer.
+Stove gbf.additional umc detail::ultramat 23 for co and
+oxygen analysiswith co detection in ndir principle ,range:
+0-10000 ppmwith o2 detection in paramagnetic principle
+,range: 0-25%
+4
+5679A0009
+Brief desc: gas anlysr;on line0-25%hazardous
+areadetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;on line,0-
+25%,hazardous areatype : on lineinstallation : hazardous
+arearange : 0-25%working principle : zirconium
+basedapplicable gases : flue gasaccuracy : +/-1 %power
+supply : 230 vacoutput : 4-20 madisplay : anysampling
+system accessories : probe,hosegas preparation and
+cndng sys : no gasgas analyzer panel with : nocalibration
+mode : automatic and manualrepeatability : linearity : +/-1
+%zero drift : +/-1 %span drift : +/-1 %certification : nema
+x4certification : nema4xspecial features : no special
+featurescustom clarification::item description : waste gas
+oxygen analyserfunction of the item : oxygen analysermoc
+: metal & electronicsmain equipmenmain equipment
+function and location : coke makingadditional umc
+detail::waste gas oxygen analyser. Explo-proof - hart
+protocol(complete set consisting of transmitter &
+probe)technical details.process conditions detail:service:
+measurement of % of oxygen in flue gasflue gas pressure
+:- (-) 150pa to (-) 400paflue gas temperature :- 250 ¿ 350
+deg coxygen concentration of the gas:-2 to 7 % of
+o2sensor probe detail:type:- in situ type zirconium oxide
+based sensorsensor operating temperature :- upto 700
+deg cprobe material:- ss 316probe length: 6 feet
+(1828.8mm)process connection:- flangedsize:- 3¿ sorf,
+ansi 150#flange material:- ss flangeelectrical
+connection:- ¿¿ nptcalibration gas connection:- 1⁄4¿
+nptenclosure:- ip66 with atex eexd iibtransmitter
+detail:type:- remote transmitterrange:- 0-25% of
+o2accuracy:- +/- 0.75% reading or 0.05% o2 whichever is
+greaterresponse time:- initial responsedisplay:-
+providedbody material :-low copper
+aluminiumenclosure:- ip66 with atex eexd iibelectrical
+connection:- ¿¿ npt (f)power supply:- 230v ac 50
+hzoutput:- 4-20ma with hartmounting:- remote mounted
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+suitable for wall/pipe mountingrepeatability:- 1% of
+fslinearity:- 1% of fsdrift:- 0.1% per monthcable between
+sensor and transmitter:- provided, minimum 10
+mtrs.accessories:-calibration gas cylinder:-a) zero gas :
+10 ltrs, cs cylinder with 0.4% o2 in balance n2b) span gas :
+10 ltrs, cs cylinder with 8% o2 in balance n2c) ss flow
+regulator for cylindermounting brackets:- provided for 2¿
+pipe mounting/wall mountingauto calibration unit:-
+provided with following accessories:-a) filter regulatorb)
+flow indicatorc) 2 way solenoid valved) 1⁄4¿ od ss tube,
+20mtrsothers:calibration test certificate:- shall be
+providedidentification plate / materials:- shall be provided
+5
+5679A0011
+Brief desc: gas anlysr;co analyser0-5%paneldetailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;co
+analyser,0-5%,paneltype : co analyserinstallation :
+panelrange : 0-5%working principle : infraredapplicable
+gases : coapplicable gases : co2accuracy : +/-0.5 %power
+supply : 230 vacoutput : 4 to 20 madisplay : lcdsampling
+system accessories : not requiredgas preparation and
+cndng sys : not requiredgas analyzer panel with :
+nocalibration mode : automatic and manualrepeatability :
+linearity : zero drift : span drift : with auto cal negli + 2%
+/yrcertification : atex, emc, lvdspecial features : no special
+featuresadditional umc detail::co gas analyser 0-
+5%measuring component: co.range: 0-5% vol.output: 4-
+20 ma isolated 750 ohms resistiveindicator: digital (clear
+text status & error message).power supply: 230 vac
++10%, 50 hz + 3 hz.enclosure: general purpose (ip
+20).duty: continuous.zero drift:repeatability: 1% of
+smallest measuring range.linearity error:maximum
+accuracy achieved after warm up time: after approx. 2
+hoursmodel: ultramat 23make: siemenspart no:
+29601195
+1 No.
+6,38,250.00
+6,38,250.00
+6
+5679A0050
+Brief desc: gas anlysr;portable gas analyser co=0-
+7detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;portable gas analyser ,co=0-7no details are
+availablelong text:type:portable gas
+analyserinstallation:portable for labrange:co=0-
+70%range:co2=0-30%range:ch4=0-100%range:h2=0-
+60%range:o2=0-30%range:co cv = 0-6000
+kcal/nm3range:bf cv = 0-1100 kcal/nm3working
+principle:nidrworking principle:electro-chemical
+cellapplicable gases:coapplicable gases:bf gasapplicable
+gases:ld gasapplicable gases:oxygenaccuracy:+/-
+2%power supply:230v ac 50hzoutput:usb and
+ethernetdisplay:tft touch, all comp. On screensampling
+system accessories:filter assembly (ss)sampling system
+accessories:sample handling systemgas preparation and
+cndng sys:available, moisture condensatigas analyzer
+panel with:yes with ip65 protectioncalibration
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+mode:manual calrepeatability:equal & better than
+accuracy.linearity:1% fszero drift:+/-2 %span drift:+/-1 %
+fscertification:requiredspecial features:inbuilt
+batteryspecial features:inbuilt suitable flow meterspecial
+features:inbuilt suitable sample pumpspecial
+features:separate screens for all gasspecial features:usb
+port for data trsferspecial features:panel mountingno
+details are availableadditional umc text:portable gas
+analyser with component wise cv & total cv, specially
+designed for blast furnace, cokeoven and ld gas
+application along with suitable sample conditioning
+unit.parameters to be measured:gas range sensor
+resolutionco 0-60% dual beam ndir detectors, german
+0.01%co2 0-30% dual beam ndir detectors, german
+0.01%ch4 0-100% dual beam ndir detectors, german
+0.01%h2 0-60% thermal conductivity detector
+(tcd),german 0.01%o2 0-30% industrial electrochemical
+cell (ecd),german 0.01%cv blast furnace 0-1100
+kcal/nm3 instantaneous calorific valuecv coke oven 0-
+6000 kcal/nm3 instantaneous calorific valuecv ld gas 0-
+2000 kcal/nm3 instantaneous calorific valueno details are
+availablesample handling and conditioning unit: consisting
+of bowl glass wool filter, flow meter, pressure regulator,
+fine filter, particulate filter, moisture filter prior to gas
+analysis.accuracy: +/-2%gas flowrate at analyzer inlet : 1
+to 1.5 scfhinbuilt suitable sample pump & flow
+meteroperating gas temperature: 50 to 60 deg cresponse
+time 40 secondsoperating voltage: 220 vac and inbuilt
+battery with battery status indication.battery with 2 hours
+continuous operationfeatured battery drain
+protectioninbuilt data logging in analyzerdata transfer to
+pc feature using pen drive and inbuilt usb port.co, co2,
+ch4, h2, o2, cv data can be transferred to pc and opened
+in excel format with date and time.onscreen display of
+individual cv and total cv.separate screens for blast
+furnace gas and coke oven gas measurementcolor touch
+tft screen for monitoring all components in one screen &
+control.on screen display of last calibration date.easy
+smart span calibration feature using one touch
+screen.password protection feature in calibration
+settings-very importantonscreen trending of individual gas
+components.no details are available1. Special screen for
+bf with features addition.2.special screen for co with
+features addition.3. Special screen for ld with features
+addition.no details are available
+7
+5679A0132
+Brief desc: gas anlysr;cv analyser cv range-2000-
+45detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;cv
+analyser ,cv range-2000-45no details are availablelong
+text:type:cv analyserinstallation:self standing mounting
+framerange:cv range-2000-4500 kcal/nm3 cvworking
+principle:online direct calorimetricapplicable gases:mixed
+gas (co + bf/ld)accuracy:+/- 2% full scalepower
+1 Lot.
+62,00,000.00
+62,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+supply:230 ± 10 % vacoutput:4-20 ma & digital
+outputdisplay:lcdsampling system accessories:sample
+handling systemgas preparation and cndng sys:yesgas
+analyzer panel with:sample handling system
+setcalibration mode:auto and manual
+calibrationrepeatability:± 0.5 % of full scale
+%linearity:zero drift:within accuracy & adjustment pspan
+drift:within accuracy & adjustment
+pcertification:euspecial features:ip50 &with calibration
+gas cylno details are availableadditional umc text:wobbe
+index/cv analyser specifications:calorimeter - for
+measurement of calorific value, wobbe-index, specific
+densityoutput:1)digital outputs2)individual 4-20 ma
+analog output for calorific value, wobbe index and specific
+gravity respno details are availablecalibration gas cylinder
+with pressure regulatorgas composition: cal gasno details
+are availablesensor: 1no., controller: 1 no.;service / fluid-
+mixed gas (co gas+bf gas/ld gas)mounting
+locationindoor.mounting arrangement: shall be mounted
+on rack inside existing analyser roommountingself
+standing mounting frame coloured in ral-7035;mounting
+frame dimension1000 x 1800 x 700 (w x h x d) in mm,
+approx;power supply230v ac (±10%), 50/60 hz;weight54
+kgs approxmeasurement principleonline direct
+calorimetric combustion;measuring range- cv-2000 –
+4500 kcal/nm3;calorific value of mixed gases(consituents
+gases- co gas- 4000+/-200 kcal/nm3 ; bf gas- 850-950
+kcal/nm3 ;ld gas- 1700-1800 kcal/nm3)range -wobbe-
+index2000 - 5000 kcal/nm3;range- specific gravity0.2 - 2.2
+relative to air;specific gravity of mixed gas-(constituents
+gases-co gas-0.43 ; bf gas-1.02 ;ld gas-1.03)dead time3
+seconds;response / t90 display time= 20
+seconds;connection combustion - 6mm tube, internal
+connection;accuracy of wobbe-index- ±1.5 mbe (mean
+between error);accuracy±2.0% of ful
+scale;repeatability±0.5% of ful scale;auto calibration
+facilityavailable;gas pre-pressure25 mbar - 40 mbar.inlet
+pressure30-50 mbar;temperature conditions5 - 40°c (±
+5°c/h);interface4 – 20ma , digital relays (3 nos.);protection
+classip 50;process conditions:gas temperature: approx
+30-55 deg cgas pressure: 1000-1650 mmwcno details are
+availableprimary sample handling system:pre-sample
+conditioning & purification system for single tapping
+system for handling impurities such as tar, naphthalene
+etc.secondary sample handling system: sample gas
+cooler, sample gas pump, sample isolation valve, ball
+valves.coalescing filter, pressure regulators.no details are
+availablevendor scope of supply and work includes:-
+design, engineering and supply of complete data
+connectivity-supervision of installation and
+commissioning of the complete system-project
+management and project documentationno details are
+availableno details are availableno details are availableno
+details are availableno details are availablecustom
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+clarification:item description :calorimetric based calorific
+value analyser-mixedgas (co gas +bf gas/ld gas) with
+sample handling systemfunction of the item
+:measurement of wobbe index and calorific value of
+mixed gas(co+bf/ld)material of construction of the item
+:electrical &amp;amp; electronicsname of the main
+equipment where the item is used :calorific value/wobbe
+index analysers at hsm gas mixing station.function of the
+main equipment & location of the main equipment :hsm
+gas mixing station (fmd)no details are available
+8
+5679A0051
+Brief desc: gas anlysr;flue gas analyser co (0-10detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;flue gas analyser ,co (0-10,no details are
+availablelong text:type:flue gas
+analyserinstallation:portable typerange:co (0-10,000
+ppm)extendable upworking principle:electro-chemical
+cellapplicable gases:co & o2applicable
+gases:co2applicable gases:co2, no, so2accuracy:oxygen :
+±0.2 vol. %power supply:230v ac 50hzoutput:usb; with in-
+built memorydisplay:graphic display 160 x 240
+pixesampling system accessories:available with 3
+minimum filtegas preparation and cndng sys:available,
+moisture condensatigas analyzer panel with:instruments
+comes with suitablcalibration mode:auto and manual
+calibrationrepeatability:equal & better than
+accuracy.linearity:n/azero drift:within accuracy &
+adjustment pspan drift:within accuracy & adjustment
+pcertification:tuv-tested /en norm/cespecial
+features:make testono details are availableadditional umc
+text:flue gas analyzer, incl. Rechargeable battery,
+calibration protocol and carrying strap, equipped with o2
+sensor, integrated flow/differential pressure
+measurement; measuring range extension for unrestricted
+measurement at high gas concentrations ; flue gas
+analysis with up to 4 gas sensors – freely configurable ;
+large selection of probes user-defined fuels 10 user-
+defined fuels incl. Test gas as fuel; regulated diaphragm
+pump: pump flow 0.6 l/min (regulated); max. Pos.
+Press./flue gas +50 mbar; max. Neg. Press. /flue gas -200
+mbar; weight 960 g;no details are availableno details are
+availablespecial featuresno details are availableflue gas
+analyser consisting of :-1.co (0-10,000 ppm) h2
+compensated measurement module.2.dilution unit for co
+range extension up to 50,000 ppm.3.o2 (25 % v/v)
+measurement module.4.co2 measurement
+(calculated).5.pressure velocity measurement
+module.6.modular flue gas probe with pre-filter ø 14 mm
+1000 mm immersion depth, incl. Cone, thermocouple
+nicr-ni (ti) tmax 1000°c.7.100 - 240 vac mains unit for
+battery recharging in analyser.8.carrying case for analyser,
+printer & accessories.9.probe filters (10off) 33x range.10.
+Part no. 0632 3340
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+9
+5679A0062
+Brief desc: gas anlysr;sf6 gas analyzer sf6:0-
+100%detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;sf6
+gas analyzer ,sf6:0-100%,no details are availablelong
+text:type:sf6 gas analyzerinstallation:portable
+typerange:sf6:0-100%,so2:0-500ppmrange:h20:10 -
+24,000ppmv,hf:0-30ppmworking principle:gas
+sensorsapplicable gases:sf6 %applicable gases:so2
+ppmapplicable gases:hf ppmaccuracy:+/-2%power
+supply:chargeable battery operatedoutput:in built
+memory,usb, displaydisplay:7” full-colour lcd
+touchscreensampling system accessories:calibration kit
+and servicesampling system accessories:gas recovery
+bagsampling system accessories:dn8 & dn20 fittings and
+braidegas preparation and cndng sys:gas recovery baggas
+analyzer panel with:dn8 & dn20 fittings and
+braidecalibration mode:online
+calibrationrepeatability:nalinearity:n/azero drift:no zero
+driftspan drift:no span driftcertification:iec,cigrespecial
+features:inbuilt batteryspecial features:usb port for data
+trsferno details are availablecustom clarification:item
+description :sf6 gas analyserfunction of the item :analyse
+the gas sample taken from gisname of the main
+equipment where the item is used :gas insulated
+switchgearfunction of the main equipment & location of
+the main equipment :power distribution &amp;amp;
+switchingno details are available
+1 No.
+Regret
+Regret
+10
+5679A0068
+Brief desc: gas anlysr;dust analyser 0.07 tp 6500
+mdetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;dust analyser ,0.07 tp 6500 mno details are
+availablelong text:type:dust analyserinstallation:in line
+duct ( insitu)range:0.07 tp 6500 mgqworking
+principle:tribo electricapplicable gases:dust conc.
+Measurementaccuracy:+/-2%power supply:85-265
+vacoutput:4-20 opto isolated madisplay:backlit liquid
+crystal displaysampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:auto
+calib. Verification checkrepeatability:+/-2 %linearity:+/-
+2% of fszero drift:+/-2 %span drift:+/-2 %certification:not
+requiredspecial features:no special features dust analyser
+,0.07 tp 6500 mg/m3 principle:tribo electric
+1 No.
+Regret
+Regret
+11
+5679A0071
+Brief desc: gas anlysr;co analyser 0-100 %extractidetailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;co
+analyser ,0-100 %,extractino details are availablelong
+text:type:co analyserinstallation:extractiverange:0-100
+%working principle:laser basedapplicable
+gases:coaccuracy:0.01 %power supply:24 vdcoutput:4 to
+20 madisplay:7” full-colour lcd touchscreensampling
+1 Lot.
+38,00,000.00
+38,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+system accessories:sample handling systemgas
+preparation and cndng sys:sample handling systemgas
+analyzer panel with:as requiredcalibration mode:auto and
+manual calibrationrepeatability:nalinearity:+/-0.01 %zero
+drift:no zero driftspan
+drift:negligiblecertification:tuvspecial features:no special
+features
+12
+5679A0072
+Brief desc: gas anlysr;oxygen analyser 0-25
+%paneldetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0-25 %,panelno details are
+availablelong text:type:oxygen
+analyserinstallation:panelrange:0-25 %working
+principle:paramagneticworking principle:laser
+basedapplicable gases:coaccuracy:+/- 0.1 %power
+supply:220v-240v, 50/60 hz,320 vaoutput:4 to 20
+madisplay:led displaysampling system
+accessories:sample handling systemgas preparation and
+cndng sys:not requiredgas analyzer panel
+with:yescalibration mode:auto and manual
+calibrationrepeatability:linearity:zero drift:span
+drift:certification:nema4xspecial features:explosion proof
+class exdiict4no details are availableadditional umc
+text:technical specifications for o2
+analyzers1.objective:this specification calls for the o2
+analyser coke plant at tata steel ltd. Jamshedpur. The
+purpose of the o2 analyzer is to measure oxygen of mixed
+gas supplied to coke oven in the steel plants.no details are
+available2.measurement technology:the measurement
+technology should be based on oxygen measurement
+principle (typeparamagnetic or laser) for accurate
+measurement ofo2 of steel plant mixed gas.no details are
+available3.system design:the system design should
+ensure high availability of the system, effective & proven
+filtration mechanism to remove all impuritiesof the
+sample gas and ease of maintenance. The o2 analyzer
+shall be complete in all respect and include the following:
+-no details are availablei.suitable sample handling system
+(shs) for analyser. The cooling /drying /filtering of the gas,
+special sets of filters, automatic drain pump, etc. Shall be
+part of the system. The filtration mechanism should be
+highly effective to ensure minimum down time due to
+chokage of the system with the impurities. The filter
+cleaning should have automatic and manual
+provision.ii.calibration gases with manual/auto calibration
+facility of the analyzer system.iii.the following shall be
+basic minimum performance parameters: -a)accuracy
+b)performance repeatability c)effect of temperature
+variation from 5 deg c to 50 deg c shall be d)the
+measurement should have no effect and be independent
+of process pressure &temperature changes /
+variationse)the analyzer should have no limitations of over
+ranging of the o2 value and should be independent of the
+1 Lot.
+23,00,000.00
+23,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+o2 measurement rangeiv.the o2 analyzer should give
+isolated 4 to 20ma output signal for the o2 value and other
+signals required for analyser system.no details are
+availablev.the o2 analyzer system shall be designed in
+such a way to make it more energy efficient. Hence the
+utility like the compressedair /plant n2, etc. Required shall
+be to the minimum level possible.vi.the configuration
+software and connection cable and mmi shall be supplied
+as a part of the system. All license software shallbe of
+latest versions.vii.the operation and maintenance of the
+system shall be possible thru a touch screen colour
+graphic mmi and the alarms shall bein clear text. The o2
+value & all the gas composition, etc. Shall be displayed in
+the same colour touch screen mmi.no details are
+availableno details are availableno details are availableno
+details are availableno details are availableno details are
+availableno details are availableno details are availableno
+details are availableno details are available4. O2 analyser
+specifications:analyzer type : o2 analyserprocess media :
+mixed gas ( co2 - 2-3%,co - 6-8%,h2 - 52-55%,no details
+are availablemeasurement output : o2signal output : 4-
+20madisplay : lcdaccuracy : +/- 1 %alarm contacts :
+important parameters like o2 value fail, flame off, sample
+flow low calibration status, calibration alarm etc.safety
+feature : flame off gas shutoff, etp trip with high
+oxygenmounting : foot mountingdrift : power supply :
+200-240v a.c.process : coke oven gasambient temp : 10-
+50 degree celsiusair and gas flow measurement through
+dptsample gas handling system required compatible with
+process gas.repeatability : 1.0% to +/- 1.5 % response :
+50 to 60 sec.output : 4-20 maalarms : power source
+normal: air dp trouble: cpu fail: under
+calibrationcalibration gas cylinder: yes 1 no.no details are
+available5.proven track record (ptr)the offered o2 analyzer
+should have a proven track record for a minimum
+operation of one year in a major steel plant in india fora
+blast furnace, coke oven or mixed gas application with
+necessary documentary evidence. Also, o2 analyser
+should take care of thegas composition described in
+specification sheet.6.bidder scope of supply – o2
+analyser:1.vendor has to submit actual bom and detailed
+part list for o2 analyser as per the requirement of the
+system.2.vendor has to supply complete material in all
+respect for successful operation of o2 analyser.3.vendor
+has to supply material as per umc code given by tata steel
+jamshedpur.7.supervision and commissioning:erection &
+commissioning of o2 analyser supplied for the coke plant
+shall be done by the successful bidder up to entire
+satisfaction of m/s tata steel jamshedpur.vendor scope of
+work: system design, supply o2 analyser with sampling
+system, erection supervision, commissioning and
+performancetest run.commissioning spare and offer for 1-
+year spare list to be supplied by vendor.8.testing and
+inspectiontest certificates & inspection: (i) original copies
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+of internal test reports / certificates of o2 analyser shall be
+sent. (ii) the purchaser will scrutinize the test report /
+certificate and take decision for inspection of the electrics
+at manufacture’s place.9.drawing and documentsas
+mention all drawing and documents required during
+engineering stage shall be provided by successful
+bidder.a)installation ga, schematic drawing of o2
+analyserb)user, installation and commissioning manuals
+and catalogue of o2 analyser.c)details about sampling
+system and analyserd)basis of selectione)detail about
+special cable for communication,f)calibration, h/w
+configurations & functions.no details are
+available10.general confirmation:availability of spares
+during assembly and also commissioning at site for
+successful commissioning & efficient operation of o2
+anlyser before acceptance.11.price:a)for supply: itemized
+price shall be quoted based on f.o.r. tata steel ltd. Price.
+All taxes & duties will be paid extra.b)commissioning:
+charges for commissioning is to be quoted for o2 analyser.
+Commissioning also includes responsibility of the
+successful bidder for stabilization of operation of the o2
+analyser and finally handing over to tata steel ltd.
+Jamshedpur for its smooth operation.12.delivery: 4 to 6
+weeks from date of order released.13.guarantee: as per
+standard guarantee clause indicated by supply chain, tata
+steel ltd.14.deviation & exclusion:the bidder should
+indicate deviations and exclusions of scope of supply/job
+in the offer clearly, if any. Otherwise it will be understood
+that their quotation is exactly as per the specification.no
+details are availableno details are available
+13
+5679A0079
+Brief desc: gas anlysr;gas analyzer 0-1000
+ppmpanedetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;gas
+analyzer ,0-1000 ppm,paneno details are availablelong
+text:type:gas analyzerinstallation:panelrange:0-1000
+ppmworking principle:diffusionapplicable
+gases:oxygenaccuracy:+/-1 %power supply:85-265
+vacoutput:4 20 madisplay:led displaysampling system
+accessories:sample handling systemgas preparation and
+cndng sys:not requiredgas analyzer panel with:as
+requiredcalibration
+mode:manualrepeatability:1%linearity:+/-2% of fszero
+drift:span drift:+/- 1% f.s./6 monthcertification:cespecial
+features:no special features
+1 No.
+Regret
+Regret
+14
+5679A0081
+Brief desc: gas anlysr;oxygen analyser o2=0-25
+%exdetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,o2=0-25 %,exno details are
+availablelong text:type:oxygen
+analyserinstallation:extractiverange:o2=0-25 %working
+principle:laser basedapplicable gases:o2applicable
+gases:flue gasaccuracy:+/-2%power supply:24
+1 Lot.
+31,00,000.00
+31,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+vdcoutput:4-20 madisplay:lcdsampling system
+accessories:probe,hosegas preparation and cndng
+sys:sample handling systemgas analyzer panel with:yes
+with ip65 protectioncalibration mode:automatic
+calibration for oxygrepeatability:1%linearity:+/-1 %zero
+drift:no zero driftspan drift:no span
+driftcertification:atexspecial features:no special
+featuresno details are availableadditional umc
+text:extractive gas analyzer system for measurementof
+o2:model: sitrans slmake: siemens ag, germanytotal no of
+sampling location: 1 no.gas component : o2measuring
+range : 0-25 % by voldegree of protection : ip65with
+sensor electronicswith sample handling system as per
+attached p&idwith heated filter with provision for
+purgingno details are availablebill of materials:heated flow
+cell for mounting the sender and receiver unit hfc 01 1
+pcheated filter hf01 1 pcsolenoid valve sv01 1 pcflow
+monitor for sample gas line meas. Range: 10... 100 lph
+with needle valve fm 01 1 pcaspirator for drawing sample
+asp 1 pcpressure transmitter pt 1 pcanalog output - 2 nos
+- one for transmission status and one for o2laser
+protection : class -1 , save to the eyedigital output - 2
+nosprocess gas temp. - 1100 degree cresponse time 2
+secpower supply for sample handling system - 230
+15
+5679A0100
+Brief desc: gas anlysr;in-situ gas analyzer no: 0 .detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;in-
+situ gas analyzer ,no: 0 .no details are availablelong
+text:type:in-situ gas analyzerinstallation:at stackrange:no:
+0 ... 1000 mgqrange:so2: 0 ... 1000 mgqworking
+principle:uv doas(dif optical absn spct)applicable
+gases:so2applicable gases:noaccuracy:+/-2%power
+supply:230 ± 10 % vacoutput:analog o/p : 4 ... 20ma,500
+odisplay:lcdsampling system accessories:sender/receiver
+unitsampling system accessories:measuring probe,
+connectn unitsampling system accessories:gas
+permeable filter elementgas preparation and cndng
+sys:not requiredgas analyzer panel with:not
+applicalecalibration mode:manual and internal zero
+pointrepeatability:linearity:zero drift:= 3.0 % / yearspan
+drift:= 3.0 % / yearcertification:tuv qal1special
+features:automatic self-test functionspecial
+features:(qal3) without test gasesspecial features:doas
+evaluation processspecial features:direct, fast in-situ
+measuremnspecial features:no need of sampling
+systemno details are availableadditional umc text:direct,
+fast in-situ measurement• no gas sampling, no gas
+transport, no gas conditioning• up to eight measuring
+components at the same time, plus process temperature
+and pressure• doas and cde evaluation process•
+numerous independent measuring ranges with consistent
+accuracy• automatic self-test function (qal3) without test
+gases• overpressure encapsulated design for atex zones 1
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+and 2
+16
+5679A0038
+Brief desc: gas anlysr;h2s analyzer 0-25
+mgm3analydetailed desc: general instruction to vendor:
+last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;h2s analyzer ,0-25 mgm3,analyno details are
+availablelong text:type:h2s analyzerinstallation:analyser
+roomrange:0-25 mgm3working principle:lead
+acetate/othersapplicable gases:h2saccuracy:+/-1
+%power supply:220 vacoutput:4-20
+madisplay:anysampling system
+accessories:probe,hosegas preparation and cndng
+sys:not requiredgas analyzer panel with:yescalibration
+mode:manual with automatic optionrepeatability:+/-0.5
+%linearity:zero drift:+/-2.0%fsspan drift:+/-
+2.0%fscertification:nema4xspecial features:no special
+featuresno details are availableadditional umc
+text:additional umc detail::>this in-situ type h2s analyzer
+for cogd plant, crm.>specifications:the range of detection
+should be 0-25 mg/nm3.the coke oven gas composition is
+as follows:h2 - 53 to 55%,ch4 - 22 to 23%,co - 8.8 to
+9.2%,co2 - 3 to 4%,cmhn – 3% to 4%,o2 – 0.8% to
+1%,h2s - 0 to 25 mg/nm3,naptha- 100 to 500
+mg/nm3,ammonia - 120 to 1500 mg/nm3,tar - 0 to 25
+mg/nm3,n2 - balance>the flow of coke oven gas varies
+from 3,000 to 11,000 nm3/hr as per our internal demand,
+with nominal flow as 8500 nm3/hr.>the pressure of the
+line varies from 0.145 to 0.165 bar (control valve set point
+0.155 bar +/- 10%)>signal output : 4-20 ma>resolution :
+high>the working principle can be any of these: electro
+chemical cell/ lead acetate paper based/ absorbance
+spectroscopy/laser/ any other suitable.>sample gas flow :
+50 ml/min>sample gas inlet pressure: 60 to 120
+milibar>mounting : panel mount>certification : ce certified
+or equivalent>sample inlet : stainless steel
+(standard)>background as : coke oven gas>factory
+calibration certificate: required>application : to measure
+h2s in mg/nm3 in coke oven gas. The analyzer shall be
+installed in analyzer room; hence must besuitable for use
+gas group iic (2c)>area classification : hazardous area
+zone 2 gas group iic (hydrogen)>ambient temperature : 12
+deg to 50 deg c>user interface display required : on
+panel>distance from sampling point to analyser room : 20
+mtrs>supply of calibration gas cylinder : to be
+provided>supply of validating gas cylinder (composition of
+gas cylinder shall be equivalent with tsl process gas
+composition) : to beprovided>provision for signal isolator
+in the analyser: signal isolator required for output signal
+hazardous area suitability certificateno details are
+availableneed from vendor h2s analyser for measuring h2s
+in coke oven gas.>the analyser should sense h2s
+efficiently with the composition of coke oven gas.>control
+1 Lot.
+44,85,000.00
+44,85,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+mechanism of application: residual h2s is measured at
+plant outlet. H2s content is to be maintained less than 5
+mg/nm3in product gas; by dosing of caustic solution (naoh
+liquid) to raw coke oven gas. If raw cog flow increases or
+decreases therebyno details are availablerise/fall in h2s
+content in product gas. The concentration of caustic
+dosing need to be changed immediately to meet the
+qualityparameters. Therefore the analyser should be of
+very high accuracy with fast response. The analyser unit
+shall be complete in allno details are availablesense so
+that it can be commissioned and started immediately
+after delivery. If any other accessories required should
+besupplied or intimated by the supplier at the time of
+order placing.no details are availableno details are
+availableno details are availableno details are availableno
+details are availableno details are available
+17
+5679A0073
+Brief desc: gas anlysr;gas analyzer
+co<100%co2<50%detailed desc: general instruction to
+vendor: last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;gas
+analyzer ,cono details are availablelong text:type:gas
+analyzerinstallation:analyser roomrange:coworking
+principle:ndir sensor, tc sensor, ec senapplicable gases:bf
+gasapplicable gases:co,co2,h2accuracy:+/- 0.1 %power
+supply:230 vacoutput:4 to 20ma two nos.display:color
+graphic display touch scsampling system
+accessories:probe,hosegas preparation and cndng
+sys:sample handling systemgas analyzer panel
+with:instruments comes with suitablcalibration
+mode:auto and manual calibrationrepeatability:equal &
+better than accuracy.linearity:1% of full scalezero
+drift:within accuracy & adjustment pspan drift:+/- 1%
+f.s./6 monthcertification:requiredspecial features:optional
+i/ono details are availablecustom clarification:item
+description :gas analyserfunction of the item :co,co2 and
+h2 analysisname of the main equipment where the item is
+used :bf-sub burden probefunction of the main equipment
+& location of the main equipment :furnace proper-
+probesno details are available
+1 Lot.
+35,00,000.00
+35,00,000.00
+18
+5679A0083
+Brief desc: gas anlysr;gas analyzer 1800 -
+3400kcaldetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;gas
+analyzer ,1800 - 3400kcalno details are availablelong
+text:type:gas analyzerinstallation:fixed typerange:1800 -
+3400kcal/nm3working principle:calorimeterapplicable
+gases:mix gasaccuracy:2 %power supply:230 vacoutput:4
+to 20 madisplay:lcdsampling system accessories:yesgas
+preparation and cndng sys:yesgas analyzer panel with:as
+requiredcalibration mode:manual calrepeatability:+/-1%
+of lowest measmnt rang %linearity:+/-1% of lowest
+measmnt rangzero drift:+/-1% of lowest measmnt
+rang/wspan drift:+/-1% of lowest measmnt
+rang/wcertification:requiredspecial features:protection
+1 Lot.
+62,00,000.00
+62,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+class: ip50no details are availableadditional umc
+text:model: cwd 2005make: union ag germanynote:
+installation - vendor scopemixed gas - cog & bfgno details
+are availablecalorimeter type cwd2005for measurement
+of calorific value, wobbe-index, densitykind of gas: mix
+gas + bofrange wobbe-index: 1,800 – 3,400 kcal/nm3range
+heating value: 1,800 – 3,400 kcal/nm3range specific
+gravity: 0,2 - 2,2 relative to airpower supply:power supply
+230v, 50/60 hzpower consumption: 185 vaburner type m·
+application: sewage gas, mix gas· measuring range:
+approx. From 1800 ... 3400 kcal/m3cwd2005 basic
+unitsolenoid valve blockequipped with 2 2/2 aluminum
+flange valvesinstruction for use
+cwd2005cwd2005cwd2005 plusprinted, multilingual, de,
+engas preparation on mounting plate consist of:mounting
+platematerial: 1.4301 - x5crni10-10 a2material thickness:
+2 mmdimensions (w x h x d): 900 mm x 950 mm x 20
+mmgas processing system for dirty and at 45 ° c, with
+water, saturatedgases.• min. Inlet pressure: (-) 100 mbar•
+max. Inlet pressure: 750 mbar• max. Outlet flow: 100
+l/hno details are available• pipe material: ptfe tube•
+connection fittings: 6mm stainless steel compression
+fittings, type:swagelok/hokbooster pump:• analytical
+bellows pump p2.3first stage filter• particle filtersecond
+stage filter with by-pass, adjustable with needle valve
+andindication by variable area flow meter• coalescing
+filter• max. 0 – 100 l/h• max. Back pressure 150
+mbarpurification systems consist of• sample pre-
+treatment & purification system• cooler with peristaltic
+pumpgas supply connection and the connection for
+disposal ofcondensate, leakage line and by-pass will be
+done by bulkheadfittings.calibration gas systemmain
+data:• min. Inlet pressure: 40 mbar• max. Inlet pressure:
+2,5 bar• pipe material va• connection fittings: 6mm
+stainless steel compression fittings,• type:
+swagelok/hokgas supply connection will be done by
+bulkhead fittings.system description:the calibration gas
+passes through the bulkhead fitting into thesystem. The
+high pressure will be reduced by a pressure regulator to40
+mbar before the gas enters the analyzer. In case of that
+thepressure regulator fails a leakage pipe is connected at
+the vent portof the pressure regulator. The gas will be
+discharged to the outside.the gas must be discharged
+without back pressure.no details are
+availableprefabricated heat traced tube:size: 1⁄2”moc:
+sspower supply: 230 vacqty: 20mtr.no details are
+availablesample tubesize: 1⁄2”moc: ssqty: 10mtr.
+19
+5679A0086
+Brief desc: gas anlysr;flue gas analyser 0-10000
+ppdetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;flue gas analyser ,0-10000 ppno details are
+availablelong text:type:flue gas analyserinstallation:fixed
+typerange:0-10000 ppm & 0-25%working
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+principle:zirconium basedapplicable gases:flue
+gasaccuracy:+/-0.5 %power supply:220-240vac 50-60
+hzoutput:4-20 madisplay:tft touch, all comp. On
+screensampling system accessories:yesgas preparation
+and cndng sys:not requiredgas analyzer panel with:mains
+unit, filter, probe etc...calibration mode:manual
+calrepeatability:nalinearity:n/azero drift:no zero driftspan
+drift:no span driftcertification:ce, iecex, atexspecial
+features:panel mountingno details are availableadditional
+umc text:analyser, gas; measuring media :
+oxygen/combustible, o2 range : 0-1% to 0-40%(fully field-
+selectable via hart or loi), combustibles: 0-1000 ppm to 0-
+5%(fully field-selectable via hart or loi), accuracy : oxygen
+: ±0 .75% of reading or 0.05% o2, combustibles: ±1% f.s.
+when calibrated at 0-5000 ppm range, probe length and
+material : 3# (0.91m) inconel 600, up to 1832°f (1000°c),
+probe mountingassembly : 2# 150# ansi flange-requires a
+2.5# (63.5mm) process hole, mounting hardware - stack
+side : no adapter plate,mountinghardware - probe side :
+new installation - square weld plate with studs, electronic
+housing : nema 4x, ip66 hart communications,
+localoperator interface, electronic mounting : split
+electronics with 12m (40#) cable, model/type : ocx88a,
+ordering no :ocx88a-22-10-0-1-h2-04-0-4, make :
+rosemount
+20
+5679A0088
+Brief desc: gas anlysr;traces of oxygen 0-1000
+ppmdetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;traces of oxygen ,0-1000 ppm,no details are
+availablelong text:type:traces of
+oxygeninstallation:analyser roomrange:0-1000
+ppmworking principle:zirconium basedapplicable
+gases:nitrogenapplicable gases:argonaccuracy:± 1 % of
+full scalepower supply:100 to 240 vac, 50/60hz.
+Vacoutput:4 to 20 madisplay:led displaysampling system
+accessories:filter assembly (ss)gas preparation and cndng
+sys:not requiredgas analyzer panel with:not
+applicalecalibration mode:auto and manual
+calibrationrepeatability:+/- 1% full scalelinearity:+/-1
+%zero drift:accuracy & adjustmentspan drift:accuracy &
+adjustmentcertification:requiredspecial features:panel
+mountingno details are availablecustom clarification:item
+description :o2 analyzername of the main equipment
+where the item is used :product linefunction of the main
+equipment & location of the main equipment :o2 plantno
+details are available
+1 No.
+10,57,000.00
+10,57,000.00
+21
+5679A0089
+Brief desc: gas anlysr;trace co2 0- 10
+ppmanalyserdetailed desc: general instruction to vendor:
+last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;trace co2 ,0- 10 ppm,analyserno details are
+availablelong text:type:trace co2installation:analyser
+roomrange:0- 10 ppmworking principle:infraredapplicable
+1 No.
+16,00,000
+16,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+gases:airaccuracy:± 1 % of full scalepower supply:100 to
+240 vac, 50/60hz. Vacoutput:4 to 20 madisplay:led
+displaysampling system accessories:filter assembly
+(ss)gas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:auto
+and manual calibrationrepeatability:+/- 1% full
+scalelinearity:+/-1 %zero drift:accuracy &
+adjustmentspan drift:accuracy &
+adjustmentcertification:requiredspecial features:panel
+mountingno details are availablecustom clarification:item
+description :o2 analyzername of the main equipment
+where the item is used :product linefunction of the main
+equipment & location of the main equipment :o2 plantno
+details are available
+22
+5679A0090
+Brief desc: gas anlysr;trace n2 0-100 ppm
+analyserdetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;trace n2 ,0-100 ppm ,analyserno details are
+availablelong text:type:trace n2installation:analyser
+roomrange:0-100 ppmworking principle:plasmaapplicable
+gases:argonaccuracy:± 1 % of full scalepower supply:100
+to 240 vac, 50/60hz. Vacoutput:4 to 20 madisplay:led
+displaysampling system accessories:filter assembly
+(ss)gas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:auto
+and manual calibrationrepeatability:+/- 1% full
+scalelinearity:+/-1 %zero drift:accuracy &
+adjustmentspan drift:accuracy &
+adjustmentcertification:requiredspecial features:panel
+mountingno details are availablecustom clarification:item
+description :o2 analyzername of the main equipment
+where the item is used :product linefunction of the main
+equipment & location of the main equipment :o2 plantno
+details are available
+1 No.
+19,00,000.00
+19,00,000.00
+23
+5679A0092
+Brief desc: gas anlysr;oxygen analyser 0-10
+%analydetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0-10 %,analyno details are
+availablelong text:type:oxygen
+analyserinstallation:analyser roomrange:0-10 %working
+principle:paramagneticapplicable
+gases:nitrogenapplicable gases:argonapplicable
+gases:airaccuracy:± 1 % of full scalepower supply:100 to
+240 vac, 50/60hz. Vacoutput:4 to 20 madisplay:led
+displaysampling system accessories:filter assembly
+(ss)gas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:auto
+and manual calibrationrepeatability:+/- 1% full
+scalelinearity:+/-1 %zero drift:accuracy &
+adjustmentspan drift:accuracy &
+adjustmentcertification:requiredspecial features:panel
+mountingno details are availablecustom clarification:item
+1 No.
+5,24,846.00
+5,24,846.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+description :o2 analyzername of the main equipment
+where the item is used :product linefunction of the main
+equipment & location of the main equipment :o2 plantno
+details are available
+24
+5679A0093
+Brief desc: gas anlysr;h2s analyzer (0-1)g/nm3
+anadetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;h2s analyzer ,(0-1)g/nm3 ,anano details are
+availablelong text:type:h2s analyzerinstallation:analyser
+roomrange:(0-1)g/nm3working principle:tdlasapplicable
+gases:h2saccuracy:+/-1 %power supply:24 vdcoutput:4-
+20 madisplay:lcdsampling system accessories:sample
+handling systemgas preparation and cndng sys:sampling
+system w tar filtergas analyzer panel with:yes with ip65
+protectioncalibration mode:auto and manual
+calibrationrepeatability:+/-0.5 %linearity:zero drift:+/-
+2.0%fsspan drift:+/-2.0%fscertification:atexspecial
+features:usb port for data trsferno details are
+availableadditional umc text:additional umc detail::>this
+in-situ type h2s analyzer for bpp plant,
+cob.>specifications:the range of detection should be 0-1
+g/nm3.the coke oven gas composition is as
+follows:co2:3~4%cnhm:2~2.6%h2o:28?saturationo2:0.6
+%co:6~9%tar:0.02g/nm3h2:52~56%ch4:24~26%naphth
+alene:0.12g/nm3n2 - balance>the nominal flow of coke
+oven gas 90243 nm3/hr as per our internal demand, it may
+varies as per actual demand.>the pressure of the line
+varies from 3.5 kpa to 5 kpa.>signal output : 4-20
+ma>resolution : high>the working principle .>sample gas
+flow : 50 ml/min>sample gas inlet pressure: 0.9 - 1.1
+atm>mounting : panel mount>certification : ce certified or
+equivalent>sample inlet : stainless steel
+(standard)>background as : coke oven gas> sample
+connection : en 1092-1 11 b1 pn1.0mpa dn100>factory
+calibration certificate: required>application : to measure
+h2s in mg/nm3 in coke oven gas. The analyzer shall be
+installed in outside ; hence must be suitable foruse gas
+group iic (2c)>area classification : hazardous area zone 2
+gas group iic (hydrogen)> explosion proof exd ii
+ct4>ambient temperature : 12 deg to 55 deg c>user
+interface display required : on panel>distance from
+sampling point to analyser room : 20 mtrs>supply of
+calibration gas cylinder : to be provided>supply of
+validating gas cylinder (composition of gas cylinder shall
+be equivalent with tsl process gas composition) : to
+beprovided>provision for signal isolator in the analyser:
+signal isolator required for output signal hazardous area
+suitability certificateno details are availableneed from
+vendor h2s analyser for measuring h2s in coke oven
+gas.>the analyser should sense h2s efficiently with the
+composition of coke oven gas.>control mechanism of
+application: residual h2s is measured at plant outlet. H2s
+content is to be maintained less than 5 mg/nm3in product
+1 Lot.
+41,73,000.00
+41,73,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+gas; by dosing of caustic solution (naoh liquid) to raw coke
+oven gas. If raw cog flow increases or decreases
+therebyno details are availablerise/fall in h2s content in
+product gas. The concentration of caustic dosing need to
+be changed immediately to meet the qualityparameters.
+Therefore the analyser should be of very high accuracy
+with fast response. The analyser unit shall be complete in
+allno details are availablesense so that it can be
+commissioned and started immediately after delivery. If
+any other accessories required should besupplied or
+intimated by the supplier at the time of order placing.no
+details are availablecustom clarification:item description
+:in-situ hydrogen sulfide vapor analyzerfunction of the
+item :in-situ monitoringmaterial of construction of the
+item :transmitter:width x height: 330 mm x 230 mmlength:
+350 mmname of the main equipment where the item is
+used :bpp-cog linefunction of the main equipment &
+location of the main equipment :measuring h2s in bppno
+details are available
+25
+5679A0094
+Brief desc: gas anlysr;oxygen analyser 0-25
+%fixeddetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0-25 %,fixedno details are
+availablelong text:type:oxygen analyserinstallation:fixed
+typerange:0-25 %working principle:laser basedapplicable
+gases:oxygenaccuracy:oxygen : ±0.2 vol. %power
+supply:24 vdcoutput:4-20 ma &
+relaydisplay:digitalsampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:no
+calibration requiredrepeatability:± 0.1% of
+readinglinearity:+/-0.1%fszero drift:+/- 0.25 fsspan
+drift:certification:atexspecial features:no special features
+1 Lot.
+22,00,000.00
+22,00,000.00
+26
+5679A0095
+Brief desc: gas anlysr;oxygen analyser o2=0-25
+%indetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,o2=0-25 %,inno details are
+availablelong text:type:oxygen analyserinstallation:in line
+duct ( insitu)range:o2=0-25 %working
+principle:tdlasapplicable gases:ld gasaccuracy:+/- 0.1
+%power supply:100 to 240 vac, 50/60hz. Vacoutput:4-20
+madisplay:lcdsampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:auto
+calibrationrepeatability:+/-1% of readinglinearity:1%
+fszero drift:+/- 1% f.s./6 monthspan drift:+/-
+2.0%fscertification:iec,cigrespecial features:no special
+featuresno details are availableadditional umc
+text:additional umc detail::>this in-situ type h2s analyzer
+for sms plant.>specifications:yokogawa make probe type
+tunable diode laser spectroscopy for o2 measurement at
+ld gas holder dn2400 pipelinemake: yokogawamodel:
+1 Lot.
+28,60,000.00
+28,60,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+tdls8100configuration: insitu configuration (probe length :
+1 m) suitable for 2 " 150 # flange connection measuring
+component & range : o2: 0 - 25 vol% linearity:+/-1% of full
+scale repeatability: +/- 1% reading or +/- 0.01% o2,
+whichever is greaterzero drift: typically response time: no
+details are availablen2 for optics / window purge is
+required purge gas (n2) flow rate: 2 - 20 lpm for optic
+purge 5 - 30 lpm for window purgeno details are
+availablegeneral features : area classification: zone
+1safety protection: ex db [ op is ga ] iic t6 gb with sil2
+certified certification: sil2, iec ex fmg and ccoe / peso
+certified power supply: universal power supply (90 -
+240vac, 50/60 hz)power consumption: 20 wattsapprox.
+Analogue output: 4...20ma dc with maximum load
+resistance of 550 ohm for both concentration &
+transmission enclosure protection: ip 66, nema type 4x
+display: 128 x 64 dots lcd; on sensor control unit status
+leds; 3 on sensor control unit ambient operating
+temperature: - 20 to 55 deg c and relative humidity of 0 -
+95% rh at 40 deg c (non-condensing) analog input: 2
+points signal type; 4 to 20 ma dc (isolated from the power
+supply and ground), process gas temperature, process
+gas pressure and same i/p to be provided by customer. I/o
+interface: analog with hart + modbus ethernet
+communication: analog with hart and modbus tcp
+communicationsdigital output: 2 points, contact rating 24v
+dc, 1a do; function: activate during warning / calibration /
+validation / warm up /maintenance conditionsno details
+are availableutility box for optic / window purging of
+analyser comprises of the following:no details are
+availableutility box , moc: crca of 1.6 mm
+thick:1norotameter, moc: glass with ss float:4 nos3 way
+ball valve, moc: ss316, 1/4" od:1noair filter regulator, 1/4"
+od, ss316no details are availableinternal tubing, ss316 ,
+1/4" od:double compression type fittingspower supply
+unit ( for the conversion from 240 vac to 24
+vdc):1nopower jb , moc: lm6 ; suitable for zone
+1:1nosignal jb, moc: lm6 ; suitable for zone 1:1nosignal jb,
+moc: lm6 ; suitable for zone 1:1nono details are
+availableinterconnecting tubing between analyser to utility
+box ; moc: ss316 ; size : 1/4" od;:20 mtrno details are
+availablecylinder for o2 span validation with double stage
+ss regulator: 1 setcomposition : 12% o2 balance
+n2capacity : 10 liters wcno details are availableno details
+are availableno details are availableno details are
+availableno details are availableno details are
+availablecustom clarification:item description :in-situ
+laser analyserfunction of the item :in-situ
+monitoringmaterial of construction of the item :ssname of
+the main equipment where the item is used :smsfunction
+of the main equipment & location of the main equipment
+:measuring o2 in wga smsno details are available
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+27
+5679A0096
+Brief desc: gas anlysr;extractive co:0-100 co2:0-1detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;extractive ,co:0-100, co2:0-1no details are
+availablelong
+text:type:extractiveinstallation:extractiverange:co:0-100,
+co2:0-100,o2:0-25 %working principle:ndir &
+paramagneticapplicable gases:co,co2.o2accuracy:+/-
+2%power supply:230v ac 50hzoutput:4-20 madisplay:7”
+full-colour lcd touchscreensampling system
+accessories:inconnel probesampling system
+accessories:yesgas preparation and cndng sys:removal of
+dust/moigas analyzer panel with:2100x600x600
+mmcalibration mode:manual calrepeatability:+/-1% of
+lowest measmnt rang %linearity:1% of full scalezero
+drift:+/-1% of lowest measmnt rang/wspan drift:+/-1% of
+lowest measmnt rang/wcertification:not requiredspecial
+features:automatic data savingspecial features:multi gas
+analyserspecial features:panel mountingspecial
+features:response time-t90, special features:pannel rating
+ip54no details are availableadditional umc text:co ,co2
+and o2 gas analyzer system with gas sampling probe-
+with scavenging box for dual stage auto -with cleaning of
+probe facility,with solenoid valves,make :
+asco/burkertcompletely tubed, pre fabricated &
+testedprobe cleaning- with sample handling system- with
+sample gas cooler- with touch screen graphic – hmi- with
+calibration gas cylinder- model -ultramat 23- make :
+siemensfor carbon monoxide co ), carbon di-oxide(co2) &
+oxygen(o2) measurementheated sample tube for sample
+gasmoc: sstube size: 1⁄2”- 130mtrs approx.no details are
+availablecustom clarification:item description :multi gas
+analyzerfunction of the item :online gas analysisname of
+the main equipment where the item is used :rotary
+kilnfunction of the main equipment & location of the main
+equipment :drino details are available
+1 Lot.
+28,00,000.00
+28,00,000.00
+28
+5679A0097
+Brief desc: gas anlysr;flue gas analyser co:o-10 %detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;flue gas analyser ,co:o-10 %,no details are
+availablelong text:type:flue gas
+analyserinstallation:portable typerange:co:o-10 %,o2:0-
+25% %range:co2=0-30%range:ch4=0-100%range:co:0-
+1000ppm, n2:0-100%range:h2=0-60%working
+principle:ndirworking principle:electrochemicalapplicable
+gases:co,co2,ch4,h2, n2,o2accuracy:0.01 %power
+supply:chargeable battery operatedoutput:rs 232 and
+ethernetdisplay:lcd panel with led back lightsampling
+system accessories:fine filtergas preparation and cndng
+sys:integral water catchpot and figas analyzer panel
+with:mains unit, filter, probe etc...calibration mode:auto
+and manual calibrationrepeatability:equal & better than
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+accuracy.linearity:n/azero drift:within accuracy &
+adjustment pspan drift:within accuracy & adjustment
+pcertification:requiredspecial features:built in
+printerspecial features:inbuilt suitable sample pumpno
+details are availableadditional umc text:features:measure
+upto 10 gasesthermocouple for the flue
+temperaturemeasurementpitot tube connection for
+pressure and humiditymeasurementlarge backlit lcd
+displayversatile keys for easy and simple
+operationcompact, rugged and battery operated
+designinternal memoryinbuilt printerlow battery indication
+and cut-offself diagnosisauto / semi auto/ manual
+calibrationdata logging via pc software packagepc
+interface through rs232high quality probe and filters for
+trouble freeoperationno details are availabledisplay4x20
+lcd with back-litprompt message for simple operationno
+details are availablekeyboardmembrane key padnavigator
+keys for simple operationno details are availableinbuilt
+peripheralsrtc for date and timememory for data
+storage*24 column dot-matrix printerno details are
+availablegas extraction systeminbuilt suction pumpgas
+pre filterswater catch pots*auto purging*higher
+concentration cut-offno details are
+availableenvironmental conditiontemperature 0 to 50
+ocpressure 813 to 1060 mbarhumidity 10 to 95% rhno
+details are availableelectrical specificationdc 12 v, lithium
+- ion batteryac 90 – 270 v, 50 hzno details are
+availablewarm-up time30 seconds120 seconds for ndir
+sensorno details are availableresponse time (t90)
+29
+5679A0098
+Brief desc: gas anlysr;percentage n2 0-10
+%analysedetailed desc: general instruction to vendor:
+last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;percentage n2 ,0-10 %,analyseno details are
+availablelong text:type:percentage n2installation:analyser
+roomrange:0-10 %working principle:thermal
+conductivityapplicable gases:argonaccuracy:± 1 % of full
+scalepower supply:100 to 240 vac, 50/60hz vacoutput:4
+to 20 madisplay:led displaysampling system
+accessories:filter assembly (ss)gas preparation and cndng
+sys:not requiredgas analyzer panel with:not
+applicalecalibration mode:auto and manual
+calibrationrepeatability:± 1 % of full scale %linearity:+/-1
+%zero drift:accuracy & adjustmentspan drift:accuracy &
+adjustmentcertification:requiredspecial features:panel
+mounting
+1 No.
+7,90,000.00
+7,90,000.00
+30
+5679A0101
+Brief desc: gas anlysr;dust analyzer 0-300
+mg/nm3sdetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;dust analyzer ,0-300 mg/nm3,sno details are
+availablelong text:type:dust analyzerinstallation:stack and
+wall-mountrange:0-300 mg/nm3working principle:single
+beam double pass methodapplicable gases:flue
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+gasaccuracy:2% of f.s. or betterpower supply:230 ± 10 %
+vacoutput:02 ao(4-20 ma) & 3 do nosdisplay:backlit liquid
+crystal displaysampling system accessories:weatherproof
+hood for field insampling system accessories:mounting
+base and other accesssampling system accessories:1 set
+of matching flangesampling system accessories:field
+term. Boxes with standssampling system
+accessories:100 mtr power and signal cablegas
+preparation and cndng sys:not requiredgas analyzer panel
+with:as requiredcalibration mode:auto and manual
+calibrationrepeatability:+/- 1% full scalelinearity:n/azero
+drift:± 1 % in 24 hours or betterspan drift:± 1 % in 24 hours
+or bettercertification:tuv ( qal-1) or mcertsspecial
+features:operating temp:up to 600 deg.cspecial
+features:heated gls and fail safe shuttspecial
+features:with display cu at grnd levelspecial features:with
+ip65 encloserspecial features:with 2 year warranty
+31
+5679A0103
+Brief desc: gas anlysr;extractive co: o-10 %co2:0-detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;extractive ,co: o-10 %,co2:0-no details are
+availablelong
+text:type:extractiveinstallation:extractiverange:co: o-10
+%,co2:0-2%,02:0-25%range:0-10 %working
+principle:laser basedapplicable
+gases:co,co2.o2accuracy:+/- 0.1 %power supply:24
+vdcoutput:4 to 20 madisplay:lcdsampling system
+accessories:measuring probe, connectn unitsampling
+system accessories:fine filtergas preparation and cndng
+sys:nogas analyzer panel with:yescalibration mode:auto
+calibrationrepeatability:+/-0.5 %linearity:zero drift:no zero
+driftspan drift:accuracy &
+adjustmentcertification:atexspecial features:automatic
+self-test functionno details are availableadditional umc
+text:extractive type laser analysermake siemens ag
+germanymodel sitran sl part no. 18401005 for oxygen
+analysermodel: lds 6 for co/co2no details are
+availableanalyzerco / co2 & h2 laser analyserworking
+principle diode laser gas analyser with a measuring
+principle based on thespecific light absorption of different
+gas components.applicable gases in hot, humid,
+corrosive, explosive, or toxic gases for
+processapplication.co range 0 ...... 1/100 vol%,
+selectableco2 range 0 ...... 1/100 vol%, selectableh2
+range 0 ...... 1/10 vol%, selectableaccuracy better than
+1%power supply 24 vdc, 15 vaoutput analog outputs --4
+nos – one each for co/co2 & h2 and one fortransmission
+status.display lc displaylinearity better than
+1%repeatability 1% of the measuring rangezero drift
+negligible, ( internal reference cell as check for zero)span
+drift negligible, ( internal reference cell as check for
+zero)degree of protection ip 65warm-up time: approx. 5
+minutesminimum response time(t90): 100 mslaser
+1 Lot.
+85,00,000.00
+85,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+protection class class 1, safe to the eyeo2 laser
+analysero2 range 0 ... 100 vol%, selectableworking
+principle diode laser gas analyser with a measuring
+principle based on thespecific light absorption of different
+gas components.applicable gases in hot, humid,
+corrosive, explosive, or toxic gases for
+processapplication.accuracy better than 1%power supply
+24 vdc, 10 vaout put analog outputs --2 nos required – one
+for o2 and one fortransmission status.display lc
+displaylinearity better than 1%repeatability 1% of the
+measuring rangezero drift negligible, ( internal reference
+cell as check for zero)span drift negligible, ( internal
+reference cell as check for zero)certifications sil – 1 / ex ii
+2 g ex de op is iic t6 /ex ii 2 d ex td a21 ip65 t85°c /xp class
+i, ii, iii div 1 groups a, b, c, d t6 ta = 55°c / xp class i, ii, iiidiv
+1 groups c, d t6 ta = 55°cresponse time (t90) 2
+secondspurging gas nitrogen – 99.999%no details are
+availableno details are availablespecification for
+extractive laser based co/co2 & o2 measurement system
+insms – dry gas applicationlaser protection class class 1,
+safe to the eyedegree of protection ip65sensor alignment
+kit requiredprocess gas temperature up to 600 deg
+creference gas cell inbuiltcalibration check facility to be
+providedspecial function built in check for functional
+health.analyser stops measuring in case of any deviations,
+so the analysereither measures correctly else stops
+measuring.no details are availableno details are
+availablesample handling system with panel &
+accessories.effective path length minimum 1
+meterextension path length 0.5 metersmaterial of
+constructionflow through cellss316, heated > 120 deg
+cspecial dry gas probe ss 316, with special imported ss
+tridelta filter and process isolationheated sample gas line
+required 20 meterssample gas pump required with no
+moving partssample flow meter required with low flow
+detectionprobe blow back box probe blow back box with
+automatic cleaning of probeautomatic back purging
+ofsample linerequiredpressure correction pressure sensor
+with 4-20 output ( 2 nos) for dynamic
+pressurecorrectiontemperature correction temperature
+sensor with 4-20 output ( 2 nos) for dynamic
+pressurecorrectionnitrogen volume tank
+requiredelectrical jb required in ip 65 boxsolenoid valves
+for backpurgingsolenoid valves for air/ n2 to aspirator/
+calibration gases / probeblow backpressure regulation
+requiredisolation valve required
+32
+5679A0041
+Brief desc: gas anlysr;online gas analyzer co:0-
+150detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;online gas analyzer ,co:0-150no details are
+availablelong text:type:online gas analyzerinstallation:in
+line duct ( insitu)range:co:0-15000ppm,o2:0-25%working
+principle:tdlasapplicable gases:o2, co, co2, ch4, h2s, nh3,
+1 Lot.
+59,00,000.00
+59,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+hfaccuracy:+/-1 %power supply:110 vacoutput:4-20 ma
+& relaydisplay:lcdsampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:yes with ip65 protectioncalibration
+mode:online calibrationrepeatability:+/- 1% full
+scalelinearity:+/-1 %zero drift:no zero driftspan drift:+/-
+1% f.s./6 monthcertification:ce, iecex, atexspecial
+features:no special featuresno details are
+availableadditional umc text:descriptionthis analyser
+applies tdlas (tunable diode laser absorption
+spectroscopy) technology, it measures any particular gas
+within 1 second response time and no maintenance is
+required.with only 0.001 nm wavelength width, the laser
+will prevent any interference from all background gases,
+while comparing with ndiror other method, tdlas has
+higher adaptability to non-condensed moisture and high
+temperature. No sampling system nor moving partsis
+required.no details are availablefeature1. In-situ, no gas
+sampling2. No cross interference3. Fast response less
+than one second4. Diverse optical length (0.5~20m)5.
+Reliable in all harsh conditions: high temperature &
+pressure, dust density, moisture and corrosion6. Online
+calibration, no zero driftno details are availableno details
+are availablespecificationprinciple: tdlas (tunable diode
+laser absorption spectroscopy)components measured:
+co, o2 (independent analyzer)measuring range: co:
+0~15000 ppm, o2: 0~25%response time: linearity: +/- 1 %
+f.s.repeatability: +/- 1% f.s.span drift (6 month): +/- 1%
+f.s.analog output: 2 channel 4~20maanalog input
+(optional): 2 channel 4~20ma for compensationrelay
+output: 3 channel 24v dc/1acommunication: rs485
+(rs232, gprs optional)sample gas temperature: up to 1500
+°coperation temperature: -30 to 60 °cpower supply: 110v
+acpower consumption: 20wpurging pressure: 0.3~0.8
+mpaprotection: ip65 and ecm 15 atex-b 003 xgas
+compositon. Co-5000 ppm, oxygen-0-21%, nitrogen.20-
+30%no details are availableno details are availablecustom
+clarification:item description :the lga-4100 diode laser gas
+analyzer is a high-resolution gas monitoring solution
+applies tdlas (tunable diode laser absorption
+spectroscopy) technology, it measures any particular gas
+within 1 second response time and no maintenance is
+required.function of the item :gas analyserno details are
+available
+33
+5679A0037
+Brief desc: gas anlysr;oxygen analyser 0-25 %in lidetailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0-25 %,in lino details are
+availablelong text:type:oxygen analyserinstallation:in line
+duct ( insitu)range:0-25 %working principle:laser
+basedapplicable gases:oxygenaccuracy:oxygen : ±0.2 vol.
+%power supply:230v ac 50hzoutput:4-20 madisplay:led
+displaysampling system accessories:not requiredgas
+1 Lot.
+22,00,000.00
+22,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+preparation and cndng sys:no gasgas analyzer panel
+with:nocalibration mode:automatic calibration for
+oxygrepeatability:± 0.1% of readinglinearity:n/azero
+drift:within accuracy & adjustment pspan drift:within
+accuracy & adjustment pcertification:requiredspecial
+features:no special featuresno details are
+availableadditional umc text:gas analysis system for
+measurement ofo2 at common duct ld#1total no of
+sampling location: 1 no.degree of protection : ip65with
+sensor electronicswith reference cell for self-
+monitoringwith pressure & temperature compensation1a.
+Advanced laser gas analyser for measurement of
+o2sitrans sl transmitter module -1pc1b. Receiver module
+1pc2. Isolation valve 1 pair3. Alignment kit 1pc4.
+Calibration rig 1pc5. Stabilized load power : psu100s/2.5
+power 1pc6. Guard tube 1 pair7. Process flange 1 pair8.
+Loop cable in mtradvanced laser gas analyzer system for
+o2 measurement sitrans sl, siemens ag.with internal
+reference cellgas component -- oxygen.measuring range
+0 - 10 %.purging process side nitrogen.purging sensor
+side nitrogen.purging flow recommended process side 0 ¿
+50 l / min. And sensor side3 - 5 l / min.process interface
+flange type.flange size dn50/pn25.power supply dc
+24v.purging tube length 340 mm.stabilized load power
+supply psu100s 24v/2.5 power supply.laser o2 gas
+anlyzer sitrans sl siemens ag with intrnl ref cellfunction of
+the itemonline oxygen analysermaterial of construction of
+the itemstainless steelname of the main equipment where
+the item is usedld gas holderfunction of the main
+equipment & location of the main equipmentld gas
+holdergas composition: co- 55% to 70%, co2- 10% to
+12%, h2- 0% to 2%.
+34
+5679A0127
+Brief desc: gas anlysr;nh3 analyzer 0-100 ppm
+strudetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;nh3 analyzer ,0-100 ppm ,struno details are
+availablelong text:type:nh3 analyzerinstallation:structure
+mountedrange:0-100 ppmworking
+principle:tdlasapplicable gases:nh3accuracy:+/-1
+%power supply:24 vdcoutput:4-20
+madisplay:lcdsampling system accessories:nonegas
+preparation and cndng sys:sampling system w tar filtergas
+analyzer panel with:not applicalecalibration mode:auto
+and manual calibrationrepeatability:+/-0.5 %linearity:zero
+drift:+/-2.0%fsspan drift:+/-
+2.0%fscertification:atexspecial features:usb port for data
+trsferno details are availableadditional umc text:additional
+umc detail::>this in-situ type nh3 analyzer for bpp plant,
+cob.>specifications:the range of detection should be 0-
+100 ppm.the coke oven gas composition is as
+follows:co2:3~4%cnhm:2~2.6%h2o:28?saturationo2:0.6
+%co:6~9%tar:0.02g/nm3h2:52~56%ch4:24~26%naphth
+alene:0.12g/nm3n2 - balance>the nominal flow of coke
+1 Lot.
+33,92,500.00
+33,92,500.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+oven gas 90243 nm3/hr as per our internal demand, it may
+varies as per actual demand.>the pressure of the line
+varies from 3.5 kpa to 5 kpa.>signal output : 4-20
+ma>resolution : high>the working principle .>sample gas
+flow : 50 ml/min>sample gas inlet pressure: 0.9 - 1.1
+atm>mounting : panel mount>certification : ce certified or
+equivalent>sample inlet : stainless steel
+(standard)>background as : coke oven gas> sample
+connection : en 1092-1 11 b1 pn1.0mpa dn100>factory
+calibration certificate: required>application : to measure
+nh3 in coke oven gas. The analyzer shall be installed in
+outside ; hence must be suitable for use gas group iic
+(2c)>area classification : hazardous area zone 2 gas group
+iic (hydrogen)> explosion proof exd ii ct4>ambient
+temperature : 12 deg to 55 deg c>user interface display
+required : on panel>distance from sampling point to
+analyser room : 20 mtrs>supply of calibration gas cylinder
+: to be provided>supply of validating gas cylinder
+(composition of gas cylinder shall be equivalent with tsl
+process gas composition) : to beprovided>provision for
+signal isolator in the analyser: signal isolator required for
+output signal hazardous area suitability certificateno
+details are availableneed from vendor h2s analyser for
+measuring h2s in coke oven gas.>the analyser should
+sense nh3 efficiently with the composition of coke oven
+gas.>control mechanism of application: residual nh3 is
+measured at plant outlet. Nh3 content is to be maintained
+less than 50 ppmin product gas; the analyser should be of
+very high accuracy with fast response. The analyser unit
+shall be complete in allsense so that it can be
+commissioned and started immediately after delivery. If
+any other accessories required should besupplied or
+intimated by the supplier at the time of order placing.no
+details are availablecustom clarification:item description
+:tdls nh3 analyzerfunction of the item :nh3
+monitoringname of the main equipment where the item is
+used :bpp-cog linefunction of the main equipment &
+location of the main equipment :measuring nh3 in bppno
+details are available
+35
+5679A0042
+Brief desc: gas anlysr;extractive co:0-
+15000ppmo2:detailed desc: general instruction to vendor:
+last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;extractive ,co:0-15000ppm,o2:no details are
+availablelong
+text:type:extractiveinstallation:extractiverange:co:0-
+15000ppm,o2:0-25%working principle:tdlasapplicable
+gases:co & o2accuracy:+/-1 %power supply:110
+vacoutput:4-20 ma & relaydisplay:lcdsampling system
+accessories:probe,hosegas preparation and cndng
+sys:non-condensing samplegas analyzer panel with:yes
+with ip65 protectioncalibration mode:online
+calibrationrepeatability:+/- 1% full scalelinearity:+/-1
+%zero drift:no zero driftspan drift:+/- 1% f.s./6
+1 Lot.
+69,00,000.00
+69,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+monthcertification:atex, emc, lvdspecial features:no
+special featuresno details are availableadditional umc
+text:gas analyzer is a high-resolution gas monitoring
+solution appliestdlas (tunable diode laser absorption
+spectroscopy) technology, it measures any particular
+gaswithin 1 second response time and no maintenance is
+required.with only 0.001 nm wavelength width, the laser
+will preventany interference from all background gases,
+whilecomparing with ndir or other method, tdlas has
+higheradaptability to non-condensed moisture and
+hightemperature no moving parts is required.no details are
+availablefeature1. No cross interference2. Fast response
+less than one second3. No condenser is required, less
+maintenance4. Reliable in all harsh conditions: high
+temperature & pressure, dust density, moisture and
+corrosion4. Online calibration, no zero driftno details are
+availablespecificationprinciple: tdlas (tunable diode laser
+absorption spectroscopy)components measured: co,
+o2measuring range: co: 0~10000 ppm, o2:
+0~21%response time: linearity: +/- 1 % f.s.repeatability:
++/- 1% f.s.span drift (6 month): +/- 1% f.s.analog output: 2
+channel 4~20maanalog input (optional): 2 channel
+4~20ma for compensationrelay output: 3 channel 24v
+dc/1acommunication: rs485 (rs232, gprs optional)sample
+gas temperature: up to 1500 °coperation temperature: -30
+to 60 °cpower supply: 110v acpower consumption:
+20wpurging pressure: 0.3~0.8 mpaprotection: ip65 and
+ecm 15 atex-b 003 xgas compositon. Co-5000 ppm,
+oxygen-0-21%, nitrogen.20-30% , gas sampling will be
+done from silo full of pulverized coal
+36
+5679A0139
+Brief desc: gas anlysr;extractive laser analyser o2detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;extractive laser analyser ,o2no details are
+availablelong text:type:extractive laser
+analyserinstallation:extractiverange:o2=0-25 %working
+principle:laser basedapplicable
+gases:co,co2,h2accuracy:+/- 0.1 %power supply:24
+vdcoutput:4-20 madisplay:lcdsampling system
+accessories:measuring probe, connectn unitsampling
+system accessories:fine filtergas preparation and cndng
+sys:nogas analyzer panel with:yes with ip65
+protectioncalibration mode:auto
+calibrationrepeatability:+/-0.5 %linearity:zero drift:no zero
+driftspan drift:accuracy &
+adjustmentcertification:atexspecial features:automatic
+self-test functionno details are availableadditional umc
+text:laser based analyser for o2 measurement-
+extractiveservice: gas recovery common duct gas
+analyzeroperating principle: tdlasarea classification: safe
+areamounting location: extractive typecomponent to be
+measured: o2.range: 0-25 vol%laser gas analyzer for
+measurement of o2• ingress protection: ip65no details
+1 Lot.
+28,00,000
+28,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+are availablewith sample handling system consisting of:•
+with gas sampling probe consisting of heated filter• with
+dual stage scavenging box for auto probe cleaning• with
+heated flow through cell for mounting of laser analyzers•
+with aspirator pump system for extraction and drawing of
+sample gas• mounting of analyzer on field rack.no details
+are availableanalyzer output:• 4-20 ma• digital outputsno
+details are availableworking principle: diode laser gas
+analyzer with a measuring principle based on the specific
+light absorption of different gas components.applicable
+gases: in hot, humid, corrosive, explosive, or toxic gases
+for process application.accuracy: +/- 0.5%power supply:
+24 vdc, 10 vaout put analog outputs --2 nos required – one
+for o2 and one for transmission status, others signal as
+per site requirements.display lc displaylinearity better
+than 1%repeatability 1% of the measuring rangezero drift
+negligible, (internal reference cell as check for zero)span
+drift negligible, (internal reference cell as check for
+zero)certifications sil – 1 / ex ii 2 g ex de op is iic t6 /ex ii 2
+d ex td a21 ip65 t85°c /xp class i, ii, iii div 1 groups a, b, c,
+d t6 ta = 55°c / xp class i, ii, iiidiv 1 groups c, d t6 ta =
+55°cresponse time (t90) 2 secondspurging gas nitrogen –
+99.999%no details are availablespecification for
+extractive laser based o2 measurement system insms –
+gas recovery common duct gas applicationlaser
+protection class: class 1, safe to the eyedegree of
+protection ip65sensor alignment kit requiredprocess gas
+temperature up to 600 deg creference gas cell
+inbuiltcalibration check facility to be provided.special
+function built in check for functional health.analyzer stops
+measuring in case of any deviations, so the analyzer either
+measure correctly else stops measuring.no details are
+availablesample handling system with panel &
+accessories.effective path length minimum 2
+meterextension path length 0.5 metersmaterial of
+constructionflow through cellss316, heated > 120 deg
+cspecial gas probe ss 316, with special imported ss
+tridelta filter and process isolationheated sample gas line
+required 30 meters.sample gas pump required with no
+moving parts.sample flow meter required with low flow
+detection.probe blow back box probe blow back box with
+automatic cleaning of probeautomatic back purging of
+sample line requiredpressure correction pressure sensor
+with 4-20 output (2 nos) for dynamic pressure
+correction.temperature correction temperature sensor
+with 4-20 output (2 nos) for dynamic pressure
+correction.nitrogen volume tank requiredelectrical jb
+required in ip 65 boxsolenoid valves for back
+purgingsolenoid valves for air/ n2 to aspirator/ calibration
+gases / probe blow backpressure regulation
+required.isolation valve required.scavenging panel
+assembly for sample probe purging.no details are
+availablecalibration cylinder required:zero gas: pure n2:
+99.99 vol%span gas: o2: 21 vol%mixed gas: co, co2, h2,
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+balance n2.no details are availablecustom
+clarification:item description :laser gas analyzerfunction
+of the item :gas analysisname of the main equipment
+where the item is used :gas recovery common duct
+area.function of the main equipment & location of the
+main equipment :gas recovery common duct area.no
+details are available
+37
+5679A0138
+Brief desc: gas anlysr;extractive laser analyser o2detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;extractive laser analyser ,o2no details are
+availablelong text:type:extractive laser
+analyserinstallation:extractiverange:o2=0-25
+%range:co=0-100 vol% %working principle:laser
+basedapplicable gases:co,co2,h2accuracy:+/- 0.1
+%power supply:24 vdcoutput:4-20
+madisplay:lcdsampling system accessories:measuring
+probe, connectn unitsampling system accessories:fine
+filtergas preparation and cndng sys:with condensate
+monitoring sysgas analyzer panel with:yes with ip65
+protectioncalibration mode:auto
+calibrationrepeatability:+/-0.5 %linearity:zero drift:no zero
+driftspan drift:accuracy &
+adjustmentcertification:atexspecial features:automatic
+self-test functionno details are availableadditional umc
+text:laser based analyser for co, o2 measurement-
+extractive type.service: wet gas analyzeroperating
+principle: tdlasarea classification: safe areamounting
+location: extractive typecomponent to be measured: co,
+o2.range: 0-25 vol% for o2range: 0-100 vol% for colaser
+gas analyzer for measurement of co, o2• ingress
+protection: ip65no details are availablewith sample
+handling system consisting of:• with gas sampling probe
+consisting of heated filter• with dual stage scavenging box
+for auto probe cleaning• with heated flow through cell for
+mounting of laser analyzers• with aspirator pump system
+for extraction and drawing of sample gas• mounting of
+analyzer on field rack.no details are availableanalyzer
+output:• 4-20 ma• digital outputsno details are
+availableworking principle: diode laser gas analyzer with a
+measuring principle based on the specific light absorption
+of different gas components.applicable gases: in hot,
+humid, corrosive, explosive, or toxic gases for process
+application.accuracy: +/- 0.5%power supply: 24 vdc, 10
+vaout put analog outputs --4 nos required – one for o2 and
+one for transmission status, one for co and one for
+transmission status,other signal as per site
+requirement.display lc displaylinearity better than
+1%repeatability 1% of the measuring rangezero drift
+negligible, (internal reference cell as check for zero)span
+drift negligible, (internal reference cell as check for
+zero)certifications sil – 1 / ex ii 2 g ex de op is iic t6 /ex ii 2
+d ex td a21 ip65 t85°c /xp class i, ii, iii div 1 groups a, b, c,
+1 Lot.
+69,00,000.00
+69,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+d t6 ta = 55°c / xp class i, ii, iiidiv 1 groups c, d t6 ta =
+55°cresponse time (t90) 2 secondspurging gas nitrogen –
+99.999%no details are availablespecification for
+extractive laser based co & o2 measurement system
+insms – wet gas application (gcp).laser protection class:
+class 1, safe to the eyedegree of protection ip65sensor
+alignment kit requiredprocess gas temperature up to 150
+deg creference gas cell inbuiltcalibration check facility to
+be provided.special function built in check for functional
+health.analyzer stops measuring in case of any deviations,
+so the analyzer either measure correctly else stops
+measuring.no details are availablesample handling
+system with panel & accessories.effective path length
+minimum 2 meterextension path length 0.5
+metersmaterial of constructionflow through cellss316,
+heated > 120 deg cspecial gas probe ss 316, with special
+imported ss tridelta filter and process isolationheated
+sample gas line required 30 meters.sample gas pump
+required with no moving parts.sample flow meter required
+with low flow detection.probe blow back box probe blow
+back box with automatic cleaning of probeautomatic back
+purging of sample line requiredpressure correction
+pressure sensor with 4-20 output (2 nos) for dynamic
+pressure correction as per requirement.temperature
+correction temperature sensor with 4-20 output (2 nos)
+for dynamic pressure correction as per
+requirement.nitrogen volume tank requiredelectrical jb
+required in ip 65 boxsolenoid valves for back
+purgingsolenoid valves for air/ n2 to aspirator/ calibration
+gases / probe blow backpressure regulation
+required.isolation valve required.scavenging panel
+assembly required for sample probe purging.condensate
+monitor required for moisture detection & protection.no
+details are availablecalibration cylinder:zero gas: pure n2:
+99.99 vol%span gas: o2: 21 vol%span gas: co: 80
+vol%mixed gas: co, co2, h2, balance n2.no details are
+availablecustom clarification:item description :laser gas
+analyzerfunction of the item :gas analysisname of the
+main equipment where the item is used :wet gas analyzer
+at smsfunction of the main equipment & location of the
+main equipment :wet gas analyzer at smsno details are
+available
+38
+5679Y0014
+Brief desc: gas anlysr;oxygen analyser 0-25 %in lidetailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0-25 %,in lino details are
+availablelong text:type:oxygen analyserinstallation:in line
+duct ( insitu)range:0-25 %working principle:laser
+basedapplicable gases:bf gasaccuracy:oxygen : ±0.2 vol.
+%power supply:24 vdcoutput:4 to 20ma two
+nos.display:led displaysampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:nocalibration mode:no calibration
+1 Lot.
+22,00,000.00
+22,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+requiredrepeatability:equal & better than
+accuracy.linearity:+/-0.01 %zero drift:within accuracy &
+adjustment pspan drift:no span driftcertification:atex and
+iecexspecial features:no special featuresno details are
+availableadditional umc text:laser protection class:
+class1degree of protection: ip65measurement path: 0.3 to
+8mtrno details are availableone analog output for o2
+percentage.one analog output for transmission rate.gas
+composition: 0-70% co, 0-25% o2 and othersno details
+are availablearea classification- zone 1no details are
+availablemake- sitran sl (tdls)
+39
+5679Y0003
+Brief desc: gas anlysr;al oxide moisture
+transmeterdetailed desc: general instruction to vendor:
+last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;al
+oxide moisture transmeterno details are availablelong
+text:type:al oxide moisture transmeterinstallation:in
+sample handling systemrange:+20 to -110 °cworking
+principle:gas sensorsapplicable gases:all industrial
+gasesaccuracy:±3.6°f(±2°c)above-148°f(-100*cpower
+supply:12 to 30 vdcoutput:4 to 20 madisplay:128 x 64 led
+backlit lcdsampling system accessories:ndle vlv,pre
+regltr,holdr,rotmgas preparation and cndng sys:sample
+handling systemgas analyzer panel with:sample handling
+systemcalibration mode:calibrated aginst moisture
+conrepeatability:+/-5% of readinglinearity:n/azero
+drift:negligiblespan drift:negligiblecertification:nistspecial
+features:no special featuresno details are
+availablecustom clarification:item description :moisture
+/dewpoint analyzerfunction of the item :dewpoint
+measurementname of the main equipment where the item
+is used :in n2h2 pipelinefunction of the main equipment &
+location of the main equipment :to measure dew point,
+gas pipelineno details are available
+1 No.
+Regret
+Regret
+40
+5679Y0004
+Brief desc: gas anlysr;gas analyzer 0-3000
+ppmfixedetailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;gas
+analyzer ,0-3000 ppm,fixeno details are availablelong
+text:type:gas analyzerinstallation:fixed typerange:0-3000
+ppmworking principle:gas sensorsapplicable
+gases:oxygenaccuracy:0.01 %power supply:10.8 v to 16.5
+voutput:4 20 madisplay:not requiredsampling system
+accessories:not requiredgas preparation and cndng
+sys:nogas analyzer panel with:nocalibration
+mode:manualrepeatability:± 0.1% of
+readinglinearity:n/azero drift:negligiblespan drift:no span
+driftcertification:not requiredspecial features:no special
+featuresno details are availableadditional umc
+text:lambda sensor lsu 4.9with automotive
+connectororder number 0 258 017 025no details are
+availablecustom clarification:item description :gas
+sensorfunction of the item :sense o2 in gasname of the
+main equipment where the item is used :ebner annealing
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+furnacefunction of the main equipment & location of the
+main equipment :annealing cold rolled coil, crmno details
+are available
+41
+5679Y0017
+Brief desc: gas anlysr;co analyser 0-10000 ppm & 0-
+detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;co
+analyser ,0-10000 ppm & 0-no details are availablelong
+text:type:co analyserinstallation:fixed typerange:0-10000
+ppm & 0-25%working principle:nidrapplicable
+gases:coaccuracy:(+/-)0.75% reading or 0.05% o2power
+supply:220-240vac 50-60 hzoutput:4-20
+madisplay:anysampling system accessories:flange & tube
+assemblygas preparation and cndng sys:not requiredgas
+analyzer panel with:yes with ip65 protectioncalibration
+mode:zero & span
+calibrationrepeatability:nalinearity:n/azero drift:no zero
+driftspan drift:no span driftcertification:ip66 with atex
+eexd iib +h2 t6special features:with span & zer0 gas
+cylinderno details are availableadditional umc
+text:analyser, co; measuring media : co, combustibles : 0-
+1000 ppm to 0-5%(fully field-selectable via hart or loi),
+accuracy : combustibles: ± 1% f.s. when calibrated at 0-
+5000 ppm range, probe length and material : 3# (0.91m)
+inconel 600, up to 1832°f (1000°c), probe mounting
+assembly : 2# 150# ansi flange-requires a 2.5# (63.5mm)
+process hole, mounting hardware - stack side : no adapter
+plate,mounting hardware - probe side : new installation -
+square weld plate with studs, electronic housing : nema
+4x, ip66 hart communications, local operator interface,
+electronic mounting : split electronics with 12m (40#)
+cable, make : any reputed (as requirement is for
+extractive system, so, we have quoted considering safa
+area analyser module).
+1 Lot.
+24,00,000.00
+24,00,000.00
+42
+5679Y0019
+Brief desc: gas anlysr;o2 analyzer laser type 0-5 %detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;o2
+analyzer laser type ,0-5 %no details are availablelong
+text:type:o2 analyzer laser
+typeinstallation:extractiverange:0-5 %working
+principle:tdls basedapplicable gases:cog
+gasaccuracy:(+/-)0.75% reading or 0.05% o2power
+supply:24 vdcoutput:2 ao(4-20ma) & 2 do nosdisplay:4
+digit with floating dec(led)sampling system
+accessories:disel bubbler unit ss316(800mmsampling
+system accessories:water bubbler moc
+ss316(800mm)sampling system accessories:high impact
+chamber- moc ss316sampling system
+accessories:heated filtersampling system
+accessories:aovsampling system accessories:heated
+flow cell for mount s/rsampling system accessories:flow
+monitor with needle valvesampling system
+accessories:afrsampling system accessories:pressure
+1 Lot.
+28,00,000.00
+28,00,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+transmitter (dynamic)sampling system
+accessories:temperature measure (dynamic)sampling
+system accessories:junction boxsampling system
+accessories:aspiratorgas preparation and cndng
+sys:yes(smpl hndlng sys/htt-25mtr)gas analyzer panel
+with:field mount (heated flow cell)calibration mode:5 way
+ball valverepeatability:1% of the measuring
+rangelinearity:±1% of readingzero drift:no zero driftspan
+drift:no span driftcertification:atexspecial
+features:reference cell for self-monitrno details are
+availableadditional umc text:laser type gas analyzer with a
+measuring principle based on the specific light absorption
+of different gas components.explosion-protected version
+in accordance with - ex ii 2g ex de op is iic t6.led
+backlighting of display.response time (t90): less than 2
+secno details are availablecustom clarification:item
+description :extractive gas analyzer system for
+measurementof o2, before exhauster &amp;amp; after
+etp. Degree of protection : ip65, area classification:zone
+1.function of the item :sample gas cleaning, processing
+&amp;amp; o2 % measurement in cog.name of the main
+equipment where the item is used :etp &amp;amp; etp
+roomfunction of the main equipment & location of the
+main equipment :tar separation &amp;amp; gas cleaning.
+Etp room.no details are available
+43
+5679Y0020
+Brief desc: gas anlysr;online gas analyzer o2=0-25detailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;online gas analyzer ,o2=0-25no details are
+availablelong text:type:online gas
+analyzerinstallation:extractiverange:o2=0-25
+%range:co2=0-30%range:co (0-10,000 ppm)extendable
+uprange:no=0-1000ppmrange:no2=0-
+500ppmrange:nox=0-1500ppmrange:so2=0-
+1500ppmworking principle:ndir & paramagneticapplicable
+gases:o2applicable gases:co2applicable
+gases:coapplicable gases:noxapplicable gases:co2, no,
+so2accuracy:+/-0.5 %power supply:230v ac
+50hzoutput:rs485, rs232display:lcd display with key
+padsampling system accessories:sample handling
+systemgas preparation and cndng sys:sample handling
+systemgas analyzer panel with:autocalibration
+unitcalibration mode:auto and manual
+calibrationrepeatability:equal & better than
+accuracy.linearity:n/azero drift:+/- 0.25 fsspan
+drift:certification:tuv ( qal-1) or mcertsspecial
+features:panel mountingno details are availablecustom
+clarification:item description :online gas analyserfunction
+of the item :monitoring of flue gas for statutory
+requirementname of the main equipment where the item
+is used :flue gasfunction of the main equipment & location
+of the main equipment :to measure flue gas parameter as
+per pollution board requirementno details are available
+1 Lot.
+20,28,000.00
+20,28,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+44
+5679Y0010
+Brief desc: gas anlysr;oxygen analyser 0-10
+%rack/detailed desc: general instruction to vendor: last
+ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0-10 %,rack/no details are
+availablelong text:type:oxygen
+analyserinstallation:rack/panel mountedrange:0-10
+%working principle:zirconium basedapplicable gases:flue
+gasaccuracy:(+/-)0.75% reading or 0.05% o2power
+supply:110 vacoutput:4 to 20 madisplay:remote
+electronics ledsampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:autocalibration unitcalibration
+mode:automatic calibration for oxygrepeatability:(+/-)0.75
+of readinglinearity:zero drift:0.1% per monthspan drift:no
+span driftcertification:ip66 with atex eexd iib +h2
+t6special features:with span & zer0 gas cylinderspecial
+features:separate regulator for span &ospecial
+features:ansi3",150flange-rf125-aarhspecial
+features:probe len-72 inchno details are
+availableadditional umc text:process conditions:-1.
+Service: measurement of % of oxygen content in flue
+gas.2. Operating pressure: (-) 150pa to (-) 400
+pa3.operating temp: 250-350 deg c4.o2 concentration: 2
+to 7 % o2sensor:-1. Type: in situ type zirconium oxide
+based sensor2. Sensor operating temp: upto 700 deg c3.
+Probe material: ss3164. Probe length: 6 feet5. Process
+connection: flanged6. Size: ansi 3", 150# flange rf125
+aarh7. Flange material: ss flange8. Electrical connection:
+3/4"9. Calibration gas connection: 1/4"transmitter:-1.
+Type: remote electronics2. Display: remote3. Body
+material: low copper aluminum4. Enclosure(r2): ip66 with
+atex, eexd iib +h2 t6/csa/fm class i,div i, group b,c,d(r2)5.
+Electrical connection: 3/4"6. Power supply/power
+consumption(r1) : 110 vac,(+/-)10%,50 hz/360watt per
+analyzer(r1)7. Output: 4-20 ma with hart8. Range: 0-10%
+of o29. Accuracy: (+/-) 0.75% of reading or o.o5% o2,
+which ever is greater10. Response time: initial response
+11. Mounting: remote mounted suitable for horizontal/
+vertical mounting12. Repeatability: (+/-) 0.75% reading13.
+Linearity: 14. Drift: 0.1 % per month15. Cable: sensor to
+transmitter 20 mtrs cableaccessories:-1. Calibration gas
+cylinder:a. Zero gas: 10 ltrs cs cylinder with 0.4 % o2 in
+balance n2b. Span gas: 10 ltrs cs cylinder with 8 % o2 in
+balance n2c. Ss flow regulator separately for each
+cylinders.d. ss-316 1/4" tube 40 mtrs.2. Mounting
+brackets: to be provided by vendor3. Auto calibration unit:
+to be provided by vendor4. Thunder bolt surge protection
+device(r2) - to be provide by vendor.5. Self standing rack
+with ss canopy for: auto-calibration unit/ terminal box/
+span & zero cylinders/ remote display unitothers:-1.
+Calibration test certificate: to be provide by vendor.2.
+Identification plate- ss-tag plateno details are availableno
+details are availableno details are availableno details are
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+available
+45
+5679Y0005
+Brief desc: gas anlysr;oxygen analyser 0 to 10
+ppmvdetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,0 to 10 ppmvno details are
+availablelong text:type:oxygen analyserinstallation:in
+sample handling systemrange:0 to 10 ppmv o2working
+principle:galvanic fuel cellapplicable gases:hydrogen,
+nitrogenaccuracy:±2% range, 0 to 10 ppmv rangepower
+supply:24 vdcoutput:4-20 madisplay:lcd display with key
+padsampling system accessories:ndle vlv,pre
+regltr,holdr,rotmgas preparation and cndng sys:sample
+handling systemgas analyzer panel with:sample handling
+systemcalibration mode:zero & span
+calibrationrepeatability:±2% of range for 0 to 10
+ppmvlinearity:±2% (ox-1, 2, 3, 5) ±5% (ox-4)zero
+drift:negligiblespan drift:negligiblecertification:atex and
+iecexspecial features:proven galvanic fuel cell o2 s
+1 No.
+Regret
+Regret
+46
+5679A0033
+Brief desc: gas anlysr;oxygen analyser 00.0000 to
+2detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;oxygen analyser ,00.0000 to 2no details are
+availablelong text:type:oxygen analyserinstallation:stack
+and wall-mountrange:00.0000 to 20.9800%o2working
+principle:zirconium basedapplicable
+gases:oxygenaccuracy:±0.2 % or ± 5 % of readingpower
+supply:230v ac 50hzoutput:2 alarm and 4....20
+madisplay:led displaysampling system
+accessories:sample handling systemgas preparation and
+cndng sys:non-condensing samplegas analyzer panel
+with:400 x 500 x 210mmcalibration
+mode:manualrepeatability:± 0.1% of readinglinearity:±1%
+of readingzero drift:within accuracy & adjustment pspan
+drift:within accuracy & adjustment
+pcertification:requiredspecial features:no special
+featuresno details are availableadditional umc text:online
+oxygen analyser for 6mtph roller hearth bright annealing
+furnace.gas sampling fitting 700 with mk2.1+l-
+probenominal length- 700mmsensing element - l-
+probeoutput- 0-1300 mvunit to be supplied with % o2
+indication
+1 No.
+Regret
+Regret
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+47
+5679Y0018
+Brief desc: gas anlysr;gas analyzer 0-25% oxygen
+cdetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;gas
+analyzer ,0-25% oxygen, cno details are availablelong
+text:type:gas analyzerinstallation:rack/panel
+mountedrange:0-25% oxygen, co-0-4000 ppmrange:0-
+3000 ppmworking principle:ndir &
+paramagneticapplicable gases:o2applicable gases:co
+gasapplicable gases:soxapplicable
+gases:noxaccuracy:+/-0.5 %power supply:230v ac
+50hzoutput:4 nos of 4-20 ma & 2 nos dodisplay:lcd
+display with key padsampling system accessories:not
+requiredgas preparation and cndng sys:not requiredgas
+analyzer panel with:not applicalecalibration mode:auto
+and manual calibrationrepeatability:equal & better than
+accuracy.linearity:n/azero drift:+/- 0.25 fsspan drift:+/-1
+%certification:requiredspecial features:for raw coke oven
+gasno details are availableadditional umc text:gas
+analyser;type/design: on-line multi gas continuous
+monitoring at stack,no details are availableinstallation:
+panel mounting (with mounting accessories)working
+principle: ndir & paramagneticmonitoring gas:oxygen
+measurement o2: electrochemical cell (long-life)/
+paramagnetic/ zirconium (0-25%),carbon monoxide co:
+measuring range: 0-4000 ppm - ndir bench (multi-
+gas),sox: measuring range: 0-3000 ppm - ndir bench
+(multi-gas),nox: measuring range: 0-3000 ppm - ndir
+bench (multi-gas),operating temperature: + 5° to +
+55°cresponse time: less than 15 second,standard sample
+gas flow: 60 l/hpower supply: 230 vacdisplay: full graphic
+lcd display with backlit and keypadanalog output: (4-20
+ma) all measuring signals for dcs hmi operation,analog
+output signals: user configurable,digital output: 2 nos for
+alarm for dcs hmi operation (user configurable)rs485
+digital data transmission, modbus rtu or ip
+protocol,calibration mode: auto and manual
+calibrationrepeatability: equal & better than
+accuracy.certification: required; as per cpcb
+guidelinesprotection: ip 65no details are availablecustom
+clarification:item description :waste gas analyser
+systemfunction of the item :measurement of
+sox,nox,co,o2 of waste gasname of the main equipment
+where the item is used :coke oven stackno details are
+available
+1 Lot.
+24,00,000.00
+2400000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+Ex works, Goa
+Packing Charges
+Extra 2% on basic order value
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90330000
+Freight Charges
+Customer A/c
+Insurances
+Customer A/c
+Delivery
+Within 20 weeks from the date of receipt of PO
+Offer validity
+30 days.
+Quoted Price Validity
+Till 31 December 2026.
+Payment Terms
+100% payment within 45 days of stfy receipt of material
+
+Yours faithfully,
+For Adage Automation Pvt. Limited
+
+Samaresh Dey
+
+Zafar Ali
+samaresh@adage-automation.com
+
+zafar@adage-automation.com
++91 9769012864
+
++91 7856077462
+ADAGE- GOA
+
+ADAGE-GOA

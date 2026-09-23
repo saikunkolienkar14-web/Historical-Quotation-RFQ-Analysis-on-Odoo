@@ -1,0 +1,87 @@
+Quotation Number: Q25W10190
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+O2 Analyser
+26,21,692/-
+26,21,692/-
+2
+1 No
+FAT at Adage Works
+Inclusive
+Inclusive
+3
+Lumpsum Supervision of installation & commissioning
+75,000/-
+75,000/-
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+Oxygen Analyzer
+Service: Flue Gas
+Make: Ametek, USA
+Model: WDG-VC
+Mounting Location: Closed Coupled Extractive
+Hazardous Area Classification: Zone 2, IIA/IIB/IIC, T3
+Principle: dual hot-wire catalytic detectors for Coe measurement
+Enclosure Protection: IP65, NEMA 4X
+Components to be Measured: Oxygen (0-21%)
+Coe (0-2000 PPM)
+Process Conditions at sample Inlet
+-
+Temperature (Norm/Max): 1050/1202 Degree C
+-
+Pressure (Norm/Max): -3/-8 mmH2O
+Probe Type/Length: MOC: Hexoloy/ 4 Feet
+-
+4’’ 150 Flange connection
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+Analyzer Output:
+-
+4-20 mA Analog output – 3 nos (O2, Coe, Temp.)
+-
+Alarms 5 independent, NO alarms. Set relays to energize or de-energize
+on alarm (One Service Alarm, One Data valid Alarm. Remaining alarms
+can be set to oxygen, combustibles.)
+-
+RS485 Modbus Serial Output
+Air requirements: 3 SCFH typical at 3 to 6 psig, instrument air.
+Utilities Required:
+-
+Power Input: 110 VAC UPS Power supply,
+-
+power consumption is 815 VA
+-
+Instrument Air, free of Oil & Dust
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+2
+FAT at Adage Factory
+1 No
+Quoted
+3
+Supervision of intallation & commissioning
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA

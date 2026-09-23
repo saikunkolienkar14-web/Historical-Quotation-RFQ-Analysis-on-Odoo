@@ -1,0 +1,954 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+ADAGE QUOTE REF:
+Q25W10172R2 DATED : 03.03.2026
+BID TYPE : Firm
+PROJECT TITLE:
+Supply of Oxygen/Combustion Analyser for Phoenix project
+INQUIRY DETAILS:
+Enquiry received via mail dated : 24.05.2025
+CUSTOMER:
+
+Kind Attention : Ms Sanghapriya Mahale
+JNK India
+
+END USER:
+
+PENGARANG BIOREFINERY
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: Summary Of Prices
+SECTION-2: Technical Literature
+SECTION-3: Scope Matrix
+SECTION-4: Commercial Terms & Condition
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr Tejas Rivonkar
+ADAGE AUTOMATION PVT LIMITED
+Mob: +91 9284270984
+tejas@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introduce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+O2 + COe Analyser (A39-001-AT-2000)
+
+60,15,000
+
+60,15,000
+2
+1
+O2 + COe Analyser (A39-001-AT-2001)
+60,15,000
+60,15,000
+3
+1
+O2 + COe Analyser (A39-002-AT-2100)
+60,15,000
+60,15,000
+4
+1
+O2 + COe Analyser (A39-051-AT-2200)
+60,15,000
+60,15,000
+5
+1
+Project Documentation
+Incl
+Incl
+6
+1
+FAT at Adage Factory
+Incl
+Incl
+7
+1
+Packing & forwading charges
+1,00,000
+1,00,000
+8
+Per
+Diem
+Supervision of installation & Commissioning
+(VISA, Air tickets, local boarding & Lodging shall be in
+Customer’s scope)
+$ 2,200
+
+$ 2,200
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 2: TECHNICAL LITERATURE
+
+1
+PROCESS CONDITIONS
+TAG NO: A39-001-AT-2000
+-
+Operating Pressure (Nor): -0.00025 Kg/cm2g
+-
+Operating Temperature (Nor): 758 Degree C
+Service: Flue Gas
+
+As per MR
+Requirement
+1.1
+Oxygen & Combustible Analyser
+Make: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+(Closed Couple Type)
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia for O2
+Dual hot-wire catalytic detectors for Combustion
+Rating: IP65
+Measuring range:
+O2: 0-10 vol%
+COe: 0-2000 ppmv
+
+Process Connection: 4" 150# Flanged
+Probe Type:
+-
+MOC: Inconel 600
+-
+4" 150# Flanged connection
+
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+
+Air requirements:
+-
+0.085 Nm3/h typical at 21 to 41 kPa, instrument air.
+
+Utilities Required:
+-
+Power Input: 230 VAC,50Hz, power consumption is 800VA.
+
+Analyzer Outputs:
+-
+With 4-20 mA Analog output.
+-
+Potential free contacts for fault
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Note:
+Local Indicator For O2 shall be 0-100% & for COe shall be 0-10000 ppm
+1.2
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+-
+RCU unit for Auto/Manual calibration with SOV & metal tube
+flowmeter (Flow: 0.06 Nm3/hr Pressure: 98 Kpa).
+-
+With HMI (Suitable for Zone-2) IECex certified, Make Ametek.
+-
+With electrical Power JB, MOC: LM6
+-
+Separate Analog & Digital Signal JB, MOC: SS316
+-
+6 mm SS316 Tubing between RCU unit and Analyzer Sensor. (80
+meters for calibration + 80 meters for aspirator)
+-
+10L O2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+-
+10L Coe+H2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+
+Notes: All the Signal & Power cables shall be in JNK’s Scope.
+
+Note :
+-
+Instrument air of flange size: 1” 150#RF, at sensor unit on stack
+for purging shall be provided by customer.
+-
+4-20Ma Analog output from sensor unit at stack till DCS/Control
+room in customer’s scope.
+-
+230 VAC 50Hz power supply shall be provided till RCU unit at
+grade level, further cabling upto sensor unit at stack shall be in
+JNK scope of supply.
+
+1 No
+Quoted
+2
+PROCESS CONDITIONS
+TAG NO: A39-001-AT-2001
+-
+Operating Pressure (Nor): -0.00025 Kg/cm2g
+-
+Operating Temperature (Nor): 758 Degree C
+
+Service: Flue Gas
+
+As per MR
+Requirement
+2.1
+Oxygen & Combustible Analyser
+Make: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+(Closed Couple Type)
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia for O2
+Dual hot-wire catalytic detectors for Combustion
+Rating: IP65
+Measuring range :
+O2: 0-10 vol%
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+COe: 0-2000 ppmv
+
+Process Connection: 4" 150# Flanged
+Probe Type :
+-
+MOC: Inconel 600
+-
+4" 150# Flanged connection
+
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured
+-
+value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+
+Air requirements:
+-
+0.085 Nm3/h typical at 21 to 41 kPa, instrument air.
+
+Utilities Required:
+-
+Power Input: 230 VAC,50Hz, power consumption is 800VA..
+
+Analyzer Outputs:
+-
+With 4-20 mA Analog output.
+-
+Potential free contacts for fault
+Note:
+Local Indicator For O2 shall be 0-100% & for COe shall be 0-10000 ppm
+
+2.2
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+-
+RCU unit for Auto/Manual calibration with SOV & metal tube
+flowmeter (Flow: 0.06 Nm3/hr Pressure: 98 Kpa).
+-
+With HMI (Suitable for Zone-2) IECex certified, Make Ametek.
+-
+With electrical Power JB, MOC: LM6
+-
+Separate Analog & Digital Signal JB, MOC: SS316
+-
+6 mm SS316 Tubing between RCU unit and Analyzer Sensor. (80
+meters for calibration + 80 meters for aspirator)
+-
+10L O2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+-
+10L Coe+H2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+
+Notes: All the Signal & Power cables shall be in JNK’s Scope.
+
+Note :
+-
+Instrument air of flange size: 1” 150#RF, at sensor unit on stack
+for purging shall be provided by customer.
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+-
+4-20Ma Analog output from sensor unit at stack till DCS/Control
+room in customer’s scope.
+-
+230 VAC 50Hz power supply shall be provided till RCU unit at
+grade level, further cabling upto sensor unit at stack shall be in
+JNK scope of supply.
+
+3
+PROCESS CONDITIONS
+TAG NO: A39-002-AT-2100
+-
+Operating Pressure (Nor): -0.00025 Kg/cm2g
+-
+Operating Temperature (Nor): 756 Degree C
+
+Service: Flue Gas
+
+As per MR
+Requirement
+3.1
+Oxygen & Combustible Analyser
+Make: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+(Closed Couple Type)
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia for O2
+Dual hot-wire catalytic detectors for Combustion
+Rating: IP65
+
+Measuring range :
+O2: 0-10 vol%
+COe: 0-2000 ppmv
+
+Process Connection: 4" 150# Flanged
+
+Probe Type :
+-
+MOC: Inconel 600
+-
+4" 150# Flanged connection
+
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured
+-
+value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+
+Air requirements:
+-
+0.085 Nm3/h typical at 21 to 41 kPa, instrument air.
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Utilities Required:
+-
+Power Input: 230 VAC,50Hz, power consumption is 800VA.
+
+Analyzer Outputs:
+-
+With 4-20 mA Analog output.
+-
+Potential free contacts for fault
+Note:
+Local Indicator For O2 shall be 0-100% & for COe shall be 0-10000 ppm
+3.2
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+-
+RCU unit for Auto/Manual calibration with SOV & metal tube
+flowmeter (Flow: 0.06 Nm3/hr Pressure: 98 Kpa).
+-
+With HMI (Suitable for Zone-2) IECex certified, Make Ametek.
+-
+With electrical Power JB, MOC: LM6
+-
+Separate Analog & Digital Signal JB, MOC: SS316
+-
+6 mm SS316 Tubing between RCU unit and Analyzer Sensor. (80
+meters for calibration + 80 meters for aspirator)
+-
+10L O2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+-
+10L Coe+H2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+
+Notes: All the Signal & Power cables shall be in JNK’s Scope.
+
+Note :
+-
+Instrument air of flange size: 1” 150#RF, at sensor unit on stack
+for purging shall be provided by customer.
+-
+4-20Ma Analog output from sensor unit at stack till DCS/Control
+room in customer’s scope.
+-
+230 VAC 50Hz power supply shall be provided till RCU unit at
+grade level, further cabling upto sensor unit at stack shall be in
+JNK scope of supply.
+
+1 No
+Quoted
+4
+PROCESS CONDITIONS
+TAG NO: A39-051-AT-2200
+-
+Operating Pressure (Nor): -0.00025 Kg/cm2g
+-
+Operating Temperature (Nor): 789 Degree C
+
+Service: Flue Gas
+
+As per MR
+Requirement
+4.1
+Oxygen & Combustible Analyser
+fMake: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+(Closed Couple Type)
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia for O2
+Dual hot-wire catalytic detectors for Combustion
+Rating: IP65
+Measuring range :
+O2: 0-10 vol%
+COe: 0-2000 ppmv
+
+Process Connection: 4" 150# Flanged
+
+Probe Type :
+-
+MOC: Inconel 600
+-
+4" 150# Flanged connection
+
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured
+-
+value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+
+Air requirements:
+-
+0.085 Nm3/h typical at 21 to 41 kPa, instrument air.
+
+Utilities Required:
+-
+230 VAC,50Hz, power consumption is 800VA.
+
+Analyzer Outputs:
+-
+With 4-20 mA Analog output.
+-
+Potential free contacts for fault
+Note:
+Local Indicator For O2 shall be 0-100% & for COe shall be 0-
+10000 ppm
+4.2
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+-
+RCU unit for Auto/Manual calibration with SOV & metal tube
+flowmeter (Flow: 0.06 Nm3/hr Pressure: 98 Kpa).
+-
+With HMI (Suitable for Zone-2) IECex certified, Make Ametek.
+-
+With electrical Power JB, MOC: LM6
+-
+Separate Analog & Digital Signal JB, MOC: SS316
+-
+6 mm SS316 Tubing between RCU unit and Analyzer Sensor. (80
+meters for calibration + 80 meters for aspirator)
+-
+10L O2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+-
+10L Coe+H2 in N2 Calibration Gas with regulators and necessary
+accessories required for FAT.
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+Notes: All the Signal & Power cables shall be in JNK’s Scope.
+
+Note :
+-
+Instrument air of flange size: 1” 150#RF, at sensor unit on stack
+for purging shall be provided by customer.
+-
+4-20Ma Analog output from sensor unit at stack till DCS/Control
+room in customer’s scope.
+-
+230 VAC 50Hz power supply shall be provided till RCU unit at
+grade level, further cabling upto sensor unit at stack shall be in
+JNK scope of supply.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: SCOPE DEFINITION
+
+Scope Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer
+Yes
+
+2
+Sample Tapping Nozzle Flange
+
+Yes
+3
+Supply of start-up and commissioning spares if any
+-
+4
+Inspection, Testing, FAT, Project Management & Project Documentation
+Yes
+
+5
+Factory Acceptance Test at Adage Works
+Yes
+
+6
+Packing & Forwarding charges
+Yes
+
+7
+Freight & Transportation charges
+
+Yes
+8
+Storage of supplied system at site
+
+Yes
+9
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+
+Yes
+10
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+
+Yes
+11
+4-20mA, RS485 from sensor unit at stack to DCS
+
+Yes
+12
+Supervision of Installation and Commissioning – Per diem
+(VISA, Air tickets, local boarding & Lodging shall be in Customer’s scope)
+Yes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 4: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+Ex Works
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Customer’s scope
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 06 months from the date of PO
+Offer validity
+90 days.
+Payment Terms
+Shall be discussed during Commercial Negotiations.
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or 18
+months from the date of dispatch whichever is earlier.
+
+JNK requirement
+Adage Remarks
+1
+Ametek WDG VC Analyser
+Ametek
+Ametek
+2
+HMI Amevision
+Ametek
+Ametek
+3
+RCU enclosure
+Not Specified
+Hoffman
+4
+Solenoid Valve
+ASCO, Herion, Lucifer, Maxseal, Norgren
+Asco
+5
+Flow meter
+merson. Krohne, Yokogawa, TokyoKieso
+Krohne
+6
+SS Tube Fittings
+Swagelok
+Swagelok/Hoke
+7
+SS Tubes
+Swagelok
+Sandvik
+8
+AFR
+Not Specified
+Norgren
+9
+Analog JB
+Atec M &E, Cooper Crusoe, Cort-em, Interstate,
+Power Technologis, RS components, YES Electric
+Phoneix Mecano / Rose /Power Technologis, RS
+components
+10
+Power Distribution Panel
+Atec M&E, Cooper Crusoe, Cortem, Emerson
+(ATX), Feam, Italsmea, Power Technologies, R.
+Stahl, Rose, Bartec
+Cortem / Rose / Bartec / Rstahl
+11
+With Calibration Cylinders in 2 sets for FAT
+Not Specified
+Inox
+12
+Signal cable
+Hi Essence, Southern Cable, Cables & Controls
+Engineering
+JNK Scope
+13
+Power Cable
+Hi Essence, Southern Cable, Cables & Controls
+Engineering
+JNK Scope
+14
+Terminal Block
+ABB, Rittal, Stahl, Wago, Weidmuller, Phoenix
+Phoenix Contact/ Wago / Connectwell
+15
+MCB
+Not Specified
+Siemens / L&T / Schneider
+16
+Cable Gland
+CMP, Hakwe
+Comet
+Sr. No.
+Item Description
+MAKE
+
+Pg no.
+Sr.No
+Customer Comments
+Adage Confirmation Dated 03.03.2026
+1
+Typical.
+Tag No Philosophy
+(QE for sensor / QT for HIMI/Control unit)
+A39-QE-XXXX
+A39-QT-XXXX
+Noted, Shall be followed in DDE drawings.
+2
+Please follow the approved vendor list for components.
+AVL
+-1.Tubing & Fitting : Swagelok
+-2. Solenoid valve : ASCO, Herion, Lucifer, Maxseal, Norgren
+-3. Rota-meter : Emerson. Krohne, Yokogawa, TokyoKieso
+-4.Signal Junction Box :
+Atec M &E, Cooper Crusoe, Cort-em, Interstate, Power Technologis, RS components, YES Electric
+-5.Cable Galand : CMP, Hakwe
+-6.Terminal Block : ABB, Rittal, Stahl, Wago, Weidmuller, Phoenix
+-7.Surge protector : Eckhardt, MTL, Omron. P&F, Ronan
+-8.Power Junction Box
+Atec M&E, Cooper Crusoe, Cortem, Emerson (ATX), Feam, Italsmea, Power Technologies, R. Stahl, Rose, Bartec
+-9.Cable
+Hi Essence, Southern Cable, Cables & Controls Engineering
+1. Noted for fittings, however for tubing sandvik make is considered
+2. Noted
+3. Noted
+4. SJB make shall be Rose / phoneix Mecano.
+5. Noted
+6. Noted
+7. Shall be part of PDP.
+8. Noted
+9. Cables shall be in the scope of JNK
+3
+Typical.
+Tag No Philosophy
+(QE for sensor / QT for HMI/Control unit)
+A39-QE-XXXX
+A39-QT-XXXX
+Noted, Shall be followed in DDE drawings.
+4
+Typical.
+All components shall be provide the Explosion proof type and grade.
+- Sensor / Probe Unit
+- Controller/ HMI Unit
+- RCU (Remote Calibration Unit)
+- Solenoid valve for calibration - if possible
+- Junction box for signal
+- Junction box for power
+- Power selector switch
+- SPD for power - if possible.
+- SPD for signal
+- Cable gland / Cable plug
+- Any other electrical items.
+Noted, Explosion proof type shall be provided wherever applicable.
+5
+Probe Length shall be check with JNKI.
+Point related to JNK
+6
+Flow : Nm3/hr
+Pressure : Kpa
+The Rotameter shall be applied the Metal tube type.
+This Instrument air flow which is directly going to the Analyser &
+hence no external rotameter is required.
+7
+Solenoid valve :
+Exd IIC, IP66, low power consumption (max3.6W)
+316SS Body, Class H (coil insulation)
+Noted
+8
+Flow : Nm3/hr
+Pressure : Kpa
+The Rota-metershall be applied the Metal tube type.
+Flow: 0.06 Nm3/hr
+Pressure: 98 Kpa
+Noted for calibration line rotameter
+9
+SS316L Tubing
+- SS316 Double compression fitting.
+Noted
+10
+Explosion proof type shall be specified.
+Noted wherever applicable
+11
+Junction Box : SS316L
+Noted
+12
+The cable shall be follow the cable specification. (for field cable (sensor to HMI/controller))
+- Power Cable : '3C x 2.5 mm2, CU-MGT-XLPE-PVC/LZSH-SWA-PVC/LZSH
+Outer sheath : Orange
+- Signal Cable : PE-OS-PE-SWA-PVC (1P x 1.0sqmm)
+Outer sheath : Black / inner Sheath : +(White) / - (Black)
+Noted for Power and signal cable and same shall be in JNK scope as
+standard power and signal cable shall be provided by M/S JNK.
+13
+Please check the purpose of communication cable.
+If the cable is applied for Modbus Tx/RX, It is not required.
+Noted, as it is not applicable same shall be not be considered
+14
+Specified the calibration gas purity.
+The same can be provided during DDE after order.
+15
+COe : 1800 ppm or over.
+Noted
+16
+IA Tie-in point : 1"_150#
+Noted
+17
+230VAC 50Hz
+Noted
+18
+1. Surge protector (for power / for signal) are required.
+- 2. All cable glands shall be dual certified to Ex d/e with Nickel plated brass.
+- 3. Wake Frequency shall be provided for probe.
+- 4. JNK will supply only one feeder.
+5. The separation of power between the HMI/Controller and the Sensor shall be considered by the Vendor with
+power switch.
+1. Surge Protector shall be provided for Power Junction box only as
+signal Junction boxes are isolated from Power supplies.
+2. Noted
+3. As this is very low pressure service, wake freq. calculation is not
+applicable.
+4. Noted
+5. Noted same shall be taken care by Adage, However all the cables
+shall be in JNK scope.
+19
+Typical.
+Same as A39-QT-2000
+Noted
+11
+20
+- Datasheet (as per JNK provide format)
+- Document of analyzer
+included Drawing (GA, Schematic, Wiring, Tubing, with BOM), Catalog, Explosion proof certificate and SIL
+certificate.
+- FAT procedure.
+- ITP
+- etc.
+Noted
+3
+4
+5

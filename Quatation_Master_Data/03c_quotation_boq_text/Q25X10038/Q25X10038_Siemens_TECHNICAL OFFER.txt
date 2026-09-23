@@ -1,0 +1,194 @@
+Quotation Number: Q25X10038
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Price (INR)
+1
+1 Stream Gas Chromatograph
+Tag No: AT2603
+Service1: Deisohexanizer side draw pumps discharge
+MODEL: Maxum ll
+MAKE: Valmet
+Hazardous Area Classification: CSA C/US - Class I, Division 2,
+Groups B, C & D
+Type: TCD Detector
+CT time: 18 Minute
+Measurement range
+Process Conditions
+-
+Supply Pressure (Operating): 7.2 Kg/cm2g
+-
+Temperature (Operating): 105°C
+Return Details:
+-
+Sample Return to: Spend sample to Open Drain
+-
+Fastloop Return condition : 3.4 Bar
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+1.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: SS316 with welded isolation valve
+1 No
+Quoted
+1.1b
+Sample Transportation Line
+-
+1/2’’ OD SS316 Tube
+50Meter
+Quoted
+1.1c
+Sample Handling system as below:
+-
+Sample handling system shall be is as per below schematic
+1 Set
+Quoted
+1.1d
+Carrier Gas auto change over unit
+•
+MS skid with Cylinder Auto Change over unit for above Gaas
+chromatograph
+•
+Provision for storing 6 Cylinders
+1 Set
+Quoted
+1.1e
+CRCA Cabinet with Panel Air conditioner Assembly
+•
+CRCA painted Cabinet of size 2100mmX1000mmX800mm
+•
+With Canopy
+•
+With UPS and Non-UPS Power supply PDP’s suitable for
+Class 1 Div 2
+•
+With Signal JB’s
+•
+With Utility Headers
+•
+With Non Redundant Ex-Proof Cabinet Air conditioner Unit
+1 Set
+Quoted
+1.1f
+Supply of Calibration and Carrier Gas cylinders for FAT
+1 Set
+Quoted
+S.N.
+Item Description
+Qty.
+Price (INR)
+2
+1 Stream Gas Chromatograph
+Tag No: AT2604
+Service1: Deisohexanizer overhead pumps discharge
+MODEL: Maxum ll
+MAKE: Valmet
+Hazardous Area Classification: CSA C/US - Class I, Division 2,
+Groups B, C & D
+Type: FID Detector
+CT time: 16 Minute
+Measurement range
+Process Conditions
+-
+Supply Pressure (Operating): 14.7 Kg/cm2g
+-
+Temperature (Operating): 59°C
+Return Details:
+-
+Sample Return to: Spend sample to Open Drain
+-
+Fastloop Return condition : 1.4 Bar
+Analyzer Communication
+-
+4-20 mA Analog output
+-
+Modbus RS 485 Serial output
+-
+Digital Outputs
+1 No
+Quoted
+2.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: SS316 with welded isolation valve
+1 No
+Quoted
+2.1b
+Sample Transportation Line
+-
+1/2’’ OD SS316 Tube
+50Meter
+Quoted
+2.1c
+Sample Handling system as below:
+-
+Sample handling system shall be is as per below schematic
+1 Set
+Quoted
+2.1d
+Carrier Gas auto change over unit
+•
+MS skid with Cylinder Auto Change over unit for above Gas
+chromatograph
+•
+Provision for storing 6 Cylinders
+1 Set
+Quoted
+2.1e
+CRCA Cabinet with Panel Air conditioner Assembly
+•
+CRCA painted Cabinet of size 2100mmX1000mmX800mm
+•
+With Canopy
+•
+With UPS and Non-UPS Power supply PDP’s suitable for
+Class 1 Div 2
+•
+With Signal JB’s
+•
+With Utility Headers
+•
+With Non Redundant Ex-Proof Cabinet Air conditioner Unit
+1 Set
+Quoted
+2.1f
+Supply of Calibration and Carrier Gas cylinders for FAT
+1 Set
+Quoted
+3
+Supervision of installation & commissioning
+Per Diem
+Quoted
+4
+Packing & Forwarding charges
+1 No
+Quoted
+5
+Transportation up to Site charges
+1 No
+Quoted
+6
+Project documentation
+1 No
+Quoted
+7
+FAT at Goa works
+1 No
+Quoted
+8
+Training at Goa works
+1 No.
+Quoted

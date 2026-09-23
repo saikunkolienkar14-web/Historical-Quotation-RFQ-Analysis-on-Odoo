@@ -1,0 +1,97 @@
+Quotation Number: Q2605N040R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr.No.
+Description
+Qty.
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+Gas analyser system for biogas application
+Number of sample points: 1
+Sample point 1: CH4, CO2, O2, H2S
+Sample handling system comprising of:
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Make: Union AG Germany
+Multi-Gas Analyser INCA4002
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Measuring range: 0–100 vol %
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Measuring range:0–100 vol%
+Oxygen (O2) (Measuring Principle: EC)
+Measuring range:0–25 vol.%
+Hydrogen Sulphide (H2S) (Measuring Principle: EC-μPulse):
+Measuring range: 0–10000 PPM
+•
+Kind of Gas: Biogas
+•
+Power supply 230VAC, 50 Hz
+•
+Signal output Modbus TCP/IP
+(For details, please refer the P&ID and Bill of materials).
+Note:
+1) Please note that the quoted analyser system is for safe area.
+2) The gas analyser and the SHS shall be mounted on a free-standing
+open rack.
+3) The sample gas transportation tubes from the sampling point to
+the rack shall be in customer’s scope.
+4)Please note the Modbus TCP/IP output signal shall be available in
+the analyser rack only. Further data logging, connectivity,
+transmission, remote monitoring etc along with the cables,
+hardware, software etc shall be in customer’s scope.
+1 Set
+35,21,000
+35,21,000
+2
+Gas analyser system for biogas application (with H2 measurement)
+Number of sample points: 1
+Sample point 1: CH4, CO2, O2, H2S, H2
+Sample handling system comprising of:
+•
+Sample Isolation Valve.
+•
+Coalescing Filter, Pressure regulators.
+•
+Calibration Cylinder with Pressure Regulator.
+Make: Union AG Germany
+CAM INCA
+For Measurement of
+Methane (CH4) (Measuring Principle: NDIR)
+Carbon Dioxide (CO2) (Measuring Principle: NDIR)
+Oxygen (O2) (Measuring Principle: EC)
+Hydrogen Sulphide (H2S) (Measuring Principle: EC-μPulse)
+Hydrogen (H2)
+•
+Kind of Gas: Biogas
+•
+Power supply 230VAC, 50 Hz
+•
+Signal output Modbus TCP/IP
+(For details, please refer the P&ID and Bill of materials).
+Note:
+1) Please note that the quoted analyser system is for safe area.
+2) The gas analyser and the SHS shall be mounted on a free-
+standing open rack.
+3) The sample gas transportation tubes from the sampling point to
+the rack shall be in customer’s scope.
+4)Please note the Modbus TCP/IP output signal shall be available
+in the analyser rack only. Further data logging, connectivity,
+transmission, remote monitoring etc along with the cables,
+hardware, software etc shall be in customer’s scope.
+1 Set
+49,15,000
+49,15,000
+3
+Service charges for supervision of Installation & Commissioning
+Lodging and boarding to be arranged by the customer. To and FRO
+charges to be claimed at actuals (ACII tier/flight).
+@30,000 Per Man Day

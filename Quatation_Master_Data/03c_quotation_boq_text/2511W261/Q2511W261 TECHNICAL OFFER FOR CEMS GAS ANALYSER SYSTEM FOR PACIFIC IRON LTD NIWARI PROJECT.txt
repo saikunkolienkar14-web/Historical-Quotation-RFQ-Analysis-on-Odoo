@@ -1,0 +1,133 @@
+Quotation Number: Q2511W261
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+SO2,NO,CO & O2 FOR CEMS
+TAG No 1: AIT-102- SO2,NO,CO
+TAG No 2: AIT-101- O2
+WITH GAS SAMPLING PROBE (FOR SAFE AREA)
+WITH PANEL PURGING FOR AUTO PROBE CLEANING
+WITH SAMPLE HANDLING SYSTEM
+WITH TOUCH SCREEN GRAPHIC COLOUR DISPLAY
+WITH IP54 PANEL
+WITH REMOTE CALIBARTION FACILITY
+WITH CALIBRATION GAS CYLINDER
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 NO
+For Sulphur Dioxide (SO2) Measurement
+For Nitric Oxide (NO) Measurement
+For Carbon Monoxide (CO) Measurement
+For Oxygen (O2) Measurement
+MAKE SIEMENS AG, GERMANY
+1 Set
+QUOTED
+QUOTED
+1.2
+PRE FABRICATED HEAT TRACE TUBE FOR SAMPLE
+GAS TRANSPORTATION (FOR SAFE AREA)
+MOC : PTFE ;
+PORT SIZE: 1⁄4’’
+POWER SUPPLY : 230 VAC 50HZ
+100
+Mtr
+QUOTED
+QUOTED
+1.3
+DUST ANALYSER
+MAKE: DURAG/ENVEA/EQUIVALENT
+(FOR SAFE AREA)
+POWER SUPPLY: 230 VAC, 50 Hz
+WITH INTERCONNECTING CABLES
+WITH FLANGE TUBING FOR ANALYSER MOUNTING
+1 Set
+QUOTED
+QUOTED
+1.4
+FLOW METER FOR MEASUREMENT OF STACK FLOW
+MULTI POINT DIFFERENTIAL PRESSURE
+MAKE: ADAGE (FOR SAFE AREA)
+WITH TEMPERATURE & PRESSURE TRANSMITTER
+FOR NORMALISATION OF READING
+1 Set
+QUOTED
+QUOTED
+1.5
+DATA CONNECTIVITY SYSTEM
+PC BASED DAS FOR SEAMLESS AND CONTINUOUS
+DATA TRANSFER FROM PLANT TO GPCB/CPCB.
+INTERNET CONNECTION WILL BE MADE AVAILABLE
+BY CUSTOMER
+WITH SPECIFICATIONS
+I3 PROCESSOR, 4 GB RAM, 500 GB HDD, CD/DVD
+COMBO DRIVE, 18.5” TFT MONITOR, USB, LAN
+PORTS, STANDARD WINDOWS OPERATING SYSTEM,
+STANDARD KEYBOARD, MOUSE WITH PAD
+MAKE: HP/LENOVO/EQUIVALENT
+1 Set
+QUOTED
+QUOTED
+2
+PORTA CABIN FOR MOUNTING CEMS
+MOC: CRCA
+WITH SPLIT AC.
+WITH INSULATION
+WITH SINGLE DOOR AND LOCK WITH LIGHTS
+COMPLETELY WIRED AND TUBED TO HOUSE THE
+CEMS GAS ANALYZER SYSTEM
+1 Set
+QUOTED
+QUOTED
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mand
+ays
+QUOTED
+QUOTED
+Note:
+1. All signal, power & communication cable is in customer scope.
+2. Instrument air free from oil, dust & moisture should be made available by customer near
+analyser panel & at sampling location for purging for CEMS.
+3. We have considered CEMS analyser system with dust, flow monitor for safe area
+application.
+4. Porta Cabin considered for mounting CEMS system is also for safe area.
+5. O2 measurement is done based on paramagnetic principle with hot extraction technology
+along with SO2,NO & CO measurement.
+6. Profinet communication from analyser panel to DCS is considered, required cables is in
+customer scope
+7. Complete process details with 100% sample gas composition is required, same to be
+provided by customer.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+•
+Power cable, signal cable is in scope of customer.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for Heat Trace Tube for Sample Gas Transportation. Any Extra tubing
+Tube would attract a price per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel
+shall be Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+•
+Air conditioner room shall be provide to mount gas analyzer system.

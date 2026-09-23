@@ -1,0 +1,59 @@
+Quotation Number: SQ2509H154
+BOQ Status: FOUND
+
+i.
+Penalty for loss of one Heat production due to item no. 10 & 20 of BOQ = Monthly
+BOQ rate of corresponding Analyser
+No. of Heats made in that month.
+ii.
+Penalty for loss of one Heat Gas Recovery due to item no.20 of BOQ =
+Monthly BOQ rate of corresponding Analyser
+No. of Heats recovered in that month.
+iii.
+Penalty for loss of one hour Gas Export due to item no.30 of BOQ =
+Monthly BOQ rate of Analyser at the outlet of Gas Holder
+No. of Hours Gas Export done during the month.
+iv.
+Penalty for non availability of analyser in one heat in RH Degasser (item no. 40 of BOQ) =
+Monthly BOQ rate of RH Degasser Analyser
+No. of total Heats treated in RH Degasser in the month.
+v.
+Heat loss of any material shotage, panelty shall be not applicable.
+vi.
+Heat loss due to any utility breakdown or power supply related issue or any component failure
+panelty shall be not applicable.
+SL. No.
+Service
+Number
+Description of the item
+Qty
+Rate
+Amount
+1
+210000582
+Maint of dry gas anlsr sys(CO,CO2,H2,O2) of Maint.of
+gas analysers and associated sampling sytems in LD
+convertor shop in SMS2
+12.000
+QUOTED QUOTED
+2
+210000583
+Maint of wet gas analyser systems(O2) of Maint.of
+gas analysers and associated sampling sytems in LD
+convertor shop in SMS2
+20.000
+QUOTED QUOTED
+3
+210000584
+Maint of anlsr at O/L gas hldr(CO,CO2,H2) of Maint.of
+gas analysers and associated sampling sytems in LD
+convertor shop in SMS2
+4.000
+QUOTED QUOTED
+4
+210000585
+Maintof anlyser at RH Degausser(CO,CO2) of Maint.of
+gas analysers and associated sampling sytems in LD
+convertor shop in SMS2
+4.000
+QUOTED QUOTED

@@ -1,0 +1,14 @@
+Quotation Number: SQ2603C023
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+PCB-2 assembly board
+1.00
+2,95,300.00
+2,95,300.00

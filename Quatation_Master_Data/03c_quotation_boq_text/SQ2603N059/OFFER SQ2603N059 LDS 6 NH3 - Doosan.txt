@@ -1,0 +1,24 @@
+Quotation Number: SQ2603N059
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR. NO.
+DESCRIPTION
+TOTAL PRICE [INR]
+1
+Repairing of Lds 6 analyzer Sr No: - N1-C8-100691
+ Replacement of PCB 1 Board.
+ Replacement of PCB 2 Board.
+ Configuration of board firmware.
+ Board Synchronization with opto module.
+ Temperature compensation.
+7,70,000/-
+SECTION 2: SUMMARY OF PRICES
+SR. NO.
+DESCRIPTION
+TOTAL PRICE [INR]
+1
+Replacement of O2 analyzer
+Ametek WDG 1210
+O2 controller
+5,75,000/-

@@ -1,0 +1,147 @@
+Quotation Number: Q24G10070R4
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit price (INR)
+Total Price (INR)
+1
+242AT 001
+Gas Chromatograph system
+1 No
+87 Lakhs
+87 Lakhs
+2
+281AT 003
+Gas Chromatograph system
+1 No
+108 Lakhs
+108 Lakhs
+3
+GCP portal software
+1 Lot
+4 lakhs
+4 lakhs
+4
+Project Documentation
+1 Lot
+Inclusive
+Inclusive
+5
+FAT at Adage Factory
+1 Lot
+Inclusive
+Inclusive
+6
+Packing forwading &
+Transportation upto Site
+charges
+1 No
+1 Lakhs
+1 Lakhs
+7
+Supervision of installation &
+commissioning
+2 GCs
+1.5 Lakhs/GC
+3 Lakhs
+8
+Commissioning spares
+(Required spares shall be
+supplied by Adage Engineer
+during commissioning)
+1 Lot
+Inclusive
+Inclusive
+9
+Mandatory spares as below.
+Qty 1 Each
+SVCM Module repairing kit
+Valve, Model 50, repair kit
+FID repairing kit
+Fuel restrictor
+Combustion air restrictor
+EPC Module
+LIV Repairing Kit
+Valco valve rotor
+Valco valve, set of Oring
+1 Lot
+10 Lakhs
+10 Lakhs
+10
+Consumable spares
+-
+LIV Seal
+1 No
+Inclusive
+Inclusive
+TOTAL PRICE
+213 Lakhs
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 242AT 001
+-
+Inlet Supply Pressure (Nor): 11 Kg/cm2
+-
+Outlet Return pressure (Nor): 9.37 Kg/cm2
+-
+Temperature (Nor): 257 Degree C
+-
+Sample Return: To Process
+Service: XYLENE COLUMN TRAY 160 LIQUID
+As per MR Requirement
+1.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting location: Inside Existing Analyser house 1
+GC Hazardous Area Classification: Zone 1, llB+H2 T3
+Sample phase: Liquid
+No of Streams: 1
+MDL:
+Para Xylene : 0.04 Mol%
+Meta Xylene : 0.16 Mol%
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.2
+Sample transportation Line for supply & Return: Existing
+shall be used
+-
+130 Meters for supply & 132 Meters for sample return
+Existing
+1.3
+Secondary Sample handling system:
+-
+Shall consist of Ball valve, pressure indicator, fastloop &
+sample inlet flowmeter with low flow switch, AOV’s, NRV,
+SRV, gas cooler, TG, Back pressure regulator etc
+-
+Din Rail mounting arrangement for GC
+-
+SHS components shall be mounted inside SS316
+enclosure (Insulated front end) and shall be mounted
+outside existing Analyser house.
+1 No
+Quoted
+1.4
+Calibration cylinder with double stage pressure regulator
+-
+For FAT, Commissioning & 1 year operation from the date
+of commissioning
+-
+Imported calibration blend with 3 year validity - 2 No
+Notes
+-
+Existing Headers, JB’s, PDB’s shall be used
+-
+Autochageover skid shall be used Existing.
+-
+Carrier gas cylinders are excluded and shall be in RIL

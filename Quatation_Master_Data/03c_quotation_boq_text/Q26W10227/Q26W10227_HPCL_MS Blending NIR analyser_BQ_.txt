@@ -1,0 +1,290 @@
+Quotation Number: Q26W10227
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit Price(INR)
+Total Price(INR)
+1
+NIR – O Analyser System
+1 Set
+4,10,00,000/-
+4,10,00,000/-
+2
+Mandatory and Startup/Commissioning spares/
+Training Requirements.
+1 Lot
+13,10,000/-
+13,10,000/-
+3
+Supervision of Installation and Commissioning &
+Model Building
+Lump
+Sum
+1,42,45,000/-
+1,42,45,000/-
+4
+Modelling Services-First Month
+1 Lot
+15,00,000/-
+15,00,000/-
+5
+Modelling Services-Second Month
+1 Lot
+15,00,000/-
+15,00,000/-
+6
+Modelling Services-Third Month
+1 Lot
+15,00,000/-
+15,00,000/-
+7
+Modelling Services-Fourth Month
+1 Lot
+15,00,000/-
+15,00,000/-
+8
+Modelling Services-Fifth Month
+1 Lot
+15,00,000/-
+15,00,000/-
+9
+Modelling Services-Sixth Month
+1 Lot
+15,00,000/-
+15,00,000/-
+10
+PWCAMC Charges for 1st year
+1 Lot
+40,00,000/-
+40,00,000/-
+11
+PWCAMC Charges for 2nd year
+1 Lot
+44,00,000/-
+44,00,000/-
+12
+PWCAMC Charges for 3rd year
+1 Lot
+48,40,000/-
+48,40,000/-
+13
+PWCAMC Charges for 4th year
+1 Lot
+53,24,000/-
+53,24,000/-
+14
+PWCAMC Charges for 5th year
+1 Lot
+58,56,400/-
+58,56,400/-
+SECTION 2: TECHNICAL LITERATURE
+1
+NIR – O Analyzer
+Model: NIR-O
+Make: Process Insights (Guided Wave)
+Hazardous Area Classification: X-Purge Zone 1, IIB+H2
+Mounting Location: Inside cabinet in existing Shelter
+-
+Controller (solid state) included Installed inside analyzer
+housing
+-
+Number of Channels: 6
+-
+Range: XNIR (1000-2100 nm)
+-
+Power Supply: 110 VAC
+-
+Temperature Management System
+-
+Communication protocol: Modbus TCP/IP included
+-
+With In-built installed Software – OmniView
+-
+With In-built Stability Monitoring System
+-
+With local Monitoring Display (21" Antiglare TFT monitor.
+Make: Samsung/HP/Dell)
+AO / DO: 10 Analog output & 2 Digital output
+Utility Details Required for Analyzer:
+110 VAC UPS: 2000 Watts
+Instrument air @5-6 kg/cm2g (Oil &water drop free)
+1 Set
+Quoted
+1.1
+Ultra-Low OH Fiber Optic Cable
+Fiber Length: 10 meters
+Core Material: Fused Silica
+Core Diameter: 500 micron
+Connectors: SMA/SMA
+Termination fee included.
+2 Nos.
+Included
+1.2
+Multi-Purpose Flow Cell (MPFC)
+Body Material: 316L Stainless Steel
+Optical Path Length: 10 mm
+Range: VIS/NIR (400-2100 nm)
+Max. Temperature: 300°C,
+Temperature is O-ring dependent
+Windows Material: Sapphire
+O-ring Material: Kalrez 6375
+1 No.
+Included
+1.3
+With Probe: Make: ADAGE
+-
+Manul welded sample probe with isolation valve
+-
+With mounting flanges, gaskets and bolts as required.
+1 No
+Included
+-
+MOC: SS316
+-
+Process Connections: 1.5”, ANSI 300#
+1.4
+With Sample and Return Tubing
+1⁄2” SS316L Tube (Supply): 90 mtrs
+1⁄2” SS316L Tube (Return): 90 mtrs
+1 Lot
+Included
+1.5
+With Redundant Fast loop pump Skid
+1 No
+Included
+1.6
+With Secondary SHS: Make: Adage
+With Dual Fast loop filter, Rotameter, etc. required for proper
+functioning of analyzer.
+SHS shall be mounted on shelter wall inside SS304 SHS box
+1 No
+Included
+1.7
+With Calibration / Validation Tank System for Multipurpose
+flow cell measurement.
+1 Nos
+Included
+1.8
+With Common Sample Recovery Tank - 200 liters and
+Pressure gauge
+1 No
+Included
+2
+Mandatory Spares:
+a. Lamp Assembly x 1 No
+b. Power Supply x 1 No
+c. Fuse Set x 1 No
+d. Flow cell O-Ring Kit x 1 No
+e. Temperature Indicator x 1 No
+f. Pressure Indicator x 1 No
+g. Filters x 1 Lot
+h. Pump O-Ring Kit x 1 No
+i.
+Ball Valve x 1 No
+j.
+Needle valve 1 No
+k. AFR x 1 No
+Startup & Commissioning spares:
+a. Lamp Assembly x 1 No
+Training:
+a. 1 Day Training at Site for 5 persons.
+1 Lot
+Quoted
+3
+Supervision of Installation and Commissioning & Model
+Building
+Note: For model building Lab NIR analyzer shall not be required.
+Lump
+Sum
+Quoted
+Adage shall develop / fine tune the model using the online NIR
+analyzer.
+4
+Model building for 6 Months
+Note: Model building charges are in addition to Sr. No 3
+6 Months
+Quoted
+5
+PWCAMC for 5 years
+5 years
+Quoted
+SECTION 3: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of start-up and commissioning spares-As per Adage recommendation
+Yes
+6
+Supply of Mandatory spares- Quoted
+Yes
+7
+Consumables spares
+-
+-
+8
+Inspection, Testing, Project Management & Project Documentation
+Yes
+9
+Factory Acceptance Test at Adage Works
+Yes
+10
+Packing forwarding
+Yes
+11
+Freight up to site including Insurance
+Yes
+12
+Storage of supplied system at site
+Yes
+13
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+14
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+15
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+16
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+17
+Training at Site
+Yes
+SECTION 4: COMMERCIAL TERMS & CONDITION
+Price Basis
+FOR Site Basis
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 08 months from the date of PO
+Offer validity
+30 days.

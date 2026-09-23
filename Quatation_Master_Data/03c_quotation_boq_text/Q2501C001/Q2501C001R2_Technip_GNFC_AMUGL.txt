@@ -1,0 +1,397 @@
+Quotation Number: Q2501C001R2
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CH4 MEASURMENT
+Service: Synthesis gas from E 7404 1/2 to E 7405
+Tag No: AT 7431
+Make: Siemens
+Model: ULTRAMAT
+Operating Principle: NDIR
+Area Classification: Suitable to Zone 2, IIC, Exp
+Mounting Location: Panel mounted inside existing Shelter
+Component to be measured: CH4
+Process Conditions at Sample Inlet:
+Tag No- AT 7431 (CH4)
+Stream No
+Pressure (bar g)
+Temperature (Deg C)
+Gas Composition
+Normal
+Design
+Normal
+Design
+3140
+159.9
+210
+154
+200
+H2- 61.91%
+3120
+164.9
+210
+82
+200
+N2- 20.67%
+3145
+158.9
+210
+102
+145
+NH3-17.49%
+Measuring Range:
+• CH4: 0 - 5%,
+With Primary sample handling system Consisting of:
+• With 3 x Single manually welded probes
+• With Dual Stage Pressure reduction
+With Secondary sample handling system consisting of:
+• With Stream Switchover Arrangment, SOVs suitable to area classification, ball valves,
+calibration cylinders and necessary bypass and vent arrangements at panel end.
+• Further distribution to flare/atm vent shall be in customers scope
+• Mounted inside IP54 rated CRCA panel.
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+41,40,000/-
+41,40,000/-
+2
+GAS ANALYSER SYSTEM FOR H2 MEASURMENT
+Service: Synthesis gas from E 7405 to E 7406
+Tag No: AT 7432
+Make: Siemens
+Model: CALOMAT
+Operating Principle: TCD
+Area Classification: Suitable to Zone 2, IIC, Exp
+Mounting Location: Panel mounted inside existing Shelter
+Component to be measured: H2
+Process Conditions at Sample Inlet:
+Tag No- AT 7432 (H2)
+Sl No
+Stream No
+Pressure (bar g)
+Temperature (Deg C)
+Gas Composition
+Normal Design
+Normal
+Design
+1
+3140
+159.9
+210
+154
+200
+H2- 61.91%
+2
+3120
+164.9
+210
+82
+200
+N2- 20.67%
+3
+3145
+158.9
+210
+102
+145
+NH3-17.49%
+Measuring Range:
+• H2: 0 - 100%
+With Primary sample handling system Consisting of:
+• With 3 x Single manually welded probes
+• With Dual Stage Pressure reduction
+With Secondary sample handling system consisting of:
+• With Stream Switchover Arrangment, SOVs suitable to area classification, ball valves,
+calibration cylinders and necessary bypass and vent arrangements at panel end.
+• Further distribution to flare/atm vent shall be in customers scope
+• Mounted inside IP54 rated CRCA panel.
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1 Set
+36,30,000/-
+36,30,000/-
+3
+GAS ANALYSER SYSTEM FOR NH3 MEASURMENT
+Service: Synthesis gas from BL to E 7405
+Tag No: AT 7433
+Make: Siemens
+Model: ULTRAMAT
+Operating Principle: NDIR
+Area Classification: Suitable to Zone 2, IIC, Exp
+Mounting Location: Panel mounted inside existing Shelter
+Component to be measured: NH3
+Process Conditions at Sample Inlet:
+Tag No- AT 7433 (NH3)
+Sl
+No
+Stream No
+Pressure (bar g)
+Temperature (Deg
+C)
+Gas Composition
+Normal Design
+Normal
+Design
+1
+3140
+159.9
+210
+154
+200
+H2- 61.91%
+2
+3120
+164.9
+210
+82
+200
+N2- 20.67%
+3
+3145
+158.9
+210
+102
+145
+NH3-17.49%
+Measuring Range:
+• NH3: 0 - 25%
+With Primary sample handling system Consisting of:
+• With 3 x Single manually welded probes
+• With Dual Stage Pressure reduction
+With Secondary sample handling system consisting of:
+• With Stream Switchover Arrangment, SOVs suitable to area classification, ball valves,
+calibration cylinders and necessary bypass and vent arrangements at panel end.
+• Further distribution to flare/atm vent shall be in customers scope
+• Mounted inside IP54 rated CRCA panel.
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1
+Set
+44,10,000/-
+44,10,000/-
+4
+GAS ANALYSER SYSTEM FOR NH3 MEASURMENT
+Service: Syngas From D-7402
+Tag No: AT-7451
+Make: Siemens
+Model: ULTRAMAT
+Operating Principle: NDIR
+Area Classification: Suitable to Zone 2, IIC, Exp
+Mounting Location: Panel mounted inside existing Shelter
+Component to be measured: NH3
+Process Conditions at Sample Inlet:
+• Temperature: 4/100 oC
+• Pressure: 157.9/210 barg
+Measuring Range:
+• NH3: 0 - 25%
+With Primary sample handling system Consisting of:
+• With Single manually welded probes
+• With Dual Stage Pressure reduction
+With Secondary sample handling system consisting of:
+• With ball valves, calibration cylinders and necessary bypass and vent arrangements at
+panel end.
+• Further distribution to flare/atm vent shall be in customers scope
+• Mounted inside IP54 rated CRCA panel.
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+1
+Set
+37,40,000/-
+37,40,000/-
+5
+SHS- Type 2A
+Tag No: AP 7421/7422/7423/7438/7462
+Area Classification: Zone 2, IIC
+Mounting Location: Plate mounted Inside Existing Shelter
+Process Conditions at Sample Inlet: (AP7421)
+• Temperature: 317/326 oC
+• Pressure: 107/120 barg
+Process Conditions at Sample Inlet: (AP7422)
+• Temperature: 291/325 oC
+• Pressure: 128.5/200 barg
+Process Conditions at Sample Inlet: (AP7423)
+• Temperature: 317/325 oC
+• Pressure: 107/120 barg
+With sample handling system consisting of:
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3
+Sets
+11,00,000/-
+33,00,000/-
+6
+SHS- Type 8
+Tag No: AP 7434/7435/7436
+Area Classification: Zone 2, IIC
+Mounting Location: Inside Existing Shelter
+Process Conditions at Sample Inlet: (AP7434)
+• Temperature: 154/200 oC
+• Pressure: 159.9/210 barg
+Process Conditions at Sample Inlet: (AP7435)
+• Temperature: 102/145 oC
+• Pressure: 158.9/210 barg
+Process Conditions at Sample Inlet: (AP7436)
+• Temperature: 82/200 oC
+• Pressure: 164.9/210 barg
+With sample handling system consisting of:
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+3
+Sets
+12,30,000/-
+36,90,000/-
+7
+SHS- Type 1A
+Tag No: AP7438/7462
+Area Classification: Zone 2, IIC
+Mounting Location: Plate mounted Inside Existing Shelter
+Process Conditions at Sample Inlet: (AP7438/7462)
+• Temperature: -10/44 oC
+• Pressure: 1.9/8 barg
+With sample handling system consisting of:
+2
+Sets
+7,85,000/-
+15,70,000/-
+8
+CONDUCTIVITY ANALYSER
+Sl No
+Tag No
+Service
+1
+AT 7424
+Continuous Blowdown from E 703(M) R
+2
+AT 7425
+BOILER FEED WATER
+Make: Forbes Marshall
+Model: AQUACON SMARTPRO 8967 EX
+Component to be measured: Conductivity
+Area Classification: Safe
+Mounting Location: Shall be rack mounted
+Measuring Ranges:
+• Conductivity: 0-100 μS/cm
+2
+Sets
+5,88,000/-
+11,76,000/-
+8.1
+CONDUCTIVITY ANALYSER
+Sl No
+Tag No
+Service
+1
+AT 7437
+COOLING WATER
+2
+AT 7461
+COOLING WATER
+Make: Forbes Marshall
+Model: AQUACON SMARTPRO 8967 EX
+Component to be measured: Conductivity
+Area Classification: Safe
+Mounting Location: Shall be rack mounted
+Measuring Ranges:
+Conductivity: 0-100 μS/cm
+2
+Sets
+3,22,000/-
+6,44,000/-
+9
+ANALYSER SHELTER WITH HVAC AND ACCESSORIES
+Size: 4 mtrs x 3 mtrs x 2.5 mtrs
+Make: Adage
+Area Classification: Zone 2 Gas Group IIC
+Shelter to mount the systems Sl No 1-8.1
+Analyzer House Design & Construction Details:
+•
+Dimensions- 4000 L X 3000 W X 3000 H mm
+•
+MOC – SS316 without paint.
+•
+Houses shall be rainproof and dustproof and shall be designed to withstand the
+environmental conditions.
+•
+House interior shall be large enough to allow adequate access and Space for
+maintenance and repair activities.
+•
+House outer sheet MOC: SS316 1.5mm thick
+•
+House inner sheet MOC: SS316 1.5mm thick
+•
+Base frame-Fabricated from MC 200mmx75mmx10mm (min.), structural carbon steel
+channel or I-beam, fully welded, Painted with zinc rich primer and PU topcoat for
+corrosion protection.
+•
+Flooring Aluminium chequered plate welded.
+•
+Insulation: PUF (polyurethane (40-kg/m3 minimum density))
+•
+Insulation Thickness shall be 50mm
+•
+Overhang canopy: 1000 mm SS316 all four sides of the House
+•
+With F&G detectors, horn & beacon, lighting, emergency lighting, power outlet for
+test equipment, Signal and power distribution box, fully integrated, wired & Tubed
+analyser House.
+•
+Cable entry to be provided in House through MCT block with 50% extra space for
+cables.
+•
+Tube entry to be provided in House through bulkhead plate
+•
+With single HVAC
+1 No
+1,10,00,000/-
+1,10,00,000/-
+9.1
+ACCESSORIES AS BELOWS:
+HVAC
+Safe Guarding Plc
+Warning Panels and Exd Distribution boxes
+Smoke Detector
+Low O2 Detector
+Lights (Exd)
+Power Sockets
+Fire Extinguisher
+1
+LOT
+INCLUSIVE
+in Sl no 9
+INCLUSIVE
+in Sl no 9
+10
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2 ”
+With all necessary accessories and JB’S
+Per
+mtr
+@3900/- PER MTR
+11
+SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄4 ”
+Per
+mtr
+@650/- PER MTR
+12
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II Train Fare to be arranged
+by Customer)
+Per
+Diem
+@45,000/- PER DIEM
+13
+MANDATORY SPARES
+1
+LOT
+42,50,000/-

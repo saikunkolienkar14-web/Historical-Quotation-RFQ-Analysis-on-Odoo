@@ -1,0 +1,235 @@
+Quotation Number: Q25N10097R5
+BOQ Status: FOUND
+
+Description
+Qty
+Price (INR)
+1
+GC Column - 1 No. each type
+1 No
+2,50,000
+2
+GC tool kit- Fix spanner set
+1 No
+15,000
+3
+Wrench hex key (Allen key set)
+1 No
+16,000
+4
+Valve repair kit
+1 No
+40,000
+5
+Fuse - 1 Set
+1 No
+4,000
+6
+Filter elements for Sample Probe
+1 No
+6,000
+7
+Gasket for valve
+1 No
+16,000
+8
+Cylinder Pressure regulator
+1 No
+45,000
+9
+Fine filter
+1 No
+22,000
+10
+Inline filter
+1 No
+26,000
+11
+Non return valve
+1 No
+15,000
+12
+Sample Flow meter
+1 No
+75,000
+13
+2-way Ball valve
+1 No
+14,000
+14
+3-way Ball valve
+1 No
+15,000
+15
+Pressure gauge
+1 No
+5,000
+16
+Bypass Flow meter
+1 No
+46,000
+17
+Auto change over regulator
+1 No
+1,20,000
+18
+FID Repair Kit
+1 No
+1,09,000
+SECTION 2: TECHNICAL LITERATURE
+1
+Ambient Gas Chromatograph with Air Treater
+Service: EDC Ambient area monitoring and EDC tank bottom leak
+detection
+Make: Valmet
+Model: Maxum ll
+Area classification: Zone 1 llB+H2 T3
+Mounting: Inside analyser cabinet
+Streams: 16
+Sample State at Tapping: Vapour,
+Sample State at Analyzer: Vapour
+Process Parameters (Op)
+-
+Sample Pressure: 1.019 Kg/cm2g
+-
+Sample Temperature: 45 Deg C
+Return Details:
+Sample Return to: ATM Vent header with flame arrestor
+Remarks: Detailed GC Configuration is enclosed as ANN-1
+1 No
+Quoted
+1.a
+Probe tube with rain protection hood – 08 No. for ambient air.
+Probe not required for tank bottom area, as confirmed by Bechtel.
+8 Nos
+Quoted
+1.b
+Field tubing (1/4” OD SS316 tube with PVC outer coated)
+Sr. No.
+Location
+Total Length (mtr.)
+1
+MT-UT192-T000501A
+235
+2
+MT-UT192-T000501B
+195
+3
+MT-UT192-T000501C
+235
+4
+MT-UT192-T000502
+195
+5
+MT-UT192-T000503A
+160
+6
+MT-UT192-T000503B
+160
+7
+MT-UT192-T000504
+140
+8
+MT-UT192-T000508
+125
+9
+Ambient air monitoring point 1a
+175
+10
+Ambient air monitoring point 1b
+160
+11
+Ambient air monitoring point 1c
+115
+12
+Ambient air monitoring point 1d
+130
+13
+Ambient air monitoring point 2a
+130
+14
+Ambient air monitoring point 2b
+200
+15
+Ambient air monitoring point 2c
+175
+16
+Ambient air monitoring point 2d
+205
+2735
+Meters
+Quoted
+1.c
+Sample Handling System
+-
+SHS shall be as per attached schematic drawing.
+-
+SHS consisting of Modular Air operated valves(with 20%
+spares), NRV, Redundant Sample pump with Timer and Relay
+logic, Cooler, Condensate monitor, Glass tube rotameters
+(Sample rotameter shall be with flow switch), filter etc.
+-
+SHS components shall be mounted outside the analyser
+Cabinet, except sample pump, cooler, LAD, Condensate
+monitor, sample rotameter & filter (as indicated in the schematic
+drawing).
+-
+Other SHS components as applicable for functioning of GC.
+1 No
+Quoted
+1.d
+Analyzer Mounting Cabinet:
+-
+Cabinet Dimensions: 1800(W) X 700(D) X 2100(H), Approx.
+MOC: CRCA (2 mm) with C5M marine coating, Canopy with 500
+mm overhang on all sides
+-
+Front Door: 2 mm thick
+-
+Side Wall: 1.5 mm thick
+-
+Panel Plinth: 2.5 mm thick
+-
+Panel Top Cover: 1.5 mm thick
+-
+Gland Plate: 1.5 mm thick
+-
+Mounting plate MOC SS316 (1.5 MM THICK).
+-
+With Ex-Proof Redundant AC, Make: Adage, MOC: CRCA with
+Siemens Logo PLC for AC change over.
+-
+With Power Distribution Box (UPS and Non-UPS), LM6 mounted
+on skid with canopy
+-
+surge protector
+-
+ASJB, DSJB, FGS JB & CSJB.
+-
+H2 detector - 1 No., Make: Honeywell, Model: XNX, Range: 0-
+500 ppm
+-
+LEL detector – 01 No., Make: Honeywell, Model: Optima Plus,
+Range: 0-100%LEL.
+1 No.
+Quoted
+1.e
+Calibration & Carrier cylinder – 2 Set
+1. During FAT
+2. Site- 6 months operation
+- 10L calibration Cylinder (Common for all streams) with double
+stage regulators
+- 47L Carrier and fuel gas cylinder (2+2) (H2 & N2) with Auto
+change over regulator and Cylinder rack with canopy.
+2 Set
+Quoted
+1.f
+Communication hardware:
+-
+Ethernet to FO converter- 2 Nos.
+-
+Patch cords – 4 Nos.
+-
+Patch Panels- 1 No.
+1 Set
+Quoted

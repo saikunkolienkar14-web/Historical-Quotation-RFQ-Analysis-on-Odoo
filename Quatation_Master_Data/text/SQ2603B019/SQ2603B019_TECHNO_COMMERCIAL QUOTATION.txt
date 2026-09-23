@@ -1,0 +1,362 @@
+Ref No.: SQ2603B019 
+Date: 
+12-03-2026 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+To, 
+
+ JSW STEEL LIMITED 
+JVML VIJAYNAGAR, TORANAGALLU, BELLARY 
+KARNATAKA - INDIA 
+REFERENCE/RFQ 
+: Email Thursday, February 26, 2026. 
+ 
+KIND ATTENTION 
+: Mr. Gurupadappa Gundakall 
+ 
+SUBJECT 
+ 
+: Technical and commercial offers 
+for CV analyser Dedicated Manpower at EMD 
+ 
+Dear Sir, 
+ 
+We thank you for your enquiry and with reference to the same, please find below our quotation for Service Engineer 
+Deputation Charges as per your requirement. 
+ 
+PART A TECHNICAL SCOPE………………………………………………………………………………………..….…PAGE 02 
+PART B SUMMARY OF PRICES…………………………………………………………………………………..….…PAGE 04 
+PART C COMMERCIAL TERMS AND CONDITION………………………………………………………..……PAGE 06 
+We hope that the above would serve your purpose, however in case of any further clarifications please feel 
+free to contact us. 
+ 
+Thanking you and assuring you our best services and attention at all times. 
+ 
+Yours faithfully, 
+FOR ADAGE AUTOMATION PVT. LIMITED 
+
+ 
+
+Samaresh Dey 
+ 
+Satya Prakash Dhaked 
+samaresh@adage-automation.com 
+ 
+dhaked@adage-automation.com 
+ 
++91 9769012864 
+ 
++91 9234146689 
+ADAGE- GOA 
+ 
+ADAGE- GOA 
+CONTACT PERSONS: 
+ 
+Mr. Rahul Sharma 
+Email: rahul@adage-automation.com 
+Mob: +91 6350 245 425 
+(Adage-Banglore) 
+ 
+Mr. Samaresh Dey 
+Email: samaresh@adage-automation.com 
+Mob: +91 97690 12864 
+(Adage-Goa-HO) 
+ 
+Mr. Satya Prakash Dhaked 
+Email: dhaked@adage-automation.com 
+Mob: + 919234146689 
+(Adage-Goa-HO) 
+
+ 
+
+Ref No.: SQ2603B019 
+Date: 
+12-03-2026 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+PART A: TECHNICAL SCOPE 
+
+Scope of Work (SOW) 
+ 
+Annual Maintenance Contract (AMC) for CV Analyzer 
+1. Objective 
+The objective of this Scope of Work is to define the services to be provided under the Annual Maintenance 
+Contract (AMC) for 36 Nos. of CV Analyzers, ensuring reliable, accurate, and uninterrupted operation 
+through preventive maintenance, quarterly full servicing, calibration, and prompt breakdown support. 
+2. Equipment Details 
+• 
+Equipment: CV Analyzer 
+• 
+Make: Union Instruments GmbH 
+• 
+Model: CWD2005 
+• 
+Quantity: 36 Nos. 
+• 
+Location: JSW Steel Ltd Vijayanagar 
+3. Scope of Services 
+The vendor shall provide Non-Comprehensive AMC services for all 36 CV Analyzers. 
+3.1 Preventive Maintenance (PM) 
+• 
+Preventive maintenance for all 36 CV Analyzers shall be fully in the scope of the vendor. 
+• 
+PM activities shall be carried out as per OEM recommendations and best industry practices. 
+• 
+Preventive maintenance shall include inspection, cleaning, checking of electrical/mechanical parts, 
+tightening of connections, performance verification, and replacement of minor consumables if 
+required. 
+• 
+Detailed preventive maintenance activities shall include: 
+1. Cleaning of Pre-Purification Unit and refilling of Water & Diesel (Diesel to be provided by 
+JSW). 
+2. Cleaning of filters, including: 
+▪ 
+Air Filter of CWD 2005 
+▪ 
+Fine Filter and Coarse Filter of PURY250E 
+
+ 
+
+Ref No.: SQ2603B019 
+Date: 
+12-03-2026 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+3. Cleaning of Burning Chamber, Thermopile, Heat Exchanger, and Burner Assembly. 
+4. Cleaning of Air Orifices and Wobbe Orifices. 
+5. Functional and operational check of CWD 2005, PURY250E, and Pump. 
+6. Complete Hardware / Software health check of the system. 
+7. Verification and setting of Digital & Analog Inputs and Outputs. 
+8. Identification of parts requiring replacement, if any (Parts to be provided by JSW). 
+9. Cleaning of Pressure Regulators and Instrument Tubing. 
+10. Checking of Gas Pressure Sensors for proper working and accuracy. 
+11. PM reports shall be submitted after each visit. 
+ 
+3.2 Quarterly Full Servicing 
+• 
+Quarterly full servicing (4 times per year) shall be carried out for each CV Analyzer. 
+• 
+Quarterly servicing shall include: 
+o Complete functional inspection of the analyzer 
+o Cleaning of analyzer components 
+o Checking and adjustment of detectors, sensors, valves, and electronic modules 
+o Verification of analyzer performance 
+o Identification and rectification of abnormalities 
+• 
+Detailed service reports shall be provided after each quarterly service. 
+3.3 Calibration Services 
+• 
+Calibration of CV Analyzers shall be carried out as per OEM standards and site requirements. 
+• 
+Calibration frequency shall be aligned with quarterly servicing or as required for reliable operation. 
+• 
+Calibration of CV Analyzer with appropriate calibration gas cylinders shall be provided by JSW. 
+• 
+Calibration certificates / records shall be provided after each calibration activity. 
+
+ 
+
+Ref No.: SQ2603B019 
+Date: 
+12-03-2026 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+3.4 Manpower Deployment 
+• 
+The vendor shall deploy: 
+o 1 Engineer 
+o 1 Helper 
+• 
+Both personnel shall be available during General Shift on all working days for routine maintenance, 
+servicing, and support. 
+• 
+The deployed manpower shall be trained and experienced on Union Instruments CV Analyzers, 
+Model CWD2005. 
+3.5 Breakdown Maintenance & Response Time 
+• 
+In case of breakdown, the vendor shall attend the issue within 1 hour of information provided by 
+JSW. 
+• 
+Breakdown calls received after General Shift shall be attended within 1 hour after information, 
+subject to site access and safety norms. 
+• 
+Breakdown maintenance shall include fault diagnosis, troubleshooting, repair, and restoration of 
+the analyzer to normal working condition. 
+• 
+No additional cost shall be charged for breakdown visits under AMC. 
+4. Spares & Consumables 
+• 
+All routine consumables and Spares shall be in the scope of JSW. 
+• 
+Calibration gases required for normal operation and calibration shall be in the scope of the vendor. 
+5. Documentation & Reporting 
+• 
+Preventive maintenance reports 
+• 
+Quarterly service reports 
+• 
+Calibration records and certificates 
+• 
+Breakdown service reports with details of fault, action taken, and downtime 
+• 
+All documents shall be submitted to JSW after completion of activities. 
+6. Health, Safety & Compliance 
+• 
+Vendor personnel shall comply with all JSW safety rules, work permit systems, and statutory 
+regulations. 
+• 
+Necessary PPE shall be used during maintenance and servicing activities. 
+
+ 
+
+Ref No.: SQ2603B019 
+Date: 
+12-03-2026 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+
+PART B: SUMMARY OF PRICES 
+
+ 
+AMC CHARGES FOR ONE YEAR CONTRACT 
+SR. NO 
+SERVICE DESCRIPTION 
+UOM 
+QTY 
+UNIT PRICE 
+TOTAL PRICE 
+1. 
+Non-Comprehensive Annual 
+Maintenance Contract for CV 
+analyser. 
+Month 
+
+12 
+ 
+Rs. 3,07,000.00 
+Rs. 36,84,000.00 
+
+ 
+SPECIAL NOTE: 
+
+ 
+
+ 
+1. 
+Working time shall be as per industrial norms i.e. 8 hrs. per day. 
+2. 
+Adage engineer shall follow all the safety rules and regulations of m/s JSW Limited. 
+3. 
+Lifting & shifting of material in m/s JSW Limited. 
+4. 
+ 
+Required man-lifter shall be arrange by m/s JSW Limited. 
+5. 
+Required supporting manpower for modification job (Civil /Mechanical /Electrical work) 
+shall be arrange by m/s JSW Limited. 
+
+ 
+
+Ref No.: SQ2603B019 
+Date: 
+12-03-2026 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+PART C: COMMERCIAL TERMS AND CONDITIONS 
+Taxes 
+Extra as applicable. 
+Offer validity 
+30 days. 
+Payment Terms 
+Within 07 Days after submission of our Invoice after Service Visit. 
+Our Bank account 
+Details are as 
+follows: 
+ 
+Our Bank Details: 
+Kotak Mahindra Bank Limited 
+Account No.: 6449378755 
+IFSC Code: KKBK0002495 
+
+Yours faithfully, 
+FOR ADAGE AUTOMATION PVT. LIMITED 
+
+ 
+
+Samaresh Dey 
+ 
+Satya Prakash Dhaked 
+samaresh@adage-automation.com 
+ 
+dhaked@adage-automation.com 
+ 
++91 9769012864 
+ 
++91 9234146689 
+ADAGE- GOA 
+ 
+ADAGE- GOA

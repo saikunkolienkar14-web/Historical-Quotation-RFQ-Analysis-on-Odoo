@@ -1,0 +1,173 @@
+Quotation Number: SQ2508N181
+BOQ Status: FOUND
+
+Date: 04-08-2025
+Ref: Q25260244-SQ2508N181
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602193
+Chopper, 1 IR Channel - Ultramat 23
+1.00
+43,935.00
+43,935.00
+1
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+100,558.00
+100,558.00
+2
+Nos
+28602046
+Detector NO Channel 1 - Ultramt 23
+1.00
+298,410.00
+298,410.00
+3
+Nos
+28602020
+Detector CO - 10 %,B25 U23
+1.00
+207,900.00
+207,900.00
+4
+Nos
+28602019
+Motherboard for Ultramat 23
+1.00
+366,247.00
+366,247.00
+5
+Nos
+28903011
+SS Filter for Kiln Probe length 250
+mm
+1.00
+29,411.00
+29,411.00
+6
+Nos
+28602015
+Plate with threaded Nuts and bolts-
+Single Component-U23
+1.00
+56,695.00
+56,695.00
+7
+Nos
+28602056
+Condensate Trap - Ultramat 23
+1.00
+13,265.00
+13,265.00
+8
+Nos
+28602054
+Cartridge Filter
+1.00
+8,663.00
+8,663.00
+9
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+9,515.00
+9,515.00
+10
+Nos
+28903020
+Ceramic Filter, Dimension:
+50-mm(OD) X 20-mm(ID) 190-mm
+(L) with Double ply
+1.00
+16,833.00
+16,833.00
+11
+Nos
+Date: 04-08-2025
+Ref: Q25260244-SQ2508N181
+28708009
+Sample Gas Pump Membrane Pump
+360 LPH 110 V AC
+1.00
+28,823.00
+28,823.00
+12
+Nos
+1.00
+58,693.00
+58,693.00
+13
+Nos
+18418014
+Tube Assembly for 3/4" BSP (M)
+Length 1500 mm X 27 mm OD x 16
+mm ID, MOC -Kanthal
+1.00
+132,940.00
+132,940.00
+14
+Nos
+18418004
+Tube Assembly for CEMS made of
+Material. 1.4401 having 3/4" BSP (M)
+Length 1200 mm, MOC SS316
+1.00
+28,417.00
+28,417.00
+15
+Nos
+1.00
+39,618.00
+39,618.00
+16
+Nos
+78409017
+Solenoid Valve 3/2 Way 1/4" BSP (F)
+24 VDC MOC SS316
+1.00
+18,630.00
+18,630.00
+17
+Nos
+78309014
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+24 VDC N.C. Pulsting, MOC Brass
+1.00
+16,871.00
+16,871.00
+18
+Nos
+18604001
+Temperature Controller - 48 X48 mm
+Digital Indicator RTD Input 1 Alarm
+Output
+1.00
+7,015.00
+7,015.00
+19
+Nos
+18918014
+O'Ring ,Size : 73mm OD x 55 mm
+IDX4mmThick (Acid filter)
+1.00
+558.00
+558.00
+20
+28708015
+Centrifugal Pump, Operating Voltage :
+220 VAC, 50 Hz, Media : Water
+28708021
+Dosing Pump, 10 RPM,110/230 V,50
+Hz
+Date: 04-08-2025
+Ref: Q25260244-SQ2508N181

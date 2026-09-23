@@ -1,0 +1,150 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total Price(INR)
+1
+Gas chromatograph (AT-4001/AT-4111)
+1
+96,00,000/-
+2
+Communication hardware
+1
+3
+SHS components (Existing shall be used)
+0
+4
+Project Engineering & Documentation
+1 Lot
+5
+Remote FAT charges at OEM works
+1 Lot
+6
+FAT at Adage Goa works
+1 Lot
+7
+Commissioning spares (As per Adage
+recommendation)
+-
+Filter element
+-
+Set of O-ring.
+-
+Set of Oring
+1 Lot
+50,000/-
+8
+2 years O&M spares as per below list.
+1 Lot
+22,00,000/-
+9
+Lumpsum charges for supervision of installation &
+commissioning.
+Lumpsum
+3,00,000/-
+OPTINAL PRICES AS BELOW:
+1
+Calibration cylinders with doubble stage regulators
+and inlet out let gauges
+Cylinder Make: Inox
+Regulator make: GO
+2 Nos
+6,00,000/-
+2
+Redundant Communication hardware to integrate with
+existing DCS and Workstation.
+This haerdware shall be same as earlier supplied
+items.
+1 Lot
+14,00,000/-
+3
+Glass tube rotameter with Switch
+Make:Krohne
+2 Nos
+2,00,000/-
+Page 4 of 11
+SECTION 2: TECHNICAL LITERATURE
+1
+Gas chromatograph
+Tag No: AT-4001/AT-4111
+Model: Maxum ll
+Make: Valmet
+Mounting: Inside existing analyser shelter
+Hazardous Area Classification: Zone 1 llB+H2, T3
+GC technical configuration is attached below under Section 4
+1 No
+Quoted
+2
+Communication Hardware
+-
+The redundant ethernet output from GC shall be connected to
+newly supplied communication box. The spare ethernet ports
+are already available.
+-
+The existing FO from newly supplied communication box will be
+utilized.
+We have considered ethernet cable from GC to communication box
+for this purpose. No additional hardware is required and hence not
+quoted.
+Shall be connected to
+newly supplied
+communication box.
+NOT QUOTED.
+3
+-
+Probe
+-
+Sample transportation line
+-
+Sample handling system
+-
+Auto changeover system
+-
+Calibration/carrier gas cylinder
+-
+Field cable for DCS connection
+Existing shall be used
+4
+Design Engineering & Project documentation
+1 Lot
+Included
+5
+Remote FAT charges at OEM works
+1 Lot
+Included
+6
+FAT at Goa works
+GC functional test (except repeatability) shall be demonstrated
+1 Lot
+Included
+7
+Commissioning spares
+-
+Filter element
+-
+Set of fuses
+-
+Set of O-ring
+1 Lot
+Quoted
+Page 5 of 11
+8
+2 years O&M spares
+Power Supply Module
+1
+Solenoid valve (SMC) for control unit (SVCM)
+1
+Valve, Model 50, repair kit
+1
+TCD detector,
+1
+Fuel restrictor
+1
+Combustion air restrictor
+1
+DPM Board
+1
+1 Lot
+Quoted
+Page 6 of 11

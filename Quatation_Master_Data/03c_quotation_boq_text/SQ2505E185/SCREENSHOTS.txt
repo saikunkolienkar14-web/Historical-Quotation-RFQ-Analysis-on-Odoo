@@ -1,0 +1,598 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+a
+_ Detals Add New , | Copy Paste Delete [[}Copy Custom Data Fiter Expand All Collapse All Hide Outline Settings
+| Line Number Description “itemType | Producti | Product Category ‘Product Category Description Required Quanity | Submitted Quanity Unit Price | Price Per Delivery Date | TolalValue —-RFx/ Response i) RFX /Response@ Internalitem Number | Estimated Rate | Currency ~
+| > Cog AMC FORONLINEGAS ANALYSER Outline EXTSER EXTERNAL SERVICES 1,000 1.000 AU 46,702,759.95 0/0 00 1 0.00 INR
+| + (0001 SUPPLY OF CONSUMABLES FORGA... Service 4009001343 nvr INCOINST-MANTIREPR 4.000.000 SET 1,925.2... 1 Froma.032026 152660800 00 = 28.825, 250.00 WR
+|» @ 0001.48 =) ANALYSERFORAMCING1OFY1 Service 4003031115. miNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From31.03.2026 —_4,990,014.90 0/0 00 3 96,258.00 INR
+| + @) 0001.ACE] ANALYSERFORAMCING30FY1 Service 4003031119 ml INCO-INST-MAINT/REPR 45.000 45.000 AU —-46,296.00 1 From 31.03.2027 2,399,984.55 0/0 010 7 46,296.00 INR
+___ + @® 0001.AD =] ANALYSER FOR AMC- Q3 IN Y2 Service 4003031125 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From31.03.2028 —2,828,597.85 0/0 00 13 54,564.00 INR
+|» GQ 0001.AE ANC ANALYSER Q3 Y3 Service 4003031782 NNT INCO-INST-MAINT/REPR 45.000 45.000 AU —46,296.00 1 From 12.11.2028 2,399,984.55 0/0 010 19 46,296.00 INR
+| + @ 0001.AF =) ANALYSER FOR AMC-Q2 OF Y1 Service 4003031117 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From31.03.2026 2, 407,449.60 0/0 00 4 46,440.00 INR
+| __=- GQ 0001. AG =) ANALYSER AMC G4 1 Service 4003031120 mv INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 5,863,104.00 0/0 010 8 113,100.00 INR
+|= @ 0001. AH =] ANALYSER FOR AMC_Q4_Y2 Service 4003031131 miN'T INCO-INST-MAINT/REPR 45.000 45.000 AU —-85,524.00 1 From 31.03.2028 4,433,564.25 0/0 010 14 85,524.00 INR
+| + @ 0001.AJ (5) AMC ANALYSERQS Y3 Service 4003031783 NNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 5,863,104.00 0/0 010 20 113,100.00 INR =
+Total Value | — 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AA Currency: IndianRupee
+Control Key: Service functional Required Quantity: 1.000 SET SET
+Item Type: Service Submitted Quantity: 1.000|/SET | SET
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 1,325,250.00 INR Per: 1 SET
+Product ID: /4003031343
+Service and Delivery
+Description: [SUPPLY OF CONSUMABLES FOR GAS ANA...
+Delivery Date: From 31.03.2026
+ltem Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGST%:|18% Gross Price: 1,325,250.00
+SAC Code: |998333 |
+Detais Add Send E-Mail Call Clear Filter Settings
+| Function _ Number | Name Phone Number
+|. Reauester RECUSFR_SRM7 |
+3) 30°C ENG 4 12:27
+Sunny Q Search (oe) | vd (O) G = © oo IN io @ 17-11-2025 &
+--- PAGE 6 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |©6 hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA = Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHU GUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+Sr lam ye
+| Detais Add New , | Copy Paste Delete [[) Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type Product ID | Product Category | Product Category Description | Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value RFx/ Response (jj) | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| > C018 AMC FOR ONLINEGAS ANALYSER —_— Outline EXTSER EXTERNAL SERVICES 1,000 1.000 AU 46,702,759.95 0/0 010 1 0.00 INR
+|_| + @@ 0001.,AA) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 MNT INCO-INST-MAINT/REPR 4.000 1.000 SET 1,325.2... 1 From 31.03.2026 —1,526,688.00 0/0 010 2 1,325,250.00 INR
+| + GH QOLAB GE] ANALYSERFORAMCING1OFY1 Service 400901115 ni INCOINST-MAINTIREPR 45.000 45.000 AU 96 258.001 From3.032026 499001490 00 = 896,258.00 WR
+| + @Q 0001.AC=) ANALYSER FOR AMC IN Q3 OF Y1 Service 4003031119 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 31.03.2027 —2,399,984.55 0/0 010 7 46,296.00 INR
+|_| + @® 0001AD—) ANALYSER FOR AMC-Q3 IN Y2 Service 4003031125 mMNT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From31.03.2028 —2,828,597.85 0/0 010 13 54,564.00 INR
+| | = @@ 0001.AE =) AMC ANALYSER Q3 Y3 Service 4003031782 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —2,399,984.55 0/0 010 19 46,296.00 INR
+| + @Q 0001.AF =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 mMNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 010 4 46,440.00 INR
+|_| = @@ 0001AG) ANALYSER AMC Q4 Y1 Service 4003031120 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 —5,863,104.00 0/0 010 8 113,100.00 INR
+| | » @@ 0001.AH—=) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 —4,433,564.25 0/0 0/0 14 85,524.00 INR
+| = @ 0001.AJ—=) AMC ANALYSER Q4 Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR a
+Total Value | 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments i Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AB Currency: IndianRupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: [Service | Submitted Quantity: 45.000| AU _| Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 96,258.00 INR Per: 1 AU
+Product ID: 4003031115
+Service and Delivery
+Description: ANALYSER FOR AMC IN Q1 OF Y1
+Delivery Date: From 31.03.2026
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*1GST%:|18% Gross Price: 96 258.00
+SAC Code: |998333 |
+Detais Add, SendE-Mal Call Clear Filter Settings
+| Function | Number | Name Phone Number
+__| + Requester RFCUSER_SRN7 |
+———eee—— EE NeeeEeGurEesRWWWQQQeeEOeeeeeeeeeeee Nees
+3) 30°C ENG aan 12:28 @@
+Sunny Q Search (oe) a 5 © ee o ~ @ Cit) 17-11-2005 ©
+--- PAGE 7 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |©6 hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHU GUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+Sr lam ye
+| Detais Add New , | Copy Paste Delete [[) Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type Product ID | Product Category | Product Category Description | Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value RFx/ Response (jj) | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| > C018 AMC FOR ONLINE GAS ANALYSER Outline EXTSER EXTERNAL SERVICES 1,000 1.000 AU 46,702,759.95 0/0 010 1 0.00 INR
+|_| + @@ 0001.,AA) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 MNT INCO-INST-MAINT/REPR 4.000 1.000 SET 1,325.2... 1 From 31.03.2026 —1,526,688.00 0/0 010 2 1,325,250.00 INR
+| | » @@ 0001.48) ANALYSER FOR AMCINQ1 OF Y1 Service 4003031115 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2026 —4,990,014.90 0/0 010 3 96,258.00 INR
+(+ QQ ODLACE] ANALYSERFORAMCING3 OF Y1 Service 4003091119 wT NCOLINST-MAINTIREPR 45.000 45.000 AU 46,296.00 1 From3io3.20z7 2,30098455 90 = 46,296.00 WR
+|_| + @® 0001AD—) ANALYSER FOR AMC-Q3 IN Y2 Service 4003031125 mMNT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From31.03.2028 —2,828,597.85 0/0 010 13 54,564.00 INR
+| | = @@ 0001.AE =) AMC ANALYSER Q3 Y3 Service 4003031782 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —2,399,984.55 0/0 010 19 46,296.00 INR
+| + @Q 0001.AF =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 mMNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 010 4 46,440.00 INR
+|_| = @@ 0001AG) ANALYSER AMC Q4 Y1 Service 4003031120 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 —5,863,104.00 0/0 010 8 113,100.00 INR
+| | » @@ 0001.AH—=) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 —4,433,564.25 0/0 0/0 14 85,524.00 INR
+| = @ 0001.AJ—=) AMC ANALYSER Q4 Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR a
+Total Value | 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments i Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AC Currency: IndianRupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: [Service | Submitted Quantity: 45.000| AU _| Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 46,296.00 INR Per: 1 AU
+Product ID: 4003031119
+Service and Delivery
+Description: ANALYSER FOR AMC IN Q3 OF Y1
+Delivery Date: From 31.03.2027
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*1GST%:|18% Gross Price: 46 296.00
+SAC Code: |998333 |
+Detais Add, SendE-Mal Call Clear Filter Settings
+| Function | Number | Name Phone Number
+__| + Requester RFCUSER_SRN7 |
+———eee—— EE NeeeEeGurEesRWWWQQQeeEOeeeeeeeeeeee Nees
+3) 30°C ENG aan 12:28 @@
+Sunny Q Search (oe) a 5 © ee o ~ @ Cit) 17-11-2005 ©
+--- PAGE 8 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |©6 hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHU GUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+Sr lam ye
+| Detais Add New , | Copy Paste Delete [[) Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type Product ID | Product Category | Product Category Description | Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value RFx/ Response (jj) | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| > C018 AMC FOR ONLINE GAS ANALYSER Outline EXTSER EXTERNAL SERVICES 1,000 1.000 AU 46,702,759.95 0/0 010 1 0.00 INR
+|_| + @@ 0001.,AA) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 MNT INCO-INST-MAINT/REPR 4.000 1.000 SET 1,325.2... 1 From 31.03.2026 —1,526,688.00 0/0 010 2 1,325,250.00 INR
+| | » @@ 0001.48) ANALYSER FOR AMCINQ1 OF Y1 Service 4003031115 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2026 —4,990,014.90 0/0 010 3 96,258.00 INR
+| + @Q 0001.AC=) ANALYSER FOR AMC IN Q3 OF Y1 Service 4003031119 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 31.03.2027 —2,399,984.55 0/0 010 7 46,296.00 INR
+|_+ @ Q00LAD =] ANALYSER FORAMC-03IN Y2 Service 4009031125 ii INGOINST-MAINTIREPR 45,000 45.000 AU 54,564.00 1 Fromat.on2028 2azaso7@s op 884 584.00 WR
+| | = @@ 0001.AE =) AMC ANALYSER Q3 Y3 Service 4003031782 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —2,399,984.55 0/0 010 19 46,296.00 INR
+| + @Q 0001.AF =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 mMNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 010 4 46,440.00 INR
+|_| = @@ 0001AG) ANALYSER AMC Q4 Y1 Service 4003031120 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 —5,863,104.00 0/0 010 8 113,100.00 INR
+| | » @@ 0001.AH—=) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 —4,433,564.25 0/0 0/0 14 85,524.00 INR
+| = @ 0001.AJ—=) AMC ANALYSER Q4 Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR a
+Total Value | 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments i Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AD Currency: IndianRupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: [Service | Submitted Quantity: 45.000| AU _| Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 54,564.00 INR Per: 1 AU
+Product ID: 4003031125
+Service and Delivery
+Description: ANALYSER FOR AMC-Q3IN Y2
+Delivery Date: From 31.03.2028
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*1GST%:|18% Gross Price: 54,564.00
+SAC Code: [998333 |
+Detais Add, SendE-Mal Call Clear Filter Settings
+| Function | Number | Name Phone Number
+__| + Requester RFCUSER_SRN7 |
+———eee—— EE NeeeEeGurEesRWWWQQQeeEOeeeeeeeeeeee Nees
+3) 30°C ENG aan 12:28 @@
+Sunny Q Search Le) a 7 @ _ i. © ain Git 17-11-2025 ©
+--- PAGE 9 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |©6 hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA = Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHU GUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+Sr lam ye
+| Detais Add New , | Copy Paste Delete [[) Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type Product ID | Product Category | Product Category Description | Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value RFx/ Response (jj) | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| > C018 AMC FOR ONLINEGAS ANALYSER —_— Outline EXTSER EXTERNAL SERVICES 1,000 1.000 AU 46,702,759.95 0/0 010 1 0.00 INR
+|_| + @@ 0001.,AA) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 MNT INCO-INST-MAINT/REPR 4.000 1.000 SET 1,325.2... 1 From 31.03.2026 —1,526,688.00 0/0 010 2 1,325,250.00 INR
+| | » @@ 0001.48) ANALYSER FOR AMCINQ1 OF Y1 Service 4003031115 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2026 —4,990,014.90 0/0 010 3 96,258.00 INR
+| + @Q 0001.AC=) ANALYSER FOR AMC IN Q3 OF Y1 Service 4003031119 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 31.03.2027 —2,399,984.55 0/0 010 7 46,296.00 INR
+|_| + @® 0001AD—) ANALYSER FOR AMC-Q3 IN Y2 Service 4003031125 mMNT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From31.03.2028 —2,828,597.85 0/0 010 13 54,564.00 INR
+(+ GB OOOLAE TE] AMCANALYSERG3_Y3 Service 4009031782 nvr INGOINST-MAINTIREPR 45.000 45.000 AU 46,296.00 1 Fromizit2028 239age4s5 0 846,296.00 WR
+| + @Q 0001.AF =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 mMNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 010 4 46,440.00 INR
+|_| = @@ 0001AG) ANALYSER AMC Q4 Y1 Service 4003031120 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 —5,863,104.00 0/0 010 8 113,100.00 INR
+| | » @@ 0001.AH—=) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 —4,433,564.25 0/0 0/0 14 85,524.00 INR
+| = @ 0001.AJ—=) AMC ANALYSER Q4 Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR a
+Total Value | 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments i Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AE Currency: IndianRupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: [Service | Submitted Quantity: 45.000| AU _| Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 46,296.00 INR Per: 1 AU
+Product ID: 4003031782
+Service and Delivery
+Description: |AMC ANALYSER Q3 Y3
+Delivery Date: From 12.11.2028
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*1GST%:|18% Gross Price: 46 296.00
+SAC Code: [998333 |
+Detais Add, SendE-Mal Call Clear Filter Settings
+| Function | Number | Name Phone Number
+__| + Requester RFCUSER_SRN7 |
+———eee—— EE NeeeEeGurEesRWWWQQQeeEOeeeeeeeeeeee Nees
+3) 30°C ENG aan 122 oe
+Sunny Q Search (oe) a 5 © ee o ~ @ Cit) 17-11-2005 ©
+--- PAGE 10 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |© hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement @.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA = Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHU GUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems | Notes and Attachments | Conditions | Summary | Tracking
+Sg lm
+| Details Add New , | Copy Paste Delete [[}Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type | Product ID | Product Category | Product Category Description Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value | RFx/ Response 0 | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| ~ C018 AMC FOR ONLINEGAS ANALYSER Outline EXTSER EXTERNAL SERVICES 4.000 1.000 AU 46,702,759.95 0/0 0/0 1 0.00 INR
+|_| + @® 0001AA) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 MNT INCO-INST-MAINT/REPR 1.000 1.000 SET 1,325.2... 1 From 31.03.2026 —1,526,688.00 0/0 010 2 1,325,250.00 INR
+| | + @@ 0001.AB) ANALYSER FOR AMCINQ1 OF Y1 Service 4003031115 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2026 — 4,990,014.90 0/0 0/0 3 96,258.00 INR
+| + @Q 0001.ACq) ANALYSER FOR AMC IN Q3 OF Y1 Service 4003031119 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 31.03.2027 —2,399,984.55 0/0 010 7 46,296.00 INR
+|_| = @@ 0001.AD—) ANALYSER FOR AMC-Q3 IN Y2 Service 4003031125 lMNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From 31.03.2028 —2,828,597.85 0/0 010 13 54,564.00 INR
+| | = @@ 0001.AE—) AMC ANALYSER Q3 Y3 Service 4003031782 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —2,399,984.55 0/0 0/0 19 46,296.00 INR
+[+ QQ QOOLAEE] ANALYSERFORAMC-G20F Y1 Service 4003091117 nvr INGOINST-MAINTIREPR 45,000 45.000 AU 46,440.00 1 From3t.032026 2407,44960 90 = 846 440.00 WR
+|_| + @@ 0001AG—) ANALYSER AMC Q4 Y1 Service 4003031120 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 31.03.2027 —5,863,104.00 0/0 010 8 113,100.00 INR
+| | = @@ 0001AH—) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 —4,433,564.25 0/0 0/0 14 85,524.00 INR
+| * @Q 0001.AJ—) AMCANALYSERQ4 Y3 Service 4003031783 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR ial
+Total Value | — 46,702,759.95 INR
+| item Data Questions i Notes and Attachments [ Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AF Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service ] Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 46,440.00 INR Per: 1 AU
+Product ID: 4003031117
+Service and Delivery
+Description: ANALYSER FOR AMC-Q2 OF Y1
+Delivery Date: From 31.03.2026
+ltem Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGST%: (18% >) Gross Price: 46 440.00
+SAC Code: [998333 |
+Detais Add, SendE-Mal Call Clear Filter Settings
+| Function | Number | Name Phone Number
+{
+__| + Requester RFCUSER_SRN7
+———eee_O EERO GEE eeee—oe_oOoee
+3) 30°C ENG - 12:29
+Sunny Q Search (oe) | vd (O) G = © oo IN io @ 17-11-2025 &
+--- PAGE 11 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |© hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement @.
+RFx Response Number 9000319994 © RFxNumber 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA © Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA — Total Value —46,702,759.95INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems | Notes and Attachments | Conditions | Summary | Tracking
+am ve
+| Details Add New , | Copy Paste Delete [[}Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type | Product ID | Product Category | Product Category Description Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value | RFx/ Response 0 | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| »~ (00016 AMC FOR ONLINEGAS ANALYSER Outline EXTSER EXTERNAL SERVICES 1.000 1.000 AU 46,702,759.95 0/0 0/0 1 0.00 INR
+|_| + @@ 0001.4A—) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 IMT INCO-INST-MAINT/REPR 1.000 1.000 SET —1,325,2... 1 From 31.03.2026 —1,526,688.00 0/0 0/0 2 1,325,250.00 INR
+| | + @@ 0001.48) ANALYSER FOR AMC IN Q1 OF Y1 Service 4003031115 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2026 —4,990,014.90 0/0 0/0 3 96,258.00 INR
+| + i 0001.AC—) ANALYSER FOR AMC IN Q3 OF Y1 Service 4003031119 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 31.03.2027 —2,399,984.55 0/0 00 7 46,296.00 INR
+|_| + @@ 0001.40) ANALYSER FOR AMC-Q3 IN Y2 Service 4003031125 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From 31.03.2028 —2,828,597.85 0/0 0/0 13 54,564.00 INR
+| | = @ 0001.4E=) AMC ANALYSER Q3 Y3 Service 4003031782 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —2,399,984.55 0/0 0/0 19 46,296.00 INR
+| + @Q 0001.AF =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 00 4 46,440.00 INR
++ GB OOOLAGT] ANALYSERANCQ4Y1 Service 4009031120 n'y INCOINST-MAINTIREPR 45.000 45.000 AU 113,100... From3.o32027 5,863,10400 0 = 883,100.00 HR
+| | + @@ 0001.AH—=) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 | 4,433,564.25 0/0 0/0 14 85,524.00 INR
+| + @ 0001.4) AMC ANALYSER G4 Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR ial
+Total Value | — 46,702,759.95 INR
+| item Data Questions i Notes and Attachments [ Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AG Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service ] Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR. Price: 113,100.00 INR Per: 1 AU
+Product ID: (4003031120
+Service and Delivery
+Description: ANALYSER AMC Q4Y1
+Delivery Date: From 31.03.2027
+ltem Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGST %: (18% | Gross Price: 113,100.00
+SAC Code: [998333 |
+Detais Add, SendE-Mal Call Clear Fiter Settings
+| Function | Number | Name Phone Number
+{
+__| + Requester RFCUSER_SRN7
+EOEEEOOOOO eee'"
+3) 30°C ENG ; 12:29
+Sunny Q Search (oe) | vd (O) G = © oo IN io @ 17-11-2025 &
+--- PAGE 12 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+@|6 https://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com..... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA = Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHU GUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+Sr lam ye
+| Detais Add New , | Copy Paste Delete [[) Copy Custom Data Filter Expand All Collapse All Hide Outline Settings
+Line Number Description | Item Type Product ID | Product Category | Product Category Description | Required Quantity Submitted Quantity Unit | Price | Price Per | Delivery Date | Total Value RFx/ Response (jj) | RFx / Response &) Internal Item Number | Estimated Rate | Currency l~
+| > C018 AMC FOR ONLINEGAS ANALYSER —_— Outline EXTSER EXTERNAL SERVICES 1,000 1.000 AU 46,702,759.95 0/0 010 1 0.00 INR
+|_| + @@ 0001.,AA) SUPPLY OF CONSUMABLES FORGA... Service 4003031343 MNT INCO-INST-MAINT/REPR 4.000 1.000 SET 1,325.2... 1 From 31.03.2026 —1,526,688.00 0/0 010 2 1,325,250.00 INR
+| | » @@ 0001.48) ANALYSER FOR AMCINQ1 OF Y1 Service 4003031115 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2026 —4,990,014.90 0/0 010 3 96,258.00 INR
+| + @Q 0001.AC=) ANALYSER FOR AMC IN Q3 OF Y1 Service 4003031119 MNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 31.03.2027 —2,399,984.55 0/0 010 7 46,296.00 INR
+|_| + @® 0001AD—) ANALYSER FOR AMC-Q3 IN Y2 Service 4003031125 mMNT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From31.03.2028 —2,828,597.85 0/0 010 13 54,564.00 INR
+| | = @@ 0001.AE =) AMC ANALYSER Q3 Y3 Service 4003031782 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —2,399,984.55 0/0 010 19 46,296.00 INR
+| + @Q 0001.AF =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 mMNT INCO-4INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 010 4 46,440.00 INR
+|_| = @@ 0001AG) ANALYSER AMC Q4 Y1 Service 4003031120 mT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 —5,863,104.00 0/0 010 8 113,100.00 INR
+|——-+ GH QOOLAH(:) ANALYSERFORAMC_Q4 Y2 Service 4009031131 /'_— = INGONST-MAINTIREPR 45.000 45.000 AU 8552400 1 From3t.032028 4,433596425 00 =k 85528.00 WR
+| = @ 0001.AJ—=) AMC ANALYSER Q4 Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0/0 20 113,100.00 INR a
+Total Value | 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments i Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AH Currency: IndianRupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: [Service | Submitted Quantity: 45.000| AU _| Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 85,524.00 INR Per: 1 AU
+Product ID: 4003031131
+Service and Delivery
+Description: ANALYSER FOR AMC_Q4_Y2
+Delivery Date: From 31.03.2028
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*1GST%:|18% Gross Price: 85,524.00
+SAC Code: [998333 |
+Details Add Send E-Mail Call Clear Fitter Settings
+| Function | Number | Name Phone Number
+__| + Requester RFCUSER_SRN7 |
+———eee—— EE NeeeEeGurEesRWWWQQQeeEOeeeeeeeeeeee Nees
+3) 30°C ENG ey 12:30 ge
+Sunny Q Search (oe) a . © g . © A IN Cth i 17-11-2025 &
+--- PAGE 13 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© | © https://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement @.
+RFx Response Number 9000319994 RFxNumber 8000050605 = Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA = RemainingTime 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA _— Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+| _-+_- @ 0001.45 =] ANALYSER FOR AMCIN G1 OF Y1 Service 4003031115 mNvT INCO-INST-MAINT/REPR 45.000 45.000 AU = 96,258.00 1 From 31.03.2026 —4,990,014.90 0/0 0 3 96,258.00 INR
+= {
+| * @Q 0001.ACE) ANALYSER FOR AMCIN Q3 OF Y1 Service 4003031119 mlvT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From31.03.2027 —2,399,984.55 0/0 00 7 46,296.00 INR
+| + @@ 0001.AD =) ANALYSER FOR AMC-Q31IN Y2 Service 4003031125 mall INCO-INST-MAINT/REPR 45.000 45.000 AU 54,564.00 1 From 31.03.2028 —2,828,597.85 0/0 0 13 54,564.00 INR
+|__+ Gi 0001.AE AMC ANALYSER 3 Y3 Service 4003031782 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,296.00 1 From 12.11.2028 —-2,399,984.55 0/0 00 19 46,296.00 INR
+| + @Q 0001.4F =) ANALYSER FOR AMC-Q20F Y1 Service 4003031117 maNvT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 0 4 46,440.00 INR
+| + @ 0001.AGE) ANALYSER AMCQ4 Y1 Service 4003031120 mil INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From31.03.2027 —5,863,104.00 0/0 00 8 113,100.00 INR
+|= GQ 0001. AH =] ANALYSER FOR AMC_Q4_Y2 Service 4003031131 mlvT INCO-INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From31.03.2028 —4,433,564.25 0/0 00 14 85,524.00 INR
+| + GQ 000LAJ =] AMCANALYSERG4 Y3 Service 4009031783 W///7 | INCONNST-MAINTIREPR = 45,000 45.000 AY 113,100, 4 From12.11.2028 5,863,10400 00 = 20 43,100.00 WR
+Total Value | — 46,702,759.95 INR
+| item Data Questions Notes and Attachments if Conditions
+Identification Currency, Values and Pricing
+* Configurable item Number: 0001.AJ Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 113,100.00 INR Per: 1 AU
+Product ID: | 4003031783 ;
+Service and Delivery
+Description: ‘AMC ANALYSER Q4 Y3
+Delivery Date: From 12.41.2028
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGsT %: [18% >) Gross Price: 113,100.00
+SAC Code: [998333 |
+Details Add Send E-Mail Call Clear Filter Settings
+| Function Number Name Phone Number
+| + Requester RFCUSER_SRM7
+_| + Bidder ADAGE AUTOMATION PVT LTD 0832-6620503
+| = Service Agent
+| + Goods Recipient RFCUSER_SRM7
+__| = Ship-To Address Bhilai Stee! Plant (Works) 2223491
+| + Location Bhilai Steel Plant (Works) 0788-2223491 1
+EE OEOEOE—E—E~E—E—E—E—E—E—E—E—EEEEEEEEEEEEEEEEOE—E—E—————EEE eG<S—T_
+3) 30°C ENG yan 12:30 @@
+Sunny Q Search (oe) | vd (O) G = © my io @ 17-11-2025 &
+--- PAGE 14 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© | © hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFxNumber 8000050605 = Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA = Opening Date 31.12.9999 14:00:00 INDIA = RemainingTime 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA — Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information Notes and Attachments Conditions Summary Tracking
+| _-=_ GQ 0001.AF ] ANALYSER FOR AMC- 2 OF Y1 Service 4003031117 miNvT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 on 4 46,440.00 INR
+= {
+| * @Q 0001.A4G) ANALYSER AMC Q4 Y1 Service 4003031120 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 31.03.2027 —_5,863,104.00 0/0 00 8 113,100.00 INR
+| + @ 0001.4H—) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 NT INCO-4INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From31.03.2028 4,433,564.25 0/0 00 14 85,524.00 INR
+| + GG 0001.AJ j=) AMC ANALYSER QS Y3 Service 4003031783 mili INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0 20 113,100.00 INR
++ GQ O00LAK(E) ANCOF ANALYSER QIY2 Service 4009031133 Wii INCONST-MANTIREPR 45,000 45,000 AU 72,780.00 1 Fromai.o3.20273,77291520 09 = 7780.00 NR
+| » @® 0001.AL=) AMC ANALYSER Q1 Y3 Service 4003031780 mall INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2028 —4,990,014.90 0/0 00 15 96,258.00 INR
+__+ Gi 0001,AM =] ANALYSER FOR AMC- 02 OF Y2 Service 4003031122. milvT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,396.00 1 From 31.03.2027 —-2,819,888.55 0/0 00 10 54,396.00 INR
+|= Gi) 0001.AN =) AMC ANALYSER G2 Y3 Service 4003031781 mlvT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2028 —2,407,449.60 0/0 on 16 46,440.00 INR iS
+Total Value | 46,702,759.95 INR
+_ item Data Questions Notes and Attachments Conditions
+Identification Currency, Values and Pricing
+* Configurable ttem Number: 0001.AK Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 72,780.00 INR Per: 1 AU
+Product ID: 4003031133
+Service and Delivery
+Description: [AMC OF ANALYSER Q1 Y2
+Delivery Date: From 31.03.2027
+ltem Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGsT %: [18% >| Gross Price: 72,780.00
+SAC Code: |998333 |
+Details Add Send E-Mail Call Clear Filter Settings
+| Function Number Name Phone Number
+| + Requester RFCUSER_SRM7
+__| + Bidder ADAGE AUTOMATION PVT LTD 0832-6620503
+| = Service Agent
+| + Goods Recipient RFCUSER_SRM7
+__| = Ship-To Address Bhilai Stee! Plant (Works) 2223491
+| = Location Bhilai Steel Plant (Works) 0788-2223491 1
+EE EOEOE—E—EOE—E—E—E—E—E—E—E—E—E—E—EEEE—E—EEEEEEEEEEEEEE—E—E—E—E—E—E—E—E—E—E—E—E——EEEE eE|
+3) 30°C ENG 12:31
+Sunny Q Search (oe) a 5 CO) ee o ary Cit) 17-11-2028 &
+--- PAGE 15 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© | © https://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement @.
+RFx Response Number 9000319994 RFxNumber 8000050605 = Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA = RemainingTime 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA _— Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+| _=_ @ 0001.AF =] ANALYSER FOR AMC. 02 OF Y1 Service 4003031117 mNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 0 4 46,440.00 INR
+= {
+| * QQ 0001.AG =) ANALYSER AMC Q4 Y1 Service 4003031120 mil INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 31.03.2027 —_5,863,104.00 0/0 00 8 113,100.00 INR
+| + @® 0001.AH—) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 mul! INCO-INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 4,433,564.25 0/0 0 14 85,524.00 INR
+|_+ GG 0001.AJ =) AMC ANALYSER Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 o0 20 113,100.00 INR
++ @Q 0001.AK =) AMC OF ANALYSER Q1 Y2 Service 4003031133 milvT INCO-INST-MAINT/REPR 45.000 45.000 AU 72,780.00 1 From 31.03.2027 3,772,915.20 0/0 0 9 72,780.00 INR
+(+ GQ O00LALE) ANCANALYSERGIY3 Service 4009031780 Wi INCONST-MANTIREPR 45,000 45,000 AU 96,258.00 1 From31.03.20284,990,01490 1 = 986.258.00 NR
+| __-+_ GQ 0001. AM(=)_ ANALYSER FOR AMC- @2 OF Y2 Service 4003031122 mNT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,396.00 1 From31.03.2027 —2,819,888.55 0/0 00 10 54,396.00 INR
+| + QQ 0001.ANE) AMC ANALYSER G2 Y3 Service 4003031781 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2028 —2,407,449.60 0/0 0 16 46,440.00 INR Iv
+Total Value | — 46,702,759.95 INR
+| item Data Questions Notes and Attachments if Conditions
+Identification Currency, Values and Pricing
+* Configurable tem Number: 0001.AL Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 96,258.00 INR Per: 1 AU
+Product ID: | 4003031780
+Service and Delivery
+Description: [AMC ANALYSER Q1Y3
+Delivery Date: From 31.03.2028
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGsT %: [18% >) Gross Price: 96 258.00
+SAC Code: [998333 |
+Details Add Send E-Mail Call Clear Filter Settings
+| Function Number Name Phone Number
+| + Requester RFCUSER_SRM7
+_| + Bidder ADAGE AUTOMATION PVT LTD 0832-6620503
+| = Service Agent
+| + Goods Recipient RFCUSER_SRM7
+__| = Ship-To Address Bhilai Stee! Plant (Works) 2223491
+| + Location Bhilai Steel Plant (Works) 0788-2223491 1
+EE OEOEOE—E—E~E—E—E—E—E—E—E—E—EEEEEEEEEEEEEEEEOE—E—E—————EEE eG<S—T_
+3) 30°C ENG yan 12:51 ge
+Sunny Q Search (oe) | vd (O) G = © my io @ 17-11-2025 &
+--- PAGE 16 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© | © https://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement @.
+RFx Response Number 9000319994 RFxNumber 8000050605 = Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA = RemainingTime 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA _— Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information tems Notes and Attachments | Conditions Summary | Tracking
+| _=_ @ 0001.AF =] ANALYSER FOR AMC. 02 OF Y1 Service 4003031117 mNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 0 4 46,440.00 INR
+= {
+| * QQ 0001.AG =) ANALYSER AMC Q4 Y1 Service 4003031120 mil INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 31.03.2027 —_5,863,104.00 0/0 00 8 113,100.00 INR
+| + @® 0001.AH—) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 mul! INCO-INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From 31.03.2028 4,433,564.25 0/0 0 14 85,524.00 INR
+|_+ GG 0001.AJ =) AMC ANALYSER Y3 Service 4003031783 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 00 20 113,100.00 INR
+| + @Q 0001.AK =) AMC OF ANALYSER Q1 Y2 Service 4003031133 milvT INCO-INST-MAINT/REPR 45.000 45.000 AU 72,780.00 1 From 31.03.2027 3,772,915.20 0/0 0 9 72,780.00 INR
+| = @ 0001.AL=) AMC ANALYSER Q1 Y3 Service 4003031780 miNT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From31.03.2028 4,990,014.90 0/0 00 15 96,258.00 INR
+em) DC | es eS Le
+| + QQ 0001.ANE) AMC ANALYSER G2 Y3 Service 4003031781 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2028 —2,407,449.60 0/0 00 16 46,440.00 INR Iv
+Total Value | — 46,702,759.95 INR
+| item Data Questions Notes and Attachments if Conditions
+Identification Currency, Values and Pricing
+* Configurable ttem Number: 0001.AM Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 54,396.00 INR Per: 1 AU
+Product ID: | 4003031122
+Service and Delivery
+Description: “ANALYSER FOR AMC- Q2 OF Y2
+Delivery Date: From 31.03.2027
+Item Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGsT %: [18% >) Gross Price: 54,396.00
+SAC Code: [998333 |
+Details Add Send E-Mail Call Clear Filter Settings
+| Function Number Name Phone Number
+| + Requester RFCUSER_SRM7
+_| + Bidder ADAGE AUTOMATION PVT LTD 0832-6620503
+| = Service Agent
+| + Goods Recipient RFCUSER_SRM7
+__| = Ship-To Address Bhilai Stee! Plant (Works) 2223491
+| + Location Bhilai Steel Plant (Works) 0788-2223491 1
+EE OEOEOE—E—E~E—E—E—E—E—E—E—E—EEEEEEEEEEEEEEEEOE—E—E—————EEE eG<S—T_
+3) 30°C ENG yan 12:51 ge
+Sunny Q Search (oe) | vd (O) G = © my io @ 17-11-2025 &
+--- PAGE 17 ---
+( Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© | © hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFxNumber 8000050605 = Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA = Opening Date 31.12.9999 14:00:00 INDIA = RemainingTime 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA — Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information Notes and Attachments Conditions Summary Tracking
+| _-=_ GQ 0001.AF ] ANALYSER FOR AMC- 2 OF Y1 Service 4003031117 miNT INCO-INST-MAINT/REPR 45.000 45.000 AU 46,440.00 1 From 31.03.2026 —2,407,449.60 0/0 on 4 46,440.00 INR
+= {
+| * @Q 0001.A4G) ANALYSER AMC Q4 Y1 Service 4003031120 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 31.03.2027 —_5,863,104.00 0/0 00 8 113,100.00 INR
+| + @ 0001.4H—) ANALYSER FOR AMC_Q4_Y2 Service 4003031131 NT INCO-4INST-MAINT/REPR 45.000 45.000 AU 85,524.00 1 From31.03.2028 4,433,564.25 0/0 00 14 85,524.00 INR
+| __+_- Gi 0001.AJ j=) AMC ANALYSER QS Y3 Service 4003031783 mili INCO-INST-MAINT/REPR 45.000 45.000 AU 113,100... 1 From 12.11.2028 —5,863,104.00 0/0 0 20 113,100.00 INR
+|= QQ) 0001.4K =) AMC OF ANALYSER a1 Y2 Service 4003031133 NT INCO-INST-MAINT/REPR 45.000 45.000 AU —-72,780.00 1 From 31.03.2027 3,772,915.20 0/0 00 9 72,780.00 INR
+| » @® 0001.AL=) AMC ANALYSER Q1 Y3 Service 4003031780 milvT INCO-INST-MAINT/REPR 45.000 45.000 AU 96,258.00 1 From 31.03.2028 —4,990,014.90 0/0 00 15 96,258.00 INR
+| _+ Gi 0001, AM =] ANALYSER FOR AMC- 02 OF Y2 Service 4003031122 MNT INCO-INST-MAINT/REPR 45.000 45.000 AU 54,396.00 1 From 31.03.2027 —-2,819,888.55 0/0 00 10 54,396.00 INR
+= Gpomanc aucanatysenae ys sere A0NDHTEN voir asm Atom rmatonms2awrawoso oo =n
+Total Value | 46,702,759.95 INR
+_ item Data Questions i Notes and Attachments Conditions
+Identification Currency, Values and Pricing
+* Configurable tem Number: 0001.AN Currency: Indian Rupee
+Control Key: Service functional Required Quantity: 45.000 AU Activity unit
+Item Type: Service Submitted Quantity: 45.000 AU Activity unit
+Product Category: IMNT INCO-INST-MAINT/REPR Price: 46,440.00 INR Per: 1 AU
+Product ID: 4003031781
+Service and Delivery
+Description: “AMC ANALYSER Q2 Y3
+Delivery Date: From 31.03.2028
+ltem Variant: PR Service Line-Alternatives not allowed
+Status and Statistics
+Further Properties
+*IGsT %: [18% >| Gross Price: 46 440.00
+SAC Code: |998333 |
+Details Add Send E-Mail Call Clear Filter Settings
+| Function Number Name Phone Number
+| + Requester RFCUSER_SRM7
+__| + Bidder ADAGE AUTOMATION PVT LTD 0832-6620503
+|= Service Agent
+| + Goods Recipient RFCUSER_SRM7
+__| = Ship-To Address Bhilai Stee! Plant (Works) 2223491
+| = Location Bhilai Steel Plant (Works) 0788-2223491 1
+EE EOEOE—E—EOE—E—E—E—E—E—E—E—E—E—E—EEEE—E—EEEEEEEEEEEEEE—E—E—E—E—E—E—E—E—E—E—E—E——EEEE eE|
+3) 30°C ENG 4 12:32
+Sunny Q Search (oe) a 5 CO) ee o ary Cit) 17-11-2025 ©
+--- PAGE 18 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© | © hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement oe.
+2Fx Response Number 9000319994 © RFxNumber 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA = Remaining Time 0 Days 01:33:24 RFx Owner 406924DIVYANSHUGUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Information ltems Notes and Attachments Conditions Summary Tracking
+Expand All Collapse All Fitter Settings
+Level Condition Type Scales ey Amount Currency Price per Price Unit Location Valid From Valid To Location Name Lo
+| ~ Header
+i . Header Service Tender % 15.20 % 17.11.2025 31.12.9999
+| __© tem 2- 4003031343 SUPPLY OF CONSUMABLES FOR GAS ANALYSER
+i . Price(ContractBid) 1,325,250.00 indian Rupee 1 SET 17.11.2025 31.12.9999
+| ___> tem 3 - 4003031115 ANALYSER FOR AMCIN Qt OF Y1 Y
+eeE
+3) 30°C .~ ENG 4 12:32 @
+Sunny Q Search le) "I bd (O) G Ll © DD hn IN Ch > 17-11-2025 &
+--- PAGE 19 ---
+(C Response - SAP NetWeaver Portal - Work - Microsoft Edge _ Oo x
+© |©6 hittps://eproc.sail-bhilaisteel.com/irj/portal?NavigationTarget=pcd:portal_content/com.sap.pct/specialist/com.sap.pct.srm.srm70/com.sap.pct.srm.fl_ehp1/com.sap.pct.srm.srm70.fl_core/com.sap.pct.srm.srm70.fl_roles/com.... Q
+dit RFx Response:
+Submit | ReadOnly PrintPreview | Check Close Save Delete Bid Decrement e.
+2Fx Response Number 9000319994 RFx Number 8000050605 Status Saved Submission Deadline 17.11.2025 14:00:00 INDIA Opening Date 31.12.9999 14:00:00 INDIA Remaining Time 0 Days 01:33:24 RFx Owner 406924 DIVYANSHUGUPTA Total Value —46,702,759.95 INR
+RFx Response Version Number Active Version RFx Version Number 3
+RFx Response Number: 9000319994
+tems with Response: 13 out of 13 items responded to
+Questions: 10 out of 10 questions answered ( 10 out of 10 manda
+Notes: No Notes Added
+Attachments: 5 attachments added
+Conditions: 14 conditions added
+Total RFx Response Value: 46,702,759.95 INR
+Vendor Reference: SQ2505E 185R2
+Enterprise Type: MEDIUM-SERVICES ¥
+GEM Seller ID: (098B190000938604 =i
+Are you cist: No *
+UDYAM REG NO: |UDYAM-GA-02-0000534
+Are you women Entrepreneur: © ~

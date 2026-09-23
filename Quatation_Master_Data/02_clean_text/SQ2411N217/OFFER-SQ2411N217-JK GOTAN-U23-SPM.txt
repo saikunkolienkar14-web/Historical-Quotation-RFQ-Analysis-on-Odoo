@@ -1,0 +1,293 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+JK WHITE CEMENT LIMITED
+RAJASTHAN, INDIA
+
+SUBJECT
+
+: QUOTATION FOR GAS ANALYSERS
+
+REFERENCE/RFQ
+: PR NO-1000020038
+
+KIND ATTENTION
+: PURCHASE DEPARTMENT
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated
+below. If you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: SCOPE OF SUPPLY
+
+SECTION 3: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2411N217
+Dated: 15.11.2024
+
+Contact persons :
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Shubhankar Dey
+Email: shubhankar@adage-automation.com
+Mob: +91 9163862433
+(Adage- Regional)
+
+Mr. Lokesh Bhandari
+Email: lokesh@adage-automation.com
+Mob: +91 9999085693
+(Adage-Regional)
+
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+Dear Sir,
+
+This is in context to your requirement for Online Gas Analyser and we thank you for the same,
+
+Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in India and
+worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in the industrial field of Steel,
+Cement, Power, Fertilizers, Chemical & Petrochemicals , Oil & Gas etc. We are an ISO 9000:2015 & OHSAS 18001:
+2007 certified company .
+
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG , Germany for the Indian market
+for Process Gas Analyzers . We have 11 Offices across India with subsidiary companies in Sharjah , UAE & New
+Jersey , USA and we have 200+ Specialist Engineers and a modern state of the art Factory in Goa. We have
+already installed more than 5,000 Analyser Systems & more than 10,000 Analyzers in India . At the present
+moment , we enjoy a leadership position in the Indian Industry . We are also the largest exporter of Gas Analytical
+Systems from India to over 40 countries in Europe , Africa, Middle East, Far East and South America.
+
+Our State of the art application Lab and the Regional Repair Centre ( RRC ) is under a joint investment from SIEMENS
+AG Germany . Adage have been awarded in 2018 by the Ministry of Industries , Govt of India as one of the India’s
+Small Giants , which is an initiative to recognize the top perfroming companies in terms of sustainable growth and
+innovations .
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 1: SUMMARY OF PRICES-SUPPLY
+
+SR.
+NO.
+DESCRIPTION
+
+QTY
+
+UNIT PRICE
+[INR]
+
+TOTAL PRICE
+[INR]
+
+1.
+
+GAS ANALYSER FOR NO, SO2 & O2 MEASUREMENT
+MODEL: ULTRAMAT 23
+MAKE: SIEMENS AG GERMANY
+19” RACK MOUNT ARRANGEMENT GAS CONNECTIONS 6
+MM STUB WITH IP 40 ENCLOSURE
+MEASURING RANGE SELECTABLE
+MEASURED COMPONENT: NO, SO2
+MEASURING PRINCIPLE: NDIR
+MEASURING RANGE [NO]: 0-1000/5000 PPM
+MEASURING RANGE [SO2]: 0-1000/5000 PPM
+MEASURED COMPONENT: O2
+MEASURING PRINCIPLE: PARAMAGNETIC
+MEASURING RANGE [O2]: 0-25%
+POWER SUPPLY: 230 VAC, 50 Hz
+OUTPUT: 4-20 mA
+DETECTION LIMIT: 1% OF THE CURRENT MEASURING
+RANGE
+LINEARITY ERROR: < ± 1% OF THE MEASURING RANGE FULL
+SCALE VALUE
+REPEATABILITY: ≤ ± 1% OF THE CURRENT MEASURING
+RANGE
+DISPLAY: LARGE LCD WITH CONTRAST CONTROL.
+DIGITAL INPUTS: 3, DESIGNED FOR 24 V, ISOLATED.RELAY
+OUTPUTS: 8, WITH CHANGEOVER CONTACTS.
+WITH AUTO- CAL FEATURE
+
+1
+
+12,40,000.00
+
+12,40,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+2.
+
+DUST MONITOR DM 210 FOR CEMENT MILL STACK –
+BASED ON ELECTRODYNAMIC / PROBE ELECTRIFICATION
+•
+Measurement Capability: 0-500 mg/m3
+•
+Minimum detection: < 0.1 mg/m3
+•
+Stack Diameters: 100mm - 6m
+•
+316 stainless, or fully insulated PTFE coated option for
+conductive dust or humid flue gas application (Sensor
+Probe)
+•
+IP65 die-cast aluminum (enclosure)
+•
+Stack temperature ranges 0-250°C, 0-400°C
+•
+Alarming: Local and via 2x relay outputs
+•
+RS232/RS485 data output option for Modbus
+networking, PC interface
+•
+1x 4-20mA output (scalable)
+•
+Power: 100-240VAC or 24VDC
+•
+With blower
+•
+Weather Proof Cover
+•
+Display Unit
+
+2
+
+4,75,000.00
+
+9,50,000.00
+
+3.
+
+DUST MONITOR DM 170 FOR RAW MILL KILN ESP-1
+STACK – BASED ON BACKWARD SCATTER LIGHT
+•
+Measured parameters: Dust
+•
+Technology: ProScatterTM Backscatter
+•
+Measurement capability: <1 – 1000 mg/m3
+•
+Stack/Duct diameter suitability: 1.5 to 15 m (5- 50 ft)
+•
+Sensor Variants: 316 Stainless Steel
+•
+Stack Temperature Ranges: -20°C – 250°C up to 400°C
+option
+•
+Functionality and QA Checks: Automatic zero and
+span
+•
+Data Output: RS485 (Modbus) output to Controller
+•
+Enclosure Protection Rating: IP65
+•
+Power supply voltages (options):
+110 V AC, 50/60 Hz, 7 A
+230 V AC, 50/60 Hz, 2.3 A
+•
+Outputs: 1x 4 ... 20 mA
+•
+2x alarm relays
+•
+1x RS-485 output
+•
+Inputs: 1x digital input
+•
+With blower
+•
+Weather Proof Cover
+•
+Display Unit
+
+1
+
+5,30,000.00
+
+5,30,000.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+Ex works, Goa
+Packing Charges
+Extra @3% on basic order value
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+For Analyser: 90271000; For Spares: 90330000
+Freight Charges
+Customer A/c
+Insurances
+Customer A/c
+Delivery
+Within 20 weeks from the date of receipt of PO
+Offer validity
+30 days.
+Payment Terms
+100% payment against proforma invoice
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Samaresh Dey Arijit Das
+samaresh@adage-automation.com arijit@adage-automation.com
++91 9769012864 +91 9163609532
+ADAGE- GOA ADAGE- GOA

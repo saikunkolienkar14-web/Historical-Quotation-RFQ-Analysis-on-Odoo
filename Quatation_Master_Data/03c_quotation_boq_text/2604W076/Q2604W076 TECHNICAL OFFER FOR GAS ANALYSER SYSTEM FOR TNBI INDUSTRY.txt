@@ -1,0 +1,75 @@
+Quotation Number: Q2604W076
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF NO
+FOR SCRUBER EXHUAST STACK
+SERVICE: NITRIC ACID SCRUBBER
+AREA CLASSFICATION: ZONE 2,IIA/B,T3
+MOUNTING LOCATION: ANALYSER ROOM.
+PROCESS CONDITION AT STACK:
+TEMPERATURE (Min/Max): 30-45 Deg C
+PRESSURE (Nor/Max): Atm
+WITH SAMPLE GAS TAPPING
+WITH SAMPLE HANDLING SYSTEM
+WITH IP 54 ANALYSER PANEL
+WITH PANEL PURGING ARRANGMENT (FOR ZONE 2)
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 No
+For Nitric Oxide (NO) Measurement
+MAKE SIEMENS AG, GERMANY
+01 Set
+QUOTED
+QUOTED
+1.2
+PRE FABRICATED HEAT TRACE SAMPLE GAS TUBE
+FOR SAMPLE GAS TRANSPORTATION
+(SUITABLE FOR ZONE 2)
+PORT SIZE: 1/4 “ PTFE TUBE
+POWER SUPPLY: 230 VAC, 50 Hz
+DISTANCE FROM TAPPING POINT TO ANALYSER
+ROOM REQUIRED:
+Per
+Mtrs
+QUOTED
+QUOTED
+2
+SUEPRVISION OF INSTALLATION &
+COMMISSIONING CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+day
+QUOTED
+QUOTED Per
+man Days
+Assumption/ Clarification:
+1. We have quoted Hot extractive gas analyser system based on NDIR principle for measurement
+of Nox where NO will be measured & reported as total Nox based on CPCB guidelines.
+2. We cannot quote for your propionic acid measurement.
+3. 1⁄4” tapping should be made available from exhaust stack for gas sampling, same is in customer
+scope.
+4. N2 air free from oil/moisture/dust @ 4-6 bar pressure is required for purging same is in
+customer scope.
+5. Gas analyser panel will be mounted inside AC room same is in customer scope.
+6. After gas analysis sample will be vented to atmosphere above man height, required tubing is in
+customer scope.
+7. All signal, power & communication cable will be in scope of customer including cable from
+analyser room to DCS.
+8. UPS & Non-UPS power supply near analyser room & at sampling point shall be made available
+same is in customer scope.
+NOTE & SCOPE
+•
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+•
+Plant Instrument air required
+•
+Additional heat trace tube will be on per meter chargeable basis.
+•
+Power Supply Utilities required are:
+Power Supply: 230 VAC, 50 Hz (UPS)

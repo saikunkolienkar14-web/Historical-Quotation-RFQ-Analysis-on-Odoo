@@ -1,0 +1,209 @@
+Quotation Number: Q24W10128R3
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit price (INR)
+Total Price (INR)
+1
+SOx, NOx, CO
+4 Sets
+Quoted
+Quoted
+1.1
+Common Analyser Cabinet with Ex
+proof AC
+4 Sets
+Quoted
+Quoted
+2
+SPM Analyser
+4 Sets
+Quoted
+Quoted
+3
+Temperature Transmitter,
+Temperature element & Thermowell
+4 Sets
+Quoted
+Quoted
+VCM Incininerator – 1,2,3
+4
+SOx, NOx, CO
+3 Sets
+Quoted
+Quoted
+4.1
+Common Analyser Cabinet with Ex
+proof AC
+3 Sets
+Quoted
+Quoted
+5
+SPM Analyser
+3 Sets
+Quoted
+Quoted
+6
+Temperature Transmitter,
+Temperature element & Thermowell
+3 Sets
+Quoted
+Quoted
+Safety Scrubber 1, 2
+7
+HCL Analyser
+1 Set
+Quoted
+Quoted
+Chlorine Scrubber
+8
+Chlorine Analyser
+1 Set
+Quoted
+Quoted
+9
+Network components at Cabinet side
+1 Set
+Quoted
+Quoted
+10
+DAS PC & Datalogger with Software
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+11
+Project Documentation
+1 No
+Quoted
+Quoted
+12
+FAT at Adage Factory
+1 No
+Quoted
+Quoted
+12.1
+FAT at OEM’s works
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+12.2
+Remote FAT at OEM’s works
+1 No
+Optionally
+Quoted
+Optionally
+Quoted
+13
+Commissioning spares
+-
+Set of filter
+-
+Set of O ring
+-
+Set of Fuses
+1 No
+Quoted
+Quoted
+14
+Consumable spares
+1 Set
+Quoted
+Quoted
+15
+Packing, forwading & transportation
+upto Site charges
+1 No
+Quoted
+Quoted
+16
+Supervision of installation &
+commissioning
+Per
+diem
+Quoted
+Quoted
+17
+Special tools and tackles
+Not applicable
+0 No
+Not Quoted
+Not Quoted
+18
+Training at Site
+For 5 days
+Per
+Diem
+Quoted
+Quoted
+19
+Mandatory spares (As per Adage
+Recommendation)
+1 No
+Quoted
+Quoted
+20
+2 Years O&M spares (As per Adage
+Recommendation)
+1 No
+Quoted
+Quoted
+21
+Isokinetic sampling(Only for
+commissioning)
+1 No
+Quoted
+Quoted
+22
+Participation in KOM
+1 No
+Quoted
+Quoted
+Addition/Deletion rates
+1
+1⁄4‘‘ PTFE HTT Tube
+Per meter
+Quoted
+Quoted
+2
+3C Power cable
+Per meter
+Quoted
+Quoted
+3
+RS 485 Serial cable
+Per meter
+Quoted
+Quoted
+SECTION 2 : ANALYSER DETAILS/ASSUMPTIONS
+We have Quoted below Analysers for VCM CEMS project
+A. HCl Analyser
+a. Make: Siemens, Model: LDS6 (Insitu Type)
+b. Sensor unit is certified for Zone 2 llC T3 & Control unit shall be mounted inside purged enclosure
+certified for Zone 2 llC T3.
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each
+measuring component. This also has digital outputs for customer configuration.
+B. Cl2(Chlorine) Analyser
+a. Make: Ametek, Model: 9900
+b. Analyser shall be mounted inside purged enclosure certified for Zone 2 llC T3
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for
+measuring component. This also has digital outputs for customer configuration.
+C. SPM Analyser
+a. Make: Durag, Model: Dr 320 Ex
+b. SPM shall be Ex’p‘ certified for Zone 2 llC T3
+c. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each
+measuring component. This also has digital outputs for customer configuration.
+D. SO2,NO,CO Analyser
+d. Make: Siemens, Model: Ultramat 6F
+e. Ultramat 6F shall be Ex’p‘ certified for Zone 2 llC T3
+f. The communication output shall be RS 485 serial modbus output & 4-20 mA analog output for each
+measuring component. This also has digital outputs for customer configuration.
+3. Calibration gas cylinder shall be supplied for 6 months operation from the date of commissioning. Further
+refilling shall be taken care by customer.
+4. TKIS shall provide single point tie in for UPS and Non UPS at the cabinet side. Further distribution shall
+be taken care by Adage.
+5. For PM Analyser power cable from cabinet UPS power supply to PM analyser at stack by Adage.

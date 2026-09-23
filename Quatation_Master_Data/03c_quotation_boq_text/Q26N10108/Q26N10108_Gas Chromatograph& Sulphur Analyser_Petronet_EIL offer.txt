@@ -1,0 +1,579 @@
+Quotation Number: Q25N10093
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price(INR)
+Total Price(INR)
+Group A
+1
+Supply of Group-A As Per MR
+1 Lot
+Quoted
+Quoted
+1.1
+FAT at Adage Works
+1 Lot
+Inclusive
+Inclusive
+1.2
+Documentation
+1 Lot
+Inclusive
+Inclusive
+1.3
+Commissioning Spares
+1 Lot
+Inclusive
+Inclusive
+2
+Site Work Charges of Group-A As Per MR
+1
+Quoted
+Quoted
+3
+Transportation of Group-A As Per MR
+1 Lot
+Quoted
+Quoted
+4
+Mandatory Spares of Group-A As Per MR
+1 Lot
+Quoted
+Quoted
+5
+Transportation of Mandatory Spares Group-A As
+Per MR
+1 Lot
+Quoted
+Quoted
+6
+Per Diem Rate for Training of Group-A As Per MR
+(2 Days)
+Per
+Diem
+Quoted
+Quoted
+7
+Three Years Post Commissioning Annual
+Maintenance Contract
+1 Lot
+Quoted
+Quoted
+Group B
+1
+Supply of Group-B As Per MR
+1 Lot
+Quoted
+Quoted
+1.1
+FAT at Adage Works
+1 Lot
+Inclusive
+Inclusive
+1.2
+Documentation
+1 Lot
+Inclusive
+Inclusive
+1.3
+Commissioning Spares
+1 Lot
+Inclusive
+Inclusive
+2
+Transportation of Group-B As Per MR
+1 Lot
+Quoted
+Quoted
+3
+Mandatory Spares of Group-B As Per MR
+1 Lot
+Quoted
+Quoted
+4
+Transportation of Mandatory Spares Group-A As
+Per MR
+Lump
+Sum
+Quoted
+Quoted
+5
+Per Diem Rate for Supervision of Group-B As Per
+MR
+2
+Days
+Quoted
+Quoted
+6
+Per-Hour Overtime Charges for Supervision
+Per
+Hour
+Quoted
+Quoted
+7
+Per-Hour Overtime Charges for Supervision on
+Weekly Offs/Holidays
+Per
+Hour
+Quoted
+Quoted
+8
+Per Diem Rate For Training of Group-B As Per MR
+Per
+Diem
+Quoted
+Quoted
+9
+Three Years Post Commissioning Annual
+Maintenance Contract
+1 Lot
+Quoted
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+GROUP A
+Sr
+No
+Item
+Description
+Tag No
+Qty
+1
+Analyser
+House With
+HAVC
+Size: 7m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 15 mtrs
+With Common Auto change over unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+101-AS-01
+1 No
+1.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+101-AT-12101
+101-AT-25201
+101-AT-25602
+3 Nos
+1.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+3 Nos
+1.3
+PSHS
+Pressure Reduction System (HPR)
+101-AT-12101
+1 No
+Pressure Reduction System
+101-AT-25201
+101-AT-25602
+2 Nos
+1.4
+Field Tube
+SS316, 1⁄4” OD Tube
+-
+905 mtrs
+1.5
+SHS
+Sample conditioning system suitable for
+above GCs
+-
+3 Sets
+1.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+3 Lots
+2
+Analyser
+House With
+HAVC
+Size: 7m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 15 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+101-AS-03
+1 No
+2.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+101-AT-13604
+101-AT-23001
+101-AT-23901
+101-AT-24501
+4 Nos
+2.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+101-AT-23001
+101-AT-23901
+101-AT-24501
+3 Nos
+2.3
+PSHS
+Pressure Reduction System (HPR)
+101-AT-13604
+1 No
+2.4
+Field Tube
+SS316, 1⁄4” OD Tube
+101-AT-13604
+240 mtrs
+SS316, 1⁄2” OD Tube
+101-AT-23001
+101-AT-23901
+520 mtrs
+SS316, 1⁄4” OD HTT Tube
+101-AT-24501
+270 mtrs
+2.5
+SHS
+Sample conditioning system suitable for
+above GCs
+-
+4 Sets
+2.6
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+4 Lots
+3
+Analyser
+House With
+HAVC
+Size: 5m x 3m x 3m; MOC: SS304;
+HVAC: Redundant
+Chemical Filter: Included
+HVAC Duct: 15 mtrs
+With Common Auto change over Unit for
+carrier gases
+Detailed BOQ: Enclosed as ANN-1
+101-AS-04
+1 No
+3.1
+Gas
+Chromatograph
+Make: Valmet, Model: Maxum II
+Output:
+a) 4-20 mA DC isolated linear w.r.t
+specified ranges for each measured
+component
+b) 1 no. Redundant Serial link with
+MODBUS TCP/IP protocol for analysis and
+diagnostic data.
+101-AT-15803
+101-AT-22401
+101-AT-22501
+3 Nos
+3.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+3 Nos
+3.3
+PSHS
+Pressure Reduction System
+101-AT-15803
+1 No
+3.4
+Field Tube
+SS316, 1⁄4” OD Tube
+101-AT-15803
+240 mtrs
+SS316, 1⁄2” OD Tube
+101-AT-22401
+101-AT-22501
+490 mtrs
+3.5
+SSHS
+Sample conditioning system suitable for
+above GCs
+-
+3 Sets
+3.6
+Gases
+This consist of carrier, combustion,
+calibration with manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tags
+3 Lots
+GROUP B
+4
+Analyser
+Cabinet with
+Ex-Proof AC
+Size:1400mm (W) x2100m (H) x800m (D);
+MOC: SS304;
+Ex-Proof AC: Redundant
+With Required JBs, PDPs etc,
+With Required Headers
+AC-01
+1 No
+4.1
+Sulphur
+Analyser
+Make: PAC, Model: N-Sure
+Range: 0 to 150 ppmv total sulfur (H2S)
+Output:
+a) 4-20 mA Analog outputs.
+b) RS485 MODBUS Serial Output
+c) Digital Input/Outputs for Control, Alarm
+& Status.
+101-AT-13602
+1 No
+4.2
+Field Tube
+SS316, 1⁄2” OD Tube
+-
+220 mtrs
+4.3
+SSHS
+Sample conditioning system suitable for
+above Sulphur Analyser
+1 Set
+4.4
+Sample
+Recovery
+Sample Recovery Skid in redundant pump
+configuration
+-
+1 No
+4.5
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tag
+1 Lot
+5
+Analyser
+Cabinet with
+Ex-Proof AC
+Size:1400mm (W) x2100m (H) x800m (D);
+MOC: SS304;
+Ex-Proof AC: Redundant
+With Required JBs, PDPs etc,
+With Required Headers
+AC-02
+1 No
+5.1
+Sulphur
+Analyser
+Make: PAC, Model: N-Sure
+Range: 0 to 1 ppmv total sulfur (H2S)
+Output:
+a) 4-20 mA Analog outputs.
+b) RS485 MODBUS Serial Output
+c) Digital Input/Outputs for Control, Alarm
+& Status.
+101-AT-14002
+1 No
+5.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+1 No
+5.4
+Field Tube
+SS316, 1⁄2” OD Tube
+-
+220 mtrs
+5.5
+SSHS
+Sample conditioning system suitable for
+above Sulphur Analyser
+1 Set
+5.6
+Sample
+Recovery
+Sample Recovery Skid in redundant pump
+configuration
+-
+1 No
+5.7
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tag
+1 Lot
+6
+Analyser
+Cabinet with
+Ex-Proof AC
+Size:1400mm (W) x2100m (H) x800m (D);
+MOC: SS304;
+Ex-Proof AC: Redundant
+With Required JBs, PDPs etc,
+With Required Headers
+AC-03
+1 No
+6.1
+Sulphur
+Analyser
+Make: PAC, Model: N-Sure
+Range: 0 to 50s ppmv total sulfur (H2S)
+Output:
+a) 4-20 mA Analog outputs.
+b) RS485 MODBUS Serial Output
+c) Digital Input/Outputs for Control, Alarm
+& Status.
+101-AT-21401
+1 No
+6.2
+Probe
+Manual Retractable probe, Make: Lotus
+MOC: SS316
+-
+1 No
+6.3
+Fast Loop
+Pump
+Fast Loop Pump Skid in redundant
+configuration.
+1 No
+6.4
+Field Tube
+SS316, 1⁄2” OD Tube
+-
+220 mtrs
+6.5
+SSHS
+Sample conditioning system suitable for
+above Sulphur Analyser
+1 Set
+6.6
+Sample
+Recovery
+Sample Recovery Skid in redundant pump
+configuration
+-
+1 No
+6.7
+Gases
+This consist of carrier, combustion,
+calibration with, manifold & double stage
+PR along with other accessories suitable
+for 1 Year operation after SAT.
+For above tag
+1 Lot
+ANNEXURE -1
+DETAILED BOQ FOR SHELTER:
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+3
+LEL detector in the air duct
+3
+Toxic Gas Detector - Inside Fresh Air Duct
+2
+Toxic Gas Detector - Inside Shelter
+2
+H2 Detector,
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Diff pressure Gauge, and Differential pressure transmitter
+1
+Diff pressure Switch
+1
+Humidity Transmitter,
+1
+Temp Tx with Display;
+1
+Safe Guarding PLC with redundancy at power supply & communication Cars (CPU is
+Redundant & I/O Cards are Non-redundant) for Analyser Shelter,
+1 LOT
+Purged Cabinet for PLC
+1
+Electrical Panels: Zone 1 IIC
+PDBs, Intermediate PDBs JBs, Interface JBs, Power JB cum isolation switch for
+incomer cable termination prior to PDB. Rack for PDBs & warning Panel
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+2
+3 Way Beacon,
+3
+Manual Call Point
+2
+LED Tube lights inside
+A/R
+LED Tube lights outside
+A/R
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+ESD SOV IS Type, Zone 1 llC,
+1
+Misc Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+SS Work bench (900 x 600 x 750)
+1
+Portable Fire Extinguisher
+2
+Armoured XLPE Cables,Fire resistant cables for Emergency shut down and F&G
+System, double compression type certified flame proof cables glands & plugs, Utility
+Headers with Air filter & Other Accessories as per MR
+1 LOT
+SECTION 3: COMMERCIAL TERMS & CONDITION
+Price Basis
+As per Tender
+Packing Charges
+As per Tender
+GST
+As per Tender
+HSN Code
+As per Tender
+Freight Charges
+As per Tender
+Insurances
+In Customer Scope
+Delivery
+As per Tender
+Offer validity
+As per Tender

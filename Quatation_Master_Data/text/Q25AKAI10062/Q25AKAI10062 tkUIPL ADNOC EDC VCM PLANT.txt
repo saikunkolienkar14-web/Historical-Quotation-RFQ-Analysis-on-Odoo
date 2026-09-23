@@ -1,0 +1,5357 @@
+www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+To, 
+
+Client: thyssenkrupp Uhde India Private Limited 
+ 
+End User: ADNOC 
+
+Kind Attention: 
+ 
+Mr. Abhijeet Mithari / Mr. Siddharam Pujari 
+Procurement & Supply Management 
+thyssenkrupp Uhde India Private Limited 
+
+Enquiry no- 
+
+INS/ADNOC_EV/024 
+Enquiry Supply Description: 
+Analyser Package 
+Project: 
+
+ADNOC: PROJECT SALT | EDC/VCM PLANT 
+ 
+Dear Sir, 
+ 
+Adage Kanoo Analytical Industry LLC is pleased to provide the attached technical offer of process analytical 
+systems for the following units: 
+1. DC Train 1, 2 & 3 
+2. Oxi Train 1 & 2 
+3. EDC Area 
+4. VCM Area 
+5. EDC Purification 
+6. VCM Purification 
+7. EDC Cracking Train 1, 2 & 3 
+
+We thank you for your interest in our products and services and thank you for the opportunity to offer our 
+proposal for your consideration. 
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned 
+
+Yours sincerely, 
+Ganesh Govindaraj 
+Email: govind@adage-kanoo.com 
+Mob: +971 58 5213703 
+(Head - Business unit & Sales) 
+Our Quotation No: Q25AKAI10062 
+Date:02.04.2025 
+ 
+Contact persons: 
+ 
+Mr. Ganesh Govindaraj 
+Email: govind@adage-kanoo.com 
+Mob: +971 58 5213703 
+
+Ms. Megha Palan 
+Email: sales@adage-kanoo.com 
+Mob: +971 52 2885599 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Table of Contents 
+
+Section 1: 
+General Notes and Clarifications 
+ 
+Section 2: 
+Scope of Supply and Price List 
+ 
+Section 3: 
+Technical Description of AH1 Analysers 
+ 
+Section 4: 
+Technical Description of AH2 Analysers 
+ 
+Section 5: 
+Technical Description of AH3 Analysers 
+ 
+Section 6: 
+Technical Description of Cabinet Analysers 
+ 
+Section 7: 
+Technical Description of In-situ Analysers 
+ 
+Section 8: 
+Technical Description of AMADAS 
+
+ 
+
+ 
+Attachments with the offer. 
+ 
+Annexure:1 ………… Shelter Layout 
+ 
+Annexure:2 ………… Cabinet GAD 
+ 
+Annexure:3 ………… Utility and power consumption 
+
+ 
+
+Offer Revision History 
+ 
+Revision 
+Description 
+Date 
+0 
+Initial-FEED 
+02.04.2025 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+Section 1: General Notes and Clarifications 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+This covers the outlines offering philosophy and considerations in our detailed offer. 
+ 
+1. Quoted prices are in US $. 
+2. FEED Stage Offer, not valid for ordering. 
+3. The sample probe shall be of welded construction tube with ¾ inch gate valve as per below details with all 
+matching counter flanges, gaskets and nut bolts. This probe will be same for all the tags unless otherwise 
+specified. 
+ 
+4. For Photometer Analyzer Tages with Servomex make analyzers, we have offered analyser suitable for 
+hazardous area Zone 2 IIB T3. All analysers (Servomex) are Servotough 2500 F series. 
+ 
+5. The Licensor PID is considered for minimum typical sample schematic. 
+ 
+6. Wetted part MOC of Sample line for moisture tags shall be SS316 / Hastelloy with EP treatment. 
+ 
+7. Calibration gas one time supply during SAT / commissioning. Further filling to be taken care by Customer. 
+ 
+8. Fuel gas and carrier gas cylinders shall be supplied once during SAT/Commissioning & further filling by 
+customer. However, accessories like ACU, valves, gauges along with cylinder rack will be supplied by AKAI. 
+ 
+9. Customer to provide all utility and process headers near each shelter/Cabinet, further distribution in Cabinet / 
+Shelter shall be ensured by AKAI. 
+ 
+10. On/Off valves (AOV) for supply line for automatic sample cutoff inside SCS for analyzers mounted in Shelter / 
+Cabinet has been considered. 
+ 
+11. All bare SS316 tubes supplied as part of Shelter / Cabinet shall be PVC coated externally. 
+ 
+12. All field mounted cabinets, PSCS, SSCS, analyser shelter (Inside & outside including canopy), HVAC and 
+Panel AC MOC shall be SS316 epoxy painted 
+ 
+13. Liquid recovery is considered for AH-1 & AH-3 only & MOC shall be SS316 and SS316 with PTFE lined tank 
+respectively. And all other components wetted part MOC shall be SS316 / PTFE lined SS316 or Hastelloy as 
+applicable. 
+ 
+14. Gas vent recovery system is considered for all Analyzer Houses and All vents of the Analyser shall be 
+connected to a vent recovery system with N2 eductor / Pump (redundant), to re-inject the sample flow into the 
+into the flare. 
+ 
+15. Common alignment kit is considered for in-situ TDLAS Analyser. 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+Section 2: Scope of Supply and Price List 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+This covers the SOW for the complete package. 
+ 
+S.N. 
+Tag Number 
+Item Description 
+Qty 
+Unit Price 
+Total Price 
+1 
+AH-1 
+Analyser Shelter with HVAC 
+1 
+Quoted 
+Quoted 
+1.1 
+EV111-AT-0201 
+Ethylene Analyzer 
+1 
+Quoted 
+Quoted 
+1.2 
+EV112-AT-0201 
+Ethylene Analyzer 
+1 
+Quoted 
+Quoted 
+1.3 
+EV113-AT-0201 
+Ethylene Analyzer 
+1 
+Quoted 
+Quoted 
+1.4 
+EV110-AT-0801 
+Ethylene analyser 
+1 
+Quoted 
+Quoted 
+1.5 
+EV190-AT-2500 
+EDC Ambient Air Monitoring 
+1 
+Quoted 
+Quoted 
+1.6 
+EV110-AT-0606 
+Moisture analyser 
+1 
+Quoted 
+Quoted 
+ 
+2 
+AH-2 
+ Analyser Shelter with HVAC 
+1 
+Quoted 
+Quoted 
+2.1 
+EV121-AT-1201 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+2.2 
+EV121-AT-1202 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+2.3 
+EV121-AT-1203 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+2.4 
+EV121-AT-1205 
+CO/CO2 Analyzer 
+1 
+Quoted 
+Quoted 
+2.5 
+EV121-AT-1204 
+Ethylene Analyzer 
+1 
+Quoted 
+Quoted 
+2.6 
+EV110-AT-0606 
+Hydrocarbons (EDC) in waste 
+water 
+1 
+Quoted 
+Quoted 
+ 
+3 
+AH-3 
+ Analyser Shelter with HVAC 
+1 
+Quoted 
+Quoted 
+3.1 
+EV122-AT-1201 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+3.2 
+EV122-AT-1202 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+3.3 
+EV122-AT-1203 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+3.4 
+EV122-AT-1205A/ 
+EV122-AT-1205B 
+CO/CO2 Analyzer 
+1 
+Quoted 
+Quoted 
+3.5 
+EV122-AT-1204 
+Ethylene Analyzer 
+1 
+Quoted 
+Quoted 
+3.6 
+EV130-AT-0101 
+Moisture Analyser (Filter-
+photometer) 
+1 
+Quoted 
+Quoted 
+3.7 
+EV130-AT-0451 
+Moisture Analyser (Filter-
+photometer) 
+1 
+Quoted 
+Quoted 
+3.8 
+EV130-AT-0901 
+Moisture Analyser (Filter-
+photometer) 
+1 
+Quoted 
+Quoted 
+3.9 
+EV150-AT-0701 
+Moisture Analyser (Filter-
+photometer) 
+1 
+Quoted 
+Quoted 
+3.10 
+EV150-AT-0503 
+Moisture Analyser (Filter-
+photometer) 
+1 
+Quoted 
+Quoted 
+3.11 
+EV150-AT-0451 
+Moisture Analyser 
+1 
+Quoted 
+Quoted 
+3.12 
+EV150-AT-0502 
+HCL Analyser 
+1 
+Quoted 
+Quoted 
+3.13 
+EV150-AT-1002 + 
+EV150-AT-1001 
+CHC analyser + Conductivity 
+analyser 
+1 
+Quoted 
+Quoted 
+3.14 
+EV150-AT-0501 
+Gas Chromatograph 
+1 
+Quoted 
+Quoted 
+3.15 
+EV190-AT-1500 
+Gas Chromatograph (Ambient) 
+1 
+Quoted 
+Quoted 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+4 
+Field Cabinet with AC(Redundant) 
+1 
+Quoted 
+Quoted 
+4.1 
+EV141-AT-0101 
+Moisture Analyser 
+1 
+Quoted 
+Quoted 
+4.2 
+EV141-AT-0102 
+Moisture Analyser 
+1 
+Quoted 
+Quoted 
+4.3 
+EV141-AT-0103 
+Moisture Analyser 
+1 
+Quoted 
+Quoted 
+
+ 
+5 
+In-situ Analysers 
+
+ 
+5.1 
+EV110-AT-0601A 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+5.2 
+EV110-AT-0601B 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+5.3 
+EV110-AT-0601C 
+Oxygen Analyser 
+1 
+Quoted 
+Quoted 
+
+ 
+6 
+Analyser Management and Data Acquisition Systems 
+(AMADAS) with required software-based tool and 
+hardware,(Server + workstation), GCP workstation software, 
+Network Interface Hardware, converter, network switches etc. 
+ 
+1 
+Quoted 
+Quoted 
+7 
+Fiber Optic Cable – Single mode 12 Fibers (9 / 125 µm) 
+Redundant Cable per analyser shelter 
+AH-01 : Approx. 250 Meter X 2 Lengths 
+AH-02 : Approx. 375 Meter X 2 Lengths 
+AH-03 : Approx. 225 Meter X 2 Lengths 
+ 
+1 
+Quoted 
+Quoted 
+8 
+Optional Items 
+• PA/GA Speaker Inside shelter to get the facility to connect 
+with Plant PA/GA System 
+• Security access control system for analyser shelter shall be 
+provided 
+• CCTV for Entry and Exit monitoring of analyser shelter shall 
+be provided 
+ 
+1 
+Not 
+Quoted 
+Not Quoted 
+9 
+Design, Engineering and Project Management 
+1 
+Quoted 
+Quoted 
+10 
+Preparation of all engineering drawings & documents. 
+1 
+Included 
+Included 
+11 
+Inspection & Testing 
+ 
+1 
+Quoted 
+ 
+12 
+Supply of spare parts (commissioning, consumables, 
+mandatory spares, special tools & tackles. 
+1 
+Quoted 
+Quoted 
+13 
+Two Years Operation and Maintenance spares. 
+1 
+Quoted 
+Quoted 
+14 
+Integrated Factory Acceptance Test (FAT). 
+1 
+Quoted 
+Quoted 
+15 
+Packing forwarding and transportation to site 
+1 
+Not 
+Quoted 
+Not Quoted 
+16 
+Site Services for Supervision of Installation / Erection of 
+Integrated Analyser system package 
+1 
+Quoted 
+Quoted 
+17 
+Integrated Site Acceptance Test (SAT). 
+1 
+Quoted 
+Quoted 
+18 
+Commissioning of system at site and handover 
+1 
+Quoted 
+Quoted 
+19 
+Training at Site / Adage Works 
+1 
+Quoted 
+Quoted 
+20 
+3 Yr’s Non-Comprehensive Standard Annual Maintenance 
+Contract (AMC) 
+1 
+Quoted 
+Quoted 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Summary of Analyzers in Each Analyser house. 
+
+Mounting configuration for AH-1 Analysers 
+Sr No 
+BEP Tag Analyser/ 
+Feed Tag Analyser 
+Analyser Type 
+Make/Model 
+1.1 
+5111 AT 0201/ 
+EV111-AT-0201 
+Ethylene Analyzer 
+SERVOMEX SERVOTOUGH 2500 F 
+1.2 
+5112 AT 0201/ 
+EV112-AT-0201 
+Ethylene Analyzer 
+SERVOMEX SERVOTOUGH 2500 F 
+1.3 
+5113 AT 0201/ 
+EV113-AT-0201 
+Ethylene Analyzer 
+SERVOMEX SERVOTOUGH 2500 F 
+1.4 
+5111 AT 0801/ 
+EV110-AT-0801 
+Ethylene analyser 
+SERVOMEX SERVOTOUGH 2500 F 
+1.5 
+5151 AT 2500/ 
+EV190-AT-2500 
+EDC Ambient Air Monitoring 
+VALMET MAXUM II 
+1.6 
+5111AT0606/ 
+EV110-AT-0606 
+Moisture analyser 
+SERVOMEX SERVOTOUGH 2500 F 
+
+Mounting configuration for AH- 2 Analysers 
+Sr No 
+BEP Tag Analyser/ 
+Feed Tag Analyser 
+Analyser Type 
+Make/Model 
+ 
+2.1 
+5121 AT 1201/ 
+EV121-AT-1201 
+Oxygen Analyser 
+Siemens Oxymat 6F 
+ 
+2.2 
+5121 AT 1202/ 
+EV121-AT-1202 
+Oxygen Analyser 
+Siemens Oxymat 6F 
+ 
+2.3 
+5121 AT 1203/ 
+EV121-AT-1203 
+Oxygen Analyser 
+Siemens Oxymat 6F 
+ 
+2.4 
+5121 AT 1205/ 
+EV121-AT-1205 
+CO/CO2 Analyzer 
+Siemens Ultramat 6F 
+ 
+2.5 
+5121 AT 1204/ 
+EV121-AT-1204 
+Ethylene Analyzer 
+SERVOMEX SERVOTOUGH 2500 F 
+ 
+2.6 
+5121 AT 0901/ 
+EV120-AT-0901 
+Hydrocarbons (EDC) in waste water 
+SK Elektronik THERMO FID 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Mounting configuration for AH-3 Analysers 
+Sr No 
+BEP Tag Analyser/ 
+Feed Tag Analyser 
+Analyser Type 
+Make/Model 
+3.1 
+5121 AT 1201/ 
+EV121-AT-1201 
+Oxygen Analyser 
+Siemens Oxymat 6F 
+3.2 
+5121 AT 1202/ 
+EV121-AT-1202 
+Oxygen Analyser 
+Siemens Oxymat 6F 
+3.3 
+5121 AT 1203/ 
+EV121-AT-1203 
+Oxygen Analyser 
+Siemens Oxymat 6F 
+3.4 
+5122 AT 1205 A/B 
+EV122-AT-1205A/ 
+EV122-AT-1205B 
+CO/CO2 Analyzer 
+Siemens Ultramat 6F 
+3.5 
+5122 AT 1204/ 
+EV122-AT-1204 
+Ethylene Analyzer 
+SERVOMEX SERVOTOUGH 2500 F 
+3.6 
+5131 AT 0101/ 
+EV130-AT-0101 
+Moisture Analyser 
+(Filter-photometer) 
+SERVOMEX SERVOTOUGH 2500 F 
+3.7 
+5131 AT 0451/ 
+EV130-AT-0451 
+Moisture Analyser 
+(Filter-photometer) 
+SERVOMEX SERVOTOUGH 2500 F 
+3.8 
+5131 AT 0901/ 
+EV130-AT-0901 
+Moisture Analyser 
+(Filter-photometer) 
+SERVOMEX SERVOTOUGH 2500 F 
+3.9 
+5151AT0701/ 
+EV150-AT-0701 
+Moisture Analyser 
+(Filter-photometer) 
+SERVOMEX SERVOTOUGH 2500 F 
+3.10 
+5151 AT 0503/ 
+EV150-AT-0503 
+Moisture Analyser 
+(Filter-photometer) 
+SERVOMEX SERVOTOUGH 2500 F 
+3.11 
+5151 AT 0451/ 
+EV150-AT-0451 
+Moisture Analyser 
+SERVOMEX SERVOTOUGH 2500 F 
+3.12 
+5151 AT 0502/ 
+EV150-AT-0502 
+HCL Analyser 
+AIROPTICS EXTRACTIVE GASEYE 
+3.13 
+5151 AT 1002/ 
+EV150-AT-1002 + 
+EV150-AT-1001 
+CHC analyser + Conductivity 
+analyser 
+ SK Elektronik THERMO FID 
+Emerson Conductivity 
+3.14 
+5151 AT 0501/ 
+EV150-AT-0501 
+Gas Chromatograph 
+VALMET MAXUM II 
+3.15 
+5151 AT 1500/ 
+EV190-AT-1500 
+Gas Chromatograph (Ambient) 
+VALMET MAXUM II 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Analysers mounted in Field cabinet 
+Sr No 
+BEP Tag Analyser/ 
+Feed Tag Analyser 
+Analyser Type 
+Make/Model 
+4.1 
+5141 AT 0101/ 
+EV141-AT-0101 
+Moisture Analyser 
+SERVOMEX SERVOTOUGH 2500 F 
+4.2 
+5141 AT 0102/ 
+EV141-AT-0102 
+Moisture Analyser 
+SERVOMEX SERVOTOUGH 2500 F 
+4.3 
+5141AT0103/ 
+EV141-AT-0103 
+Moisture Analyser 
+SERVOMEX SERVOTOUGH 2500 F 
+
+ 
+In-situ Analysers 
+Sr No 
+BEP Tag Analyser/ 
+Feed Tag Analyser 
+Analyser Type 
+Make/Model 
+5.1 
+5111 AT 0601A/ 
+EV110-AT-0601A 
+Oxygen Analyser 
+GasEye, Air Optics 
+5.2 
+5111 AT 0601B/ 
+EV110-AT-0601B 
+Oxygen Analyser 
+GasEye, Air Optics 
+5.3 
+5111 AT 0601C/ 
+EV110-AT-0601C 
+Oxygen Analyser 
+GasEye, Air Optics 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Section 3: Technical Description of AH1 
+Analyzers 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+S.N. 
+Item Description 
+Qty. 
+Price (USD) 
+1 
+Analyzer Shelter (Analyzer House) 
+Tag no: AH-1 
+Make: ADAGE 
+Area Classification: Zone 1 IIC (Inside shelter) 
+ Zone 2 IIC (Outside shelter) 
+This AH comprising of the following Analysers 
+1.1 
+5111 AT 0201 
+Ethylene Analyzer 
+1.2 
+5112 AT 0201 
+Ethylene Analyzer 
+1.3 
+5113 AT 0201 
+Ethylene Analyzer 
+1.4 
+5111 AT 0801 
+Ethylene analyser 
+1.5 
+5151 AT 2500 
+EDC Ambient Air Monitoring 
+1.6 
+ 5111AT0606 
+Moisture analyser 
+ 
+• 
+AH MOC SS316 with Paint 
+• 
+Construction Ribbed interlock type sandwich construction 
+with mineral wool insulation. 
+• 
+Base frame Fabricated from structural carbon steel channel 
+or Ibeam, fully welded, hot dip galvanized carbon steel 
+finished with black double layer epoxy paint. 
+• 
+Electrical hazardous classification: inside AH Suitable for use 
+in IECEx Zone 1, IIB, T3 
+• 
+Electrical hazardous classification: outside AH Suitable for 
+use in IECEx Zone 1, IIB, T3 
+• 
+Shelter external dimensions (LxWxH) in mm 8000 x 3000 x 
+3000. 
+• 
+External wall thickness in mm 1.5mm thick SS316 
+• 
+Internal wall thickness in mm 1.5mm thick SS316 
+• 
+Mineral wool Insulation thickness in mm 80 mm thick 
+Polyurethane (40 Kg/m3 min density) or Equivalent on walls, 
+Roof and floor 
+• 
+Doors - Located on long walls, outward opening and sized as 
+900 x 2100mm Main & Exit 
+• 
+Safety window on each door Yes (Minimum 0.2 sq meters, 
+Safety glass shall be 
+6.4mm thick and laminated with 1.5mm interlayer) 
+• 
+Floor Anti-skid steel non-liquid trapping Chequered plates 
+• 
+Panic bar & auto door closure Provided on each door 
+• 
+Overhang Canopy 1000 mm in all 4 Sides 
+• 
+Barometric adjustable louvers 4 Nos, with screened 
+aluminium 
+• 
+Anchor bolts required for shelter fixing Included 
+• 
+Tube entry through shelter walls Using MCT Blocks 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+• 
+Cable entry through shelter walls Using MCT Blocks 
+• 
+Armoured cables with cable glands Included 
+• 
+Cable tray Aluminium, cable tray with cover 
+• 
+Lifting lugs 4 Nos, Top Lift 
+• 
+316SS ball bearing hinges Included 
+• 
+316SS dual ground pads 4 
+• 
+Work Bench Metal workbench included 
+• 
+Cupboard with Chairs Lockable metal cabinet (nominal 
+dimensions 2.0 x 1.0 x 0.4 meters) suitable for storage 
+of manuals, drawings, spare parts, tools, etc. 
+• 
+15A Switch sockets 2 
+• 
+Analyzer foundation By Client 
+ 
+1.a 
+HVAC Unit 
+• 
+HVAC Redundant 
+• 
+Electrical hazardous classification Suitable for use in IECEx Zone 1 
+llB T3 
+• 
+Casing MOC SS316 
+• 
+Capacity 7.5 Ton each (Finalized during design engineering) 
+• 
+HVAC configuration Single compressor 
+• 
+Heater and Air blower 6kW Built-in Zone 2 Electric Heat with Low 
+Watt Density 
+• 
+Elements and Intrinsically 
+• 
+Fresh air Min 12 air changes/hour or 20m3 of air per installed 
+analyzer/hour 
+• 
+Refrigerant R407C/R134a 
+• 
+Temperature maintained inside AH 23° C 
+• 
+Temperature control Using adjustable thermostat Inside AH 
+pressure 25 Pa 
+• 
+Heating type Electric HVAC attached to shelter…. Yes 
+• 
+Fresh air intake duct MOC Insulated GI 
+Fresh air intake duct Length (with all accessories) 12'' dia x 10' 
+length spiral duct, SS punched angle rings, Rain cap, bird-screen, 
+Fasteners and other supporting kit. 
+• 
+Return Air Filter Grille included 
+• 
+Phase Monitor to prevent reverse rotation of Electrical 
+• 
+Motors and to protect against single phasing included 
+• 
+Filter Dryer included 
+• 
+Anti-Static & Spark-Resistant Fan Blade included 
+• 
+Spark-Resistant Aluminum Blower Wheel(s) included 
+• 
+IECEx and ATEX Certified Zone 2 Condenser Fan Motor & 
+Evaporator Blower Motor included 
+• 
+Intrinsically Safe Fan Cycling Pressure Switch included 
+• 
+Intrinsically Safe Loss of Flow Switch and Alarm Contacts included 
+• 
+Power 380/415VAC-3PH-50HZ 
+• 
+HVAC control panel 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+• 
+IP66 with intrinsically safe thermostat and humidistat and other 
+controls 
+ 
+1.b 
+Shelter Accessories 
+− 
+Chemical Filter (common for both HVAC) 
+ 
+− 
+Alarm panel 
+An annunciator of suitable electrical area classification shall be installed on 
+the external shelter wall next to the main shelter entrance door (for alarms 
+only) 
+ 
+These alarms shall typically include: 
+1-Loss of shelter pressurization or low fresh air changes (ventilation failure) 
+2- Fire or gas detection (flammable, toxic and / or low oxygen) 
+3-Fire or gas device fault 
+4-Air purge system failure (for purged Ex py enclosures, unlike Ex px 
+enclosures, which have power interlock, Ex py enclosures require 
+intervention on loss of purge) 
+5- Safety system failure (including failure of any processor module, 
+communication module, power module or I/O modules) 
+ 
+− 
+Analyzer house door signs Included 
+ 
+− 
+Electrical Panels & JBs. Suitable for use in IECEx Zone 2 IIB 
+Note: cable The Terminals, cable glands entries shall be decided during 
+detailed design engineering. Cable glands: Double compression, Brass 
+Nickel plated dual Certified Ex db and EX eb. 
+1 x Analog Signal Junction Box (Non-F&G Signals) SS316L , IP65 , Ex 
+‘eb’ IECEx Certified for Hazardous Area Zone 2 IIB, 
+ 
+1 x Digital Signal Junction Box, (Non-F&G Signals) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Analog F&G Junction Box (I.S) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Analog F&G Junction Box (Non-I.S) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+2 x F&G Junction Box (Digital Signals to/from plant F&G) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Flow Signal Junction Box 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB. , 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+ 
+1 x HVAC control Panel, 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB . 
+− 
+Zone 1 Rated On/Off Switch included 
+− 
+Intrinsically Safe Mechanical Thermostat included 
+− 
+Intrinsically Safe Mechanical Humidistat included 
+− 
+Terminal blocks for wiring terminations included 
+− 
+Fire & Gas (F&G) Shutdown Provision included 
+ 
+1x UPS Power distribution Panel, 
+All analyzers, F&G detection and alarm and electronic 
+control panels, shall be powered (230VAC 50Hz single phase) from UPS 
+power supplies. 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using two pole MCCB for single phase boards. 
+Two pole RCCB for individual items. 
+With Automatic Transfer Switch. 
+ 
+1 x NON-UPS Power distribution Panel, 1ea 
+Non-UPS power to be used for utilities such as Lighting, 
+Power Sockets, HVAC, Heat traced line, probe heater, Cabinet 
+Heaters etc. MOC: Exd, Aluminum , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB for three phase boards. 
+Two pole RCCB for single phase items. 
+Three pole MCCB for 3-Phase supply items. 
+With Automatic Transfer Switch. 
+ 
+1 x Emergency Power distribution Panel, 1ea 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB for three phase boards. 
+Two pole RCCB for single phase items. 
+Three pole MCCB for 3-Phase supply items. 
+ 
+1 x Local alarm Panel 
+MOC: Ex’db’/Ex’eb’, Aluminium/SS316/GRP , IP66 
+ 
+5 x Lighting, , 5ea 
+Interior LED Lights 
+Suitable for Zone 2 llB T3 
+Illumination level: 500 LUX 
+ 
+2 x Emergency tube light with Battery Backup 
+Suitable for Zone 2 llB T3 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+5 x Exterior Area Lighting – LED 
+Suitable for Zone 2 llB T3 
+Illumination level: 400 LUX 
+ 
+Light Switches for Internal & External Lighting 2ea 
+ 
+3 x 230V Receptacle 
+Rating: 16 Amps at 230VAC. 
+Type: Dead-front circuit-breaking receptacle. 
+Installation: Inside the House. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+20A 1P 2 Gang 
+Rating: 230VAC. 
+Protection: Local power disconnects for each electrical device. 
+Type: Snap switch with lockout capability. 
+Installation: Within easy reach of the electrical device. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+32A 3P 2 Gang 
+Rating: 230VAC. 
+Protection: Local power disconnects for each electrical device. 
+Type: Snap switch with lockout capability. 
+Installation: Within easy reach of the electrical device. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+1.c 
+Liquid Recovery system for Liquid samples 
+Make: Adage 
+Liquid Recovery system Consisting of redundant pumps (IECEX/ATEX 
+IIB, IP65), Check valves, SS gauges for suction & discharge, Skid, with 
+SS 100 litre tank level switches and control panel suitable use in Zone 
+1 llB IECEX/ATEX certified. 
+ 
+1 Set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+1.d 
+Gas Vent Recovery System 
+Make: Parker/Kinetics 
+All vents of the Analyser shall be connected to a vent recovery 
+system with N2 eductor/Pump (redundant), to re-inject the sample 
+flow into the into the flare. 
+
+1 Set 
+Quoted 
+1.e 
+Combustible Gas Monitor 
+Net Safety Combustible gas monitor(s) will be provided to monitor the 
+hydrocarbon concentration of the atmosphere inside the house and 
+trigger the alarm system at a predetermined LEL level. 
+One monitor will be mounted at low in the house and will be an IR 
+type monitor. Another monitor will be mounted High in the house and 
+will be a Catalytic Bead type. 
+3 
+Door switch 
+2 
+Oxygen Deficiency Monitor 
+Servomex Oxydetect Oxygen deficiency monitors will be provided to 
+monitor 
+the oxygen concentration of the atmosphere inside the house. The 
+monitor will trigger the alarm system at a predetermined level. 
+1 
+H2S gas monitor 
+Net Safety H2S gas monitor(s) will be provided to monitor the H2S 
+concentration of the atmosphere inside the house and trigger the 
+alarm system at a predetermined level. 
+2 
+Manual call point 
+2 
+Temperature transmitter 
+A Temperature transmitter will be installed to monitor the house 
+temperature. 
+1 
+Humidity Meter 
+1 
+1 Lot 
+Quoted 
+1.f 
+Utility Headers 
+316SS Instrument Air Header with Pressure Gauge, Dual Filters and 
+Primary isolation 
+1 Lot 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+valve in redundant configuration. Valves: Branch connections to include 1/4" 
+ball valves for each user 
+Taps: Taps with valves, provided. All unused taps to be plugged. 
+ 
+1" 316SS Plant N2 Header, 
+With Pressure Gauge. 
+Valves: Branch connections to include 1/4" ball valves for each user 
+Taps: Taps with valves, provided. All unused taps to be plugged. 
+ 
+2" 316SS Atm. Vent Header with Flame Arrestor & HC Diffuser (2 Nos) 
+ 
+2" 316SS Flare Header 
+ 
+2" 316SS Closed Drain Header 
+ 
+3/4" Potable Water header 
+ 
+1.g 
+Cylinder transportation trolley(Capacity 50L x 2 cylinders) 1No 
+ 
+Note: Calibration Gas Bottles where required shall be mounted outside 
+shelter wall with clamp and chain. 
+1 Nos 
+Quoted 
+1.h 
+Carrier gas cylinder Rack with auto change over regulator 
+Consists of 1 bay 2-Packs, fabricated with 4” angle, SS316 
+Base: Base shall be of 4” x 4” x ¼” angle. Joints will be seal welded. 
+Canopy: Included 
+Lifting Devices: SS lifting eyes shall be attached to the upper cross channel 
+and shall be designed to lift the total weight of the rack with all equipment 
+installed. 
+Capacity: Rack will hold one (1) 2-Packs (Primary and Standby) 
+Carrier Gas Change Over Station Qty: 1 
+ 
+Flow Capacity: 0.06 Cv, Outlet Pressure Range: 0-200 psig. Seat Material: 
+PCTFE, Gauges: Inlet gauges and Outlet gauge included, Connections: 1/4” 
+FNPT, each changeover station will include two flex hoses, CGAs, valves, 
+etc. to connect to the cylinders, 
+Pressure Transmitters: Qty. 2 
+ 
+1 set 
+Quoted 
+1.i 
+Network AMADAS Signal Junction Box, LM6/GRP IEC Certified for 
+Hazardous Area. 
+Two (2) ea. Managed Ethernet Switch with Fiber Transceiver, Ethernet and 
+LC-ST adapter. Includes Gateway module, redundant power supply. Pre-
+wired to the communication circuits in each analyzer or device via CAT5 
+cable and terminated with RJ45 connectors and/or Fiber Optic cable with 
+connectors, as needed. 
+Patch cords, as needed 
+1 set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Sr.No. 
+Description 
+Qty 
+Price 
+1.1 
+Ethylene Analyzer 
+Tag no: 5111AT0201 / EV111-AT-0201 
+Service: 5111R001 Overhead 
+Area classification: Zone 2 
+ 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500F certified for Zone 2 
+Streams: Single stream 
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour 
+ 
+Process Conditions at tapping: 
+- 
+Sample Pressure: 2.92 Bar a 
+- 
+Sample Temperature: 120 Deg C 
+ 
+Sample Return Details: 
+- 
+Fast loop & Sample return to GWD Header 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1 No 
+Quoted 
+1.1a 
+Sample Probe, 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube, MOC: SS316L with welded isolation valve 
+
+1 No 
+ 
+Quoted 
+1.1b 
+Sample Transportation tube: 
+- 
+¼’’ SS316L HTT Tube, 95 Meters with HTT accessories 
+ 
+1 No 
+Quoted 
+1.1c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+- 
+SHS components are mounted inside SS316 epoxy coated Enclosure 
+- 
+With Dilution Arrangement as per licensor scheme 
+1 No 
+Quoted 
+1.1d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC. 
+Zero gas: Grade 5 N2 
+Span Gas: Ethylene 60-80% of the measuring range 
+ 
+1 Each 
+Quoted 
+1.2 
+Ethylene Analyzer 
+Tag no: 5112AT0201 / EV112-AT-0201 
+Service: 5112R001 Overhead 
+Area classification: Zone 2 
+ 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500F certified for Zone 2 
+ 
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+Process Conditions at tapping: 
+- 
+Sample Pressure: 2.92 Bar a 
+- 
+Sample Temperature: 120 Deg C 
+ 
+Sample Return Details: 
+- 
+Fastloop & Sample return to GWD Header 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1.2a 
+Sample Probe: 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube, with welded isolation valve 
+ 
+1 No 
+Quoted 
+1.2b 
+Sample Transportation tube: 
+- 
+¼’’ SS316L HTT Tube, 125 Meters with HTT accessories and JBs. 
+ 
+1 No 
+Quoted 
+1.2c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+- 
+SHS components are mounted inside SS316 epoxy coated Enclosure 
+- 
+With Dilution Arrangement as per licensor scheme 
+ 
+1 No 
+Quoted 
+1.2d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC. 
+Zero gas: Grade 5 N2 
+Span Gas: Ethylene 60-80% of the range 
+ 
+1 Each 
+Quoted 
+1.3 
+Ethylene Analyzer 
+Tag no: 5113AT0201 / EV113-AT-0201 
+Service: 5113R001 Overhead 
+Area classification: Zone 2 
+ 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500F certified for Zone 2 
+ 
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour 
+
+Process Conditions at tapping: 
+- 
+Sample Pressure: 2.92 Bar a 
+- 
+Sample Temperature: 120 Deg C 
+ 
+Sample Return Details: 
+- 
+Fastloop & Sample return to GWD Header 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1.3a 
+Sample Probe: 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube, with welded isolation valve 
+ 
+1 No 
+Quoted 
+1.3b 
+Sample Transportation tube: 
+- 
+¼’’ SS316L HTT Tube, 135 Meters with HTT accessories and JBs. 
+ 
+1 No 
+Quoted 
+1.3c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+- 
+SHS components are mounted inside SS316 epoxy coated Enclosure 
+- 
+With Dilution Arrangement as per licensor scheme 
+ 
+1 No 
+Quoted 
+1.3d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC. 
+Zero gas: Grade 5 N2 
+Span Gas: Ethylene 60-80% of the range 
+ 
+1 Each 
+Quoted 
+1.4 
+Ethylene Analyser 
+Tag no: 5111AT0801 / EV110-AT-0801 
+Service: 5111U100 Downstream Vent 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500F certified for Zone 2 
+ 
+Area classification: Zone 2 
+Streams: 1 
+Sample State at Tapping: Vapor, Sample State at Analyzer: Vapor 
+
+Process Conditions at tapping: 
+- 
+Sample Pressure: 6.55 Bar a 
+- 
+Sample Temperature: 10 Deg C 
+ 
+Sample Return Details: 
+- 
+Fast loop & sample return to GWD Header 
+ 
+Analyzer Communication for Ethylene Analyser 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1 Set 
+Quoted 
+1.4a 
+Sample Probe: 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube with welded isolation valve 
+
+1 No 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+1.4b 
+Sample Transportation tube: 
+- 
+¼’’ SS316L HTT Tube, 250 Meters with HTT accessories and JBs. 
+ 
+1 No 
+ 
+1.4c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+- 
+SHS components are mounted inside SS316 epoxy coated Enclosure 
+ 
+1 Set 
+ 
+1.4d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC for Ethylene Analyser 
+Zero gas: Grade 5 N2 
+Span Gas: Ethylene 60-80% of the range 
+ 
+1 Lot 
+ 
+1.5 
+Ambient GC 
+Tag no: 5151AT2500 / EV190-AT-2500 
+Service: EDC Ambient area monitoring 
+Make: Valmet 
+Model: Maxum ll 
+Area classification: Zone 1 llB+H2 T3 
+Mounting: Wall mounted inside AH1 
+Streams: 17 
+Sample State at Tapping: Vapour, Sample State at Analyzer: Vapour 
+ 
+Process Parameters (Op) 
+- 
+Sample Pressure: 1 Bar a 
+- 
+Sample Temperature: 5-58 Deg C 
+ 
+Return Details: 
+- 
+Fastloop & Sample return to GWD Header 
+
+Quoted 
+ 
+1.5a 
+Rain protection hood near probe 
+17 Nos 
+Quoted 
+1.5b 
+Sample Transportation tube: 
+- 
+¼’’ SS316L HTT Tube, 350 Meters with HTT accessories and JBs. 
+1 No. 
+Quoted 
+1.5c 
+SHS Shall be as per licensor scheme. However, modular AOVs in place of 
+SOV, redundant suction and dischare pump to be considered. 
+The SHS shall be suitable for 17 streams 
+ 
+1 No 
+Quoted 
+1.5d 
+With calibration cylinder, 10Ltr WC (Common for all streams) with pressure 
+regulators. 
+1 No 
+Quoted 
+1.6 
+Moisture Analyzer 
+Tag no: 5111AT0606 / EV110-AT-0606 
+Service: 5111D004 Downstream 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500 
+Area classification: Zone 2 
+Mounting: Inside enclosure cabinet in AH2 
+Streams: 2 
+Sample State at Tapping: Liquid, Sample State at Analyzer: Liquid 
+ 
+Stream switching shall be done Via shelter PLC 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Process Parameters (Op) 
+- 
+Sample Pressure: 9.69 Bar a 
+- 
+Sample Temperature: 58.9 Deg C 
+- 
+Fastloop Return Pressure : 2.9 Bar a 
+
+Return Details: 
+- 
+Sample Return to process 
+ 
+- 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+RS 485 Modbus Output 
+- 
+Digital Outputs 
+ 
+1.6a 
+Sample Probe: 
+- 
+1’’ 300# RF flange 
+- 
+Probe tube with welded isolation valve 
+
+2 No 
+ 
+Quoted 
+1.6b 
+Sample Transportation tube for stream 1: 
+- 
+1/2’’ SS316L EP HTT Tube, 210 Meters with HTT accessories and 
+JBs. 
+ 
+Sample Transportation tube for stream 2: 
+- 
+1/2’’ SS316L EP HTT Tube, 210 Meters with HTT accessories and 
+JBs. 
+ 
+1 No 
+Quoted 
+1.6c 
+SHS System: 
+- 
+Sample handling System shall be in line with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated Enclosure 
+- 
+Sample bomb with Flexible hoses & quick connector for each stream is 
+considered for tag as per Requirement 
+- 
+Sample recovery system is considered 
+ 
+1 Set 
+Quoted 
+1.6d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: CO 60-80% of the range as Surrogate 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+Section 4: Technical Description of AH2 
+Analyzers 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Sr.No. 
+Description 
+Qty 
+Price 
+2 
+Analyzer Shelter (Analyzer House) 
+Tag no: AH-2 
+Make: ADAGE 
+Area Classification: Zone 1 IIC (Inside shelter) 
+ Zone 2 IIC (Outside shelter) 
+This AH comprising of the following Analysers 
+2.1 
+5121 AT 1201/ 
+ 
+Oxygen Analyser 
+2.2 
+5121 AT 1202/ 
+ 
+Oxygen Analyser 
+2.3 
+5121 AT 1203/ 
+ 
+Oxygen Analyser 
+2.4 
+5121 AT 1205/ 
+ 
+CO/CO2 Analyzer 
+2.5 
+5121 AT 1204/ 
+Ethylene Analyzer 
+2.6 
+5121 AT 0901/ 
+ 
+Hydrocarbons (EDC) in waste water 
+ 
+• 
+AH MOC SS316 with Paint 
+• 
+Construction Ribbed interlock type sandwich construction with 
+mineral wool insulation. 
+• 
+Base frame Fabricated from structural carbon steel channel or 
+Ibeam, fully welded, hot dip galvanized carbon steel finished with 
+black double layer epoxy paint. 
+• 
+Electrical hazardous classification: inside AH Suitable for use in 
+IECEx Zone 1, IIB, T3 
+• 
+Electrical hazardous classification: outside AH Suitable for use in 
+IECEx Zone 1, IIB, T3 
+• 
+Shelter external dimensions (LxWxH) in mm 8000 x 3000 x 3000. 
+• 
+External wall thickness in mm 1.5mm thick SS316 
+• 
+Internal wall thickness in mm 1.5mm thick SS316 
+• 
+Mineral wool Insulation thickness in mm 80 mm thick Polyurethane 
+(40 Kg/m3 min density) or Equivalent on walls, Roof and floor 
+• 
+Doors - Located on long walls, outward opening and sized as 900 x 
+2100mm Main & Exit 
+• 
+Safety window on each door Yes (Minimum 0.2 sq meters, Safety 
+glass shall be 
+6.4mm thick and laminated with 1.5mm interlayer) 
+• 
+Floor Anti-skid steel non-liquid trapping Chequered plates 
+• 
+Panic bar & auto door closure Provided on each door 
+• 
+Overhang Canopy 1000 mm in all 4 Sides 
+• 
+Barometric adjustable louvers 4 Nos, with screened aluminium 
+• 
+Anchor bolts required for shelter fixing Included 
+• 
+Tube entry through shelter walls Using MCT Blocks 
+• 
+Cable entry through shelter walls Using MCT Blocks 
+• 
+Armoured cables with cable glands Included 
+• 
+Cable tray Aluminium, cable tray with cover 
+• 
+Lifting lugs 4 Nos, Top Lift 
+• 
+316SS ball bearing hinges Included 
+• 
+316SS dual ground pads 4 
+• 
+Work Bench Metal workbench included 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+• 
+Cupboard with Chairs Lockable metal cabinet (nominal dimensions 
+2.0 x 1.0 x 0.4 meters) suitable for storage 
+of manuals, drawings, spare parts, tools, etc. 
+• 
+15A Switch sockets 2 
+• 
+Analyzer foundation By Client 
+ 
+2.a 
+HVAC Unit 
+• 
+HVAC Redundant 
+• 
+Electrical hazardous classification Suitable for use in IECEx Zone 1 
+llB T3 
+• 
+Casing MOC SS316 
+• 
+Capacity 7.5 Ton each (Finalized during design engineering) 
+• 
+HVAC configuration Single compressor 
+• 
+Heater and Air blower 6kW Built-in Zone 2 Electric Heat with Low 
+Watt Density 
+• 
+Elements and Intrinsically 
+• 
+Fresh air Min 12 air changes/hour or 20m3 of air per installed 
+analyzer/hour 
+• 
+Refrigerant R407C/R134a 
+• 
+Temperature maintained inside AH 23° C 
+• 
+Temperature control Using adjustable thermostat Inside AH 
+pressure 25 Pa 
+• 
+Heating type Electric HVAC attached to shelter…. Yes 
+• 
+Fresh air intake duct MOC Insulated GI 
+Fresh air intake duct Length (with all accessories) 12'' dia x 10' 
+length spiral duct, SS punched angle rings, Rain cap, bird-screen, 
+Fasteners and other supporting kit. 
+• 
+Return Air Filter Grille included 
+• 
+Phase Monitor to prevent reverse rotation of Electrical 
+• 
+Motors and to protect against single phasing included 
+• 
+Filter Dryer included 
+• 
+Anti-Static & Spark-Resistant Fan Blade included 
+• 
+Spark-Resistant Aluminum Blower Wheel(s) included 
+• 
+IECEx and ATEX Certified Zone 2 Condenser Fan Motor & 
+Evaporator Blower Motor included 
+• 
+Intrinsically Safe Fan Cycling Pressure Switch included 
+• 
+Intrinsically Safe Loss of Flow Switch and Alarm Contacts included 
+• 
+Power 380/415VAC-3PH-50HZ 
+• 
+HVAC control panel 
+• 
+IP66 with intrinsically safe thermostat and humidistat and other 
+controls 
+ 
+1 No 
+Quoted 
+2.b 
+Shelter Accessories 
+− 
+Chemical Filter (common for both HVAC) 
+ 
+− 
+Alarm panel 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+An annunciator of suitable electrical area classification shall be installed on 
+the external shelter wall next to the main shelter entrance door (for alarms 
+only) 
+ 
+These alarms shall typically include: 
+1-Loss of shelter pressurization or low fresh air changes (ventilation failure) 
+2- Fire or gas detection (flammable, toxic and / or low oxygen) 
+3-Fire or gas device fault 
+4-Air purge system failure (for purged Ex py enclosures, unlike Ex px 
+enclosures, which have power interlock, Ex py enclosures require 
+intervention on loss of purge) 
+5- Safety system failure (including failure of any processor module, 
+communication module, power module or I/O modules) 
+ 
+− 
+Analyzer house door signs Included 
+ 
+− 
+Electrical Panels & JBs. Suitable for use in IECEx Zone 2 IIB 
+Note: cable The Terminals, cable glands entries shall be decided during 
+detailed design engineering. Cable glands: Double compression, Brass 
+Nickel plated dual Certified Ex db and EX eb. 
+1 x Analog Signal Junction Box (Non-F&G Signals) SS316L , IP65 , Ex 
+‘eb’ IECEx Certified for Hazardous Area Zone 2 IIB, 
+ 
+1 x Digital Signal Junction Box, (Non-F&G Signals) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Analog F&G Junction Box (I.S) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Analog F&G Junction Box (Non-I.S) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+2 x F&G Junction Box (Digital Signals to/from plant F&G) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Flow Signal Junction Box 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB. , 
+ 
+1 x HVAC control Panel, 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB . 
+− 
+Zone 1 Rated On/Off Switch included 
+− 
+Intrinsically Safe Mechanical Thermostat included 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+− 
+Intrinsically Safe Mechanical Humidistat included 
+− 
+Terminal blocks for wiring terminations included 
+− 
+Fire & Gas (F&G) Shutdown Provision included 
+ 
+1x UPS Power distribution Panel, 
+All analyzers, F&G detection and alarm and electronic 
+control panels, shall be powered (230VAC 50Hz single phase) from UPS 
+power supplies. 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using two pole MCCB for single phase boards. 
+Two pole RCCB for individual items. 
+With Automatic Transfer Switch. 
+ 
+1 x NON-UPS Power distribution Panel, 1ea 
+Non-UPS power to be used for utilities such as Lighting, 
+Power Sockets, HVAC, Heat traced line, probe heater, Cabinet 
+Heaters etc. MOC: Exd, Aluminum , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB for three phase boards. 
+Two pole RCCB for single phase items. 
+Three pole MCCB for 3-Phase supply items. 
+With Automatic Transfer Switch. 
+ 
+1 x Emergency Power distribution Panel, 1ea 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB for three phase boards. 
+Two pole RCCB for single phase items. 
+Three pole MCCB for 3-Phase supply items. 
+ 
+1 x Local alarm Panel 
+MOC: Ex’db’/Ex’eb’, Aluminium/SS316/GRP , IP66 
+ 
+5 x Lighting, , 5ea 
+Interior LED Lights 
+Suitable for Zone 2 llB T3 
+Illumination level: 500 LUX 
+ 
+2 x Emergency tube light with Battery Backup 
+Suitable for Zone 2 llB T3 
+ 
+5 x Exterior Area Lighting – LED 
+Suitable for Zone 2 llB T3 
+Illumination level: 400 LUX 
+ 
+Light Switches for Internal & External Lighting 2ea 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+3 x 230V Receptacle 
+Rating: 16 Amps at 230VAC. 
+Type: Dead-front circuit-breaking receptacle. 
+Installation: Inside the House. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+20A 1P 2 Gang 
+Rating: 230VAC. 
+Protection: Local power disconnects for each electrical device. 
+Type: Snap switch with lockout capability. 
+Installation: Within easy reach of the electrical device. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+32A 3P 2 Gang 
+Rating: 230VAC. 
+Protection: Local power disconnects for each electrical device. 
+Type: Snap switch with lockout capability. 
+Installation: Within easy reach of the electrical device. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+2.c 
+Gas Vent Recovery System 
+Make: Parker/Kinetics 
+All vents of the Analyser shall be connected to a vent recovery system with 
+N2 eductor/Pump (redundant), to re-inject the sample flow into the into the 
+flare. 
+
+1 Set 
+Quoted 
+2.d 
+Combustible Gas Monitor 
+Net Safety Combustible gas monitor(s) will be provided to monitor the 
+hydrocarbon concentration of the atmosphere inside the house and 
+trigger the alarm system at a predetermined LEL level. 
+One monitor will be mounted at low in the house and will be an IR 
+type monitor. Another monitor will be mounted High in the house and 
+will be a Catalytic Bead type. 
+3 
+Door switch 
+2 
+1 Lot 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Oxygen Deficiency Monitor 
+Servomex Oxydetect Oxygen deficiency monitors will be provided to 
+monitor 
+the oxygen concentration of the atmosphere inside the house. The 
+monitor will trigger the alarm system at a predetermined level. 
+1 
+H2S gas monitor 
+Net Safety H2S gas monitor(s) will be provided to monitor the H2S 
+concentration of the atmosphere inside the house and trigger the 
+alarm system at a predetermined level. 
+2 
+Manual call point 
+2 
+Temperature transmitter 
+A Temperature transmitter will be installed to monitor the house 
+temperature. 
+1 
+Humidity Meter 
+1 
+2.e 
+Utility Headers 
+316SS Instrument Air Header with Pressure Gauge, Dual Filters and 
+Primary isolation 
+valve in redundant configuration. Valves: Branch connections to include 1/4" 
+ball valves for each user 
+Taps: Taps with valves, provided. All unused taps to be plugged. 
+ 
+1" 316SS Plant N2 Header, 
+With Pressure Gauge. 
+Valves: Branch connections to include 1/4" ball valves for each user 
+Taps: Taps with valves, provided. All unused taps to be plugged. 
+ 
+2" 316SS Atm. Vent Header with Flame Arrestor & HC Diffuser (2 Nos) 
+ 
+2" 316SS Flare Header 
+ 
+2" 316SS Closed Drain Header 
+ 
+3/4" Potable Water header 
+ 
+1 Lot 
+Quoted 
+2.f 
+Cylinder transportation trolley(Capacity 50L x 2 cylinders) 1No 
+ 
+Note: Calibration Gas Bottles where required shall be mounted outside 
+shelter wall with clamp and chain. 
+1 Nos 
+Quoted 
+2.g 
+Carrier gas cylinder Rack with auto change over regulator 
+Consists of 1 bay 2-Packs, fabricated with 4” angle, SS316 
+Base: Base shall be of 4” x 4” x ¼” angle. Joints will be seal welded. 
+Canopy: Included 
+Lifting Devices: SS lifting eyes shall be attached to the upper cross channel 
+and shall be designed to lift the total weight of the rack with all equipment 
+installed. 
+Capacity: Rack will hold one (1) 2-Packs (Primary and Standby) 
+Carrier Gas Change Over Station Qty: 1 
+ 
+Flow Capacity: 0.06 Cv, Outlet Pressure Range: 0-200 psig. Seat Material: 
+PCTFE, Gauges: Inlet gauges and Outlet gauge included, Connections: 1/4” 
+1 set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+FNPT, each changeover station will include two flex hoses, CGAs, valves, 
+etc. to connect to the cylinders, 
+Pressure Transmitters: Qty. 2 
+ 
+2.h 
+Network AMADAS Signal Junction Box, LM6/GRP IEC Certified for 
+Hazardous Area. 
+Two (2) ea. Managed Ethernet Switch with Fiber Transceiver, Ethernet and 
+LC-ST adapter. Includes Gateway module, redundant power supply. Pre-
+wired to the communication circuits in each analyzer or device via CAT5 
+cable and terminated with RJ45 connectors and/or Fiber Optic cable with 
+connectors, as needed. 
+Patch cords, as needed 
+1 set 
+Quoted 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Sr.No 
+Description 
+Qty 
+Price 
+2.1 
+Oxygen Analyser 
+Tag No : 5121AT1201 / EV121-AT-1201 
+Service: OXY RECYCLE GAS 
+Make: Siemens 
+Model: Oxymat 6F 
+Hazardous Area Classification: Zone 1, IIB 
+Mounting Location: Inside Analyser Shelter AH-2 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4 bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+2.1a 
+ 
+Sample Probe: 
+- 
+1’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No 
+Quoted 
+2.1b 
+Sample Transportation Tube: 
+- 
+¼’’ SS316 HTT Tube, Qty: 105 meters 
+ 
+1 No 
+Quoted 
+2.1c 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+2.1d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 
+Each 
+Quoted 
+2.2 
+Oxygen Analyser 
+Tag No : 5121AT1202 / EV121-AT-1202 
+Service: O2 in Condensed EDC Seperator RECYCLE GAS 
+Make: Siemens 
+Model: Oxymat 6F 
+Hazardous Area Classification: Zone 1, IIB, T3 
+Mounting Location: Inside AH2 
+Sample Phase: Vapour 
+
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4 bar a 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+- 
+Temperature (Operating): 48°C 
+
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+2.2a 
+ 
+Sample Probe: 
+- 
+1’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS3165 with welded isolation valve 
+ 
+1 No 
+Quoted 
+2.2b 
+Sample Transportation Tube: 
+- 
+¼’’ SS316 HTT Tube, Qty: 105 meters 
+ 
+1 No 
+Quoted 
+2.2c 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+2.2d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 
+Each 
+Quoted 
+2.3 
+Oxygen Analyser 
+Tag No : 5121AT1203 / EV121-AT-1203 
+Service: O2 in Condensed EDC Seperator GAS 
+Make: Siemens 
+Model: Oxymat 6F 
+Hazardous Area Classification: Zone 1, IIC 
+Mounting Location: Inside Analyser Shelter AH-2 
+Sample Phase: Vapour 
+
+Process Conditions 
+- 
+Supply Pressure (Operating): 2.37bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+2.3a 
+ 
+Sample Probe: 
+- 
+1’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No 
+Quoted 
+2.3b 
+Sample Transportation Tube: 
+- 
+¼’’ SS316 HTT Tube, Qty: 105 meters 
+ 
+1 No 
+Quoted 
+2.3c 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+2.3d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 
+Each 
+Quoted 
+2.4 
+CO2/CO Analyser 
+Tag No : 5121AT1205 / EV121-AT-1205 
+Service: CO2/CO INLET 
+Make: Siemens 
+Model: Ultramat 6F 
+Hazardous Area Classification: Zone 1, IIC, T3 
+Mounting Location: Inside AH2 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 2.37bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+2.4a 
+ 
+Sample Probe 
+Notes: Common tapping with (5121AT1202 / EV121-AT-1202) 
+Comm
+on 
+Probe 
+ 
+2.4b 
+Sample Transportation Tube: 
+Notes: Common sample transportation line with (5121AT1202 / EV121-
+AT-1202) 
+Comm
+on 
+Tube 
+ 
+2.4c 
+Common SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+Sample line shall be Tee off after fastloop filter 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+2.4d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 
+Each 
+Quoted 
+2.5 
+Ethylene analyser 
+Tag No : 5121AT1204 / EV121-AT-1204 
+Service: Downstream 5121D017 [Condensed EDC Separator]. Upstream 
+5121U001 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 2 
+Mounting Location: Inside AH2 
+Measuring range: 0 – 10 % 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser send sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+2.5a 
+ 
+Sample Probe 
+Notes: Common tapping with (5121AT1204 / EV121-AT-1204) 
+ 
+Common Probe 
+2.5b 
+Sample Transportation Tube: 
+Notes: Common sample transportation line with (5121AT1204 / EV121-
+AT-1204) 
+Common Tubing 
+2.5c 
+Common SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+Sample line shall be Tee off after fastloop filter 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+2.5d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+1 
+Each 
+Quoted 
+2.6 
+Hydrocarbon Analyser 
+Tag No: 5121AT0901 / EV120-AT-0901 
+Service1: HC (EDC) in WASTE WATER 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+MODEL: THERMO FID 
+MAKE: SK Electroniks 
+Hazardous Area Classification: Zone 1, IIB, T3 
+Detector: FID 
+Mounting Location: Inside AH2 
+Streams: 2 
+Sample Phase: Liquid 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 6.5 Bar a 
+- 
+Temperature (Operating): 40°C 
+ 
+Sample Return Details: 
+- 
+Ana vent return to ATM vent header with flame arrestor/Flare header 
+- 
+Condensate return to Drain header from HC Stripper. 
+- 
+Fastloop return to GWW header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+2.6a 
+Sample Probe: 
+- 
+4’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+2 Nos 
+Quoted 
+ 
+2.6b 
+Sample Transportation tube: 
+- 
+1/2’’ SS316 HTT Tube, Qty: 159 meters 
+1 No 
+Quoted 
+2.6c 
+Integration and supply of SHS System: 
+- 
+With HC stripper near tapping 
+ 
+2 Sets 
+Quoted 
+2.6d 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+2.6e 
+Calibration cylinders 
+- 
+With calibration blend along with cylinder pressure regulator 
+- 
+With Auto changeover regulators with Skid with canopy 
+ 
+1 
+Each 
+Quoted 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 5: Technical Description of AH3 
+Analyzers 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Sr.No. 
+Description 
+Qty 
+Price 
+3 
+Analyzer Shelter (Analyzer House) 
+Tag no: AH-3 
+Make: ADAGE 
+Area Classification: Zone 1 IIC (Inside shelter) 
+ Zone 2 IIC (Outside shelter) 
+This AH comprising of the following Analysers 
+3.1 
+5121 AT 1201/ 
+ 
+Oxygen Analyser 
+3.2 
+5121 AT 1202/ 
+ 
+Oxygen Analyser 
+3.3 
+5121 AT 1203/ 
+ 
+Oxygen Analyser 
+3.4 
+5122 AT 1205 
+A/B 
+ 
+CO/CO2 Analyzer 
+3.5 
+5122 AT 1204/ 
+ 
+Ethylene Analyzer 
+3.6 
+5131 AT 0101/ 
+ 
+Moisture Analyser 
+ 
+3.7 
+5131 AT 0451/ 
+ 
+Moisture Analyser 
+ 
+3.8 
+5131 AT 0901/ 
+ 
+Moisture Analyser 
+ 
+3.9 
+5151AT0701/ 
+ 
+Moisture Analyser 
+ 
+3.10 
+5151 AT 0503/ 
+ 
+Moisture Analyser 
+ 
+3.11 
+5151 AT 0451/ 
+ 
+Moisture Analyser 
+3.12 
+5151 AT 0502/ 
+ 
+HCL Analyser 
+3.13 
+5151 AT 1002/ 
+ 
+CHC analyser + Conductivity analyser 
+3.14 
+5151 AT 0501/ 
+ 
+Gas Chromatograph 
+3.15 
+5151 AT 1500/ 
+ 
+Gas Chromatograph (Ambient) 
+ 
+• 
+AH MOC SS316 with Paint 
+• 
+Construction Ribbed interlock type sandwich construction with 
+mineral wool insulation. 
+• 
+Base frame Fabricated from structural carbon steel channel 
+or Ibeam, fully welded, hot dip galvanized carbon steel 
+finished with black double layer epoxy paint. 
+• 
+Electrical hazardous classification: inside AH Suitable for use 
+in IECEx Zone 1, IIB, T3 
+• 
+Electrical hazardous classification: outside AH Suitable for 
+use in IECEx Zone 1, IIB, T3 
+• 
+Shelter external dimensions (LxWxH) in mm 12000 x 3000 x 
+3000. 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+• 
+External wall thickness in mm 1.5mm thick SS316 
+• 
+Internal wall thickness in mm 1.5mm thick SS316 
+• 
+Mineral wool Insulation thickness in mm 80 mm thick 
+Polyurethane (40 Kg/m3 min density) or Equivalent on walls, 
+Roof and floor 
+• 
+Doors - Located on long walls, outward opening and sized as 
+900 x 2100mm Main & Exit 
+• 
+Safety window on each door Yes (Minimum 0.2 sq meters, 
+Safety glass shall be 
+6.4mm thick and laminated with 1.5mm interlayer) 
+• 
+Floor Anti-skid steel non-liquid trapping Chequered plates 
+• 
+Panic bar & auto door closure Provided on each door 
+• 
+Overhang Canopy 1000 mm in all 4 Sides 
+• 
+Barometric adjustable louvers 4 Nos, with screened 
+aluminium 
+• 
+Anchor bolts required for shelter fixing Included 
+• 
+Tube entry through shelter walls Using MCT Blocks 
+• 
+Cable entry through shelter walls Using MCT Blocks 
+• 
+Armoured cables with cable glands Included 
+• 
+Cable tray Aluminium, cable tray with cover 
+• 
+Lifting lugs 4 Nos, Top Lift 
+• 
+316SS ball bearing hinges Included 
+• 
+316SS dual ground pads 4 
+• 
+Work Bench Metal workbench included 
+• 
+Cupboard with Chairs Lockable metal cabinet (nominal 
+dimensions 2.0 x 1.0 x 0.4 meters) suitable for storage 
+of manuals, drawings, spare parts, tools, etc. 
+• 
+15A Switch sockets 2 
+• 
+Analyzer foundation By Client 
+ 
+1.a 
+HVAC Unit 
+• 
+HVAC Redundant 
+• 
+Electrical hazardous classification Suitable for use in IECEx Zone 1 
+llB T3 
+• 
+Casing MOC SS316 
+• 
+Capacity 10 TR each (Finalized during design engineering) 
+• 
+HVAC configuration Single compressor 
+• 
+Heater and Air blower 6kW Built-in Zone 2 Electric Heat with Low 
+Watt Density 
+• 
+Elements and Intrinsically 
+• 
+Fresh air Min 12 air changes/hour or 20m3 of air per installed 
+analyzer/hour 
+• 
+Refrigerant R407C/R134a 
+• 
+Temperature maintained inside AH 23° C 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+• 
+Temperature control Using adjustable thermostat Inside AH 
+pressure 25 Pa 
+• 
+Heating type Electric HVAC attached to shelter…. Yes 
+• 
+Fresh air intake duct MOC Insulated GI 
+Fresh air intake duct Length (with all accessories) 12'' dia x 10' 
+length spiral duct, SS punched angle rings, Rain cap, bird-screen, 
+Fasteners and other supporting kit. 
+• 
+Return Air Filter Grille included 
+• 
+Phase Monitor to prevent reverse rotation of Electrical 
+• 
+Motors and to protect against single phasing included 
+• 
+Filter Dryer included 
+• 
+Anti-Static & Spark-Resistant Fan Blade included 
+• 
+Spark-Resistant Aluminum Blower Wheel(s) included 
+• 
+IECEx and ATEX Certified Zone 2 Condenser Fan Motor & 
+Evaporator Blower Motor included 
+• 
+Intrinsically Safe Fan Cycling Pressure Switch included 
+• 
+Intrinsically Safe Loss of Flow Switch and Alarm Contacts included 
+• 
+Power 380/415VAC-3PH-50HZ 
+• 
+HVAC control panel 
+• 
+IP66 with intrinsically safe thermostat and humidistat and other 
+controls 
+ 
+3.b 
+Shelter Accessories 
+− 
+Chemical Filter (common for both HVAC) 
+ 
+− 
+Alarm panel 
+An annunciator of suitable electrical area classification shall be installed on 
+the external shelter wall next to the main shelter entrance door (for alarms 
+only) 
+ 
+These alarms shall typically include: 
+1-Loss of shelter pressurization or low fresh air changes (ventilation failure) 
+2- Fire or gas detection (flammable, toxic and / or low oxygen) 
+3-Fire or gas device fault 
+4-Air purge system failure (for purged Ex py enclosures, unlike Ex px 
+enclosures, which have power interlock, Ex py enclosures require 
+intervention on loss of purge) 
+5- Safety system failure (including failure of any processor module, 
+communication module, power module or I/O modules) 
+ 
+− 
+Analyzer house door signs Included 
+ 
+− 
+Electrical Panels & JBs. Suitable for use in IECEx Zone 2 IIB 
+Note: cable The Terminals, cable glands entries shall be decided during 
+detailed design engineering. Cable glands: Double compression, Brass 
+Nickel plated dual Certified Ex db and EX eb. 
+1 x Analog Signal Junction Box (Non-F&G Signals) SS316L , IP65 , Ex 
+‘eb’ IECEx Certified for Hazardous Area Zone 2 IIB, 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+ 
+1 x Digital Signal Junction Box, (Non-F&G Signals) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Analog F&G Junction Box (I.S) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Analog F&G Junction Box (Non-I.S) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+2 x F&G Junction Box (Digital Signals to/from plant F&G) 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB, 
+ 
+1 x Flow Signal Junction Box 
+SS316L , IP65 , Ex ‘eb’ IECEx Certified for Hazardous Area 
+Zone 2 IIB. , 
+ 
+1 x HVAC control Panel, 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB . 
+− 
+Zone 1 Rated On/Off Switch included 
+− 
+Intrinsically Safe Mechanical Thermostat included 
+− 
+Intrinsically Safe Mechanical Humidistat included 
+− 
+Terminal blocks for wiring terminations included 
+− 
+Fire & Gas (F&G) Shutdown Provision included 
+ 
+1x UPS Power distribution Panel, 
+All analyzers, F&G detection and alarm and electronic 
+control panels, shall be powered (230VAC 50Hz single phase) from UPS 
+power supplies. 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using two pole MCCB for single phase boards. 
+Two pole RCCB for individual items. 
+With Automatic Transfer Switch. 
+ 
+1 x NON-UPS Power distribution Panel, 1ea 
+Non-UPS power to be used for utilities such as Lighting, 
+Power Sockets, HVAC, Heat traced line, probe heater, Cabinet 
+Heaters etc. MOC: Exd, Aluminum , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB for three phase boards. 
+Two pole RCCB for single phase items. 
+Three pole MCCB for 3-Phase supply items. 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+With Automatic Transfer Switch. 
+ 
+1 x Emergency Power distribution Panel, 1ea 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by 
+using four pole MCCB for three phase boards. 
+Two pole RCCB for single phase items. 
+Three pole MCCB for 3-Phase supply items. 
+ 
+1 x Local alarm Panel 
+MOC: Ex’db’/Ex’eb’, Aluminium/SS316/GRP , IP66 
+ 
+5 x Lighting, , 5ea 
+Interior LED Lights 
+Suitable for Zone 2 llB T3 
+Illumination level: 500 LUX 
+ 
+2 x Emergency tube light with Battery Backup 
+Suitable for Zone 2 llB T3 
+ 
+5 x Exterior Area Lighting – LED 
+Suitable for Zone 2 llB T3 
+Illumination level: 400 LUX 
+ 
+Light Switches for Internal & External Lighting 2ea 
+ 
+3 x 230V Receptacle 
+Rating: 16 Amps at 230VAC. 
+Type: Dead-front circuit-breaking receptacle. 
+Installation: Inside the House. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+20A 1P 2 Gang 
+Rating: 230VAC. 
+Protection: Local power disconnects for each electrical device. 
+Type: Snap switch with lockout capability. 
+Installation: Within easy reach of the electrical device. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+32A 3P 2 Gang 
+Rating: 230VAC. 
+Protection: Local power disconnects for each electrical device. 
+Type: Snap switch with lockout capability. 
+Installation: Within easy reach of the electrical device. 
+Hazardous Area Classification: Zone 2, IIB, T3 
+ 
+3.c 
+Liquid Recovery system for Liquid samples 
+Make: Adage 
+1 Set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Liquid Recovery system Consisting of redundant pumps (IECEX/ATEX 
+IIB, IP65), Check valves, SS gauges for suction & discharge, Skid, 
+with SS 100 litre tank level switches and control panel suitable use in 
+Zone 1 llB IECEX/ATEX certified. 
+Tubing are considered PTFE lined 
+
+3.d 
+Gas Vent Recovery System 
+Make: Parker/Kinetics 
+All vents of the Analyser shall be connected to a vent recovery 
+system with N2 eductor/Pump (redundant), to re-inject the sample 
+flow into the into the flare. 
+1 Set 
+Quoted 
+3.e 
+Combustible Gas Monitor 
+Net Safety Combustible gas monitor(s) will be provided to monitor the 
+hydrocarbon concentration of the atmosphere inside the house and 
+trigger the alarm system at a predetermined LEL level. 
+One monitor will be mounted at low in the house and will be an IR type 
+monitor. Another monitor will be mounted High in the house and will 
+be a Catalytic Bead type. 
+4 
+1 Lot 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Door switch 
+2 
+Oxygen Deficiency Monitor 
+Servomex Oxydetect Oxygen deficiency monitors will be provided to 
+monitor 
+the oxygen concentration of the atmosphere inside the house. The 
+monitor will trigger the alarm system at a predetermined level. 
+1 
+H2S gas monitor 
+Net Safety H2S gas monitor(s) will be provided to monitor the H2S 
+concentration of the atmosphere inside the house and trigger the 
+alarm system at a predetermined level. 
+2 
+Manual call point 
+2 
+Temperature transmitter 
+A Temperature transmitter will be installed to monitor the house 
+temperature. 
+1 
+Humidity Meter 
+1 
+3.f 
+Utility Headers 
+316SS Instrument Air Header with Pressure Gauge, Dual Filters and 
+Primary isolation 
+valve in redundant configuration. Valves: Branch connections to include 1/4" 
+ball valves for each user 
+Taps: Taps with valves, provided. All unused taps to be plugged. 
+ 
+1" 316SS Plant N2 Header, 
+With Pressure Gauge. 
+Valves: Branch connections to include 1/4" ball valves for each user 
+Taps: Taps with valves, provided. All unused taps to be plugged. 
+ 
+2" 316SS Atm. Vent Header with Flame Arrestor & HC Diffuser (2 Nos) 
+ 
+2" 316SS Flare Header 
+ 
+2" 316SS Closed Drain Header 
+ 
+3/4" Potable Water header 
+ 
+1 Lot 
+Quoted 
+3.g 
+Cylinder transportation trolley(Capacity 50L x 2 cylinders) 1No 
+ 
+Note: Calibration Gas Bottles where required shall be mounted outside 
+shelter wall with clamp and chain. 
+1 Nos 
+Quoted 
+3.h 
+Carrier gas cylinder Rack with auto change over regulator 
+Consists of 1 bay 2-Packs, fabricated with 4” angle, SS316 
+Base: Base shall be of 4” x 4” x ¼” angle. Joints will be seal welded. 
+Canopy: Included 
+Lifting Devices: SS lifting eyes shall be attached to the upper cross channel 
+and shall be designed to lift the total weight of the rack with all equipment 
+installed. 
+Capacity: Rack will hold one (1) 2-Packs (Primary and Standby) 
+Carrier Gas Change Over Station Qty: 1 
+ 
+Flow Capacity: 0.06 Cv, Outlet Pressure Range: 0-200 psig. Seat Material: 
+1 set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+PCTFE, Gauges: Inlet gauges and Outlet gauge included, Connections: 1/4” 
+FNPT, each changeover station will include two flex hoses, CGAs, valves, 
+etc. to connect to the cylinders, 
+Pressure Transmitters: Qty. 2 
+ 
+3.i 
+Network AMADAS Signal Junction Box, LM6/GRP IEC Certified for 
+Hazardous Area. 
+Two (2) ea. Managed Ethernet Switch with Fiber Transceiver, Ethernet and 
+LC-ST adapter. Includes Gateway module, redundant power supply. Pre-
+wired to the communication circuits in each analyzer or device via CAT5 
+cable and terminated with RJ45 connectors and/or Fiber Optic cable with 
+connectors, as needed. 
+Patch cords, as needed 
+1 set 
+Quoted 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Sr.No. 
+Description 
+Qty 
+Price 
+3.1 
+Oxygen Analyser 
+Tag No : 5122AT1201 / EV122-AT-1201 
+Service: OXY RECYCLE GAS 
+Make: Siemens 
+Model: Oxymat 6F 
+Hazardous Area Classification: Zone 1, IIB 
+Mounting Location: Inside Analyser Shelter AH-3 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4 bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+3.1a 
+Sample Probe: 
+- 
+1’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No 
+Quoted 
+3.1b 
+Sample Transportation Tube: 
+- 
+¼’’ SS316 HTT Tube, Qty: 170 meters 
+ 
+1 No 
+Quoted 
+3.1c 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+3.1d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 Each 
+Quoted 
+3.2 
+Oxygen Analyser 
+Tag No : 5122AT1202 / EV122-AT-1202 
+Service: O2 in Condensed EDC Seperator RECYCLE GAS Make: 
+Siemens 
+Model: Oxymat 6F 
+Hazardous Area Classification: Zone 1, IIB, T3 
+Mounting Location: Inside AH3 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4bar a 
+- 
+Temperature (Operating): 48°C 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+3.2a 
+Sample Probe: 
+- 
+1’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No 
+Quoted 
+3.2b 
+Sample Transportation Tube: 
+- 
+¼’’ SS316 HTT Tube, Qty: 170 meters 
+ 
+1 No 
+Quoted 
+3.2c 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+3.2d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 Each 
+Quoted 
+3.3 
+Oxygen Analyser 
+Tag No : 5122AT1203 / EV122-AT-1203 
+Service: O2 in Condensed EDC Seperator GAS 
+Make: Siemens 
+Model: Oxymat 6F 
+Hazardous Area Classification: Zone 1, IIB,T3 
+Mounting Location: Inside Analyser Shelter AH-3 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+3.3a 
+Sample Probe: 
+- 
+1’’ 150# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+ 
+3.3b 
+Sample Transportation Tube: 
+- 
+¼’’ SS316 HTT Tube, Qty: 170 meters 
+ 
+1 No 
+Quoted 
+3.3c 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+3.3d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 Each 
+Quoted 
+3.4 
+CO2/CO Analyser 
+Tag No : 5122AT1205 A/B / EV122-AT-1205A/EV122-AT-1205B 
+Service: OXY RECYCLE GAS 
+Make: Siemens 
+Model: Ultramat 6F 
+Hazardous Area Classification: Zone 1, IIB, T3 
+Mounting Location: Inside AH3 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4 bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+3.4a 
+Sample Probe 
+Notes: Common tapping with (5122AT1202 / EV122-AT-1202) 
+Common 
+Probe 
+ 
+3.4b 
+Sample Transportation Tube: 
+Notes: Common sample transportation line with (5122AT1202 / EV122-
+AT-1202) 
+Common 
+Tube 
+ 
+3.4c 
+Common SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+Sample line shall be Tee off after fastloop filter 
+SHS components are mounted inside SS316 epoxy coated Enclosure 
+1 No 
+Quoted 
+3.4d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+ 
+1 Each 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+3.5 
+Ethylene analyser 
+Tag No : 5122AT1204 / EV122-AT-1204 
+Service: Downstream 5122D017 [Condensed EDC Separator]. 
+Upstream 5121U001 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted inside 
+Zone 1 IIC certified purged enclosure 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 1, IIB, T3 
+Mounting Location: Inside AH3 
+Measuring range: 0 – 10 % 
+ 
+Sample Phase: Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 3.4 bar a 
+- 
+Temperature (Operating): 48°C 
+ 
+Sample Return Details: 
+- 
+Analyser spend sample & Fastloop return to GWD header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+1 No 
+Quoted 
+3.5a 
+Sample Probe 
+Notes: Common tapping with (5122AT1204 / EV122-AT-1204) 
+ 
+Common 
+Probe 
+ 
+3.5b 
+Sample Transportation Tube: 
+Notes: Common sample transportation line with (5122AT1204 / EV122-
+AT-1204) 
+ 
+Common 
+Tubing 
+ 
+3.5c 
+Common SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+Sample line shall be Tee off after fastloop . 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+3.5d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range 
+
+1 Each 
+Quoted 
+3.6 
+Moisture Analyser 
+Tag No: 5131AT0101 / EV130-AT-0101 
+Service: 5131C001 [Heads Column] bottom stream to 5131C002 [EDC 
+Column] 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 2 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Mounting Location: Inside AH 3 
+Measuring range: 0 - 100 ppm 
+ 
+Sample Phase: Liquid 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 10.34 Bar a 
+- 
+Temperature (Operating): 101°C 
+ 
+Return Details: 
+- 
+Sample Return to process 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+3.6a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+1 No 
+Quoted 
+ 
+3.6b 
+Sample Transportation Line 
+- 
+1/2’’ SS316 EP HTT tube for supply, 195 Meters 
+ 
+1 No 
+Quoted 
+3.6c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+- 
+Liquid recovery system is considered 
+ 
+1 No 
+Quoted 
+3.6d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range as Surrogate 
+ 
+1 Each 
+Quoted 
+3.7 
+Moisture Analyser 
+Tag No: 5131AT0451 / EV130-AT-0451 
+Service: 5131D002 [EDC Column Reflux Drum] downstream MODEL: 
+SERVOTOUGH 2500F certified for Zone 2 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 2 
+Mounting Location: Inside AH3 
+Measuring range: 0 - 100 ppm 
+Sample phase: Liquid 
+
+Process Conditions 
+- 
+Supply Pressure (Operating): 8.3 Bar a 
+- 
+Temperature (Operating): 126°C 
+ 
+Return Details: 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+- 
+Sample to process return 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+3.7a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316with welded isolation valve 
+ 
+1 No 
+Quoted 
+ 
+3.7b 
+Sample Transportation Line 
+- 
+1/2’’ SS316 EP HTT tube for supply, 225 Meters 
+ 
+1 No 
+Quoted 
+3.7c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+- 
+Liquid recovery system is considered 
+ 
+1 No 
+Quoted 
+3.7d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range as Surrogate 
+ 
+1 Each 
+Quoted 
+3.8 
+Moisture Analyser 
+Tag No: 5131AT0901 / EV130-AT-0901 
+Service: 5131D003 [Vacuum Colum Reflux Drum]downstream 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 2 
+Mounting Location: Inside AH3 
+Measuring range: 0 - 100 ppm 
+Sample Phase: Liquid 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 9.62 Bar a 
+- 
+Temperature (Operating): 39.2°C 
+ 
+Return Details: 
+- 
+Sample to process return 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1 No 
+Quoted 
+3.8a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316L with welded isolation valve 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+3.8b 
+Sample Transportation Line 
+- 
+1/2’’ SS316 EP HTT tube for supply, 170 Meters 
+ 
+1 No 
+Quoted 
+3.8c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+- 
+Liquid recovery system is considered 
+ 
+1 No 
+Quoted 
+3.8d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range as Surrogate 
+ 
+1 Each 
+Quoted 
+3.9 
+Moisture Analyser 
+Tag No: 5151AT0701 / EV150-AT-0701 
+Service: 5151D020 Downstream 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 II mounted inside 
+Zone 1 IIC certified purged enclosure 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 1 llB T3 
+Mounting Location: Inside Shelter AH3 
+Measuring range: 0 - 100 ppm 
+ 
+Sample Phase: Liquid 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 8.8 Bar a 
+- 
+Temperature (Operating): 49.6°C 
+
+Return Details: 
+- 
+Sample to process return 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1 No 
+Quoted 
+3.9a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No 
+Quoted 
+ 
+3.9b 
+Sample Transportation Line 
+- 
+1/2’’ SS316 EP HTT tube for supply, 210 Meters 
+ 
+1 No 
+Quoted 
+3.9c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+- 
+Liquid recovery system is considered 
+ 
+3.9d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range as Surrogate 
+ 
+1 Each 
+Quoted 
+3.10 
+Moisture Analyser 
+Tag No: 5151AT0503 / EV150-AT-0503 
+Service: 5151A001 [VCM Dryer] outlet stream to 5151C001 [HCl 
+Column] 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 2 
+Mounting Location: Inside AH3 
+Measuring range: 0 - 150 ppm 
+ 
+Sample phase : Vapour 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 14 Bar a 
+- 
+Temperature (Operating): 76°C 
+ 
+Return Details: 
+- 
+Sample Return to process 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+
+1 No 
+Quoted 
+3.10a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+1 No 
+Quoted 
+ 
+3.10b 
+Sample Transportation Line 
+- 
+1/2’’ SS316 EP EHT tube for supply, 265 Meters 
+ 
+1 No 
+Quoted 
+3.10c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+- 
+Liquid recovery system is considered 
+ 
+1 No 
+Quoted 
+3.10d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range as Surrogate 
+ 
+1 Each 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+3.11 
+Moisture Analyser 
+Tag No: 5151AT0451 / EV150-AT-0451 
+Service: 5151D002 [VCM Reflux Drum] downstream to 5151C003 
+MODEL: SERVOTOUGH 2500F certified for Zone 2 
+MAKE: SERVOMEX 
+Hazardous Area Classification: Zone 2 
+Mounting Location: Inside AH3 
+Measuring range: 0.0 - 100.0 ppm 
+ 
+Stream : 2 
+Stream switching shall be done via Shelter PLC. 
+ 
+Process Conditions for Str -1 
+- 
+Supply Pressure (Operating): 18.32 Bar a 
+- 
+Temperature (Operating): 44.9°C 
+ 
+Process Conditions for Str -2 
+- 
+Supply Pressure (Operating): 13.86 Bar a 
+- 
+Temperature (Operating): 47°C 
+ 
+Return Details: 
+- 
+Sample Return to process. 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+Modbus RS 485 Serial output 
+- 
+Digital Outputs 
+ 
+1 No 
+Quoted 
+3.11a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+2 Nos 
+Quoted 
+ 
+3.11b 
+Sample Transportation Line 
+- 
+1/2’’ SS316 EP EHT tube, 220 Meters 
+
+1 Lot 
+Quoted 
+3.11c 
+Sample Handling system as below: 
+- 
+Sample handling System shall be in line with licensor scheme. 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+- 
+Liquid recovery system is considered 
+ 
+1 No 
+Quoted 
+3.11d 
+Calibration cylinders (Zero & Span) with double stage cylinder pressure 
+regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: 60-80% of the range as Surrogate 
+
+1 Each 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+3.12 
+HCL Analyser 
+Tag No : 5151AT0502 / EV150-AT-0502 
+Service: 5151C003 [VCM Stripper] bottom stream 
+Make: Airoptic 
+Model: GasEye Extractive 
+Hazardous Area Classification: Zone 1 llB 
+Mounting Location: Inside AH3 
+Power Supply: 110VAC 50/60Hz 
+ 
+Process Conditions at sample Inlet 
+- 
+Supply Pressure (Operating): 13.86 Bar a 
+- 
+Temperature (Operating): 47.0°C 
+- 
+Sample return to : GWW header via vent recovery system 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 Nos 
+Quoted 
+3.12a 
+Sample Probe 
+Note: Common sample probe for Tag No: 5151AT0501 / EV150-AT-0501 
+ 
+Common 
+Probe 
+ 
+3.12b 
+Sample Transportation Tube: 
+Note: Common sample probe for Tag No: 5151AT0501 / EV150-AT-0501 
+ 
+Common 
+tube 
+ 
+3.12c 
+Sample handling system: 
+- 
+SHS system as required shall be considered for Extractive TDLS 
+analyser. 
+- 
+Manual sampling arrangement with quick connector shall be 
+considered 
+
+1 No 
+Quoted 
+3.13 
+CHC analyser + Conductivity analyser 
+Tag No: 5151AT1002 / EV150-AT-1002 + EV150-AT-1001 
+Service1: 5151D008 [LP Condensate Reveiver] downstream 5151P008 
+MODEL: THERMO FID + Conductivity 
+MAKE: SK Electroniks + Emerson 
+Hazardous Area Classification: Zone 1, IIB, T3 
+Detector: FID 
+Mounting Location: Inside AH3 
+Streams: 2 
+Sample Phase: Liquid 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 1.5 Bar a 
+- 
+Temperature (Operating): 101°C 
+ 
+Sample Return Details: 
+- 
+Ana vent return to ATM vent header with flame arrestor/Flare 
+header 
+- 
+Condensate return to Drain header from HC Stripper. 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+- 
+Fastloop return to GWW header 
+ 
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+3.13a 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+2 Nos 
+Quoted 
+ 
+3.13b 
+Sample Transportation tube: 
+- 
+½’’ SS316L HTT coated Tube Qty: 250 meters 
+1 No 
+Quoted 
+3.13c 
+Integration and supply of SHS System: 
+- 
+With HC stripper near Tapping 
+ 
+2 Sets 
+Quoted 
+3.13d 
+SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+ 
+1 No 
+Quoted 
+3.13e 
+Calibration cylinders 
+- 
+With calibration blend along with cylinder pressure regulator 
+- 
+With Auto changeover regulators with Skid with canopy 
+ 
+1 Each 
+Quoted 
+3.14 
+Gas Chromatograph 
+Tag No : 5151AT0501 / EV150-AT-0501 
+Service: 5151C003 [VCM Stripper] bottom stream 
+Make: Valmet 
+Model: Maxum ll 
+Hazardous Area Classification: Zone 1, IIB+H2, T3 
+Mounting Location: Inside AH3 
+ 
+Process Conditions 
+- 
+Supply Pressure (Operating): 13.86 Bar a 
+- 
+Temperature (Operating): 47.0°C 
+- 
+Sample Return to: Vent header with flame arrestor/Flare header 
+
+Analyzer Outputs: 
+- 
+4-20 mA Analog output. 
+- 
+RS 485/Ethernet Modbus Output. 
+- 
+Potential free contacts for fault & other alarms. 
+ 
+1 No 
+Quoted 
+3.14a 
+ 
+Sample Probe: 
+- 
+1’’ 300# RF Flange 
+- 
+Probe tube, MOC: SS316 with welded isolation valve 
+ 
+2 Nos 
+3.14b 
+Sample Transportation tube: 
+1/4’’ SS316L HTT coated Tube Qty: 295 meters 
+1 No 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+3.14c 
+Common Primary Sample Handling system 
+- 
+With HPR 
+- 
+Shall be mounted inside SS316L enclosure in field 
+1 No 
+Quoted 
+3.14d 
+ Secondary SHS system 
+- 
+Sample handling System shall be inline with licensor scheme 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+
+3.14e 
+Calibration cylinders 
+- 
+With calibration blend along with cylinder pressure regulator 
+- 
+With Autochangover regulators with Skid with canopy 
+
+1 Each 
+Quoted 
+3.15 
+Gas Chromatograph (Ambient) 
+Tag Nos. : 5151AT1500 / EV190-AT-1500 
+Service: Ambient Air 
+Sample Phase: Gas 
+Model: Valmet 
+Make: Siemens AG, Germany 
+Hazardous Area Classification: Zone 1 IIB+H2 T3 
+Mounting Location: Inside Analyzer shelter AH-3 
+Streams: 17 streams 
+ 
+Process Conditions at Sample inlet 
+- 
+Supply Pressure (Operating/Design): Ambient 
+- 
+Temperature (Operating/Design): 5-58 Deg C 
+ 
+GC Outputs: 
+- 
+Common 4-20 mA Analog output. 
+- 
+RS-485 / Ethernet Modbus Serial Output 
+- 
+Potential free contacts for fault & other alarms 
+
+1 No 
+Quoted 
+3.15a 
+Rain protection hood near probe 
+17 Nos 
+Quoted 
+3.15b 
+Sample Transportation tube: 
+¼’’ SS316L HTT Tube, 250 Meters with HTT accessories and JBs. 
+1 No. 
+Quoted 
+3.15c 
+SHS Shall be as per licensor scheme. However, modular AOVs in place of 
+SOV, redundant suction and dischare pump to be considered. 
+The SHS shall be suitable for 17 streams 
+ 
+1 No 
+Quoted 
+3.15d 
+With calibration cylinder, 10Ltr WC (Common for all streams) with pressure 
+regulators. 
+1 No 
+Quoted 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Section 6: Technical Description of Cabinet 
+Mounting Analyser 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+S.N. 
+Item Description 
+Qty. 
+Price 
+4 
+Analyzer Cabinet 
+ 
+• 
+Cabinet shall be made of SS316 sheet in welded construction. 
+• 
+Dimensions: 2100H x 1200L x 800D 
+• 
+Front door (double leaf) shall be made of 2mm th. SS316 sheet. 
+• 
+Top, rear and side sheet shall be made of 1.5mm th. SS316 sheet. 
+• 
+Bottom sheet will be made of 1.5mm th. SS316 sheet. 
+• 
+Side gland plate will be made of 2.5mm th. SS316 sheet. 
+• 
+Side support angle and vertical c-channel will be made of 2mm th. 
+SS316 sheet. 
+• 
+Base frame will be made of ISMC 100 ms channel. 
+• 
+Stiffner shall be provided on doors 
+• 
+Finish: buff finish 
+• 
+shade for base frame: black 
+• 
+Protection class: - IP54 (without cutouts) 
+• 
+Top cover with 4 nos eye bolts 
+• 
+1x toxic detector 
+• 
+Analyzer foundation By Client 
+• 
+Includes Utility Headers. 
+• 
+1x 1’’ 316SS Instrument Air Header with Pressure Gauge, Dual Filters 
+and Primary isolation valve in redundant configuration. 
+• 
+1x 2" 316SS Closed Drain Header 
+Includes Power & Signal Jb 
+1 x Analog Signal Junction Box (Analyser signal) SS316L , IP65 , Ex ‘eb’ 
+IECEx Certified for Hazardous Area Zone 2 IIB, 
+1 x Digital Signal Junction Box, (Non-F&G Signals) SS316L , IP65 , Ex 
+‘eb’ IECEx Certified for Hazardous Area Zone 2 IIB, 
+ 
+1 x UPS Power distribution Panel, 
+Analyser shall be powered (230VAC 50Hz single phase) from UPS power 
+supplies. 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by using two 
+pole MCCB. 
+1 x non-UPS Power distribution Panel, 
+Analyser shall be powered (230VAC 50Hz single phase) from UPS power 
+supplies. 
+MOC: Exd, Aluminium , IP66 
+Incoming power supply for the distribution boards shall be by using two 
+pole MCCB. 
+3 
+Quoted 
+4.b 
+Ex-proof cabinet Air conditioner 
+Suitable for Zone 1 IIB 
+Refrigeration Capacity: 1 TR 
+Structure 
+Skid of CRCA, Powder coated sheets, 
+6 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Total Evaporation Section is Insulated with FR Chemically 
+Cross linked Polyethylene insulation of 20mm thk with Inner Aluminium Foil 
+Physical characteristics 
+Dimensions: 550 x 650 x 1400(h) mm 
+Weight: 100 kg 
+Box type Air Pre filter 
+Condenser Coil: Air Cooled, Fin Tube Type Condenser Coil 
+Condenser Fan: Axial Type Motor Certified for GAS group IIC 
+Compressor: Hermetically sealed with Exd certified TB for Gas group IIB, Zone 
+1 
+Refrigerant: R134a Qty(appx): 0.950Kgs 
+Power supply: 415V, 3 Ph., 50 Hz 
+
+4.c 
+Network AMADAS Signal Junction Box, LM6/GRP IEC Certified for 
+Hazardous Area. 
+Two (2) ea. Managed Ethernet Switch with Fiber Transceiver, Ethernet and LC-
+ST adapter. Includes Gateway module, redundant power supply. Pre-wired to 
+the communication circuits in each analyzer or device via CAT5 cable and 
+terminated with RJ45 connectors and/or Fiber Optic cable with connectors, as 
+needed. 
+Patch cords, as needed 
+3 
+Quoted 
+4.1 
+Moisture Analyzer (All components shall be SS316L) 
+ 
+Tag no: 5141AT0101 / EV141-AT-0101 
+Service: EDC Feed train2 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500 
+Area classification: Zone 2 
+Mounting: Inside field cabinet with redundant AC 
+Streams: 1 
+Sample State at Tapping: Liquid, Sample State at Analyzer: Liquid 
+Process Parameters (Op) 
+- 
+Sample Pressure: 34.8 Bar a 
+- 
+Sample Temperature: 115 Deg C 
+ 
+Return Details: 
+- 
+Sample Return 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+RS 485 Modbus Output 
+- 
+Digital Outputs 
+ 
+1 No 
+Quoted 
+4.1a 
+Sample Probe: 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube with welded isolation valve 
+
+1 No 
+ 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+4.1b 
+Sample Transportation tube for stream 1: 
+- 
+1/2’’ SS316L EP HTT tube for supply, 150 Meters 
+ 
+1 No 
+Quoted 
+4.1c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+- 
+Sample recovery system is considered 
+1 Set 
+Quoted 
+4.1d 
+Calibration cylinders (Zero & Span) with double stage cylinder 
+pressure regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: CO 60-80% of the range as Surrogate 
+
+1 No 
+Quoted 
+4.2 
+Moisture Analyzer (All components shall be SS316L) 
+ 
+Tag no: 5141AT0102 / EV141-AT-0102 
+Service: EDC Feed train2 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500 
+Area classification: Zone 2 
+Mounting: Inside field cabinet with redundant AC 
+Streams: 1 
+Sample State at Tapping: Liquid, Sample State at Analyzer: Liquid 
+ 
+Process Parameters (Op) 
+- 
+Sample Pressure: 34.8 Bar a 
+- 
+Sample Temperature: 115 Deg C 
+- 
+Fastloop Return pressure : 0 Bar a 
+ 
+Return Details: 
+- 
+Sample Return 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+RS 485 Modbus Output 
+- 
+Digital Outputs 
+ 
+1 No 
+Quoted 
+4.2a 
+Sample Probe: 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube with welded isolation valve 
+
+1 No 
+ 
+Quoted 
+4.2b 
+Sample Transportation tube for stream 1: 
+- 
+1/2’’ SS316L EP HTT tube for supply, 150 Meters 
+ 
+1 No 
+Quoted 
+4.2c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+1 Set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+Sample recovery system is considered 
+4.2d 
+Calibration cylinders (Zero & Span) with double stage cylinder 
+pressure regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: CO 60-80% of the range as Surrogate 
+
+ 
+1 No 
+Quoted 
+4.3 
+Moisture Analyzer (All components shall be SS316L) 
+ 
+Tag no: 5141AT0103 / EV141-AT-0103 
+Service: EDC Feed train3 
+Make: SERVOMEX 
+Model: SERVOTOUGH 2500 
+Area classification: Zone 2 
+Mounting: Inside field cabinet with redundant AC 
+Streams: 1 
+Sample State at Tapping: Liquid, Sample State at Analyzer: Liquid 
+
+Process Parameters (Op) 
+- 
+Sample Pressure: 34.8 Bar a 
+- 
+Sample Temperature: 115 Deg C 
+ 
+Return Details: 
+- 
+Sample Return 
+ 
+Analyzer Communication 
+- 
+4-20 mA Analog output 
+- 
+RS 485 Modbus Output 
+- 
+Digital Outputs 
+
+1 No 
+Quoted 
+4.3a 
+Sample Probe: 
+- 
+1’’ 150# RF flange 
+- 
+Probe tube with welded isolation valve 
+
+1 No 
+ 
+Quoted 
+4.3b 
+Sample Transportation tube for stream 1: 
+- 
+1/2’’ SS316L EP HTT tube for supply, 150 Meters 
+ 
+1 No 
+Quoted 
+4.3c 
+SHS System : 
+- 
+Sample handling System shall be inline with licensor scheme . 
+- 
+SHS components are mounted inside SS316 epoxy coated 
+Enclosure 
+1 Set 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Sample recovery system is considered 
+4.3d 
+Calibration cylinders (Zero & Span) with double stage cylinder 
+pressure regulators, 10 Ltr WC 
+Zero gas: Grade 5 N2 
+Span Gas: CO 60-80% of the range as Surrogate 
+1 No 
+Quoted 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 7: Technical Description of In-situ 
+Analyzers 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+S.N. 
+Item Description 
+Qty. 
+Price 
+ 5.1-
+5.3 
+O2 TDLAS Analyzer 
+Tag no: EV110-AT-0601A, EV110-AT-0601B, EV110-AT-0601C 
+Service: EDC VENT SEPERATOR 
+Make: AIROPTIC 
+Model: GAS EYE, SIL 2 Compliant 
+Area classification: Zone 2 IIB, T3 
+Mounting: Insitu 
+Streams: 1 
+Sample State: Vapor 
+ 
+Connection: 4” 300# FF Flange with isolation valve 
+
+Process Parameters (Op) all 3 Analyzers 
+- 
+Sample Pressure: 1.8 Bar a 
+- 
+Sample Temperature: 10 Deg C 
+ 
+With Alignment kit (common for all 3 tags) 
+
+Details: 
+- 
+Optical Path Length min 1.2m required. 
+- 
+All Field power and signal cables shall be in customer’s scope of supply 
+- 
+N2 @4-6 Bar a shall be provided by customer at process tapping point 
+- 
+Serial cable from oxygen analyser at stack till analyser Shelter shall be 
+provided by contractor, further communication from Shelter end using 
+necessary converters by Adage. 
+- 
+With isolation flange and valve 
+- 
+TDLS Analyser is factory calibrated & lifetime calibration free. 
+ 
+Analyzer Communication 
+- 
+4-20 mA for each measuring component 
+- 
+RS 485 Modbus Serial output 
+- 
+Faults alarms 
+
+3 No 
+ 
+Quoted 
+
+ 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Section 8: Technical Description of AMADAS 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Technical Overview 
+ 
+Sitrans Analyzer System Manager (ASM) IQ 
+
+Every production process relies on process analyzers, they are essential for process plans and are 
+designed for a long-life time. But if analysers malfunction, there is risk of losing critical data on 
+product quality, emissions and safety. Challenges such as unexpected down times, inaccurate 
+measurements or potential issues with sample preparation could arise, resulting in need in 
+maintenance of the analyzer. To ensure that the plant runs reliably is to have Sitrans ASM IQ, it 
+reads data from the instruments, sample preparation , shelter environment and process information 
+to detect any emerging issues. Incase if there is issue with the analyzer, the software alerts the user 
+beforehand giving the technician enough time to deal with the issue while the analyzer is fully 
+functional. 
+
+Continuous monitoring by Sitrans ASM IQ improves the measurement accuracy, avoids the 
+unexpected downtime, supports the supervision of the measurement environment. Increases the 
+maintenance efficiency and creates the performance transparency of the Analyzer. The Sitrans 
+ASM IQ supports every Analyzer in the market and is perfectly suited to optimize operability for any 
+user of measurement devices for any industries. It comes with the modern user interface with 
+powerful data analysis software tailored for process analysers. It gives performance reports and its 
+reliable with complete cyber security solution. With Sitrans IQ plant operators in every industry can 
+increase their output, optimize cost, and most importantly produce more sustainably. 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+
+Sitrans Analyzer System Manager (ASM) IQ – Cybersecurity Overview 
+ 
+Secure System Architecture. 
+The strategy for dividing plants and connected plants into security cells increases the availability of 
+the overall system. Failures or security threats that result in failure can thereby be restricted to the 
+immediate vicinity. During the planning of the security cells, the plant is first divided into process 
+cells and then into security cells based on the security measures. 
+System Hardening 
+The term "hardening" in information security is understood to mean the removal of all software 
+components and functions that are not absolutely necessary to fulfill a given task. In other words, 
+hardening summarizes all measures and settings with the goal of 
+o Reducing the opportunities to exploit vulnerabilities in software 
+o Minimizing potential methods of attack 
+o Limiting the tools available for a successful attack 
+o Minimizing the available rights following a successful attack 
+o Increasing the probability of detecting a successful attack This is intended to increase 
+local security and the resilience of a computer to withstand attacks. It follows that a 
+system can be described as "hardened" if: 
+o The software components and services installed are limited to those that are required 
+for the actual operation 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+o A restrictive user and rights management is implemented • The local Windows 
+Firewall is enabled and it is restrictively configured. 
+
+Data Protection and Integrity 
+ 
+Data protection and integrity are both important aspects of cybersecurity that work together to 
+protect sensitive information: 
+Data protection: The strategic and procedural steps to safeguard data from loss, corruption, or 
+damage. Data 
+protection is often used interchangeably with data security. 
+Data integrity: The accuracy, consistency, and reliability of data over time and across formats. Data 
+integrity is a benefit of data security, but it's not the same thing. 
+Data protection and integrity are supported by the CIA triad, which is a framework that includes 
+three fundamentals’ elements: 
+Confidentiality: Protecting data from unauthorized access 
+Integrity: Maintaining data's accuracy, completeness, and reliability 
+Availability: Ensuring data is accessible when needed 
+ 
+Privacy 
+Involves how your data is used and controlled, and your rights as to how your personal information 
+is collected, used, stored, and shared. 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+
+ 
+Security Patch Management 
+ 
+Microsoft regularly eliminates security gaps in its products and provides these corrections to its 
+customers in form of software updates, so-called patches. Periodic installation of updates is 
+required to ensure secure and stable operation. 
+Access control and account management. 
+Administration of user authorizations, group authorizations, and operation authorizations involves 
+the assignment of authorizations in the Windows environment as well as the assignment of users to 
+activity-oriented roles. These procedures are rigorously separated from each other, but both are 
+strictly applied under the principle of minimum required rights. When logging on to the operating 
+system, the user may receive only the rights that are required for accomplishing his/her tasks. 
+Secure Remote Access. 
+Optimal proactive, secure and system-specific support for the automation system from remote 
+locations: This is the idea behind the SIMATIC Remote Services (SRS) platform. Thanks to its 
+modular design, SIMATIC Remote Services can be optimally adapted to actual requirements. The 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+available modules not only provide the remote infrastructure but also include support and 
+maintenance. Since the SIMATIC Remote Services are based on the common Remote Services 
+Platform (cRSP) from Siemens, plant operators work on a secure, high-performance, and high-
+availability platform for remote access to their SIMATIC automation systems. 
+Security Logging & Monitoring 
+Security logging and monitoring is a process that helps organizations detect and respond to security 
+threats and incidents: 
+Logging: Collects data about activities, events, errors, and the status of a network or system. 
+Monitoring: Analyzes the collected data to identify changes and anomalies. 
+Security logging and monitoring is a critical part of cybersecurity because it provides visibility into all 
+IT activities,helps identify potential vulnerabilities, ensures compliance with regulatory requirements, 
+allows organizations to detect and respond to security incidents in real-time. 
+Malware Protection 
+Focus on protecting the automation system or the computers of the automation system against 
+malicious software. Malicious software and malicious programs (malware) refers to computer 
+programs that were developed to execute undesirable and possible damaging functions. A virus 
+scanner or antivirus program software detects, blocks and, if necessary, removes malware. Mc Afee 
+ENS is installed on the server and backup server for protection from virus. 
+Backup & Restore 
+A backup is used to safeguard data. There are two types of backups in the AMADAS 
+environment: 
+System backup 
+Application backup 
+System Backups (images) of AMADAS Server, should be made at key moments (significant 
+changes to the installed software) during the life cycle of the system. Backup images must be stored 
+on an external media to avoid damage in case of a system failure. 
+System Backup contains the entire hard drives. Acronis software will be used for creating a system 
+backup. 
+System recovery In case of problems, the image backup should be recovered from the Backup 
+server. 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+The AMADAS system architecture consists of multiple key components integrated into a robust 
+network: 
+ 
+• 
+Fiber-Optic Communication Network: Ensures high-speed and secure data transmission from 
+analyzers to AMADAS servers. 
+• 
+AMADAS Servers: Server located in the rack room to manage analyzer data and perform 
+diagnostics. 
+• 
+Workstations: PCs located in engineering room which allow operators to access real-time data, 
+perform maintenance tasks, and manage system settings. 
+• 
+Two (2) Rugged laptops compatible with zone 2 IIB (installed with GC-maintenance software.) shall 
+be used in analyser shelters. 
+Key Features of AMADAS 
+• 
+Redundant fiber-optic communication from analyzers, including both analog 4-20mA signals and 
+digital data sent to AMADAS servers. 
+• 
+The AMADAS solution incorporates comprehensive cybersecurity features, including firewalls, 
+secure server communication, and redundant power supplies to ensure 
+• 
+AMADAS includes a remote calibration system for critical analyzers, ensuring accuracy without 
+interrupting system operation. 
+• 
+All analyzer data is logged in a historical database to track performance over time, with SQC limits 
+and analyzer diagnostics stored for future analysis. 
+System Integration and Software 
+• 
+OPC Client/Server Interface: AMADAS supports OPC client/server capabilities for seamless data 
+communication with the Plant Information Network (PIN), ensuring easy access to analyzer data 
+across the facility. 
+• 
+Server Configuration: AMADAS servers are equipped with high-availability configurations, 
+including redundant power supplies and RAID storage, to ensure uninterrupted operation. 
+• 
+Software: The AMADAS software integrates seamlessly with the existing DCS and analyzer 
+systems, ensuring smooth data flow and operational control. 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Utilities 
+• 
+Power Supply: 240V, 1-phase, 50Hz for AMADAS servers and associated equipment. 
+• 
+Analyzer Data: Access to signals from the DCS for integration into AMADAS by redundant OPC 
+link through OPC gateway. 
+• 
+Cybersecurity: Integration with existing plant cybersecurity systems for secure remote access and 
+system monitoring. 
+ 
+Comments & Deviations 
+ 
+Standards 
+Our products and services are designed and manufactured in accordance with IEC, EN, DIN and VDE 
+standards as far as applicable. 
+ 
+Documentation 
+- Included in the documentation will be operation and maintenance manuals of the individual components. 
+Detailed operation and maintenance manuals of the complete system can be delivered on additional 
+charge. 
+- Included in the documentation will be erection and commissioning manuals of the individual components. 
+- 
+Documentation will be provided in english language and submitted as PDF files. 
+- Format of electronic files will be ECS-CAD, dxf-files if applicable. 
+- Documentation will be in accordance with EN 81346-2 
+- There will be no wiring diagrams included in the preliminary documentation. 
+ 
+EC Declaration of Conformity 
+The conformity with the EC Declaration of Conformity will be confirmed for the quoted system after 
+completion of the system. All necessary tests will be conducted as far as applicable. 
+The system will therefore be marked with the CE mark 
+ 
+Analyzer System Manager Annual Maintenance Program “AMP” agreement 
+ 
+For the duration of the agreement for the software SITRANS ANALYZER SYSTEM MANAGER IQ 
+(hereinafter referred to as SOFTWARE), SIEMENS will automatically send you the latest, released update / 
+service pack / upgrade (hereinafter referred to as RELEASE) to the delivery address specified in the order 
+or to make it available for download. This ensures that the SOFTWARE is always up to date and contains 
+all the features of the latest RELEASE. 
+ 
+After installing the RELEASE, an additional configuration of the system may be necessary to be able to use 
+the feature. This is not part of the contract. The ANNUAL MAINTENANCE PROGRAM (hereinafter referred 
+to as AMP) does not include that maintenance of the existing SOFTWARE, is associated with the 
+RELEASE and any existing errors in the version of the SOFTWARE that you have, which resulted after the 
+SAT (Site Acceptance Test), are eliminated with the RELEASE. In addition, no obligation to create a 
+RELEASE can be derived from this AMP. 
+ 
+Siemens will conduct a brief overview on the health of the project and provide recommendations on 
+any observations that could affect project performance. Time required to perform adjustments to the 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+system are not included. 
+ 
+The AMP runs for one year from the date of delivery of Item 1 (Section 1.1: Price Summary) as per 
+Incoterms 2020 unless otherwise specified. It will be automatically renewed each 1 year if not terminated 3 
+months before expiration. 
+ 
+The implementation of specific updates should be executed by a qualified person. Siemens will provide and 
+conduct the updates with remote connectivity approval. Siemens technical. Resources may be available to 
+site for the cost of time for travel and work execution. 
+ 
+Bill of Quantity for AMADAS at Server side 
+S.N. 
+Item Description 
+Qty. 
+Price 
+1 
+AMADAS Server (Redundant) 
+Server Hardware 
+• CPU: Core2 Duo 2.13 Ghz minimum 
+• Main memory 3 GBytes 
+• Hard disk capacity 1 TBytes minimum RAID 5 
+• Expansion slot for Control bus Interface 
+• Drive: CD-ROM + DVD ROM 
+• Communication device: Ethernet ready network card 100Mbs 
+• Graphics: DirectX 9 corresponding GPU and 128MB graphic memory 
+• Pull-out rack mounted cabinet monitor/keyboard/mouse for server 
+application and maintenance 
+• Redundant power supply (hot replacement). 
+2 
+Quoted 
+2 
+Workstation PC, Accessories 
+• 
+KVM 24” screens with a dedicated keyboard and mouse 
+installed 
+1 
+Quoted 
+3 
+Fiber-Optic Communication Network 
+& Accessories for Network Redundancy (Network Switches, 
+Fiber Optic Patch Panels etc) 
+1 Set 
+Quoted 
+4 
+Cybersecurity Hardware and associated Software (for AMADAS 
+server) 
+1 Set 
+Quoted 
+5 
+Cabinet and Accessories 
+1 Set 
+Quoted 
+6 
+AMADAS Software 
+SITRANS ASM IQ Software (Siemens) 
+- 
+ASM IQ License 
+- 
+ASM IQ Software 
+1 
+Quoted 
+7 
+GCP Workstation Software - 1 license (Valmet) 
+ 
+Workstation Software 
+License key for Gas Chromatograph Portal including 
+Workstation Tools and GC Software 
+ 
+License for 1 user 
+Software provides full access to MAXUM II GCs over the 
+Ethernet network. Maintenance and application parameters are 
+shown in simple graphical displays with the ability to drill down 
+to specific parameters as needed. 
+The software is completely compatible with all MAXUM II GCs in 
+the field as long as the analysers are 
+using software revision level 4.0 or later. 
+ 
+1 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Q25AKAI10062 
+Miscellaneous Items: 
+ 
+Sr. 
+No. 
+Description 
+Qty 
+Price 
+1 
+Startup & Commissioning spares 
+Includes OD Ferrule Sets, Fuses and gaskets. 
+Detailed List shall be provided later. 
+1 No 
+Quoted 
+2 
+Mandatory spares 
+We have Considers one of each type analyzer as complete spare along with 
+Shelter Spare and SCS Spares. 
+1 No 
+Quoted 
+3 
+2 Years O&M spares 
+Detailed list as per our recommendation shall be provided later. 
+1 No 
+Quoted

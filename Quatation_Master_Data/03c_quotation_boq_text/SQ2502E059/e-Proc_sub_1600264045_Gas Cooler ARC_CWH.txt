@@ -1,0 +1,114 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Daman &
+Diu
+Extra Charge Details (Tax Type --- Extra Charge Amount --- Unit)
+Freight % - FRA1 - 2 %
+Ins. on total bill % - Y019 - 1 %
+Forwad/Pack charge % - Y021 - 1 %
+Packaging charge (%) - Y098 - 2 %
+Item Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2016 All Rights Reserved, Tata Steel
+
+
+Showing 1 to 1 of 1 rows
+records per page
+Brief Desc:GAS ANLYR SPR;Electric gas
+cooler
+Detailed Desc:Purchase order text:
+GAS ANLYR SPR;Electric gas cooler
+ITEM NAME : Electric gas cooler ITEM
+MAKE : ADAGE AUTOMATION ITEM
+MODEL : 18519001 PARENT
+EQUIPMENT MODEL : GAS ANALYZER
+ACCESSORIES PARENT EQUIPMENT
+MAKE : ADAGE AUTOMATION SPECIAL
+FEATURES : NO SPECIAL FEATURES
+CUSTOM CLARIFICATION:: ITEM
+DESCRIPTION : ELECTRIC GAS COOLER,
+220V AC FUNCTION OF THE ITEM : TO
+COOL THE SAMPLE GAS MOC : METAL
+MAIN EQUIPMEN MAIN EQUIPMENT
+FUNCTION AND LOCATION : PROCESS
+GAS ANALYSIS ADDITIONAL UMC
+DETAIL:: ELECTRIC GAS COOLER MAKE :
+ADAGE PART NO : 1851900 POWER :
+220V AC PANEL MOUNTING
+Accepted
+Item No: 10
+Material No:
+5532A0303
+Quantity(UOM):
+1.000 (NOS)
+Basic
+Rate:
+59194.00
+Lead
+Time(Days):
+120
+HSN Code: 90330000
+Invoicing Region:
+Goa
+Tax Description:
+All CGST-SGST/IGST @ 18% Creditable --
+(R3)
+Comments:
+As the line items belongs to ARC, the
+price of the item will be valid for 3 years
+Extra Charges:
+Tax
+Amoun
+Freight %-FRA1
+2 %
+Ins. on total bill %-Y019
+1 %
+Forwad/Pack charge %-
+Y021
+1 %
+Packaging charge (%)-
+Y098
+2 %
+5
+Declaration
+I hereby declare that I am providing the material in the same capacity
+(Dealer/Distributor, Manufacturer) as registered in Tata Steel and quoting this
+RFQ as
+DEALER/DISTRIBUTOR
+I hereby declare that there is no deviation in technical/functional specification
+against the material/services mentioned in RFQ and the submitted Quote.
+Agree
+Note: Please select all rows and then Print to get the Complete Item List
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2016 All Rights Reserved, Tata Steel

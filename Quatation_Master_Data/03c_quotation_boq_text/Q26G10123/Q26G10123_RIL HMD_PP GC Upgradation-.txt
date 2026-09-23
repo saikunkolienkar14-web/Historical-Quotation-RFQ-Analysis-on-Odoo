@@ -1,0 +1,221 @@
+Quotation Number: Q26G10123
+BOQ Status: FOUND
+
+Date
+Description
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 1: SUMMARY OF PRICES
+Item
+Qty
+Item Description
+Unit Price
+Total Price
+1
+1 No
+Gas Chromatograph
+Quoted
+Quoted
+2
+1 Lot
+Network hardware at Analyser house
+Quoted
+Quoted
+3
+1 Lot
+Network hardware at control room
+Quoted
+Quoted
+4
+1 No
+Safe area PC with GCP software
+Quoted
+Quoted
+5
+1 No
+8 Hours Repeatability test certificates
+Quoted
+Quoted
+6
+1 Lot
+Project Engineering & Documentation
+Quoted
+Quoted
+7
+1 Lot
+FAT at Adage Factory
+Quoted
+Quoted
+8
+1 Lot
+Packing, Forwarding & Transportation upto Site
+charges
+Quoted
+Quoted
+9
+Lumpsum Supervision of installation & Commissioning
+Quoted
+Quoted
+10
+1 Set
+Commissioning spares
+List attached below
+Quoted
+Quoted
+11
+1 Set
+2 Years O&M spares
+List attached below
+Op Quoted
+Op Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+Commissioning Spares
+1
+Set of Fuses
+1
+2
+Set of filter element
+1
+3
+Set of O ring
+1
+2 Years O&M Spares (Optionally Quoted)
+1
+Columns set
+1
+2
+FID Repairing kit
+1
+3
+MOD 50 Repairing kit
+1
+4
+SVCM Module
+1
+5
+Power supply
+1
+6
+EPC Module
+1
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+1. Our scope shall be limited to supply of Bare GC, calibration cylinder with regulator, communication
+panel & necessary hardware at Analyser house & Control room side & Workstation Laptop (Safe
+area).
+Below items are excluded & existing shall be used.
+All SHS components, SHS enclosure, sample transportation tube, Probe, Carrier gas cylinders,
+Autochangover unit, JB’s, PDB’s & Headers, power and signal cable & FO cable.
+Integration between existing items & newly supplied Gas chromatograph to be taken care by RIL.
+Supervision for this activity shall be done by Adage.
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 3: TECHNICAL LITERATURE
+1
+Gas Chromatograph
+TAG NO: AT20001B
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting : Inside Existing shelter
+GC Hazardous Area Classification: Zone 1, llB+H2, T3
+No of Streams: 1
+Cycle time: 8-10 Mins
+Detector : FID X 2 No
+Sample return : To Existing Flare header/Vent header
+Power Supply: 110VAC 50Hz
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component
+-
+2 x Ethernet Modbus/TCP IP Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.1
+Sampling Probe
+Existing
+1.2
+Sample transportation tube from tapping till SSHS
+Existing
+1.3
+Secondary SHS system
+Existing
+1.4
+Calibration gas cylinder with double stage pressure regulator
+-
+10L calibration gas cylinder for above GC, make:
+Inox/Equivalent.
+1 No
+Quoted
+2
+N/w hardware at Analyser House
+-
+Power supply module with diode O ring x 2 No
+-
+8 Port Ethernet to FO converter x 2 No
+-
+LIU box - 2 No
+-
+Patch cords x 5 meter - As required
+-
+CRCA enclosure with X Purge zone 1 certified unit (P&F
+make)
+This enclosure will house all above hardware suitable for
+Zone 1. This will be fully wired and will be mounted inside
+existing analyser house.
+1 set
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+3
+N/w hardware at Control room side
+-
+FO to ethernet converter – 2 No
+-
+LIU Box – 2 No
+-
+Patch cords – 5 meters (As required)
+-
+Ethernet cable (50 meters)
+1 set
+Quoted
+4
+Workstation Laptop (Safe area) with Latest windows OS & GC
+Software
+1 No
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+`
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+CPT Hazira
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+8 months from the date of receipt of PO
+Offer validity
+1 Month

@@ -1,0 +1,140 @@
+Quotation Number: Q2504N061R4
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+LASER GAS ANALYSER SYSTEM FOR O2 MEASUREMENT
+Service: Before Pressure Control Damper / ESP
+Make: Airoptic
+Model: Gas Eye
+Component to be measured: O2
+Area Classification: Safe
+Mounting Location: Extractive Type
+Laser Gas Analyser for Measurement of O2
+•
+Loop Cable: 2 Mtrs
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+O2: 0-30%
+With Sample handling system consisting of:
+•
+With Single probe system
+•
+With Heated Flow Through Cell for Mounting of Laser
+Analyzers
+•
+With Aspirator Pump System for Extraction And drawing of
+sample gas
+•
+Mounting of Analyser on Field Rack
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+2
+LASER GAS ANALYSER SYSTEM FOR O2/CO/CO2 MEASUREMENT
+Service: After ID Fan
+Make: Airoptic
+Model: Gas Eye
+Component to be measured: O2/CO/CO2
+Area Classification: Safe
+Mounting Location: In-situ Type
+Laser Gas Analyser for Measurement of O2/CO/CO2:
+•
+Loop Cable: 10 Mtrs
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+O2: 0-30%
+•
+CO: 0-100%
+•
+CO2: 0-100%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+•
+With necessary temperature and pressure compensation
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+3
+LASER GAS ANALYSER SYSTEM FOR O2 MEASUREMENT
+Service: Common Duct Toward Gas Recovery After ID Fan
+Make: Airoptic
+Model: Gas Eye
+Component to be measured: O2
+Area Classification: Safe
+Mounting Location: In-situ Type
+Laser Gas Analyser for Measurement of O2:
+•
+Loop Cable: 10 Mtrs
+•
+Ingress Protection: IP65
+Measuring Range:
+•
+O2: 0-30%
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+Analog 4-20 mA
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+•
+With necessary JBs
+•
+With necessary temperature and pressure compensation
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 Set
+QUOTED
+QUOTED
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: SS
+Tube size: 1⁄2”
+With all necessary accessories and JB’S
+Make: Thermopad
+10 mtr
+@QUOTED PER METER
+5
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and fro Air Ticket/ AC II
+Train Fare to Be Arranged by Customer)
+Per Diem
+@QUOTED PER DIEM

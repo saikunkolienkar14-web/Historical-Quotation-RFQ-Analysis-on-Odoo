@@ -1,0 +1,223 @@
+Quotation Number: Q24W10105C0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+A
+1 No
+Gas Chromatograph with Sampling system
+1,03,50,000/-
+1,03,50,000/-
+A.1
+1 No
+Project Documentation
+4 set of hardcopy & softcopy
+Inclusive
+Inclusive
+A.2
+1 No
+FAT at Adage Works
+Inclusive
+Inclusive
+A.3
+1 No
+Packing, Forwading & Transportation upto Site
+charges
+1,00,000/-
+1,00,000/-
+B
+1 No
+Spare column set
+6,30,000/-
+6,30,000/-
+C
+1 No
+Safe Area Laptop
+1,80,000/-
+1,80,000/-
+D
+1 Set
+Mandatory Spares(As per Adage Recommendation)
+Refer item wise price list below
+11,29,000/-
+11,29,000/-
+E
+1 Set
+2 Years O&M Spares(As per Adage
+Recommendation)
+Refer item wise price list below
+13,17,700/-
+13,17,700/-
+F
+Lumpsum
+Price for Training(4 Engineers for 2 days),
+Supervision of installation and Commissioning
+1,50,000/-
+1,50,000/-
+TOTAL PACKAGE PRICE 1,38,56,700/-
+Sr No
+Description (As per Adage Recommendation)
+Qty
+Unit Price
+Total Price
+1
+FID Repairing Kit
+1
+2,75,200.00
+2,75,200.00
+2
+TCD Detector
+1
+1,25,500.00
+1,25,500.00
+3
+MOD 50 Repair kit
+1
+1,16,500.00
+1,16,500.00
+4
+SVCM Module
+1
+2,08,600.00
+2,08,600.00
+5
+EPC Module
+1
+3,22,600.00
+3,22,600.00
+6
+Power supply
+1
+80,600.00
+80,600.00
+11,29,000.00
+Sr No
+Description
+Quantity
+Unit price
+Total price
+1
+Mod 50 Valve
+1
+2,99,400.00
+2,99,400.00
+2
+SVCM Module
+1
+2,08,600.00
+2,08,600.00
+3
+EPC Module
+1
+3,22,600.00
+3,22,600.00
+4
+Power supply
+1
+80,600.00
+80,600.00
+5
+FID, RESTRICTOR, TUBE, ASSY, HYDROGEN
+1
+66,500.00
+66,500.00
+6
+DPM Board
+1
+3,40,000.00
+3,40,000.00
+13,17,700.00
+TOTAL PRICE
+Gas chromatograph, Maxum ll
+Mandatory Spares (Adage Recommended) - Item Wise Price
+Gas chromatograph, Maxum ll
+2 Years Spares (Adage Recommended) - Item Wise Price
+TOTAL PRICE
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+Tag No: NCKR-10AT4201
+Process Conditions at Sample inlet
+-
+Supply Pressure (Normal/Max): 4.6/7 Kg/cm2g
+-
+Temperature (Normal/Max): 30/65 Degree C
+-
+Sample Return: To Vent Header/ Flare header
+Service: RESIDUE GAS
+MR Requirement
+1.1
+Gas Chromatograph
+Model: Maxum Ed II
+Make: Valmet
+Hazardous Area Classification: Zone 1, llB+H2, T3 (For Gas
+chromatograph)
+Mounting: Shall be mounted inside Existing shelter
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+Redundant serial output shall be provided till existing
+communication JB, further distribution shall be taken care by RIL.
+1 No
+Quoted
+1.1
+Sample probe
+Existing
+1.2
+Sample transportation line
+-
+1⁄4’’ SS316 tube , Qty: 300 meters
+300
+Meters
+Quoted
+1.3
+Primary SHS
+-
+Consists of pressure regulator with Gauge & Ball valve.
+-
+Shall be mounted inside SS304 enclosure
+1 Lot
+Quoted
+1.4
+Secondary SHS
+Shall be as per schematic attached.
+1 Lot
+Quoted
+1.5
+Calibration blend with regulators (Imported)
+2 No
+Quoted
+1.6 Auto changeover regulator with carrier gas cylinder
+Existing
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+1.7 GCP portal software
+1 No
+Quoted
+1.8 a Safe Area laptop
+--Intel i5/Equivalent, CPU with at least 8GB RAM
+- 14” Widescreen LCD display
+1 No
+Quoted
+1.9 PDB’s, JB’s(ASJB, DSJB, CSJB), Headers shall be used Existing
+inside existing shelter
+Existing
+1. All the Makes shall be as per RIL approved vendor list.
+2. The existing items mentioned above to be in RIL scope. The healthiness and proper functioning of the
+components to be ensured by RIL.
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA

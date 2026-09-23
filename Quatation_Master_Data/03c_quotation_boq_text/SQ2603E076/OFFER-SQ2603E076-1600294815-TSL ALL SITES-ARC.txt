@@ -1,0 +1,301 @@
+Quotation Number: SQ2603E076
+BOQ Status: FOUND
+
+Description
+Qty
+Unit price
+[inr]
+Total price
+[inr]
+1
+5679A0010
+Brief desc: gas anlysr;oxygen analyser0-
+25%paneldetailed desc: item text: global arc of gas
+analyzer spares _tsj,tsk,tsm,tsggeneral instruction to
+vendor: last ref. Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;oxygen
+analyser,0-25%,paneltype : oxygen analyserinstallation :
+panelrange : 0-25 %working principle :
+paramagneticapplicable gases : o2accuracy : +/-0.5
+%power supply : 200-240 vacoutput : 4 to 20 madisplay :
+lcdsampling system accessories : not requiredgas
+preparation and cndng sys : not requiredgas analyzer
+panel with : nocalibration mode : manualrepeatability :
+linearity : zero drift : span drift : certification : atex, emc,
+lvdspecial features : paramagnetic-non - dumbell-
+o2additional umc detail::oxygen analyserparamagnetic (
+non - dumbell) - o2,measuring ranges (number,
+swithchable internally and externally; autoranging
+possiblity): 2 nos swithchable internally, andexternally,
+autoranging possiblecalibrated ranges: 0 - 25 %minimum
+detection limit: 1% of current measuring
+rangeintermediate ranges: can be configuredposition of
+use (mounting position-vertical or horizontal): horizontal
+19" rack mountedpower consumption: 37 vadegree of
+protection: ip 20 to en 60529warm-up period of analyser
+(with ambient temperature): with ambien tempmaximum
+accuracy achieved after warm up time: maximum
+accuracy is achived after approx. 2 hoursresponse
+time(t90): 3.5 sdamping (electric time constant): 0....100
+s programmablerelay outputs: 6 nos.part no:
+28061003make: siemens
+1 No.
+5,24,846.00
+5,24,846.00
+2
+5679A0018
+Brief desc: gas anlysr;co analyser0-100%detailed desc:
+general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;co
+analyser,0-100%type : co analyserinstallation : analyser
+roomrange : 0-100 %working principle : infraredapplicable
+gases : co/co2accuracy : +/-0.5 %power supply : 220
+vacoutput : 4-20 madisplay : 6" full color lcdsampling
+system accessories : not requiredgas preparation and
+cndng sys : not requiredgas analyzer panel with :
+nocalibration mode : applicablerepeatability : linearity : +/-
+0.01 %zero drift : span drift : certification : atex, emc,
+lvdspecial features : panel mountingadditional umc
+detail::
+1 No.
+9,20,000.00
+9,20,000.00
+3
+5679A0013
+Brief desc: gas anlysr;on linedetailed desc: general
+instruction to vendor: last ref. Enquiry:1600294815 and
+qtn no :/dated :2025/08/14purchase order text: gas
+anlysr;on linetype : on lineinstallation : analyser
+1 No.
+9,48,750.00
+9,48,750.00
+roomrange : 0-10000 ppm & 0 - 25%working principle :
+ndir & paramagneticapplicable gases : co & o2accuracy :
++/-0.5 %power supply : 220 vacoutput : 4 to 20 madisplay
+: backlit liquid crystal displaysampling system
+accessories : probe,hosegas preparation and cndng sys :
+integral water catchpot and figas analyzer panel with :
+nocalibration mode : automatic and manualrepeatability :
++/-0.5 %linearity : +/-0.5 %zero drift : +/-1 %span drift :
++/-1 %certification : nema4xspecial features : no special
+featurescustom clarification::item description : ultramat
+23 for co and oxygen analysisfunction of the item : sample
+gas analysismoc : gas analyzermain equipmenmain
+equipment function and location : waste gas analyzer.
+Stove gbf.additional umc detail::ultramat 23 for co and
+oxygen analysiswith co detection in ndir principle ,range:
+0-10000 ppmwith o2 detection in paramagnetic principle
+,range: 0-25%
+4
+5679A0009
+Brief desc: gas anlysr;on line0-25%hazardous
+areadetailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;on line,0-
+25%,hazardous areatype : on lineinstallation : hazardous
+arearange : 0-25%working principle : zirconium
+basedapplicable gases : flue gasaccuracy : +/-1 %power
+supply : 230 vacoutput : 4-20 madisplay : anysampling
+system accessories : probe,hosegas preparation and
+cndng sys : no gasgas analyzer panel with : nocalibration
+mode : automatic and manualrepeatability : linearity : +/-1
+%zero drift : +/-1 %span drift : +/-1 %certification : nema
+x4certification : nema4xspecial features : no special
+featurescustom clarification::item description : waste gas
+oxygen analyserfunction of the item : oxygen analysermoc
+: metal & electronicsmain equipmenmain equipment
+function and location : coke makingadditional umc
+detail::waste gas oxygen analyser. Explo-proof - hart
+protocol(complete set consisting of transmitter &
+probe)technical details.process conditions detail:service:
+measurement of % of oxygen in flue gasflue gas pressure
+:- (-) 150pa to (-) 400paflue gas temperature :- 250 ¿ 350
+deg coxygen concentration of the gas:-2 to 7 % of
+o2sensor probe detail:type:- in situ type zirconium oxide
+based sensorsensor operating temperature :- upto 700
+deg cprobe material:- ss 316probe length: 6 feet
+(1828.8mm)process connection:- flangedsize:- 3¿ sorf,
+ansi 150#flange material:- ss flangeelectrical
+connection:- ¿¿ nptcalibration gas connection:- 1⁄4¿
+nptenclosure:- ip66 with atex eexd iibtransmitter
+detail:type:- remote transmitterrange:- 0-25% of
+o2accuracy:- +/- 0.75% reading or 0.05% o2 whichever is
+greaterresponse time:- initial responsedisplay:-
+providedbody material :-low copper
+aluminiumenclosure:- ip66 with atex eexd iibelectrical
+connection:- ¿¿ npt (f)power supply:- 230v ac 50
+hzoutput:- 4-20ma with hartmounting:- remote mounted
+1 No.
+Regret
+Regret
+suitable for wall/pipe mountingrepeatability:- 1% of
+fslinearity:- 1% of fsdrift:- 0.1% per monthcable between
+sensor and transmitter:- provided, minimum 10
+mtrs.accessories:-calibration gas cylinder:-a) zero gas :
+10 ltrs, cs cylinder with 0.4% o2 in balance n2b) span gas :
+10 ltrs, cs cylinder with 8% o2 in balance n2c) ss flow
+regulator for cylindermounting brackets:- provided for 2¿
+pipe mounting/wall mountingauto calibration unit:-
+provided with following accessories:-a) filter regulatorb)
+flow indicatorc) 2 way solenoid valved) 1⁄4¿ od ss tube,
+20mtrsothers:calibration test certificate:- shall be
+providedidentification plate / materials:- shall be provided
+5
+5679A0011
+Brief desc: gas anlysr;co analyser0-5%paneldetailed
+desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: gas anlysr;co
+analyser,0-5%,paneltype : co analyserinstallation :
+panelrange : 0-5%working principle : infraredapplicable
+gases : coapplicable gases : co2accuracy : +/-0.5 %power
+supply : 230 vacoutput : 4 to 20 madisplay : lcdsampling
+system accessories : not requiredgas preparation and
+cndng sys : not requiredgas analyzer panel with :
+nocalibration mode : automatic and manualrepeatability :
+linearity : zero drift : span drift : with auto cal negli + 2%
+/yrcertification : atex, emc, lvdspecial features : no special
+featuresadditional umc detail::co gas analyser 0-
+5%measuring component: co.range: 0-5% vol.output: 4-
+20 ma isolated 750 ohms resistiveindicator: digital (clear
+text status & error message).power supply: 230 vac
++10%, 50 hz + 3 hz.enclosure: general purpose (ip
+20).duty: continuous.zero drift:repeatability: 1% of
+smallest measuring range.linearity error:maximum
+accuracy achieved after warm up time: after approx. 2
+hoursmodel: ultramat 23make: siemenspart no:
+29601195
+1 No.
+6,38,250.00
+6,38,250.00
+6
+5679A0050
+Brief desc: gas anlysr;portable gas analyser co=0-
+7detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas
+anlysr;portable gas analyser ,co=0-7no details are
+availablelong text:type:portable gas
+analyserinstallation:portable for labrange:co=0-
+70%range:co2=0-30%range:ch4=0-100%range:h2=0-
+60%range:o2=0-30%range:co cv = 0-6000
+kcal/nm3range:bf cv = 0-1100 kcal/nm3working
+principle:nidrworking principle:electro-chemical
+cellapplicable gases:coapplicable gases:bf gasapplicable
+gases:ld gasapplicable gases:oxygenaccuracy:+/-
+2%power supply:230v ac 50hzoutput:usb and
+ethernetdisplay:tft touch, all comp. On screensampling
+system accessories:filter assembly (ss)sampling system
+accessories:sample handling systemgas preparation and
+cndng sys:available, moisture condensatigas analyzer
+panel with:yes with ip65 protectioncalibration
+1 No.
+Regret
+Regret
+mode:manual calrepeatability:equal & better than
+accuracy.linearity:1% fszero drift:+/-2 %span drift:+/-1 %
+fscertification:requiredspecial features:inbuilt
+batteryspecial features:inbuilt suitable flow meterspecial
+features:inbuilt suitable sample pumpspecial
+features:separate screens for all gasspecial features:usb
+port for data trsferspecial features:panel mountingno
+details are availableadditional umc text:portable gas
+analyser with component wise cv & total cv, specially
+designed for blast furnace, cokeoven and ld gas
+application along with suitable sample conditioning
+unit.parameters to be measured:gas range sensor
+resolutionco 0-60% dual beam ndir detectors, german
+0.01%co2 0-30% dual beam ndir detectors, german
+0.01%ch4 0-100% dual beam ndir detectors, german
+0.01%h2 0-60% thermal conductivity detector
+(tcd),german 0.01%o2 0-30% industrial electrochemical
+cell (ecd),german 0.01%cv blast furnace 0-1100
+kcal/nm3 instantaneous calorific valuecv coke oven 0-
+6000 kcal/nm3 instantaneous calorific valuecv ld gas 0-
+2000 kcal/nm3 instantaneous calorific valueno details are
+availablesample handling and conditioning unit: consisting
+of bowl glass wool filter, flow meter, pressure regulator,
+fine filter, particulate filter, moisture filter prior to gas
+analysis.accuracy: +/-2%gas flowrate at analyzer inlet : 1
+to 1.5 scfhinbuilt suitable sample pump & flow
+meteroperating gas temperature: 50 to 60 deg cresponse
+time 40 secondsoperating voltage: 220 vac and inbuilt
+battery with battery status indication.battery with 2 hours
+continuous operationfeatured battery drain
+protectioninbuilt data logging in analyzerdata transfer to
+pc feature using pen drive and inbuilt usb port.co, co2,
+ch4, h2, o2, cv data can be transferred to pc and opened
+in excel format with date and time.onscreen display of
+individual cv and total cv.separate screens for blast
+furnace gas and coke oven gas measurementcolor touch
+tft screen for monitoring all components in one screen &
+control.on screen display of last calibration date.easy
+smart span calibration feature using one touch
+screen.password protection feature in calibration
+settings-very importantonscreen trending of individual gas
+components.no details are available1. Special screen for
+bf with features addition.2.special screen for co with
+features addition.3. Special screen for ld with features
+addition.no details are available
+7
+5679A0132
+Brief desc: gas anlysr;cv analyser cv range-2000-
+45detailed desc: general instruction to vendor: last ref.
+Enquiry:1600294815 and qtn no :/dated
+:2025/08/14purchase order text: short text:gas anlysr;cv
+analyser ,cv range-2000-45no details are availablelong
+text:type:cv analyserinstallation:self standing mounting
+framerange:cv range-2000-4500 kcal/nm3 cvworking
+principle:online direct calorimetricapplicable gases:mixed
+gas (co + bf/ld)accuracy:+/- 2% full scalepower
+1 Lot.
+62,00,000.00
+62,00,000.00
+supply:230 ± 10 % vacoutput:4-20 ma & digital
+outputdisplay:lcdsampling system accessories:sample
+handling systemgas preparation and cndng sys:yesgas
+analyzer panel with:sample handling system
+setcalibration mode:auto and manual
+calibrationrepeatability:± 0.5 % of full scale
+%linearity:zero drift:within accuracy & adjustment pspan
+drift:within accuracy & adjustment
+pcertification:euspecial features:ip50 &with calibration
+gas cylno details are availableadditional umc text:wobbe
+index/cv analyser specifications:calorimeter - for
+measurement of calorific value, wobbe-index, specific
+densityoutput:1)digital outputs2)individual 4-20 ma
+analog output for calorific value, wobbe index and specific
+gravity respno details are availablecalibration gas cylinder
+with pressure regulatorgas composition: cal gasno details
+are availablesensor: 1no., controller: 1 no.;service / fluid-
+mixed gas (co gas+bf gas/ld gas)mounting
+locationindoor.mounting arrangement: shall be mounted
+on rack inside existing analyser roommountingself
+standing mounting frame coloured in ral-7035;mounting
+frame dimension1000 x 1800 x 700 (w x h x d) in mm,
+approx;power supply230v ac (±10%), 50/60 hz;weight54
+kgs approxmeasurement principleonline direct
+calorimetric combustion;measuring range- cv-2000 –
+4500 kcal/nm3;calorific value of mixed gases(consituents
+gases- co gas- 4000+/-200 kcal/nm3 ; bf gas- 850-950
+kcal/nm3 ;ld gas- 1700-1800 kcal/nm3)range -wobbe-
+index2000 - 5000 kcal/nm3;range- specific gravity0.2 - 2.2
+relative to air;specific gravity of mixed gas-(constituents
+gases-co gas-0.43 ; bf gas-1.02 ;ld gas-1.03)dead time3
+seconds;response / t90 display time= 20
+seconds;connection combustion - 6mm tube, internal
+connection;accuracy of wobbe-index- ±1.5 mbe (mean
+between error);accuracy±2.0% of ful
+scale;repeatability±0.5% of ful scale;auto calibration
+facilityavailable;gas pre-pressure25 mbar - 40 mbar.inlet
+pressure30-50 mbar;temperature conditions5 - 40°c (±
+5°c/h);interface4 – 20ma , digital relays (3 nos.);protection
+classip 50;process conditions:gas temperature: approx
+30-55 deg cgas pressure: 1000-1650 mmwcno details are
+availableprimary sample handling system:pre-sample
+conditioning & purification system for single tapping
+system for handling impurities such as tar, naphthalene
+etc.secondary sample handling system: sample gas
+cooler, sample gas pump, sample isolation valve, ball
+valves.coalescing filter, pressure regulators.no details are

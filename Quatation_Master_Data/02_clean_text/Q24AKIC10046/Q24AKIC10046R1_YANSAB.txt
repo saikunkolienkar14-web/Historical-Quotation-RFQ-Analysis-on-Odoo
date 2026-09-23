@@ -1,0 +1,473 @@
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+To,
+
+YANBU NATIONAL PETROCHEMICALS (YANSAB)
+
+Kind Attention:
+Mr. Sadathulla Khan
+Manager – Process Control Solution
+
+Subject:
+213011-01013-IC-DAS-0001 Tail Gas Analyzer
+
+Project:
+
+YANSAB Tail Gas Analyzer with Shelter & HVAC Quotation
+
+Bid Type:
+
+Budgetary
+
+Dear Sir,
+
+We thank you for your interest in Adage Kanoo Industrial Company Products and with reference to
+the same please find enclosed our quotation for Design, engineering, manufacture and Supply of analyser
+system as per your requirement.
+
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned.
+
+Yours sincerely,
+
+Nitin Jain
+Email: nitin@adage-kanoo.com
+Mob: +966537316510
+(Head - Business unit & Sales)
+
+Our Quotation No: Q24AKIC10046R1
+Date: 16.01.2025
+
+Contact persons:
+
+Mr. Nitin Jain
+Email: nitin@adage-kanoo.com
+Mob: +966537316510
+(Head - Business unit & Sales)
+
+Mr. Adil Bin Muhammed
+Email: adil@adage-kanoo.com
+Mob: +966547623190
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+Summary of Prices
+
+S/N
+Item Description
+Qty
+Unit Price(US$)
+Total Price(US$)
+
+1
+Shelter with HVAC
+3 L x 3 W x 3 H Mtrs
+1
+305,000.00
+305,000.00
+2
+Gas chromatograph with SCS
+Tag no.: 18-AIT-XXX1
+1
+240,000.00
+240,000.00
+3
+Documentation
+1
+Inclusive
+Inclusive
+Total $ 545,000.00
+Optinal Quote
+4
+FAT at AKIC works, Jubail KSA
+1 Lot
+2,000.00
+2,000.00
+5
+SAT & commissioning at site
+Per
+Diem
+2,200.00
+2,200.00
+6
+Training at Site for 1 man-day
+1
+2,000.00
+2,000.00
+7
+GCP software with License
+1
+4,800
+4,800
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+Technical Literature
+
+S/N.
+Item Description
+Qty.
+Price
+(US$)
+1
+Analyser Shelter
+
+Area Classification: CLASS1, DIV2 IIC
+
+Analyzer Shelter Design & Construction Details:
+•
+Dimensions- 3000 H x 3000 L x 3000 W mm
+•
+MOC – Galvanized steel with duly painted.
+•
+Shelters shall be rainproof and dustproof and shall be designed to withstand
+the environmental conditions.
+•
+Shelter interior shall be large enough to allow adequate access and Space for
+maintenance and repair activities.
+•
+Detachable sunshade covers 1.0 m long shall be attached on all four sides of
+the shelter.
+•
+100 mm Insulation of Mineral Wool/fiber glass.
+•
+With F&G detectors, horn & beacon, lighting, emergency lighting, power
+outlet for test equipment, Signal and power distribution box, fully integrated,
+wired & Tubed analyzer shelter.
+•
+Cable entry to be provided in shelter through MCT block with 20% extra
+space for cables.
+•
+Tube entry to be provided in shelter through bulkhead plate.
+•
+With utility headers.
+
+Please Refer Annexure-1 for shelter BOQ.
+1 Nos
+Quoted
+1.1
+HVAC
+HVAC System: Capacity - 5 ton Each
+Area Classification: CLASS1, DIV2 IIC (IECEx Certified)
+•
+Pressurization and HVAC systems for analyser shelters shall comply with
+NFPA 496.
+•
+MOC: Galvanized steel duly painted.
+•
+Dual HVAC units (working and standby)
+•
+With dust filter
+•
+Fresh Air Duct with Rain cap and bird Mesh with necessary support/structure,
+6 mtr from ground level, MOC: GI painted
+•
+Air Changes: Minimum 6 Air Changes Per Hour.
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC)
+•
+HVAC systems shall maintain 24°C (75°F) indoor air temperature (±5°F
+throughout the shelter).
+•
+HVAC systems shall be fitted with a humidistat to control humidity levels
+within the shelter.
+•
+With auto switching facility between working and standby HVAC unit.
+•
+With power and control panel for each HVAC.
+
+1 Set
+Inclusive
+2
+Gas Chromatograph
+Tag Number: 18-AIT-XXX1
+Service: TAIL GAS TO QUENCH WATER TOWER C-1201
+Make: Valmet
+Model: MAXUM II
+
+1 Nos
+Quoted
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+Process Parameters:
+Temperature(min/nor/max): 4.5/5/6 Barg
+Pressure (min/max) :12/50 °C
+Phase: Gas
+
+Hardware Configuration
+
+Maxum Oven: Dual Airless
+Detector: Flame Ionization
+Flame Photometric
+Thermal Conductivity (IS-TCD)
+Intercolumn Detector: Not used or only used if detector available
+Mechanical Pressure Regulator: 3
+Electronic Pressure Control Modules: 4 (Type EPC3)
+Catalytic Air Treater: Included (Shipped Separately)
+Methanator: Included
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 (Sulfinert®) Vapor Inject
+Model 50 Vapor Inject
+Valco Vapor Inject
+Column Valve: Model 50
+Model 50 (Sulfinert®)
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Data Format: 32-bit IEEE Floating Point
+Analog Outputs: 10
+Analog Inputs: 8
+Digital Outputs: 4 (2 DO(s) reserved for System Fault)
+Digital Inputs: 6
+Analog and Digital I/O Boards: I2C 8 AO's, 8 AI's, 2 DI's
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Stainless Steel Tag: Included
+Tubing: Sulfinert® Treated Tubing
+Installed in flow path in contact with process sample
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 2.
+
+Analytical Configuration
+Number of Streams: 1
+Number of Calibration Blends: 1
+Validation: Automatic (with calibration standard)
+Calibration: Automatic via SVCM pneumatic outputs
+Stream Switching: Automatic via SVCM pneumatic outputs
+Repeatability Test: 8 Hours
+
+Outputs for Stream Switching and Calibration
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+Double pneumatic outputs: 1
+Single pneumatic outputs: 8
+
+Stream Note:
+•
+Cycle time: 600 sec
+•
+The customer must install a carrier gas dry filter.
+•
+The method development will be done with sample containing more then 20ppmV
+O2.
+•
+The LOD for O2 is 0,125 ppmV
+•
+Any Argon present in the sample, will coelute with O2 and will not be separated.
+Total Oxygenates are a group of Methanol, propanol, tert-butanol.
+•
+Total Sulfur is calculated as the Sum of H2S, COS, Methyl Mercaptan and Ethyl
+Mercaptan.
+
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+FID Flame Air: Zero Grade Air (<1ppm THC, O2 Content 20-21%)
+Flame Detector Fuel: Hydrogen (99.999%)
+FPD Flame Air: Zero Grade Air (<1ppm Total Sulfur, O2 Content 20-21%)
+Flame Detector Fuel: Hydrogen (99.999%)
+System Power: 195-260 V, 47-63 Hz
+Circuit 2: 1330 VA
+Instrument Air: 0.07 SCF/min (2 L/min) at 70 psig (4.9 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be non-
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+flammable)
+
+2.1
+Sample Probe
+•
+Fixed type sample probe with welded isolation valve
+•
+2" x 150#
+•
+MOC: SS316
+1 Nos
+Inclusive
+2.2
+Sample Conditioning System
+•
+Primary SCS & Secondary SCS components shall be mounted inside SS316
+enclosure.
+•
+Consisting of filters, pressure regulator, rotameter, valves, relief valve, NRV
+etc as required for the analyzer
+
+1 Lot
+Inclusive
+2.3
+Sample Transportation Tube
+•
+1/4 " OD SS 316 stainless steel Electric Heat Traced
+sample tubes bundle with required accessories
+40m
+Inclusive
+2.4
+Carrier Gas Cylinders
+•
+47 ltr cylinder (1+1)
+•
+Cylinder rack with sunshade MOC: GI painted
+•
+Auto changeover regulators and other required accessories
+1 Lot
+Inclusive
+2.5
+Calibration and validation
+•
+Calibration cylinder 1 Nos 10 ltrs cs/aluminum.
+•
+With pressure regulator & other accessories as required
+1 Lot
+Inclusive
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+ANNEXURE - 1
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+1
+LEL detector in the fresh air duct
+1
+Toxic Gas Detector - inside Fresh Air Duct
+1
+Toxic Gas Detector -Inside Shelter
+1
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+1
+Diff pressure switch
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, Make-Siemens
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Network Accessories, Intermediate PDBs / Power JB cum
+isolation switch for incomer cable termination prior to PDB. Rack for PDBs & warning
+Panel.
+1 LOT
+Electrical Fittings & Components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+1
+2 Way Beacon
+1
+Manual Call Point
+1
+Tube lights inside
+2
+Tube lights outside
+4
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+Misc. Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Cables, Cable trays, Glands, Utility Headers with Air filters & Other Accessories as per
+requirement.
+1 LOT
+Cylinder Rack
+Consists of 2 Bay 4-Pack, fabricated with 4” angle, Steel
+Base: Base shall be of 4” x 4” x 1⁄4” angle. Joints will be seal welded.
+Canopy: Included
+Lifting Devices: SS lifting eyes shall be attached to the upper cross channel and shall be
+designed to lift the total weight of the rack with all equipment installed.
+Capacity: Rack will hold Eight (2) 4-Pack (Primary and Standby)
+Carrier Gas Change Over Station
+1 LOT
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+MAXUM II Gas chromatograph dimentions:
+
+www.adage-kanoo.com
+
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+
+Exclusions
+
+All exclusions are not part of offer, same shall be taken care by customer.
+
+1) All Erection Activities including but not limited to installation of new supply Analyzer Systems cabling, glanding
+and termination of all field cables and tubing or components & analyzer houses.
+2) All Interconnection Cables (From Analyser shelter to DCS/control unit) including FO cables, Standard Signal,
+Standard Power cables, cable trays, tray supports.
+3) We have quoted only for Shelter, Analyser, SCS, transportation line 40 mtrs & Calibration cylinders. All other
+integration parts, Electrical, Civil and Mechanical activities at site shall be taken care by customer.
+4) All field, power & signal JBs shall be taken care by customer.
+5) Sample Bomb for lab sample to be taken care by others/customer.
+6) Refiling of calibration/ carrier gas cylinders to be taken care by others/customer.
+
+Commercial Terms
+
+Prices Quoted
+Ex-works AKIC, KSA
+Freight
+Shall be extra as applicable.
+Packing
+Inclusive
+Delivery
+8-10 months from the date of P.O.
+Warranty
+12 months from date of commissioning or 18 months from the
+date of supply whichever is earlier.
+Offer Validity
+30 Days
+Payment Terms
+To be discussed and agreed.

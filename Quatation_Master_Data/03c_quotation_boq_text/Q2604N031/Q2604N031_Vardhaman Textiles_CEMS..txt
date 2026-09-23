@@ -1,0 +1,73 @@
+Quotation Number: Q2604N031
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF SO2, CO, NO &
+O2
+With Gas Sample Probe
+With Auto Probe Cleaning
+With Sample Handling System
+With Remote Calibration
+With IP54 Panel
+With Microprocessor Based Analyser
+ULTRAMAT 23 – 1 No
+Make: Siemens AG, Germany
+Principle: NDIR & Paramagnetic
+Measuring Range:
+•
+NO: 0-400/2000 mg/Nm3
+•
+CO: 0-250/1250 mg/Nm3
+•
+SO2: 0-400/2000 mg/Nm3
+•
+O2: 0-5/25%
+Notes:
+•
+The quoted system is hot extractive system with gas cooler and
+cold analysers where moisture is removed in the gas cooler and
+hence no moisture compensation is required since the readings
+are not affected by moisture. Therefore, moisture measurement is
+not necessary.
+•
+Total NOx values shall be reported as NO2 i.e., NOx = NO + NO2
+= NO X 1.53 + NO2 = NOx as NO2 inline with CPCB guidelines.
+•
+As per CPCB guidelines, either of CO2 or O2 shall be measured.
+•
+Internet connectivity @ 1 MB/s speed with static public IP shall be
+provided by customer for data connectivity.
+1 SET
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+175
+MTRS
+QUOTED
+QUOTED
+3
+DUST MONITOR
+Make: Codel/Sick/Durag
+Measurement Principle: Transometry
+Utility requirement: instrument air free from oil, dust & moisture at 4/5
+bar to be provided by customer directly at stack, no separate purge air
+unit is required
+1 SET
+QUOTED
+QUOTED
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air Ticket/ AC II
+Train Fare to be arranged by Customer)
+PER
+DIEM
+QUOTED
+QUOTED

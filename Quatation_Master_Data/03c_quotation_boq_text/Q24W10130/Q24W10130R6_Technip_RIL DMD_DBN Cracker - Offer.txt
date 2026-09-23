@@ -1,0 +1,173 @@
+Quotation Number: Q24W10130R6
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price
+(INR)
+1
+-
+Two years O&M spares
+1
+Optionally
+Quoted
+19.3
+-
+Industrial Grade Server (RAID 1) with
+KVM and Accessories with required
+Softwares
+1
+Optionally
+Quoted
+20.1
+-
+OEM FAT (Only for GC’s)
+1
+Optionally
+Quoted
+9A
+AT38301 &
+AT30304
+2 stream H2 GC (Parallel analysis)
+1
+Optionally
+Quoted
+26
+-
+Training at Adage works
+2 Days for 5 people
+1
+Optionally
+Quoted
+27
+-
+Training at Site
+2 Days for 5 people
+1
+Optionally
+Quoted
+18
+0
+Deleted
+19
+-
+Network components and other
+Accessories
+1
+Quoted
+20
+-
+FAT at Adage Factory
+1
+Quoted
+21
+-
+Project Documentation
+1
+Quoted
+22
+-
+Commissioning spares
+Set of filter, O ring, Fuses
+1
+Quoted
+23
+-
+SAT testing
+1
+Quoted
+SECTION 1: ASSUMPTIONS/CLARIFICATIONS
+1. We have considered Redundant communication from Analyser shelter as per RPMS requirement
+2. Standard power and signal cables upto battery limit of Analyser shelter/cabinet/rack by Technip.
+Further internal distribution shall be taken care by Adage.
+3. Foundation for mounting of Analyser shelter /Cabinet/Rack and accessories shall be taken care by
+Technip
+4. All tubes/piping connections from Analyser shelter Headers to plant flare header/drain header shall
+be taken care by others
+5. Supporting structure, Trays, clamps and other accessories for laying of all signal, power and
+communication cables and field tubing’s including EHT bundles shall be taken care by Technip.
+6. All drawings for executed project for Reliance JMD site for craker application are enclosed and are
+inline with Reliance philosophy. The same standard philosophy will be mainatained for this project
+as discussed during F2F meeting.
+7. All sample tubes shall be coil tubes.
+8. ESD Shutdown valve at sample inlet to be considered for all GC Tags.
+9. For Tag No 010-AT-311801(2 stream Moisture measurement), stream switching shall be done in
+secondary SHS using SOV using command from DCS.
+10. ISJB at shelter to be considered by Adage
+11. Calibration Blend in 2 Lot (1 during FAT which will be dispatched after FAT + 1 during SAT).
+12. For Trace H2O tags, electropolishing + Dursan coating is considered wetted part MOC of analyser
+13. Make of PLC shall be SIEMENS S7 1500 / ROCKWELL
+14. As the detail BOM is not provided for each component it would be purely vendor responsibility to
+ensure that the system is designed as per RPMS requirement. If during detailed engineering , any
+requirement of maintaining sample temp above dew point arises it shall be taken care by Adage
+without any impact to RIL.
+15. Provision of LP steam sparger to be considered for each shelter and field cabinet
+16. For Tag No : AT-310301, AT-311412, AT-311701, AT-312102, AT-312401, AT-312902, AT-314601,
+which are GC Tag’s in vapour phase, Sample Bomb collection along with flexible hoses shall be
+considered as per RPMS requirement.
+17. For Tag No :AT-311805 (Moisture in gas phase), Sample Bomb collection along with flexible hoses
+shall be considered as per RPMS requirement.
+18. AT-312101 (Moisture), AT-315901 (Ph), AT-316507 (TOC), AT-317006 (PH), in Liquid phase only
+sample grab arrangement (with Needle valve) is required and same is considered as per RIL
+requirement.
+19. Separate JB to be considered for ASJB, DSJB, CSJB, F&G etc & Separate PDB to be considered
+for UPS, Non UPS & Emergency power.
+20. For 2 stream GC with parallel injection Separate SHS shall be considered for mounting SHS
+components.
+SECTION 2: TECHNICAL LITERATURE
+A.
+ANALYSER SHELTER – 10-AS-301 (HYDROGENATION SECTION)
+AREA CLASSIFICATION: ZONE 1, IIC INSIDE HOUSE
+ZONE 2, IIA/llB OUTSIDE HOUSE
+MAKE: ADAGE
+The shelter shall house :
+Gas chromatograph x 3 No (with provision for future spare space)
+Analyser Shelter Design & Construction as per RIL standards:
+-
+Dimensions- 4 Mtrs X 3 Mtrs X 3 Mtrs
+-
+MOC-SS316
+-
+2 mm Thick Outer Wall & 1.5 mm Thick Inner Wall.
+-
+Overhang Roof Canopy-1 Meter in all four sides, MOC:
+SS3316, 2 mm thick
+-
+Cable Entry To Shelter: Through MCT Block.
+-
+Tube Entry To Shelter: Through Gromet.
+-
+Cable Tray: FRP Cable Tray
+Electrical Specifications:
+-
+F&G & Other devices As Per Attached Annexure A
+-
+Power Distribution & Warning Panels, Moc: LM6 Exd
+-
+ISJB for UPS, NON UPS & HVAC power
+-
+Shelter Safeguarding PLC
+-
+Junction Boxes, Moc: GRP/FRP, Exe
+-
+PLC: with redundant power supply & Communication cards.
+CPU & IO cards are non redundant
+-
+Annunciator panel.
+HVAC Specifications:
+Make: ADAGE
+-
+MOC: SS316
+-
+Redundant HVAC With Automatic Changeover
+-
+Capacity – 4 Tr (Each), with 12 Air changes
+-
+With Common Chemical Filter
+-
+Single Blower
+-
+Fresh Air Duct with Rain cap and bird Mesh, Qty: 6 meters
+from the Shelter, MOC: SS316
+-
+All mounting accessories, hardware to install HVAC fresh air

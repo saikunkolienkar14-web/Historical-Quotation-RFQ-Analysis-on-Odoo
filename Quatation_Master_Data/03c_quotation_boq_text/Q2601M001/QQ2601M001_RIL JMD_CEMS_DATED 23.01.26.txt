@@ -1,0 +1,283 @@
+Quotation Number: Q2601M001
+BOQ Status: FOUND
+
+Description Qty
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR SMD
+Location: HTM-A/B/C/D
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Field Cabinet
+Process Parameters:
+•
+Pressure (Operating): 50 mmwc
+•
+Temperature (Operating): 200-300 DegC
+Measuring Ranges:
+•
+SOx: 0 – 200/1000 mg/Nm3
+•
+NOx: 0 – 400/2000 mg/Nm3
+•
+CO: 0 – 250/1250 mg/Nm3
+•
+O2: 0-21%
+Sample Handling System:
+•
+With Sample probe and its blowback unit
+•
+With Sample Gas cooler, pump, filters, etc
+•
+Mounted inside IP54 Panel
+•
+With Calibration Gas Cylinders
+•
+With Cylinder Rack with Canopy
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+4 Nos
+79,00,000
+3,16,00,000
+2
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+4 x100
+meters
+6,500
+26,00,000
+3
+PORTA CABIN FOR CEMS
+MOC: CRCA
+WITH SPLIT AC– 1 NO.
+WITH 50 mm THICK INSULATION
+WITH ALUMINUM CHEQUERED PLATE FLOORING
+WITH SINGLE DOOR AND LOCK
+WITH LIGHTS COMPLETELY WIRED AND TUBED TO HOUSE THE
+GAS ANALYZER SYSTEM
+DIMENSION: 4 X 3 X 2.7 MTRS
+1 SET
+17,00,000
+17,00,000
+4
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR PMD
+Location: Bertram-1 &2, Bertram-3 & 4, Thermax-1, Thermax-2
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Field Cabinet
+Process Parameters:
+•
+Pressure (Operating): Customer to Specify
+Bertram – 1& 2 , 3 & 4
+•
+Temperature (Operating): 109 DegC
+Thermax – 1& 2
+•
+Temperature (Operating): 139 DegC
+Measuring Ranges:
+•
+SOx: 0 – 200/1000 mg/Nm3
+•
+NOx: 0 – 400/2000 mg/Nm3
+•
+CO: 0 – 250/1250 mg/Nm3
+•
+O2: 0-21%
+Sample Handling System:
+•
+With Sample probe and its blowback unit
+•
+With Sample Gas cooler, pump, filters, etc
+•
+Mounted inside IP54 Panel
+•
+With Panel AC, Make: Adage
+•
+With Calibration Gas Cylinders
+•
+With Cylinder Rack with Canopy
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+4 Sets
+82,00,000
+3,28,00,000
+5
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+4 x100
+meters
+6,500
+26,00,000
+6
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR BMD
+Location: DV , Husk Boiler
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Field Cabinet
+Process Parameters:
+DV
+•
+Temperature (Operating): 142-218 DegC
+•
+Pressure (Operating): 102 – 125 mm Wc
+HUSK BOILER
+•
+Temperature (Operating): 102 - 125 DegC
+•
+Pressure (Operating): 20 ~ 25 mm Wc
+Measuring Ranges:
+•
+SOx: 0 – 200/1000 mg/Nm3
+•
+NOx: 0 – 400/2000 mg/Nm3
+•
+CO: 0 – 250/1250 mg/Nm3
+•
+O2: 0-21%
+Sample Handling System:
+•
+With Sample probe and its blowback unit
+•
+With Sample Gas cooler, pump, filters, etc
+•
+Mounted inside IP54 Panel
+•
+With Calibration Gas Cylinders
+•
+With Cylinder Rack with Canopy
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+2 Sets
+79,00,000
+1,58,00,000
+7
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+2 x100
+meters
+6,500
+13,00,000
+8
+PORTA CABIN FOR CEMS
+MOC: CRCA
+WITH SPLIT AC– 1 NO.
+WITH 50 mm THICK INSULATION
+WITH ALUMINUM CHEQUERED PLATE FLOORING
+WITH SINGLE DOOR AND LOCK
+WITH LIGHTS COMPLETELY WIRED AND TUBED TO HOUSE THE
+GAS ANALYZER SYSTEM
+DIMENSION: 4 X 3 X 2.7 MTRS
+WITH FIRE EXTINGUISHER
+1 SET
+15,00,000
+15,00,000
+9
+CEMS FOR MEASUREMENT OF SOX, NOX, O2 FOR HoMD
+Location: Heater A, B & C
+Measurement Type: Hot Extraction Technique
+Area Classification: Safe Area
+Make: Siemens
+Model: ULTRAMAT 23
+Mounting Location: Inside Field Cabinet
+Process Parameters:
+HEATER A& B
+•
+Temperature (Operating): 200 DegC
+•
+Pressure (Operating): 350 mm Wc
+HEATER C
+•
+Temperature (Operating): 160 DegC
+•
+Pressure (Operating): 50mm Wc
+Measuring Ranges:
+•
+SOx: 0 – 200/1000 mg/Nm3
+•
+NOx: 0 – 400/2000 mg/Nm3
+•
+CO: 0 – 250/1250 mg/Nm3
+•
+O2: 0-21%
+Sample Handling System:
+•
+With Sample probe and its blowback unit
+•
+With Sample Gas cooler, pump, filters, etc
+•
+Mounted inside IP54 Panel
+•
+With Panel AC, Make: Adage
+•
+With Calibration Gas Cylinders
+•
+With Cylinder Rack with Canopy
+Analyzer Output:
+•
+4-20mA Analog Output for each measuring components.
+2 Sets
+82,00,000 1,64,00,000
+10
+HEATED SAMPLE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE
+Tube size: 1⁄4”
+With all necessary accessories and JB’S
+Make: Thermon
+2 x100
+meters
+6,500
+13,00,000
+11
+DUST MONITOR ANALYZER FOR SMD,PMD,BMD AND HoMD
+MODEL: DR-290 , MAKE: DURAG
+PRINCIPLE: MEASURING THE OPTICAL TRANSMISSION OF VISIBLE
+LIGHT WHICH PASSED A MEASURING PATH TWICE
+MESURING LOCATION: IN-SITU, NON-CONTACT
+SELF-CHECK: AUTOMATIC ZERO AND SPAN CHECK LED LIGHT
+SOURCE: NO READJUSTMENT NEEDED
+DUST OPACITY RANGE: 0- 100 %
+OUTPUT SIGNALS: 1 X 4-20 mA (ANALOG OUTPUT)
+RELAY OUTPUT (FOR STATUS SIGNAL)
+ACCESSORIES CONSISTS OF
+•
+D-R 290 MEASURING UNIT
+•
+D-R 290 REFLECTOR
+•
+MOUNTING BUSHING TUBES & OTHER ACCESSORIES
+UTILITY REQUIREMENT: PLANT N2/INSTRUMENT AIR AT
+4-6 Kg/Cm2 FOR PURGING IN CUSTOMER’S SCOPE.
+THE ABOVE MODEL IS QUOTED BASED ON ASSUMPTIONS AND
+AFTER THE RECEIPT OF STACK DETAILS THE MODEL MIGHT CHANGE
+ACCORDINGLY.
+12
+Sets 10,00,000 1,20,00,000
+SECTION 1: SUMMARY OF PRICES- SERVICES
+1
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO AND FRO AIR TICKET
+FARE, VISA CHARGES, SECURITY, WORK PERMIT IS TO BE ARRANGED BY
+CUSTOMER)
+@ 45,000 PER MAN DAY

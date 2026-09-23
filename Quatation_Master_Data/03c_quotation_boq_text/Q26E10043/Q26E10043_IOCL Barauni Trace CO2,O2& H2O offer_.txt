@@ -1,0 +1,326 @@
+Quotation Number: Q26E10043
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+2
+Trace O2 Analyser System
+26,80,000
+53,60,000
+2
+2
+Trace CO2 Analyser Syetem
+32,80,000
+65,60,000
+3
+2+2
+Trace Moisture Analyser System x 2 Nos + 2 Spares
+Moisture Analyser
+24,30,000
+48,60,000
+3
+Per Diem Supervision of installation & commissioning.
+50,000
+50,000
+4
+1
+Packing Forwarding & transportation upto site
+200,000
+200,000
+SECTION 2: TECHNICAL LITERATURE
+1
+GAS ANALYSER SYSTEM FOR TRACE O2 MEASUREMENT
+Tag No: 730-AT-1450/830-AT-1101
+Service: PPM Oxygen in Nitrogen
+Make: Siemens
+Model: OXYMAT 64
+Operating Principle: ZrO2
+Area Classification: Safe Area
+Mounting Location: Inside Existing Analyser Shelter inside a wall
+mounted enclosure.
+Process conditions:
+•
+Temperature (Min/Nor/Max): 15/15/25 Deg C
+•
+Pressure (Min/Nor/Max): 1/7.4/7.4 Kg/Cm2
+Measuring Range:
+•
+O2: 0-20 PPMV for O2 (Extendable Upto 50 PPMV Measurable)
+With Welded Sample Probe, MOC: SS316
+With Primary Sample handling system consisting of:
+•
+MOC: SS316
+•
+With Isolation Valve 2-way MOC: SS316, Size: 1/4" OD
+•
+With Ball Valves
+•
+With INLINE FILTER/5 Micron
+•
+With Pressure Regulator
+•
+With SRV
+With Secondary Sample handling system consisting of:
+•
+With SS316 Enclosure.
+•
+With Glass tube Flowmeter with low flow switch
+•
+With Filters
+•
+With Ball Valves
+•
+With Needle Valves
+•
+With SOVs for Auto Calibration
+•
+With Calibration gas cylinders & pressure regulators
+Analyzer output:
+•
+4-20 mA
+•
+RS-485 Communication
+Utility requirement:
+•
+100-120 VAC, 50 Hz UPS Power Supply
+Note:
+1. The Entire Analyzer system is rated for safe area.
+2 Sets
+Quoted
+2
+GAS ANALYSER SYSTEM FOR TRACE CO2 MEASUREMENT
+Tag No: xxxxxxx/xxxxxxxx
+Service: Carbon dioxide measurement in Nitrogen Unit
+Make: Siemens
+Model: ULTRAMAT 6E
+Operating Principle: NDIR
+Area Classification: Safe Area
+Mounting Location: Inside Existing Analyser Shelter inside a wall
+mounted enclosure.
+Process conditions:
+•
+Temperature (Op/Max): 35/65 Deg C
+•
+Pressure (Op/Max): 0.5/7.5 Kg/Cm2
+Measuring Range:
+•
+CO2: 0 - 10 PPM (Extendable Upto 50 PPMV Measurable)
+With Welded Sample Probe, MOC: SS316
+With Primary Sample handling system consisting of:
+•
+MOC: SS316
+•
+With Isolation Valve 2-way MOC: SS316, Size: 1/4" OD
+•
+With Redundant Filters
+•
+With Ball Valves
+•
+With Pressure Regulator
+•
+With SRV
+With Secondary Sample handling system consisting of:
+•
+With SS316 Enclosure.
+•
+With Glass tube Flowmeter with low flow switch
+•
+With Filters
+•
+With Ball Valves
+•
+With Needle Valves
+•
+With SOVs for Auto Calibration
+•
+With Calibration gas cylinders & pressure regulators
+Analyzer output:
+•
+4-20 mA
+•
+RS-485 Communication
+Utility requirement:
+•
+100-120 VAC, 50 Hz UPS Power Supply
+Note:
+1. The Entire Analyzer system is rated for safe area.
+2 Sets
+Quoted
+3
+Moisture Analyzer
+Service: Measurement of moisture content in pure N2 gas
+Model: Easidew Pro XP
+Make: Michell Inst.
+Hazardous Area Classification: Safe Area
+Mounting Location: Inside Enclosure mounted on free standing
+rack with canopy.
+IP Rating: IP66
+Phase: Gas
+Process conditions:
+•
+Temperature: 0 to 65 Deg C
+•
+Pressure: 0 to 8 Kg/Cm2
+Measuring Range:
+•
+HO2: -100...+20 °C (-148...+68 °F) dew point
+With Welded Sample Probe, MOC: SS316
+With 1/4” inch SS316 EP HTT Tubing: 15 mtrs
+With Secondary Sample handling system consisting of:
+•
+With SS316 Enclosure.
+•
+With Isolation ball valve
+•
+With Gauges
+•
+With Pressure Regulator
+•
+With Glass tube Flowmeter with low flow switch
+•
+With Filter
+•
+With Ball Valve
+•
+With Needle Valve
+Analyzer output:
+•
+4-20 mA
+Utility requirement:
+•
+100-120 VAC, 50 Hz UPS Power Supply
+Note:
+2. The Moisture Analyzer is factory calibrated.
+3. 2 Nos Spares Moisture Analyzers also included.
+4. The Entire Analyzer system is rated for safe area.
+2 Sets
+Quoted
+Component wise Make list
+Sr.
+No
+Item Description
+Proposed Make
+1
+Oxygen Analyser
+Siemens
+2
+CO2 Analyser
+Siemens
+3
+Moisture Analyser
+Michell
+4
+Enclosure
+Adage
+5
+SHS Cabinet
+Adage
+6
+Manual Welded Probe with Isolation Valve
+Adage
+7
+EP HTT tube Bundle with Accessories
+Thermopad
+8
+Bare Tube
+Sumitomo / Ratnamani
+9
+Ball Valve/Needle valve / SRV and fittings etc.
+Excel Hydro
+10
+Flowmeter
+Eureka
+11
+Pressure regulator
+Go/Tescom
+12
+Solenoid Valve
+Asco
+13
+Bypass Filter
+Sarvesh
+14
+Fine filter
+Excel Hydro
+15
+Gauges
+Wika / GIC
+16
+Power supply PDP's
+FEPL/FCG
+17
+Signal JB's
+FEPL/FCG
+18
+Headers
+Adage
+19
+Calibration Cylinders
+Inox/ Chemtron Science
+SECTION 4: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Inspection, Testing, Project Management & Project Documentation
+Yes
+6
+Factory Acceptance Test at Adage Works
+Yes
+7
+Packing forwarding
+Yes
+8
+Freight up to site including Insurance
+Yes
+9
+Storage of supplied system at site
+Yes
+10
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+11
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+12
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+13
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+Inclusive
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from the date PO receipt.
+Offer validity
+30 days.

@@ -1,0 +1,44 @@
+Quotation Number: Q25G10090
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Make: HEMERA
+Model: G800
+Component to be measured : Cl2
+Protection class:IP65
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+With Panel to mount the analyser & SHS Components. For
+further details kindly refer attached P&ID & BOM.
+Analyser output:
+•
+4-20 mA
+•
+RS485(Modbus)
+14 SETS
+QUOTED
+QUOTED
+2
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC: PTFE; Tube size: 1/4”
+With all necessary accessories and JB’S
+@QUOTED PER METER
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and
+To be claimed at actuals (ACII tier/flight).
+@QUOTED PER MANDAY

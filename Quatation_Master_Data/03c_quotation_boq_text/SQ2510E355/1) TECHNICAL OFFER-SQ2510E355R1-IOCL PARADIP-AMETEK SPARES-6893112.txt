@@ -1,0 +1,610 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+GROUP: 1
+ANALYSER,AIR DEMAND
+MAKE: AMETEK
+MODEL NO.:900
+ANALYSER START UP ZERO SETTINGS
+TEMPERATURE SENSOR
+ANALYSER START UP SPAN SETTINGS
+MEASURING CELL: MATERIAL
+MEASURING CELL: LENGTH
+MEASURING CELL: TEMPERATURE SET POINT
+O/P INTEGRAL MASTER SCALE: 0-20MA
+O/P SIGNAL:
+SUPPLEMENTARY REQUIREMENTS:
+ADDITIONAL REQUIREMENTS:
+MOUNTING:
+SPARES
+Signature of Vendor with Office Seal
+PAGE 2 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+SQ2510E355R1
+25-11-2025
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0010
+8420030323
+EA
+6.000
+|.....
+each
+MODEL NO.: 900
+LAMP,CADMIUM
+PART NO:300.2070
+BREAKUP OF QUANTITY
+Paradip Refinery : 6.000EA
+0020
+8420030313
+EA
+6.000
+|.....
+each
+MODEL NO.: 900
+LAMP,MAGNISIUM
+PART NO:100.0688
+BREAKUP OF QUANTITY
+Paradip Refinery : 6.000EA
+0030
+8420030083
+EA
+2.000
+|.....
+each
+CHOPPER MOTOR
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+GROUP: 2
+"ANALYSER, RATIO, (H2S/SO2)"
+CONTROL: MICROPROCESSOR BASED
+Signature of Vendor with Office Seal
+PAGE 3 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0040
+8422770361
+EA
+2.000
+|.....
+each
+MICRO INTERFACE BOARD,PN-100-0116
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+0050
+8422775461
+EA
+2.000
+|.....
+each
+SAMPLE VENT LINE,P/N:200-9310,AMETEK
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+0060
+8422773883
+EA
+1.000
+|.....
+each
+OPTO INTERRUPTER,P/N:300-4194,AMETEK
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+0070
+8422771773
+EA
+1.000
+|.....
+each
+FILTER,228NM,AMETEK,
+P/N300-0994
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+GROUP: 3
+Signature of Vendor with Office Seal
+PAGE 4 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+QUOTED
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+ANALYSER,AIR DEMAND
+MAKE: AMETEK
+MODEL NO.:900
+ANALYSER START UP ZERO SETTINGS
+TEMPERATURE SENSOR
+ANALYSER START UP SPAN SETTINGS
+MEASURING CELL: MATERIAL
+MEASURING CELL: LENGTH
+MEASURING CELL: TEMPERATURE SET POINT
+O/P INTEGRAL MASTER SCALE: 0-20MA
+O/P SIGNAL:
+SUPPLEMENTARY REQUIREMENTS:
+ADDITIONAL REQUIREMENTS:
+MOUNTING:
+SPARES
+0080
+8420032113
+EA
+2.000
+|.....
+each
+BEARING FOR FILTER WHEEL P/N : 300-9437
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+GROUP: 4
+"ANALYSER, RATIO, (H2S/SO2)"
+CONTROL: MICROPROCESSOR BASED
+0090
+8422774253
+EA
+8.000
+|.....
+each
+"O-RING VALVE
+BREAKUP OF QUANTITY
+Signature of Vendor with Office Seal
+PAGE 5 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+Paradip Refinery : 8.000EA
+GROUP: 5
+"ANALYSER, SULPHURDIOXIDE"
+TYPE: UV FLUROSCENCE TYPE
+SAMPLING: ON-LINE EXTRACTION TYPE
+PROBE TYPE: DILUTION
+PROBE MATERIAL: INCONEL-600
+CONTROL: MICROPROCESSOR BASED
+MEMORY: RAM WITH BATTERY BACKUP
+MEASUREMENT RANGE: 0 TO 1000 PPMV
+0100
+8426253691
+EA
+1.000
+|.....
+each
+AMETEK MODEL:900 CE ANALYSER SR. NO: VE-900-CE-8720-1
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+GROUP: 6
+ANALYSER, HYDROGEN SULPHIDE(H2S)
+OUTPUT SIGNAL:
+PROCESS CONNECTION:
+CONTROL:
+DISPLAY:
+SUPPLEMENTARY REQUIREMENTS:
+ENCLOSURE:
+ADDITIONAL REQUIREMENTS:
+SPARES
+Signature of Vendor with Office Seal
+PAGE 6 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0110
+8422741573
+EA
+1.000
+|.....
+each
+FLTR INTRF,309NM,P/N300-0284
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+0120
+8422741553
+EA
+1.000
+|.....
+each
+FLTR INTRF,383MG,AMETEK,P/N300-0285
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+GROUP: 7
+"ANALYSER, RATIO, (H2S/SO2)"
+CONTROL: MICROPROCESSOR BASED
+0130
+8422771793
+EA
+1.000
+|.....
+each
+FILTER 285NM FOR AMETEK 919 ANALYSER,P/N:300-0996
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+GROUP: 8
+ANALYSER
+MAKE : CHEMTROL INDUSTRIES LTD
+Signature of Vendor with Office Seal
+PAGE 7 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0140
+8431110613
+EA
+6.000
+|.....
+each
+ANALYZER H2S, CHEMTROL, CELL WINDOW P/N 300-0281
+BREAKUP OF QUANTITY
+Paradip Refinery : 6.000EA
+GROUP: 9
+DISTILLATION ANALYSER
+TYPE: SIMULATED
+0150
+8420893051
+EA
+2.000
+|.....
+each
+AMETEK MODEL:900 CE ANALYSER SR. NO:VE-900-CE-8720-1
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+GROUP: 10
+"ANALYSER, RATIO, (H2S/SO2)"
+CONTROL: MICROPROCESSOR BASED
+0160
+8422774213
+EA
+4.000
+|.....
+each
+"O RINGS FOR FILTER WHEEL
+BREAKUP OF QUANTITY
+Paradip Refinery : 4.000EA
+Signature of Vendor with Office Seal
+PAGE 8 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+GROUP: 11
+ANALYSER,AIR DEMAND
+MAKE: AMETEK
+MODEL NO.:900
+ANALYSER START UP ZERO SETTINGS
+TEMPERATURE SENSOR
+ANALYSER START UP SPAN SETTINGS
+MEASURING CELL: MATERIAL
+MEASURING CELL: LENGTH
+MEASURING CELL: TEMPERATURE SET POINT
+O/P INTEGRAL MASTER SCALE: 0-20MA
+O/P SIGNAL:
+SUPPLEMENTARY REQUIREMENTS:
+ADDITIONAL REQUIREMENTS:
+MOUNTING:
+SPARES
+0170
+8420034283
+EA
+4.000
+|.....
+each
+O-RING KIT,ASR PROBE,AMETEK,P/N300-8899
+BREAKUP OF QUANTITY
+Paradip Refinery : 4.000EA
+GROUP: 12
+ANALYSER, HYDROGEN SULPHIDE(H2S)
+MAKE: AMTEK
+MODEL: 732 M
+PROCESS CONNECTION:
+CONTROL:
+POWER SUPPLY: 220V AC
+DISPLAY:
+Signature of Vendor with Office Seal
+PAGE 9 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+_________________________________________________________________________________
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+SUPPLEMENTARY REQUIREMENTS:
+ENCLOSURE:
+ADDITIONAL REQUIREMENTS:
+ADDITIONAL REQUIREMENTS:
+COMPLETE UNIT
+SPARES
+0180
+8422821571
+EA
+2.000
+|.....
+each
+FIBER FLTER ASSY SS HAG PROB,P/N:100-2195,732 M,AMTEK
+MAKE AMETEK
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+GROUP: 13
+"ANALYSER, PROCESS"
+0190
+8426913323
+EA
+4.000
+|.....
+each
+DUAL VORTEX COOLER MODEL V7870,MAKE CHEMTROL INDUSTRIES
+CONTINUOS OPERATIONAL 70SCFM
+1/4 INCH NPT INLET WITH AIR FILTER & DUCTING KIT
+BREAKUP OF QUANTITY
+Paradip Refinery : 4.000EA
+GROUP: 14
+"ANALYSER, RATIO, (H2S/SO2)"
+CONTROL: MICROPROCESSOR BASED
+Signature of Vendor with Office Seal
+PAGE 10 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0200
+8422770351
+EA
+1.000
+|.....
+each
+MICRO CONTROLLER BOARD,PN-100-0117 RP
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+0210
+8422770313
+EA
+2.000
+|.....
+each
+"HOST CONTROLLER BOARD
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+GROUP: 15
+ANALYSER, HYDROGEN SULPHIDE(H2S)
+MAKE: AMTEK
+MODEL: 732 M
+PROCESS CONNECTION:
+CONTROL:
+POWER SUPPLY: 220V AC
+DISPLAY:
+SUPPLEMENTARY REQUIREMENTS:
+ENCLOSURE:
+ADDITIONAL REQUIREMENTS:
+ADDITIONAL REQUIREMENTS:
+COMPLETE UNIT
+SPARES
+Signature of Vendor with Office Seal
+PAGE 11 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+QUOTED
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0220
+8422822111
+EA
+2.000
+|.....
+each
+HOST CTLR BOARD EEPROM M919, P/N:100-1868,732 M,AMTEK
+MAKE AMETEK
+BREAKUP OF QUANTITY
+Paradip Refinery : 2.000EA
+GROUP: 16
+OXYGEN ANALYSER
+SENSOR: ZIRCONIUM OXIDE CELL PROBE
+MAKE: AMETEK
+PROBE MATERIAL: HAYNES 556
+DISPLAY: ANALOGUE
+MODEL: WDG-IV
+HOUSING MATERIAL: CAST ALUMINIUM
+MEASURING CELL-LENG: 3 FT RA 330 PROBE
+CONTROL: MICROPROCESSOR BASED
+MEMORY TYPE: RAM WITH BATTERY BACKUP
+TEMPERATURE ELEMENT: ' K ' THERMOCOUPLE
+MEASUREMENT RANGE: 0-10% O2
+OUTPUT: 4 TO 20 mA
+FREQUENCY: 50Hz
+VOLTAGE: 230 VAC
+MEASUREMENT RANGE: 0% TO 10%
+O/P INTEGRAL METER SCALE: 0-1000ppm
+O/P SIGNAL: 4-20mA
+AREA CLASSIF.: IEC ZONE-2 GR.IIA&IIB T3
+Signature of Vendor with Office Seal
+PAGE 12 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+QUOTED
+Sr.no.Item Code and
+Unit
+Qty
+Unit Price
+Description
+(tobe filled)
+In fig&words
+0230
+8424439124
+EA
+6.000
+|.....
+each
+O2(WDG IV)ANALYSER, CERAMIC FILTER, CHEMTROL,
+P/N:73770SE
+BREAKUP OF QUANTITY
+Paradip Refinery : 6.000EA
+GROUP: 17
+CONTROL PANEL&PARTS
+MAKE:
+SUPPLEMENTARY REQUIREMENTS:
+ADDITIONAL REQUIREMENTS:
+COMPLETE UNIT
+SPARES
+0240
+8161510111
+EA
+1.000
+|.....
+each
+RESTRICTOR FLOW 1 SCFM (28300 SCCM) MOUNTED IN 1/4", PA
+MAKE : AMETEK
+BREAKUP OF QUANTITY
+Paradip Refinery : 1.000EA
+Signature of Vendor with Office Seal
+PAGE 13 OF 15
+ENQUIRY CUM OFFER
+Enquiry No.:9070M25H65/2453970
+QUOTED
+QUOTED
+PROCESS INSTRUMENTS
+150 Freeport Road, Pittsburgh, PA 15238
+Telephone: 412-828-9040 Fax: 412-826-0399
+Reference No : 2022/AMTK/IND/8123
+01-12-2024
+TO WHOMSOEVER IT MAY CONCERN
+On behalf of Ametek Process and Analytical Instruments, I would like to inform you that Adage
+Automation Private Limited L- 26B, Phase II, Verna Industrial Area ,Verna, Goa- 403722,INDIA (Hereon referred
+to as Adage), are our Exclusive representative in India for Ametek Process Instruments entire range
+of Analytical products.
+Spares and Service support for Ametek Analyzers i.e. Oxygen Analyzers, SRU analyzers i.e.
+H2S Analyzer, H2S+NH3 Analyzer, Tail Gas/Air Demand Analyzer, H2S + SO2 Analyzer, H2 Analyzer,
+SOx Analyzer & Moisture Analyzers”.
+Please be informed that Adage team is fully authorized to submit, discuss and negotiate
+quotations for Analyzer systems & spares issued by Ametek on our behalf either in Indian Rupees or
+in US Dollars. Adage is supported with all required technical back up for all new and old products of
+Ametek Process Instruments. Adage also has factory trained service engineers who are capable and
+authorized to commission and service our analyzers.
+I hereby request you to contact M/s. Adage or the undersigned for your requirement or queries, if
+any.
+The authorization letter is valid till 31st Dec 2026 .
+Sincerely,
+For M/s Ametek Process Instruments
+Jochen Geiger
+Director (EMEA & India)
+IOCL TENDER NO.: Enquiry No.:9070M25H65/2453970
+DATE: 26-11-2025
+TENDER NO: GEM/2025/B/6893112 DTD:14-11-2025
+DEVIATIONS
+Technical deviations, if any
+A. The SR LINE-ITEM NO. 0030 CHOPPER MOTOR has been updated to
+PART NUMBER: 100-3098 (Old 300-2227).
+B. The SR LINE-ITEM NO. 0090 O-RING VALVE has been updated to PART
+NUMBER: 300-8719.
+C. The SR LINE-ITEM NO. 0100 AMETEK MODEL:900 CE ANALYSER SR.
+NO: VE-900-CE-8720-1 has been updated to PART NUMBER: 100-1662.
+D. The SR LINE-ITEM NO. 0150 AMETEK MODEL:900 CE ANALYSER SR.
+NO:VE-900-CE-8720-1 has been updated to PART NUMBER: 300-9436.
+E. The SR LINE-ITEM NO. 0160 O RINGS FOR FILTER WHEEL has been
+updated to PART NUMBER: 300-1528.
+F. The SR LINE-ITEM NO. 0190 DUAL VORTEX COOLER MODEL V7870,
+has been updated to PART NUMBER: 18729008.
+G. The SR LINE-ITEM NO. 0210 HOST CONTROLLER BOARD has been
+updated to PART NUMBER: 100-0138.
+H. The SR LINE-ITEM NO. 0240 RESTRICTOR FLOW 1 SCFM (28300
+SCCM) MOUNTED IN 1/4", PA has been updated to PART NUMBER: 301-
+2363.
+Commercial deviations, if any
+1. Payment Term
+Adage: 90% PAYMENT WILL BE MADE AGAINST COMPLETE ORIGINAL DESPATCH
+DOCUMENTS THROUGH BANK. BANK CHARGES SHALL BE TO RESEPECTIVE
+ACCOUNT.
+DESPATCH DOCUMENTS ARE:
+1) INVOICE,
+2) LR/GR COPY
+3) PACKING LIST
+10% PAYMENT SHALL BE RELEASED WITHIN 30 DAYS OF RECEIPT &
+ACCEPTANCE OF MATERIALS AT OUR STORES.
+2. Delivery:
+Adage: Within 20 weeks from the date of receipt of PO.
+3.
+Part Order:
+Adage: Not Applicable.
+4.
+Repeat Order:
+Adage: Not Applicable.
+5. Transit Insurance:
+Adage: Transit insurance shall be in Customers Scope.
+6.
+Third Party Inspection.
+Adage: Not Applicable
+7.

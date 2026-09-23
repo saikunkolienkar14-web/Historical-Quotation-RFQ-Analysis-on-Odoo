@@ -1,0 +1,170 @@
+Quotation Number: Q25G10106T1C0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1.1
+1
+O2 Analyzer , Tag No.: AT-1001
+35,50,000
+35,50,000
+1.2
+1
+Hydrogen Analyzer, Tag No.: AT-1002
+2
+1
+Commissioning, Mandatory and two years operational
+spares.
+(Spares List attached as per Adage recommendation)
+13,45,000
+13,50,000
+3
+1
+Supervision of installation & Commissioning for
+10 days
+2,50,000
+2,50,000
+4
+1
+Packing Charges
+60,000
+60,000
+SECTION 3: TECHNICAL LITERATURE
+1.1
+O2 ANALYZER TO BE PLACED IN FIELD RACK
+TAG NO: AT-1001
+Service: Hydrogen
+MODEL: oxy.iq oxygen transmitter (Galvanic fuel cell)
+MAKE: GE Panametrics
+IP Rating: IP20 (shall be mounted inside IP65 rated SHS
+Enclosure).
+Range: 0-1%
+Power: 24VDC loop powered
+Hazardous Area Classification: Intrinsically safe, Class 1, Div 2,
+Groups ABCD
+Cable Length: 2 meters
+Mounting Location: in Field Primary SHS
+As per the TQ closer sheet, L&T will provide the sample at the
+inlet of sample handling system enclosure. We will provide the
+1/4" OD bulkhead connection at SHS enclosure for Sample inlet,
+Sample vent & drain. Further connection for sample vent to low
+pressure header shall be in L&T scope.
+Communication output shall be 4-20mA analog output only. No
+serial data output is available.
+1 No.
+Quoted
+1.2
+H2 ANALYZER TO BE PLACED IN FIELD RACK
+TAG NO: AT-1002
+Service: Oxygen
+MODEL: XMTCpro (Thermal Conductivity Transmitter)
+MAKE: GE Panametrics
+Enclosure Package: Aluminum enclosure, explosion proof, with
+display
+IP Rating: IP66
+Range: 0-2%
+Power: 24VDC
+Hazardous Area Classification: Zone-2, Group IIC, T4
+Mounting Location: in Field Primary SHS
+As per the TQ closer sheet, L&T will provide the sample at the
+1 No.
+Quoted
+inlet of sample handling system enclosure. We will provide the
+1/4" OD bulkhead connection at SHS enclosure for Sample inlet,
+Sample vent & drain. Further connection for sample vent to low
+pressure header shall be in L&T scope.
+Communication output shall be 4-20mA analog output with
+RS485.
+SHS system for O2 & H2 Analyser.
+-
+Isolation Ball valve, pressure regulator, pressure gauge,
+SOV, Coalescing filter with moisture sensor, Flow meter
+with Low flow switch, needle valve etc., and same shall be
+mounted inside wall mounted CRCA enclosure on field
+Skid.
+Note:
+1. PMI test certificate for SS items.
+2. Hydrotest certificate @ 1.5 bar for SHS components only.
+1 No.
+Quoted
+Field Rack consists
+-
+MS painted rack (Rack Dimensions: Finalized during
+design engineering).
+-
+With CRCA cabinet and CRCA canopy.
+-
+With Ex proof 230VAC UPS PDP (Zone-2, IIC, T3) – 1 no.
+-
+With common Ex proof Signal JB (Analog & Digital) – 1 no.
+1 Set
+Quoted
+Validation Cylinder with dual stage Regulator for 6 months of
+operation after SAT:
+10 Liter gas cylinder for H2, O2 & N2 with cylinder pressure
+regulators.
+1 Set
+Quoted
+SECTION 4: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+Supply of Mandatory spares, as per adage recommendation
+Yes
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+12
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+13
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+14
+Supervision of Installation and Commissioning SAT & Handover
+Yes
+15
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+16
+Supply of 2 years O&M spares, as per adage recommendation
+Yes
+17
+Training at Site- OPTIONAL
+18
+Training at Goa facility- OPTIONAL
+19

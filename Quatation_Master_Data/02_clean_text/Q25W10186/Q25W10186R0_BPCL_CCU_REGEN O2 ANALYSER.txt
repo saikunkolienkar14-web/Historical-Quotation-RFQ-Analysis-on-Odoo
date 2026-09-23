@@ -1,0 +1,934 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Dear Sir/Madam,
+
+We thank you for your interest in the Gas Analytical Solution from ADAGE AUTOMATION . In reference to
+the same , please find enclosed our quotation for Design & Engineering, Manufacturing
+and Supply of analyzer system as per your requirement.
+
+ADAGE QUOTE REF:
+Q25W10186
+DATED : 31.07.2025
+BID TYPE : BQ
+PROJECT TITLE:
+ONLINE OXYGEN ANLYSERS AT CCU PLANT REGENRATOR FLUE
+GAS LINE AT BPCL, MUMBAI REFINERY
+INQUIRY DETAILS:
+Enquiry received via mail dated : 11.07.2025
+CUSTOMER:
+
+Kind Attention : Mr Aswad Kharsamble
+BPCL
+END USER:
+
+BHARAT PETROLEUM CORPORATION LTD. MUMBAI REFINERY
+
+THE SUMMARY OF SYSTEM AS PER BELOW SECTIONS:
+SECTION-1: SUMMARY OF PRICES
+SECTION-2: ASSUMPTIONS/CLARIFICATION
+SECTION-3: TECHNICAL LITERATURE
+SECTION-4: SCOPE MATRIX
+SECTION-5: COMMERCIAL TERMS & CONDITION
+
+Kindly review and do let us know if you have any queries
+
+Kind Regards
+
+Mr. Piyush Tashildar
+ADAGE AUTOMATION PVT LIMITED
+piyush@adage-automation.com
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+Introduction to ADAGE AUTOMATION – Leading Provider of Gas Analytical Solutions.
+
+In reference to your requirement for Gas Analytical Solutions, we would like to take this opportunity to
+briefly introfuce our organization.
+
+ADAGE AUTOMATION is a global leader in providing Continuous Gas Analytical Systems and Solutions.
+Our expertise spans across applications in Process Monitoring, Emission Monitoring, and Safety for
+various industrial sectors including Oil & Gas, Steel, Cement, Power, Fertilizers, and Chemicals.
+We hold a leadership position in India in terms of business volume and infrastructure. Our strong presence
+includes:
+•
+16 offices across India
+•
+Three overseas subsidiaries in New Jersey (USA), Abu Dhabi (UAE), and Jubail (Kingdom of
+Saudi Arabia)
+•
+A team of over 300 professionals, including 200+ specialist engineers
+•
+A state-of-the-art manufacturing facility in Goa, which is currently the world’s largest Gas
+Analytical Systems Integration (SI) facility
+
+To date, we have successfully installed over 5,000 Analyzer Systems both in India and across the globe.
+We would be delighted to explore how ADAGE can support your gas analytics needs with our proven
+capabilities, global footprint, and commitment to innovation and quality.
+Looking forward to the opportunity to collaborate.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Item
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Oxygen Analyser - 1OAR107
+1 No
+Quoted
+2
+1
+Project Documentation
+1 No
+Quoted
+3
+1
+FAT at Adage Factory
+1 No
+Quoted
+4
+1
+Packing, Forwarding & Transportation upto Site
+1 No
+Quoted
+5
+1
+Supervision of installation & Commissioning & SAT
+1 No
+Quoted
+6
+1
+Training at Site
+1 No
+Quoted
+7
+1
+Consumable & Commissioning spares
+1 No
+Quoted
+8
+1
+Mandatory Spares
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: ASSUMPTIONS/CLARIFICATIONS
+
+1. 230 VAC Non-UPS has been considered for HTT power supply.
+2. All field Power & Signal cables upto battery limit at Field Rack end shall be in customer’s scope.
+3. BPCL to confirm Sample transportation length from tapping till analyser, Currently 10 meter line
+lengty is considered.
+4. Provision of Propylene for Reflux sampler shall be in BPCL scope of supply.
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: TECHNICAL LITERATURE
+
+1
+PROCESS CONDITIONS
+TAG NO: OAR107
+Service: Lift Gas
+-
+Operating Pressure (Nor): 1.7 Kg/cm2g
+-
+Operating Temperature (Nor): 675 Degree C
+
+As Per MR
+Requirement
+1.1
+Oxygen Analyser
+Tag No : OAR107
+Make: SIEMENS
+Model: OXYMAT 6F
+Measuring principle: Paramagnetic
+Hazardous Area Classification: Zone 1 llC T3
+Mounting Location: Inside Analyser cabinet
+Phase : Vapour
+IP rating : IP65
+
+Analyzer Outputs:
+-
+4-20 mA Analog output.
+-
+RS 485/Ethernet Modbus Output.
+-
+Potential free contacts for fault alarms
+
+Utilities Required:
+-
+Power supply: 110 VAC, 50HZ UPS Power supply
+-
+Power supply: 230 VAC, 50HZ NON-UPS Power supply
+-
+5- 6 Kg/cm2 Instrument Air, Free of Oil, Dust & Moisture
+
+1 No
+Quoted
+1.2
+Sample Probe
+-
+Dynamic Reflux sampler Probe.
+
+1 No
+Quoted
+1.3
+Sample Transportation Tube
+-
+1/4’’ SS316 tube Electrical Heat Traced Tube , Qty: 10 Meters.
+
+10 Meters
+Quoted
+1.4
+Common Secondary Sample Handling system
+-
+Ball valve, Pressure indicator, Fast loop filter, Bypass rotameter,
+Sample Rotameter with low flow switch, SOV, NRV, SRV, fine
+filter, etc.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+1.5
+Analyser Cabinet
+-
+800(W) mm x 600(D) mm x 2100(H) mm,
+MOC: SS316, 2mm thk
+-
+With Vortex cooler
+-
+ASJB,DSJB,CSJB
+-
+PDB’s, MOC: LM6
+-
+Headers & other accesories
+
+1 No
+Quoted
+1.6
+Calibration Span & Zero gas cylinder
+-
+Calibration gas Cylinders for Zero & Span of 10L along with
+cylinder Pressure Regulator.
+
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 4 : SCOPE MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyser as per offer
+Yes
+
+2
+Analyser House with HVAC
+-
+-
+3
+Analyser Cabinet with AC
+-
+-
+4
+Sample Tapping Nozzle Flange
+
+Yes
+5
+Process Isolation Valve at tapping point
+Yes
+
+6
+Sample Probe with flanges gaskets and nut bolts.
+Yes
+
+7
+Sample Transportation Line ( Bare SS316 tube)
+-
+-
+8
+Sample Transportation Line ( Special tubes like EHT, etc)
+Yes
+
+9
+Sample Return Line
+-
+-
+10
+Isolation Valve at process return point
+-
+-
+11
+Supply of Calibration Cylinders with accessories
+Yes
+
+12
+Supply of 1 sets of carrier gas cylinders
+-
+-
+13
+Auto change over regulator with Accessories
+-
+-
+14
+Network Components
+-
+
+15
+Signal JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+
+16
+Intermediate JBs
+-
+
+17
+Sample Conditioning System
+Yes
+
+18
+Supply of startup and commissioning spares
+Yes
+
+19
+Supply of Mandatory spares
+Yes
+
+20
+Consumables spares
+Yes
+
+21
+Inspection & Testing
+Yes
+
+22
+Project Management & Project Documentation
+Yes
+
+23
+Factory Acceptance Test at Adage Works
+Yes
+
+24
+8 Hours Repeatability Test
+-
+-
+25
+24 Hours Repeatability test reports
+-
+-
+26
+Packing forwarding
+Yes
+
+27
+Freight up to site
+Yes
+
+28
+Storage of supplied system at site
+
+Yes
+29
+Civil foundation as required
+
+Yes
+30
+Mobilization of supplied system from Stores to location.
+
+Yes
+31
+Installation of supplied system at site
+
+Yes
+32
+Supply of Standard Field Cables including signal, power & FO.
+
+Yes
+33
+Field supporting structure for cables, transportation tubes etc.
+
+Yes
+34
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+
+Yes
+35
+laying of Trays (Power, Signal, Sample line, Air etc)
+
+Yes
+36
+Provision of dry instrument Air
+
+Yes
+37
+Provision of Plant Nitrogen
+
+Yes
+38
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+
+Yes
+39
+Supervision of Installation and Commissioning
+Yes
+
+40
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+
+Yes
+41
+Site Acceptance Test & Handover
+Yes
+Yes
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 5: COMMERCIAL TERMS & CONDITION
+
+Price Basis
+DAP Site basis
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Customer’s scope
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date of PO
+Offer validity
+90 days.
+Payment Terms
+Shall be discussed during Commercial Negotiations.
+Guarantee Clause
+
+Against manufacturing defects for 12 months from the date of Commissioning or 24
+months from the date of dispatch whichever is earlier.
+
+ANNEXURE 02
+
+P a g e 1 | 3
+
+BHARAT PETROLEUM CORPORATION LTD.
+MUMBAI REFINERY
+Project
+Provision of Online Oxygen
+Analyzer at CCU Plant
+Regenerator Flue Gas Line.
+Date
+
+Prepared By
+AGK
+PR No:
+
+Approved By
+
+Area:
+CCU Regenerator Flue Gas Line
+Data-Sheet No
+
+Vendor:
+
+Revision Index
+0
+Online Oxygen Analyzer Datasheet
+General
+1
+Tag No.
+OAR107
+2
+Quantity
+One
+3
+Analyzer Location
+CCU regenerator flue gas line
+4
+Purpose
+Monitor air requirement inside CCU plant regenerator.
+5
+Analyzer Principle
+Paramagnetic Type
+6
+Number of Sample Points to be measured
+One
+7
+Measurement Type
+Continuous Online measurement
+8
+Sample extraction
+Advance/ Dynamic Reflux sampler is mandatory for sample extraction.
+
+9
+
+Scope of Supply
+An oxygen analyzer installed inside freestanding cabinet having Ex ‘d’
+certification (ATEX & PESO) suitable for hazardous area classification
+along with its sample handling system, Sample vent, power supply unit,
+control unit, HMI etc. and other necessary accessories.
+Site Conditions
+10
+Area Classification
+Zone 1, Class IIA/IIB, Temp Classification T3.
+11
+Relative Humidity
+100%RH (MAX), 5% RH (MIN)
+12
+Temperature
+Ambient (Min 5 Deg. C to 55 Deg. C)
+13
+Max Rainfall
+200 mm for the duration of 1 hour
+14
+Climatic Conditions
+Hot & Humid
+15
+Location
+A new analyzer cabinet shall be mounted in place of the existing
+analyzer cabinet. (One to One replacement)
+Process Data
+16
+Service
+Sample State
+Flue Gas
+
+Gas
+Sample Take off Point from Existing Nozzle on CCU regenerator flue gas line (4” 150#)
+17
+Operating Pressure (Barg)- Normal / Max
+1.7 / 2.2
+18
+Flue Gas flow (TPD) – Normal
+2973
+19
+Operating Temperature (Deg. C)- Normal / Max
+675 / 750
+20
+Sample Composition
+CO2- 9.925 % Vol
+CO- 5.53 % Vol
+O2- 1.43 % Vol
+H2O- 4.56 % Vol
+N2- 78.55 % Vol
+21
+Moisture Content
+H2O- 4.56 % Vol
+22
+Catalyst Content
+0.025 % of flue gas
+23
+Sample Return
+Atmospheric Vent
+24
+Analyzer Measurement Range
+0 – 10 %
+25
+Process Connection
+4” #150
+Utilities
+26
+Instrument Air (Kg/cm2g) MIN/MAX
+Pressure:
+4.5 / 6
+Temperature: Ambient
+27
+Nitrogen (Kg/cm2g) MIN/MAX
+Pressure:
+4 / 5
+Temperature: Ambient
+
+NA
+NA
+
+NA
+NA
+
+Analyzer System
+28
+Analyzer Type
+Microprocessor based with Non-Volatile type memory or RAM with
+battery back-up.
+29
+Display Type
+Backlit LCD/LED alpha numeric, Touch screen preferred.
+30
+Sensor Mounting Accessories
+Vendor to specify.
+31
+Analyzer Wetted Material MOC
+SS316 or better
+32
+Number of components
+Vendor to specify
+33
+Temperature Measurement
+Required.
+34
+Transmitters SIL requirement
+SIL 2 as per IEC61508 certified by Ex ‘I’ da
+35
+Detector Type
+Vendor to specify.
+36
+Minimum Detectable limit
+0.05ppm or better and user configurable
+37
+Carrier flow/pressure Stability
+Vendor to specify
+NOTED
+NOTED
+REF DEV
+LIST FOR
+EX'd' cert.
+NOTED
+NOTED
+SHALL BE MOUNTED INSIDE CABINET
+NOTED
+SINGLE COMPONENT (OXYGEN)
+NOTED
+NOTED
+PARAMAGNETIC
+REF DEV
+NA
+
+ANNEXURE 02
+
+P a g e 2 | 3
+
+38
+Cycle time with complete SHS / sample
+continuous measurement with maximum 60 seconds lag time from
+sample tap off point.
+39
+Calibration
+Auto and Manual calibration facility required. Calibration Span and zero
+gas of 10 liters shall be filled inside highly polished aluminum portable
+cylinders with NIST traceable certificate. Calibration span and zero gas
+must be provided along with the instrument for calibration purposes. N2
+gas shall not be used as reference gas for Oxygen Analyzer, vendor shall
+provide built in validation system for analyzer.
+40
+Analyzer Validation/ Reference Gas
+Oxygen or Air to be used.
+41
+Customable Range Limit
+Auto ranging and custom ranging should be possible
+42
+Accuracy / Precision
+± 1% of FS of Measuring Range
+43
+Repeatability
+± 1% of FS of Measuring Range.
+44
+Sensitivity
+± 0.5 % of FS of Measuring Range.
+45
+Response Time
+2 seconds
+46
+Analyzer worm up time
+5 min or less.
+47
+Power supply for analyzers and panel lighting
+110V AC ±10%, 50Hz ± 3% (UPS)
+48
+Max power consumption
+Vendor to specify
+49
+Zero Drift
+0.1 ppm per 24hrs. Or Better with Automatic Zero Compensation
+50
+Span Drift
+< 1% of Full scale per 24hrs.
+51
+Noise Level
+0.02ppm
+52
+Electronic Module type
+Plug & Play type, Field replaceable.
+53
+Self-Diagnostic Features
+Inbuilt & remote Diagnosis required, Vendor to furnish details of
+available self-diagnostics and mode of display.
+54
+Configuration Changes
+It shall be possible to make a configuration change by an inbuilt
+keypad.
+55
+Diagnostics & Data Storage/ Historical Data
+Required. Minimum 50 days of in-built diagnostic data and
+spectrum storage suitable for remote diagnosis facility from a
+distant location
+56
+Output
+4 – 20 mA, RS485 serial communication.
+57
+Digital Output
+2 Nos for Fault & warning.
+58
+Communication
+Modbus TCP/IP /Fieldmate/HART.
+59
+Other utilities, if any
+Vendor to specify
+60
+Type of protection of the analyzer enclosure
+Flameproof enclosure / Pressurized enclosure as per hazardous area
+Classification
+61
+Protection degree of enclosure
+‘IP 67’
+62
+Mandatory Certification for analyzer & its
+components
+as
+per
+hazardous
+area
+classification
+Ex’d’, Zone 1, ATEX certification for analyzer and PESO.
+63
+Enclosure
+X-Purged System / Explosion Proof with vortex cooler
+64
+Calibration Type
+Auto as well as Manual calibration facility.
+65
+Zero calibration
+Yes, auto baseline correction.
+66
+Span calibration
+NIST traceability standard sample.
+67
+Calibration Sample
+Required.
+
+68
+Mounting Accessories
+Required for mounting in analyzer cabinet. Vendor to specify.
+Analyzers Common Cabinet
+69
+Cabinet Type
+Free standing cabinet shall be suitable for the area classification
+IEC Zone 1, Group II, IIA/IIb, T4. Analyzer cabinet integration shall
+be done at the vendor’s place with due approval from BPCL
+engineer in charge.
+70
+Cabinet Certification
+PESO & ATEX suitable for hazardous area classification.
+71
+Material of construction
+Shall be fabricated from 2 mm thick SS316 sheet.
+72
+Vortex Cooler
+Required of reputed make. (Vendor to specify)
+73
+Dimensions of Cabinet
+Analyzer cabinet shall be of suitable size for installation of Oxygen
+analyzer system mentioned in PO along with their sample
+handling system. Cabinet size shall be decided during detail
+engineering; however, cabinet size shall not exceed (LXWXH)
+800X600X2100mm
+74
+Cabinet Brief Specifications
+Proper lighting shall be provided inside the analyzer panel. All
+electronic cabling and sample tubing’s shall be done inside the
+panel (fully integrated) with approval from BPCL engineer in
+charge. The cabinet shall have a toughened glass window on the
+NOTED
+NOTED
+NOTED
+NOTED
+NOTED
+NOTED
+REF DEV
+NOTED
+35VA
++/-0.5%/MONTH OF
+SMALLEST
+POSSIBLE SPAN
+NOTED
+AVAILABLE
+NOTED
+Fault diagnostic history available, spectrum-NA, historical data -NA
+NOTED
+NOTED
+REF DEV
+REF DEV
+REF DEV
+NOTED
+NOTED
+NOTED
+NOTED
+WALL MOUNTED
+NOTED
+NOTED
+NOTED
+NOTED
+DURING DDE
+NOTED
+NOTED
+Pressurised available
+NOTED
+PROPYLENE FOR REFLUX SAMPLER
+NOTED
+REV DEV
+NOTED
+NOTED
+
+ANNEXURE 02
+
+P a g e 3 | 3
+
+front door and the analyzer display shall be visible. Signal and
+power junction box shall be separate. All cables and tubing’s
+entries shall be through MCT blocks only.
+NOTES
+75
+a)
+Vendor shall supply utility panel & Sampling system with inbuilt validation arrangement for the Analyzer.
+b)
+The Offered Analyzer system should be supported for Remote service support and diagnosis from a
+distant location.
+c)
+The Analyzer is to be provided with 2 configurable analog outputs, one for transmission & the other for
+gas concentration.
+d)
+All the spares, electronic cards, lasers, detector modules shall be field replaceable without having any
+requirement for Factory recalibration or replacement or reconfiguration after replacing any electronic
+card or Module.
+e)
+All the required calibration accessories (Calibration cylinders, flow cell) shall be in the vendors scope of
+supply.
+TRANSMISSION NA FOR PARAMAGNETIC TYPE GAS ANALYSER.
+NOTED
+NOTED
+NOTED
+NOTED
+
+S. No.
+Document No.
+Clause No.
+Requirement
+Adage Clarification
+IOCL REMARKS
+1
+Cl 9, Annexure 02
+An oxygen analyzer installed inside freestanding
+cabinet having Ex ‘d’
+certification
+Analyser is Ex'P' certified for Zone 1 IIC T3
+2
+Cl 36, Annexure 02
+Minimum Detectable limit to be 0.05ppm or
+better and user configurable
+Minimum Detection limit is 0.1%.
+3
+Cl 44, Annexure 02
+Sensitivity
+Sensitivity is not defined by OEM, MDL shall be 1 % of the current measuring range
+4
+Cl 46, Annexure 02
+Analyzer worm up time to be 5 mins or less
+Analyzer worm up time is 30 mins
+5
+Cl 58, Annexure 02
+Communication to be Modbus TCP/IP
+/Fieldmate/HART.
+Fieldmate and HART is not available, RS485 /Modbus TCP/IP output is available
+6
+Cl 61, Annexure 02
+Protection degree of enclosure to be IP 67
+Analyser Enclosure is IP 65 rated.
+Annexure 02_ Oxygen analyzer
+datasheet
+Clarification sheet

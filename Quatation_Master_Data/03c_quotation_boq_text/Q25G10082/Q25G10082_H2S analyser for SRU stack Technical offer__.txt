@@ -1,0 +1,57 @@
+Quotation Number: Q25G10082
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+Gas Analyzer for the measurement of H2S
+Service: Tail Gas
+Area Classification: Zone 1 Gr IIC, T3
+MODEL: Gas Eye
+Make: Air optic Poland
+Analyzer Type: Cross Duct Type
+Mounting: In-situ, directly on the stack
+Principle of operation: TDLAS
+Enclosure rating: IP66 rated
+Measurement Ranges
+-
+H2S: 0 – 20 PPMV
+Process Connection:
+-
+Process Connection: 4” #150RF
+Path Length: 25mtrs max (To be provided By customer)
+Process Conditions
+-
+Temperature (min/nor/max): -/293/334 Deg C
+-
+Pressure (min/nor/max): To be provided by customer.
+Individual Utility Panel (SS Plate) with Purge Accessories:
+-
+MOC of plate: SS304, 2mm Thick mounted on Stack directly
+-
+Air filter Regulator, Ball Valve, tubings and fittings and other
+accessories as required.
+-
+Loop Cable
+Available Outputs:
+-
+4 x Analog output 4-20mA for measuring component
+-
+8 x Digital Outputs (Purge fail).
+-
+MODBUS RTU (Optional)
+Utilities:
+-
+Instruments Air/ N2 @ 4-6 Bar near the purge plate.
+-
+110VAC, 50 Hz power supply
+1 No
+Quoted
+Analyzer Features:
+-
+Local User Interface: Human Machine Interface (HMI) LCD
+backlight display located on the transmitter housing lid
+-
+Self-Calibration Features: Internal reference gas compartment
+is used for closed loop control of the zero and span drift.

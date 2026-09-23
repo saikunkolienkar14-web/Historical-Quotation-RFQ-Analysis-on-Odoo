@@ -1,0 +1,140 @@
+Quotation Number: Q2509C025R1
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+SO2 ANALYSER
+•
+Based on UV – Fluorescence principle.
+•
+230 v, 50 HZ. Power supply
+•
+Measuring range: 0-1 ppm / 0-10 ppm
+•
+Communication: Ethernet, USB
+•
+Lower detection limit: <0.4 ppb
+•
+Make: ENVEA, model: AF22E
+OXIDE OF NITROGEN (NO - NO2 – NOX) ANALYSER
+•
+Based on Chemiluminescence principle
+•
+230 V, 50 HZ. Power supply
+•
+Measuring range: 0-1 ppm / 0-10 ppm
+•
+Lower detection limit: <0.2 ppb
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, model: AC32E
+CO ANALYSER
+•
+Based on CO detection by absorption of IR
+•
+230 V, 50 HZ. Power supply
+•
+Measuring range: auto ranging 0-50 ppm
+•
+Lower detection limit: 0.05 ppm
+•
+Communication: Ethernet, USB
+•
+Make: ENVEA, model: CO12E
+PM2.5 & PM10 ANALYSER
+•
+Based on light scattering
+•
+Power requirements for 230v ac, 50 Hz.
+•
+Measuring range: 0-10000 μg/m3
+•
+RS232, 4...20 mA port for communication
+•
+Make: Envea model:MP101M+OPM
+4 SETS
+QUOTED
+QUOTED
+WITH SAMPLE HANDLING SYSTEM CONSISTING OF
+•
+Sample inlet Filter
+•
+Sample Inlet Hood
+•
+Glass Manifold for SHS
+•
+Multipoint calibrator with Zero Air Generator
+•
+With Standard 19” Rack Cabinet
+•
+Calibration Gas Cylinders for span calibration with double
+stage regulator (NO, SO2,CO – Cylinder, 1 Set each,
+Capacity- 10ltr)
+PC BASED LOCAL DATA ACQUISITION SYSTEM
+• PC based Data Acquisition System with
+License Software suitable for Storing, Logging, Reporting,
+Printing data, Validation and communicating with
+AAQMS system.
+PC WITH SPECIFICATIONS AS UNDER
+•
+Make: HP/LENOVO/Eqv , Intel I3 Processor, 4 GB RAM,
+500 GB HDD, CD/DVD Combo Drive, 19 ” TFT Monitor,
+Standard WINDOWS 10 latest operating System,
+standard keyboard, mouse with pad.
+WEATHER MONITORING STATION CONSISTING OF:
+•
+Wind speed sensor
+•
+Wind direction sensor
+•
+Air temperature sensor
+•
+Relative humidity sensor
+•
+Rainfall sensor
+•
+Solar radiation sensor
+5 KVA UPS WITH 60 MINUTES BATTERY BACKUP
+PORTA CABIN
+•
+MOC: CRCA
+•
+With insulation
+•
+With Split Ac
+•
+With aluminum chequered plate flooring
+•
+With single door and lock with lights
+•
+Completely wired and tubed to house the gas analyzer
+system
+2
+CENTRAL DATA ACQUISITION SYSTEM
+• PC based Data Acquisition System with
+License Software suitable for Storing, Logging, Reporting,
+Printing data
+PC WITH SPECIFICATIONS AS UNDER
+•
+Make: HP/LENOVO/Eqv , Intel I3 Processor, 4 GB RAM,
+500 GB HDD, CD/DVD Combo Drive, 19 ” TFT Monitor,
+Standard WINDOWS 10 latest operating System,
+standard keyboard, mouse with pad.
+1 SET
+QUOTED
+QUOTED
+3
+DISPLAY BOARD AT MAIN GATE
+1 SET
+QUOTED
+QUOTED
+4
+GSM MODEMS FOR COMMUNICATION
+NOTE: SIM card and bill payment of modem for data transmission

@@ -1,0 +1,749 @@
+Quotation Number: Q25S10077R1
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+1807-AT-11301
+Moisture Analyzer
+1
+1,15,00,000
+1,15,00,000
+2
+1807-AT-21101
+Oxygen Sniffer
+1
+13,50,000
+13,50,000
+3
+1807-AT-21102
+Oxygen Sniffer
+1
+13,50,000
+13,50,000
+4
+1807-AT-66101
+Oxygen Analyzer
+1
+45,50,000
+45,50,000
+5
+1807-AT-66102
+Oxygen Analyzer
+1
+45,50,000
+45,50,000
+6
+1807-AT-10201
+Hydrocarbon Analyser
+1
+63,00,000
+63,00,000
+7
+1807-AT-36102
+Hydrocarbon Analyser
+1
+63,00,000
+63,00,000
+8
+1807-AT-36112
+Hydrocarbon Analyser
+1
+63,00,000
+63,00,000
+9
+1807-AT-88301
+Hydrocarbon Analyser (TOC)
+1
+36,50,000
+38,50,000
+10
+1807-AT-88302
+Conductivity Analyzer
+1
+7,50,000
+7,50,000
+11
+1807-AT-36201
+SPM Analyzer
+1
+22,50,000
+22,50,000
+12
+As per Resp
+Types
+Sampling Connections
+56
+Regret
+Regret
+13
+----
+Mandatory Spares (as per attached list)
+1 Lot
+1,20,00,000
+1,20,00,000
+14
+----
+Supervision of Erection & Commissioing
+Per Man
+Day
+50,000
+50,000
+15
+----
+Construction & Commissioning Spares
+1 Lot
+20,000
+20,000
+16
+----
+Consumable Spares (6 months Operation)
+1 Lot
+2,50,000
+2,50,000
+OPTIONAL PRICE FOR FIELD TUBE
+1
+----
+Sample Tube, 1/4" OD SS316 HTT
+Per Mtr.
+5000
+5000
+2
+----
+Tube 1/2" OD x 0.035" Thk, SS316
+Per Mtr.
+1400
+1400
+SECTION 2: TECHNICAL LITERATURE
+1
+Moisture Analyzer
+Tag no: 1807-AT-11301
+Service: FROM 1807-C-112A/B TO 1807-E-600
+Make: GE Panametrics
+Model: MISP 2
+Area classification: Zone 1 IIB+H2, T3
+Mounting: Inside Analyzer Cabinet
+Measuring Ranges:
+Sensor-1 C112A/B Propylene H2O Dryer Inlet H2O: 0-30 ppm wt
+Sensor-2 C112A Propylene H2O Dryer Bed H2O: 0-30 ppm wt
+Sensor-3 C112B Propylene H2O Dryer Bed H2O: 0-30 ppm wt
+Sensor-4 C112A/B Propylene H2O Dryer Bed H2O: 0-30 ppm wt
+Process Parameters (Min/Norm/Max) – Applicable for All Streams
+-
+Sample Pressure: 17.8/18.15 Kg/cm2g
+-
+Sample Temperature: 35.7 Deg C
+Return Details:
+-
+Sample Return to: Flare
+1 Set
+QUOTED
+1.1
+Sample Probe: Sample line size 6”
+-
+Online manual retractable probe
+-
+2 Inch 300# RF Flange connection, MOC: SS316
+4 Nos
+QUOTED
+1.2
+Sample Transportation tube
+-
+1/4” inch OD SS316, EP EHT (10 meter each line)
+40
+Meter
+QUOTED
+1.3
+Design and supply of SHS System consisting of:
+-
+With isolation Ball Values, SRV, gauges, pressure regulator, fine filter,
+Sample cell, etc. and same shall be mounted inside wall mounted SS304
+enclosure on field Cabinet.
+1 SET
+QUOTED
+1.4
+Analyzer Communication
+-
+Output: 4-20 mA for each measuring component
+1 SET
+QUOTED
+2
+Oxygen Sniffer
+Tag no: 1807-AT-21101
+Service: PEROXIDE DRUM EMPTYING / DOSING ROOM
+Make: Dragger/Honeywell
+Model: Polytron
+Area classification: Zone 1 IIC, T3
+Mounting: Field mounted
+Range: Oxygen 15-25 %mol
+-
+Output: 4-20 mA for measuring component
+1 No
+QUOTED
+2.1
+Calibration Gas Cylinders (50 Ltr)
+1 No
+QUOTED
+3
+Oxygen Sniffer
+Tag no: 1807-AT-21102
+Service: DRUM STORAGE
+Make: Dragger/Honeywell
+Model: Polytron
+Area classification: Zone 1 IIC, T3
+Mounting: Field mounted
+Range: Oxygen 15-25 %mol
+-
+Output: 4-20 mA for measuring component
+1 No
+QUOTED
+3.1
+Calibration Gas Cylinders (50 Ltr)
+1 No
+QUOTED
+4
+Oxygen Analyzer
+Tag no: 1807-AT-66101
+Service: FLARE GAS FROM 1807-V-660X
+Make: Siemens AG, Germany
+Model: Oxymat 6F
+Area classification: Zone 1 IIC, T3
+Mounting: Inside Analyzer Field Cabinet
+Streams: 1 Stream
+Range: Oxygen 0-2 %vol
+Process Parameters (Op):
+-
+Sample Pressure: 1.7 Kg/cm2g
+-
+Sample Temperature: 50 Deg C
+Return Details:
+-
+Sample Return to: Flare
+-
+1 No
+QUOTED
+4.1
+Sample Probe: Sample Line Size – 4”
+-
+Online manual retractable probe
+-
+2 Inch 150# RF Flange connection, MOC: SS316
+1 No
+QUOTED
+4.2
+Sample Transportation tube
+-
+1⁄4” inch OD SS316 HTT
+Per
+Meter
+QUOTED
+4.3
+Design and supply of Secondary SHS System consisting of:
+-
+With isolation Ball Values, Pressure Regulator, Fast loop filter, Rotameters
+(Sample & Fast loop), Gauges, fine filter etc. and same shall be mounted
+inside SS304 enclosure cabinet.
+1 SET
+QUOTED
+4.5
+Analyzer Communication
+-
+Output: 4-20 mA for measuring component
+-
+RS 485, TCP/IP Communication
+1 SET
+QUOTED
+4.6
+Field Cabinet Specification:
+-
+Dimensions: 800(W)X800(D)X2100(H), approx. (shall be finalized during
+1 SET
+QUOTED
+detailed design engineering); MOC: SS304
+-
+With Ex-Proof AC; Make-Adage
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+-
+With Required Headers; MOC: SS316
+4.7
+Calibration Gas Cylinders (50 Ltr)
+1 Set
+QUOTED
+5
+Oxygen Analyzer
+Tag no: 1807-AT-66102
+Service: FLARE GAS FROM 1807-V-660X
+Make: Siemens AG, Germany
+Model: Oxymat 6F
+Area classification: Zone 1 IIC, T3
+Mounting: Inside Analyzer Field Cabinet
+Streams: 1 Stream
+Range: Oxygen 0-2 %vol
+.
+Note: Utilities Required for Tag is listed in Utility & Power Consumption List.
+Process Parameters (Op):
+-
+Sample Pressure: 1.7 Kg/cm2g
+-
+Sample Temperature: 50 Deg C
+Return Details:
+-
+Sample Return to: Flare
+1 No
+QUOTED
+5.1
+Sample Probe: Sample Line Size – 4”
+-
+Online manual retractable probe
+-
+2 Inch 150# RF Flange connection, MOC: SS316
+1 No
+QUOTED
+5.2
+Sample Transportation tube
+-
+1⁄4” inch OD SS316 HTT
+Per
+Meter
+QUOTED
+5.3
+Design and supply of Secondary SHS System consisting of:
+-
+With isolation Ball Values, Pressure Regulator, Fast loop filter, Rotameters
+(Sample & Fast loop), Gauges, fine filter etc. and same shall be mounted
+inside SS304 enclosure cabinet.
+1 SET
+QUOTED
+5.5
+Analyzer Communication
+-
+Output: 4-20 mA for measuring component
+-
+RS 485, TCP/IP Communication
+1 SET
+QUOTED
+5.6
+Field Cabinet Specification:
+-
+Dimensions: 800(W)X800(D)X2100(H), approx. (shall be finalized during
+detailed design engineering); MOC: SS304
+1 SET
+QUOTED
+-
+With Ex-Proof AC; Make-Adage
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+-
+With Required Headers; MOC: SS316
+5.7
+Calibration Gas Cylinders (50 Ltr)
+1 Set
+QUOTED
+6
+Hydrocarbon Analyzer
+Tag no: 1807-AT -10201
+Service: COOLING WATER RETURN HEADER
+Mounting: Inside Analyzer Field Cabinet
+Make: Siemens AG, Germany
+Model: FIDAMAT 6
+Range: 0 - 2 % mol
+Area classification: Zone 1 IIC, T3
+TYPE: X-PURGE
+Process Parameters (Op)
+-
+Sample Pressure (Nor): 2.5 Kg/cm2g
+-
+Sample Temperature (Nor): 42 Deg C
+Return Details:
+-
+Sample Return to: Flare
+1 No
+QUOTED
+6.1
+Sample Probe: Sample Line Size – 44”
+-
+Online manual retractable probe
+-
+2 Inch 150# RF Flange connection, MOC: SS316
+1 No
+QUOTED
+6.2
+Sample Transportation tube
+-
+1⁄4” inch OD SS316 HTT
+Per
+Meter
+QUOTED
+6.3
+Sample Handling System Consisting of:
+-
+SHS Shall consist of Pressure Regulator, Ball valve, Fast loop Rotameter,
+NRV, Fine filter, AFR etc
+-
+With Purge Controller.
+-
+THC absorber for zero air required for Combustion.
+-
+SHS components shall be mounted inside the analyser Cabinet.
+1 SET
+QUOTED
+6.4
+Analyzer Communication
+-
+Output: 4-20 mA for measuring component
+-
+RS 485, TCP/IP Communication
+1 SET
+QUOTED
+6.5
+Field Cabinet Specification:
+-
+Dimensions: 800(W)X800(D)X2100(H), approx. (shall be finalized during
+detailed design engineering); MOC: SS304
+-
+With Ex-Proof AC; Make-Adage
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+-
+With Required Headers; MOC: SS316
+1 SET
+QUOTED
+6.6
+Calibration and Carrier gas Cylinders for HC analyser (50Ltr)
+-
+Individual Span (THC) Gas cylinder
+-
+Individual Zero(N2) Gas Cylinder
+-
+Carrier (Combustion) gas cylinders(H2) x 2 Nos for HC analyser with Auto
+change over unit.
+Gas cylinders shall be mounted on the common cylinder rack outside Analyzer
+cabinet.
+1 SET
+QUOTED
+7
+Hydrocarbon Analyzer
+Tag no: 1807-AT -36102
+Service: PPD from 1807-FH-360A POW ER FEEDER W EIGHING UNIT
+Mounting: Inside Analyzer Field Cabinet
+Make: Siemens AG, Germany
+Model: FIDAMAT 6
+Range: 0 - 5 % mol
+Area classification: Zone 1 IIC, T3
+TYPE: X-PURGE
+Note: Utilities Required for Tag is listed in Utility & Power Consumption List.
+Process Parameters (Op)
+-
+Sample Pressure (Nor): 0.01 Kg/cm2g
+-
+Sample Temperature (Nor): 50 Deg C
+Return Details:
+-
+Sample Return to: flare
+1 No
+QUOTED
+7.1
+Sample Probe: Sample Line Size – 24”
+-
+Online manual retractable probe
+-
+2 Inch 150# RF Flange connection, MOC: SS316
+1 No
+QUOTED
+7.2
+Sample Transportation tube
+-
+1⁄4” inch OD SS316 HTT
+Per
+Meter
+QUOTED
+7.3
+Sample Handling System Consisting of:
+-
+SHS Shall consist of Pressure Regulator, Ball valve, Fast loop Rotameter,
+NRV, Fine filter, AFR etc
+-
+With Purge Controller.
+-
+THC absorber for zero air required for Combustion.
+-
+SHS components shall be mounted inside the analyser Cabinet.
+1 SET
+QUOTED
+7.4
+Analyzer Communication
+-
+Output: 4-20 mA for measuring component
+-
+RS 485, TCP/IP Communication
+1 SET
+QUOTED
+7.5
+Field Cabinet Specification:
+-
+Dimensions: 800(W)X800(D)X2100(H), approx. (shall be finalized during
+detailed design engineering); MOC: SS304
+-
+With Ex-Proof AC; Make-Adage
+1 SET
+QUOTED
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+-
+With Required Headers; MOC: SS316
+7.6
+Calibration and Carrier gas Cylinders for HC analyser (50Ltr)
+-
+Individual Span (THC) Gas cylinder
+-
+Individual Zero(N2) Gas Cylinder
+-
+Carrier (Combustion) gas cylinders(H2) x 2 Nos for HC analyser with Auto
+change over unit.
+Gas cylinders shall be mounted on the common cylinder rack outside Analyzer
+cabinet.
+1 SET
+QUOTED
+8
+Hydrocarbon Analyzer
+Tag no: 1807-AT -36112
+Service: PPD from 1807-FH-360B POW ER FEEDER W EIGHING UNIT
+Mounting: Inside Analyzer Field Cabinet
+Make: Siemens AG, Germany
+Model: FIDAMAT 6
+Range: 0 - 5 % mol
+Area classification: Zone 1 IIC, T3
+TYPE: X-PURGE
+Note: Utilities Required for Tag is listed in Utility & Power Consumption List.
+Process Parameters (Op)
+-
+Sample Pressure (Nor): 0.01 Kg/cm2g
+-
+Sample Temperature (Nor): 50 Deg C
+Return Details:
+-
+Sample Return to: Vent
+1 No
+QUOTED
+8.1
+Sample Probe: Sample Line Size – 22”
+-
+Online manual retractable probe
+-
+2 Inch 150# RF Flange connection, MOC: SS316
+1 No
+QUOTED
+8.2
+Sample Transportation tube
+-
+1⁄4” inch OD SS316 HTT
+Per
+Meter
+QUOTED
+8.3
+Sample Handling System Consisting of:
+-
+SHS Shall consist of Pressure Regulator, Ball valve, Fast loop Rotameter,
+NRV, Fine filter, AFR etc
+-
+With Purge Controller.
+-
+THC absorber for zero air required for Combustion.
+-
+SHS components shall be mounted inside the analyser Cabinet.
+1 SET
+QUOTED
+8.4
+Analyzer Communication
+-
+Output: 4-20 mA for measuring component
+-
+RS 485, TCP/IP Communication
+1 SET
+QUOTED
+8.5
+Field Cabinet Specification:
+-
+Dimensions: 800(W)X800(D)X2100(H), approx. (shall be finalized during
+detailed design engineering); MOC: SS304
+-
+With Ex-Proof AC; Make-Adage
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+-
+With Required Headers; MOC: SS316
+1 SET
+QUOTED
+8.6
+Calibration and Carrier gas Cylinders for HC analyser (50Ltr)
+-
+Individual Span (THC) Gas cylinder
+-
+Individual Zero(N2) Gas Cylinder
+-
+Carrier (Combustion) gas cylinders(H2) x 2 Nos for HC analyser with Auto
+change over unit.
+Gas cylinders shall be mounted on the common cylinder rack outside Analyzer
+cabinet.
+1 SET
+QUOTED
+9
+Hydrocarbon Analyzer
+Tag No: 1807-AT-88301
+Service: CLEAN CONDENSATE TO 1807-P-001A/B
+Mounting: Inside Analyzer Field Cabinet
+Make: Forbes Marshall
+Model: CX2000 SERIES
+Range: 0-5 %mol
+Measuring Principle: UV fluorescence
+Type: X-Purge
+Process Conditions at Sample Inlet (Op):
+-
+Pressure: 7.5 kg/cm2g(Nor)
+-
+Temperature: 102 Deg C (Nor)
+Return Details:
+-
+Sample return: To Drain.
+Analyzer Output:
+-
+4-20 mA Analog Output
+-
+RS232/485
+1 No
+QUOTED
+9.1
+Sample Probe: Sample Line Size – 3”
+-
+Online manual retractable probe
+-
+2 Inch 150# RF Flange connection, MOC: SS316
+1 No
+QUOTED
+9.2
+Sample Transportation tube
+-
+1⁄2” inch OD SS316
+Per
+Meter
+QUOTED
+9.3
+Sample Handling System Consisting of:
+-
+Isolation valve, Fast loop flowmeter, sample rotameter with switch, pressure
+gauge, Heat Exchanger, SRV, TSV, Temperature Gauge, filter, Pressure
+1 No
+QUOTED
+Regulator. With Purge controller
+-
+SHS shall be plate mounted and same shall be mounted outside the cabinet
+wall below canopy.
+9.4
+Field Rack Specification:
+-
+Analyser shall be mounted inside 600(W)X350(D)X800(H) enclosure, MOC:
+SS304, with purge controller assembly
+-
+Analyser SHS with above analyser enclosure shall be mounted on suitable
+size MS painted rack with canopy.
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+-
+With Required Headers; MOC: SS316
+1 No
+QUOTED
+10
+Conductivity Analyzer
+Tag no: 1807-AT -88302
+Service: CLEAN CONDENSATE TO 1807-P-001A/B
+Mounting: Inside Analyzer Field Cabinet
+Make: Forbes Marshall
+Model: Smartpro 8967
+Process Parameters
+-
+Pressure: 7.5 kg/cm2g(Nor)
+-
+Temperature: 102 Deg C (Nor)
+-
+Sample return to drain
+Analyzer Output:
+-
+4-20 mA Analog Output
+1 No
+QUOTED
+10.1
+Sample Probe:
+-
+1.5” 150# RF Flange with isolation valve arrangement, MOC: SS316
+1 No
+QUOTED
+10.2
+Sample Transportation tube
+-
+1⁄2” inch OD SS316
+Per
+Meter
+QUOTED
+10.3
+Sample Handling System Consisting of:
+-
+Isolation valve, Fast loop flowmeter, sample rotameter with switch, pressure
+gauge, Heat Exchanger, TSV, Temperature Gauge, filter, Pressure
+Regulator.
+-
+SHS shall be plate mounted and same shall be mounted outside the cabinet
+wall below canopy.
+1 No
+QUOTED
+10.4
+Field Rack Specification:
+-
+Above shall be mounted on suitable size MS painted rack with canopy
+-
+With Required Header; MOC: SS316
+1 No
+QUOTED
+11
+Particle Size Monitor
+Tag No : 1807-AT-34101
+Service: Carrier Gas From G-340 -Particle Measurement
+Hazardous Area Classification : Zone 1 IIC
+Analyzer Mounting: Sensor Directly on Stack/ Controller inside encloser
+Component to be measured : Particle Size
+Measurement capability: 0-500 mg/m3
+Analyzer Model: View 820
+Analyzer Make: Envea
+Power Supply: 110 VAC, 50 Hz
+Analyzer Outputs:
+-
+4-20 mA Analog output
+1 No
+QUOTED
+11.1
+Field Rack Specification:
+-
+Purge Controller with Accessories with suitable encloser (MOC: SS304) & MS
+skid
+-
+With Junction Boxes, Exd LM6
+-
+With Power Distribution Box, Exd LM6
+1 No
+QUOTED

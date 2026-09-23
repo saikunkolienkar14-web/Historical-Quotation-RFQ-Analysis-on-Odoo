@@ -1,0 +1,1740 @@
+Quotation Number: Q25G10114
+BOQ Status: FOUND
+
+Section-1: Price Summary Sheet
+S.N.
+Item description
+Qty
+Unit Price (INR)
+Total Price (INR)
+1
+Type 31 - S32-300/0-1-LG, F7, wetted parts: SS 316
+5
+Quoted
+Quoted
+2
+Type 32 - S32-300/0-1-LG, F7 (cooler), wetted parts: SS
+316
+17
+Quoted
+Quoted
+3
+Type 32 - S32-300/0-1-LG, F7 (cooler), wetted parts:
+Hastelloy HC276
+2
+Quoted
+Quoted
+4
+Type 33 - S23-90/100-1, D7 (cooler), wetted parts: SS 316
+1
+Quoted
+Quoted
+5
+Type 33-1: DPM-100-201, A1 (cooler), wetted parts: SS 316
+7
+Quoted
+Quoted
+6
+Type 34: DPM-250-201, A1, wetted parts: SS 316
+23
+Quoted
+Quoted
+7
+Type 35: S32-300/0-1-G, G2 (N2 purge), wetted parts: SS
+316
+6
+Quoted
+Quoted
+8
+Type 40: DPT inline sampler, wetted parts: SS 316
+9
+Quoted
+Quoted
+9
+Type 40: DPT inline sampler, wetted parts: SS 316L with
+PFA Lining
+8
+Quoted
+Quoted
+10
+Type 40.1: DPM inline sampler, wetted parts: SS 316
+4
+Quoted
+Quoted
+11
+Type 40.1: DPM inline sampler, wetted parts: Hastelloy
+HC276
+1
+Quoted
+Quoted
+Consumables
+12
+Set of 10 pieces 100cc glass bottle with PBTC cap & TCB
+septum
+5
+Quoted
+Quoted
+13
+FAT at Adage Goa Works.
+LS
+Quoted
+Quoted
+14
+Documentation
+1
+Quoted
+Quoted
+15
+Site Supervision for installation
+Per
+Diem
+Quoted
+Quoted
+Section 2: General Notes / Clarifications
+1. Wetted parts
+Please note that the we have considered SS 316 as wetted parts for all sampling systems. All components of
+sampling system including tubing & fittings are instrumentation components only. For pipe class RZ109BDRP
+& RZ309BDRP, we have considered Hastelloy HC276/ SS316 with PFA lining as per the specification sheet.
+2. 3.2 certifications
+Since we are using only instrumentation components in our sampling system, 3.2 certs is not available with
+none of our sub-vendors. Hence, we will only provide 3.1 Material test certificate as per EN 10204. All
+material certificates will be made available for review by customer or customer’s appointed 3rd party
+inspector (TPI)
+3. End connections
+As per section 4,
+4. Sample system component size
+As per Dopak standard, all components including valves, tubing and fittings (within the sampling system) will
+be 1/4". This will avoid dead volume and help in getting more representative samples.
+5. Sample Volume
+Sample cylinder size is considered 300cc. Sample bottle size is considered 100cc.
+6. Cooler
+We have considered Dopak standard shell & tube instrumentation type cooler which is more compact and
+highly efficient. For all tags requiring cooler, Dopak standard cooler is offered with sample connection 1/4"
+and coolant connection 1/2"/ 1”-150/300LBS RF Flange, Cooling coil is considered SS 316 for all tags.
+7. Components
+All pressure gauges for sample pressure reading are direct mounting type. Also, no DBB is considered for
+isolation purposes.
+8. Documentation
+Documents will consist of the following
+a. GA drawings ,Dimensional drawings & P&ID
+b. Hydrostatic Test Procedure
+c. PMI procedure & Test results as per Dopak standard
+d. Material Test Certificates (EN 10204, Type 3.1)
+e. Manufacturing Record Book & Index
+f.
+Vendor Document Schedule
+g. Fabrication/Production Schedule
+h. Monthly progress reports
+i.
+Certificate of compliance
+j.
+Quality Dossier
+k. Material traceability Records
+l.
+Pressure Test Reports
+m. Name plate details
+n. Inspection & Test plan
+o. Inspection Release certificates
+p. Quality Management Accreditation (ISO 9001)
+q. Recommended spare parts list
+r.
+Packing, Preservation & Shipping Procedure.
+s. Installation, Operation & Maintenance Manual
+t.
+Welding documents (if applicable)
+No further documents considered.
+9. NACE requirement
+NACE is not considered.
+10. Mounting
+Sampling system will be SS304 plate mounted on a galvanized steel pipe stand. SS 304 Enclosure is
+considered for all tags except Type 40 & 40.1
+11. Piping Specification
+We use instrumentation components only and hence piping spec & requirements (like CS etc) are not
+applicable
+12. Surface Preparation and Painting
+Painting is applicable only for mounting stand. All other components / enclosure shall be SS finish.
+13. PMI
+PMI will be done for SS components.
+14. Welding & NDE
+Not applicable as there is no welding in our systems
+15. Start-up & Commissioning Spares Special tools
+Not required for our sampling systems.
+16. Site Supervision Services
+Site services are not applicable as the Dopak sampling systems are plug and play type systems that comes
+ready to be installed at site. It’s a purely mechanical system without any electrical components and hence
+vendor support is not at all required for the installation and operation.
+In case supervision is required then Per diem rate shall be applicable.
+Section 3: Scope matrix
+S.N.
+Item description
+Qty
+Sampling System
+Flanges for Sample in & out,
+utilities & SS Mounting
+enclosure with mounting
+stand. (Wherever applicable)
+1
+Type 31 - S32-300/0-1-LG, F7,
+wetted parts : SS 316
+5
+Dopak
+Adage
+2
+Type 32 - S32-300/0-1-LG, F7 (cooler),
+wetted parts : SS 316
+17
+Dopak
+Adage
+3
+Type 32 - S32-300/0-1-LG, F7 (cooler),
+wetted parts : Hatelloy HC276
+2
+Dopak
+Adage
+4
+Type 33 - S23-90/100-1, D7,(cooler)
+wetted parts: SS 316
+1
+Dopak
+Adage
+5
+Type 33-1 : DPM-100-201, A1 (cooler),
+wetted parts : SS 316
+7
+Dopak
+Adage
+6
+Type 34 : DPM-250-201, A1,
+wetted parts : SS 316
+23
+Dopak
+Adage
+7
+Type 35 : S32-300/0-1-G, G2 (N2 purge),
+wetted parts : SS 316
+6
+Dopak
+Adage
+8
+Type 40 : DPT inline sampler, wetted
+parts : SS 316
+9
+Dopak
+Adage
+9
+Type 40 : DPT inline sampler,
+wetted parts : SS 316L with PFA Lining
+8
+Dopak
+Adage
+10
+Type 40.1 : DPM inline sampler,
+wetted parts : SS 316
+4
+Dopak
+Adage
+11
+Type 40.1 : DPM inline sampler,
+wetted parts : Hastelloy HC276
+1
+Dopak
+Adage
+Consumables
+12
+Set of 10 pieces 100cc glass bottle with
+PBTC cap & TCB septum
+5
+Dopak
+.
+Section 4: Technical Literature
+Sr.
+No.
+Sample
+Type
+Qty
+SS304 Cabinet
+with glass window
+(HxWxD) mm
+Connections
+Flange Rating
+Wetted
+parts
+1
+Type 31
+5
+760 x 760 x 300
+Process-in
+1/2"-300LBS RF
+(ASME B16.5)
+SS316
+Process-out
+1/2"-300LBS RF
+(ASME B16.5)
+2
+Type 32
+17
+760 x 760 x 300
+Process-in
+1/2"-150/300LBS RF
+(ASME B16.5)
+SS316
+Process-out
+1/2"-150/300LBS RF
+(ASME B16.5)
+Cooling
+water-in
+1/2"-150 LBS RF
+(ASME B16.5)
+Cooling
+water-out
+1/2"-150 LBS RF
+(ASME B16.5)
+3
+Type 32
+2
+760 x 760 x 300
+Process-in
+1/2"-150/300LBS RF
+(ASME B16.5)
+Hastelloy
+HC276
+Process-out
+1/2"-150/300LBS RF
+(ASME B16.5)
+Cooling
+water-in
+1/2"-150 LBS RF
+(ASME B16.5)
+Cooling
+water-out
+1/2"-150 LBS RF
+(ASME B16.5)
+4
+Type 33
+1
+760 x 760 x 300
+Process-in
+1/2"-300LBS RF
+(ASME B16.5)
+SS316
+Process-out
+1/2"-300LBS RF
+(ASME B16.5)
+Vent
+1/2"-150LBS RF
+(ASME B16.5)
+Cooling-
+in/out
+1/2"-150LBS RF
+(ASME B16.5)
+5
+Type 33-1
+7
+380 x 600 x 210
+Process-in
+1/2"-150LBS RF LJ
+(ASME B16.5)
+SS316
+Drain
+1/2"-150LBS RF LJ
+(ASME B16.5)
+Cooling-
+in/out
+1/2"-150LBS RF
+(ASME B16.5)
+Vent
+1/2"-150LBS RF LJ
+(ASME B16.5)
+6
+Type 34
+23
+380 x 600 x 210
+Process-in
+1/2"-150LBS RF LJ
+(ASME B16.5)
+SS316
+Vent
+1/2"-150LBS RF LJ
+(ASME B16.5)
+7
+Type 35
+6
+760 x 760 x 300
+Process-in
+1/2"-150LBS RF
+(ASME B16.5)
+SS316
+Process-out
+1/2"-150LBS RF
+(ASME B16.5)
+Nitrogen
+1/2"-150LBS RF
+(ASME B16.5)
+Vent
+1/2"-150LBS RF
+(ASME B16.5)
+8
+Type 40
+9
+NA
+Process
+1"-150# RF (ASME
+B16.5)
+SS316
+Vent
+1/2"-150# RF (ASME
+B16.5)
+9
+Type 40
+8
+NA
+Process
+1"-150# RF (ASME
+B16.5)
+SS316(L) +
+PFA Lining
+Vent
+1/2"-150# RF (ASME
+B16.5)
+10
+Type 40.1
+4
+NA
+Process-in
+1"-150LBS RF LJ
+(ASME B16.5)
+SS316
+Process-out
+1"-150LBS RF LJ
+(ASME B16.5)
+Cooling-
+in/out
+1/2"-150LBS RF LJ
+(ASME B16.5)
+11
+Type 40.1
+1
+NA
+Process-in
+1"-150LBS RF LJ
+(ASME B16.5)
+Hastelloy
+HC276
+Process-out
+1"-150LBS RF LJ
+(ASME B16.5)
+Cooling-
+in/out
+1/2"-150LBS RF LJ
+(ASME B16.5)
+Total
+83
+Technical Specification Sheet
+Pos
+Description
+1
+Type
+S32-
+5
+Product name
+Design process data:
+Operating process data:
+Sample volume
+300 cc
+Pressure
+[kg/cm2g] Pressure
+[kg/cm2g] Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Pressure relief dev.
+Process valves
+Expansion chamber
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Vent
+Purge (N2)
+bottom
+Welded connections
+Pressure gauge
+Material
+Scale
+Vent/Expansion valve
+Regulator
+Check valve
+Extra valve
+Flexible hose
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+Note:
+Type
+P&ID (F7) process to flare configuration
+NO
+1/2"-300LBS RF (ASME B16.5)
+Dopak std.
+NO
+PTFE
+34 bar @ 20°C
+Propylene
+-1.03/25
+18.5
+-45/80
+-5
+Dopak® process sampler
+300/0-1-LG
+SS316(L)
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+Handle
+Sampler assembled on a SS304(L) mounting plate.
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+Needle valve at inlet to meet the -45 design temperature
+SS304 enclosure (760x760x300mm), c/w hinged door and window.
+PTFE Lined
+ENGLISH
+DOT certified cylinder
+System couplings, top
+Body
+Stem
+Handle
+YES
+Material
+QC-4 -EPDM
+Type
+SS316
+Kg/cm2g
+Hoke 3 way
+Material
+2 valves
+Handle
+1/2"-300LBS RF (ASME B16.5)
+Hoke 2 way
+-45/177°C @ 9 bar
+TAGS : RP-XXXX1/2/3/4/5
+TYPE 31 : SAMPLE POINT FOR EDC & VCM
+Pressure range
+Temperature range
+QTY
+Technical Specification Sheet
+Pos
+Description
+2
+Type
+S32-
+17
+Product name
+Design process data:
+Operating process data:
+Sample volume
+300 cc
+Pressure
+[kg/cm2g] Pressure
+[kg/cm2g]
+Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Pressure relief dev.
+Process valves
+Expansion chamber
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Cooling water-in
+Cooling water-out
+bottom
+Welded connections
+Pressure gauge
+Material
+Scale
+Vent/Expansion valve
+Regulator
+Check valve
+Extra valve
+Flexible hose
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+Note:
+TAGS : PA 111010/111015/111031/111041/111042/111043/112031/112041/113031/113041/114031/114041/
+RP-XXXX10/XXXX6/XXXX7/XXXX8/XXXX9
+TYPE 32 : SAMPLE POINT FOR LIQUID SAMPLES
+Dopak® process sampler
+300/0-1-LG
+QTY
+NO
+P&ID (F7) process to flare configuration
+Liquid/Gas
+-1.03/25
+1.9-18.5
+-45/80/190
+-5/60/125
+SS316(L)
+Dopak std.
+PTFE
+Pressure range
+34 bar @ 20°C
+Temperature range
+-45/232°C @ 9 bar
+1/2"-150 LBS RF (ASME B16.5)
+Hoke 3 way
+Hoke 2 way
+2 valves
+Handle Manual
+Material
+1/2"-150/300LBS RF (ASME B16.5)
+1/2"-150/300LBS RF (ASME B16.5)
+System couplings, top
+Body
+Stem
+Type
+QC-4
+Handle
+1/2"-150 LBS RF (ASME B16.5)
+NO
+YES
+SS316
+Kg/cm2g
+Material
+Type
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+Handle
+PTFE Lined
+ENGLISH
+Sampler assembled on a SS304(L) mounting plate.
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+DOPAK 1/4" sample cooler Shell/tube SS316 with needle valve(1/4" SS 316), & Temp indicator
+(No DCS instrument, only local temperature gauge)
+SS304 enclosure (760x760x300mm), c/w hinged door and window.
+DOT certified cylinder
+Technical Specification Sheet
+Pos
+Description
+3
+Type
+S32-
+2
+Product name
+Design process data:
+Operating process data:
+Sample volume
+300 cc
+Pressure
+[kg/cm2g] Pressure
+[kg/cm2g]
+Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Pressure relief dev.
+Process valves
+Expansion chamber
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Cooling water-in
+Cooling water-out
+bottom
+Welded connections
+Pressure gauge
+Material
+Scale
+Vent/Expansion valve
+Regulator
+Check valve
+Extra valve
+Flexible hose
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+Note:
+ENGLISH
+Sampler assembled on a SS304(L) mounting plate.
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+DOPAK 1/4" sample cooler tube (HC276)/ Shell (SS304) with needle valve(1/4" SS 316), & Temp indicator
+(No DCS instrument, only local temperature gauge)
+SS304 enclosure (760x760x300mm), c/w hinged door and window.
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+DOT certified cylinder
+Handle
+PTFE Lined
+Material
+Type
+NO
+YES
+SS316
+Kg/cm2g
+Handle
+1/2"-150 LBS RF (ASME B16.5)
+System couplings, top
+Body
+Stem
+Type
+QC-4
+1/2"-150/300LBS RF (ASME B16.5)
+1/2"-150/300LBS RF (ASME B16.5)
+1/2"-150 LBS RF (ASME B16.5)
+Hoke 3 way
+Hoke 2 way
+2 valves
+Handle Manual
+Pressure range
+34 bar @ 20°C
+Temperature range
+-45/232°C @ 9 bar
+Material
+HC276
+Dopak std.
+PTFE
+NO
+P&ID (F7) process to flare configuration
+Liquid/Gas
+-1.03/25
+1.9-18.5
+-45/80/190
+-5/60/125
+Dopak® process sampler
+300/0-1-LG
+QTY
+TYPE 32 : SAMPLE POINT FOR LIQUID SAMPLES
+TAGS : PA 151023/151037
+Technical Specification Sheet
+Pos
+Description
+4
+Type
+S23-
+D7
+Qty
+1
+Product name
+Design process data:
+Operating process data:
+Sample volume
+100 cc
+Pressure
+[kg/cm2g] Pressure
+[kg/cm2g]
+Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Valves
+Sleeve
+Bottle / cylinder
+100 cc
+/
+Cap / Septum
+/
+Needle assembly
+Process x Vent ID
+[mm]
+/
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Vent
+Purge (N2)
+Cooling-in/-out
+Extra valve
+Pressure gauge
+Material
+Scale
+Regulator
+Material
+Type
+Check valve
+Tag plate
+Indication plate
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+-
+Note:
+Note:
+Pressure range
+Temperature range
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+Welded connections
+REQUESTED CUSTOMER SPECIFICATIONS
+Sampler assembled on a SS304(L) mounting plate.
+Dopak cooler (1/4" OD) tube(SS316L) /shell(SS304) type complete with needle valve and Ti
+Chamber / Config.
+90 cc
+Standard
+1/2"-300LBS RF (ASME B16.5)
+1/2"-150LBS RF (ASME B16.5)
+SS316(L)
+Water
+Dopak standard
+PTFE
+103 bar @ 20°C
+Viton
+NO
+Borosilicate glass
+GL 45
+-17/232°C @ 9 bar
+Manual
+P&ID
+Vent connected back to process
+Dopak® process sampler
+W83 3-way
+With BRC
+170
+TCB
+VTO
+1/2"-300LBS RF (ASME B16.5)
+1/2"-150LBS RF (ASME B16.5)
+p=3,00 v=1,35
+PBTP
+ENGLISH
+YES
+SS304 enclosure (760x760x300mm), c/w hinged door and window.
+Only local temperature gauge, no DCS connection
+Model is changed from DPM A3 to S23D7 due to higher operating pressure of 32bar for safe sample collection
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+DOT certified HC276 cylinder
+TYPE 33 : SAMPLE POINT FOR WASTE WATER HOT
+CONDENSATE
+44.5
+32
+90/100-1
+TAGS : PA 121003
+105
+NO
+NO
+YES
+NO
+NO
+NO
+Technical Specification Sheet
+Pos
+5
+Type
+DPM - 100
+-
+P&ID
+Qty
+7
+Product name
+Design process data:
+Operating process data:
+Sample volume
+[cc]
+Pressure
+[kg/cm2g]
+Pressure
+[kg/cm2g]
+Viscosity
+[cPs]
+Temperature
+[°C]
+[°C]
+Particles
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Valve
+Sleeve
+For 100cc
+Bottle
+Material
+Cap / Septum
+PBTP
+/
+Needle assembly
+Process x Vent ID
+[mm]
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Drain
+Cooling-in/-out
+Vent
+Probe
+ID = ?
+[mm]
+x
+L
+[mm]
+Extra valve
+NO
+Pressure gauge
+NO
+Material
+Scale
+Regulator
+NO
+Material
+Check valve
+NO
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+-
+Note:
+Note:
+Note:
+ON / OFF ANGLED (A1)
+TYPE 33.1 : SAMPLE POINT FOR HOT CONDENSATE
+TAGS : PA-111007/111009/111012/131016/131026/131030/151029
+Dopak® process sampler
+201
+Liquid
+100
+-1.03/14.5
+1.2-8.7
+= ?
+100-240
+Temperature
+105-133
+= ?
+SS316(L)
+Dopak std.
+PTFE
+Viton
+NO
+Pressure range
+34 bar @ 20°C
+Temperature range
+-17/232°C @ 9 bar
+Manual
+p=1,35 v=1,35
+With BRC
+100
+cap size
+GL 45
+Hoke
+Borosilicate glass
+TCB
+VTO-NBNF
+Config. Standard
+1/2"-150LBS RF LJ (ASME B16.5)
+1/2"-150LBS RF LJ (ASME B16.5)
+1/2"-150LBS RF LJ (ASME B16.5)
+= ?
+1/2"-150LBS RF (ASME B16.5)
+Dopak cooler (1/4" OD) tube(SS316L) /shell(SS304) type complete with needle valve and Ti
+= ?
+= ?
+= ?
+Type = ?
+= ?
+ENGLISH
+Sampler assembled on a SS304(L) mounting plate.
+Needle valve in drain line
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+SS304 enclosure (380x600x210mm), c/w hinged door and window.
+For DPM samplers, we advise max. operating pressure of 8 bar, respecting safety of operator.
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+Technical Specification Sheet
+Pos
+6
+Type
+DPM - 100
+-
+P&ID
+Qty
+23
+Product name
+Design process data:
+Operating process data:
+Sample volume
+[cc]
+Pressure
+[kg/cm2g]
+Pressure
+[kg/cm2g] Viscosity
+[cPs]
+Temperature
+[°C]
+[°C]
+Particles
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Valve
+Sleeve
+For 100cc
+Bottle
+Material
+Cap / Septum
+PBTP
+/
+Needle assembly
+Process x Vent ID
+[mm]
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Vent
+Probe
+ID = ?
+[mm]
+x
+L
+[mm]
+Extra valve
+NO
+Pressure gauge
+NO
+Material
+Scale
+Regulator
+NO
+Material
+Check valve
+NO
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+-
+Note:
+Note:
+Note:
+TYPE 34 : SAMPLE POINT FOR WASTE WATER, COLD
+CONDENSATE, COOLING WATER, BRINE
+Dopak® process sampler
+201
+ON / OFF ANGLED (A1)
+Liquid
+100
+-1.03/25
+2.5-9.7
+= ?
+65-190
+Temperature
+5-44
+= ?
+SS316(L)
+Dopak std.
+PTFE
+Viton
+NO
+Pressure range
+34 bar @ 20°C
+Temperature range
+-40/190°C @ 9 bar
+Manual
+p=1,35 v=1,35
+With BRC
+100
+cap size
+GL 45
+Hoke
+Borosilicate glass
+TCB
+VTO-NBNF
+Config. Standard
+1/2"-150LBS RF LJ (ASME B16.5)
+1/2"-150LBS RF LJ (ASME B16.5)
+= ?
+= ?
+Sampler assembled on a SS304(L) mounting plate.
+Needle valve at inlet to meet the design temperature (for tags where the design temp is above 177degC)
+= ?
+= ?
+Type = ?
+TAGS : PA-001003/001004/001005/001006/111003/111005/111011/111014/112003/113003/114003/121009/
+121010/131018/131019/131020/131024/131025/131027/151001/151011/151030/151031
+For DPM samplers, we advise max. operating pressure of 8 bar, respecting safety of operator.
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+SS304 enclosure (380x600x210mm), c/w hinged door and window.
+= ?
+ENGLISH
+Technical Specification Sheet
+Pos
+Description
+7
+Type
+S32-
+6
+Product name
+Design process data:
+Operating process data:
+Sample volume
+300 cc
+Pressure
+[kg/cm2g] Pressure
+[kg/cm2g]
+Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Pressure relief dev.
+Process valves
+Gearbox
+Expansion chamber
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Nitrogen
+Vent
+bottom
+Welded connections
+Pressure gauge
+Material
+Scale
+Vent/Expansion valve
+Regulator
+Check valve
+Extra valve
+Flexible hose
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+Note:
+TAGS : PA -001001/001002/111001/111008/111013/131021
+TYPE 35 : SAMPLE POINT FOR CORROSIVE GASES
+Dopak® process sampler
+300/0-1-G
+QTY
+NO
+P&ID (G2) bypass purge cylinder configuration
+Gas/Liquid
+-1.03/18
+0.05-5.2
+-29/100
+-20/40
+SS316(L)
+Dopak std.
+PTFE
+Pressure range
+34 bar @ 20°C
+Temperature range
+-40/177°C @ 9 bar
+1/2"-150LBS RF (ASME B16.5)
+Hoke
+Hoke
+2 valves
+Handle Manual
+Material
+1/2"-150LBS RF (ASME B16.5)
+1/2"-150LBS RF (ASME B16.5)
+System couplings, top
+Body
+Stem
+Type
+QC-4
+Handle
+1/2"-150LBS RF (ASME B16.5)
+NO
+YES
+SS316
+Kg/cm2g
+Material
+Type
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+Handle
+PTFE Lined
+ENGLISH
+Sampler assembled on a SS304(L) mounting plate.
+Galvanized steel pipe stand (h=1.700mm) + brackets to support the mounting plate/enclosure.
+SS304 enclosure (760x760x300mm), c/w hinged door and window.
+Technical Specification Sheet
+Pos
+Description
+8
+Type
+DPT-
+H1
+Qty
+9
+Product name
+Design process data:
+Operating process data:
+Sample volume
+100 cc
+Pressure
+[kg/cm2g]
+Pressure
+[kg/cm2g Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+Non-wetted
+O-ring
+NACE
+Pressure range
+[bar]
+Temperature range
+Operation
+Valve
+Sleeve
+Bottle
+100 cc
+cap size
+Cap / Septum
+PBTP
+/
+Needle assembly
+plug
+Process x Vent ID
+[mm]
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process
+Vent
+Purge (N2)
+Extra valve
+Pressure gauge
+Material
+Scale
+Regulator
+Material
+Type
+Check valve
+Tag plate
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+-
+Note:
+Note:
+Note:
+SIV Flanged / PFA lined
+SBA
+SR Lever
+Liquid
+STD
+Viton
+NO
+16 bar @ 20°C
+-29/+200 °C
+on / off configuration
+Dopak® process sampler
+Material
+Borosilicate glass
+TCB
+SBA
+p=3,0 v=1,35
+1"-150# RF (ASME B16.5)
+1/2"-150# RF (ASME B16.5)
+GL 45
+100-190
+28-61
+SS316(L)
+For DPT samplers, we advise max. operating pressure of 8 bar, respecting safety of operator.
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 24 bar (16 bar design pressure).
+100-204/7
+P&ID
+TYPE 40 : SAMPLE SYSTEM FOR LIQUID SAMPLES
+BELOW 50°C:
+TAGS : PA-111002/112002/113002/114002/131022/151028 /111044/151043/131032
+-1.03/32
+4.7-12.83
+NBNF Safety Feature
+Note " 1" is selected as per the flange size shown in Customer P&ID. Please clarify the flange size to be selected
+NO
+NO
+NO
+NO
+YES
+ENGLISH
+REQUESTED CUSTOMER SPECIFICATIONS
+Technical Specification Sheet
+Pos
+Description
+9
+Type
+DPT-
+H1
+Qty
+8
+Product name
+Design process data:
+Operating process data:
+Sample volume
+100 cc
+Pressure
+[kg/cm2g]
+Pressure
+[kg/cm2g Viscosity
+-
+[cPs]
+Temperature
+[°C]
+Temperature
+[°C]
+Particles
+-
+[μm]
+Material
+Wetted
+SS316(L) + PFA Lining
+Non-wetted
+O-ring
+NACE
+Pressure range
+[bar]
+Temperature range
+Operation
+Valve
+Sleeve
+Bottle
+100 cc
+cap size
+Cap / Septum
+PBTP
+/
+Needle assembly
+plug
+Process x Vent ID
+[mm]
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process
+Vent
+Purge (N2)
+Extra valve
+Pressure gauge
+Material
+Scale
+Regulator
+Material
+Type
+Check valve
+Tag plate
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Approval
+@ Delivery
+Language Instr plates
+-
+Note:
+Note:
+Note:
+For DPT samplers, we advise max. operating pressure of 8 bar, respecting safety of operator.
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 24 bar (16 bar design pressure).
+NBNF Safety Feature
+Note " 1" is selected as per the flange size shown in Customer P&ID. Please clarify the flange size to be selected
+NO
+YES
+ENGLISH
+REQUESTED CUSTOMER SPECIFICATIONS
+NO
+NO
+p=3,0 v=1,35
+1"-150# RF (ASME B16.5)
+1/2"-150# RF (ASME B16.5)
+NO
+Material
+Borosilicate glass
+TCB
+SBA
+SR Lever
+SIV Flanged / PFA lined
+SBA
+GL 45
+STD
+Viton
+NO
+16 bar @ 20°C
+-29/+200 °C
+on / off configuration
+Liquid
+-1.03/20
+0.9-9.5
+100-190
+28-60
+TAGS : PA-121008/131028/131029/151041/151042/151027/151026/161001
+Dopak® process sampler
+100-204/7
+P&ID
+TYPE 40 : SAMPLE SYSTEM FOR LIQUID SAMPLES
+BELOW 50°C:
+Technical Specification Sheet
+Pos
+10
+Type
+DPM - 100
+-
+P&ID
+Qty
+4
+Product name
+Design process data:
+Operating process data:
+Sample volume
+[cc]
+Pressure
+[kg/cm2g] Pressure
+[kg/cm2g] Viscosity
+[cPs]
+Temperature
+[°C]
+[°C]
+Particles
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Valve
+Sleeve
+Bottle
+Material
+Cap / Septum
+PBTP
+/
+Needle assembly
+Process x Vent ID
+[mm]
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Cooling in-out
+Probe
+ID = ?
+[mm]
+x
+L
+[mm]
+Extra valve
+NO
+Pressure gauge
+NO
+Material
+Scale
+Regulator
+NO
+Material
+Check valve
+NO
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+-
+Note:
+Note:
+Note:
+For DPM samplers, we advise max. operating pressure of 8 bar, respecting safety of operator.
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+= ?
+Type = ?
+for approval
+ENGLISH
+Sampler assembled on a SS304(L) mounting plate.
+needle valve on drain line
+Dopak cooler (1/4") tube(SS316L)/shell (SS304) type complete with needle valve and Ti
+Note " 1" is selected as per the flange size shown in Customer P&ID. Please clarify the flange size to be selected
+= ?
+Borosilicate glass
+TCB
+VTO-NBNF
+Config. Standard
+p=1,35 v=1,35
+1"-150LBS RF LJ (ASME B16.5)
+1"-150LBS RF LJ (ASME B16.5)
+= ?
+= ?
+1/2"-150LBS RF LJ (ASME B16.5)
+With BRC
+100
+cap size
+GL 45
+Hoke
+Pressure range
+34 bar @ 20°C
+Temperature range
+-40/177°C @ 9 bar
+Manual
+Liquid
+100
+-1.03/15.3
+3.9-9
+= ?
+65-190
+Temperature
+60-125
+= ?
+SS316(L)
+Dopak std.
+PTFE
+Viton
+NO
+INLINE (A8)
+TYPE 40.1 : SAMPLE SYSTEM FOR LIQUID WITH
+COOLER
+TAGS : PA-131017/131031/151025/151021
+Dopak® process sampler
+Technical Specification Sheet
+Pos
+11
+Type
+DPM - 100
+-
+P&ID
+Qty
+1
+Product name
+Design process data:
+Operating process data:
+Sample volume
+[cc]
+Pressure
+[kg/cm2g]
+Pressure
+[kg/cm2g] Viscosity
+[cPs]
+Temperature
+[°C]
+[°C]
+Particles
+[μm]
+Material
+Wetted
+Non-wetted
+Seats
+O-ring
+NACE
+Operation
+Valve
+Sleeve
+Bottle
+Material
+Cap / Septum
+PBTP
+/
+Needle assembly
+Process x Vent ID
+[mm]
+Connections
+---If applicable, all tube fittings are HOKE Gyrolok unless specified otherwise---
+Process-in
+Process-out
+Cooling in-out
+Probe
+ID = ?
+[mm]
+x
+L
+[mm]
+Extra valve
+NO
+Pressure gauge
+NO
+Material
+Scale
+Regulator
+NO
+Material
+Check valve
+NO
+Tag plate
+YES
+Indication plate
+YES
+Installation-, maintenance-, operating- and ATEX safety instructions included.
+Drawing
+Language Instr plates
+REQUESTED CUSTOMER SPECIFICATIONS
+-
+-
+Note:
+Note:
+Note:
+1/2"-150LBS RF LJ (ASME B16.5)
+For DPM samplers, we advise max. operating pressure of 8 bar, respecting safety of operator.
+For sampling liquid into a sample bottle, we advise a maximum vapor pressure of 0,7 bar.
+Without additional information, this sampler will be hydro-tested @ 27,5 bar (18,3 bar design pressure).
+Sampler assembled on a SS304(L) mounting plate.
+Needle valve on drain line
+Dopak cooler (1/4") tube(HC276)/shell (SS304) type complete with needle valve and Temperature indicator
+Note " 1" is selected as per the flange size shown in Customer P&ID. Please clarify the flange size to be selected
+= ?
+Type = ?
+for approval
+ENGLISH
+1"-150LBS RF LJ (ASME B16.5)
+1"-150LBS RF LJ (ASME B16.5)
+= ?
+= ?
+= ?
+Borosilicate glass
+TCB
+VTO-NBNF
+Config. Standard
+p=1,35 v=1,35
+With BRC
+100
+cap size
+GL 45
+Pressure range
+34 bar @ 20°C
+Temperature range
+-40/177°C @ 9 bar
+Manual
+Hoke
+Hastelloy HC276
+Dopak std.
+PTFE
+Viton
+NO
+Liquid
+100
+-1.03/14.5
+6.5
+= ?
+100-190
+Temperature
+96
+= ?
+TAGS : PA-111004
+Dopak® process sampler
+INLINE (A8)
+TYPE 40.1 : SAMPLE SYSTEM FOR LIQUID WITH COOLER

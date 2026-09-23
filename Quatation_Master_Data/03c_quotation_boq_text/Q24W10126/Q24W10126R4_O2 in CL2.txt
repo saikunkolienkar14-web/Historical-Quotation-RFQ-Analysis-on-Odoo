@@ -1,0 +1,341 @@
+Quotation Number: Q24W10126
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Total Price(INR)
+1.
+O2 in Cl2 Analyser with analyser sample handling system
+(Please refer Section 3A for complete offer)
+1 No.
+Quoted
+2.
+FAT as per approved ITP including 8 hours repeatability
+test
+1 Lot
+Inclusive
+3.
+Project Documentation
+1 Lot
+Inclusive
+4.
+Transportation Till Site
+1 Lot
+Quoted
+5.
+Packing and Forwading charges
+1 Lot
+Quoted
+6.
+Commissioning and start up spares
+(Irespective of any list shall be hand carried by our
+service engineer during commissioning of analyser)
+1 Lot
+Inclusive
+7.
+Mandatory Spares as per OEM recommendation
+•
+Main PCB – 1No.
+•
+Display Module – 1No.
+•
+Filter Element – 1No.
+•
+Airfilter Regulator Assembly – 1No.
+•
+Repairing Kit for Valves- 1No.
+1 Lot
+Quoted
+8.
+Consumable Spares
+Zero Gas Cylinder-1No.
+Span Gas Cylinder – 1No.
+1 Lot
+Quoted
+9.
+Special Tools and tackles
+Part of Item S. No. 1
+1 Lot
+Inclusive
+OPTIONAL QUOTE
+1.
+Supervison of Installation and comissionning
+Per Diem
+Quoted
+2.
+Training at Site
+Per Diem
+Quoted
+(OPTION -2 TDLAS)
+Sr.
+No.
+Item Description
+Qty.
+Total Price(INR)
+1.
+O2 in Cl2 Analyser with analyser sample handling system
+(Please refer Section 3 for complete offer)
+1 No.
+Quoted
+2.
+FAT as per approved ITP including 8 hours repeatability
+test
+1 Lot
+Inclusive
+3.
+Project Documentation
+1 Lot
+Inclusive
+4.
+Transportation Till Site
+1 Lot
+Quoted
+5.
+Packing and Forwading charges
+1 Lot
+Quoted
+6.
+Commissioning and start up spares
+(Irespective of any list shall be hand carried by our
+service engineer during commissioning of analyser)
+1 Lot
+Inclusive
+7.
+Mandatory Spares as per OEM recommendation
+•
+Laser source assembled with PCB – 1No.
+•
+Display Module – 1No.
+•
+Filter Element – 1No.
+•
+Airfilter Regulator Assembly – 1No.
+1 Lot
+Quoted
+8.
+Consumable Spares
+1 Lot
+Not Applicbale
+9.
+Special Tools and tackles
+Part of Item S. No. 1
+1 Lot
+Inclusive
+SECTION 3.A: TECHNICAL LITERATURE FOR PARAMAGNETIC OPTION
+1.
+PARAMAGNETIC BASED O2 ANALYSER FOR CL2 TO
+BATTERY LIMIT
+Service: CL2 TO BATTERY LIMIT
+Make: Oxymat 6F
+Model: Siemens
+Operating Principle: Paramagnetic
+Area Classification: Zone-2 IIA/IIB T3
+Mounting Location: SS316 Panel Mounted with Ex-Proof Air
+conditioner
+Component to be measured : O2
+Measurement Range : 0-0.5% O2 in Cl2
+MDL : 50PPM
+Accuracy 1% of measuring Range
+Drift : <+/-0.5% /month of the smallest possible measurement
+range
+Pressure Limit : 0.5 to 3Bar A
+Temperature Limit : 0-50Deg C
+Process Conditions at Sample Inlet
+Temperature (Min/Norm/Max): 50 Deg C
+Pressure (Min/Norm/Max): 6.2kg/cm2-g
+With Sample handling system consisting of:
+Mounting of Analyser inside SS316 cabinet type 20 Painting
+Analyzer output:
+2 Nos. 4-20 mA
+RS485 Modbus
+Other Analyser Specifications of OXYMAT 6 gas analyzer, for
+field installation
+•
+Connection and piping made of Hastelloy (mat. no. C22)
+pipe with1/4" outer diameter
+•
+0.5% reference gas pressure 3000hPa
+•
+Flow-type compensation branch made of Hastelloy
+•
+without Heating
+•
+standard unit and acc. To ATEX II3G version(Zone 2):
+100to 120VAC, 48 to 63 Hz
+•
+with reference gas monitoring
+•
+Ex purge unit for use in ATEX or IECEx Zone 1 of Zone 2
+acc. II2(1)G_Ex eb mb ib [ib pxb] [ia Ga]IIC T4 Gb
+consisting of an Ex p control unit for continuous operating
+flow and an Ex e control station with bypass-key-switch;
+100VAC to 230VAC according IECEx and ATEX
+II2(1)G_Ex eb mb ib[ib pxb] [ia Ga] IIC T4 Gb
+1 No.
+QUOTED
+•
+Gas connection and piping made of Hastelloy C22, outer
+diameter
+•
+ATEX certificate; flammable gases, ATEX II 2/3G Ex pz
+nR IIC T4 TGb/Gc
+Note :
+1. Analyser is Ex-P Type suitable for Zone-2 IIA and IIB
+2. Instrument Air is required for Analyser purging.
+3. For Reference Gas Plant Nitrogen is required.
+1.A
+Sample Welded Probe Assembly
+MOC: Hastelloy with 1-1/2” 300# RF Flange
+Note : Isolation Globe valve 3⁄4” 300# RF in the scope of tKUIPL.
+1 No.
+QUOTED
+1.B
+Primary Sample Handling System
+•
+With Isolation ball valve MOC: Hastelloy
+•
+With Inline filter and pressure reducer assembly, MOC
+Hastelloy
+•
+Heated Pressure regulator Assembly, MOC: Hastelloy
+Note : Makes shall be As per RIL AVL.
+Fitting shall be Hastelloy double compression type.
+Refer attached schematic for reference
+1.C
+Sample Transportation tube:
+Sample Tubing: 1/4” Hastelloy Tube
+Note : Makes shall be As per RIL AVL.
+25Mtrs
+QUOTED
+1.D
+Field Mounted Self standing SS316 cabinet with
+SS316canopy duly painted with type 20 paint:
+-
+With isolation ball valves, MOC: Hastelloy
+-
+With Fast Loop Filter Arrangement, MOC: Hastelloy
+-
+With Metal tube rotameter assembly for bypass and
+Sample flow
+-
+With utility header assembly
+-
+With return header assembly with 3⁄4” 300# RF flange
+connection
+-
+With 110VAC UPS PDP, 230VAC Non UPS PDP
+-
+With signal JB’s
+-
+With Ex-Proof Air conditioner Assembly
+Note : Makes shall be As per RIL AVL.
+Schematic shall be inline with drawing given in Annexure-
+1(attached with offer)
+1 Set
+QUOTED
+1.E
+Calibration and Zero gas cylinder
+Zero gas cylinder – 1No
+Span Gas cylinder – 1 No.
+With cylinder pressure regulator Assembly
+1 Set
+QUOTED
+SECTION 3.B: TECHNICAL LITERATURE FOR TDLAS OPTION
+1.
+EXTRACTIVE LASER BASED O2 ANALYSER FOR CL2 TO
+BATTERY LIMIT
+Service: CL2 TO BATTERY LIMIT
+Make: AIROPTIC
+Model: GASEYE
+Operating Principle: TDLAS
+Area Classification: Zone-2 IIA/IIB T3
+Mounting Location: Skid Mounted
+Component to be measured : O2
+Loop Cable: 2 Mtrs (Non-Armoured lay inside metallic conduit)
+Ingress Protection: IP65
+Measurement Range : 0-500PPM O2 in CL2
+MDL : 100PPM
+Accuracy 2% of measured Value or LOD(MDL) whichever is
+greater
+Drift : Negligible
+Pressure Limit : 0.7 to 2Bar A
+Temperature Limit : 0-1500Deg C
+Process Conditions at Sample Inlet
+Temperature (Min/Norm/Max): 50 Deg C
+Pressure (Min/Norm/Max): 6.2kg/cm2-g
+With Sample handling system consisting of:
+With Flow Through Cell for Mounting of Laser Analyzers
+Mounting of Analyzer on Field Rack
+Analyzer output:
+2 Nos. 4-20 mA
+RS485 Modbus
+Note :
+1. Analyser is Ex-P Type suitable for Zone-2 IIA and IIB
+2. Plant Nitrogen is required for Optic and Analyser House
+Purging
+1 No.
+QUOTED
+1.A
+Sample Welded Probe Assembly
+MOC: Hastelloy with 1-1/2” 300# RF Flange
+Note : Isolation Globe valve 3⁄4” 300# RF in the scope of tKUIPL.
+1 No.
+QUOTED
+1.B
+Primary Sample Handling System
+•
+With Isloation ball valve MOC: Hastelloy
+•
+With Inline filter and pressure reducer assembly, MOC
+Hastelloy
+•
+Pressure regulator Assembly, MOC: Hastelloy
+Note : Makes shall be As per RIL AVL.
+Fitting shall be Hastelloy double compression type.
+1.C
+Sample Transportation tube:
+Sample Tubing: 1/4” Hastelloy Tube HTT
+With HTT accessories
+Note : Makes shall be As per RIL AVL.
+25Mtrs
+QUOTED
+1.D
+Field Mounted Self standing SS316 Rack with SS316canopy
+duly painted with type 20 paint:
+-
+With flow through cell assembly for mounting of Laser
+analyzer MOC: Hastelloy
+-
+With isolation ball valves and flow meter assembly for
+nitrogen utility MOC: SS316
+-
+With utility header assembly
+-
+With return header assembly with 3⁄4” 300# RF flange
+connection
+-
+With 110VAC UPS PDP, 230VAC Non UPS PDP
+-
+With signal JB’s
+Note : Makes shall be As per RIL AVL.
+Schematic shall be inline with drawing given in Annexure-
+1(attached with offer)
+1 Set
+QUOTED
+1.E
+Temperature transmitter assembly
+Note : Makes shall be As per RIL AVL
+1 Set
+QUOTED
+1.F
+Absolute Pressure transmitter
+Note : Makes shall be As per RIL AVL
+1 Set
+QUOTED
+1.G
+Validation Cylinders
+Zero: Pure Nitrogen with Double Stage CYL. Pressure regulator
+Span: O2+Bal.N2 with Double Stage CYL. Pressure regulator
+Note : Makes shall be As per RIL AVL
+1 Set
+QUOTED

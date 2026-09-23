@@ -1,0 +1,76 @@
+Quotation Number: Q25S10083
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+Oxygen Analyzer
+Tag no: 206-AT-3302,3403,3402.
+Make: Siemens AG, Germany
+Model: Oxymat 6F
+Mounting: Inside analyzer House
+Sample Probe:
+-
+As per Existing drawing no: Annx IIB
+-
+Fixed type with isolation valve.
+Primary Handling System
+-
+As per Existing drawing no: Annx IIB
+-
+Quantity of item and make shall be as per Annx IIA
+Sample transportation tube.
+1⁄4’’ HASTALLOY HTT: 260 Mtrs x 3 Nos analyser = 780 Mtrs
+Secondary Sample Handling System
+-
+As per Existing drawing no: Annx IIB
+-
+Quantity of item and make shall be as per Annx IIA
+Analyzer Outputs:
+-
+4-20 mA Analog output for measuring component.
+-
+RS485 Serial Output
+-
+Digital Alarm contacts for fault.
+Note: All Wetted parts shall be HASTALLOY including tubing
+(exceptions are marked in section 2 Clarification)
+3 Lot
+Quoted
+2
+Oxygen Analyzer
+Tag no: 206-AT-3301
+Make: Siemens AG, Germany
+Model: Oxymat 6F
+Mounting: Inside analyzer House
+Sample Probe:
+-
+As per Attached: Annx IB
+1 Lot
+Quoted
+-
+Fixed type with isolation valve.
+Sample transportation tube.
+-
+1/2"OD HASTALLOY HTT: 250 Mtrs
+Sample Handling System
+-
+As per Attached: Annx IB
+-
+Quantity of item and make shall be as per Annx IA
+Analyzer Outputs:
+-
+4-20 mA Analog output for measuring component.
+-
+RS485 Serial Output
+-
+Digital Alarm contacts for fault.
+Note: All Wetted parts shall be HASTALLOY including tubing
+(exceptions are marked in section 2 Clarification)
+3
+Supervision of Erection & Commissioning
+(To & FRO, Lodging, local conveyance charges to be borne by
+CPCL)
+Quoted
+4

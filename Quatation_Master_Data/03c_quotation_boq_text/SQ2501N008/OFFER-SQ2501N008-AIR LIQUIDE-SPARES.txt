@@ -1,0 +1,88 @@
+Quotation Number: SQ2501N008
+BOQ Status: FOUND
+
+Date: 16-01-2025
+Ref: Q24250450-SQ2501N008
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+28602044
+Sample cell, 180 mm, Aluminium, no
+flow in reference gas cell- Ultramat 6
+1.00
+357,759.00
+357,759.00
+1
+Nos
+28602211
+Pressure Switch - Oxymat 64
+1.00
+6,540.00
+6,540.00
+2
+Nos
+28602034
+Measuring Head - Oxymat
+1.00
+426,025.00
+426,025.00
+3
+Nos
+28602269
+IR-Source U6E (without filter)
+1.00
+284,389.00
+284,389.00
+5
+Set IR-Source U6E (without filter)
+Nos
+1.00
+25,999.00
+25,999.00
+6
+Nos
+1.00
+49,286.00
+49,286.00
+7
+Nos
+28602209
+O-Ring for cover (IR-window)
+1.00
+1,914.00
+1,914.00
+8
+Nos
+28602043
+O-Ring 3.68 x 1.78 mm, FKM 70,
+green FOR Oxymat 61 sample cell
+1.00
+2,552.00
+2,552.00
+9
+Nos
+28602238
+O2 Sensor module KIZ (spare part)
+1.00
+750,715.00
+750,715.00
+10
+Nos
+28602026
+SET OF O-RINGS U6 / SPARE
+PARTS Set of annular gaskets
+28602060
+Reference gas path 3000 hPa -
+Oxymat 61
+4
+28602102
+Detector CO2 _ Ultramat 6
+1.00
+4,93,290.00 4,93,290.00
+Nos

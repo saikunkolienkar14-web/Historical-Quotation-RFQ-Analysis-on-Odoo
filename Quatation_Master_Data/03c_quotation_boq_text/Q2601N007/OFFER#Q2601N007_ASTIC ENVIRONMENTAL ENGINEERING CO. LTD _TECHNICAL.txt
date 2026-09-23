@@ -1,0 +1,206 @@
+Quotation Number: Q2601N007
+BOQ Status: FOUND
+
+Description
+Qty.
+Unit Price
+(INR)
+Total Price
+(INR)
+CONTINUOUS EMISSION MONITORING SYSTEM (CEMS)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF CO, NO, SO2 & O2
+With Gas Sample Probe
+With Blowback Unit
+With Auto Probe Cleaning
+With Sample Handling System
+With Remote Calibration
+With Touch Screen Graphic Colour Display – 7”
+With IP54 Panel
+With Microprocessor Based Analyser
+With pressure and temperature compensation
+With Calibration Gas Cylinders
+Ultramat 23 – 1 No.
+For the measurement of
+Carbon Monoxide (CO)
+Nitric Oxide (NO)
+Sulphur Dioxide (SO2)
+Oxygen (O2)
+MAKE: SIEMENS AG, Germany
+Note :
+1. According to the latest cpcb guidelines , compensation can
+be done using either O2 or CO2, we have done the same
+using O2.
+2. The quoted system is hot extractive system with gas cooler
+and cold analysers where moisture is removed in the gas
+cooler and hence no moisture compensation is required
+since the readings are not affected by moisture. Therefore
+moisture measurement is not necessary.
+1 SET
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+With Necessary accessories & JBs
+@QUOTED PER MTR
+QUOTED
+Sr.
+No.
+Description
+Qty.
+Unit Price
+(INR)
+Total Price
+(INR)
+3
+DUST MONITOR ANALYZER
+MODEL: D-R 820 F
+MADE: Durag, Germany
+Based on scattered light intensity principle (forward scattering)
+With laser diode light source (red 650 nm)
+Type: extractive with probe in contact with sample gas
+Output: 0/2/4....20 ma
+With IP 55 probe of length: 1000 mm
+With supply & display unit
+With blower unit
+Power supply: 230vac, 50 hz
+Accessories contains:
+Rack for mounting supply unit and blower unit
+Set accessories
+Cable set
+Welding pipe with flange
+1 SET
+QUOTED
+QUOTED
+4
+FLOW MONITOR AT OUTLET OF STACK
+Model: D-Fl 220
+Make: Durag, Germany
+Measuring principle: based on ultrasonic flow measurement
+Measurements: flue gas velocity, volume flow
+Measuring ranges : 0 ... 3000000 m3 /h / 0 ... 40 m/s
+Flue gas temperature: 0 – 300 °C
+Flue gas pressure : -50 ... +20 hpa
+With Temperature and pressure measurement
+Protection : IP65
+Measuring outputs : 0/ 4 ... 20 ma/ 400 Ohm, MODBUS RTU
+BI-DIRECTIONAL
+Power supply: sensor power supply 24 VDC ±10%,0.5 A
+Utility requirement: instrument air @4-6 bar free from oil, dust &
+moisture shall be provided by the customer.
+1 SET
+QUOTED
+QUOTED
+5
+ONLINE TOTAL MERCURY ANALYSIS SYSTEM
+Model: HM-1400 TRX
+Make: Durag, Germany
+total no of sampling location: 1 no.
+for the measurement of total mercury
+for monitoring total hg concentration in sample gas
+measuring principle: Dual beam UV CVAAS photometer
+ionic Hg-compounds are converted to hg inside a thermal converter
+Measuring range: 0 to ... 200 mg/Nm3
+Display resolution: 0.1 mg/Nm3
+Protection class: IP54
+Power supply: 230VAC, 50 Hz
+With 50 mtrs heated line
+Note : Please note that mercury analyser needs to be kept maximum
+within 60 mtrs from the sampling point for effective measuring.
+1 SET
+QUOTED
+QUOTED
+6
+PC BASED DATA ACQUISITION SYSTEM
+PC based Data Acquisition System with License Software suitable for
+storing, logging, reporting, printing data, validation and
+communicating with above offered local DAS. PC with specifications as
+under:
+Make: PC with specifications as under: Make: HP/DELL INTEL I3
+Processor, 4 GB RAM, 500GB HDD, CD/DVD Combo drive, 18” TFT
+monitor, standard windows operating system, standard keyboard,
+mouse with pad
+Note: Internet connection with min. 1 MBPS speed with static public
+IP is to be provided by the customer.
+1 SET
+QUOTED
+QUOTED
+MANDATORY SPARES LIST
+SR.No.
+ITEMS
+QUANTITY
+1
+Analyzer for SO2, NOx, CO2, CO.
+ULTRAMAT 23 – 1 NO.
+2
+FLUE GAS FLOW MEASUREMENT INSTRUMENT : 1 NO.
+COMPLETE ANALYSER OF EACH TYPE AND MODEL.
+DFL 220– 1 NO.
+3
+ANALYSER FOR PARTICULATE MATTER : 1 NO. COMPLETE
+ANALYSER OF EACH TYPE AND MODEL.
+DR – 820 F – No.
+4
+ANALYSER FOR MERCURY: 1 NO. COMPLETE ANALYSER OF
+EACH TYPE AND MODEL.
+HM 1400 TRX – 1 No.
+5
+ELECTRONIC CARD ASSEMBLY/PCBS, MOISTURE/CONDENSATE
+MONITOR, POWER SUPPLY MODULES: 10% OF EACH TYPE,
+MODEL AND RATING
+ELECTRONIC CARD FOR U23
+ANALYZER- 1 No
+PLC I/O CARDS - 1 No.
+CONDENSATE MONITOR- 1 No.
+POWER SUPPLY MODULE FOR GAS
+ANALYZER-1 No.
+6
+SET OF GASKETS/O-RINGS/ SEALS: 200% OF EACH TYPE,
+MODEL, RATING AND SIZE
+O- RING, GASKET FOR PROBE-8 No
+7
+COMPLETE PROBE WITH SHIELD ASSEMBLY (NOT APPLICABLE
+FOR IN SITU- PATH) 1 NO. OF EACH TYPE AND MODEL
+HEATED SAMPLE PROBE – 1 No.
+8
+FILTERS, LIGHT SOURCE, SENSOR, DETECTOR, ETC.: 100% OF
+EACH TYPE, MODEL AND RATING
+PROBE FILTER – 2 No.
+CART FILTER -2 No.
+IR LIGHT SOURCE-2 No.
+IR DETECTOR – 2 No.
+9
+TEMP. SENSOR: 20% OF EACH TYPE AND MODEL
+HEATING CATRIDGE FOR PROBE - 1
+No
+THERMO SWITCH (TEMPERATURE
+SENSOR) --1 No
+10
+HEATER ASSEMBLY, COOLERS/DRYERS, PUMPS, ETC.: 20% OF
+EACH TYPE AND MODEL
+HEATED PROBE ELEMENT – 1 No.
+SAMPLE GAS COOLER – 1 No.
+SAMPLE GAS PUMP- 1 No.
+11
+SOLENOIDS: 2 Nos. OF EACH TYPE,MODEL AND RATING
+3/2 WAY SOLENOID VALVE -2 Nos
+2/2 WAY SOLENOID VALVE -2 Nos
+12
+CALIBRATION GASES,
+CALIBRATION CELL AND OTHER
+CONSUMABLES FOR
+CALIBRATION: - OF ALL TYPES
+AND RANGES: ONE YEAR SUPPLY
+N2 CYLINDER– 1 No
+CO CYLINDER – 1No.
+NO CYLINDER – 1 No.
+SO2 CYLINDER – 1 No
+SUPERVISION AND COMMISSIONING
+1
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES
+(Boarding – Lodging – Local Conveyance, To-and-Fro Air Ticket/ AC II
+Train Fare to be arranged by Customer)
+@ QUOTED PER MAN DAY
+2
+COMPREHENSIVE ANNUAL MAINTENNACE CONTRACT FOR ONE YEAR AFTER COMPLETION OF STANDARD

@@ -1,0 +1,296 @@
+Quotation Number: SQ2503H050
+BOQ Status: FOUND
+
+Date: 11-03-2025
+Ref: Q24250576-SQ2503H050
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+78309001
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.C. Purging, MOC Brass
+1.00
+9,720.00
+9,720.00
+1
+Nos
+78309007
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.C. Pulsating, MOC Brass
+1.00
+12,312.00
+12,312.00
+2
+Nos
+78309002
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.O. MOC Brass
+1.00
+16,620.00
+16,620.00
+3
+Nos
+78309003
+Solenoid Valve 3/2 Way 1/4" BSP (F)
+230 VAC MOC Brass With exhaust
+port
+1.00
+10,563.00
+10,563.00
+4
+Nos
+78409008
+Solenoid Valve 2/2 Way 1/4" BSP (F)
+230 VAC, NC, MOC SS316
+1.00
+17,496.00
+17,496.00
+5
+Nos
+78409009
+Solenoid Valve 3/2 Way 1/4" BSP (F)
+230 VAC MOC SS316
+1.00
+18,924.00
+18,924.00
+6
+Nos
+78409035
+Solenoid Valve 2/2 way Port Size 1"
+BSP (F) 230 VAC, MOC SS316
+1.00
+38,760.00
+38,760.00
+7
+Nos
+18519001
+Sample Gas Cooler Dual Path 230
+VAC
+1.00
+44,064.00
+44,064.00
+8
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+30,996.00
+30,996.00
+9
+Nos.
+18901001
+Condensate Vessel -150 ml for
+Sample Gas Cooler
+1.00
+510.00
+510.00
+10
+Date: 11-03-2025
+Ref: Q24250576-SQ2503H050
+Nos
+28708026
+Automatic Condensate Removal
+Pump 24 VDC Flow Rate 0.3 LPM
+1.00
+23,529.00
+23,529.00
+11
+Nos
+18901002
+Acid Filter Body Moulded Glass with
+TEFLON/PTFE & Viton O Ring
+1.00
+12,900.00
+12,900.00
+12
+Nos
+28919002
+Glass Fiber Borosilicate Filter For
+Acid Filter Element
+1.00
+19,980.00
+19,980.00
+13
+Nos
+18611003
+Conductivity Switch Unit For
+Condensate Monitor 24 VDC
+1.00
+14,220.00
+14,220.00
+14
+Nos
+18920001
+Glass Wool Gasket for Ceramic Filter
+50 mm Dia
+1.00
+450.00
+450.00
+15
+Nos
+18524006
+Ring Heater 230 VAC Length 180 MM
+1.00
+10,020.00
+10,020.00
+16
+Nos
+28709015
+WATER FLOW SWITCHF PADDLE
+TYPE Connection 1"" BSP (M)
+1.00
+17,952.00
+17,952.00
+17
+Nos
+18714004
+Level Switch-with 3.5 Mtrs. Cable for
+Kiln Inlet Water Tank
+1.00
+6,312.00
+6,312.00
+18
+Nos.
+1.00
+102,000.00
+102,000.00
+19
+Nos
+18606070
+CPU 1214C,- S7 1200-14 DI 24V DC;
+10 DO RELAY 2A; 2 AI 0 - 10V DC
+1.00
+39,384.00
+39,384.00
+20
+Nos
+18606071
+DIGITAL INPUT/OUTPUT SM 1223, 8
+DI & 8 DO RELAY
+1.00
+21,100.00
+21,100.00
+21
+Nos
+18610061
+MMI 7"Display -Panel master
+Date: 11-03-2025
+Ref: Q24250576-SQ2503H050
+18918005
+O Ring For Probe 9502 - PTFE- FOR
+NEW KAS PROBE HEAD
+1.00
+2,190.00
+2,190.00
+22
+Nos.
+28903011
+SS Filter for Kiln Probe length 250
+mm
+1.00
+30,000.00
+30,000.00
+23
+Nos
+1.00
+6,720.00
+6,720.00
+24
+Nos
+18715002
+Roller Lever Valve 1/4" 1 NO + 1 NC
+1.00
+9,293.00
+9,293.00
+25
+Nos
+28602006
+Pressure Switch - Sample Gas,
+Ultramat 23
+1.00
+20,576.00
+20,576.00
+27
+Nos
+28602054
+Cartridge Filter
+1.00
+8,250.00
+8,250.00
+28
+Nos
+28602024
+Flow meter - Ultramat 23
+1.00
+35,728.00
+35,728.00
+29
+Nos
+28602056
+Condensate Trap - Ultramat 23
+1.00
+14,355.00
+14,355.00
+30
+Nos
+28602037
+Keypad - Ultramat 23
+1.00
+75,444.00
+75,444.00
+31
+Nos
+28602036
+IR source - Ultramat 23
+1.00
+99,847.00
+99,847.00
+32
+Nos
+28602020
+Detector CO - 10 %,B25 U23
+1.00
+238,453.00
+238,453.00
+33
+Nos
+28602058
+Detector, NO, Channel 2
+1.00
+327,932.00
+327,932.00
+34
+18613002
+Proximity Sensor for Retraction
+26
+28602005
+Analyser Fuse 110 VAC -1.25A
+1.00
+479.00
+479.00
+Nos
+Date: 11-03-2025
+Ref: Q24250576-SQ2503H050
+Nos
+28602093
+Chopper 2 IR Channels Ultramat 23
+1.00
+51,519.00
+51,519.00
+35
+Nos
+28602002
+LCD Display Ultramat 23
+1.00
+150,409.00
+150,409.00
+36
+Nos
+Date: 11-03-2025
+Ref: Q24250576-SQ2503H050

@@ -1,0 +1,38 @@
+Quotation Number: Verbal
+BOQ Status: FOUND
+
+TOTAL SAMPLING LOCATION: 1 NO.
+
+SHS should consist of the following materials
+ Ball Valves
+ Air Filter Regulators
+ Aspirator
+ Sample Flow Through Cell
+ Air Operated Valve
+ Flow Monitors
+ Catch pot
+ Free Standing Rack with SS tubes
+1 SET
+5870E8706
+870,953.00
+1B
+PRE-SAMPLE CONDITIONING & PURIFICATION SYSTEM
+ Diesel Bubbler
+ Water Purifier
+ High Impact Chamber
+1 SET
+5532A1592 414,750.00
+NOTE: 1. Existing O2 Analyser (Sitrans SL) shall be in use for this SHS at Coke Plant (COB)
+2. UMCs of Sample Handling System and Sample Purification Unit have been mentioned
+separately.
+3. Please note for Coke Oven Gas sample both the above line items are required for removal of
+impurities like TAR, Naptha etc
+
+Plant N2 {Free from Water Droplets or Moisture} @ 5 - 7 Kg/Cm2
+
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s
+Scope
+
+Power Supply Utilities required are:
+ Power Supply: 230 VAC, 50 Hz (Non-UPS)
+ Power Supply: 230 VAC, 50 Hz (UPS)

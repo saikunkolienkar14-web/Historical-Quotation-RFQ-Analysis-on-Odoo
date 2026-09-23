@@ -1,0 +1,102 @@
+Quotation Number: Q24G10074
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No.
+Item Description
+Qty
+Unit price (INR)
+Total Price
+(INR)
+1
+O2 Analyser
+4 Nos.
+Quoted
+Quoted
+1.1
+Project Documentation
+1 Lot
+Quoted
+Quoted
+1.2
+FAT at Adage Factory
+1 Lot
+Quoted
+Quoted
+1.3
+Packing, forwarding & transportation up to
+Site charges
+1 Lot
+Quoted
+Quoted
+1.4
+Supervision of installation &
+commissioning
+Per Diem
+Quoted
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+TDLS Based Oxygen Analyzer
+Tag No:
+Train 1 - 121AE/AT161600A & 121AE/AT161601A
+Train 2 - 121AE/AT161600B & 121AE/AT161601B
+Make: Siemens AG, Germany
+Model: SITRANS SL
+Mounting Location: Field, In-situ Cross Duct Type.
+Principle: TDLAS (Tunable Diode Laser Absorption
+Spectroscopy)
+Enclosure Protection: IP65
+Process Operating Parameters:
+-
+Pressure (Normal/Max): 0.037/0.037 Kg/cm2g
+-
+Temperature (Normal/Max): 297.4/299.2 degC
+Analyser Output
+-
+2 x Analog output 4-20mA for measuring component
+-
+Digital Output
+Individual Utility Panel (MS painted Plate) with Purge
+Accessories
+-
+MOC of plate: MS painted, 2mm Thick mounted on Stack
+directly
+-
+Required Air filter Regulators, Ball Valves, Flow meter,
+fittings and other accessories as required.
+-
+Loop Cable between Transmitter and Receiver shall be
+considered by Adage
+-
+All the components shall be rated for Zone 1 llC T3
+-
+Required JBs shall be considered.
+Notes:
+-
+Nitrogen to be provided for purging of analyser optics and
+window purging by customer.
+-
+Serial output shall be terminated at JB mounted on utility
+plate at stack. Further distribution in customer’s scope of
+supply.
+-
+Power cable at sensor unit mounted on stack by customer.
+4 No
+Quoted
+1.1
+Project Documentation
+1 Lot
+Quoted
+1.2
+FAT at Adage Factory
+1 Lot
+Quoted
+1.3
+Packing, forwarding & transportation up to Site charges
+1 Lot
+Quoted
+1.4
+Supervision of installation & commissioning
+Per Diem
+Quoted

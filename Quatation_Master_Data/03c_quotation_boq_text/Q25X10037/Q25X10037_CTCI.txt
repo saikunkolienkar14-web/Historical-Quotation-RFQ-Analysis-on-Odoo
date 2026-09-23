@@ -1,0 +1,167 @@
+Quotation Number: Q25X10037
+BOQ Status: FOUND
+
+Description
+Make and Model Qty
+Price
+1.1
+107-AT-01121
+Moisture Sensor for C7-155A
+Expander Outlet Moisture
+GE Panametrics
+M Series
+1 No.
+Quoted
+1.2
+107-AT-13802
+2 Stream Moisture for Hydrogen
+from CA Moisture
+GE Panametrics
+M Series
+2 Nos.
+Quoted
+1.3
+107-AT-61121
+Moisture Sensor for C7-155B
+Expander Outlet Moisture
+GE Panametrics
+M Series
+1 No.
+Quoted
+1.4
+_
+Moisture Controller Assembly
+for above sensors
+GE Panametrics
+MOISTURE.IQ
+1 No.
+Quoted
+1.5
+_
+Sample Handling System for
+above sensors
+Adage
+1 Set
+Quoted
+OPTIONAL PRICE FOR TDLAS ANALYSER
+Sr. No. Tag No.
+Description
+Make and Model Qty
+Price
+1.1
+_
+TDLAS Moisture Analyser
+Ametek
+5100HD
+1 No.
+Quoted
+1.2
+_
+Sample Handling System for
+above sensors
+Adage
+1 Set
+Quoted
+DETAILED OFFER OF ANALYZERS MOUNTED ON
+FIELD SKID
+S.N.
+Item Description
+Qty.
+Price (INR)
+1
+Moisture Sensor
+Tag Nos: 107-AT-01121 /107-AT-13802/107-AT-61121
+Service1: C7-155A Expander Outlet Moisture
+Service2: Hydrogen from CA Moisture
+Service3: C7-155B Expander Outlet Moisture
+MODEL: M Series
+MAKE: GE Panametrics
+Hazardous Area Classification: Zone 2, IIC
+Type: Al2O3
+Return Details: Hold
+1 Nos for
+each train
+Quoted
+1.1a
+Sample Probe:
+-
+1.5’’ 300# RF Flange
+-
+Probe tube, MOC: SS316 with welded isolation valve
+3 Nos
+Quoted
+1.1b
+Sample Transportation Line
+-
+1/4’’ SS316 HTT+EP Line – 10 Meters(107-AT-01121)
+-
+1/4’’ SS316 HTT+EP Line – 10 Meters x 2(107-AT-13802)
+-
+1/4’’ SS316 HTT+EP Line – 10 Meters(107-AT-61121)
+1 Lot
+Quoted
+1.1c
+Heated Sample Handling system as below:
+-
+Isolation Ball Valves, Filter, Flow meter Assembly
+-
+Cabinet Heater Assembly
+-
+Three Way Ball Valve for stream selection with limit switches
+-
+SHS components are mounted inside SS316 Enclosure
+All Make shall Be as per RIL AVL
+1 Lot
+Quoted
+1.1d
+Field Rack Assembly with canopy
+-
+Above sample handling system with Controller unit shall be
+mounted on a MS painted skid
+-
+With signal JB
+-
+With Power supply Ex-d JB
+All Make shall Be as per RIL AVL
+1 Lot
+Quoted
+2
+Startup & Commissioning spares for Moisture analyzer
+•
+Filter Element X 1 No
+1 Set
+Quoted
+3
+Mandatory spares for Moisture analyser
+•
+Complete Moisture Probe Assembly X 1 No.
+1 Set
+Quoted
+4
+Supervision of installation & commissioning
+Lumpsum
+Quoted
+5
+Packing & Forwarding charges
+1 No
+Quoted
+6
+Transportation up to Site charges
+1 No
+Quoted
+7
+Project documentation
+1 No
+Quoted
+8
+FAT at Goa works
+1 No
+Quoted
+9
+Training at Goa works
+1 No.
+Quoted
+10
+Training at Site
+1 No.
+Quoted

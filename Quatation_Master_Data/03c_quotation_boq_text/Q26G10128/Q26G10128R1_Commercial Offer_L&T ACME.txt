@@ -1,0 +1,1093 @@
+Quotation Number: Q26G10128R1
+BOQ Status: FOUND
+
+Description
+Qty
+Total Price
+(INR)
+1
+Field Rack: Common for below analysers
+-
+Freestanding Rack Structure: MS, ISMC 100 C channel Painted
+-
+Rack Dimensions: 1200mm W x 2000mm H approx.
+-
+Lifting Devices: Two (2) lifting eyes shall be attached to the upper cross
+channel at each end and shall be designed to lift the total weight of the rack
+with all equipment installed.
+-
+Canopy Material: CRCA.
+-
+Equipment/Mounting Plate: SS304
+-
+1x Signal JB, SS316, Exe
+-
+Includes Utility Headers.
+1 No
+Quoted
+1.A
+Free Chlorine Analyser:
+Tag No: 406-AT-3601 & 406-AT-3802
+Make: Emerson / E&H
+Model: FRC Sensor and 1066 Transmitter
+Ingress Protection: IP65
+Measuring Principle: Amperometry
+Accuracy: Accuracy depends on the accuracy of the laboratory method used to
+calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range: 0 - 1 MG/L
+Mounting: Common Field rack with Canopy
+Service: To be provided by customer.
+Operating Pressure (Maximum): To be provided by customer. Operating
+Temperature (Maximum): To be provided by customer.
+Fluid Phase: Liquid
+2 Nos
+Quoted
+Sample Probe is not required since the line size is less than 3”
+-
+-
+Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+50
+Mtr.
+Quoted
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+1 Set
+Quoted
+-
+Needle Valve
+-
+Sample Cooler
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+1.B
+pH Analyser:
+Tag no: 406-AT-3701 & 406-AT-3801
+Make: Forbes Marshall/ Emerson/ E&H
+Sensor Model pH: FM1104 / 3900
+Transmitter Model: Aqua2Trans / 1066-P-HT-73
+Ingress Protection: IP66
+Electrical Protection: Ex ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Range pH: 0 – 14
+Mounting: Common Field rack with Canopy
+Service: To be provided by customer.
+Operating Pressure (Maximum): To be provided by customer.
+Operating Temperature (Maximum): To be provided by customer.
+Fluid Phase: Liquid
+2 Nos
+Quoted
+Sample Probe is not required since the line size is less than 3”
+-
+-
+Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+50
+Mtr.
+Quoted
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample Cooler
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+1 Set
+Quoted
+2
+pH Analyser:
+Tag no: 407-AT-3001
+Make: Forbes Marshall/ Emerson/ E&H
+Sensor Model pH: FM1104 / 3900
+Transmitter Model: Aqua2Trans / 1066-P-HT-73
+Ingress Protection: IP66
+Electrical Protection: Ex ia
+1 No
+Quoted
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC
+Range pH: 0 – 14
+Mounting: Field rack with Canopy
+Service: To be provided by customer.
+Operating Pressure (Maximum): To be provided by customer.
+Operating Temperature (Maximum): To be provided by customer.
+Fluid Phase: Liquid
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 150# RF matting flange with bolts & gaskets.
+’
+1 No
+Quoted
+Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+50
+Mtr.
+Quoted
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample Cooler
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+1 Set
+Quoted
+3
+SHELTER WITH REDUNDANT HVAC (HAZARDOUS AREA)
+Tag No: Customer to provide
+Make: Adage
+Area Classification (Outside): Zone 2, IIC, T3
+Area Classification (Inside): Zone 2, IIC, T3
+Following Analyzers Shall be Mounted inside Shelter:
+401-AT-0201 -
+AR, H2O, O2 Analyser
+401-AT-0202 -
+H2O, O2 Analyser
+401-AT-0203 -
+401-AT-0601 -
+401-AT-0602 -
+GC +
+Electrochemical O2 +
+H2 (TCD)
+Shelter Specification:
+•
+Dimensions: 4m (L) X 3m (W) X 2.8m (H)
+•
+Shelter MOC: SS304
+•
+2mm Thickness Outside And 1.5 mm Thickness Inside
+•
+Insulation Thickness: 80 mm Rockwool
+•
+Overhang Roof Canopy- 1 meter in all four sides, MOC: SS304, 1.5 mm
+thick.
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: 5 mm Thick Anti-Slip and Non-Corrosive Aluminum Chequered Plate.
+•
+Doors: Main Door and Emergency Door with Glass Window
+•
+Louvers: 4 Nos
+•
+Lifting lugs x 4 Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+•
+Cable Tray: FRP
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min 2.5mmWC)
+1 No
+QUOTED
+•
+With Safeguarding PLC in Purge Panel
+•
+With Electrical Components & SHS Boxes
+•
+With Fully Tubed Headers.
+•
+With Exproof Junction Boxes
+•
+With Flame Arrestor to Vent connection.
+HVAC Specifications:
+•
+Make: Adage
+•
+Area Classification: Zone 2, IIC, T3
+•
+With Redundant HVAC Unit
+•
+With Chemical Filter
+•
+Capacity: 3 TR (Sizing Shall be Finalized during Detail Engineering)
+•
+HVAC Skid MOC: SS304
+•
+GI Duct for fresh air supply (35 mtrs), Support of the duct shall be taken care
+by customer.
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector - Inside Shelter
+1
+O2 deficiency detector
+1
+Optical Smoke Detector
+2
+Differential Pressure Transmitter
+1
+Temp Tx with Display
+1
+Safeguard PLC non- redundant CPU, non- redundant I/O for Analyser Shelter
+1 LOT
+Purge controller for PLC Panel (inside)- Zone 2 IIC, T3
+1
+Electrical Panels: Zone 2 IIC
+JBs, PDBs, / Power JB with ATS for UPS Feeders.
+1 LOT
+Electrical fittings & components
+230 VAC Switch Socket (Inside shelter)
+1
+115 VAC Switch Socket (Inside shelter)
+1
+Warning Panel
+3
+Pneumatic Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+2
+Tube lights inside (Suitable for Zone 2)
+3
+Tube lights outside (Suitable for Zone 2)
+4
+Tube light with battery backup
+1
+MCT Blocks with 20% Spares
+1 LOT
+Misc Items :
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Table & Chair
+1
+Wash basin with eye wash (Outside shelter)
+1
+Fire extinguisher, CO2, 2 kg
+2
+Cables, FRP Cable trays, SS304 Glands, Utility Headers with Air filters & Other Accessories as per MR
+1 LOT
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+3.A
+Ar, H2O, O2 Analyzer
+Tag no: 401-AT-0201
+Argon Measurement
+Make: LDetek
+Model: LD8000
+Electrical Protection: Safe Area
+Analog Signal: 4-20mA NON-HART / RS485
+Power Supply: 230 VAC, 50 Hz
+Range: Ar: 0 - 10 ppm
+Mounting: Inside X-Purged Encloser in Analyser Shelter
+H2O Measurement:
+Make: Michell Instruments
+Model: Easidew Pro XP
+Electrical Protection: Zone 1 IIC T3
+Operating Principle: Metal-Oxide Sensor
+Measured Component(s): Moisture
+Range: Moisture: 0 - 10 ppm
+Analog Signal: 4-20mA NON-HART
+Power Supply: 24 VDC
+O2 Measurement
+Make: Michell Instruments
+Model: GPR1800
+Electrical Protection: Zone 1, IIB+H2, T6
+Operating Principle: Electrochemical
+Range: O2: 0 - 10 ppm
+Analog Signal: 4-20mA NON-HART
+Power Supply: 230 VAC, 50 Hz
+Upstream Operating Pressure (Maximum): 20.3 Barg
+Upstream Operating Temperature (Maximum): 44.7 Deg C
+Fluid Phase: Gas
+1 Set
+QUOTED
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 300# RF matting flange with bolts & gaskets.
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+’
+Sample Transportation line:
+-
+Tube Material: EP SS316, 1/4” OD
+160
+Mtr.
+Quoted
+Primary Sample Handling System:
+PSCS components shall be mounted inside enclosure, near to probe.
+PSCS comprising of the following components:
+-
+Ball valve 1⁄4’’ OD SS316 2way
+-
+Coarse filter 1⁄4’’ OD SS316
+-
+Pressure Regulator, Single stage, 1/4"NPTF SS316
+All wetted parts and Double compression type fittings shall be of SS316.
+1 No.
+QUOTED
+Secondary Sample Handling System:
+SCS components shall be mounted inside common enclosure, wall mounted outside
+analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Sample flowmeter with low flow switch
+-
+Non return valve
+-
+Pressure relief valve
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+All wetted parts and Double compression type fittings shall be of SS316
+1 No.
+QUOTED
+3.B
+H2O & O2 Analyser
+Tag no: 401-AT-0202
+H2O Measurement:
+Make: Michell Instruments
+Model: Easidew Pro XP
+Electrical Protection: Zone 1 IIC T6
+Operating Principle: Metal-Oxide Sensor
+Range: Moisture: 0 - 10 ppm
+Analog Signal: 4-20mA NON-HART
+Power Supply: 24 VDC
+1 Set
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+O2 Measurement
+Make: Michell Instruments
+Model: GPR1800
+Electrical Protection: Zone 1 IIB+H2 T6
+Operating Principle: Electrochemical
+Range: O2: 0 - 10 ppm
+Analog Signal: 4-20mA NON-HART
+Power Supply: 230 VAC, 50 Hz
+Mounting: Inside Analyser Shelter
+Service: Hydrogen composition
+Operating Pressure (Maximum): 22 Barg
+Operating Temperature (Maximum): 45 Deg C
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 300# RF matting flange with bolts & gaskets.
+’
+1 No.
+QUOTED
+Sample Transportation line:
+-
+Tube Material: EP SS316, 1/4” OD
+160
+Mtr.
+Quoted
+Sample Handling System:
+SCS components shall be mounted inside common enclosure, wall mounted outside
+analyser House.
+SCS comprising of the following components:
+-
+Pressure indicator with isolation valve (Needle Valve)
+-
+Ball valve
+-
+Sample flowmeter with low flow switch
+-
+Non return valve
+-
+Power JB, SS316
+1 No
+QUOTED
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+3.C
+Gas Chromatograph
+Tag no: 401-AT-0203, 401-AT-0601, 401-AT-0602
+Make: LDetek
+Model: Multidetek3
+Ingress Protection: IP65
+Operating Principle: Gas Chromatography
+Electrical Protection: Safe Area
+Measured Component(s): H2, N2, NH3, Ar
+Analog Signal: 4-20mA NON-HART / RS485
+Power Supply: 230 VAC, 50 Hz
+Mounting: Inside X-Purged encloser in Analyser Cabinet.
+O2 Measurement (1 No.)
+Make: Michell Instruments
+Model: GPR1800
+Electrical Protection: Zone 1 IIC T6
+Operating Principle: Electrochemical
+Range: O2: 0 – 5 ppm
+Analog Signal: 4-20mA NON-HART
+Power Supply: 230 VAC, 50 Hz
+Mounting: Inside Analyser Cabinet
+H2 Measurement (3 No.)
+Make: Michell Instruments
+Model: XTC601
+Electrical Protection: Zone 1 IIB+H2 T6
+Operating Principle: Thermal Conductivity
+Range: H2: 0 – 100%
+Analog Signal: 4-20mA NON-HART
+Power Supply: 24 VDC
+Mounting: Inside Analyser Cabinet
+Stream 1: 401-AT-0203,
+Upstream Operating Pressure (Maximum): 26 Barg
+Upstream Operating Temperature (Maximum): 80 Deg C
+Fluid Phase: Gas
+Stream 2: 401-AT-0601
+Upstream Operating Pressure (Maximum): 160 Barg
+Upstream Operating Temperature (Maximum): 120 Deg C
+Fluid Phase: Gas
+Stream 3: 401-AT-0602
+1 Set
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Upstream Operating Pressure (Maximum): 160 Barg
+Upstream Operating Temperature (Maximum): 110 Deg C
+Fluid Phase: Gas
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 300# RF matting flange with bolts & gaskets. (01 No.)
+-
+Connection 1.5" Flange 1500# RTJ matting flange with bolts & gaskets. (02
+Nos)
+’
+3 Nos.
+Quoted
+Sample Transportation line:
+-
+Tube Material: SS316, 1/4” OD – (160 Mtr. For each line)
+480
+Mtr.
+Quoted
+Primary Sample Handling System:
+PSCS components shall be mounted inside enclosure.
+PSCS comprising of the following components:
+-
+Ball valve 1⁄4’’ OD SS316 2way
+-
+Coarse filter 1⁄4’’ OD SS316
+-
+Pressure Regulator, Dual stage, 1/4"NPTF SS316
+Double compression type fittings shall be of SS316.
+3 Nos.
+Quoted
+Secondary Sample Handling System:
+SCS components shall be mounted inside common enclosure, wall mounted outside
+analyser House.
+SCS comprising of the following components:
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Fast-loop Filter
+-
+Fast-loop flowmeter
+-
+Sample flowmeter with low flow switch
+-
+Non return valve
+1 No.
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+-
+Pressure regulator
+-
+Pressure relief valve
+-
+Restriction orifice
+-
+Needle valve
+-
+Fine filter
+-
+With Stream Selector
+All wetted parts and Double compression type fittings shall be of SS316
+4
+Field Rack: Common for below analysers
+-
+Freestanding Rack Structure: MS, ISMC 100 C channel Painted
+-
+Rack Dimensions: 800mm W x 2000mm H approx.
+-
+Lifting Devices: Two (2) lifting eyes shall be attached to the upper cross
+channel at each end and shall be designed to lift the total weight of the rack
+with all equipment installed.
+-
+Canopy Material: CRCA.
+-
+Equipment/Mounting Plate: SS304
+-
+1x Signal JB, SS316, Exe
+-
+Includes Utility Headers.
+1 No.
+Quoted
+4.A to
+4.C
+Conductivity Analyser, pH & Dissolved O2 Analyser
+Tag no: 401-AT-1001
+Make: Forbes Marshall/Emerson/E&H
+Sensor Model Conductivity: FM8310 / 400
+Transmitter Model: Aqua2Trans / 1066-C-HT-73
+Measuring Principle: Amperometry
+Ingress Protection: IP66
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range Conductivity: 0.01 - 200 μS/CM
+Tag no: 401-AT-1002
+Make: Forbes Marshall/ Emerson/ E&H
+Sensor Model pH: FM1104 / 3900
+Transmitter Model: Aqua2Trans / 1066-P-HT-73
+Ingress Protection: IP66
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range pH: 0 – 14
+Tag no: 401-AT-1003
+Make: Forbes Marshall
+1 Set
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Sensor Model DO: Visitrace mA
+Transmitter Model: AquaDPI
+Ingress Protection: IP66
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range DO: 0~1000ppb
+Mounting: Common Field rack with Canopy
+Service: B.F.W. Conductivity
+Operating Pressure (Maximum): Customer to provide the details
+Operating Temperature (Maximum): Customer to provide the details
+Fluid Phase: Liquid
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 150# RF matting flange with bolts & gaskets.
+1 No.
+Quoted
+Sample Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+160
+Mtr.
+Quoted
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample Cooler
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+1 No.
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+5
+Conductivity Analyser
+Tag no: 401-AT-1301
+Make: Forbes Marshall/Emerson/E&H
+Sensor Model Conductivity: FM8310 / 400
+Transmitter Model: Aqua2Trans / 1066-C-HT-73
+Measuring Principle: Amperometry
+Ingress Protection: IP66
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range: 0 - 40 μS/cm
+Mounting: Filed rack with Canopy
+Service: Steam Condensate
+Operating Pressure (Maximum): To be provided by customer
+Operating Temperature (Maximum): To be provided by customer
+Fluid Phase: Liquid
+1 No.
+Quoted
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 150# RF matting flange with bolts & gaskets.
+’
+1 No.
+Quoted
+Sample Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+160
+Mtr.
+Quoted
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample Cooler
+1 No.
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+6
+Free Residual Chlorine Analyser
+Tag No: 407-AT-2501
+Make: Emerson / E&H
+Model: FRC Sensor and 1066 Transmitter
+Ingress Protection: IP65
+Measuring Principle: Amperometry
+Accuracy: Accuracy depends on the accuracy of the laboratory method used to
+calibrate the sensor.
+Response Time: Less Than 30 Seconds
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range: 0 - 1 MG/L
+Mounting: Filed common rack with Canopy
+Service: Raw Water
+Operating Pressure (Maximum): 4.4 Barg
+Operating Temperature (Maximum): 27 Deg C
+Fluid Phase: Liquid
+1 No.
+Quoted
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 150# RF matting flange with bolts & gaskets.
+1 No.
+Quoted
+Sample Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+50
+Mtr.
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+1 No.
+Quoted
+7
+Field Rack: Common for below analysers
+-
+Freestanding Rack Structure: MS, ISMC 100 C channel Painted
+-
+Rack Dimensions: 1200mm W x 2000mm H approx.
+-
+Lifting Devices: Two (2) lifting eyes shall be attached to the upper cross
+channel at each end and shall be designed to lift the total weight of the rack
+with all equipment installed.
+-
+Canopy Material: CRCA.
+-
+Equipment/Mounting Plate: SS304
+-
+1x Signal JB, SS316, Exe
+-
+Includes Utility Headers.
+1 No.
+Quoted
+7.A to
+7.C
+pH, TSS & Conductivity Analyser
+Tag no: 400-AT-5901
+Make: Forbes Marshall/ Emerson/ E&H
+Sensor Model pH: FM1104 / 3900
+Transmitter Model: Aqua2Trans / 1066-P-HT-73
+Ingress Protection: IP66
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range: 0 – 14
+Tag no: 400-AT-5902
+Make: Forbes Marshall
+Sensor Model: FM TSS
+Transmitter Model: Aqua2Trans
+Ingress Protection: IP68
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 12 VDC loop powered
+Range: 0 - 950 MG/L
+1 Set
+Quoted
+Sr.
+No.
+Description
+Qty
+Total
+Price
+(INR)
+Tag no: 400-AT-5903
+Make: Forbes Marshall/Emerson/E&H
+Sensor Model Conductivity: FM8310 / 400
+Transmitter Model: Aqua2Trans / 1066-C-HT-73
+Ingress Protection: IP66
+Electrical Protection: Ex-ia
+Analog Signal: 4-20mA HART
+Power Supply: 24VDC loop powered
+Range: 0 - 850 μS/CM
+Mounting: Filed common rack with Canopy
+Service: Waste water
+Operating Pressure (Maximum): 3.8 Barg
+Operating Temperature (Maximum): 27 Deg C
+Fluid Phase: Liquid
+Sample Probe:
+-
+Fixed type sample probe shall be of welding construction.
+-
+With Isolation valve
+-
+MOC: SS316
+-
+Connection 1.5" Flange 150# RF matting flange with bolts & gaskets.
+1 No.
+Quoted
+Sample Transportation line:
+-
+Tube Material: SS316, 1/2” OD
+50
+Mtr.
+Quoted
+Sample conditioning system
+SCS components shall be mounted on Analyser Field rack assembly
+-
+Ball valve
+-
+Pressure Gauge with needle valve.
+-
+Strainer
+-
+Needle Valve
+-
+Sample flowmeter with low flow switch
+-
+Temperature gauge
+All wetted parts and Double compression type fittings shall be of SS316.
+1 No.
+Quoted
+1. Ref Schematic drawing for Liquid analyzer (pH, Conductivity, Dissolved O2 & FRC):
+Section 5: Responsibility Matrix
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of analyzer as per offer/BOQ.
+Yes
+2
+Analyser House with Redundant HVAC
+Yes
+3
+Field Analyser Rack
+Yes
+4
+Sample Tapping Nozzle Flange
+Yes
+5
+Process Isolation Valve at tapping point
+Yes
+6
+Sample Probe with flanges gaskets and nut bolts.
+Yes
+7
+Sample Transportation Line ( Bare SS316 tube)
+Yes
+8
+Sample Transportation Line ( Special tubes like EHT, EP, Sulfinert, etc)
+Yes
+9
+Sample Return Line
+Yes
+10
+Isolation Valve at process return point
+Yes
+11
+Supply of Calibration Cylinders with accessories
+Yes
+12
+Supply of Carrier Gas cylinders
+Yes
+13
+Auto change over regulator with Accessories
+Yes
+14
+Network Components
+-
+Yes
+15
+Signal JBs & PDPs with required TBs & MCBS and other Accessories
+Yes
+16
+Intermediate JBs
+Yes
+17
+Sample Conditioning System
+Yes
+18
+Supply of startup and commissioning spares
+Yes
+19
+Supply of Mandatory spares
+Yes
+20
+Consumables spares
+Yes
+21
+Inspection & Testing
+Yes
+22
+Project Management & Project Documentation
+Yes
+23
+Factory Acceptance Test at Adage Works
+Yes
+24
+8 Hours Repeatability Test reports- Optional
+25
+Packing forwarding
+Yes
+26
+Freight up to site including Insurance
+Yes
+27
+Storage of supplied system at site
+Yes
+28
+Civil foundation as required
+Yes
+29
+Mobilization of supplied system from Stores to location.
+Yes
+30
+Installation of supplied system at site
+Yes
+31
+Supply of Standard Field Cables including signal, power & FO.
+Yes
+32
+Field supporting structure for cables, transportation tubes etc.
+Yes
+33
+Laying of Power cable, signal cable, Sample line and Airline etc at site
+Yes
+34
+laying of Trays (Power, Signal, Sample line, Air etc)
+Yes
+35
+Provision of dry instrument Air
+Yes
+36
+Provision of Plant Nitrogen
+Yes
+37
+Provision of Power (UPS and NON-UPS) at one location near Battery limit.
+Yes
+38
+Supervision of Installation and Commissioning
+-
+39
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+40
+Site Acceptance Test & Handover
+Yes
+41
+Refilling of Calibration Cylinders
+Yes
+42
+Refilling of Carrier Gas cylinders
+Yes
+SECTION 6: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2 % of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 12 months from the date PO receipt.
+Offer validity
+End July 2026

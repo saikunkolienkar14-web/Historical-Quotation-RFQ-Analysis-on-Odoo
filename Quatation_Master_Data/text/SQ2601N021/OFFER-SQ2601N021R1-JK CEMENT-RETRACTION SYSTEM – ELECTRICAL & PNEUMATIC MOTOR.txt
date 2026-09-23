@@ -1,0 +1,398 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+TO, 
+
+JK CEMENT WORKS, MANGROL 
+MANGROL, RAJASTHAN 312620 
+INDIA 
+
+SUBJECT 
+ 
+: TECHNICAL QUOTATION FOR RETRACTION 
+ ASSEMBLY 
+ 
+REFERENCE 
+ 
+: EMAIL DATED: 30.01.2026 
+ 
+KIND ATTENTION 
+: MR. SOMESH GAUR 
+
+ 
+Dear Sir, 
+ 
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If 
+you have any questions or require additional information, please feel free to contact us. 
+
+TABLE OF CONTENTS: - 
+
+SECTION 1: SUMMARY OF PRICES 
+ 
+SECTION 2: NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM 
+ 
+SECTION 3: COMMERCIAL CONDITIONS 
+ 
+SECTION 4: BILL OF MATERIALS 
+
+ 
+
+Our Quotation No. SQ2601N021R1 
+Dated: 04.02.2026 
+ 
+Contact persons : 
+ 
+Mr. Samaresh Dey 
+Email: samaresh@adage-automation.com 
+Mob: +91 9769012864 
+(Adage-Goa-HO) 
+ 
+Mr. Kasif Ali 
+Email: kasif@adage-automation.com 
+Mob: +91 9460055601 
+(Adage-Regional) 
+
+Mr. Zafar Ali 
+Email: zafar@adage-automation.com 
+Mob: +91 7856077462 
+(Adage-Goa-HO) 
+TECHNICAL QUOTATION 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 1: SUMMARY OF SUPPLY & SERVICE 
+SR. 
+NO. 
+DESCRIPTION 
+PART NO. 
+QTY 
+UNIT PRICE 
+[INR] 
+TOTAL PRICE 
+[INR] 
+1 
+RETRACTION SYSTEM WITH HEAT 
+EXCHANGER 
+• With redundant retraction system – 
+Electrical & Pneumatic motor. 
+48815001- Retraction Assembly for 
+3000 mm Kiln Inlet Probe with Electric 
+and Pneumatic Motor, Air Blasting 
+arrangement. 
+• With special alloy high temp new design 
+straight tube probe with auto purging 
+for probe cleaning 
+• With IGUS chain arrangement 
+• With Heat Exchanger Assembly 
+• 48802002- Scavenging Panel Assembly 
+• 48427005- Probe conditioning unit 
+48926001- Heated Air Tank Assembly 
+• 18901019-SO2 Removal Assembly 
+Scrubber-200 mm, MOC: Glass / PTFE 
+• With PLC, HMI & Programming 
+(Make: Siemens, Model: S71200) 
+• With Condensate Monitor 
+• Notes: 
+All coolers, pumps, ball valves, acid filter, 
+condensate monitor, Needle valve, 
+Analyser, cylinders, panel etc. shall be in 
+customer’s scope. Please refer to scheme 
+for scope demarcation. Supply shall be 
+strictly as per BOM and scheme. 
+• Separate SS Filter shall be provided 
+18815003 
+1 
+25,75,000.00 
+25,75,000.00 
+2 
+MODIFICATION AT SITE 
+(Boarding – Lodging – Local Conveyance, to 
+Be Arranged by Customer) 
+- 
+1 
+80,000.00 
+80,000.00 
+ 
+Relevant Project References 
+➢ ACC Limited, Jamul 
+➢ My Home Cement Industries Limited 
+➢ Dalmia Cement (Bharat) Limited, Kadapa 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 2- NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM 
+• 
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope. 
+• 
+Instrument Air / Nitrogen {Free from Water Droplets or Moisture} 4 to 6 bar 
+• 
+Power Supply Utilities required are: 
+• 
+Power Supply: 230 VAC, 50 Hz (Non-UPS) 
+ 
+Our Scope of Supply and Work Includes: 
+ 
+• 
+Design, Engineering and Supply of complete Data Connectivity as per Summary of Prices 
+• 
+Supervision of Installation and Commissioning of the complete System 
+• 
+Project Management and Project Documentation 
+ 
+Our Scope of Supply Does Not Include: 
+ 
+• 
+All Erection and Installation Activity. 
+• 
+Any kind of Civil Work or Mechanical Work. 
+• 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+• 
+Loop checking for analog & digital signals. (Adage shall provide assistance) 
+• 
+Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal / serial 
+communication cables etc. 
+• 
+Laying of trays/structural and support for field tubing. 
+• 
+Welding of flanges or mounting of purge air unit and instrument on the stack/duct. 
+• 
+All utilities as mentioned above. 
+• 
+M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 3: COMMERCIAL TERMS AND CONDITIONS 
+ 
+Price Basis 
+Ex works, Goa 
+Packing Charges 
+Extra @3% on basic order value 
+GST 
+Extra as applicable at the time of delivery. Presently 18% 
+HSN/SAC Code 
+90330000 
+Freight Charges 
+Customer A/c 
+Insurances 
+Customer A/c 
+Delivery 
+Within 20 weeks from the date of receipt of PO. 
+Offer validity 
+30 Days 
+Payment Terms 
+100% payment against proforma invoice 
+
+Yours faithfully, 
+ 
+For Adage Automation Pvt. Limited 
+
+Samaresh Dey 
+ 
+Zafar Ali 
+samaresh@adage-automation.com 
+ 
+zafar@adage-automation.com 
++91 9769012864 
+ 
++91 7856077462 
+ADAGE- GOA 
+ 
+ADAGE- GOA 
+
+ 
+
+ 
+
+ 
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+SECTION 4: BILL OF MATERIALS (KILN INLET SYSTEM) 
+SL NO 
+DESCRIPTION 
+LEGEND 
+QTY 
+PROBE RETRACTION UNIT (PRU) 
+
+ 
+1 
+CLOSED LOOP WATER COOLED PROBE – KAS PROBE 
+PROBE LENGTH: 3000 mm 
+• 
+With probe head 
+• 
+With ring heater 
+• 
+With SS filter (imported) 
+• 
+With bushing tube, flanges & mounting accessories 
+• 
+Separate SS Filter shall be provided 
+
+ 
+KPRB 01 
+1 PC 
+PROBE CONDITIONING UNIT (PCU) 
+
+2 
+SCAVENGING PANEL 
+• 
+With Double stage cleaning of probe facility 
+• 
+With Solenoid valves, 
+• 
+Completely tubed, prefabricated & tested 
+• 
+Make: Rittal 
+
+SCV 01 
+1 PC 
+ 
+3 
+HEAT EXCHANGER 
+For maintaining the water temp of closed loop water system of KAS probe 
+ 
+HE 01 
+1 PC 
+
+4 
+WATER FILTER STATION 
+• 
+With superior imported filter assembly 
+• 
+With ball valve 
+• 
+With completely tubed, & brass fittings 
+
+WFS 01 
+1 PC 
+
+5 
+AIR FILTER STATION 
+• 
+Air filter regulator 
+• 
+With pressure switch 
+• 
+With completely tubed, & brass fittings 
+
+AFS 01 
+1PC 
+
+6 
+CLOSED LOOP WATER COOLING SYSTEM CONSISTING OF: 
+• 
+Recirculation cooling water pump (CP01) 
+• 
+Temp. Indicator with alarm contact (TI02) 
+• 
+Level switch with contact for water tank (HWL & LWL) 
+• 
+Flow switch (FS 01) 
+
+WS 01 
+1 SET 
+
+ 
+
+ 
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+ 
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PTC133206 
+ 
+GAS CONDITIONING UNIT (GCU) 
+7 
+ACID FILTER 
+AF01 
+1 PC 
+8 
+SO2 SCRUBBER 
+SO2S 
+1 PC 
+9 
+CONDENSATE MONITOR 
+Make: Adage 
+CM 
+1 PC 
+10 
+PLC 
+Make: Siemens, Model: S71200 
+PLC 
+1 PC 
+11 
+HMI 
+Make: Adage 
+HMI 
+1 PC

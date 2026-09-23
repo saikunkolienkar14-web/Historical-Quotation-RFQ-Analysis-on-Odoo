@@ -1,0 +1,629 @@
+www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+To, 
+Kind Attention: Mr.Qazi Saad Ud Din 
+Assistant Manager Services & Sales 
+Measurement & Analytics Infinious Automation Pvt. Ltd. 
+4th Floor, Plaza No. 113/1, Block-A Phase-VIII 
+Commercial Broadway, D.H.A, Lahore. 
+Phone: +92 42 37135029 
+Cell: +92 303 0018203 
+ 
+Subject: 
+Techno commercial quotation for 
+ 
+Reference: 
+Adage Kanoo AKAI- 
+
+ Project: 
+GC in Feed to Cold Combined Feed Exchanger 
+ 
+Dear Saad, 
+We thank you for your interest in Adage Kanoo Analytical Industry LLC Products and with reference to 
+the same please find enclosed our technical quotation for Analyser system & analyser house as per your 
+requirement. 
+Provision of complete hardware package (parallel 3 streams capacity each) for 3 FFC plants: 
+1. Makeup gas (Argon+ Oxygen, H2, N2, CH4) 
+2. Synthesis Reactor inlet (NH3, Argon+ Oxygen, H2, N2, CH4) 
+3. Synthesis Reactor outlet (NH3, Argon+ Oxygen, H2, N2, CH4) 
+ 
+For GM-01 
+New one will be installed in its place at the same location and Local cabinet not quoted by AKAI 
+For GM-02 
+New one will be installed in its place at the same location and Local cabinet not quoted by AKAI 
+For MM-01 
+New GC+ SCS and cabinet fitted with single AC shall be supplied by AKAI . This scope can be mutually 
+agree between IA and AKAI 
+ 
+Yours sincerely, 
+
+Ganesh Govindaraj 
+Email: govind@adage-kanoo.com 
+Mob: +971 58 5213703 
+(Head - Business unit & Sales) 
+
+ Our Quotation No: Q25AKA10020 
+Date:22.05.2025 
+ 
+Email: govind@adage-kanoo.com 
+ 
+Ms Megha Palan 
+Email: sales@adage-kanoo.com 
+Mob: +971 52 2885599 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+ 
+Sections 
+Section 1 
+General Notes and Clarifications 
+Section 2 
+Technical Literature 
+Section 3 
+Pricing Summary 
+Section 4 
+Exclusions 
+Section 5 
+Commercial Terms 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+ 
+Section 1: General Notes and Clarifications 
+
+1. Quoted prices are in US $. 
+2. Gas chromatographs proposed is Valmet make & Maxum II model. 
+3. Standard power and signal cables shall be in customer scope of supply. Single point power 
+supply shall be provided till Analyser cabinet further internal distribution shall be provided by 
+AKAI. 
+4. The proposed GC has Gas Group of II B+H2 instead of , IIC,T4 and ambient temperature 
+suitable for 50 degree C. The Enclosure protection shall be EExip instead of EExd 
+ 
+Below is the high-level scope 
+
+ 
+
+ 
+
+ 
+S/N 
+Plant 
+Stream 
+Probe 
+Precon 
+Sample 
+transport Line 
+SCS 
+Cabinet 
+Cylinder + 
+Regulators 
+1 
+GM -01 Gas Analysis 
+Make Up Gas 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Not Quoted 
+Not Quoted 
+2 
+Synthesis Reactor Inlet 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Not Quoted 
+Not Quoted 
+3 
+Synthesis Reactor 
+Outlet 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Not Quoted 
+Not Quoted 
+4 
+GM -02 Gas Analysis 
+Make Up Gas 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Not Quoted 
+Not Quoted 
+5 
+Synthesis Reactor Inlet 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Not Quoted 
+Not Quoted 
+6 
+Synthesis Reactor 
+Outlet 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Not Quoted 
+Not Quoted 
+7 
+MM -01 Gas Analysis 
+Make Up Gas 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+ Quoted 
+Not Quoted 
+8 
+Synthesis Reactor Inlet 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Quoted 
+Not Quoted 
+9 
+Synthesis Reactor 
+Outlet 
+Not Quoted 
+Yes 
+Not Quoted 
+Yes 
+Quoted 
+Not Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+Section 2: Technical Literature 
+
+Tag No. 
+Item Description 
+Qty. 
+Price (US$) 
+1. Gas Chromatograph 
+
+ 
+
+Gas Chromatograph 
+Make: Valmet 
+Model: MAXUM II 
+Mounting: Wall Mounting 
+ 
+Analyzer Output: 
+- 
+With 4-20 mA Analog output 
+- 
+With RS-485 MODBUS Serial Output 
+- 
+Potential free contacts for fault 
+
+Application Note 
+System Controller: 
+Included 
+Maxum Oven: 
+Single Isothermal Air Bath 
+Detector: 
+Thermal Conductivity (IS-TCD) 
+Electronic Pressure 
+Control Modules: 
+1 
+Sample Valve: 
+Valco Liquid Inject 
+ 
+Model 11 Liquid Inject 
+Column Valve: 
+Model 11 
+Human Machine 
+Interface: 
+Local Color Touch Screen 
+Network: 
+1x 100 Base FX 
+Ethernet Fiber Multimode 1300 nm 
+with ST connectors 
+3x Ethernet 10 / 100 Mb (twisted pair) 
+with RJ45 connectors 
+Modbus Output: 
+RS-485, TCP/IP or via NAU 
+Modbus Data Format: 
+32-bit IEEE Floating Point 
+Analog Outputs: 
+10 
+Analog Inputs: 
+8 
+Digital Outputs: 
+4 ( 1 DO(s) reserved for System 
+Fault) 
+Digital Inputs: 
+6 
+Analog and Digital I/O 
+Boards: 
+I2C 8 AO's, 8 AI's, 2 DI's 
+Stream Switching: 
+Pneumatically via Solenoid Valve 
+Control Module(s) 
+Siemens Smart I2C 
+Internal (I.S.) Power Supply Div 
+1 No’s 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+Sample System 
+Interface Bus: 
+1/Zone 1 
+Stainless Steel Tag: 
+Included 
+Other Tubing and 
+Valves: 
+Stainless Steel 
+IP Rating: 
+IP54, Category 2. 
+ 
+Analytical Configuration 
+Number of Streams: 
+1 
+Validation: 
+Automatic (with calibration standard) 
+Estimated Cycle Time: 
+8 Minutes/Stream 
+Repeatability Test: 
+8 Hours 
+ 
+Analyzer Certification 
+Area Classification: 
+CSA C/US - Class I, Division 2, 
+Groups B, C & D 
+Class I, Zone 2, Group IIB+H2, T3 
+(200°C) 
+ 
+Utility Requirements 
+Carrier: 
+Hydrogen (99.999%) 
+System Power: 
+100-130 V, 47-63 Hz 
+Total Power: 
+770 VA on one circuit 
+Instrument Air: 
+5 SCF/min (140 L/min) at 60 psig (4.2 
+Kg/cm2) 
+Valve Actuation Gas: 
+80 psig (5.6 kg/cm2) < 1 cc/min. 
+(Must be non-flammable) 
+ 
+Sample Inlet Conditions 
+Physical State: 
+Liquid 
+Temperature: 
+50 - 250 °F (10 - 121°C) 
+Pressure: 
+25-300 psig (1.7-21 kg/cm2) and > 
+the Bubble Point @ 100°C 
+Return Pressure: 
+As required to achieve sample flow. 
+At least 15 psi (1.05 kg/cm2) < Inlet 
+Pressure is recommended 
+Recommend Analyzer 
+Sample Flow: 
+20 cc/min 
+Recommend Filtration: 
+< 0.3 microns 
+ 
+Stream Number 
+1 
+Stream Tag 
+GC 1500-AT-0301 
+Stream name 
+Feed to Cold Combined Feed 
+Exchanger 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+Aggregate State Sample 
+Point 
+Liquid 
+Aggregate State Sample 
+Analyzer 
+Liquid 
+a 
+Pre Con 
+• 
+Pressure Regulator 
+• 
+Enclosure MOC: SS316 
+• 
+25 MM insulation 
+• 
+Viewing window 
+• 
+Power Isolator 
+ 
+1 No 
+Quoted 
+b 
+Sample Conditioning System 
+• 
+Consisting of accessories (e.g. Fast loop Filters, 
+Pressure regulators, Valves, gauges, relief valve 
+etc.) as required for analyser, With Provision for lab 
+sampling Primary and secondary sampling system 
+components shall be mounted inside SS316 
+enclosure, 2mm thick 
+
+This is typical photo 
+
+c 
+Field Cabinet 
+• 
+MOC: SS316 
+• 
+Singel wall construction 1.2 mm thickness 
+• 
+25 MM insulation 
+1 No 
+Quoted 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+• 
+One light inside cabinet 
+• 
+One light out side cabinet 
+• 
+with sunshade 
+• 
+with safety glass window 
+• 
+For mounting of above analyser and sample 
+conditioning system 
+• 
+With Power & Signal JBs. 
+• 
+One No of NH3 ,Oxygen and H2 Detector 
+• 
+ With LED Lamp on outside of cabinet for gas 
+Alarm indication. Hooter/sound-based alarm with 
+• 
+LED lamp for gas alarm detection included. 
+• 
+With Utility header assembly. 
+• 
+With Ex-proof air conditioner x 1No 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+
+FAT at AKAI UAE facility 
+Only functional test- No Calibration 
+1 day 
+Quoted 
+2. Drawing and Documentation 
+ 
+Drawing and Documentation 
+1 Lot 
+Quoted 
+3. Site Service 
+ 
+Site Service shall be as per Perdiem rate for 
+below activity 
+• 
+Supervision of Installation of Analyzer, 
+Analyzer Cabinet, Pre-Commissioning, 
+• 
+Commissioning, 
+• 
+SAT (Site Acceptance Test) 
+
+Shall 
+be 
+advised 
+later 
+Not 
+Quoted 
+
+ 
+
+ 
+
+ 
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+
+ 
+
+Section 3: Pricing Summary 
+ 
+Sl. No. 
+Item Description 
+Qty. 
+Total Price 
+(USD) 
+1 
+Maxum GC VALMET make 
+03 Nos 
+ 
+1.a 
+Sample Probe with Pre Con 
+09 Nos 
+Included 
+1.b 
+Sample Conditioning System 
+09 Nos 
+Included 
+1.c 
+Field Cabinet 
+01 No 
+Included 
+2 
+FAT at AKAI UAE facility 
+Inspection, Testing & Certification 
+01 Day 
+Included 
+3 
+Drawing and Documentation 
+01 Lot 
+Included 
+
+ 
+Total Price in USD (Ex Works AKAI UAE ) 
+
+ 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+Section 4: Exclusions 
+ 
+Following exclusions are not quoted and to be taken care by customer. 
+ 
+1. Calibration gas cylinders, carrier gas cylinders, standard calibration solutions and 
+reagents etc. 
+2. All field standard bare tubes including sample transportation, instrument air etc. 
+3. All field power, signal cables with cable trays and supports. 
+4. Field Cable trays and supports for heat tracer lines. 
+5. Process isolation tapping flange with process isolation valve. 
+6. Supply & laying of signal cable between analyser house/cabinet/rack junction box to 
+control room to be taken care by customer. 
+7. Factory Acceptance test (FAT) at OEM works of Analyzer. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+U it d A
+b E
+i
+t
+Section 5: Commercial Terms 
+Prices Quoted 
+Net price in USD, Excluding VAT/Withholding tax. 
+Packing 
+Included 
+Delivery 
+8 Months from date of Data sheet approval. 
+Delivery basis 
+Ex-works AKAI Kezad- UAE 
+Warranty 
+18 months from the date of delivery or 12 months from commissioning 
+whichever is earlier. 
+Offer Validity 
+30 Days 
+Payment Terms 
+To be discussed and agreed

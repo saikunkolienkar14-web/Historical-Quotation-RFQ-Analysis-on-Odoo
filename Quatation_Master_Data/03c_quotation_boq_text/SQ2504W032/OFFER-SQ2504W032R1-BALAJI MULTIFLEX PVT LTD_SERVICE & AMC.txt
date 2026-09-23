@@ -1,0 +1,77 @@
+Quotation Number: SQ2504W032R1
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+SL NO
+ITEM DESCRIPTION
+UNIT PRICE [INR]
+QTY
+UOM
+TOTAL RATE [INR]
+1
+SERVICE ENGINEER DEPUTATION
+CHARGES PER MAN-DAYS
+38,000.00
+2
+DAYS
+76,000.00
+SPECIAL NOTE:
+1.
+Any Operational/Critical Spares parts/ Consumable Spares found faulty in the sample handling system shall
+not be in M/s Adage Scope.
+2.
+Working time shall be as per industrial norms i.e., 8 hrs. per day.
+3.
+Above quoted price is for single visit considering 2-man days. Extra man days if consumed shall be charged
+accordingly.
+4.
+Lodging & boarding and Local Conveyance shall be in customer scope or to be claimed at actual.
+5.
+To and Fro shall be in customer scope or to be claimed at actual.
+6.
+Supporting manpower required for lifting/shifting of material, housekeeping and other mechanical & electrical
+work shall be in customer scope.
+7.
+During the visit, the Quarantine Period (if any) of the Engineer shall be considered in total man hours of the visit
+and shall be chargeable as per Quoted price for per man day charges. COVID test (if any) charges shall be in
+customer scope.
+PART B: SUMMARY OF PRICES FOR AMC
+SL NO
+ITEM DESCRIPTION
+UNIT PRICE
+[INR]
+QTY
+UOM
+TOTAL RATE
+[INR]
+1
+AMC Charges for fidamat-6
+Price shall be considered below:
+1. Quarterly preventive maintenance visits each visit
+considering 2 days.
+2. 2 Nos. Emergency visit.
+3. Backup support from Adage Automation.
+1,05,000.00
+4
+Qtr.
+4,20,000.00
+SPECIAL NOTE:
+1.
+Any Operational/Critical Spares parts/ Consumable Spares found faulty in the sample handling system shall
+not be in M/s Adage Scope.
+2.
+Working time shall be as per industrial norms i.e., 8 hrs. per day.
+3.
+Lodging & boarding and Local Conveyance shall be in customer scope or to be claimed at actual.
+4.
+Kindly note that the room provided to our engineers should be exclusive and is not to be shared by engineers
+from other agencies.
+5.
+To and Fro shall be in customer scope or to be claimed at actual.
+6.
+Supporting manpower required for lifting/shifting of material, housekeeping and other mechanical & electrical
+work shall be in customer scope.
+7.
+During the visit, the Quarantine Period (if any) of the Engineer shall be considered in total man hours of the visit
+and shall be chargeable as per Quoted price for per man day charges. COVID test (if any) charges shall be in
+customer scope.

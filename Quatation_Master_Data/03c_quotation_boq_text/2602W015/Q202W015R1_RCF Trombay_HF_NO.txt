@@ -1,0 +1,60 @@
+Quotation Number: Q202W015R1
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total
+Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR SUPHALA REACTION FUME
+STACK
+Application: SUPHALA REACTION FUME STACK
+Make: Airoptics/Siemens
+Model: Gaseye/SITRANS TDL
+Component to be measured: HF & NO
+Principle: TDLAS
+Area Classification: Safe
+Mounting Location: In-situ
+Process Conditions at Sample Inlet
+•
+Temperature (Normal/Design): 70/90 Deg C
+•
+Pressure: 0.1/0.25 kg/cm2g
+Measuring Ranges:
+•
+HF: 0-100 ppm
+•
+NO: 0-1000 ppm
+With Sample handling system consisting of:
+•
+Purge Plate consisting of necessary valves, AFRs, tubing etc
+Analyzer output:
+•
+With Individual Analog 4-20 mA outputs
+•
+Digital Outputs
+Notes:
+•
+Plant Nitrogen/Instrument air @ 4-6 bar near field rack/panel
+(For Detailed Specification Kindly Refer to Attached P&ID & BOM)
+1 No
+QUOTED
+QUOTED
+2
+INSTALLATION & COMMISSIONING OF COMPLETE IN-SITU TYPE
+NO & HF ANALYZER ALONG WITH ITS ACCESSORIES
+FOLLOWED BY SITE ACCEPTANCE TEST (SAT) AT SUPHALA
+PLANT
+LUMPSUM
+QUOTED
+QUOTED
+3
+CAMC FOR 3 YEARS
+Regular Quarterly Visit- 4 times/year
+Emergency Visit- 2 visits/years
+LUMPSUM
+QUOTED
+QUOTED

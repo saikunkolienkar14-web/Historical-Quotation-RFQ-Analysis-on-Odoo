@@ -1,0 +1,117 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total
+Price(INR)
+1
+Gas chromatograph (AT-4001/AT-4111)
+1 No
+84,00,000/
+1.1
+SS sintered Inline filter, Make : Swagelok
+2 Nos.
+2
+Project Engineering & Documentation
+1 Lot
+3
+Integrated FAT at Adage Goa works
+1 Lot
+4
+Commissioning spares
+-
+Filter element
+-
+Set of O-ring.
+-
+Set of Oring
+1 Lot
+5
+2 years O&M spares as per below list.
+Power Supply Module
+1
+Solenoid valve (SMC) for control unit (SVCM)
+1
+Valve, Model 50, repair kit
+1
+TCD detector
+1
+Fuel restrictor
+1
+Combustion air restrictor
+1
+DPM Board
+1
+1 Lot
+18,00,000/-
+6
+Lumpsum charges for supervision of installation & commissioning.
+Lumpsum
+3,00,000/-
+7
+P&F and Transportation upto Site
+Lumpsum
+1,20,000/-
+OPTIONAL PRICES AND TO BE ADDED AS APPLICABLE
+1
+Calibration cylinders with doubble stage regulators and inlet outlet
+gauges
+Cylinder Make: Inox/Air gas USA
+2 Nos
+6,00,000/-
+Regulator make: GO
+2
+Communication Hardware as below
+a) Near Analyser house
+-
+Power supply module with diode O ring x 2 No
+-
+8 Port Ethernet to FO converter x 2 No
+-
+LIU box - 1 No
+-
+Patch cords x 5 meter - As required
+-
+CRCA enclosure with X Purge zone 1 certified unit (P&F
+make)
+This enclosure will house all above hardware suitable for
+Zone 1. This will be fully wired and will be mounted inside
+existing analyser house.
+b) Near control room side
+-
+FO to ethernet converter x 2 No
+-
+LIU box - 1 No
+-
+Patch cords x 5 meter - As required
+-
+Ethernet cable x 50 meters
+Mounted inside CRCA enclosure
+1 Lot
+12,00,000/-
+3
+Glass tube rotameter with Switch,Make:Krohne (Optionally Quoted)
+2 Nos
+1,00,000/-
+4
+Remote FAT charges at OEM works
+1 Day
+1,50,000/-
+SECTION 2: COMMERCIAL TERMS
+Price Basis
+FOR Site basis
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 10 months from date of commercial clear PO
+Offer validity
+90 Days

@@ -1,0 +1,197 @@
+Quotation Number: Q2504G009
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF SOX,NOX & CO
+CO/NO Analyser
+Make: Siemens
+Model : Ultramat 6F
+Measuring range - CO : 0-100 Mg/nm3
+NO : 0-250 Mg/nm3
+SO2 Analyser
+Make: Siemens
+Model : Ultramat 6F
+Measuring range – SO2 : 0-50 Mg/nm3
+Hazardous area classification: Zone 2 ,Gr IIA IIB , T3
+Mounting location : Inside Shelter
+Analyser Output
+-
+4-20Ma Analog output for each measuring component i.e
+SO2,NO & CO
+-
+RS485 Modbus serial output
+-
+Digital contacts for fault alarms
+3 SETS
+1,05,00,000
+3,15,00,000
+2
+Common Sample Probe (SO2,NO,CO) :
+-
+Heated probe assembly, MOC: SS 316, 4’’ 150#
+-
+Probe inclination angle shall be 15 Degree
+-
+With Ceramic Filter
+-
+With Bushing Tube, Flanges & Mounting Accessories
+3 SETS
+3
+Blowback unit
+-
+With Auto Cleaning of Probe Facility
+-
+With Solenoid Valve
+-
+Completely Tubed, Pre-Fabricated & Tested
+-
+Shall be mounted inside closed SS316 enclosure
+3 SETS
+4
+Common SHS
+Shall consists of Ball valves, Sample gas cooler with peristatic pump
+assembly, Sample gas pump, SOV’s, condensate monitor,
+Flowmeter, Nox converter etc
+3 SETS
+5
+Calibration cylinders along with cylinder rack:
+-
+Shall be supplied for 6 months operation from the date of
+commissioning, further refilling shall be taken care by
+customer
+-
+With individual 10L Span gas cylinder for SO2,NO,CO
+-
+With 10L N2 zero gas cylinder
+-
+Along with Accessories as per RPMS requirement
+Tubbing from cylinders to Analysers shall be provided by Adage
+NOTE: COMMON CYLINDERS SHALL BE USED
+1 SET
+INCLUSIVE
+INCLUSIVE
+6
+Common Sample Transportation tube(SO2, NO, CO):
+-
+1⁄2” PTFE HTT Tube, Qty : 150 meters for each stack
+-
+HTT @120 Deg C
+With all necessary accessories and JB’S
+450
+Meters
+@4600 PER METER
+7
+Make: ADAGE
+Area Classification: Zone 2 ,Gr IIA IIB , T3 (Inside & Outside)
+-
+Dimensions- 4 Mtr X 3 Mtr X 3 Mtr
+-
+Design-Ribbed interlock
+-
+MOC- SS316
+-
+2 mm Thick Internal Wall & 2 mm Thick Outer Wall.
+-
+100 mm Insulation of Mineral Wool
+-
+Overhang Roof Canopy-1 Meter in all four sides, MOC:
+Epoxy Coated SS316, 2 mm thick.
+-
+Base frame: ISMC 150
+-
+Panic Bar Installed on Each Door.
+-
+Floor: Anti-Slip and Non-Corrosive Aluminum Chequered
+Plate.
+-
+Doors: Main Door and Emergency Door with Safety Glass
+Window
+-
+Lifting lugs x 6 Nos
+-
+Switch sockets x 2Nos
+-
+C Rail for mounting equipment’s inside and outside of the
+shelter
+-
+Cable Entry to Shelter: Through MCT Block
+-
+Tube Entry to Shelter: Gromet/ bulkhead plate
+-
+FRP Cable Trays
+-
+Portable CO2 Fire extinguisher
+Electrical Specifications:
+Junction Box, Power Distribution Box & Warning Panels, Exd LM6
+Shelter Safeguarding PLC Mounted Inside CRCA Purged Enclosure.
+1 SET
+1,25,00,000
+1,25,00,000
+8
+SPM Analyser
+Make: Durag
+Model : Dr 320 Ex l
+Hazardous area classification: Zone 1, Gr IIA IIB, T3
+Mounting location: Mounted directly on stack
+Principle: Back scattering
+IP Rating: IP65 rated
+With Exd Termination JB
+Wetted part MOC shall SS316 with 4’’ FF flange
+Measuring range :
+-
+0-50 Mg/Nm3
+Analyser Output
+-
+4-20Ma Analog output
+-
+RS485 Modbus serial output
+Digital contacts for fault alarms
+1 SET
+24,00,000
+24,00,000
+9
+Network components at Cabinet side
+Network hardware at cabinet side
+-
+RS 485 to ethernet converter
+-
+4-20Ma to RS 485 converter for Auxillary parameters (TT)
+-
+Ethernet to FO Converter (Ethernet cable as required)
+-
+FO Patch panel, patch cords
+-
+Shall be mounted inside Exd JB at cabinet side.
+Supply of Armoured FO Cables by Customer
+1 LOT
+35,00,000
+35,00,000
+10
+DATA ACQUISITION SYSTEM ALONG WITH DATALOGGER FOR CEMS
+The DAS PC Shall have following Specifications and shall be mounted
+inside Control Room
+- i5, 2Ghz CPU or higher with at least 4GB RAM
+- memory capacity
+- 4 Hard Drives: 1 TB or greater.
+- DVD Drive.
+- Color Flat Panel Monitor, 21” Widescreen LCD.
+- Ethernet connectivity to plant control network
+- Colour Printer (A4 color)
+Note: The Operating System shall be Raid 5 Server Based.
+With Software for connectivity to CPCB/SPCB server.
+1 SET
+5,50,000
+5,50,000
+11
+Supervision of installation & commissioning
+Lodging And Boarding To Be Arranged By The Customer. To And Fro
+Charges To Be Claimed At Actuals (Acii Tier/Flight
+@45,000 PER MANDAY

@@ -1,0 +1,298 @@
+Quotation Number: Q24S10070R1
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE (INR)
+A
+Supply of SITRANS ASM IQ system.
+physical property analysers (5Nos),
+CEMS (5Nos)
+Steam & Water Analysis Analysers (17Nos).
+Total number of analysers considered for ASM 27 Nos.
+And additional 23 Nos Analysers for future integration.
+Note: Additional tags can be added with additional cost on
+request.
+1 Set
+₹ 86,71,280.40
+1
+SITRANS ASM IQ Software and License
+•
+ASM IQ License
+•
+ASM IQ Software
+1
+Inclusive
+2
+SITRANS ASM IQ Hardware
+ASM IQ SERVER
+SIMATIC Process Control System IPC847E;
+SIMATIC Process Control System IPC847E; (Rack PC, 19, 4U),
+Interfaces: 3x Gbit LAN (RJ45), 1x DVI-D, 2x Display Port; 1x
+COM, Audio; 4x USB3.1 Gen2 (Type A); 2x USB3.1 (Type C)
+backside; 2x USB3.1 (Type A) frontside; 1x USB3.1 (Type A)
+internal; Temperature and fan monitoring, Watchdog, card
+retainer; Core i7-8700 (6C/12T, 3.2 (4.6) GHz, 12 MB cache, TB,
+AMT) - PCS 7 OS server, engineering
+server, web server; RAID5, approx. 3.8 TB (3 x 1920 GB SSD 2.5
+SATA); drive support for installation internal, 0.5 g vibration, 5 g
+shock; 128 GB DDR4 SDRAM (4x 32 GB), Dual Channel; PCS 7
+V9.1 preinstalled; Windows Server 2019
+standard edition including 16 cores, 5 clients, 64-bit,
+MUI (en, de, fr, it, sp, zh), with restore USB flash drive; bus
+module 11 slots: 3x PCI, 1x PCIe x16 (8 L), 5x PCIe x16 (4 L), 2x
+PCIe x4 (4 L); 2x 100/240 V AC redundant Industrial power supply
+unit, without power supply cord;
+2
+Inclusive
+3
+SITRANS ASM IQ Cabinet accessories
+•
+SCALANCE XM408-8C; managed modular IE switch; 8x
+10/100/1000 Mbit/s RJ45; 8x 100/1000 Mbit/s SFP
+•
+PE400-8SFP Port Extender for SCALANCE XM-400
+managed modular IE switch; extension by 8x 100/1000
+Mbit/s SFP
+•
+For DCS connection, SCALANCE SC646-2C Industrial
+Security Appliance
+2 Set
+Inclusive
+4
+SITRANS ASM IQ Spare Parts
+Inclusive
+4.1
+SIMATIC IPC memory expansion memory module 32 GB (1x 32
+GB), DDR4 SDRAM, DIMM, for IPC647E, IPC847E, IPC547J
+4
+Inclusive
+Page 6 of 9
+Q24S10070R1
+4.2
+1920 GB SSD 2.5 SATA
+3
+Inclusive
+4.3
+SIMATIC IPC, spare part, plug-in module 1x 100/240 AC For
+redundant power supply Type: FSP350-60RGVHM For SIMATIC
+IPC647E, IPC847E
+2
+Inclusive
+5
+SITRANS ASM IQ Project Management, Engineering,
+Configuration and Documentation
+ASM IQ Engineering, Configuration efforts and documentation,
+Functional design system and project management.
+1
+Inclusive
+6
+Network Cabinet for mounting above server & server
+accessories.
+MOC: CRCA powder coated
+Dimensions: 2100 H x 1000 L x 800 W
+1 Lot
+Inclusive
+7
+SITRANS ASM IQ Cybersecurity
+1 Set
+Inclusive
+7.1
+Endpoint Security (ENS) is an antivirus software for servers
+2
+Inclusive
+7.2
+McAfee ENS client bundle - LTS OSD
+5
+Inclusive
+7.3
+Acronis Cyber Backup Advanced Server, License w/
+Maintenance and
+Premium Support for 1 Year
+2
+Inclusive
+7.4
+Cybersecurity Configuration & Documentation
+1
+Inclusive
+8
+SITRANS ASM IQ FAT
+FAT at Adage Goa Works (for 3-man days)
+Lump
+sum
+Inclusive
+9
+SITRANS ASM IQ Commissioning & SAT
+SAT & Commissioning at site (for 5-man days)
+Lump
+sum
+₹
+2,00,000.00
+10
+SITRANS ASM IQ Operator Training on site
+Operating and Administrator Training at site (for 1- man day)
+Lump
+sum
+Inclusive
+TOTAL
+₹ 88,71,280.40
+Page 7 of 9
+Q24S10070R1
+OPTIONAL QUOTE
+S.N.
+ITEM DESCRIPTION
+QTY.
+PRICE (INR)
+1
+Annual Maintenance Program
+ASM IQ Annual Maintenance Program (AMP) Subscription
+1
+₹ 21,45,000.00
+2
+LIMS Connection and configuration
+1
+₹ 6,76,230.50
+3
+OPC Configuration for 50 Nos Analyzer‘s
+1
+₹ 6,76,230.50
+4
+Workstations for MCB, UCB, ETP and Jetty control
+room
+SIMATIC Process Control System IPC647E; (Rack PC, 19, 2U),
+Interfaces: 3x Gbit LAN (RJ45), M.2 PCIe x4 1x DVI-D, 2x Display
+Port; 1x COM, Audio; 4x USB3.1 Gen2 (Type A); 2x USB3.1 (Type C)
+backside; 2x USB3.1 (Type A) frontside; 1x USB3.1 (Type A) internal;
+Temperature and fan monitoring, Watchdog, card retainer; Core i5-8500
+(6C/6T, 3.0 (4.1) GHz, 9 MB cache, TB, AMT) PCS 7 ES/OS Single
+Station, OS Client;1 TB HDD [Enterprise] 3.5 SATA; drive support for
+internal installation, 0.5 g vibration, 5 g shock; 16 GB DDR4 SDRAM (2x
+8 GB), Dual Channel; PCS 7 V9.1 pre-installed; Windows 10 Enterprise
+2019 LTSC, MUI (en, de, fr, it, sp, zh), 64-bit, without restore USB flash
+drive; bus module 4 slots: 2x PCI, 2x PCIe x16 (8 L); 100/240 V AC
+industrial power supply unit, power supply cord;
+4
+₹ 31,43,737.30
+5
+SITRANS ASM IQ Portable Workstation
+SIMATIC IPC MD-57A Laptop: 15,6" Display Full HD (1920x 1080);
+WiFi 6E Bluetooth V5.3 2x USB-C Gen 4; 3x USB-A Gen 3.2 x 2 1x
+USB-A Gen 2 2x RJ45 1GbE 1x HDMI 1.4b, Intel® CoreTM i5 -12600HE
+Processor (16 Threads, 18M Cache, up to 4.50 GHz) Graphic Card,
+16 GB DDR5 SDRAM SO-DIMM
+1
+₹ 8,94,318.70
+Page 8 of 9
+Q24S10070R1
+MAKE LIST
+SR
+NO
+ITEM DESCRIPTION
+MAKE
+Total
+Unit
+1
+Supply of SITRANS ASM IQ system.
+SIEMENS
+1
+Set
+2
+Programmable Device Server with 10 RS-485 Ports,
+2-Port Switch and LED Display
+ICP DAS
+3
+Nos.
+3
+AMADAS N/W SWITCH, 16 port
+Siemens
+2
+Nos.
+4
+KVM Switch- Transmitter / Receiver
+Emerson
+2
+Set.
+5
+Monitor PC, 24'' LED type with Keyboard (HP) & Mouse (HP)
+Dell
+1
+Set
+6
+AMADAS CABINET, 2100X1000X800mm with (Door switch, light, Exhaust fans)
+PYROTECH
+1
+No.
+7
+Power Supply Unit, 10A
+Phoenix
+2
+Nos.
+8
+Redundancy Module
+Phoenix
+2
+Nos.
+9
+Printer
+Canon
+1
+No.
+10
+MCB Single/ Dual Pole Rating
+Siemens
+5
+Nos.
+11
+4” EXHAUST FAN, 230VAC, 18W
+Rexnold
+2
+Nos.
+12
+Door Switch, 230VAC, Wattage – 0.25A
+Adage
+2
+Nos.
+13
+LED TUBELIGHT, 5W, 230VAC
+Pyrotech
+2
+Nos.
+14
+Filter for AMADAS Cabinet
+Adage
+2
+Nos.
+15
+Utility Socket with Switch
+Adage
+1
+No.
+16
+Fuse terminals
+Wago
+A/R
+Nos.
+17
+Extension board
+Philips / Eqv
+1
+No.
+Page 9 of 9
+Q24S10070R1
+SECTION-3: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex works, Goa
+Packing Charges
+2% of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis.
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from the date of P.O.
+Offer validity
+60 days.

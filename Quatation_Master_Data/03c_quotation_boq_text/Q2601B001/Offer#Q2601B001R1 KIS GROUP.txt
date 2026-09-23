@@ -1,0 +1,39 @@
+Quotation Number: Q2601B001R1
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+GAS CHROMATOGRAPH FOR NATURAL GAS APPLICATION
+Service: Natural Gas
+Make: MAG Process Gas Chromatograph
+Model: BACS
+Mounting Location: Extractive Type
+With Sample handling system Consisting of:
+• With Ball Valves, Filter, Pressure Regulator& other components as
+required.
+• With Calibration Blend and Carrier Gas Cylinders.
+OUTPUT:
+•
+2xRS-485 (Modbus RTU),
+•
+Ethernet (Modbus TCP).
+1 SET
+QUOTED
+QUOTED
+2
+SAMPLE TUBE FOR GAS TRANSPORTATION
+MOC: SS
+SIZE: 1⁄4’’
+CUSTOMER SCOPE
+3
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and fro
+charges to be claimed at actuals (ACII tier/flight)
+@QUOTED PER MANDAY

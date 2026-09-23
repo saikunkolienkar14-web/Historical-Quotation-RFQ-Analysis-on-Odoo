@@ -1,0 +1,301 @@
+Quotation Number: Q26G10226
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+Sulphur Analyzer
+Tag No: AI-33501
+Quoted
+Quoted
+1
+1
+Product Hydrogen (H2) Analyzer
+Tag No: AI-33801
+Quoted
+Quoted
+2
+1
+Site Supervision of Installation and Commissioning
+(Per Diem)
+Quoted
+Quoted
+3
+1
+Inspection and Testing
+Quoted
+Quoted
+4
+1
+Documentation
+Quoted
+Quoted
+5
+1
+Packing & Forwarding
+Quoted
+Quoted
+SECTION 3: TECHNICAL LITERATURE
+1
+Sulfur Analyzer:
+Tag No: AI-33501
+Service: Diesel Product to Storage
+Model: NSure
+Make: PAC
+Hazardous Area Classification: Zone 1 GR llC, T4, Exp
+Principle: UV Fluorescence
+Measuring Range: 0 – 10 ppmv
+Power Supply: 110 VAC, 50Hz
+Power Consumption: 1500 W
+Instrument Air Consumption: 4.7 SCFM @ 80-100 psig for purge
+Nitrogen (99.975%) required: 15 cc/min @ 50 psig for carrier
+No of stream: 1
+Analyzer ambient Temperature: 0 to 40 deg C
+Sample phase: Liquid
+Mounting location: Shall be mounted inside cabinet with non-
+redundant AC.
+Process Conditions at sample Inlet:
+Sample Take off:
+-
+Temperature (Operating): 42 °C
+-
+Pressure (Operating): 9.5 Kg/cm2
+Sample return:
+-
+Temperature (Operating): To be provided by customer
+-
+Pressure (Operating): To be provided by customer
+-
+Sample Return Location: To process through Sample recovery
+system.
+Analyzer Outputs:
+-
+4-20 mA Analog outputs.
+-
+Redundant RS485 MODBUS Serial Output
+-
+Digital Input/Outputs for Control, Alarm & Status.
+Utility Required:
+-
+110 VAC, 50Hz UPS Power supply, Power Consumption: 2000
+watts
+-
+Instrument Air @5-6 Kg/cm2 for pneumatic air, primary purge air
+and combustion air supply.
+1 No
+Quoted
+Sample Probe: As per UOP standard we shall provide double isolation
+gate valve.
+Note: Customer to confirm whether sample probe is required or not.
+1 No
+Quoted
+Sample Transportation Tube:
+-
+Sample line: 1⁄2” SS316 Sulfinert tube, Qty: Per meters
+Per mtr
+Quoted
+Sample Return Tube:
+-
+Sample Return line: 1⁄2” SS316 Sulfinert tube, Qty: Per meters
+Per mtr
+Quoted
+Secondary Sample Handling System:
+-
+Secondary SHS shall be as per Honeywell UOP licensor
+drawing.
+-
+With Secondary SHS Box MOC: SS316
+-
+Shall be mounted outside the cabinet.
+1 No
+Quoted
+Sample recovery system
+With redundant Pumps, MOC: SS316 with level Tx, Mounted on
+field skid with Canopy.
+1 No
+Quoted
+Analyzer for mounting Sulphur analyser
+-
+SS316 Cabinet with canopy.
+-
+With Non-Redundant AC, Make: Adage
+-
+With Junction Boxes.
+-
+With Power PDP’s
+-
+With Utility Headers
+1 No
+Quoted
+With required Calibration blend with double stage pressure
+regulator
+Carrier Gas Cylinders
+-
+With required Argon Carrier Gas cylinder with Double stage
+pressure regulator.
+-
+With Auto changeover unit.
+-
+O2 cylinder for combustion.
+Secondary Purge air
+-
+With required Inst Air/Zero gas cylinder with Cylinder pressure
+regulator
+Note:
+Calibration / Carrier gas cylinders are considered for FAT purposes.
+1 No
+Quoted
+2
+Hydrogen Analyser
+Tag No: AI-33801
+Service: Recycle Gas Compressor Discharge
+Make: H2scan
+Model: HyOptima 2730
+Hazardous Area Classification: Zone 1, llB+H2, T4, Exd
+Mounting Location: On Analyser Rack with Canopy
+Principle: Solid-state
+Measuring Range: Hydrogen: 75 - 85%
+Power Supply: 110 VAC, 50Hz
+Power Consumption: 15 W
+Analyzer ambient Temperature: -20 to 55 deg C
+Sample phase: Gas
+Return: To Low Pressure vent header
+Process Conditions at sample Inlet
+-
+Temperature (Operating): 67 °C
+-
+Pressure (Operating): 84.7 kg/cm2(g)
+Analyzer Outputs:
+1 No
+Quoted
+-
+4-20 mA Analog output.
+-
+RS-232 serial output
+-
+Digital programmable relays & Fault relay
+Utilities Required:
+-
+110 VAC 50Hz UPS Power Supply
+-
+Instrument air @5-6 Kg/cm2.
+Sample Probe: As per UOP standard we shall provide double isolation
+gate valve.
+Note: Customer to confirm whether sample probe is required or not.
+1 No
+Quoted
+Sample Line:
+-
+1/4’’ SS316 Tube, Qty: per meters
+Per mtr
+Quoted
+Primary Sample Handling System
+-
+Filters, Pressure regulator dual stage, Ball valve, SRV etc
+-
+PSHS components shall be mounted inside SS316 enclosure.
+1 No
+Quoted
+Sample Handling system
+-
+Shall consists of Ball valve, Pressure indicator, Fastloop filter,
+sample rotameter for bypass & supply, NRV, SRV, fine filter etc
+-
+SSHS components shall be mounted on a dedicated plate within
+the rack
+1 No
+Quoted
+Calibration cylinder
+-
+Individual 10L Calibration cylinder (Span - Hydrogen & Zero -
+Nitrogen) with double stage pressure regulator
+Note:
+Calibration / Carrier gas cylinders are considered for FAT purposes.
+1 No
+Quoted
+SECTION 4: RESPONSIBILITY MATRIX
+Sr.
+No.
+Description
+Scope
+Adage
+Customer
+1
+Design, engineering & supply of System as per offer/BOQ.
+Yes
+2
+Sample Tapping Nozzle Flange
+Yes
+3
+Process Isolation Valve at tapping point
+Yes
+4
+Isolation Valve at process return point
+Yes
+5
+S0upply of Mandatory spares
+-
+-
+6
+Inspection, Testing, Project Management & Project Documentation
+Yes
+7
+Factory Acceptance Test at Adage Works
+Yes
+8
+Packing forwarding
+Yes
+9
+Freight up to site including Insurance
+Yes
+10
+Storage of supplied system at site
+Yes
+11
+Civil foundation & installation at site including Cables, Field tubes with
+supporting structures.
+Yes
+12
+Provision of dry instrument Air, Plant N2 & power feeders near battery limit.
+Yes
+13
+4-20mA, RS485, TCP/IP from field/ AH to DCS
+Yes
+14
+Supervision of Commissioning SAT & Handover
+Yes
+15
+Refilling of Calibration Cylinders & Carrier Gas cylinders
+Yes
+16
+Supply of 2 years O&M spares
+-
+-
+17
+Training at Site- OPTIONAL
+-
+-
+18
+Training at Goa facility - OPTIONAL
+-
+-
+SECTION 5: COMMERCIAL TERMS & CONDITION
+Price Basis
+Ex-Works Goa
+Packing Charges
+Inclusive
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+90271000
+Freight Charges
+Inclusive
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from the date PO receipt.
+Offer validity
+3 Months

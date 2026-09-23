@@ -1,0 +1,71 @@
+Quotation Number: SQ2511H180
+BOQ Status: FOUND
+
+Date: 07-11-2025
+Ref: Q25260377-SQ2511H180
+PART A: SUMMARY OF PRICES WITH TECHNICAL DETAILS
+SR NO.
+PART NO
+DESCRIPTION
+QTY
+UNIT PRICE
+INR
+TOTAL PRICE
+INR
+78409008
+Solenoid Valve 2/2 Way 1/4" BSP (F)
+230 VAC, NC, MOC SS316
+2.00
+16,902.00
+33,804.00
+1
+Nos
+78309001
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.C. Purging, MOC Brass
+2.00
+13,110.00
+26,220.00
+2
+Nos
+2.00
+12,600.00
+25,200.00
+3
+Nos
+78309007
+Solenoid Valve 2/2 Way 1/2" BSP (F)
+230 VAC N.C. Pulsating, MOC Brass
+Nos
+28903011
+SS Filter for Kiln Probe length 250
+mm
+1.00
+28,981.00
+28,981.00
+5
+Nos
+28708055
+Sample Gas Pump 360 LPH 230 VAC
+1.00
+25,830.00
+25,830.00
+6
+Nos.
+2.00
+93,836.00
+187,672.00
+7
+Nos
+28602007
+O2 Sensor Ultramat 23-
+Electrochemical
+4
+1.00
+11,684.52
+11,684.52
+28903001
+Ceramic Filter, Dimension: 50-mm(OD)
+X 20-mm(ID) 135-mm (L)
+Date: 07-11-2025
+Ref: Q25260377-SQ2511H180

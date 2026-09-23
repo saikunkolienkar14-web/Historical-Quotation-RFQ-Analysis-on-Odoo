@@ -1,0 +1,39 @@
+Quotation Number: Q2511N146
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SL.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+DUST MONITORING ANALYSER
+MODEL: DR-290, MAKE: DURAG
+Principle: Opacity.
+Measuring Location: In-Situ, Non-Contact
+Self-Check: Automatic Zero and Span Check Led Light Source: No
+Readjustment Needed
+Measuring range: 0-4000 mg/m3
+Output Signals: 1 X 4-20 Ma (Analog Output)
+Relay Output (For Status Signal)
+Accessories Consists Of
+•
+D-R 290 Measuring Unit
+•
+D-R 290 Reflector
+•
+Mounting Bushing Tubes & Other Accessories
+UTILITY REQUIREMENT: PLANT N2/INSTRUMENT AIR AT
+4-6 KG/CM2 FOR PURGING IN CUSTOMER’S SCOPE
+2 SETS
+QUOTED
+QUOTED
+2
+SERVICE CHARGES FOR SUPERVISION OF INSTALLATION &
+COMMISSIONING
+Lodging and boarding to be arranged by the customer. To and
+fro charges to be claimed at actuals (ACII tier/flight).
+@QUOTED PER MAN DAY

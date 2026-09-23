@@ -1,0 +1,58 @@
+Quotation Number: Q25G10109T0
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1 No
+Gas Chromatograph
+Quoted
+Quoted
+3
+1 No
+Design Engineering & Project Documentation
+Quoted
+Quoted
+3
+1 No
+FAT at Adage Works
+Quoted
+Quoted
+4
+1 No
+Packing, Forwading & Transportation upto LTTS
+Quoted
+Quoted
+5
+Lumpsum Supervision of installation & commissioning
+Quoted
+Quoted
+TOTAL PACKAGE PRICE
+Quoted
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+REVISION HISTORY
+Revision
+Date
+Description
+Q25G10109T0
+12.10.2025
+Technical Offer
+CORPORATE HQ s REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 16 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+SECTION 2: TECHNICAL NOTES
+1. Hazardous area classification for GC and all other electrical equipment shall be ATEX II 2 G IIB
++ H2 T3
+2. All Field power and signal cable shall be in Customer’s scope
+3. Instrument air @5-7 Kg/cm2g shall be provided at existing analyser shelter.
+4. Existing PDB’s, JB’s (Analog signal JB, Digital signal JB, Digital signal JB), Headers shall be used
+at existing shelter.
+5. Serial output shall be terminated at existing communication JB at shelter end & further distribution
+upto DCS shall be used existing.
+6. Calibration blend with Cylinder pressure regulator & Carrier gas cylinders shall be in Customer’s

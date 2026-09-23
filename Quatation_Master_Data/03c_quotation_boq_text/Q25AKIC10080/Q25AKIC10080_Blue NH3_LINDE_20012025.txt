@@ -1,0 +1,2700 @@
+Quotation Number: Q25AKIC10080
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Price (US$)
+1
+G-8501AT0020
+Conductivity (Total Conductivity)
+system
+1
+$ 16,750.87
+2
+G-9202AT0053
+pH
+1
+$ 19,886.76
+3
+G-9202AT0054
+Conductivity
+1
+4
+G-9202AT0057
+pH
+1
+$ 1,32,983.11
+5
+G-9202AT0058
+Conductivity
+1
+6
+G-9202AT0059
+TOC
+1
+7
+G-9202AT0060
+Chlorine
+1
+8
+G-9202AT0067
+CO & NH3 (IR)
+1
+$ 1,29,868.29
+9
+G-9202AT0075
+pH
+1
+$ 23,201.22
+10
+G-9202AT0076
+Conductivity
+1
+11
+G-9701AT0006
+TOC
+1
+$ 1,17,926.83
+12
+G-9701AT0007
+Conductivity
+1
+13
+G-9701AT0008
+pH
+1
+14
+H-1001AT0003
+Gas Chromatograph (Inside AH)
+1
+$ 1,98,983.74
+15
+H-1003AT0031
+H2S (GC) (Inside AH)
+1
+$ 2,10,000.00
+16
+H-1101AT0110A
+Oxygen Analyser
+Zirconium Oxide type
+1
+$ 59,959.35
+17
+H-1101AT0110B
+Oxygen Analyser
+Zirconium Oxide type
+1
+$ 59,959.35
+18
+H-1101AT0120A
+Oxygen Analyser
+Zirconium Oxide type
+1
+$ 59,959.35
+19
+H-1101AT0120B
+Oxygen Analyser
+Zirconium Oxide type
+1
+$ 59,959.35
+20
+H-1101AT0130A
+Oxygen Analyser
+Zirconium Oxide type
+1
+$ 59,959.35
+21
+H-1101AT0130B
+Oxygen Analyser
+Zirconium Oxide type
+1
+$ 59,959.35
+22
+H-1102AT0112
+pH
+1
+$ 33,058.16
+23
+H-1102AT0113
+Total Conductivity Analyser
+1
+24
+H-1102AT0114
+Acid Conductivity Analyser
+1
+25
+H-1101AT0101
+NOX & O2 CEMS Analyser
+1
+$ 80,524.39
+26
+H-1101AT0103
+1
+27
+H-1101AT0110
+Moisture Analyser - CEMS
+1
+$ 15,000.00
+28
+H-1103AT0015
+LASER
+CH4,CO, CO2 & H2
+1
+$ 1,20,691.06
+29
+H-1203AT0002
+Gas Chromatograph
+$ 1,89,024.39
+30
+H-1201AT0016
+NDIR / LASER_ CO
+1
+$ 89,024.39
+31
+H-1201AT0122
+pH
+1
+$ 24,372.82
+32
+H-1201AT0123
+Specific Conductivity Analyser
+1
+33
+H-1201AT0124
+Acid Conductivity Analyser
+1
+34
+H-1202AT0020
+Gas chromatograph
+1
+$ 1,78,861.79
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+35
+H-1401AT0080
+NDIR / LASER CO2
+1
+$ 83,373.98
+36
+H-1404AT0032 (on
+HOLD)
+NDIR / LASER_CO,CO2
+Hold
+Hold
+37
+H-1404AT0033 ( on
+HOLD)
+Moisture Analyser
+Hold
+38
+H-1404AT0034 ( on
+HOLD)
+VTS_N2
+Hold
+39
+H-1404AT0035 ( on
+HOLD)
+Oxygen Analyser
+Paramagnetic / Electrochemical
+Hold
+40
+H-1405AT0022
+Moisture Analyser
+1
+$ 80,081.30
+41
+H-1502AT0005
+CO2 NDIR
+1
+$ 48,528.46
+42
+H-1502AT0015
+CO2 NDIR
+1
+$ 47,552.85
+43
+H-1904AT0072A
+H-1904AT0072B
+Gas Chromatograph
+1
+$ 1,14,105.69
+44
+H-5001AT0010
+Density Analyser
+Vibration type
+1
+$ 58,850
+45
+H-5002AT0004A
+Specific Conductivity analyser
+Electrochemical
+1
+$ 24,372.82
+46
+H-5002AT0004B
+pH
+1
+47
+H-5002AT0004C
+Acid Conductivity Analyser
+1
+48
+H-5002AT0005A
+Acid Conductivity analyser
+1
+$ 21,759.58
+49
+H-5002AT0005
+Specific Conductivity analyser
+1
+50
+H-5002AT0082
+Gas Chromatograph
+1
+$ 1,11,837.40
+51
+H-8001AT0060
+pH Analyser Electrochemical
+1
+$ 34,604.27
+52
+H-8001AT0061
+Dissolved O2 Analyser
+Electrochemical
+1
+53
+H-8001AT0062
+Specific Conductivity analyser
+1
+54
+H-8001AT0063
+Acid Conductivity Analyser
+Electrochemical
+1
+55
+H-8001AT0070
+pH Analyser
+1
+$ 24,369.92
+56
+H-8001AT0071
+Specific Conductivity analyser
+1
+57
+H-8004AT0600
+Specific Conductivity analyser
+1
+$ 24,369.92
+58
+H-8004AT0601
+pH Analyser
+1
+59
+H-8551AT0020
+Specific Conductivity analyser
+1
+$ 22,337.40
+60
+H-1502AT0020
+Moisture Analyser
+1
+$ 67,682.93
+61
+H-1503AT0006
+Laser / NDIR_CO
+1
+$ 78,341.46
+62
+H-8101AT0106 (on
+HOLD)
+CEMS Analyser, So2 & Nox
+Hold
+63
+H-8101AT0107 (on
+HOLD)
+Hold
+64
+H-8101AT0108 (on
+HOLD)
+Hold
+65
+H-1503AT0002
+Density Analyser
+Vibration type
+1
+$ 58,606.27
+66
+Shelter with redundant HVAC
+1
+$ 3,10,975.61
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+67
+Consumables
+1 Set
+$ 5,000.00
+68
+Startup and commissioning Spares
+1 Set
+$ 4,500.00
+69
+2 years operation Spares
+1 Lot
+$ 90,000.00
+70
+Carrier and Calibration gas
+1 Lot
+$ 45,000.00
+71
+Packing
+1 Lot
+$ 3,000.00
+72
+Transport
+1
+$ 6,500.00
+Total $ 3,305,663.95
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Technical Literature
+S/N
+Item Description
+Qty
+Price (US$)
+A) Below Analyser mounted on field rack
+1
+Conductivity Analyser
+Tag No: G-8501AT0020
+Service: Turbine Condensate from TG Set
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1066series
+Sensor:400 series
+Mounting location: Mounted on field Rack
+Sample Phase: Liquid
+Measuring Range: 1-25 μS/cm
+Process Condition:
+Operating Sample Pressure: 4.3 bar a
+Design Sample Pressure: -1/10 barg
+Sample Temperature (op/design): 60.49/100 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+•
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1⁄2” SS316L,
+•
+Length: 35 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell, Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With Sunshade
+•
+With utility header
+•
+With electrical JBs
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+B) Below Analysers mounted in common field rack
+2
+3
+pH Analyser
+Tag No: G-9202AT0053
+Service: Seawater at Cooling Tower
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 6-12 pH
+Conductivity Analyser
+Tag No: G-9202AT0054
+Service: Seawater at Cooling Tower
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 5000-100000 μS/cm
+Process Condition:
+Operating Sample Pressure: 2.5 bar a
+Design Sample Pressure: 10 barg
+Sample Temperature (op/design): 44.97/50 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1⁄2” SS316L,
+•
+Length: 35 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell, Ball
+valves & other accessories required for proper functioning.
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+•
+SHS shall be mounted inside SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With Sunshade
+•
+With electrical JBs
+C) Below Analysers mounted in common cabinet with AC
+4
+5
+6
+pH Analyser
+Tag No: G-9202AT0057
+Service: Cooling Tower Blowdown / Seawater to BL
+Area classification: Safe Area
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Liquid
+Streams: 2
+Measuring Range: 6-12 pH
+Conductivity Analyser
+Tag No: G-9202AT0058
+Service: Cooling Tower Blowdown / Seawater to BL
+Area classification: Safe Area
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Sample Phase: Liquid
+Streams: 2
+Measuring Range: 5000-100000 μS/cm
+TOC Analyser
+Tag No: G-9202AT0059
+Service: Cooling Tower Blowdown / Seawater to BL
+Area classification: Safe Area
+Make: LAR
+Model: TOCUV2
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Liquid
+Streams: 2
+Measuring Range: 1-20 vppm
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+7
+Chlorine Analyser
+Tag No: G-9202AT0060
+Service: Cooling Tower Blowdown / Seawater to BL
+Area classification: Safe Area
+Make: Emerson
+Model: Transmitter: 1066series
+Sensor: 499ACL
+4-20mA output HART
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Liquid
+Streams: 2
+Measuring Range: 1-20 vppm
+Process Condition: For Stream 1
+Operating Sample Pressure: 2 bar a
+Design Sample Pressure: 4 barg
+Sample Temperature (op/design): 38/50 deg C
+Process Condition: For Stream 2
+Operating Sample Pressure: 3 bar a
+Design Sample Pressure: 4 barg
+Sample Temperature (op/design): 35.22/65 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 2 Nos
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1⁄2” SS316L,
+•
+Length: 30+30+5 m x 2= 130m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell, Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate
+Field Cabinet
+•
+MOC: SS316
+•
+With utility headers
+•
+With power & Signal JBs
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+•
+With panel Air Conditioner
+D) Below Analyser mounted in cabinet with AC
+8
+IR Analyser
+Tag No: G-9202AT0067
+Service: Vent from Cooling Tower Expansion Drum
+Area classification: Zone 2, IIC, T1
+Make: Siemens
+Model: Ultramat 6F
+Qty: 2 Nos
+Measurement Principle:
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range: CO: 0 – 300 vppm
+NH3: 0- 100 vppm
+Process Condition:
+Operating Sample Pressure: 4.5 bar a
+Design Sample Pressure: 5 barg
+Sample Temperature (op/design): 3/65 deg C
+Analyser Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+2 No.
+Quoted
+8.1
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1⁄2” OD SS316L,
+•
+Length: 30+20 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside cabinet.
+Field Cabinet x 1 nos
+•
+MOC: SS316
+•
+With utility headers
+•
+With power & Signal JBs
+•
+With ex-proof panel Air Conditioner
+1 Lot
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+E) Below Analyser mounted on field rack
+9
+10
+pH Analyser
+Tag No: G G-9202AT0075
+Service: Cooling Water Supply to Consumers
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 5-14pH
+Conductivity Analyser
+Tag No: G G-9202AT0076
+Service: Cooling Water Supply to Consumers
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 10- 10000 μS/cm
+Process Condition:
+Operating Sample Pressure: 8.5 bar a
+Design Sample Pressure: 10 barg
+Sample Temperature (op/design): 48.99/65 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1⁄2” SS316L
+•
+Length: 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Flow through cell, Rotameter, Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Field rack: 1 Nos
+•
+MOC: SS316
+•
+With utility header
+•
+With Sunshade
+•
+With electrical JBs
+F) Below Analyser mounted in cabinet with AC
+11
+12
+13
+TOC Analyser
+Tag No: G-9701AT0006
+Service: Industrial Waste Water to Water Treatment OBSL
+Area classification: Safe Area
+Make: LAR
+Model: TOCUV2
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Liquid
+Measuring Range: 0-20 PPM
+Conductivity Analyser
+Tag No: G-9701AT0007
+Service: Industrial Waste Water to Water Treatment OBSL
+Area classification: Safe Area
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Liquid
+Measuring Range: 0-2000 μS/cm
+pH Analyser
+Tag No: G-9701AT0008
+Service: Industrial Waste Water to Water Treatment OBSL
+Area classification: Safe Area
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Liquid
+Measuring Range: 1 – 14 pH
+Process Condition:
+Operating Sample Pressure: 4.6 bar a
+Design Sample Pressure: 8 barg
+Sample Temperature (op/design): 3-60/100 deg C
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1 Nos
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1⁄2” SS316L,
+•
+Length: 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 Plate.
+Field Cabinet:
+•
+MOC: SS316
+•
+With utility headers
+•
+With power & Signal JBs
+•
+With panel Air Conditioner
+G) Below Analyser mounted in Analyser Shelter
+14
+Gas Chromatograph
+Tag No: H-1001AT0003
+Service: Natural Gas Feed Analyser
+Area classification: Zone 2, IIC, T1
+Make: Valmet
+Model: Maxum II
+Mounting location: Analyser Shelter
+Sample Phase: Vapor
+Streams: 2
+Measuring Range: CH4: 0-100 vo%
+H2S: 0-100 vppm
+C2H6: 0-4 vol%
+Total S: 0-300 vppm
+C3H8: 0-1.5 vol%
+C4H10: 0-1 vol%
+C5H12: 0-5000 vppm
+C6H14: 0-1 vol%
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+CO2: 0-5 vol%
+N2: 0-15 vol%
+CO: 0-500 vppm (for stream 1)
+CO: 0-1 vol% (for stream 2)
+Process Condition: for stream 1
+Operating Sample Pressure: 17.75 bar a
+Design Sample Pressure: 66 barg
+Sample Temperature (op/design): 59.62/(-29/75) deg C
+Process Condition: for stream 2
+Operating Sample Pressure: 48.9 bar a
+Design Sample Pressure: 55 barg
+Sample Temperature (op/design): 367.77/450 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 2
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" Sulfinert coated SS316L HTT
+•
+Length: 170 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+H) Below Analyser mounted in Analyser Shelter
+15
+H2S Analyser
+Tag No: H-1003AT0031
+Service: H2S Analyzer d/s Ultrapurification Reactor
+Area classification: Zone 2, IIC, T1
+Mounting location: Analyser Shelter
+Sample Phase: Vapor
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Measuring Range: H2S: 0-500 ppb
+Make: Valmet
+Model Maxum II
+Type: Gas chromatograph
+Process Condition:
+Operating Sample Pressure: 48.1 bar a
+Design Sample Pressure: 55 barg
+Sample Temperature (op/design): 347.88/420 deg C
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" Sulfinert coated SS316L HTT
+•
+Length: 170 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+I) Below Analyser is mounted directly on process flange (insitu)
+16
+Oxygen Analyser
+Tag No: H-1101AT0110A
+Service: O2 Analyzer - Prereformer Feed Superheater
+Area classification: Zone 2, IIC, T1
+Make: Emerson / Ametek
+Measurement Principle: Zirconium Oxide
+Mounting location: Direct flange mounting
+Sample Phase: Vapor
+Measuring Range: O2: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 1.018 bar a
+Design Sample Pressure: -1/55 barg
+Sample Temperature (op/design): 925 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+J) Below Analyser is mounted directly on process flange (insitu)
+17
+Oxygen Analyser
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Tag No: H-1101AT0110B
+Service: O2 Analyzer - Prereformer Feed Superheater
+Area classification: Zone 2, IIC, T1
+Make: Emerson/ Ametek
+Measurement Principle: Zirconium Oxide
+Mounting location: Direct flange mounting
+Sample Phase: Vapor
+Measuring Range: O2: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 1.018 bar a
+Design Sample Pressure: -1/55 barg
+Sample Temperature (op/design): 925/TBD deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+K) Below Analyser is mounted directly on process flange (insitu)
+18
+Oxygen Analyser
+Tag No: H-1101AT0120A
+Service: O2 Analyzer - Steam Superheater
+Area classification: Zone 2, IIC, T1
+Make: Emerson/AMETEK
+Measurement Principle: Zirconium Oxide
+Mounting location: Direct flange mounting
+Sample Phase: Vapor
+Measuring Range: O2: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -1/145 barg
+Sample Temperature (op/design): 874.1/TBD deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+L) Below Analyser is mounted directly on process flange (insitu)
+19
+Oxygen Analyser
+Tag No: H-1101AT0120B
+Service: O2 Analyzer - Steam Superheater
+Area classification: Zone 2, IIC, T1
+Make: Emerson/ Ametek
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Measurement Principle: Zirconium Oxide
+Mounting location: Direct flange mounting
+Sample Phase: Vapor
+Measuring Range: O2: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -1/145 barg
+Sample Temperature (op/design): 874.1/TBD deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+M) Below Analyser is mounted directly on process flange (insitu)
+20
+Oxygen Analyser
+Tag No:H-1101AT0130A
+Service: O2 Analyzer - Feed Superheater
+Area classification: Zone 2, IIC, T1
+Make: Emerson/ Ametek
+Measurement Principle: Zirconium Oxide
+Mounting location: Direct flange mounting
+Sample Phase: Vapor
+Measuring Range: O2: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -1/50 barg
+Sample Temperature (op/design): 946.9/TBD deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+N) Below Analyser is mounted directly on process flange (insitu)
+21
+Oxygen Analyser
+Tag No:H-1101AT0130B
+Service: O2 Analyzer - Feed Superheater
+Area classification: Zone 2, IIC, T1
+Make: Emerson/ Ametek
+Measurement Principle: Zirconium Oxide
+Mounting location: Direct flange mounting
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Phase: Vapor
+Measuring Range: O2: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -1/50 barg
+Sample Temperature (op/design): 946.9/TBD deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+O) Below Analysers mounted in common field rack
+22
+23
+24
+pH Analyser
+Tag No:H-11201AT0112
+Service: Blowdown from HP Steam Drum
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Sample Phase: Liquid
+Measuring Range: 2-12 pH
+Specific Conductivity Analyser
+Tag No:H-11201AT0113
+Service: Blowdown from HP Steam Drum
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 0-250 μS/cm
+Acid Conductivity Analyser
+Tag No:H-11201AT0114
+Service: Blowdown from HP Steam Drum
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Measuring Range: 0-20 μS/cm
+Process Condition:
+Operating Sample Pressure: 122 bar a
+Design Sample Pressure: -1/147 barg
+Sample Temperature (op/design): 325.68/350 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe:
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length: 10 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+P) Below Analyser mounted in cabinet with AC
+25
+CEMS NOx Analyser
+Tag No:H-1101AT0101
+Service: Flue Gas from Flue Gas Stack Fired Heater
+Area classification: Safe Area
+Make: Siemens
+Model: Ultramat 23
+Measurement Principle: NDIR
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range: Nox: 0-100 mg/m3
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+26
+CEMS O2 Analyser
+Tag No:H-1101AT0103
+Service: Flue Gas from Flue Gas Stack Fired Heater
+Area classification: Safe Area
+Make: Siemens
+Model: Ultramat 23
+Measurement Principle: Paramagnetic
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range: O2: 0-25 vol%
+Note: Nox & O2 shall be measured in common analyzer.
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -0.1/0.1 barg
+Sample Temperature (op/design): 133.34/350 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Heated probe with filter
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+PTFE, 1/4” OD HTT
+•
+Length: 100m
+Sample Conditioning system consists of:
+•
+Filter, Cooler, Moisture sensor, NOx Converter, Pump,
+Rotameter, Ball valves & other accessories required for proper
+functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field Cabinet:
+•
+MOC: SS316
+•
+With utility headers
+•
+With power & Signal JBs
+•
+With panel Air Conditioner
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+N) Below Analyser mounted in CEMS cabinet
+27
+CEMS Moisture Analyser
+Tag No: H-1101AT0110
+Service: Flue Gas from Flue Gas Stack Fired Heater
+Area classification: Safe Area
+Mounting location: Inline Analyzer
+Sample Phase: Vapor
+Make: COSA Xentaur
+Measuring Range: H2O: 0-35 vol%
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -0.1/0.1 barg
+Sample Temperature (op/design): 133.34/350 deg C
+1 No.
+Quoted
+O) Below Analyser mounted in Field Rack
+28
+Laser Analyser
+Tag No: H-1103AT0015
+Service: Fuel Gas Drum
+Area classification: Zone 2, IIC, T1
+Make: Airoptic
+Model: GasEye Extractive
+Measurement Principle: TDLS
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Gas
+Measuring Range: CH4: 0-10 vol%
+CO: 0-50 vol%
+H2: 0-100 vol%
+CO2: 0-300 vppm & 0-25 vol%
+Note: CH4, CO & H2 measured in common analyzer.
+CO2 measured in another analyzer.
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -0.1/0.1 barg
+Sample Temperature (op/design): 133.34/350 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+2 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Probe:
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L
+•
+Length: 30 +30 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure.
+•
+Field Cabinet:
+•
+MOC: SS316
+•
+With utility headers
+•
+With power & Signal JBs
+P) Below Analyser mounted in Analyser Shelter
+29.
+Gas Chromatograph
+Tag No: H-1203AT0002
+Service: Feed gas
+Area classification: Zone 2, IIC, T1
+Make: Valmet
+Model: Maxum II
+Mounting location: Inside Shelter
+Sample Phase: Vapor
+Measuring Range: CH4: 0-5 vol%
+CO2: 0-10 vol%
+CO: 0-30 vol%
+N2: 0-3 vol%
+H2: 0-100 vol%
+Process Condition:
+Operating Sample Pressure: 1.013 bar a
+Design Sample Pressure: -0.1/0.1 barg
+Sample Temperature (op/design): 133.34/350 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Probe:
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L HTT
+•
+Length: 100 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+Q) Below Analyser mounted in Analyser Shelter
+30
+NDIR Analyser
+Tag No: H-1201AT0016
+Service: Analyzer HTS (LTS Outlet)
+Area classification: Zone 2, IIC, T1
+Make: Siemens
+Model: Ultramat 6F
+Measurement Principle: NDIR
+Sample Phase: Vapor
+Streams: 3
+Measuring Range: CO: 0-10 vol%
+Process Condition: for stream 1
+Operating Sample Pressure: 36.7 bar a
+Design Sample Pressure: -1/43 barg
+Sample Temperature (op/design): 255.78/350 deg C
+Process Condition: for stream 2
+Operating Sample Pressure: 36.7 bar a
+Design Sample Pressure: -1/40 barg
+Sample Temperature (op/design): 250/350 deg C
+Process Condition: for stream 3
+Operating Sample Pressure: 35.9 bar a
+Design Sample Pressure: -1/40 barg
+Sample Temperature (op/design): 250/350 deg C
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 3
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" OD SS316L HTT
+•
+Length: 100 m x 3
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Stream switching valve,
+Ball valves & other accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure.
+R) Below Analysers mounted in common field rack
+31
+32
+pH Analyser
+Tag No: H-1201AT0122
+Service: Blowdown from MP Boiler
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Sample Phase: Liquid
+Measuring Range: 2-12 pH
+Specific Conductivity Analyser
+Tag No: H-1201AT0123
+Service: Blowdown from MP Boiler
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Sample Phase: Liquid
+Measuring Range: 0-250 μS/cm
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+33
+Acid Conductivity Analyser
+Tag No: H-1201AT0124
+Service: Blowdown from MP Boiler
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sample Phase: Liquid
+Measuring Range: 0-20 μS/cm
+Process Condition:
+Operating Sample Pressure: 67 bar a
+Design Sample Pressure: -1/77 barg
+Sample Temperature (op/design): 282.59/300 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length: 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell, Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+S) Below Analyser mounted in Analyser Shelter
+34
+Gas Chromatograph
+Tag No: H-1202AT0020
+Service: Syngas to CO2 Unit
+Area classification: Zone 2, IIC, T1
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Make: Valmet
+Model: Maxum II
+Mounting location: Inside Shelter
+Sample Phase: Vapor
+Measuring Range:CH4: 0-2 vol%
+CO: 0- 10 vol%
+CO2: 0-30 vol%
+Process Condition:
+Operating Sample Pressure: 33.2 bar a
+Design Sample Pressure: -1/40 barg
+Sample Temperature (op/design): 59.57/270 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe:
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" OD SS316L HTT
+•
+Length: 30 + 30 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+T) Below Analyser mounted in Cabinet with AC
+35
+NDIR/Laser Analyser
+Tag No: H-1401AT0080
+Service: Flash Gas from HP Desorber acc. Spec
+Area classification: Zone 2, IIC, T1
+Make: Siemens
+Model: Ultramat 6F
+Measurement Principle: NDIR
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Measuring Range: CO2: 0-50 vppm
+Process Condition:
+Operating Sample Pressure: 9.5 bar a
+Design Sample Pressure: -1/10 barg
+Sample Temperature (op/design): 50.41/120 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe:
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L
+•
+Length: 30 + 30 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field Cabinet:
+•
+MOC: SS316
+•
+With utility headers
+•
+With power & Signal JBs
+•
+With panel Air Conditioner
+U) Below Analyser mounted in Cabinet with AC (HOLD)
+36
+37
+NDIR/Laser Analyser
+Tag No: H-1404AT0032
+Service: CO2 Product to B.L.
+Area classification: TBD
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range:CO: 0-400 vppm
+CO2: 0-100 vol%
+Moisture Analyser
+1 No.
+On Hold
+(by
+Customer)
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+38
+39
+Tag No: H-1404AT0033
+Service: CO2 Product to B.L.
+Area classification: TBD
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range: H2O: 0-10 vppm
+N2 Analyser
+Tag No: H-1404AT0034
+Service: CO2 Product to B.L.
+Area classification: TBD
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range: N2: 0-100 vppm
+Oxygen Analyser (Paramagnetic)
+Tag No: H-1404AT0035
+Service: CO2 Product to B.L.
+Area classification: TBD
+Mounting location: Mounted in Field Cabinet
+Sample Phase: Vapor
+Measuring Range: O2: 0-100 vppm
+Process Condition:
+Operating Sample Pressure: 42.5 bar a
+Design Sample Pressure: 46 barg
+Sample Temperature (op/design): 55/(-45/160) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 3
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L
+•
+Length : TBD
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+V) Below Analyser mounted in Field Rack
+40
+Moisture Analyser
+Tag No: H-1405AT0022
+Service: Moisture Analyzer CO2 Dryer Package
+Area classification: Zone 2, IIC, T1
+Make: Airoptic
+Model: GasEye Extractive
+Measurement Principle: TDLS
+Mounting location: Mounted on field rack
+Sample Phase: Vapor
+Measuring Range: H2O: 0-10 or 0-20 vppm
+Process Condition:
+Operating Sample Pressure: 27.7-28.2 bar a
+Sample Temperature 15 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 2
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" Electropolished SS316L HTT
+•
+Length: 30+30 m x 2
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+W) Below Analyser mounted in Analyser Shelter
+41
+NDIR/ Laser Analyser
+Tag No: H-1502AT0005
+Service: CO2 Analyser Inlet NWU TSA
+Area classification: Zone 2, IIC, T1
+Make: Siemens
+Model: Ultramat 6F
+Measurement Principle: NDIR
+Sample Phase: Vapor
+Measuring Range: CO2: 0-100 vppm
+Process Condition:
+Operating Sample Pressure: 32.55 bar a
+Design Sample Pressure: -1/36 barg
+Sample Temperature (op/design): 10/(-29/65) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L
+•
+Length : 130m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure.
+1 No.
+Quoted
+X) Below Analyser mounted in Analyser Shelter
+42
+NDIR/ Laser Analyser
+Tag No: H-1502AT0015
+Service: CO2 Analyser Outlet NWU TSA spec value
+Area classification: Zone 2, IIC, T1
+Make: Siemens
+Model: Ultramat 6F
+Measurement Principle: NDIR
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Mounting location: Analyser Shelter
+Sample Phase: Vapor
+Measuring Range: CO2: 0-10 vppm
+Process Condition:
+Operating Sample Pressure: 32.3 bar a
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): 15-17/(-29/150) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L
+•
+Length : 90 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure
+Below Analysers mounted in Analyser Shelter
+43
+Gas Chromatograph
+Tag No: H-1904AT0072A/ H-1904AT0072B
+Service: Ammonia Syngas
+Area classification: Zone 2, IIC, T1
+Make: Valmet
+Model: Maxum II
+Mounting location: Inside Shelter
+Sample Phase: Vapor
+Streams: 2
+Measuring Range: H2: 0-100 vol%
+CO: 0-5 vppm
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Process Condition: for stream 1
+Operating Sample Pressure: 29.6 bar a
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): 15.14/(-196/65) deg C
+Process Condition: for stream 2
+Operating Sample Pressure: 29.6 bar a
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): 16.12/(-29/65) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 2
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" OD SS316L
+•
+Length: 30+30 m x 2
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves, Stream
+switching valve & other accessories required for proper
+functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+Below Analyser mounted on field rack
+44
+Density Analyser
+Tag No: H-5001AT0010
+Service: Ammonia Syngas
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: GDM
+Mounting location: Mounted on field rack
+Sample Phase: Vapor
+Measuring Range: Density: 8-12 kg/m3
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Process Condition:
+Operating Sample Pressure: 29.2 bar a
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): 16.06/(-29/65) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe:
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length: 10+10 m
+Sample Conditioning system consists of:
+•
+Accessories required for proper functioning shall be considered.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analysers mounted on common field rack
+45
+46
+Specific Conductivity Analyser
+Tag No: H-5002AT0004A
+Service: HP Steam Sampling Package
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Sample Phase: Vapor
+Measuring Range: 0-250 μS/cm
+pH Analyser
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+47
+Tag No: H-5002AT0004B
+Service: HP Steam Sampling Package
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Mounting location: Mounted on field rack
+Sample Phase: Vapor
+Measuring Range: 1-14 pH
+Acid Conductivity Analyser
+Tag No: H-5002AT0004C
+Service: HP Steam Sampling Package
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Mounting location: Mounted on field rack
+Sample Phase: Vapor
+Measuring Range: 0-20 μS/cm
+Process Condition:
+Operating Sample Pressure: 123 bar a
+Design Sample Pressure: -1/166 barg
+Sample Temperature (op/design): 326.31/380 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length : 30+5 m
+Sample Conditioning system consists of:
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell , Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analysers mounted on common field rack
+48
+49
+Acid Conductivity Analyser
+Tag No: H-5002AT0005A
+Service: Blowdown Sampling Package
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sample Phase: Liquid
+Measuring Range: 0-20 μS/cm
+Specific Conductivity Analyser
+Tag No: H-5002AT0005
+Service: Blowdown Sampling Package
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 0-250 μS/cm
+Process Condition:
+Operating Sample Pressure: 123 bar a
+Design Sample Pressure: -1/166 barg
+Sample Temperature (op/design): 326.31/200 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length : 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell, Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analyser mounted in Analyser Shelter
+50
+Gas Chromatograph
+Tag No: H-5002AT0082
+Service: NH3 from Reactor - Composition
+Area classification: Zone 2, IIC, T1
+Make: Valmet
+Model: Maxum II
+Mounting location: Inside Shelter
+Sample Phase: Vapor
+Streams: 2
+Measuring Range: H2: 0-100 vol%
+Process Condition: for stream 1
+Operating Sample Pressure: 193 bar a
+Design Sample Pressure: 215 barg
+Sample Temperature (op/design): 73.89/200 deg C
+Process Condition: for stream 2
+Operating Sample Pressure: 184.4 bar a
+Design Sample Pressure: 215 barg
+Sample Temperature (op/design): 88.89/290 deg C
+Output:
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 2
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" OD SS316L
+•
+Length: 30+30 m x 2
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+Below Analysers mounted in common field rack
+51
+52
+53
+pH Analyser
+Tag No: H-8001AT0060
+Service: BFW (clean) from Deaerator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Measurement Principle:
+Sample Phase: Liquid
+Measuring Range: 6-12 pH
+Dissolved O2 Analyser
+Tag No: H-8001AT0061
+Service: BFW (clean) from Deaerator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Sensor: 499 series
+Transmitter: 1066 series
+Sample Phase: Liquid
+Measuring Range: 0-20 PPM
+Specific Conductivity Analyser
+Tag No: H-8001AT0062
+Service: BFW (clean) from Deaerator
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+54
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Sample Phase: Liquid
+Measuring Range: 0-20000 μS/cm
+Acid Conductivity Analyser
+Tag No: H-8001AT0063
+Service: BFW (clean) from Deaerator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sample Phase: Liquid
+Measuring Range: 0-2000 μS/cm
+Process Condition:
+Operating Sample Pressure: 1.3 bar a
+Design Sample Pressure: -1/6 barg
+Sample Temperature (op/design): 107.29/250 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length : 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Flow through cell, Ball
+valves & other accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analysers mounted in common field rack
+55
+56
+pH Analyser
+Tag No: H-8001AT0070
+Service: PW from condensate Process Dearator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Sample Phase: Liquid
+Measuring Range: 2-12 pH
+Specific Conductivity Analyser
+Tag No: H-8001AT0071
+Service: PW from condensate Process Dearator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Sample Phase: Liquid
+Measuring Range: 0-2000 μS/cm
+Process Condition:
+Operating Sample Pressure: 1.3 bar a
+Design Sample Pressure: -1/6 barg
+Sample Temperature (op/design): 105.3/250 deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Transportation Tube:
+•
+1/2" OD SS316L
+•
+Length: 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+•
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analysers mounted in common field rack
+57
+58
+Specific Conductivity Analyser
+Tag No: H-8004AT0600
+Service: BFW from Dearator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 0-1000 μS/cm
+pH Analyser
+Tag No: H-8004AT0601
+Service: BFW from Dearator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:3900 series
+Mounting location: Mounted on field rack
+Sample Phase: Liquid
+Measuring Range: 0-14 pH
+Process Condition:
+Operating Sample Pressure: 50 bar a
+Design Sample Pressure: -1/61 barg
+Sample Temperature (op/design): 263.2/300 deg C
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length : 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analysers mounted in common field rack
+59
+Specific Conductivity Analyser
+Tag No: H-8551AT0020
+Service: BFW from Dearator
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: Transmitter: 1056series
+Sensor:400 series
+Sample Phase: Liquid
+Measuring Range: 0-25 μS/cm
+Process Condition:
+Operating Sample Pressure: 4.3 bar a
+Design Sample Pressure: -1/10 barg
+Sample Temperature (op/design): 60.49/100 deg C
+Output:
+•
+With 4-20 mA Analog output
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" SS316L
+•
+Length : 30+5 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analyser mounted in field rack
+60
+Moisture Analyser
+Tag No: H-1502AT0020
+Service: Water from TSA u/S NWU
+Area classification: Zone 2, IIC, T1
+Make: Airoptic
+Model: GasEye Extractive
+Measurement Principle: TDLS
+Sample Phase: Vapor
+Streams: 2
+Measuring Range: H2O: 0-15 vppm
+Process Condition:
+Operating Sample Pressure: 32.3 bar a
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): TBD/(-29/150) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Probe: Qty: 2
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" Electropolished SS316L HTT
+•
+Length: 30+5 x 2 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Stream switching
+valve, Ball valves & other accessories required for proper
+functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analyser mounted in rack
+61
+Laser Analyser
+Tag No: H-1503AT0006
+Service: CO TSA
+Area classification: Zone 2, IIC, T1
+Make: Siemens
+Model: Ultramat 6F
+Measurement Principle: NDIR
+Mounting location: Mounted in field cabinet
+Sample Phase: Vapor
+Measuring Range: CO: 0-5 vol%
+Process Condition:
+Operating Sample Pressure: 9.7 bar a
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): 50/(-29/150) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/4" SS316L
+•
+Length : 30+30 m
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted on SS316 plate.
+Field Rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Below Analyser mounted in common cabinet with AC
+62
+63
+64
+CEMS NOx Analyser
+Tag No: H-8101AT0106
+Service: Stack/ Auxiliary BOILER Unit --> Natural Gas
+Area classification: Zone 2, IIC, T1
+Mounting location: Mounted in field cabinet
+Sample Phase: Vapor
+Measuring Range: NOx: TBD
+CEMS H2O Analyser
+Tag No: H-8101AT0107
+Service: Stack/ Auxilliary BOILER Unit --> Natural Gas
+Area classification: Zone 2, IIC, T1
+Mounting location: Mounted in field cabinet
+Sample Phase: Vapor
+Measuring Range: H2O: TBD
+CEMS O2 Analyser
+Tag No: H-8101AT0108
+Service: Stack/ Auxilliary BOILER Unit --> Natural Gas
+Area classification: Zone 2, IIC, T1
+HOLD
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Mounting location: Mounted in field cabinet
+Sample Phase: Vapor
+Measuring Range: O2: TBD
+Process Condition:
+Operating Sample Pressure: atm bar a
+Design Sample Pressure: TBD barg
+Sample Temperature (op/design): 150-210 / TBD deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1 X1/2" and 1X1/4" PFA tube
+•
+Length: TBD
+Sample Conditioning system consists of:
+•
+Filter, Pressure Regulators, Rotameter, Ball valves & other
+accessories required for proper functioning.
+•
+SHS shall be mounted inside SS316 enclosure with glass
+window.
+•
+Below Analyser mounted in field rack
+65
+Density Analyser
+Tag No: H-1503AT0002
+Service: Raw Hydrogen to H-1103D01
+Area classification: Zone 2, IIC, T1
+Make: Emerson
+Model: GDM
+Mounting location: Mounted on field rack
+Sample Phase: Vapor
+Measuring Range: Density: 0-3 kg/m3
+Process Condition:
+Operating Sample Pressure: 9.7 bar a
+1 No.
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Design Sample Pressure: 36 barg
+Sample Temperature (op/design): 50 / (-29/150) deg C
+Output:
+•
+With 4-20 mA Analog output
+Power Supply: 230VAC, 60Hz
+Sample Probe: Qty: 1
+•
+Fixed type probe with isolation valve
+•
+MOC: SS316
+•
+2”,300#RF
+Sample Transportation Tube:
+•
+1/2" OD SS316L
+•
+Length: 10 mtrs
+Sample Conditioning system consists of:
+•
+Accessories required for proper functioning shall be considered
+Field rack:
+•
+MOC: SS316
+•
+With utility header
+•
+With electrical JBs
+Analyzer Shelter with redundant HVAC
+66
+Analyzer Shelter with redundant HVAC
+Area Classification: Zone 2, IIC, T1
+Make: Adage
+Analyzer Shelter Design & Construction Details:
+•
+Dimensions- 5 Mtrs X 3 Mtrs X 3 Mtrs
+•
+Design-Ribbed interlock
+•
+MOC-SS316
+•
+2 mm Thick Internal Wall & 2 mm Thick Outer Wall.
+•
+100 mm Insulation of Mineral Wool
+•
+Overhang Roof Canopy-1 Meter in all four sides, MOC: SS316, 2
+mm thick
+•
+Base frame: ISMC 150
+•
+Panic Bar Installed on Each Door.
+•
+Floor: Anti-Slip and Non-Corrosive Aluminum Chequered Plate 5
+mm thick
+•
+Doors: Main Door and Emergency Door with double wall
+construction, insulation foam and Glass Window
+•
+Louvers: 4 Nos
+1 No
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+•
+Lifting lugs x 4 Nos
+•
+Switch sockets x 2Nos
+•
+C Rail for mounting equipment’s inside and outside of the shelter
+•
+SS tag plates
+•
+Cable Entry to Shelter: Through MCT Block.
+•
+Tube Entry to Shelter: Through Gromet/Bulkhead Plate.
+•
+Cable Tray: Anodized Aluminum
+•
+Portable Fire Extinguisher: 2 Nos
+•
+Work Bench.
+•
+SS Wash Basin
+Electrical Specifications:
+•
+F&G & Other devices As Per Attached Annexure 1
+•
+Power Distribution & Warning Panels, Exd
+•
+Shelter Safeguarding PLC Mounted Inside Purged Enclosure.
+•
+Junction Boxes, Exd
+HVAC Specifications (Qty. – 2 Nos.)
+Make: ADAGE
+•
+Design as per NFPA 496
+•
+MOC: SS316
+•
+Redundant HVAC With Automatic Changeover
+•
+Capacity – 5 Tr (Each)-Shall be optimized during detailed
+engineering.
+•
+With Common Chemical Filter
+•
+Redundant Blower
+•
+Fresh Air Duct with Rain cap and bird Mesh, Length: 6 meters
+from the Shelter, MOC: Epoxy painted galvanized steel
+•
+Air Changes: Minimum 5 Air Changes Per Hour.
+•
+Positive Pressure Inside Shelter. (Normal 5mmWC, Min
+2.5mmWC)
+•
+Dry Bulb temperature Maintained Inside House is 26 ± 1 Deg C.
+67
+Consumables
+1 Set
+Quoted
+68
+Startup and commissioning Spares
+1 Set
+Quoted
+69
+2 years operation Spares
+1 Lot
+Quoted
+70
+Carrier and Calibration gas
+1 Lot
+Quoted
+71
+Packing
+1 Lot
+Quoted
+72
+Transport
+1
+Quoted
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+ANNEXURE - 1
+DETAILED BOQ FOR SHELTER
+(The BOQ is preliminary & shall be enhanced during detailed engineering)
+Gas /Smoke Detection & Safeguarding Logic
+LEL Detector (inside shelter)
+2
+LEL detector in the fresh air duct
+2
+Toxic Gas Detector - inside Fresh Air Duct
+2
+Toxic Gas Detector -Inside Shelter
+2
+H2 Detector
+1
+O2 deficiency detector
+1
+OPTICAL SMOKE DETECTOR
+2
+Diff pressure switch
+1
+Temp Tx with Display
+1
+Safeguard PLC for Analyser Shelter, Make-Siemens
+1 LOT
+Purge controller for PLC Panel (inside)
+1
+Electrical Panels: Zone 1 IIC
+JBs, PDBs, Interface JBs, Network Accessories, Intermediate PDBs / Power JB cum
+isolation switch for incomer cable termination prior to PDB. Rack for PDBs & warning
+Panel.
+1 LOT
+Electrical Fittings & Components
+230 VAC Switch Socket (Inside shelter)
+2
+110 VAC Switch Socket (Inside shelter)
+2
+Hooter
+1
+2 Way Beacon
+2
+Manual Call Point
+1
+Tube lights inside
+4
+Tube lights outside
+4
+Tube light with battery backup
+2
+MCT Blocks with 20% Spares
+1 LOT
+Misc. Items:
+Adjustable type Louvers at Lower & Higher Side Position on wall of Shelter
+1 LOT
+Cables, Cable trays, Glands, Utility Headers with Air filters & Other Accessories as per
+requirement.
+1 LOT
+Cylinder Rack
+Consists of 2 Bay 16-Pack, fabricated with 4” angle, Steel
+Base: Base shall be of 4” x 4” x 1⁄4” angle. Joints will be seal welded.
+Canopy: Included
+Lifting Devices: SS lifting eyes shall be attached to the upper cross channel and shall be
+designed to lift the total weight of the rack with all equipment installed.
+Capacity: Rack will hold Eight (8) 16-Pack (Primary and Standby)
+Carrier Gas Change Over Station Qty: 2
+1 LOT
+www.adage-kanoo.com
+Adage Kanoo Industrial Company
+Building NO: 2947, Additional NO: 6829
+Jubail, Kingdom of Saudi Arabia
+Postal code: 35717
+Exclusions
+All exclusions are not part of offer, same shall be taken care by customer.
+1) All Erection Activities including but not limited to installation of Analyzer Systems cabling, glanding
+and termination of all field cables and tubing or components & analyzer houses.
+2) All Interconnection Cables (From Analyser shelter to DCS/control unit) including FO cables,
+Standard Signal, Standard Power cables, cable trays, tray supports.
+3) We have quoted only for Shelters, Cabinet, Field racks Analyser, Probe, sample transportation tube
+& SCS. All other integration parts, Electrical, Civil and Mechanical activities at site shall be taken
+care by customer.
+4) All field, power & signal JBs shall be taken care by customer.
+Commercial Terms
+Prices Quoted
+Ex-works AKIC, KSA
+Freight
+Shall be extra as applicable.
+Packing
+Inclusive
+Delivery
+8-10 months from the date of P.O.

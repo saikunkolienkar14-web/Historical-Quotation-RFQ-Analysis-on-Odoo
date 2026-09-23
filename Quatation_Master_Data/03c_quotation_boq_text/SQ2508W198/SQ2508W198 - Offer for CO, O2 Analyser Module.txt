@@ -1,0 +1,60 @@
+Quotation Number: SQ2508W198
+BOQ Status: FOUND
+
+SUMMARY OF PRICES
+SI No
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+GAS ANALYSER MODULE FOR CO, O2
+MEASUREMENT
+ULTRAMAT 23 GAS ANALYZER
+ULTRAMAT 23 GAS ANALYZER FOR MEASUREMENT
+OF 1 INFRARED COMPONENT , 1 PARAMGNETIC
+COMPONENT
+19” PLUG-IN UNIT FOR MOUNTING IN ENCLOSURES
+GAS CONNECTIONS 6 MM STUB
+WITH IP 40 ENCLOSURE
+COMPONENT TO BE MEASURED: CO
+MEASURING RANGE: 0 TO 1/5%
+COMPONENT TO BE MEASURED: O2
+MEASURING RANGE: 0 TO 21%
+POWER SUPPLY: 220 VAC +10%, 50 Hz + 3 Hz.
+OUTPUT: 4-20 MA ISOLATED 750 OHMS RESISTIVE
+DETECTION LIMIT: 1% OF THE CURRENT MEASURING
+RANGE
+LINEARITY ERROR: ≤ ±1% OF FULL SCALE VALUE
+REPEATABILITY: ≤ 1% OF SMALLEST MEASURING
+RANGE
+OPERATOR’S SOFTWARE AND DOCUMENTATION IN
+ENGLISH
+1 Set
+10,18,249/-
+10,18,249/-
+SECTION 2: NOTE & SCOPE
+
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+
+Power cable, signal cable is in scope of customer.
+
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+
+We have mentioned Unit Rates for Heat Trace Tube for Sample Gas Transportation. Any Extra Tube would
+attract a price per meter.
+
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel shall be
+Provide by customer.
+
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+
+Power Supply: 230/110 VAC, 50 Hz (UPS) for analyzer.
+
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+
+Air conditioner room shall be provide to mount gas analyzer system.

@@ -1,0 +1,56 @@
+Quotation Number: SQ2510N238
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+DATA LOGGER (WHICH IS INSTALLED INSIDE THE JUNCTION
+BOX WITH ALL THE RELATED ACCESSORIES)
+FOR: J K LAKSHMI CEMENT, SIROHI
+20
+1,65,000
+33,00,000
+2
+SUPERVISION AND COMMISSIONING AT J K LAKSHMI
+CEMENT, SIROHI
+1
+4,00,000
+4,00,000
+3
+DATA LOGGER (WHICH IS INSTALLED INSIDE THE JUNCTION
+BOX WITH ALL THE RELATED ACCESSORIES)
+FOR: J K LAKSHMI CEMENT, UDAIPUR
+13
+1,65,000
+21,45,000
+4
+SUPERVISION AND COMMISSIONING AT J K LAKSHMI
+CEMENT, UDAIPUR
+1
+2,60,000
+2,60,000
+5
+DATA LOGGER (WHICH IS INSTALLED INSIDE THE JUNCTION
+BOX WITH ALL THE RELATED ACCESSORIES)
+FOR: J K LAKSHMI CEMENT, DURG
+07
+1,65,000
+11,55,000
+6
+SUPERVISION AND COMMISSIONING AT J K LAKSHMI
+CEMENT, DURG
+1
+1,40,000
+1,40,000
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+• RS-485 Modbus signal for all the PM parameter instruments shall be made available up to the data
+logger, All the signal cables for the same shall be in customer scope.
+• Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+• Internet for the data logger shall be made available at site by customer preferably broadband
+connection.
+• Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

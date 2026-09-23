@@ -1,0 +1,158 @@
+Quotation Number: Q24G10080
+BOQ Status: FOUND
+
+Item Description
+Qty
+Unit price (INR)
+Total Price (INR)
+1
+_
+Gas Chromatograph system for
+Flare gas measurement
+1 No
+1,70,00,000/-
+1,70,00,000/-
+2
+_
+GCP portal software
+1 Lot
+4,50,000/-
+4,50,000/-
+3
+_
+AMS Connectivity hardware’s at
+cabinet and AMS control room
+1 Lot
+6,00,000/-
+6,00,000/-
+4
+_
+Software Tag Addition and
+engineering
+1 Lot
+2,00,000/-
+2,00,000/-
+5
+_
+Project Documentation
+1 Lot
+Inclusive
+Inclusive
+6
+_
+FAT at Adage Factory
+1 Lot
+Inclusive
+Inclusive
+7
+_
+Freight and P&F
+1 Lot
+1,00,000/-
+1,00,000/-
+8
+_
+Supervision of installation &
+commissioning
+LumpSum
+3,00,000/-
+3,00,000/-
+SECTION 2: TECHNICAL LITERATURE
+1.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Mounting location: Inside Analyser cabinet
+GC Hazardous Area Classification: Zone 1, llB+H2 T3
+Sample phase: Gas
+No of Streams: 1
+Sample Pressure : 700 to 1200 mmwc
+Sample Temperature : 15 to 45 deg C
+Analyzer Outputs:
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free contacts for fault & other alarms.
+1 No
+Quoted
+1.2
+Heated Sample Probe Assembly
+Make shall be as per RIL AVL
+1 No
+Quoted
+1.3
+Sample transportation Line for supply
+•
+1⁄4” OD SS316 Sulfinert HTT tube
+Make shall be as per RIL AVL
+50 Meter
+Quoted
+1.4
+Heated Secondary Sample handling system:
+-
+Shall consist of Ball valve, pressure indicator, fastloop &
+sample inlet flowmeter with low flow switch, AOV’s, NRV,
+SRV, TG, etc
+-
+SHS components shall be mounted inside SS304
+enclosure (Insulated front end) and shall be mounted
+outside Analyser cabinet assembly.
+Make shall be as per RIL AVL
+1 No
+Quoted
+1.5
+Calibration cylinder with double stage pressure regulator
+-
+For FAT, Commissioning & 6 month operation from the
+date of commissioning
+1 No
+Quoted
+1.6
+Analyser Cabinet Assembly
+-
+1000 mm x 800 mm x 2100 mm dimension, MOC : SS316
+-
+With Ex proof Air Conditioner (Non Redundant)
+-
+ASJB, DSJB, CSJB
+-
+PSB’s, Headers & other accessories
+-
+Auto-changeover skid for above GC
+1 No
+Quoted
+2
+GCP portal software
+1 Lot
+Quoted
+3
+AMS Connectivity hardware’s at cabinet and AMS control
+room
+•
+Ethernet Switch with FO Port
+•
+Patch Panels
+•
+Patch cords
+1 Lot
+Quoted
+4
+Software Tag Addition and engineering
+1 Lot
+Quoted
+5
+Project Documentation
+1 Lot
+Quoted
+6
+FAT at Adage Factory
+1 Lot
+Quoted
+7
+Freight and P&F
+1 Lot
+Quoted
+8
+Supervision of installation & commissioning
+Lum Sum
+Quoted

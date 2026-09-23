@@ -1,0 +1,86 @@
+Quotation Number: Q2604N026
+BOQ Status: FOUND
+
+Description
+Qty
+Unit Price
+(INR)
+Total Price
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF CO,
+NO, SO2 & O2
+With Gas Sample Probe
+With Auto Probe Cleaning
+With Sample Handling System
+With Remote Calibration
+With IP54 Panel
+With Microprocessor Based Analyser
+ULTRAMAT 23 – 1 No
+Make: Siemens AG, Germany
+Principle: NDIR & Paramagnetic
+Area Classification: Suitable to Zone 2
+Measuring Range:
+•
+NO: 0-400/2000 mg/Nm3 (2X-AT-110)
+•
+CO: 0-250/1250 mg/Nm3 (2X-AT-109)
+•
+SO2: 0-400/2000 mg/Nm3 (2X-AT-111)
+•
+O2: 0-25% (2X-AT-108)
+Notes:
+•
+The quoted system is hot extractive system with gas cooler
+and cold analysers where moisture is removed in the gas
+cooler and hence no moisture compensation is required
+since the readings are not affected by moisture. Therefore,
+moisture measurement is not necessary.
+•
+Total NOx values shall be reported as NO2 i.e., NOx = NO
++ NO2 = NO X 1.53 + NO2 = NOx as NO2 inline with
+CPCB guidelines.
+1 SET
+QUOTED
+QUOTED
+2
+PREFABRICATED HEAT TRACED TUBE
+Size: 1⁄4”; MOC: PTFE
+Suitable to Zone 2
+With Necessary accessories & JBs
+Make: Thermopads
+50 MTRS
+QUOTED
+QUOTED
+3
+DUST MONITOR (2X-AT-112)
+Make: Sick / Durag, Germany
+Suitable to Zone 2
+Utility requirement: instrument air free from oil, dust & moisture
+at 4/5 bar to be provided by customer
+1 SET
+QUOTED
+QUOTED
+4
+FLOW MONITOR (2X-FT-111)
+Make: Sick / Durag, Germany
+Suitable to Zone 2
+Utility requirement: Instrument air free from oil, dust & moisture
+at 4/5 bar to be provided by customer
+1 SET
+QUOTED
+QUOTED
+5
+FLUE GAS TEMPERATURE (2X-TT-111)
+Make: Honeywell/Wika
+1 SET
+QUOTED
+QUOTED
+6
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(Boarding – Lodging – Local Conveyance, To and Fro Air
+Ticket/ AC II Train Fare to be arranged by Customer)
+PER DIEM
+QUOTED
+QUOTED

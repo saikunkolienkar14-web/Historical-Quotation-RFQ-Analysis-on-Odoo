@@ -1,0 +1,61 @@
+Quotation Number: Q25G10086
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1.A
+2 STREAM DISTILLATION ANALYSER SYSTEM
+Test Method: ASTM D-86
+Make: Icon Scientific
+Analyser Measuring Range : 0-430 Deg C
+Hazardous Area: Zone 1 llB+H2 T4
+Power Supply: 230VAC, 50 Hz
+IP rating: IP66
+Analyzer mounting Location: Inside existing Analyzer shelter
+Process condition at sample inlet 1 (Gasoline):
+-
+Temperature (Min./Max.) : 5/55 Deg C
+-
+Pressure (Min./Max): 1.5/2 Bar
+Process condition at sample inlet 2 (Diesel):
+-
+Temperature (Min./Max.) : 5/55 Deg C
+-
+Pressure (Min./Max): 1.5/2 Bar
+Process condition at Sample return:
+-
+Temperature ( Op/Design) : Not Specified
+-
+Pressure (Op/Design) : Not Specified
+Analyser Output:
+-
+4-20Ma analog output for pour point
+-
+MODBUS RTU /OPC over RS485 or Ethernet TCP/IP.
+-
+Digital outputs
+Utility Requirement:
+-
+230VAC 50Hz UPS power supply
+Note:
+1. Analyzer shall be mounted inside existing Analyzer
+shelter assembly.
+2. Existing sample handling system and chillerp shall be
+used. Adage scope is limited to the supply of analyzer
+and switching valve arrangement in SS Enclosure.
+3. Adage shall connect Serial output from Analyzer till
+1 No
+Quoted
+existing communication JB available in existing shelter
+assembly.
+4. Distillation cycle times is typically 15-20 minutes
+depending on temp difference between IBP to FBP.
+Nayara to provide IBP and FBP values.
+1.B
+STREAM SWITCHING VALVE
+-
+With Solenoid Valve and Air operated Valve completely tubed
+and equipped inside in suitable size SS enclosure.
+1 No
+Quoted

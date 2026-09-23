@@ -1,0 +1,41 @@
+Quotation Number: SQ2501N010
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+SL NO
+ITEM DESCRIPTION
+QTY
+UOM
+TOTAL RATE [INR]
+1.
+DATA CONNECTIVITY TO CPCB
+•
+BOILER SOx
+•
+BOILER NOx
+•
+HRSG SOx
+•
+HRSG NOx
+•
+REFORMER SOx
+•
+REFORMER NOx
+1
+LOT
+1,75,000.00
+ADAGE SCOPE
+1.
+Configuration of the provided signal in Data Acquisition System.
+2.
+Extending our help and expertise to process data connectivity at CPCB & SPCB.
+3.
+Establishing connectivity of above-mentioned parameters to CPCB and SPCB.
+4.
+The above-mentioned job will be carried out remotely with necessary support and assistance.
+TO BE ARRANGED BY CUSTOMER
+1.
+Internet connection to existing Adage data acquisition system broadband / Lease line should be provided.
+2.
+Communication / networking for required stack / parameters should be insured healthy up to existing Adage data
+acquisition system.

@@ -1,0 +1,566 @@
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 1 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+Dear Sir/Madam,
+
+We thank you for your intrest in ADAGE AUTOMATION Products and with reference to the same please find
+enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which includes
+analyzers as per your requirement.
+
+The summary of system as per below sections.
+
+SECTION-1: OFFERING HEADLINES
+SECTION-2 : SUMMARY OF PRICES
+SECTION-3: TECHNICAL LITERATURE
+SECTION-4: SCOPE DEFINITION
+SECTION-5: COMMERCIAL TERMS
+
+ADAGE QUOTATION NO:
+Q24S10056
+DATED: 05.06.2024
+PROJECT TITLE:
+Supply of CO,CO2 and O2 Analysers for EPCC02 RFCC Package at IOCL
+Vadodara refinery
+INQUIRY DETAILS:
+Enquiry via mail dated 30.05.2024
+CUSTOMER:
+
+Kind attention:
+Mr. P DORAIAH (DIRECTOR HYDROCARBONS)
+MEGHA ENGINEERING & INFRASTRUCTURES LIMITED.
+Balanagar, Hyderabad -500 037.
+Telangana, INDIA. +91-40-44336700.
+91-40-44336800
+END USER:
+
+IOCL Vadodara Refinery
+
+For any doubts/clarifications required, please do not hesitate to contact ADAGE team as per below matrix.
+
+ADAGE
+HO-Goa
+
+Mr. Damu Shelke/Mr. Sagnik Gupta
+Mob no: 9823840039/9619410222
+Mr. Vishnu Birmole
+Mob no: 9987538932
+EAST
+
+Mr. Mukesh Vishwakarma / Mr. Mrinmoy
+Mob no: 9831086433/ 9830810025
+Mr. Manas Das / Mr. A.K.Das
+Mob no: 9831086433/ 9830810025
+WEST
+
+Mr.Sameer Ghorpade / Mr. Yogesh
+Mob no: 8888200099/ 9820288221
+Mr.Kamalesh Soni
+Mob no: 9724165626
+
+SBU HEAD
+
+Mr. Nitin Jain
+Mob no: 9374215140
+NORTH
+
+Mr. M.k. roy / Mr. Abhijit Tapadar
+Mob no: 8368391639/ 8777831193
+
+SOUTH
+
+Mr. G. N. Rao
+Mob no: 9985379936
+Mr. Pravin S
+Mob no:9629393373
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 2 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+This is in context to your requirement of for Gas analysis System & We Thank you for the same.
+
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas
+Analytical Systems and Solutions in India and worldwide. We provide solutions in Process, Emission
+Monitoring & Safety applications in the industrial field of Steel, Cement, Power, Fertilizers,
+Chemicals, Oil & Gas etc
+
+We have 11 Offices across India, 2 in UAE & 1 in USA and have 150+ Specialist Engineers and a
+modern Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in India.
+We have already installed more than 4000 Analyser Systems in India and at present moment enjoy
+a leadership position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries domain
+with more than 60% market share. We are also the largest supplier and service provider of Gas
+Analytical Systems from India to over 40 countries in Africa, Mid East, Far East and South America.
+
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under
+joint investment from SIEMENS AG Germany catering to all round services & repair for our
+customers . Our State of the art factory with its highly sophisticated infrastructure is second to
+none in India.
+
+Our exclusive partners....
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 3 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: OFFERING HEADLINES
+
+Below items are in MEIL Scope of Supply:-
+1. Equipment Foundation for mounting of Analyser cabinet assembly.
+2. Standard Power cables for UPS and NON-UPS power supply up to battery limit for lighting up
+the Analyser cabinet.
+3. Standard Signal cables/FO cables from Analyser cabinet mounted JB’s to DCS.
+4. All tubes/piping connections from Analyser shelter Headers to plant flare header/vent.
+5. All the utilities like instrument air, plant N2 up to battery limit.
+6. Installation and Erection of complete System.
+7. Plant Control System DCS/FGS/ESD.
+8. Terminations in junction boxes to connect multipair cable and FO from analyzers cabinets to
+control system. (DCS,ESD or FGS).
+
+Below items are in Adage Scope of Supply:-
+1 Design, Engineering and integration of the complete Analytical system including sample
+probe, sample system, Analyser Cabinet.
+2 4-20mA for each measuring compnent and digital potential free contacts(Alrams/Faults) shall
+be terminated in JB outside analyser cabinet. Further connections to DCS/Control Room shall
+be in MEIL scope.
+3 Redundant FO outputs (through convertor) shall be made avalable upto cabinet mounted LIU
+panels. Further coneectivity shall be in MEIL scope.
+4 The calibration cylinder(with double stage regulator) for 1 year after SAT.
+5 The sample return conditions are not provided. As the Process fluid have SO2, CO, CO2,
+Moisture and N2 gases and the sample is in non Hazardous gas phase same shall be
+returned to ATM vent header/ Flare header.Metal tube rotameters considered for sample
+and fast loop line for all tags.
+6 Analyser Vent is connected to ATM vent through Flame arrester.
+7 We have considered common sample probe and sampling system for CO,CO2 and O2
+analyzer.
+8 The Dew point of flue gas at sample pressure is 65Deg C, and there is 0.25Mol% Sulphur
+with moisture hence we have considered a heated Probe assembly instead of online
+retractable probe to avoid condensation.
+9 We have quoted Vortex cooling arrangement for analyzers cooling. Optionally Ex-Proof Air
+conditioner unit price is also provided.
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 4 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+10. We have considered and quoted below Make analysers
+CO, CO2 Analyser
+a. Make: Siemens , Model: Ultramat 6F
+b. The communication output shall be RS 485 serial modbus output & 4-20 Ma analog
+output for each measuring component. This also has digital outputs for customer
+configuration.
+
+11. We have considered and quoted below Make analysers
+O2 Analyser
+Make: Siemens , Model: Oxymat 6F
+The communication output shall be RS 485 serial modbus output & 4-20 Ma analog output
+for each measuring component. This also has digital outputs for customer configuration.
+
+12. Please refer enclosed clarifications/deviation sheet with offer.
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 5 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Sr.
+No.
+Tag Number
+Item Description
+Qty
+Unit
+Price(INR)
+Total
+Price(INR)
+1
+1803-AT-1701A
+CO Analyser
+Make: Siemens
+Model: Ultramat 6F
+1 No.
+
+99,12,000/-
+
+99,12,000/-
+2
+1803-AT-1701B
+CO2 Analyser
+Make: Siemens
+Model: Ultramat 6F
+1 No.
+3
+1803-AT-1702
+Oxygen Analyser
+Make: Siemens
+Model: Oxymat 6F
+1 No.
+4
+-
+Analyser Cabinet Assembly with Vortex
+cooling and other accessories
+1 No.
+5
+-
+Mandatory spares (As per MR philosophy)
+1 Lot
+52,80,000/-
+52,80,000/-
+6
+-
+Commissioing spares
+Commissioing spares are irrespective of
+any list and shall be hand carried by Adage
+engineers during detailed engineering.
+1 Lot
+1,00,000/-
+1,00,000/-
+7
+-
+2 years O&M spares (As per Adage
+recommendation)
+1 Lot
+10,56,000/-
+10,56,000/-
+Services
+8
+-
+Inspection and test
+1
+Inclusive
+Inclusive
+9
+-
+Packing and forwading
+1
+Inclusive
+Inclusive
+10
+-
+Transportation upto Site
+1
+Inclusive
+Inclusive
+11
+-
+Documentation as per SDRL
+1
+Inclusive
+Inclusive
+12
+-
+Supervision: Erection, Commissioning and
+Start-up
+1
+1,00,000/-
+1,00,000/-
+13
+-
+Site Performance Test
+1
+Inclusive
+Inclusive
+14
+-
+Training at Goa Works
+1
+50,000/-
+50,000/-
+
+ATTACHEMENTS WITH THE OFFER
+
+Annexure_1
+Deviation/clarifications
+Annexure_2
+2047-1803-EIN-REQ-0021_B Material Requisition for O2, CO and CO2 Analyser
+Annexure_3
+2047-1803-EIN-SPC-0021_B Specifications for O2,CO and CO2 Analyser
+Annexure_4
+077154C-000-JSD-1540-001_E Design Basis Instrumentations
+Annexure_5
+077154C-000-JSS-1560-001_F Jonb specifications for analyser and Analyser shelter
+Annexure_6
+077154C-000-ITP-1500-001_B ITP
+Annexure_7
+2047-1803-EPR-DAS-0320_A Datasheet
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 6 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 3: TECHNICAL LITERATURE
+
+S. No
+Description
+Qty
+Price
+1.a
+CO Analyser:
+Service: Regeneration Flue Gas
+MODEL: Ultramat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone I, GR IIC, T3
+Measuring Component : CO
+Measruing Range : 0-1000PPM
+
+1 No.
+Quoted
+1.b
+CO2 Analyser:
+Service: Regeneration Flue Gas
+MODEL: Ultramat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone I, GR IIC, T3
+Measuring Component : CO2
+Measruing Range : 0-20%
+
+1 No.
+Quoted
+2
+pO2 Analyser:
+Service: Regeneration Flue Gas
+MODEL: Oxymat 6F
+MAKE: Siemens
+Hazardous Area Classification: Zone I, GR IIC, T3
+Measuring Component : O2
+Measruing Range : 0-5%
+
+1 No.
+Quoted
+a
+Heated Sample probe:
+-
+MOC: SS316
+-
+With heated filter assembly
+-
+Suitable for Zone-1 Area classification
+-
+
+1 No
+Quoted
+b
+1/4” PTFE Sample Tubing
+
+50 Meter
+Quoted
+c
+SSHS system.
+-
+With manual 3 way ball valve sample/purging selection
+-
+With gas sample cooler assembly for moisture removal
+-
+With Solenoid Valve assembly for Calibration gas selection
+-
+with filter, Rotameters, Air filter regulator assembly
+1 No
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 7 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+d
+Analyser Cabinet Assembly
+-
+CRCA Painted
+-
+With CRCA canopy assembly
+-
+With Vortex Cooling arrangement
+-
+With Power Distribution PDP
+-
+With Signal Junction Box
+-
+With Media converter assembly
+-
+With LIU Panel Assembly suitable of 6 Core FO cable
+
+e
+Calibration gas cylinder
+Suitable for 1 year operation after SAT.
+1 Lot
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 8 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 4: SCOPE DEFINITION
+
+Our Scope of Supply and Work Includes:
+
+•
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of
+complete analyzer system for the following analyzers as per MR.
+•
+All Analysers complete with all hardware, software and necessary accessories.
+•
+Power distribution boxes as necessary for power distribution, junction boxes for
+termination of the signals.
+•
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items.
+•
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4)
+•
+Project Management and Documentation
+•
+Documentation including as-built documentation, warranty of Complete Analyser system
+•
+Supply of spares and consumables as per MR requirements (If ordered)
+•
+Training at site as per MR requirements (If ordered)
+•
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation of
+Analyzers.
+
+Our Scope of Supply Does Not Include:
+
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Erection and Installation of analyzer Shelter and hookup of required utilities, Pre-fabricated Electrical
+traced tubes, bare tubes, pipe, tube fittings between sample take off and analyzer
+shelter & sample return, fast loop, vent lines etc.
+•
+Provision of nozzles near tapping point/Stack.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals related to filed/DCS connection.
+•
+Providing all utilities as specified in MR at one point/battery limit near each Analyzer Shelter in field.
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Page 9 of 9
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 5: COMMERCIAL TERMS & CONDITIONS
+
+Price Basis
+Ex – Works, Goa, India.
+Packing Charges
+3 % of the basic order value.
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN CODE
+9027.1000
+Freight Charges
+To Pay Basis or claimed extra at actual on prepaid basis
+Insurances
+To be Borne by the Customer.
+Delivery
+Within 8 months from the date of Manufacturing Clearance.
+Offer validity
+30 days.
+Payment Terms
+20% Advance with the Purchase Order, 20 % against drawing approval &
+Balance 60 % against Proforma Invoice on readiness of material prior to
+dispatch.
+Warrantee Clause
+Against manufacturing defects for 12 months from the date of Commissioning or
+18 months from the date of dispatch whichever is earlier.
+
+For Adage Automation Pvt. Limited
+
+Mr. Himanshu Kapoor
+
+himanshu@adage-automation.com
+
+ADAGE- GOA

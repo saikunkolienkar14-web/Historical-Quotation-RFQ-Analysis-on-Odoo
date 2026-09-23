@@ -1,0 +1,376 @@
+www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+
+To, 
+ 
+Eleme Fertilizer & Chemicals Ltd. 
+East-West Express Way, Eleme 
+Port Harcourt, Nigeria 
+
+ 
+ 
+Attention: 
+Mr. Nitin Shibe | Instrumentation - Fertilizers 
+
+Subject: 
+Gas analyser system for measurement of CO at A-104-D2 OUTLET 
+ 
+Reference: 
+Techno-Commercial Proposal No. Q2507AKAI015 R2 
+ 
+Dear Sir, 
+ 
+Adage Kanoo Analytical Industry LLC would like to thank you for your opportunity to quote for analyzer systems, for Eleme 
+Fertilizer & Chemicals Ltd. We are pleased to submit our proposal for the opportunity as under. 
+ 
+In line with your email dtd 8th July 2025, we have removed the Sample Handling system from our scope of supply. Kindly ensure at 
+site the sampling pressure of 10-15 PSIG and the temperature of less than 30 DegC is maintained. 
+ 
+Feel free to revert, in case of any additional information or queries on our offer to the undersigned. 
+ 
+Yours sincerely, 
+
+Ganesh Govindaraj 
+
+Megha Palan 
+Email: govind@adage-kanoo.com 
+
+Email: sales@adage-kanoo.com 
+
+ 
+
+ 
+ Our Quotation No: Q2507AKAI015 R2 
+Date: 15.07.2025 
+ 
+Contact persons: 
+ 
+Mr. Ganesh Govindaraj 
+Email: govind@adage-kanoo.com 
+Mob: +971 58 5213703 
+(Head - Business unit & Sales) 
+ 
+Ms. Megha Palan 
+Email: sales@adage-kanoo.com 
+Mob: +971 52 2885599
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+A. TABLE OF CONTENTS 
+ 
+Section 
+Section Title 
+1.0 
+Project Overview & AKAI Solution 
+2.0 
+Summary of Bill of Material & Price 
+3.0 
+Detailed Bill of Material 
+4.0 
+Key Highlights of the Products Offered 
+
+ 
+
+ 
+
+ 
+ 
+ Revision History: 
+
+ 
+Rev 
+Date 
+Revision detail 
+0 
+02.07.2025 
+Initial submission 
+1 
+15.07.2025 
+Rev 1, with only analyzers quoted 
+2 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+Our proposal includes: 
+ 
+Design, Engineering and Supply as per Summary of Prices 
+ 
+Supervision of Installation and Commissioning of the complete System 
+ 
+Project Management and Project Documentation 
+ 
+Exclusions 
+ 
+All Erection and Installation Activity. 
+ 
+Any kind of Civil Work or Mechanical Work. 
+ 
+Temperature controlled room where the analysers shall be mounted 
+ 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+ 
+Loop checking for analog & digital signals. (Adage shall provide assistance) 
+ 
+Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal / serial 
+communication cables etc. 
+ 
+Calibration Gas Cylinders. 
+ 
+Laying of trays/structural and support for field tubing. 
+ 
+Cooling water required needs to be provided by Indorama. 
+ 
+M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+ 
+SECTION 2: DETAILED SUMMARY OF PRICES 
+SL 
+NO
+DESCRIPTION 
+QTY 
+UNIT PRICE 
+(USD)
+TOTAL PRICE 
+(USD)
+1 
+GAS ANALYZER SYSTEM FOR MEASUREMENT OF CO AT A-104-D2 
+OUTLET 
+Make: Siemens 
+Model: ULTRAMAT6F - 7MB2111-1AN60-0AA1-Z E74 
+Principle: NDIR 
+Component to be measured : CO/CH4 
+Area Classification: Suitable to Zone 1, IIC, T4, Exp 
+Mounting Location: Extractive Type 
+ 
+Measuring Ranges: 
+ 
+CO: 0-1% 
+ 
+With range of 0-1 % the detection limit shall be 0.01% 
+ 
+ 
+Analyzer output: 
+ 
+4-20 mA 
+ 
+Digital Outputs 
+ 
+RS485 
+ 1 Nos 
+25,707.00 
+24,317.00 
+
+ 
+
+ 
+
+ 
+
+ 
+2 
+SUPERVISION OF INSTALLATION AND COMMISSIONING CHARGES 
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, 
+Visa charges is to be arranged by customer) INCL. 8 Hrs per day 
+PER 
+DIEM 
+2,000.00 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+SECTION 5: KEY HIGHLIGHTS OF PRODUCT OFFERED 
+ 
+ULTRAMAT 6F 
+
+ 
+ 
+Benefits: 
+High selectivity with double-layer detector and optical coupler 
+• Reliable measurements even in complex gas mixtures Low detection limits 
+• Measurements with low concentrations Corrosion-resistant materials in gas path (option) 
+• Measurement possible in highly corrosive sample gases Analyzer cells can be cleaned as required on site 
+• Cost savings due to reuse after contamination Electronics and physics: gas-tight isolation, purging is possible, IP65 
+• Long service life even in harsh environments Heated versions (option) 
+• Use also in presence of gases condensing at low temperature for Zones 1 and 2 (in accordance with to ATEX 2G and ATEX 3G) 
+• Two-door enclosure with gas-tight separation of the electronics modules from parts conveying gas 
+• Individually purgeable enclosure halves 
+• Parts in contact with sample gas can be heated up to 65 °C (option) 
+• Gas path: hose made of FKM (Viton) or pipe made of titanium or stainless steel (further materials possible as special 
+applications) 
+• Gas connections for sample gas inlet and outlet: pipe union for pipe diameter 6 mm or 1/4" 
+• Purging gas connections: pipe diameter 10 mm or 3/8" 
+
+ 
+Commercial Details: 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+ 
+Proposal validity: 
+Unless otherwise specified by Seller, Seller’s price for the Goods and/or Services shall remain in effect 
+for thirty (30) days after the date of Seller’s quotation or acceptance of the order for the 
+Goods/Services, whichever is delivered first, provided an unconditional, complete authorization for 
+the immediate manufacture and shipment of the Goods and/or provision of Services pursuant to 
+Seller’s standard order processing procedures is received and accepted by Seller within such time 
+period. If such authorization is not received by Seller within such thirty (30) day period, Seller shall 
+have the right to change the price for the Goods/Services to Seller’s price in effect for the 
+Goods/Services at the time the order is released to final manufacture. Notwithstanding any of the 
+foregoing to the contrary, the price for Goods/Services sold by Seller, but manufactured by others, 
+shall be Seller’s price in effect at the time of shipment to Buyer. 
+
+Payment 
+Milestones: 
+
+ 
+Mode 
+of 
+Payment:
+ 
+Through wire transfer after receipt of invoice 
+ 
+Delivery Time: 
+ 
+26 weeks from Key document approval in Code 2 (approved with minor comments) 
+ 
+Key Documents: Analyzer Data Sheet, GA Drawing, Schematic Diagram, Wiring Drawing & ITP 
+
+Cancellation 
+Charges: 
+
+ 
+
+Cancellation 
+Clause: 
+CUSTOMER shall be entitled to cancel the Purchase Order, wholly or partly, by notice in writing to the 
+Vendor, if Vendor is in default of any of its obligations under the Purchase Order and fails, within 
+thirty (30) days of the date of CUSTOMER’s notification in writing of the existence of the default, 
+either to rectify such default if it is reasonably capable of being rectified within such period or, if the 
+default is not reasonably capable of being rectified within such period, to take action to remedy the 
+default or on the occurrence of an insolvency event in relation to Vendor In the event of termination 
+of this Agreement, CUSTOMER shall be obliged to pay the reasonable cost and expense of any work in 
+progress and to pay for all Goods delivered and Services performed as at the date of termination 
+
+ 
+Milestone Table 
+Milestone Description
+%Value
+1
+Upon submission of Order Acceptance
+25%
+2
+Upon submission of Un Priced PO copies, for Analyzer, Shelter & HVAC
+25%
+3
+Completion FAT
+45%
+4
+Upon readiness of shipment
+ 5.0%
+Item 
+Description 
+% Total Order Value 
+1 
+Within 30 days after Receipt of P.O. 
+Costs Incurred + 15% 
+2 
+Upon Completion of Engineering / Drawing Submittal 
+30% of PO Value 
+3 
+Upon Procurement of Materials 
+70% of PO Value 
+4 
+Upon Release to Production 
+80% of PO Value 
+5 
+Upon Completion of Production 
+95% of PO Value 
+6 
+Upon Shipment 
+100% of PO Value 
+
+ 
+
+ 
+ www.adage-kanoo.com 
+
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+
+Liquidated 
+Damages: 
+ 
+Not applicable 
+ 
+Bank Guarantee: 
+Not applicable 
+ 
+Incoterms: 
+ 
+CPT - Lagos 
+
+Warranty: 
+Goods are warranted for twelve (12) months from the date of initial installation OR eighteen (18) 
+months from the date of shipment by Seller - whichever occur earlier. 
+ 
+VAT: 
+Not Included 
+ 
+Address for 
+PO placement: 
+Adage Kanoo Analytical Industry LLC 
+D 64 & 65 / KLP 3 
+KEZAD, Abu Dhabi 
+United Arab Emirates 
+sales@adage-kanoo.com 
+
+“Adage Kanoo Analytical LLC, Abu Dhabi (The Company) is committed to the highest standards of business and ethical 
+conduct and may request the completion of a Due Diligence Questionnaire (DDQ). If such completion is requested, 
+acceptance of any order resulting from this quotation shall be subject to the favorable review of the DDQ submitted.

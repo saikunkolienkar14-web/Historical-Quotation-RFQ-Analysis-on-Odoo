@@ -1,0 +1,154 @@
+Quotation Number: Q25N10074
+BOQ Status: FOUND
+
+Item Description
+Qty.
+Total Price(INR)
+1
+-
+H2S Analyser (0-5000 PPM)
+1 No
+72,00,000/-
+2
+-
+H2S Analyser (0-50 PPM)
+1 No
+72,00,000/-
+3
+-
+Supervision of installation & commissioning
+Per Diem
+50,000/-
+SECTION 2: TECHNICAL LITERATURE
+1
+EXTRACTIVE LASER BASED H2S ANALYSER
+Tag No: To be provided
+Service: H2S, NH3, H2O
+Make: AIROPTIC
+Model: GASEYE Extractive
+Operating Principle: TDLAS
+Area Classification: Safe Area
+Mounting Location: Inside SS cabinet,
+Component to be measured: H2S
+Loop Cable: As required
+Ingress Protection: IP66
+Measuring range: H2S: 0-5000 PPM
+Accuracy 2% of measured value or LOD
+Precision 1% of measured value or LOD
+LOD (Limit od detection) H2S < 2 ppmv
+Process Conditions at Sample Inlet:
+-
+Temperature (Op/Design): 90/125 Deg C
+-
+Pressure (Op/Design): 0.5/3.5 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+Modbus TCP IP output
+-
+Digital fault alarms
+1 No
+Quoted
+1.a
+Sample Welded Probe Assembly
+-
+Sample Heated probe with welded isolation valve
+-
+1.5’’ 300# RF flange,
+1 No
+Quoted
+1.b
+Sample Transportation tube:
+-
+1⁄4’’ SS316 HTT tube, Qty: 10 meters for supply
+10 Meters
+Quoted
+1.c
+Sample handling system consisting of:
+-
+Ball valve, Sample cooler, Flowmeter for supply with low
+flow switch, NRV, filter (Non redundant configuration), etc.
+-
+Shall be mounted inside heated SHS box.
+1 No
+Quoted
+1.d
+Analyser Cabinet:
+-
+800mm x 800mm x 2100mm, MOC: SS304, (Approx
+dimension shall be provided post order)
+-
+With Required JB’s
+-
+PDB
+-
+Headers and other accessories
+1 No
+Quoted
+2
+EXTRACTIVE LASER BASED H2S ANALYSER
+Tag No: To be provided
+Service: H2S, NH3, H2O
+Make: AIROPTIC
+Model: GASEYE Extractive
+Operating Principle: TDLAS
+Area Classification: Safe Area
+Mounting Location: Inside SS cabinet,
+Component to be measured: H2S
+Loop Cable: As required
+Ingress Protection: IP66
+Measuring range: H2S: 0-50 PPM
+Accuracy 2% of measured value or LOD
+Precision 1% of measured value or LOD
+LOD (Limit od detection) H2S < 2 ppmv
+Process Conditions at Sample Inlet:
+-
+Temperature (Op/Design): 40/75 Deg C
+-
+Pressure (Op/Design): 1.4/5.0 kg/cm2-g
+Analyzer output:
+-
+4-20 mA Analog output
+-
+Modbus TCP IP output
+-
+Digital fault alarms
+1 No
+Quoted
+2.a
+Sample Welded Probe Assembly
+-
+Sample Heated probe with welded isolation valve
+-
+1.5’’ 300# RF flange,
+1 No
+Quoted
+2.b
+Sample Transportation tube:
+-
+1⁄4’’ SS316 HTT tube, Qty: 10 meters for supply
+10 Meters
+Quoted
+2.c
+Sample handling system consisting of:
+-
+Ball valve, Sample cooler, Flowmeter for supply with low
+flow switch, NRV, filter (Non redundant configuration), etc.
+-
+Shall be mounted inside heated SHS box.
+1 No
+Quoted
+2.d
+Analyser Cabinet:
+-
+800mm x 800mm x 2100mm, MOC: SS304, (Approx
+dimension shall be provided post order)
+-
+With Required JB’s
+-
+PDB
+-
+Headers and other accessories
+1 No
+Quoted

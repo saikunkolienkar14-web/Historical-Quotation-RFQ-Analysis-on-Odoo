@@ -1,0 +1,100 @@
+Quotation Number: Q2508M026
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sl.NO
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+CEMS ANALYZERS MOUNTED INSIDE CABINET
+Component to be measured: SOx/NOx/CO/CO2
+Service: On Stack Measurement.
+Type: Hot wet Extractive.
+Hazardous Area Classification: Zone 1 IIC T3 with Purge
+Mounting Location: Ex-Proof Cabinet with Vertex Cooler.
+For Measurement of NOX/SOX Make: Ametek Model: 920
+(Extractive Type)
+Technology: UV
+For Measurement of CO /CO2 Make: Ametek
+Model: 5100HD
+Technology: TDLAS
+Sample Conditions at Tapping Point:
+• Temperature (Min/Max): 300 / 650°C
+• Pressure (Normal): Not Provided (kgf/cm2-g)
+• Sample return: to Vent
+Measuring Ranges:
+• SOx: 0 – 10000 PPM
+• NOx: 0 – 700 mg/m3
+• CO: 0 –1500 mg/m3
+Probe Details:
+• Heated sample probe with required flanges.MOC: SS316
+• Process connection: To be provided
+• Suitable for Zone 2 IIC
+Analyzer Outputs:
+• 2 nos x 4-20 mA Analog output
+• 1 nos x RS-232 Output
+• 1 nos x RS-485 Output
+• Potential free contacts for fault
+Utilities Required:
+• Power supply: 110 VAC, 50HZ UPS
+• Power supply: 230 VAC, 50HZ Non UPS
+• Instrument Air @ 4-5bar, Free of Oil, Dust & Moisture.
+Notes: Power and signal cables shall be in customer scope of
+supply.
+1 Nos.
+2,50,00,000/-
+2,50,00,000/-
+2
+Sulfur Recovery Tail Gas Analyzer H2S/SO2 .
+Make: Ametek, USA
+Model: Ametek 888
+Area Classification: Zone 1 IIC T3
+Principle: Non-dispersive UV
+Protection: IP65,
+Measurement range- SO2: 0-1%; H2S: 0-2% (standard output
+range) air demand, excess H2S or excess SO2 (as control
+outputs)
+2 Nos
+2,50,00,000/-
+5,00,00,000/-
+3
+Oxygen Analyser Analyser
+Make: Ametek,
+USA Model: WDG-V-HP
+Mounting Location: In-Situ Mounting with sample probe
+Hazardous Area Classification: Zone 2, IIA/IIB/IIC, T3
+Principle: Zirconia Enclosure
+Protection: IP65, NEMA 4X
+Components to be Measured: Oxygen (0-25%)
+Probe Connection: 4"NPS x Sch 40 with 150# WNRF Flange
+Probe Type/Length: MOC:316SS / 910 to 2740 mm
+Analyzer Output:
+- 4-20 mA Analog output for oxygen measurement.
+- RS485 Modbus Serial Output
+Remote Calibration Unit (RCU) : Mounted on field Rack with
+Canopy: -
+for Auto/Manual calibration. - With HMI (Suitable for Zone-2),
+Make Ametek. - With electrical JB - HMI mounted on field rack
+with canopy extending 2 feet outside from all sides
+2 Nos.
+35,00,000/-
+70,00,000/-
+3
+SUPERVISION OF INSTALLATION AND COMMISSIONING
+CHARGES FOR EXPORT JOB
+(Boarding – Lodging – Local Conveyance, To and fro Air
+Ticket/ AC II Train Fare to Be Arranged by Customer)
+Per MANDAY
+1200 EURO ( PER MANDAY )
+
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope.
+
+Plant Instrument air & Nitrogen required
+
+Power Supply Utilities required are:
+ Power Supply: 230 VAC, 50 Hz (Non-UPS)
+ Power Supply: 230 VAC, 50 Hz (UPS)

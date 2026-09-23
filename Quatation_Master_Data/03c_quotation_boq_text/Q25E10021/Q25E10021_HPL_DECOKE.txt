@@ -1,0 +1,202 @@
+Quotation Number: Q25E10021
+BOQ Status: FOUND
+
+Item Description
+Qty
+Total
+Price(INR)
+1
+F-202 to F-209
+Decoke Effluent CO2 analyser for 8
+Streams
+1 No
+Quoted
+2
+F-201
+Decoke Effluent CO2 analyser for 1
+Stream
+1 No
+Quoted
+3
+-
+FAT
+1 Lot
+Quoted
+4
+-
+Supervision of Erection and
+Commissioning
+Lumpsum Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+Decoke Analyser for CO2 measurement
+Tag No of Stream:F202 to F209
+Service: DECOKING EFFLUENT FROM NAPHTA
+FURNANCES
+Make: Siemens
+Model: Ultramat 6F
+Measurement Range : 0-10Mol%
+Hazardous Area Classification: Zone 1, Gr IIC, T3
+Mounting Location: Inside Analyser Panel Assembly
+Process Condition:
+Sample Point:
+-
+Temperature (Nor/ Max): 350 / 400 Deg C
+-
+Pressure (Op): 0.2 kg/cm2g
+Return Point:
+-
+It is advisable to return the sample to flare
+Analyser Outputs:
+-
+4-20 mA Analog output for measuring component.
+-
+RS-485 / Ethernet Modbus Serial Output
+-
+Potential free contacts for fault & other alarms.
+Note : Stream switching shall be done from DCS. The required
+SOV’s and other arrangement shall be part of offered system.
+1 No
+Quoted
+1.1
+Sample Flange with reflux Cooler and Pneumatic Valve
+Assembly
+-
+MOC: SS316
+-
+Connection: 3/4”, 150# RF connection
+Note : Sample tapping point is provided with Pneumatic ball
+valve assembly with actuator and 5 way SOV, which shall be
+operated from DCS to isolate sample in case of failure of cooling
+water supply.
+8 Nos
+Quoted
+1.2
+Sample Line
+-
+1⁄4” SS316 HTT
+50 Mtrs X8
+Quoted
+1.3
+Secondary Sample Handling System mounted inside
+analyser enclosure (as per SHS P&ID)
+- With Stream Selection valve assembly
+- With membrane filter assembly followed Flow meter
+- With Sample pump assembly
+- With gas cooler assembly
+- With glass tube rotameter for sample inlet
+1 No.
+Quoted
+- With three way solenoid valve assembly for calibration
+- Above items shall be completely tubed and equipped in a
+suitable size panel assembly
+1.4
+Calibration Gases:
+Span Calibration blend with cylinder pressure regulator
+Zero Calibration blend with cylinder pressure regulator
+1 No each
+Quoted
+1.5
+Analyser Cabinet Assembly
+MOC: CRCA painted
+Make : Adage
+•
+With utility header assembly
+•
+With Power distribution PDP
+•
+With signal distribution PDP
+•
+With Ex-Proof Air conditioner Unit
+1 No
+Quoted
+2
+Decoke Analyser for CO2 measurement
+Tag No of Stream:F201
+Service: DECOKING EFFLUENT FROM RECYCLE
+FURNANCE
+Make: Siemens
+Model: Ultramat 6F
+Measurement Range : 0-10Mol%
+Hazardous Area Classification: Zone 1, Gr IIC, T3
+Mounting Location: Inside Analyser Panel Assembly
+Process Condition:
+Sample Point:
+-
+Temperature (Nor/ Max): 350 / 400 Deg C
+-
+Pressure (Op): 0.2 kg/cm2g
+Return Point:
+-
+It is advisable to return the sample to flare
+Analyser Outputs:
+-
+4-20 mA Analog output for measuring component.
+-
+RS-485 / Ethernet Modbus Serial Output
+-
+Potential free contacts for fault & other alarms.
+Note : Stream switching shall be done from DCS. The required
+SOV’s and other arrangement shall be part of offered system.
+1 No
+Quoted
+2.1
+Sample Flange with reflux Cooler and Pneumatic Valve
+Assembly
+-
+MOC: SS316
+-
+Connection: 3/4”, 150# RF connection
+Note : Sample tapping point is provided with Pneumatic ball
+valve assembly with actuator and 5 way SOV, which shall be
+operated from DCS to isolate sample in case of failure of cooling
+water supply.
+1 No
+Quoted
+2.2
+Sample Line
+-
+1⁄4” SS316 HTT
+50 Mtrs
+Quoted
+2.3
+Secondary Sample Handling System mounted inside
+analyser enclosure (as per SHS P&ID)
+- With membrane filter assembly followed Flow meter
+- With Sample pump assembly
+- With gas cooler assembly
+- With glass tube rotameter for sample inlet
+- With three way solenoid valve assembly for calibration
+Above items shall be completely tubed and equipped in a
+suitable size panel assembly
+1 No.
+Quoted
+2.4
+Calibration Gases:
+Span Calibration blend with cylinder pressure regulator
+Zero Calibration blend with cylinder pressure regulator
+1 No
+Quoted
+2.5
+Analyser Cabinet Assembly
+MOC: CRCA painted
+Make : Adage
+•
+With utility header assembly
+•
+With Power distribution PDP
+•
+With signal distribution PDP
+•
+With Ex-Proof Air conditioner Unit
+1 No
+Quoted
+3
+FAT
+1 Lot
+Quoted
+4
+Supervision of Erection and Commissioning
+(To & Fro charges will be in customer scope)
+Lumpsum
+Quoted

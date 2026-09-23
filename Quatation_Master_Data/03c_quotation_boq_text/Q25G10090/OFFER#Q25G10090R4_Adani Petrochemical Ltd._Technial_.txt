@@ -1,0 +1,66 @@
+Quotation Number: Q25G10090R4
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL
+PRICE
+(INR)
+1
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations : 4 Nos
+Make: HEMERA
+Model: G800
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+SHS components and safe area analyser mounted inside
+purged panel. For further details kindly refer attached P&ID &
+BOM.
+•
+With remote calibration
+2 SETS
+QUOTED
+QUOTED
+2
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations: 3 Nos
+Make: HEMERA
+Model: G800
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+SHS components and safe area analyser mounted inside
+purged panel. For further details kindly refer attached P&ID &
+BOM.
+•
+With remote calibration
+2 SETS
+QUOTED
+QUOTED
+3
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+Suitable for Zone 2
+MOC: PTFE; Tube size: 1/4”
+With all necessary accessories and JB’S
+@QUOTED PER METER
+4
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Lodging and boarding to be arranged by the customer. To and
+To be claimed at actuals (ACII tier/flight).
+@QUOTED PER MANDAY
+NOTE: PLEASE NOTE OFC HARDWARE I.E CONVERTORS ,PATCH CORD AND PATCH PANEL AT THE ANALYSER PANEL END IS
+CONSIDERED IN THE OFFER. HOWEVER ALL THE OFC CABLES SUPPLY AND LAYING, OFC HARDWARE AT THE DCS, CCR SHALL BE
+IN ADANI SCOPE.

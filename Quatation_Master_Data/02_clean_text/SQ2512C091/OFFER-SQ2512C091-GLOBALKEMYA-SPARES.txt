@@ -1,0 +1,596 @@
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+TO,
+
+GLOBALKEMYA INDIA LLP
+
+3/683 Bunder Road 2nd Cross,
+First Floor Bin Sayeed Complex,
+Bhatkal - 581320 Karnataka India
+
+SUBJECT
+
+: QUOTATION FOR GAS ANALYSER SPARES
+
+REFERENCE/RFQ
+: RFQ# GKPR-6530
+
+KIND ATTENTION
+: PURCHASE DEPARTMENT
+
+Dear Sir,
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If
+you have any questions or require additional information, please feel free to contact us.
+
+TABLE OF CONTENTS: -
+
+SECTION 1: SUMMARY OF PRICES
+
+SECTION 2: COMMERCIAL TERMS & CONDITIONS
+
+Our Quotation No. SQ2512C091
+Dated: 13-12-2025
+
+Contact persons :
+
+Mr. Vishnu Birmole
+Email: vishnu@adage-automation.com
+Mob: +91 9987538932
+(Adage-Goa-HO)
+
+Mr. Samaresh Dey
+Email: samaresh@adage-automation.com
+Mob: +91 9769012864
+(Adage-Goa-HO)
+
+Mr. Pravin S
+Email: pravin@adage-automation.com
+Mob: +91 9629393373
+(Adage-Regional)
+TECHNOCOMMERCIAL QUOTATION
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 1: SUMMARY OF PRICES
+
+SR.
+NO.
+DESCRIPTION
+PART NO.
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+1
+Probe, RTD 100 ohm, 1/8”, 14" leads,
+3-wire
+Manufacturer: VALMET Automation
+OY, Finland
+Part No.: A5E02144046001
+Type/Specs: RTD Probe, 100 Ω, 1/8",
+14" leads, 3-wire
+Equipment Type: Analyzer
+Equipment Model: Maxum II
+A5E02144046001
+36
+54,797.00
+19,72,692.00
+2
+RTD, Push-in Style for FID/FPD
+temperature sense (Max II)
+Manufacturer: VALMET Automation OY
+Type/Specs: RTD Push-in style for
+FID/FPD
+Equipment Type: Analyzer
+Equipment Type: Analyzer
+A5E02143849002
+15
+57,028.00
+8,55,420.00
+3
+Valco Valve Rotor, Internal Loop,
+Valcon-E (0.2/0.5 μl)
+Manufacturer: VALMET Automation OY
+Type/Specs: Internal loop rotor,
+0.2/0.5 μl
+Equipment Type: Analyzer
+Equipment Type: Analyzer
+1675001-002
+3
+91,741.00 2,75,223.00
+4
+Valco Valve, 10-Port, Valcon-E
+Manufacturer: VALMET Automation OY
+Type: 10-port analytical valve
+Equipment Type: Analyzer
+Equipment Type: Analyzer
+1671003-064
+11
+4,82,037.00 53,02,407.00
+5
+Valco Valve Rotor, 10-Port, Valcon-E
+Manufacturer: VALMET Automation OY
+Type: Rotor, 10-port
+Equipment Model: Maxum II
+1675001-031
+11
+81,531.00
+8,96,841.00
+6
+SYSCON Interface Board (SIB)
+Manufacturer: VALMET Automation OY
+Type: SYSCON Interface Board
+Equipment Model: Maxum II
+BOARD,PCBA,
+SYSCON NTERFACE,
+V2 (SIB2) Replaced
+by A5E02599491005
+37
+4,92,684.00
+1,82,29,308.00
+7
+Communication & Control Board V3
+(CAC3) with Software
+Manufacturer: VALMET Automation OY
+Type: CAC3 board
+Model: Maxum II
+A5E02599492004
+37
+3,24,280.00
+1,19,98,360.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+8
+SYSCON 2 to HMI Cable – Direct
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E02588477001
+35
+25,218.00
+8,82,630.00
+9
+SYSCON 2 (SIB) to SNECON Cable —
+CAT5 Ethernet
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+1681003-007
+35
+3,545.00
+1,24,075.00
+10
+SYSCON Internal Serial Port Cable –
+Serial 1 or 2
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2017906-001
+35
+25,962.00
+9,08,670.00
+11
+SYSCON Internal Serial Port Cable –
+Serial 3/4 or Debug
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2017906-002
+39
+27,535.00
+10,73,865.00
+12
+PCBA SNECON5, without 10BASE2
+Coax
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+Type: SNECON5 PCB
+A5E02829199001
+37
+3,97,478.00
+1,47,06,686.00
+13
+Fuse Kit
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2020151-001
+40
+40,547.00
+16,21,880.00
+14
+Power Entry & Control Module (PECM)
+w/ 2 Temp Controllers + SVCM
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E50358782001
+40
+3,66,232.00 1,46,49,280.00
+15
+PCBA, PECM Control Board
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E50358782003
+39
+3,66,232.00
+1,42,83,048.00
+16
+PCBA, PECM SSR Board
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021789-001
+39
+1,06,909.00
+41,69,451.00
+17
+Power Supply Module for GC (with
+cables)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+1481000-008
+81
+2,04,464.00
+1,65,61,584.00
+18
+Memory Replacement Module — 32kB
+Dynamic RAM
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+1226015-707
+38
+92,616.00
+35,19,408.00
+19
+EPC Module — Complete with
+Manifold & Seals
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2020165-001
+35
+4,39,011.00
+1,53,65,385.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+20
+Wiring Distribution Board (WDB+T)
+Replacement Kit
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E02652008001
+36
+75,379.00
+27,13,644.00
+21
+Internal Ethernet Cable Kit
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2020158-001
+40
+93,645.00
+37,45,800.00
+22
+Solenoid Valve Control Module (with
+O-rings, no electronics)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2020166-001
+34
+2,84,118.00
+96,60,012.00
+23
+Solenoid Kit
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2022021-001
+38
+2,05,358.00
+78,03,604.00
+24
+Fitting, Ferrule — 1/16" SST Valco
+(ZF1)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+1291510-005
+38
+3,355.00
+1,27,490.00
+25
+Fitting, Nut — 1/16" SST Valco (ZN1)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+1291509-003
+38
+3,355.00
+1,27,490.00
+26
+KIT; PCBA; DIO I2C (will need cables)
+NOTE: P/N 2017519-803 HAS BEEN
+REPLACED BY A5E03660723001. THE
+REPLACEMENT WILL HAVE THE SAME
+FIT, FORM AND FUNCTIOIN. LEAD
+TIME 6 - 8 WEEKS ARO
+A5E03660723001
+11
+3,94,381.00
+43,38,191.00
+27
+22-Pin Connector for I/O Boards
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+1700280-001
+25
+7,497.00
+1,87,425.00
+28
+FID 302A Assembly
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021651-002
+11
+9,40,300.00
+1,03,43,300.00
+29
+Seal Kit, FID Maxum IIManufacturer:
+VALMET Automation OYModel: Maxum
+II
+2020387-701
+17
+58,632.00
+9,96,744.00
+30
+Filter Kit, FID Maxum II
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2020388-701
+17
+32,088.00
+5,45,496.00
+31
+Quartz Jet Kit, FID Maxum II
+2020389-701
+12
+90,574.00
+10,86,888.00
+32
+Restrictor — Combustion Air, SS
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021388-003
+13
+90,574.00
+11,77,462.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+33
+Restrictor — Admixed Air, SS
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021388-002
+9
+90,574.00 8,15,166.00
+34
+Restrictor — Hydrogen, SS
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021388-001
+9
+90,574.00 8,15,166.00
+35
+Insert Assembly, Flame Arrestor (302)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021347-004
+14
+65,050.00
+9,10,700.00
+36
+Heater Assembly for FID & FPD (115
+VAC)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E41666957001
+14
+2,25,777.00
+31,60,878.00
+37
+TCD DPM with Shield/Connector
+Board (Without TC)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E36128806004
+24
+7,91,678.00
+1,90,00,272.00
+38
+Siemens Needle Valve Kit, High-
+Temperature (Graphite Ferrule)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2022001-002
+5
+1,47,893.00 7,39,465.00
+39
+Valve, Model 50 — 10 Port
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2017660-001
+30
+4,15,967.00
+1,24,79,010.00
+40
+Model 11 Sample Valve — External
+Loop, LP, SST
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2000627-011
+2
+4,15,967.00
+8,31,934.00
+41
+Model 11 Sample Valve, LDV —
+Internal Loop 0.5 μl (with purge)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2000627-025
+1
+4,77,807.00
+4,77,807.00
+42
+Model 11 Sample Valve Cap — LDV,
+0.5 μl, SST
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2015594-001
+2
+1,42,351.00
+2,84,702.00
+43
+Model 11 LDV Adapter Tube — SST
+(Clear Color Band)
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2015573-001
+1
+34,130.00
+34,130.00
+44
+Air Treater — 115V, CSA/CENELEC
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+A5E47258767001
+14
+3,77,025.00
+52,78,350.00
+45
+TCD-2 Thermistor Bead Kit
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2020176-001
+27
+1,74,876.00 47,21,652.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+46
+Reference Flow Restrictor — Carrier
+Gas to Detector Reference
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021240-001
+44
+16,773.00
+7,38,012.00
+47
+Air Bath Heater II Assembly
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+2021284-001
+40
+2,94,837.00
+1,17,93,480.00
+48
+Pressure Switch — 5 psig, Oven Air
+Manufacturer: VALMET Automation OY
+Model: Maxum II
+US2-1605001-007
+38
+42,589.00 16,18,382.00
+
+CORPORATE HQ & REGISTERED OFFICE
+Adage Automation Private Limited
+Satra Plaza, Office No: 506, Sector 19 D,
+Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+
+0832-6620500
+www.adage-automation.com
+Adage Automation Private Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+CIN No: U 74900 MH 2001 PTC133206
+
+SECTION 2: COMMERCIAL TERMS AND CONDITIONS
+
+Price Basis
+Ex-Works Goa
+Packing Charges
+Extra 3% on basic value of the PO
+GST
+Extra as applicable at the time of delivery. Presently 18%
+HSN Code
+9033.00.00
+Freight Charges
+Customer A/c
+Insurances
+Customer A/c
+Delivery
+Within 20 weeks from the date of receipt of Purchase Order
+Offer validity
+30 days
+Payment Terms
+100% Payment against Proforma Invoice
+GSTIN NO
+30AADCA1647D1ZF
+
+Yours faithfully,
+
+For Adage Automation Pvt. Limited
+
+Mr. Vishnu Birmole
+Email: vishnu@adage-automation.com
+Mob: +91 9987538932
+(Adage-Goa-HO)

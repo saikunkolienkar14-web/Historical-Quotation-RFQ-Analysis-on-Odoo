@@ -1,0 +1,136 @@
+Quotation Number: Q25W10172
+BOQ Status: FOUND
+
+Qty
+Description
+Unit Price
+Total Price
+1
+1
+O2 + COe Analyser (001-AT-2000)
+Quoted
+Quoted
+2
+1
+O2 + COe Analyser (001-AT-2001)
+Quoted
+Quoted
+3
+1
+O2 + COe Analyser (002-AT-2100)
+Quoted
+Quoted
+4
+1
+O2 + COe Analyser (051-AT-2200)
+Quoted
+Quoted
+5
+1
+Project Documentation
+Quoted
+Quoted
+6
+1
+FAT at Adage Factory
+Quoted
+Quoted
+7
+1
+Packing & forwading charges
+Quoted
+Quoted
+8
+Per
+Diem
+Supervision of installation & Commissioning
+(VISA, Air tickets, local boarding & Lodging shall be in
+Customer’s scope)
+Quoted
+Quoted
+SECTION 2: TECHNICAL LITERATURE
+1
+PROCESS CONDITIONS
+TAG NO: 001-AT-2000
+-
+Operating Pressure (Nor): -0.00025 Kg/cm2g
+-
+Operating Temperature (Nor): 758 Degree C
+Service: Flue Gas
+As per MR
+Requirement
+1.1
+Oxygen & Combustible Analyser
+Make: Ametek
+Model: WDG VC
+Mounting Location: In Situ mounting with sample probe
+(Closed Couple Type)
+Hazardous Area Classification: Zone 2 IIC, T3
+Principle: Zirconia
+Rating: IP65
+Measuring range :
+O2: 0-10 vol%
+COe: 0-500 ppmv
+Process Connection: 4" 150# Flanged
+Probe Type :
+-
+MOC: SS310
+-
+4" 150# Flanged connection
+Analyser Specifications:
+-
+Accuracy for O2: ± 0.75% or ± 0.05% of measured
+-
+value
+-
+Accuracy for Coe ± 2% of full-scale output range
+-
+Drift: - < 0.1% of cell output per month
+Air requirements:
+-
+3 SCFH typical at 3 to 6 psig, instrument air.
+Utilities Required:
+-
+Power Input: 115 VAC,60Hz, power consumption is 800VA.
+Analyzer Outputs:
+1 No
+Quoted
+-
+With 4-20 mA Analog output.
+-
+With RS-485 Serial Output
+-
+Potential free contacts for fault
+1.2
+Remote Calibration Unit (RCU): Mounted on field Skid with Canopy
+-
+RCU unit for Auto/Manual calibration with SOV & flowmeter
+-
+With HMI (Suitable for Zone-2), Make Ametek.
+-
+With electrical JB, MOC: LM6
+-
+1⁄4” SS316 Tubing between RCU unit and Analyzer Sensor. (80
+meters for calibration + 80 meters for aspirator)
+-
+Power Cable between Sensor Unit at Stack & HMI at grade level:
+(80 meters).
+-
+Signal Cable between Sensor Unit at Stack & HMI at grade level:
+(80 meters).
+-
+Communication Cable between Sensor Unit at Stack & HMI at
+grade level: (80 meters).
+-
+10L O2 & COe Calibration Gas regulators and required
+accessories by Adage.
+Note :
+-
+Instrument air at sensor unit on stack for purging shall be
+provided by customer.
+-
+4-20Ma Analog output & RS485 Serial output from sensor unit at
+stack till DCS/Control room in customer’s scope.
+-
+110 VAC 50Hz power supply shall be provided till RCU unit at
+grade level, further cabling upto sensor unit at stack shall be in

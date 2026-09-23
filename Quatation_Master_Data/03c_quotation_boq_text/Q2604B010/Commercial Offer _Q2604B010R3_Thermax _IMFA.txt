@@ -1,0 +1,129 @@
+Quotation Number: Q2604B010R3
+BOQ Status: FOUND
+
+SUMMARY OF PRICES
+Sr No
+DESCRIPTION
+QTY
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+1
+Gas Analyser system for measurement of CO, O2 at Boiler 1 Inlet and
+Boiler 2 Inlet
+With gas sampling probe (single probe for boiler inlet 1 and 2)
+With sample handling system
+With touch screen graphic color display – 7“
+With Common IP54 panel
+With Microprocessor-based analysers
+With calibration gas cylinders
+Ultramat 23 – 2 Nos.
+For the measurement of
+Carbon monoxide (CO)
+Oxygen (O2)
+Make: Siemens AG, Germany
+1 Set
+35,00,000/-
+35,00,000/-
+2
+Heat trace tube for Sample gas transportation for boiler Inlet 1 and 2
+MOC: PTFE; size: 1⁄4’’
+@ 4000/- per meter
+3
+Gas Analyser system for measurement of CO, O2 at Boiler 1 Outlet and
+Boiler 2 Outlet
+With gas sampling probe (single probe for boiler outlet 1 and 2)
+With scavenging box for Auto probe cleaning
+With sample handling system
+With touch screen graphic color display – 7“
+With Common IP54 panel
+With Microprocessor-based analysers
+With calibration gas cylinders
+Ultramat 23 – 2 Nos.
+For the measurement of
+Carbon monoxide (CO)
+Oxygen (O2)
+Make: Siemens AG, Germany
+1 Set
+34,00,000/-
+34,00,000/-
+4
+Dust Monitor at Boiler Inlet 1 and 2
+Make: Adage
+Laser Back Scattering Method.
+Range: 0~50mg/m3 (min).
+Explosion-proof marking: Ex ia IIC T6 Ga.
+Inner diameter: 1700m.
+Outer Diameter: 1716mm.
+Optical Path: 1.1m.
+Flue gas temperature: 0~150°C
+Communication: RS485.
+Ambient Temperature: (-20~50)°C.
+Ambient Humidity: <85%RH, no condensation.
+Note: utility requirement: Instrument air free from oil, dust &
+moisture at 4/6 bar to be provided by the customer.
+2 Sets
+5,50,000/-
+11,00,000/-
+5
+Gas analysis system for measurement of CO, NO, SO2 at stack
+With gas sampling probe
+With Auto probe cleaning facility
+With Blow back unit
+With sample handling system
+With IP54 panel
+With Calibration gas cylinders
+With Microprocessor based Analyser
+With touch screen graphic color display – 7“
+Ultramat 23 – 01 No.
+For Carbon Monoxide (CO)
+For Nitric Oxide (NO)
+For Sulphur Dioxide (SO2)
+Analyser make: Siemens Ag, Germany
+1 Set
+25,00,000/-
+25,00,000/-
+6
+Datalogger for CEMS (without PC)
+Data logger system with software for connecting the system to CPCB &
+SPCB.
+Inclusive of subscription charges for one year, after which charges
+@6,000/- per component shall be applicable per year.
+Note: SIM card for Datalogger and All bill payments shall be in
+customer's scope
+1 Set
+1,60,000/-
+1,60,000/-
+7
+Heat trace tube for Sample gas transportation for CEMS and boiler
+outlet 1 and 2
+MOC: PTFE; size: 1⁄4’’
+@ 3100/- Per Meter
+8
+Dust monitor for stack
+Make: E&H, Germany
+Analyser model no.: SB-30
+Measurement principle: Scattered light intensity (backward scattering)
+Output: 0/2/4 ... 20 mA
+Automatic self-test
+Digital outputs 3 relay contacts for status signals
+power supply: voltage 230 VAC
+Power consumption ≤ 4 W
+Note: utility requirement: Instrument air free from oil, dust &
+moisture at 4/6 bar to be provided by the customer.
+1 Set
+7,20,000/-
+7,20,000/-
+9
+Supervision Of Installation & Commissioning Charges
+(Boarding – Lodging – Local Conveyance, To And Fro Air Ticket/ Ac II
+Train Fare To Be Arranged By Customer)
+@ 30,000 /- Per Man Day
+Note:
+•
+Please note that the quoted analyser Systems are for safe area and is to be placed in an air-conditioned
+room.
+•
+According to latest CPCB guidelines ,O2 needs to be measured for compensation .Hence please confirm if O2
+needs to be quoted for CEMS.

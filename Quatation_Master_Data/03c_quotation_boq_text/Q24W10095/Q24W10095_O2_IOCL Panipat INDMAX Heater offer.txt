@@ -1,0 +1,59 @@
+Quotation Number: Q24W10095
+BOQ Status: FOUND
+
+ITEM DESCRIPTION
+QTY.
+PRICE
+1
+TDLAS Based Oxygen Analyzer
+Tag No: 419-AT-2701
+Area Classification: Zone 1 IIC T3
+Make: Siemens AG, Germany
+Model: SITRANS SL
+Mounting Location: Field Skid with Canopy, MOC: MS epoxy painted,
+Extractive.
+Principle: TDLAS (Tunable Diode Laser Absorption Spectroscopy)
+Enclosure Protection: IP65
+Process Parameters:
+-
+Pressure (Operating): 0.7 Kg/cm2
+-
+Temperature (Operating): 46°C
+Measuring Ranges:
+-
+0-25 % O2
+With Secondary sample handling system consisting of:
+-
+With Heated Flow through cell for mounting of analyzers
+-
+With Ball valves, Flow meters, AFR
+-
+With EP-EHT 1/4’’ SS316 line for sample transportation-10 mtrs
+-
+Return Line: To LP flare header
+-
+With Aspirator System for Extraction of Sample Gas
+-
+Mounting of Analyser on Field Rack (MS epoxy painted)
+Process Connection
+-
+3/4’’ 150# RF Flange, with isolation valve
+Analyzer Outputs
+-
+4-20 mA analog output for measuring component.
+-
+RS-485 Modbus Serial output
+-
+2 configurable digital outputs
+Required Utility Purging (with N2):
+-
+Sensor (Electronics) purge flow: 0.25 l/min
+1 No
+Quoted
+Calibration:
+-
+Factory Calibrated.
+-
+Further calibration can be checked by instrument air.
+Notes:
+-

@@ -1,0 +1,184 @@
+Quotation Number: Q25G10090R9
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+SR.NO.
+DESCRIPTION
+QTY.
+UNIT PRICE
+(INR)
+TOTAL PRICE
+(INR)
+OPTION 1- SAFE AREA ANALYSER WITH SHS COMPONENTS MOUNTED INSIDE PURGED PANEL
+1.
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations : 4 Nos
+Make: HEMERA
+Model: G800
+Measuring Principle: UV Spectroscopy
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+Safe area analyser and SHS components mounted inside purged
+panel. For further details kindly refer attached P&ID & BOM.
+•
+Purged Cabinet with panel AC For Cl2 Analyser (04 Nos.) for both
+train, 401/402-AT -552303 –to 401/402-AT -552603, MOC: -
+SS316.
+•
+With remote calibration.
+Note: Please note that the panel dimensions shall be provided during
+detail Engineering.
+2 Sets
+Quoted
+Quoted
+2
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations: 3 Nos
+Make: HEMERA
+Model: G800
+Measuring Principle: UV Spectroscopy
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+Safe area analyser and SHS components mounted inside purged
+panel. For further details kindly refer attached P&ID & BOM.
+•
+Purged Cabinet with panel AC For Cl2 Analyser (03 Nos.) for both
+train, 401/402-AT-552703 to 401/402-AT-552903, MOC: -SS316.
+•
+With remote calibration
+Note: Please note that the panel dimensions shall be provided during
+detail Engineering.
+2 Sets
+Quoted
+Quoted
+3
+OFC COMMUNICATION HARDWARE
+Note: OFC communication hardware i.e patch panels, patch cords,
+Ethernet -OFC convertor at the panel end shall be provided. However,
+all the cables for OFC communication shall be in customer's scope.
+2 Sets
+Quoted
+Quoted
+4
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+Suitable for Zone 2
+MOC: PTFE; Tube size: 1/4”
+With all necessary accessories and JB’S
+70 Meters x
+14
+@ Quoted
+per meter
+Quoted
+TOTAL PRICE FOR SUPPLY (FOR ITEM Sr NO-1 TO 4)
+Quoted
+OPTION 2 - Exd ANALYSER WITH CERTIFIED COMPONENTS
+5
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations : 4 Nos
+Make: HEMERA
+Model: G800 Exd
+Measuring Principle: UV Spectroscopy
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+Cabinet with panel AC For Cl2 Analyser (04 Nos.) for both train,
+401/402-AT -552303 –to 401/402-AT -552603, MOC: -SS316.
+•
+With remote calibration.
+•
+For further details kindly refer attached P&ID & BOM.
+Note: Please note that the panel dimensions shall be provided during
+detail Engineering.
+2 Sets
+Quoted
+Quoted
+6
+GAS ANALYSIS SYSTEM FOR MEASUREMENT OF Cl2
+Number of tapping locations: 3 Nos
+Make: HEMERA
+Model: G800 Exd
+Measuring Principle: UV Spectroscopy
+Component to be measured : Cl2
+Extractive Type System
+Measuring Range:
+•
+Cl2: 0-10 mg/m3
+With Sample handling system
+•
+Cabinet with panel AC For Cl2 Analyser (03 Nos.) for both train,
+401/402-AT-552703 to 401/402-AT-552903, MOC: -SS316.
+•
+With remote calibration
+•
+For further details kindly refer attached P&ID & BOM.
+Note: Please note that the panel dimensions shall be provided during
+detail Engineering.
+2 Sets
+Quoted
+Quoted
+7
+OFC COMMUNICATION HARDWARE
+Note: OFC communication hardware i.e patch panels, patch cords,
+Ethernet -OFC convertor at the panel end shall be provided. However, all
+the cables for OFC communication shall be in customer's scope.
+2 Sets
+Quoted
+Quoted
+8
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION
+Suitable for Zone 2
+MOC: PTFE; Tube size: 1/4”
+With all necessary accessories and JB’S
+70 Meters x
+14
+@ Quoted
+per meter
+Quoted
+TOTAL PRICE FOR SUPPLY (FOR ITEM Sr NO-5 TO 8)
+Quoted
+9
+SPARE LIST
+Pump service kit-1 No.
+Peristatic pump- 1 No.
+Dual Stage Pressure Regulator for Span gas Calibration cylinder-1 No.
+3/2 Way Solenoid valve -2Nos
+1 Set
+Quoted
+Quoted
+10
+SUPERVISION OF INSTALLATION & COMMISSIONING CHARGES
+Charges for 30 Mandays in 3 visits shall be @Quoted beyond which
+charges shall be @Quoted per manday shall be applicable.
+Quoted
+11
+CUSTOMER WITNESSED FACTORY ACCEPTANCE TEST (FAT) FOR
+TWO (2) DAYS AT OUR WORKS.
+Quoted
+NOTE: Please note OFC hardware i.e convertors, patch cord and patch panel at the analyser panel end is considered in the
+offer. However, supply and laying of all the OFC cables shall be in customer’s scope. Also, OFC hardware at the other end
+/DCS, CCR shall be in customer’s scope.
+Please note the validity of the offer shall be up to 31st December 2025.Beyond that there will be a price increment of 7.5% for
+every 12 months.
+Kindly note the price provided is considering 1 EURO=102 INR .If euro increase beyond 31st December 2025 the incremental
+EURO cost at that time will be applicable in addition to price increment of 7.5%
+12
+OEM TRAINING CHARGES FOR 5 PERSONS FOR 2 DAYS
+Quoted
+13
+PRE-FAT CHARGES AT OEM FACTORY
+Quoted
+14

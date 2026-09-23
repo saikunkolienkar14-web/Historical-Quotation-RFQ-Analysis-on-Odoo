@@ -1,0 +1,732 @@
+S no.
+Descripition
+Requirement
+Adage Compliance
+1
+Ultra high purity HC and mositure free zero air to be generated for
+CAAMS Analyzers
+Confirmed.
+2
+Removal of a variety of pollutant gases
+Confirmed.
+3
+Output pressure
+Min 35 Psi
+5 bar ( ±65 psi)
+4
+Compressed air
+Supplied by internal oil and noise free compressor
+Confirmed.
+5
+Remote control
+USB. RS485 (Mod-Bus) or Display Through Ethernet 10/100 network Log
+book download by USB.
+Confirmed.
+6
+Inlet / outlet fittings
+Stainless steel 1/4" compression; 3 no. 1/4" O/L connections
+1/8 “ Swagelok
+7
+Mounting
+Shall be suitable for 19" rack with rack mounts and slides. Item to be
+supplied with
+necessary slides for installation in the existing 19" rack.
+Confirmed.
+8
+Output
+30 SLPM@ 30 psig or better
+4 SLPM @5bar
+9
+Dew Point
+negative 20oC or better
+-60°C
+10
+Dryer
+Regenerative heatless dryer with lifetime of greater than 5 years;In case
+of dryer
+performance decreases during the life time agency to replce the dryer at
+free of cost.
+5 years.
+11
+SO2 < 0.025 ppb or better
+< 1 ppb
+12
+H2S < 0.025 ppb or better
+< 1 ppb
+13
+NO < 0.025 ppb or better
+< 1 ppb
+14
+NO2 < 0.025 ppb or better
+< 1 ppb
+15
+NH3 < 0.1 ppb or better
+< 1 ppb
+16
+O3 < 0.3 ppb or better
+< 1 ppb
+17
+CO < 10 ppb or better
+< 30 ppb
+18
+H2O<10 ppm (-20 deg C dew point) or better
+< 100 ppm
+20
+HC (CH4) < 0.25ppb or better
+< 30 ppb
+21
+Particulates < 0.1 micro meter
+Confirmed.
+22
+Compressor
+In built; continous operations
+Confirmed.
+23
+Power Requirements
+220V-240VAC, 50/60Hz
+Confirmed.
+24
+Operating
+Temperature Range
+Confirmed.
+5 - 40oC
+25
+Area Classification
+Safe area
+Confirmed.
+26
+IP classification
+IP 20
+Confirmed.
+27
+Electrical connection
+Plug in type
+Confirmed.
+28
+Dimensions
+suitable for installation in the space of 10” (H)x 20(W)” x 30”(D)
+Confirmed.
+29
+Mode of operation
+(Continous/discrete)
+Confirmed.
+Continous
+30
+Inlet/Outlet fittings
+AIR IN: (1/4” female pipe thread)
+DRAIN: (1/4” swage-type bulkhead union)
+ZERO AIR OUT: (1/4” swage type bulkhead union)
+Internal compressor
+4 mm push drain
+1/8 “ Swagelok
+31
+scrubbers
+High Purity HC/CO Scrubber,NO/No2 scrubber,charcoal
+scrubber,Perticulate
+Confirmed.
+Attachment-1
+General
+Output Concentration
+
+Model: SynX Air Generator
+
+Make: Synspec.
+S no.
+Description
+Requirement
+1
+General
+Ultra-high purity HC and moisture free zero air to be generated for CAAMS
+Analysers
+2
+Removal of a variety of pollutant gases
+3
+Output pressure
+5 bar (±65 psi)
+4
+Compressed air
+Supplied by internal oil and noise free compressor
+5
+Remote control
+USB. RS485 (Mod-Bus) or Display Through Ethernet 10/100 network Logbook
+download by USB.
+6
+Inlet / outlet fittings
+1/8” Swagelok
+7
+Mounting
+Shall be suitable for 19" rack with rack mounts and slides. Item to be supplied
+with
+necessary slides for installation in the existing 19" rack.
+8
+Output
+4 SLPM @5bar
+9
+Dew Point
+-60°C
+10
+Dryer
+Regenerative heatless dryer with lifetime of 5 years.
+11
+Output Concentration
+SO2 < 1 ppb
+12
+H2S < 1 ppb
+13
+NO < 1 ppb
+14
+NO2 < 1 ppb
+15
+NH3 < 1 ppb
+16
+O3 < 1 ppb
+17
+CO < 30 ppb
+18
+H2O < 100 ppm
+20
+HC (CH4) < 30 ppb
+21
+Particulates < 0.1 micrometer
+22
+Compressor
+In built; continuous operations
+23
+Power Requirements
+220V-240VAC, 50/60Hz
+24
+Operating
+Temperature Range
+5 - 40oC
+25
+Area Classification
+Safe area
+26
+IP classification
+IP 20
+27
+Electrical connection
+Plug in type
+28
+Dimensions
+suitable for installation in the space of 10” (H)x 20(W)” x 30”(D)
+29
+
+Continuous
+30
+Inlet/Outlet fittings
+AIR IN: Internal compressor
+DRAIN: 4 mm push drain
+ZERO AIR OUT: 1/8” Swagelok
+
+Mode of operation
+
+ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+Address:- PLOT NO L-26B, PH-II VERNA, INDUSTRIAL ESTATE VERNA,
+SALCETE, SOUTH GOA – 403722, GOA
+CIN: U26109GA2023PTC016005
+
+CERTIFICATE FOR LOGISTIC SUPPORT
+
+I,
+
+on
+
+behalf
+
+of
+
+M/s
+
+Adage Analytics
+
+Solutions
+
+Private
+
+Limited
+
+confirm
+
+that
+
+the
+
+Zero Air
+Generator
+
+and Gas Sampling System
+
+quoted by us for
+
+Hindustan Petroleum Corporation Ltd.
+against
+
+GEM
+
+Bid
+
+No:GEM/2026/B/7211947 Dated:09-02-2026
+
+shall
+
+continue
+
+to
+
+be
+supported by us
+
+for Gas Sampling System,
+
+and our principal
+
+M/s
+
+Synspec B.V.
+for
+
+Zero Air Generator.
+I, further confirm that in case of placement of order by M/s
+
+Hindustan Petroleum Corporation
+Ltd.
+
+on us, we shall continue to support M/s
+
+Hindustan Petroleum Corporation Ltd.
+
+in providing
+back-up engineering, maintenance support, and spare part support to
+
+Hindustan Petroleum
+Corporation
+
+Ltd.
+
+for
+
+a
+
+period
+
+of
+
+not
+
+less than
+
+ten
+
+(10)
+
+years
+
+from
+
+the
+
+date
+
+of
+
+placement
+
+of
+order.
+
+(signature with seal)
+Name: Saheel Patil
+Designation:
+
+Sr.Engineer
+Date:
+
+09/02/2026
+
+8/3/23, 12:34 PM
+Print : Udyam Registration Certificate
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+1/2
+UDYAM REGISTRATION CERTIFICATE
+UDYAM REGISTRATION NUMBER
+UDYAM-GA-02-0014343
+NAME OF ENTERPRISE
+M/S ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+TYPE OF ENTERPRISE *
+SNo. Classification Year Enterprise Type Classification Date
+1
+2023-24
+Micro
+03/08/2023
+MAJOR ACTIVITY
+MANUFACTURING
+SOCIAL CATEGORY OF
+ENTREPRENEUR
+GENERAL
+NAME OF UNIT(S)
+S.No.
+Name of Unit(s)
+1
+M/S ADAGE ANALYTICS SOLUTIONS PRIVATE LIMITED
+OFFICAL ADDRESS OF ENTERPRISE
+Flat/Door/Block
+No.
+PT NO L-
+26B
+Name of
+Premises/
+Building
+PH-II VERNA
+INDUSTRIAL ESTATE
+VERNA
+Village/Town
+-
+Block
+-
+Road/Street/Lane
+Verna
+Salcete
+City
+-
+State
+GOA
+District
+SOUTH GOA , Pin
+403722
+Mobile
+9920217222
+Email:
+paul@adage-
+automation.com
+DATE OF INCORPORATION /
+REGISTRATION OF ENTERPRISE
+05/07/2023
+DATE OF COMMENCEMENT OF
+PRODUCTION/BUSINESS
+05/07/2023
+NATIONAL INDUSTRY
+CLASSIFICATION CODE(S)
+SNo.
+NIC 2 Digit
+NIC 4 Digit
+NIC 5 Digit
+Activity
+1
+26 -
+Manufacture of
+computer,
+electronic and
+optical products
+2651 -
+Manufacture of
+measuring,
+testing,
+navigating and
+control
+equipment
+26511 -
+Manufacture of
+physical
+properties
+testing and
+inspection
+equipment
+Manufacturing
+2
+32 - Other
+manufacturing
+3290 - Other
+manufacturing
+n.e.c.
+32909 -
+Manufacture of
+other articles
+n.e.c.
+Manufacturing
+DATE OF UDYAM REGISTRATION
+03/08/2023
+
+8/3/23, 12:34 PM
+Print : Udyam Registration Certificate
+https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx
+2/2
+* In case of graduation (upward/reverse) of status of an enterprise, the benefit of the Government Schemes will be availed as per
+the provisions of Notification No. S.O. 2119(E) dated 26.06.2020 issued by the M/o MSME.
+Disclaimer: This is computer generated statement, no signature required. Printed from https://udyamregistration.gov.in & Date of printing:-
+03/08/2023
+For any assistance, you may contact:
+1. District Industries Centre:
+GOA ( GOA )
+2. MSME-DFO:
+GOA ( GOA )
+Visit i www.msme.gov.in; www.dcmsme.govjn; wv
+®@®© Follow us @minmsme &
+
+Adage Automation Private Limited I Annual Report 2023-24
+CIN: U74900MH2001PTC133206
+Standalone Balance Sheet
+As at March 31, 2024
+Particulars
+EQUITY AND LIABILITIES
+1. Shareholders Funds
+(a) Share Capital
+(b) Reserves & Surplus
+2. Non-Current Liabilities
+(a) Long Term Borrowings
+3. Current Liabilities
+(a) Short Term Borrowings
+(b) Trade Payables:
+(i) Total O/s dues of Micro & Small enterprises
+(ii) Other than (i) above
+(c ) Other Current Liabilities
+(d) Short Term Provision
+Total Liabilities
+ASSETS
+1. fllon-Current Assets
+(a) Property Plant and Equipment and Intangible Assets
+(i) Tangible Assets
+(ii) lnangible Assets
+(b) Non-Current Investments
+(c) Deferred Tax Assets (Net)
+(d) Other Non-Current Assets
+2. Current Assets
+(a) Inventories
+(b ) Trade Receivables
+(c) Cash and Cash Equivalents
+(d) Short Term Loans and Advances
+(e) Other Current Assets
+Total Assets
+Notes
+3
+4
+5
+6
+7
+7
+8
+9
+lO(a)
+l0(b)
+11
+12
+13
+14
+15
+16
+17
+18
+The accompanying notes 1 to 41 are an integral part of the Standalone Financial Statements
+As per our report of even date
+For GKR & Associates
+Chartered Accountants
+Firm registration number. 139864W
+Ganesh Kumar
+Partner
+Membership No. 146054
+UDIN: 24146054BKBNYQ6130
+Place : Mumbai
+Date : 26-Jul-2024
+As at
+March 31, 2024
+2,23,43,000
+58,06,09,931
+60,29.52,931
+16,96, 15,164
+16,96,15,164
+22,98,98,677
+79,08,974
+27,31,81,494
+11, 18.83,470
+8,85,Q2,607
+71,13,75,223
+1,48,39,43,318
+22,61,99,130
+21,50,152
+44,00,000
+66,54,836
+7,44,499
+24,01,48,617
+48,02.49.245
+56,61,61,648
+7,49.84,808
+8,47,37, 180
+3,76,61,820
+1,24,37,94, 701
+1,48,39,43,318
+(Amount ,n Rupees)
+As at
+March 31, 2023
+2,22,33,000
+42,43,31,887
+44,65,64,887
+1,63,53,871
+1,63,53,871
+12,83,37,138
+1,64,99,367
+20,71, 10,582
+1,02.55.185
+8,83,04,872
+45,05,07. 144
+91,34,25,902
+12,41,92,046
+7,20,331
+34,10,000
+49,44,562
+98,259
+13,33,65, 198
+34.78, 18,787
+35,00.46.623
+2, 15,61,333
+3,78, 14,013
+2,28, 19,948
+78,00,60, 704
+91,34,25,902
+For and on behalf of the Board of Directors of
+Director
+DIN: 00710055
+Place: Mumbai
+Dale : 26-Jul-2024
+s--u}
+.,
+Abhijit Chatterjee
+Director
+DIN : 00709S39
+
+Adage Automation Private Limited I Annual Report 2023-24
+CIN: U74900MH2001PTC133206
+Standalone Statement of Profit and loss
+For the year ended on March 31, 2024
+Particulars
+I. Revenue from operations
+II. Other Income
+Ill. Total Revenue
+IV. Expenses :
+Notes
+19
+20
+Cost of Materials consumed
+21
+Change in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade
+22
+Employee benefits expense
+23
+Finance Cost
+24
+Depreciation and amortisation expense
+25
+Other expenses
+26
+V. Total Expenses
+VI. Profit before tax (Ill- V)
+VII. Tax expense :
+Current Tax
+Tax for earlier years
+Deferred Tax
+VIII. Profit for the year (VI- VII)
+IX.Earning per equity share (Face value Rs. 10/- per share)
+Basic
+12
+30
+The accompanying notes 1 to 41 are an integral part of the Standalone Financial Staterrents
+As per our report of even date
+For GKR & Associates
+Chartered Accountants
+Firm registration number. 139864W
+Ganesh Kumar
+Partner
+Membership No. 146054
+UDIN : 24146054BKBNYQ6130
+Place: Mumbai
+Date : 26-Jul-2024
+(Amount in Rupees)
+Year ended
+Year ended
+March 31, 2024
+March 31, 2023
+1,84,41,11.751
+1.41,09,90.42B
+"/1,96,217
+1, 16,23,323
+1,85, 13.07,968
+1,42,26, 13,751
+1,30,27,22,594
+1.01, 11.39, 155
+(4, 11,98,693)
+(7,53, 10,051)
+22,97,77,141
+19,04,96,565
+3,80,88,002
+2, 12.25,585
+1,48,66,847
+1,20.40,869
+9,62,2"/,240
+9,56.78,745
+1,64,04,83, 131
+1,25,52,70,868
+21,08,24,837
+16, 73,42,883
+5,68,29,373
+4,41,60,995
+(5,72,307)
+(17, 10,273)
+(3,37,291)
+5,45,46, 793
+4,41,23,704
+15,62, 78,044
+12,32, 19,179
+69.94
+76.79
+Fo.- ;ind on behalf of the Board of Directors of
+A
+Director
+DIN: 00710055
+Place : Mumbai
+DatP. : 26-Jul-2024
+Abhijit Chatterjee
+Director
+DIN : 00709539
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+TO WHOMSOVER IT MAY CONCERN
+
+Self Declaration - Subsidiary Relationship between Adage Analytics Solutions Private
+Limited and Adage Automation Private Limited
+
+I, Amit Kakkar, Sr. Vice President – Commercial of Adage Automation Private Limited, hereby
+declare and confirm the following:
+1. Adage Analytics Solutions Private Limited is a wholly-owned subsidiary of Adage
+Automation Private Limited.
+2. Adage Automation Private Limited holds a 99% ownership stake in Adage Analytics
+Solutions Private Limited.
+3. Adage Analytics Solutions Private Limited operates as a distinct legal entity with its
+own registration, governance, and business operations.
+4. All financial and operational activities of Adage Analytics Solutions Private Limited
+are under the direct control and supervision of Adage Automation Private Limited.
+5. Adage Analytics Solutions Private Limited complies with all applicable laws,
+regulations, and corporate governance standards under the oversight of Adage
+Automation Private Limited.
+This declaration is made for the purpose of providing clarity and confirmation of the subsidiary
+relationship between Adage Automation Private Limited and Adage Analytics Solutions Private
+Limited.
+I, Amit Kakkar, affirm that the information provided in this declaration is accurate and true to the
+best of my knowledge.
+
+For & on behalf of
+ADAGE AUTOMATION PVT LTD
+
+Name: Mr. Amit Kakkar
+Designation: Sr. Vice President – Commercial
+Date: 10.09.2024

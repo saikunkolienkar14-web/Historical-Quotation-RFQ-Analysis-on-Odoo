@@ -1,0 +1,71 @@
+Quotation Number: 2507W140
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF O2 ,
+HYDROGEN .
+MODEL: GAS EYE
+MEASUREMENT TECHNOLOGY: TUNEABLE LASER
+DIODE SPECTROSCOPY (TDLS)
+MAKE-AIROPTICS.
+GAS COMPONENT: O2,HYDROGEN
+TOTAL NO OF SAMPLING LOCATION: 1 Nos.
+WITH SENSOR AND TRANSMITTER ELECTRONICS
+MOUNTED ON SPOOL PEICE
+DEGREE OF PROTECTION: IP65
+WITH REFERENCE CELL FOR SELF-MONITORING
+DOCUMENTATION: ENGLISH
+3 Set
+65,00,000/-
+1,95,00,000/-
+1.2
+PRE FABRICATED HEAT TARCE TUBE FOR SAMPLE
+GAS TRANSPORTATION
+MOC : PTFE ; POWER SUPPLY: 230 VAC;
+PORT SIZE: 1⁄4’’
+DISTANCE FROM 1ST TAPPING POINT TO SP:
+DISTANCE FROM 1ST TAPPING POINT TO SP:
+Per
+Mtr
+Rs. 4600/- Per
+Meter.
+Rs. 4600/- Per
+Meter.
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mand
+ays
+45,000/-
+45,000/-
+Note:
+1. All signal, power & communication cable is in customer scope.
+2. Communication from gas analyser panel to Plant DCS is considered, required cable is in
+customer scope.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+•
+Power cable, signal cable is in scope of customer.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for Sample Tube for Sample Gas Transportation. Any Extra tubing
+Tube would attract a price per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel
+shall be Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.

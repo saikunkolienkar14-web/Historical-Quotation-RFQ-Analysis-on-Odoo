@@ -1,0 +1,66 @@
+Quotation Number: Q2501E010R7
+BOQ Status: FOUND
+
+SECTION 1: SUMMARY OF PRICES
+Sr. No
+Description
+Qty
+Unit Price in INR
+Total Price in INR
+1
+Analyser
+1 Lot
+₹ 66,50,000.00
+₹ 66,50,000.00
+2
+SHS
+1 lot
+₹ 22,00,000.00
+₹ 22,00,000.00
+3
+Commissioning – 15 mandays
+1 set
+Inclusive
+Inclusive
+Total
+₹ 88,50,000.00
+4
+Optional Price for O2 Analyser system
+1 set
+₹ 8,10,000.00
+₹ 8,10,000.00
+Sr.
+No.
+Description
+Qty
+Unit Price (INR)
+Total Price
+(INR)
+1
+GAS ANALYSER SYSTEM FOR CO2 MEASURMENT
+Tag No: AT1201
+Make: Siemens
+Model: ULTRAMAT6E
+Operating Principle: NDIR
+Area Classification: Safe Area
+Mounting Location: Rack mounted inside existing air conditioned control
+room
+Component to be measured: CO2
+Process Conditions at Sample Inlet:
+Stream No
+Pressure
+(bar g)
+Temperature
+(Deg C)
+AE-1201
+4.4
+16
+Measuring Range:
+• CO2: 0 - 5ppm
+With sample handling system Consisting of:
+• For SHS configuration, refer to P&ID and BOM in section 4
+• Further distribution to atm vent shall be in customers scope
+Analyzer Output:
+• 4-20 mA Analog Output
+• Digital Outputs
+Notes:

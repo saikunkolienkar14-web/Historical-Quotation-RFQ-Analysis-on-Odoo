@@ -1,0 +1,276 @@
+Quotation Number: SQ2506E233
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1
+"D-R 820 F SP P-L200-D13-E
+suitable for D-R 820 F
+- sample nozzle for probe
+- l=190 mm, id=13 mm
+- with flange od=64 mm
+- material 1.4571
+- for flue gas velocity 2-14m/s
+- incl. gasket and screws "
+1
+1,38,437.00
+1,38,437.00
+2
+"D-R 820 F SP Protective pipe L082-E
+suitable for D-R 820 F probe
+- total length L=820mm
+- outer diameter OD=65mm
+- material: 1.4571 "
+1
+2,28,478.00
+2,28,478.00
+3
+"D-R 820 F SP E-screws sample
+nozzle
+suitable for D-R 820 F
+- set of screws for mounting the
+sample nozzle
+- material: 1.4571 "
+1
+8,066.00
+8,066.00
+4
+Hose DN13-DA19-T100-EPDM
+suitable for D-R 820 F probe
+- hose for dilution air
+- id=13mm, od=19mm
+- T: -40 - 100°C
+- Pmax(20°C): 20bar
+- material: EPDM (red-black)
+1
+6,749.00
+6,749.00
+5
+Hose DN13-DA19-T100-EPDM
+suitable for D-R 820 F probe
+- hose for injector ai0072
+- id=25mm, od=34mm
+- T: -40 - 100°C
+- Pmax(20°C): 20bar
+- material: EPDM (red-black)
+1
+8,478.00
+8,478.00
+6
+D-R 820 F SP Hose D-R 800F purge
+air
+consisting of:
+- 0,6m PTFE-hose 4/6
+- 1x bulkhead fitting
+1
+20,247.00
+20,247.00
+7
+D-R 820 F SP Inlet filter 148x148mm
+suitable for D-R 820 F
+- inlet filter for D-R 820 F probe
+- dimension: 148x148mm
+1
+18,107.00
+18,107.00
+8
+D-R 820 F SP Filter mat 120x120mm
+suitable for D-R 820 F
+- filter mat for inlet filter of probe
+- dimension: 120x120mm
+1
+1,976.00
+1,976.00
+9
+D-R 820 F SP Housing fan 230V
+suitable for D-R 820 F
+- housing fan for D-R 820 F probe
+- protection class: IP 43
+- dimensions: 150x150mm
+- power supply: 230V
+- flow rate: 55m3/
+1
+54,815.00
+54,815.00
+10
+D-R 820 F Gasket OD190-ID100
+suitable for D-R 820 F
+- flange gasket between probe and
+flange
+- for flange DN80 PN6
+- material: Klingersil
+1
+7,573.00
+7,573.00
+11
+D-R 820 F SP Gasket OD59-ID37
+suitable for D-R 820 F
+- flange gasket between sample
+nozzle and probe
+1
+8,066.00
+8,066.00
+12
+D-R 820 F SP Gasket probe tube
+suitable for D-R 820 F probe
+- gasket for inside of probe tube
+1
+11,359.00
+11,359.00
+13
+3 way ball valve suitable for D-R
+820F
+- 3/2 way ball valve G1/2" for D-R
+820 F Sonde
+- incl. 90° swivle drive 85240VAC/DC
+-incl. 3 sealings
+-incl. distance shaft
+1
+4,31,605.00
+4,31,605.00
+14
+D-R 820 F SP Gasket ball valve
+suitable for D-R 820 F
+1
+4,280.00
+4,280.00
+15
+D-R 820 F SP Screw-in fitting ball
+valve suitable for D-R 820 F
+- screw-in fitting for mouting the ball
+valve to the sample tube
+1
+67,490.00
+67,490.00
+16
+D-R 820 SP Solenoid valve 230 V
+suitable for D-R 820 F
+- for probe 230 V
+- for switching of dilution air
+1
+1,62,963.00
+1,62,963.00
+17
+D-R 820 F SP Injector bottom part
+suitable for D-R 820 F
+1
+90,535.00
+90,535.00
+18
+D-R 820 F SP Injector center part
+suitable for D-R 820 F
+1
+1,47,984.00
+1,47,984.00
+19
+D-R 820 F SP Injector top part
+suitable for D-R 820 F
+1
+66,996.00
+66,996.00
+20
+D-R 820 F SP Gaskets injector
+suitable for D-R 820 F
+consisting of
+- 3x gaskets for injector
+1
+23,540.00
+23,540.00
+21
+D-R 820 F T Pin wrench
+suitable for D-R 820 F
+- tool for demounting of injector
+1
+10,371.00
+10,371.00
+22
+D-R 820 F T Set brushes
+suitable for D-R 820 F
+consisting of:
+- 4x brush
+- 1x extension
+- for probe cleaning
+1
+1,52,758.00
+1,52,758.00
+23
+D-R 820F SP PS-85-265VAC-2x12V
+suitable for D-R 820 F SU
+- power supply
+- input: 85-264 VAC,
+- output: +12VDC/-12VDC
+1
+73,252.00
+73,252.00
+24
+Miniature fuse 0.25 A slow, 5x20 mm,
+1 PKT = 10 pcs.
+1
+659.00
+659.00
+25
+D-R 820 F SP Relay K02/K04
+suitable for D-R 820 F SU
+- 1x relay for ball valve, solenoid or
+probe fan
+1
+13,581.00
+13,581.00
+26
+D-R 820 F SP Relay K01/K03
+suitable for D-R 820 F SU
+- 1x relay for probe or dilution air
+heater
+1
+39,424.00
+39,424.00
+27
+D-R 820 F SP SE2n 230V/50Hz
+suitbale for D-R 820 F
+- blower for dilution air type SE2n, IP
+65
+- Vmax (50Hz): 1,3 m3/min
+- Pmax (50Hz): 210 mbar
+- power supply: 1LNPE, 230V, 50 Hz
+1
+6,09,383.00
+6,09,383.00
+28
+D-R 820 F SP SE42 230V/50Hz
+suitbale for D-R 820 F
+- blower for injector type SE42, IP 65
+- Vmax (50Hz): 2,8 m3/min
+- Pmax (50Hz): 220 mbar
+- power supply: 1LNPE, 230V, 50 Hz
+1
+8,55,803.00
+8,55,803.00
+29
+D DCU 100 – Remote display for D-R
+820F
+1
+78,190.00
+78,190.00
+30
+D-R 820 F Modbus Output block
+1
+48,725.00
+48,725.00
+31
+Heat Traced Tube 230 VAC 1/4" PTFE", Constant Voltage Type
+1
+3,875.00
+3,875.00
+32
+Thermostat-50-300 Deg C, NO-NC contact, 1mtr copper
+capillary, 20A, IP65 With weather proof box
+1
+6,000.00
+6,000.00
+33
+Junction Box(4way) with Glands for Heat traced Tube
+1
+8,094.00
+8,094.00

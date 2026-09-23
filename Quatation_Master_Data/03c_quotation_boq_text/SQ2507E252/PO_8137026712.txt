@@ -1,0 +1,32 @@
+Quotation Number: UNKNOWN
+BOQ Status: FOUND
+
+Disnt Net Value (INR)
+Date
+Service Description
+INR
+% (Inc Dis & Oth)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+10
+30882587
+1.000
+AU
+95000.00
+95000.00
+14.05.2025
+Service for gas analyser IR source replc
+0010
+2 AU
+32,500.00
+MUTLI GAS ANALYSER CALIBRATION & MAINT
+2-NOS OF IR SOURCE REPLACEMENT IN ADAGE MAKE ANALYSERS
+CALIBRATION & MAINTENANCE OF ANALYSERS
+PROVIDE CERTIFICATE FOR THE ANALYSERS CALIBRATION
+0020
+1 LUM 30,000.00
+TO & FRO CHARGES
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Total value of WO in INR(Excluding Duties and Taxes ) :
+95,000.00
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Rupees Ninty Five Thousand

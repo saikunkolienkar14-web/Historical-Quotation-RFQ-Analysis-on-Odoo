@@ -1,0 +1,677 @@
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+R1Dear Sir/Madam,
+
+We thank you for your intrest in ADAGE AUTOMATION Products and with reference to the same please find
+enclosed our quotation for Design, engineering, manufacture and Supply of analyzer system which includes
+analyzers as per your requirement.
+
+The summary of system as per below sections.
+
+SECTION-1: SUMMARY OF PRICES
+SECTION-2: TECHNICAL LITERATURE
+SECTION-3: SCOPE DEFINITION
+
+ADAGE QUOTATION NO:
+
+Q23G10036R1
+
+DATED: 16/01/2025
+
+PROJECT TITLE:
+
+Reliance VMD GC AR3003 Upgradation
+
+INQUIRY DETAILS:
+
+RFX No: 1000168310
+
+CUSTOMER:
+
+Kind Attention: Krutika Joshi Wankhede
+Reliance Industries Limited
+
+END USER:
+
+Reliance Industries Limited
+Vadodara-India
+
+For any doubts/clarifications required, please do not hesitate to contact ADAGE team as per below matrix.
+
+ADAGE
+HO-Goa
+
+Mr. Damu Shelke/Mr. Sagnik Gupta
+Mob no: 9823840039/9619410222
+Mr. Vishnu Birmole
+Mob no: 9987538932
+EAST
+
+Mr. Mukesh Vishwakarma / Mr. Mrinmoy
+Mob no: 9831086433/ 9830810025
+Mr. Manas Das / Mr. A.K.Das
+Mob no: 9831086433/ 9830810025
+WEST
+
+Mr.Sameer Ghorpade / Ashutosh
+Mob no: 8888200099/ 9096312604
+Mr. Kamalesh Soni
+Mob no: 9724165626
+SBU HEAD
+
+Mr. Nitin Jain
+Mob no: 9374215140
+NORTH
+
+Mr. Abhijit Tapadar
+Mob no: 8368391639/ 8777831193
+Mr. Lokesh Bhandari
+Mob no: 9999085693
+SOUTH
+
+Mr. G. N. Rao
+Mob no: 9985379936
+Mr.Pravin S
+Mob no: 9629393373
+
+This is in context to your requirement of for Gas analysis System & We Thank you for the same.
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+ADAGE AUTOMATION is one of the leading Solution provider and supplier of Continuous Gas
+Analytical Systems and Solutions in India and worldwide. We provide solutions in Process, Emission
+Monitoring & Safety applications in the industrial field of Oil & Gas, Petrochemicals, Fertilizers,
+Chemicals, Steel, Cement, Power, etc
+
+We have 12 Offices across India, 2 in UAE & 1 in USA and have 250+ Specialist Engineers and a
+modern Factory at Goa. Our set up for On Line Gas Analytical Business is second to none in
+India. We have already installed more than 5000 Analyser Systems in India and at present moment
+enjoy a leadership position in the Steel, Cement , Oil & gas, Fertilizers, Power & other Industries
+domain. We are also the largest supplier and service provider of Gas Analytical Systems from India
+to over 40 countries in Europe, Africa, Middle East, Far East and South America.
+
+Our Works & Head Office are located at Goa. Our State of the art Lab and Repair centre is under
+joint investment from SIEMENS AG Germany catering to all round services & repair for our customers
+. Our State of the art factory with its highly sophisticated infrastructure is second to none in India.
+
+Our technology partners....
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 1: SUMMARY OF PRICES
+
+Sr.
+No.
+Tag No
+Item Description
+Qty
+Total Price(INR)
+1
+AR-3003
+Gas Chromatograph system
+
+1 No
+Quoted
+2
+
+Network components and other
+Accessories
+1 Lot
+Quoted
+3
+
+Supervision of erection and
+commissioning
+Lumpsum
+Quoted
+4
+
+FO cable
+A/R
+BY RIL
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+SECTION 2: TECHNICAL LITERATURE
+
+1
+PROCESS CONDITIONS COMMON FOR BOTH STREAMS
+TAG NO: AR-3003:
+-
+Supply Pressure (Nor/Max): 20.1/23 Kg/cm2
+-
+Temperature (Min/Nor): -40/-10 Degree C
+-
+Sample Return: To Vent Header/ Flare header (With Flame
+arrestor)
+Service: EF bottom section tray analyzer
+
+MR Requirement
+
+1.1
+Gas Chromatograph:
+MODEL: MAXUM EDITION II,
+MAKE: Valmet
+Hazardous Area Classification: Zone 1, llB+H2, T3
+Sample phase: Liquid
+No of Streams: 2
+
+Switching Valve : Mod 50 Valve
+GC Ambient Temperature : -18 – 50 Deg C
+Ambient Humidity : Max 80%
+Oven Type: Airless Oven
+Oven linder: Aluminium
+Oven Temperature Accuracy: +/-0.02 Deg C
+
+Analyzer Outputs:
+-
+4-20 mA Analog output for each measuring component
+-
+RS-485/ Ethernet Modbus/TCP IP Serial Output.
+-
+Potential free alarm contacts for Carrier pressure low, GC
+common fault, Purge failure.
+-
+Sample low flow & carrier pressure low contact in carrier ACU
+unit
+
+4-20 mA Analog output for cabinet temperature using RTD
+
+Utility Requirement:
+-
+110VAC 50 Hz UPS Power supply, 655 watts for GC
+-
+415VAC 50Hz Non UPS power supply, 7200 watts for HPR,
+Ex proof AC .
+
+1 No
+
+QUOTED
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+1.2
+Sample Probe for both streams: Not required
+-
+Directly from tapping point with isolation valve
+
+0 No
+
+1.3
+Sample transportation Line for supply:
+-
+1/4’’ SS316 tube for stream 1, Qty : 200 meters
+-
+1/4’’ SS316 tube for stream 2, Qty : 100 meters
+
+Sample transportation line for fastloop return:
+-
+1⁄4’’ SS316 tube for fastloop return for stream 1 : 50 meters
+-
+1⁄4’’ SS316 tube for fastloop return for stream 2 : 50 meters
+
+400
+meters
+1.4
+Sample handling system (Common for both the streams)
+Please refer BOQ and P&ID
+With Temperature gauge in SHS
+
+1 No
+1.5
+Calibration blend with double stage pressure regulator
+-
+For FAT, Commissioning & 1 year operation from the date of
+commissioning (2 No’s)
+-
+With cylinder rack (SS304 with canopy)
+
+1 Set
+1.6
+Auto changover unit with pressure switch for carrier gas
+cylinders
+One set of ACU unit for N2 gas required for Valve operation
+One set of ACU unit for H2 gas required for carrier gas
+Carrier gas cylinders shall be in the scope of RIL.
+
+1 No
+1.7
+Analyser cabinet
+-
+1000 W X 800 D X 2100 H mm, MOC: SS316, 2mm thick
+-
+ATM Vent Header with flame arrestor & Flare Header
+-
+Air header
+
+1 No
+1.8
+With Redundant Ex proof AC
+
+1 No
+each
+1.9
+-
+PDB x 2 No, Exd LM6 and JB's (ASJB,DSJB,CSJB, Exe GRP)
+is considered.
+
+1 Set
+1.10
+-
+Headers and other accessories
+
+1 Lot
+2
+Network Accessories at Cabinet side and MCR room
+-
+Ethernet to FO converter x 1 No
+-
+FO patch panel, patch cords x 2 Sets
+-
+FO to Ethernet converter x 1 No
+1 Set
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+2.1
+Desktop PC (Safe area) suitable for GCP portal software
+- Safe area Desktop PC with 21inch LED display, 500GB HDD with
+OS suitable for GCP portal software shall be provided
+1 No
+
+Quoted
+2.2
+GCP portal software
+1 No
+2.3
+Network cabinet as per RIL standard for mounting accessories in
+MCR room
+1 No
+3
+FAT at Adage factory
+1 Lot
+Quoted
+4
+Project documentation
+1 Lot
+Quoted
+5
+Training at Adage
+4 Engineer at Adage works
+1 Lot
+Quoted
+6
+Supervision of installation and commissioning
+Lump
+sum
+Quoted
+7
+Special tools & tackels (As applicable)
+1 No
+Quoted
+8
+Startup & Commissioning spares (As per TQ requirement)
+TCD element set for detector
+Column – 1 set
+Valves – 2 No
+1 Set
+Quoted
+9
+Spares/Consumables for 2 years (As per TQ requirement)
+set of fuse
+valve diaphragm sets
+Filter
+1 Set
+Quoted
+10
+FO cable
+350
+Meters
+Quoted
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+AVL for SHS components (As per TQ confirmation
+
+Pressure relieve valve
+Tescom/go
+Fine filter / Fastloop filter
+Headline/ Classic
+Ball valve SS 316
+Swagelok
+NRV SS 316
+Swagelok/ Hoke/ Parker
+Pressure Gauge SS 316
+Wika
+Pressure regulator
+Tescom/go
+Air Header
+Anderson Greenwood (Emerson)/ Comfit/
+Astec/ Champ Instr.
+Junction Boxes
+Hawke
+Stahl
+Cooper (Eaton)
+Phoenix Mecano
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+SECTION 3: SCOPE DEFINITION
+
+Our Scope of Supply and Work Includes:
+
+•
+Design, engineering, manufacturing, integration, calibration, Factory acceptance Test, Supply of
+complete analyzer system for the following analyzers as per MR.
+•
+Power distribution boxes as necessary for power distribution, junction boxes for
+termination of the signals.
+•
+Pipes/ tube and pipe/ tube fittings necessary for utility distribution for ADAGE supplied items.
+•
+Packing, forwarding, transportation of all analysers and Shelter & accessories (as per Section 4)
+•
+Project Management and Documentation
+•
+Documentation including as-built documentation, warranty of Complete Analyser system
+•
+Supply of spares and consumables as per MR requirements
+•
+Training at site as per MR requirements
+•
+Any other item or/ and activity not listed/ indicated specifically but necessary for successful operation of
+Analyzers.
+
+Our Scope of Supply Does Not Include:
+
+•
+Any kind of Civil Work or Mechanical Work.
+•
+Erection and Installation of analyzer Shelter and hookup of required utilities, prefabricated electrical
+traced tubes, baretubes, pipe, tube fittings betweensample take off and analyzer shelter & sampl
+e return, fast loop, vent lines etc.
+•
+Provision of nozzles near tapping point/Stack.
+•
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field
+•
+Loop checking for analog & digital signals related to filed/DCS connection.
+•
+Laying of Cable and cable trays for Power supply / analog and Digital signal / serial communication
+cables/field tubes etc.
+•
+Providing all utilities as specified in MR at one point/battery limit near each Analyzer Shelter in field.
+
+For Adage Automation Pvt. Limited
+
+Mr. Tejas Rivonkar
+
+tejas@adage-automation.com
+
++91 9284270984
+
+ADAGE- GOA
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+
+DETAILED GC CONFIGURATION:
+
+Tag Number: AR3003
+
+Hardware Configuration
+System Controller: Included
+Maxum Modular Oven: Left - None
+Right - Small oven, small module, 1 valve
+Detector: Thermal Conductivity
+Electronic Pressure Control Modules: 1
+Isolation Valve: Sample Shut-off Valve (SSO), Standard 2-Way (SS)
+Sample Valve: Model 50 Vapor Inject
+Human Machine Interface: Local Color Touch Screen
+Network: 2x Ethernet 10/100 Mb (twisted pair)
+with RJ45 connectors
+Modbus Output: RS-485, TCP/IP or via NAU
+Modbus Data Format: 32-bit IEEE Floating Point
+Digital Outputs: 1 (2 DOs reserved by System)
+Digital Inputs: 0
+Stream Switching: Pneumatically via Solenoid Valve Control Module(s)
+Engraved Plastic Tag: Included
+Other Tubing and Valves: Stainless Steel
+IP Rating: IP54, Category 1.
+
+Analytical Configuration
+Number of Streams: 2
+Validation: Automatic (with calibration standard)
+Repeatability Test: 8 Hours
+
+Analyzer Certification
+Area Classification: ATEX II 2 G IIC T4 (135°C) Gb
+Without APU
+Utility Requirements
+Carrier: Hydrogen (99.999%)
+System Power: 24V DC Internal Power Supply (for external 115 V / 230 V)
+Instrument Air: 0.07 SCF/min (2 L/min) at 15 psig (1.05 Kg/cm2)
+Valve Actuation Gas: 120 psig, (8.5 kg/cm2 or 8.3 barg) < 1 cc/min. (Must be
+non-flammable)
+
+Sample Inlet Conditions
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+Physical State: Vapor and liquid
+Temperature: Vapor: 0 - 135 °F (-18 - 57°C)
+Liquid: 50 - 250 °F (10 - 121°C)
+Return Pressure: As required to achieve sample flow.
+Vapor: At least 5 psi (0.35 kg/cm2 or barg) < Inlet Pressure
+is recommended
+Sample must equilibrate at atmospheric pressure prior to
+injection.
+Liquid: At least 15 psi (1.05 kg/cm2 or barg) < Inlet
+Pressure is recommended
+Recommend Analyzer Sample Flow: Vapor: 200 cc/min
+Liquid: 20 cc/min
+Recommend Filtration: Vapor: 1 μm
+Liquid: < 0.3 microns
+
+CORPORATE HQ & REGISTERED OFFICE
+
+Adage Automation Private Limited
+
+Satra Plaza, Office No: 506, Sector 19 D, Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA
+E mail: info@adage-automation.com
+
+Adage Automation Pvt. Limited
+L-26B, Phase II, Verna Industrial Area
+Verna, Goa – 403722, INDIA
+Tel: 0832-6620500, Fax: 0832-6620599
+www.adage-automation.com
+CIN No: U 74900 MH 2001 PT 133206
+Stream Number
+1
+Stream Tag
+STREAM-1
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer Vapor
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+Chemical Name
+Min
+Normal Max
+Measuring Range
+Low - High
+Unit
+Repeatability
+Ethylene
+0
+33.00
+100
+0 - 100
+VOL% 0.5 (% RSD)
+Ethane
+0
+67.00
+100
+0 - 100
+VOL% 0,5 (% RSD)
+C3s (AS BF C3+)
+0,01
+3.0
+6,0
+0 - 10
+VOL% 0,5 (% RSD)
+Stream Note
+• Cycle time 2 min
+• C3s = Propylene + Propane
+
+Stream Number
+2
+Stream Tag
+STREAM-2
+Aggregate State Sample Point
+Liquid
+Aggregate State Sample Analyzer Vapor
+The quoted analyzer will provide a measurement for the components indicated in the table below:
+Chemical Name
+Min
+Normal Max
+Measuring Range
+Low - High
+Unit
+Repeatability
+Ethylene
+2
+2
+100
+0 - 100
+VOL%
+0,5
+Ethane
+97.00
+97.00
+100
+0 - 100
+VOL%
+0,5
+C3s (AS BF C3+)
+1.0
+1.0
+6,0
+0 - 10
+VOL%
+0,5
+Stream Note
+• Cycle time 2 min
+• C3s = Propylene + Propane

@@ -1,0 +1,97 @@
+Quotation Number: Q2507W131
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+1.1
+GAS ANALYSER SYSTEM FOR MEASUREMENT OF
+CO2 FOR REHEATING FURNACE SRM
+WITH GAS SAMPLING PROBE
+WITH PANEL PURGING AUTO SAMPLE LINE CLEANING
+WITH SAMPLE HANDLING SYSTEM
+WITH SAMPLE PUMP
+WITH TOUCH SCREEN GRAPHIC COLOUR DISPLAY
+WITH IP 54 PANEL
+WITH CALIBRATION GAS CYLINDER
+MICROPROCESSOR BASED GAS ANALYSER
+ULTRAMAT 23 – 1 NO
+TUV QAL1 CERTIFIED GAS ANALYSER AS PER
+CPCB GUIDELINES
+For Carbon Monoxide (CO2) Measurement
+POWER SUPPLY: 230 VAC, 50 Hz.
+MAKE SIEMENS AG, GERMANY
+1 Set
+Rs. 22,00,000
+Rs.
+22,00,000.00
+1.2
+PTFE TUBE FOR SAMPLE GAS TRANSPORTATION
+MOC : PTFE ;
+PORT SIZE: 1⁄4’’
+DISTANCE FROM TAPPING POINT TO PANEL:
+Per
+Mtr
+Rs. 650
+Rs. 650/Meter
+1.3
+FLOW METER FOR MEASUREMENT OF STACK FLOW
+MULTI POINT DIFFERENTIAL PRESSURE
+TUV QAL1 CERTIFIED ANALYSER AS PER CPCB
+GUIDELINES
+WITH TEMPERATURE & PRESSURE TRANSMITTER
+FOR NORMALISATION OF READING
+MAKE: SIEMENS
+1 Set
+Rs. 12,00,000
+Rs.
+12,00,000.00
+SI
+No
+DESCRIPTION
+QTY
+UNIT PRICE
+TOTAL PRICE
+2
+SUPERVISION OF INSTALLATION & COMMISSIONING
+CHARGES
+(BOARDING – LODGING – LOCAL CONVEYANCE, TO
+AND FRO AIR TICKET TO BE ARRANGED BY
+CUSTOMER)
+Per
+Mand
+ays
+Rs. 40,000
+Rs.
+40,000/Manday
+Note:
+1. All signal, power & communication cable is in customer scope.
+2. Communication from gas analyser panel to Plant DCS is considered, required cable is in
+customer scope.
+3. CO2 reading in kg/ton will be provided from analyser panel HMI.
+SECTION 2: NOTE & SCOPE
+•
+External Cabling, Tubing, and all associated erection hardware shall be in Customer’s Scope.
+•
+Power cable, signal cable is in scope of customer.
+•
+All Interconnecting Cables Between analyzers to Sample point location shall be in customers Scope.
+•
+SS tubing from Calibration cylinder to analyser panel and from panel to vent is in customer scope.
+•
+Drilling the hole in the stack for flange with tube mounting is in customer’s scope.
+•
+We have mentioned Unit Rates for Sample Tube for Sample Gas Transportation. Any Extra tubing
+Tube would attract a price per meter.
+•
+Instrument air free from oil, dirt & moisture at 6kg/cm2 for purging.at stack and near scavenging panel
+shall be Provide by customer.
+•
+Power Supply Utilities required are at Each Stack & near Each Gas Analyser Panel.
+Power Supply: 230 VAC, 50 Hz (UPS) for analyzer.
+Power Supply: 230 VAC, 50 Hz (NON UPS) for analyzer.
+•
+Supply and laying of Signal Cable, Power cable is in scope of customer.
+•
+Air conditioner room shall be provide to mount gas analyzer system.

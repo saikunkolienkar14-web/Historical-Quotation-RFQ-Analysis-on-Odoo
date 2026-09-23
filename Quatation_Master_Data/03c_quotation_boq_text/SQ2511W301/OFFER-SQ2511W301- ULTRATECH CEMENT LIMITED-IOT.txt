@@ -1,0 +1,48 @@
+Quotation Number: SQ2511W301
+BOQ Status: FOUND
+
+DESCRIPTION
+QTY
+UNIT PRICE
+[INR]
+TOTAL PRICE
+[INR]
+OPTION-1
+Line1 &2 Stacks (8nos stacks) data (CEMS & SPM, total data tags- 18nos) in 4-20mA format, are coming at a
+central location. Install IOT device at this location and transmit to CPCB new portal though IOT. Broadband
+connectivity will be provided to IOT. submit your offer having detail of hardware & service qty & charges
+1
+IOT FOR DATA TRANSMISSION
+8
+1,85,000.00
+14,80,000.00
+2
+Data Transmission Yearly Subscription (Per Stack)
+1
+30000.00
+30000.00
+OPTION-2
+Installation of IOT device at each stack of Line1 &2 Stacks (8nos stacks), total data tags- 18nos. Stack data
+(CEMS & SPM) will come in 4-2mA to IOT and then through GPS/Sim connectivity to CPCB new portal. IOT
+device will be having GPS/SIM connectivity. submit your offer having detail of hardware & service qty & charges.
+1
+IOT FOR DATA TRANSMISSION
+8
+2,25,000.00
+18,00,000.00
+2
+Data Transmission Yearly Subscription (Per Stack)
+1
+30000.00
+30000.00
+NOTE: BELOW MENTIONED POINTS SHALL BE IN CUSTOMER SCOPE.
+•
+RS-485 Modbus signal for all the PM parameter instruments shall be made available up to the data logger, All the
+signal cables for the same shall be in customer scope.
+•
+Power supply for the data logger and necessary cabling, power socket arrangement shall be arranged by
+customer.
+•
+Internet for the data logger shall be made available at site by customer preferably broadband connection.
+•
+Remote calibration facility details of third part Gaseous analyser shall be provided by customer.

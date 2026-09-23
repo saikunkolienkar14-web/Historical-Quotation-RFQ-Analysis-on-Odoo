@@ -1,0 +1,30 @@
+Quotation Number: SQ2507E276
+BOQ Status: FOUND
+
+PART A: SUMMARY OF PRICES
+SL NO
+ITEM DESCRIPTION
+QTY
+UOM
+UNIT PRICE
+[INR]
+TOTAL RATE
+[INR]
+1.
+Preventive maintenance and calibration of
+M/S Union Instruments make On-Line
+Calorific Value Analyzers as per scope of
+work.
+10
+Man Days
+30,000.00
+3,00,000.00
+2.
+Breakdown maintenance and calibration
+of M/S Union Instruments make On-Line
+Calorific Value Analyzers as per scope of
+work.
+4
+Man Days
+32,000.00
+1,28,000.00

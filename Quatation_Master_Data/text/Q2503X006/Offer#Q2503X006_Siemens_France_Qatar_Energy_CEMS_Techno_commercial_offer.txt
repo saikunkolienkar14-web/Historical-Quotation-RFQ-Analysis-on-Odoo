@@ -1,0 +1,1913 @@
+CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+To, 
+Customer: 
+ 
+Siemens SAS 
+RC-FR DI PA MI 
+Sales Support and Offer Management 
+550 rue Pierre Berthier 
+13100 Aix-en-Provence, France 
+
+End User : 
+
+Subject: Quotation for CEMS SHS panel 
+ 
+Kind Attention: Mr. Alexandre Cleret / Mr. Eric Notin. 
+
+ 
+Dear Sir, 
+
+We thank you for your enquiry and are pleased to quote as per enclosed specification on terms stated below. If you have any 
+questions or require additional information, please feel free to contact us. 
+Table of Contents: - 
+
+SECTION 1: SUMMARY OF PRICES 
+SECTION 2: NOTE AND SCOPE DEFINITION 
+SECTION 3: COMMERCIAL TERMS AND CONDITIONS 
+SECTION 4: BILL OF MATERIALS 
+ 
+Our Quotation No: Q2503X006 
+Dated: 29.03.2025 
+ 
+Contact persons : 
+Mr. Pankaj Lad 
+Email: pankaj@adage-automation.com 
+Mob: + 91 7507798958 
+(Adage-Goa-HO) 
+ 
+Mr. Kush Jain 
+Email: kush@adage-automation.com 
+Mob: + 91 8668816625 
+(Adage-Goa-HO) 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Dear Sir, 
+ 
+Adage Automation is one of the Leading Solution Provider for Continuous Gas Analytical Systems in 
+India and worldwide. We provide solutions in Process, Emission Monitoring & Safety applications in the 
+industrial field of Steel, Cement, Power, Fertilizers, Chemical & Petrochemicals, Oil & Gas etc. We are an 
+ISO 9000:2015 & ISO 45001-2018 certified company. 
+ 
+Adage Automation Pvt Limited is the authorized Solution Partner of SIEMENS AG , Germany for the 
+Indian market for Process Gas Analyzers . We have 11 Offices across India with subsidiary companies in 
+Sharjah , UAE & New Jersey , USA and we have 200+ Specialist Engineers and a modern state of the art 
+Factory in Goa. We have already installed more than 5,000 Analyser Systems & more than 10,000 
+Analyzers in India . At the present moment , we enjoy a leadership position in the Indian Industry . We 
+are also the largest exporter of Gas Analytical Systems from India to over 40 countries in Europe , 
+Africa, Middle East, Far East and South America. 
+ 
+Our State of the art application Lab and the Regional Repair Centre ( RRC ) is under a joint investment 
+from SIEMENS AG Germany . Adage have been awarded in 2018 by the Ministry of Industries , Govt of 
+India as one of the India’s Small Giants , which is an initiative to recognize the top performing 
+companies in terms of sustainable growth and innovations . 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+Important Points to be considered 
+Sr.no 
+Adage observation on Siemens offering 
+Adage’s offering 
+ 
+1 
+Siemens has offered U23 which is NDUV based. As per customer’s 
+requirement in the datasheet area classification is defined as Zone 2. U23 
+with NDUV configuration do not qualify for the zone 2 requirement. 
+Siemens to check this. 
+ 
+2 
+Sample gas cooler considered by Siemens (Doc ref no. : DI.ACle.2429701-
+TechnipEnergies92-QatarNFS-TechOffer page 34 of 58 ) model : CSS-V of 
+M&C make is designed for general purpose application and cannot be 
+used in Zone 2 application. 
+Adage has offered Buhler’s EGK 1 Ex2 model for zone 2 
+and M&C’s EC-Ex model for Zone 1 which fulfills 
+respective area classification and also has IECEx 
+certification which in in line with technical specification 
+requirement. 
+3 
+Sample gas pump Bühler P2.3 considered by Siemens does not qualify for 
+Zone 1 / 2 requirement. 
+Adage has considered KNF make N87TTE model pump 
+which is suitable for Zone 1 and also has IECEx 
+certification which in line with technical specification 
+requirement. 
+4 
+Siemens has considered Siemens HMI for both Zone 2 and Zone 1 analyser 
+panels. 
+Adage has also offered Siemens HMI for zone 2 and 
+Zone 1 analyser panel. However please be noted that 
+Siemens does not have Zone 1 certified HMI hence 
+Siemens to reconsider this point. 
+5 
+Siemens has considered additional 1 No. 16 DI/DO module , 1 no 8X AI 
+module , 1 No 4 X AO module. 
+We understand that these many modules will not be 
+required for the offered system configuration hence 
+Adage has offered PLC and modules as required. 
+6 
+Siemens has considered cabinet (enclosure) size of dimensions: 2000 (L) x 
+1100 (w) x 2000 (h) mm for both Zone 2 and zone 1 system. 
+Adage has considered cabinet dimension of 800W x 
+2000H x 800D for zone 2 systems which we feel will 
+suffice the requirement and for zone 1 cabinet 
+dimension of cabinet offered is 2400W x 2000H x 800D. 
+Note: For zone 1 system panel size needs to be 
+considered taking 2 X U6F + 1X O6F + 1 X VOC analyzer 
+into consideration as U23 offered by Siemens do not 
+qualify for zone 1 requirement. Siemens to reconsider 
+this point. 
+7 
+Liquid alarm sensor and controller not considered in Siemen’s quote 
+Adage has offered M&C make Liquid alarm sensor and 
+controller suitable for Zone 1 with IECEx certification. 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+SECTION 1: SUMMARY OF PRICES 
+SL.NO 
+DESCRIPTION 
+QTY 
+UNIT PRICE 
+(EURO) 
+TOTAL PRICE 
+(EURO) 
+1 
+TYPE-1 CABINET (SINGLE PROBE CEMS) 
+11 Nos 
+€45100 
+€496100 
+
+Area Classification: Suitable for Zone 2, IIC, T3 
+With Single Sample Gas Probe 
+With Sample Handling System duly mounted on IP65 cabinet, MOC: CRCA, thickness: 2mm, approx. dimensions: 800 X 800 X 
+2000mm (L X W X H) 
+PLC controlled system with necessary DI, DO and AO modules. 
+HMI interface unit mounted on the front side of the panel 
+With Electrical PDPs (UPS and Non-UPS) suitable for Zone 2, IIC, T3 area classification. 
+With Signal JBs suitable for Zone 2, IIC, T3 area classification. 
+ 
+Notes: 
+1. Analysers and Calibration gas cylinders shall be in Siemens France scope of supply 
+2. For component details, refer to the BOM attached in section 4 
+3. For P&ID refer to reference number: ADAGE-REF-TYPE1 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+2 
+TYPE-2 CABINET (DUAL PROBE CEMS) 
+9 Nos 
+€49435 
+€444915 
+
+Area Classification: Suitable for Zone 2, IIC, T3 
+With Dual Sample Gas Probe 
+With Sample Handling System duly mounted on IP65 cabinet, MOC: CRCA, thickness: 2mm, approx. dimensions: 800 X 800 X 
+2000mm (L X W X H) 
+PLC controlled system with necessary DI, DO and AO modules. 
+HMI interface unit mounted on the front side of the panel 
+With Electrical PDPs (UPS and Non-UPS) suitable for Zone 2, IIC, T3 area classification. 
+With Signal JBs suitable for Zone 2, IIC, T3 area classification. 
+ 
+Notes: 
+1. Analysers and Calibration gas cylinders shall be in Siemens France scope of supply 
+2. For component details, refer to the BOM attached in section 4 
+3. For P&ID refer to reference number: ADAGE-REF-TYPE2 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+3 
+CABINET (FOR CEMS & VOC) 
+1 No 
+€60662 
+€60662 
+
+Area Classification: Suitable for Zone 1, IIC, T3 
+With Single Sample Gas Probe 
+With Sample Handling System duly mounted on IP65 cabinet, MOC: CRCA, thickness: 2mm, approx. dimensions: 800 X 2400 
+X 2000mm (L X W X H) 
+PLC controlled system with necessary DI, DO and AO modules. 
+HMI interface unit mounted on the front side of the panel 
+With Electrical PDPs (UPS and Non-UPS) suitable for Zone 1, IIC, T3 area classification. 
+With Signal JBs suitable for Zone 1, IIC, T3 area classification. 
+ 
+Notes: 
+1. Analysers and Calibration gas cylinders shall be in Siemens France scope of supply 
+2. For component details, refer to the BOM attached in section 4 
+3. For P&ID refer to reference number: ADAGE-REF-TYPE3 
+4. As the area classification is Zone 1, Adage has considered the analyser cabinet dimension considering 2 x 
+ULTRAMAT6F, 1 x OXYMAT6F and 1 x 19” VOC Analyser (SK Electronics) 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+4 
+PANEL AIR CONDITIONER 
+20 Nos 
+€14000 
+€280000 
+
+ 
+Air conditioner IECEx certified for Zone 2, IIC, T3 
+ 
+Cooling power: 1 TR 
+ 
+Refrigerant gas: R134a 
+ 
+Power Supply: 415 VAC 3 Phase + N / 50 Hz 
+ 
+Power Consumed: 3.5 KW 
+ 
+Structure MOC: Stainless Steel AISI 316, 
+ 
+Unit Size: 1000mm (L) x 650mm (W) x 1620mm (H) 
+ 
+Heat exchanger Coils are treated with Anti Oxidization Protection Coating 
+5 
+PANEL AIR CONDITIONER 
+1 Nos 
+€21000 
+€21000 
+ 
+ 
+Air conditioner IECEx certified for Zone 1, IIC, T3 
+ 
+Cooling power: 1 TR 
+ 
+Refrigerant gas: R134a, 
+ 
+Power Supply: 415 VAC 3 Phase + N / 50 Hz 
+ 
+Power Consumed: 3.5 KW 
+ 
+Structure MOC: Stainless Steel AISI 316, 
+ 
+Unit Size: 1000mm (L) x 650mm (W) x 1620mm (H) 
+ 
+Heat exchanger Coils are treated with Anti Oxidization Protection Coating 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+6 
+HEAT TRACE TUBE FOR SAMPLE GAS TRANSPORTATION 
+
+ 
+Typical Self-Regulated Heat Traced Sample Lines 
+ 
+MOC: PTFE 
+Tube size: ¼” 
+With all necessary accessories and JB’S 
+Make: Thermon 
+Suitable for Zone 2 & Zone 1 
+2297 Mtrs 
+€100 
+€229700 
+7 
+DESIGN AND ENGINEERING CHARGES 
+1 lot 
+€3600 
+€3600 
+8 
+DOCUMENTATION CHARGES 
+1 lot 
+€2500 
+€2500 
+9 
+PROJECT MANAGEMENT CHARGES 
+1 lot 
+€3000 
+€3000 
+10 
+FAT 
+3 days 
+€500 
+€1500 
+11 
+SITE COMMISIONING CHARGES 
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa 
+charges to be arranged by customer) 
+Per Diem 
+@ €1400 PER DIEM 
+12 
+TRAINING CHARGES 
+(Boarding – Lodging – Local Conveyance, to and fro air ticket fare, Visa 
+charges to be arranged by customer) 
+Per Diem 
+@ €1400 PER DIEM 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 2- NOTE & SCOPE DEFINITION FOR GAS ANALYSIS SYSTEM 
+ 
+ 
+External Cabling, Tubing, and all Associated Erection Hardware shall be in Customer’s Scope. 
+ 
+Plant Instrument air/nitrogen required @ 4-6 bar to be provided by customer if required 
+ 
+External Cabling, Tubing, And All Associated Erection Hardware Shall Be in Customer’s Scope 
+ 
+Power Supply Utilities required are: 
+ 
+Power Supply: 230 VAC, 50 Hz (Non-UPS) 
+ 
+Power Supply: 230 VAC, 50 Hz (UPS) 
+ 
+Power Supply: 415 VAC, 50 Hz (Non-UPS) 
+
+Our Scope of Supply and Work Includes: 
+ 
+ 
+Design, Engineering and Supply as per Summary of Prices 
+ 
+Supervision of Installation and Commissioning of the complete System 
+ 
+Project Management and Project Documentation 
+
+Our Scope of Supply Does Not Include: 
+ 
+ 
+All Erection and Installation Activity. 
+ 
+Supply of calibration gas cylinders. 
+ 
+Supply of gas analysers. 
+ 
+Any kind of Civil Work or Mechanical Work. 
+ 
+Material Handling at Site, unloading of Analyzers, Internal Shifting from Plant Store to Field 
+ 
+Loop checking for analog & digital signals. (Adage shall provide assistance) 
+ 
+Supply and laying of Signal & Power Cable and cable trays for Power supply / Analog and Digital signal / serial 
+communication cables etc. 
+ 
+Laying of trays/structural and support for field tubing. 
+ 
+Calibration Cylinder shall be in customers scope as this is an export project. 
+ 
+All utilities as mentioned above. 
+ 
+M/s Adage shall provide all the installation guidelines for the system after the detailed Engineering. 
+
+ 
+
+ 
+
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 3- COMMERCIAL TERMS AND CONDITIONS 
+Price Basis 
+Ex works, Goa 
+Packing Charges 
+2% of the basic order value. 
+HSN Code 
+90271000 
+Freight Charges 
+To Pay Basis or claimed extra at actual on prepaid basis. 
+Insurances 
+To be Borne by the Customer. 
+Delivery 
+Within 08 months from the date of drawing Approval. 
+Offer validity 
+30 days. 
+Payment Terms 
+10% Advance with the Order, 10% against Approval of Drawings & Balance 80% 
+payment against exchange of dispatch documents. 
+Warranty Clause 
+Against manufacturing defects for 12 months from the date of Commissioning or 18 
+months from the date of dispatch, whichever is earlier. 
+Storage Charges 
+The storage charges shall be applicable @0.5% of the order value per week after 
+inspection or scheduled delivery 
+
+ For Adage Automation Pvt. Limited 
+ 
+Mr. Pankaj Lad 
+Email: pankaj@adage-automation.com 
+Mob: + 91 7507798958 
+(Adage-Goa-HO) 
+ 
+Mr. Kush Jain 
+Email: kush@adage-automation.com 
+Mob: + 91 8668816625 
+(Adage-Goa-HO) 
+
+ 
+
+STACK
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+SECTION 4- BILL OF MATERIALS 
+ 
+TYPE-1 CABINET 
+ 
+Sl 
+No 
+Description 
+Legend 
+Qty 
+1 
+Sample Gas Probe 
+
+Make: M&C, Model: SP180H EX2 T3 
+ 
+IECEx-certified for Ex Zone 2 (Ex II 3G ec mc IIC T3 Gc). 
+ 
+External Ceramic Filter: Type S-2K (75 mm), Porosity: 2 µm. 
+ 
+Heated Filter: 155°C (self-regulating heating elements). 
+ 
+Low-Temperature Alarm: Potential-free contact output at -25°C below Tset. 
+ 
+Weather Protection: Included for outdoor use. 
+ 
+Power Supply: 110-240V, 50/60 Hz, 400 W. 
+ 
+Mounting Flange: DN 65 PN 6B (threaded). 
+ 
+Flow & Pressure Relief Valve (RD) Connections: 1/4" NPT - 8mm. 
+ 
+Material: Stainless Steel. 
+ 
+PRB 
+1 No 
+2 
+Solenoid Valve 
+ 
+Make: Asco, Model: NFX8327B002-17101 24 VDC - 78309080 
+ 
+IECEx-certified for Ex Zone 1 
+ 
+1/4" NPT (F) End Convection, 
+ 
+5.7 Mm Orifice, Media- Air, 
+ 
+Operating Media Pressure-0-10bar, 
+ 
+SS316 Valve Body, 
+ 
+Class H Solenoid Insulation, 
+ 
+Viton Seals, 
+ 
+Power Consumption-11.2 W 
+3SV 
+2SV 
+6 Nos 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+4 
+Sample Gas Cooler 
+ 
+Make: Buhler, Model: EGK 1 Ex2 
+ 
+Rated cooling capacity : 320 kJ/h 
+ 
+Ambient temperature: 5 °C to 50 °C 
+ 
+Gas outlet dew point : approx. 5 °C 
+ 
+IP rating: IP 20 
+ 
+Housing: Stainless steel 
+ 
+Dimensions : approx. 390 x 300 x 400 mm 
+ 
+Refrigerant : R134a 
+ 
+Atex classification: II 3G Ex ec nA nC IIC T4 Gc 
+ 
+IECEx classification: Ex ec nA nC IIC T4 Gc 
+ 
+Heat exchanger: Double Glass 
+ 
+Hose connection/threads: metric 
+ 
+Peristaltic pump: incl. 2 peristaltic pumps with 90° hose connections 
+GC 
+1 No 
+5 
+Sample Gas Pump 
+
+Make: KNF, Model: N87TTE 
+ 
+IECEx-certified for Ex Zone 2 
+ 
+For sample gas line (Sample gas Pump in ATEX design) 
+ 
+Flow Rate (max.): 7.5 l/min 
+ 
+Pressure (max.): 1.5 bar (rel.) 
+ 
+Vacuum (max.): 140 mbar (abs.) 
+ 
+Pump head: PVDF 
+ 
+Diaphragm: PTFE-coated 
+ 
+Valves: FFPM 
+ 
+Power: 230V, 50/60Hz 
+MP 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+6 
+Needle Valve 
+Make: Swagelok, Model: SS-1RS6MM 
+ 
+1 Series Needle valve Needle Valve 
+ 
+Integral-Bonnet SS316 Body 6 MM OD End Connections 
+ 
+344 Bar @ 37 DegC, Cv 0.37 
+NV 
+2 Nos 
+7 
+Condensate Monitor 
+
+Make: M&C, Model: KS3 EX 
+Liquid Alarm Sensor (KS3.Ex) 
+ 
+Explosion-proof for Ex Zone 1 (ATEX II 2G Ex ia IIC T6 Gb, IECEx approved). 
+ 
+Designed for non-conductive media. 
+ 
+Material: PTFE, Chemraz®, SS 316 Ti. 
+ 
+Diameter: 16 mm, Union Nut: GL 25. 
+ 
+Operating Pressure: 2 bar abs. 
+ 
+Electronic Controller (KFA6Ex1) 
+ 
+For ring approach switch (RC15) & sensor (KS2-Ex/KS3-Ex). 
+ 
+Signal Output: Change-over contact. 
+ 
+Explosion Class: Ex II (1) G D IIC. 
+ 
+Power Supply: 230V AC. 
+ 
+Compact Flow Chamber (LS/KS) 
+ 
+Material: PVDF 
+ 
+Connections: G 1/4" female (ISO). 
+CM 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+8 
+Moisture Stop Filter 
+
+Make: Adage, Model: 28726035 
+ 
+ 
+Diameter: 70 mm 
+ 
+Connector size: 1/8’’ NPT(F) x 6mm OD 
+ 
+Connecting tube size: 6mm OD 
+ 
+Moc: PTFE 
+ 
+Diaphragm pore size <0.1 um 
+ 
+Operating temperature : 0 ~ 90˚c 
+ 
+Effective filter area : 25 cm2 
+ 
+Housing volume: 5 ml 
+ 
+MSF 
+1 No 
+9 
+Bypass Flowmeter 
+
+Make: Placka, Model: LGPR-3 
+ 
+Metering tube : Borosilicate Glass 
+ 
+Float and flange end fittings: SS 
+ 
+Flow range (LPH) : 10-100 LPH 
+ 
+Sample in/out connection size : 1/4’’ BSP (F) 
+ 
+Max Pressure: 12 kg/cm2 
+ 
+Maximum Temperature: 100 Deg C 
+ 
+FM 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+10 
+Signal JB 
+MOC : GRP Polyester , Finish : Colour Black Size : 117 x 113 x 73 mm 
+II2G Ex eb ib IIC T4/T5/T6 Gb/II 2 D Ex tb IIIC T80 °C/T95 °C Db IP66 –20 °C to +40 °C 
+BVS 16 ATEX E 031 / IECEx BVS 16.0024 
+Bolt / screw door locking arrangement 
+M6 Internal External Earth Bolt x 1 No 
+6 sq.mm Colour Blue screw terminals x 6 Nos 
+PE Terminal Colour Yellow Green Screw x 2 Nos 
+M20 x 2 Nos Through hole for cable entry 
+- 
+2 Nos 
+11 
+UPS Power Distribution Panel 
+Make: Cortem Group 
+ 
+Copper free aluminium alloy rectangular junction box assembly, RAL7035 electrostatic powder 
+painting. Ex II 2GD Ex db IIC T Gb Ex tb IIIC T°C Db, IP66. Ambient temperature -20 +55°C. 
+Unribbed lid, with hinges. 
+COMPLETE WITH: 
+1 x 2P 6A Incoming MCB with external operating handle 
+3 x 2P 2A MCB with external operating handle 
+1 x 2P 4A MCB with external operating handle 
+1 x 2P 6A MCB with external operating handle 
+1 x SMART Transmitter Power Supply (Free issue) 
+1 x Conductive Switch Amplifier (Free issue) 
+1 x Power supply unit (Free issue) 
+1 x PLC + Extension module (Free issue) 
+TERMINALS: - 
+2 x 10 Sqmm feed through terminals blocks complete with accessories & marking 
+1 x 10 Sqmm earth terminals blocks complete with accessories & marking 
+30 x 4 Sqmm feed through terminals blocks complete with accessories & marking 
+6 x 4 Sqmm earth terminals blocks complete with accessories & marking 
+CABLE ENTRY: - 
+1 x M25 Threaded hole at bottom side 
+20 x M20 Threaded hole at bottom side 
+ 
+NOTES: 
+ 
+Ambient temperature of the panel is +55 deg Cel 
+ 
+Neatly Assembled-Labelled and cerified to ATEX and IECEX 
+- 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+12 
+Non UPS Power Distribution Panel 
+Make: Cortem Group 
+
+Copper free aluminium alloy rectangular junction box, RAL7035 electrostatic powder painting. 
+Ex II 2GD Ex db IIC T Gb Ex tb IIIC T°C Db, IP66. Ambient temperature -20 +55°C. 
+Unribbed lid, with hinges. External dimension 632x432x341mm. 
+COMPLETE WITH: 
+1 x 2P, 16A Incoming MCB with external operating handle 
+2 x 2P 10A MCB with external operating handle 
+3 x 2P 1A MCB with external operating handle 
+1 x 2P 2A MCB with external operating handle 
+2 x 2P 4A MCB with external operating handle 
+TERMINALS:- 
+2 x 10 Sqmm feed through terminals blocks complete with accessories & marking 
+1 x 10 Sqmm earth terminals blocks complete with accessories & marking 
+30 x 4 Sqmm feed through terminals blocks complete with accessories & marking 
+6 x 4 Sqmm earth terminals blocks complete with accessories & marking 
+CABLE ENTRY: - 
+1 x M25 Threaded hole at bottom side 
+20 x M20 Threaded hole at bottom side 
+ 
+NOTES: 
+ 
+Ambient temperature of the panel is +55 deg Cel 
+ 
+Neatly Assembled-Labelled and cerified to ATEX and IECEX 
+- 
+1 No 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+13 
+HMI 
+ 
+Make: Siemens, Model: 6AV21240GC010AX0 
+ 
+IECEx-certified for Ex Zone 2 
+ 
+SIMATIC HMI TP700 Comfort, Comfort Panel, touch operation 
+ 
+7" widescreen TFT display, 
+ 
+16 million colors, PROFINET interface, 
+ 
+MPI/PROFIBUS DP interface, 
+ 
+12 MB configuration memory, 
+ 
+Windows CE 6.0, configurable from WinCC Comfort V11 
+- 
+1 No 
+14 
+Programmable Logic Controller 
+ 
+Make: Siemens, Model: S7-1200 
+With necessary modules. 
+PLC 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+15 
+Ethernet Switch 
+ 
+Make : Siemens , Model : 6GK5008-0BA10-1AB2 (SCALANCE XB-000 unmanaged) 
+ 
+transfer rate : 10 Mbit/s, 100 Mbit/s 
+ 
+No. of ports : 8; RJ45 
+ 
+Power supply : 24 V 
+ 
+protection class IP : IP20 
+- 
+1 No 
+16 
+Analyser Panel 
+ 
+Make: Rittal 
+TS8 Enclosure (800W x 2000H x 800D) 
+ 
+Front Door: Single leaf glass door (2mm CRCA), V-groove rubber beading, 4-point locking 
+system, RH hinges, additional cam locks (top & bottom). 
+ 
+Rear Door: Single leaf (2mm CRCA), 4-point locking system, RH hinges, additional cam locks 
+(top & bottom). 
+ 
+Mounting Plate: 3mm thick GI (2 Nos.). 
+ 
+Top & Bottom Covers: 1.5mm CRCA, bolted from inside, bottom with cutout & 3mm thick 
+cover plate (CRCA, painted). 
+ 
+Canopy: 1.5mm CRCA, 100mm height, with 4 painted spacers. 
+ 
+Side Covers: 1.5mm CRCA, fixed externally with panel holders, includes stiffeners. 
+ 
+Locks & Handles: Comfort handle with security lock insert 3524E, color RAL 7035. 
+ 
+Plinth: 800W (Front/Rear) and side trim depth included 
+- 
+1 No 
+
+SOLUTION PARTNER ANALYTICAL
+STACK
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+TYPE-2 CABINET 
+ 
+Sl 
+No 
+Description 
+Legend 
+Qty 
+1 
+Sample Gas Probe 
+
+Make: M&C, Model: SP180H EX2 T3 
+ 
+IECEx-certified for Ex Zone 2 (Ex II 3G ec mc IIC T3 Gc). 
+ 
+External Ceramic Filter: Type S-2K (75 mm), Porosity: 2 µm. 
+ 
+Heated Filter: 155°C (self-regulating heating elements). 
+ 
+Low-Temperature Alarm: Potential-free contact output at -25°C below Tset. 
+ 
+Weather Protection: Included for outdoor use. 
+ 
+Power Supply: 110-240V, 50/60 Hz, 400 W. 
+ 
+Mounting Flange: DN 65 PN 6B (threaded). 
+ 
+Flow & Pressure Relief Valve (RD) Connections: 1/4" NPT - 8mm. 
+ 
+Material: Stainless Steel. 
+PRB 
+2 Nos 
+2 
+Solenoid Valve 
+ 
+Make: Asco, Model: NFX8327B002-17101 24 VDC 
+ 
+IECEx-certified for Ex Zone 1 
+ 
+1/4" NPT (F) End Convection, 
+ 
+5.7 Mm Orifice, Media- Air, 
+ 
+Operating Media Pressure-0-10bar, 
+ 
+SS316 Valve Body, 
+ 
+Class H Solenoid Insulation, 
+ 
+Viton Seals, 
+ 
+Power Consumption-11.2 W 
+3SV 
+2SV 
+7 Nos 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+4 
+Sample Gas Cooler 
+ 
+Make: Buhler, Model: EGK 1 Ex2 
+ 
+Rated cooling capacity : 320 kJ/h 
+ 
+Ambient temperature: 5 °C to 50 °C 
+ 
+Gas outlet dew point : approx. 5 °C 
+ 
+IP rating: IP 20 
+ 
+Housing: Stainless steel 
+ 
+Dimensions : approx. 390 x 300 x 400 mm 
+ 
+Refrigerant : R134a 
+ 
+Atex classification: II 3G Ex ec nA nC IIC T4 Gc 
+ 
+IECEx classification: Ex ec nA nC IIC T4 Gc 
+ 
+Heat exchanger: Double Glass 
+ 
+Hose connection/threads: metric 
+ 
+Peristaltic pump: incl. 2 peristaltic pumps with 90° hose connections 
+GC 
+1 No 
+5 
+Sample Gas Pump 
+
+Make: KNF, Model: N87TTE 
+ 
+IECEx-certified for Ex Zone 2 
+ 
+For sample gas line (Sample gas Pump in ATEX design) 
+ 
+Flow Rate (max.): 7.5 l/min 
+ 
+Pressure (max.): 1.5 bar (rel.) 
+ 
+Vacuum (max.): 140 mbar (abs.) 
+ 
+Pump head: PVDF 
+ 
+Diaphragm: PTFE-coated 
+ 
+Valves: FFPM 
+ 
+Power: 230V, 50/60Hz 
+MP 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+6 
+Needle Valve 
+Make: Swagelok, Model: SS-1RS6MM 
+ 
+1 Series Needle valve Needle Valve 
+ 
+Integral-Bonnet SS316 Body 6 MM OD End Connections 
+ 
+344 Bar @ 37 DegC, Cv 0.37 
+NV 
+2 Nos 
+7 
+Condensate Monitor 
+
+Make: M&C, Model: KS3 EX 
+Liquid Alarm Sensor (KS3.Ex) 
+ 
+Explosion-proof for Ex Zone 1 (ATEX II 2G Ex ia IIC T6 Gb, IECEx approved). 
+ 
+Designed for non-conductive media. 
+ 
+Material: PTFE, Chemraz®, SS 316 Ti. 
+ 
+Diameter: 16 mm, Union Nut: GL 25. 
+ 
+Operating Pressure: 2 bar abs. 
+ 
+Electronic Controller (KFA6Ex1) 
+ 
+For ring approach switch (RC15) & sensor (KS2-Ex/KS3-Ex). 
+ 
+Signal Output: Change-over contact. 
+ 
+Explosion Class: Ex II (1) G D IIC. 
+ 
+Power Supply: 230V AC. 
+ 
+Compact Flow Chamber (LS/KS) 
+ 
+Material: PVDF 
+ 
+Connections: G 1/4" female (ISO). 
+CM 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+8 
+Moisture Stop Filter 
+
+Make: Adage, Model: 28726035 
+ 
+ 
+Diameter: 70 mm 
+ 
+Connector size: 1/8’’ NPT(F) x 6mm OD 
+ 
+Connecting tube size: 6mm OD 
+ 
+Moc: PTFE 
+ 
+Diaphragm pore size <0.1 um 
+ 
+Operating temperature : 0 ~ 90˚c 
+ 
+Effective filter area : 25 cm2 
+ 
+Housing volume: 5 ml 
+ 
+MSF 
+1 No 
+9 
+Bypass Flowmeter 
+
+Make: Placka, Model: LGPR-3 
+ 
+Metering tube : Borosilicate Glass 
+ 
+Float and flange end fittings: SS 
+ 
+Flow range (LPH) : 10-100 LPH 
+ 
+Sample in/out connection size : 1/4’’ BSP (F) 
+ 
+Max Pressure: 12 kg/cm2 
+ 
+Maximum Temperature: 100 Deg C 
+ 
+FM 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+10 
+Signal JB 
+MOC : GRP Polyester , Finish : Colour Black Size : 117 x 113 x 73 mm 
+II2G Ex eb ib IIC T4/T5/T6 Gb/II 2 D Ex tb IIIC T80 °C/T95 °C Db IP66 –20 °C to +40 °C 
+BVS 16 ATEX E 031 / IECEx BVS 16.0024 
+Bolt / screw door locking arrangement 
+M6 Internal External Earth Bolt x 1 No 
+6 sq.mm Colour Blue screw terminals x 6 Nos 
+PE Terminal Colour Yellow Green Screw x 2 Nos 
+M20 x 2 Nos Through hole for cable entry 
+- 
+2 Nos 
+11 
+UPS Power Distribution Panel 
+Make: Cortem Group 
+ 
+Copper free aluminium alloy rectangular junction box assembly, RAL7035 electrostatic powder 
+painting. Ex II 2GD Ex db IIC T Gb Ex tb IIIC T°C Db, IP66. Ambient temperature -20 +55°C. 
+Unribbed lid, with hinges. 
+COMPLETE WITH: 
+1 x 2P 6A Incoming MCB with external operating handle 
+3 x 2P 2A MCB with external operating handle 
+1 x 2P 4A MCB with external operating handle 
+1 x 2P 6A MCB with external operating handle 
+1 x SMART Transmitter Power Supply (Free issue) 
+1 x Conductive Switch Amplifier (Free issue) 
+1 x Power supply unit (Free issue) 
+1 x PLC + Extension module (Free issue) 
+TERMINALS: - 
+2 x 10 Sqmm feed through terminals blocks complete with accessories & marking 
+1 x 10 Sqmm earth terminals blocks complete with accessories & marking 
+30 x 4 Sqmm feed through terminals blocks complete with accessories & marking 
+6 x 4 Sqmm earth terminals blocks complete with accessories & marking 
+CABLE ENTRY: - 
+1 x M25 Threaded hole at bottom side 
+20 x M20 Threaded hole at bottom side 
+ 
+NOTES: 
+ 
+Ambient temperature of the panel is +55 deg Cel 
+ 
+Neatly Assembled-Labelled and cerified to ATEX and IECEX 
+- 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+12 
+Non UPS Power Distribution Panel 
+Make: Cortem Group 
+
+Copper free aluminium alloy rectangular junction box, RAL7035 electrostatic powder painting. 
+Ex II 2GD Ex db IIC T Gb Ex tb IIIC T°C Db, IP66. Ambient temperature -20 +55°C. 
+Unribbed lid, with hinges. External dimension 632x432x341mm. 
+COMPLETE WITH: 
+1 x 2P, 16A Incoming MCB with external operating handle 
+2 x 2P 10A MCB with external operating handle 
+3 x 2P 1A MCB with external operating handle 
+1 x 2P 2A MCB with external operating handle 
+2 x 2P 4A MCB with external operating handle 
+TERMINALS:- 
+2 x 10 Sqmm feed through terminals blocks complete with accessories & marking 
+1 x 10 Sqmm earth terminals blocks complete with accessories & marking 
+30 x 4 Sqmm feed through terminals blocks complete with accessories & marking 
+6 x 4 Sqmm earth terminals blocks complete with accessories & marking 
+CABLE ENTRY: - 
+1 x M25 Threaded hole at bottom side 
+20 x M20 Threaded hole at bottom side 
+ 
+NOTES: 
+ 
+Ambient temperature of the panel is +55 deg Cel 
+ 
+Neatly Assembled-Labelled and cerified to ATEX and IECEX 
+- 
+1 No 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+13 
+HMI 
+ 
+Make: Siemens, Model: 6AV21240GC010AX0 
+ 
+IECEx-certified for Ex Zone 2 
+ 
+SIMATIC HMI TP700 Comfort, Comfort Panel, touch operation 
+ 
+7" widescreen TFT display, 
+ 
+16 million colors, PROFINET interface, 
+ 
+MPI/PROFIBUS DP interface, 
+ 
+12 MB configuration memory, 
+ 
+Windows CE 6.0, configurable from WinCC Comfort V11 
+- 
+1 No 
+14 
+Programmable Logic Controller 
+ 
+Make: Siemens, Model: S7-1200 
+With necessary modules. 
+PLC 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+15 
+Ethernet Switch 
+ 
+Make : Siemens , Model : 6GK5008-0BA10-1AB2 (SCALANCE XB-000 unmanaged) 
+ 
+transfer rate : 10 Mbit/s, 100 Mbit/s 
+ 
+No. of ports : 8; RJ45 
+ 
+Power supply : 24 V 
+ 
+protection class IP : IP20 
+- 
+1 No 
+16 
+Analyser Panel 
+ 
+Make: Rittal 
+TS8 Enclosure (800W x 2000H x 800D) 
+ 
+Front Door: Single leaf glass door (2mm CRCA), V-groove rubber beading, 4-point locking 
+system, RH hinges, additional cam locks (top & bottom). 
+ 
+Rear Door: Single leaf (2mm CRCA), 4-point locking system, RH hinges, additional cam locks 
+(top & bottom). 
+ 
+Mounting Plate: 3mm thick GI (2 Nos.). 
+ 
+Top & Bottom Covers: 1.5mm CRCA, bolted from inside, bottom with cutout & 3mm thick 
+cover plate (CRCA, painted). 
+ 
+Canopy: 1.5mm CRCA, 100mm height, with 4 painted spacers. 
+ 
+Side Covers: 1.5mm CRCA, fixed externally with panel holders, includes stiffeners. 
+ 
+Locks & Handles: Comfort handle with security lock insert 3524E, color RAL 7035. 
+ 
+Plinth: 800W (Front/Rear) and side trim depth included 
+- 
+1 No 
+
+SOLUTION PARTNER ANALYTICAL
+STACK
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+TYPE-3 CABINET 
+ 
+Sl 
+No 
+Description 
+Legend 
+Qty 
+1 
+Sample Gas Probe 
+
+Make: M&C, Model: SP180H EX1 T3 
+ 
+IECEx-certified for Ex Zone 1 (Ex II 2G Ex eb mb IIC T3 Gb). 
+ 
+External Ceramic Filter: Type S-2K (75 mm), Porosity: 2 µm. 
+ 
+Heated Filter: 155°C (self-regulating heating elements). 
+ 
+Low-Temperature Alarm: Potential-free contact output at -25°C below Tset. 
+ 
+Weather Protection: Included for outdoor use. 
+ 
+Power Supply: 110-240V, 50/60 Hz, 400 W. 
+ 
+Mounting Flange: DN 65 PN 6B (threaded). 
+ 
+Flow & Pressure Relief Valve (RD) Connections: 1/4" NPT - 8mm. 
+ 
+Material: Stainless Steel. 
+PRB 
+1 No 
+2 
+Solenoid Valve 
+ 
+Make: Asco, Model: NFX8327B002-17101 24 VDC 
+ 
+IECEx-certified for Ex Zone 1 
+ 
+1/4" NPT (F) End Convection, 
+ 
+5.7 Mm Orifice, Media- Air, 
+ 
+Operating Media Pressure-0-10bar, 
+ 
+SS316 Valve Body, 
+ 
+Class H Solenoid Insulation, 
+ 
+Viton Seals, 
+ 
+Power Consumption-11.2 W 
+3SV 
+2SV 
+6 Nos 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+4 
+Sample Gas Cooler 
+ 
+Make: M&C, Model: EC-Ex 
+ 
+02K5000x-Compressor gas cooler type EC-Ex, ATEX certified version for hazardous zone 1 areas with 
+the marking: II 2 G EX pxb db eb q [ib] IIC T4 Gb, BVS NR.: 17 ATEX E 080, IECEx BVS 18.0021, as wall-
+mount version or on request as 19" rack, depth of housing: 450 mm, electronically regulated to +5 °C, 
+high/low temperature alarm with 1 changeover contact, Power: 230 V/50-60 Hz. 
+ 
+02K9200-Jet-stream heat exchanger type EC-SS, material: SS 316Ti, connections: sample gas: 2 x G 1/4" 
+f, condensate: 1 x G 3/8" f - 2 Nos. 
+ 
+02K9523- temperature indicator in the front of the cooler type EC-Ex, range: 0 to 50 °C – 1 No. 
+ 
+02K9550-universal unit type EC-D/Ex as 19" rack with 3 U, for mounting under the ECEX cooler with 1 
+ea. peristaltic pump type SR25.1Ex (max. 4 pcs.) for automatic condensate removal, completely 
+connected to the cooler with tubing in Novoprene/PVDF, condensate outlet: DN 4/6, power: 230 V/50 
+Hz, 
+ 
+01P1201-Peristaltic pump type SR25.1/Ex, ATEX certified version for hazardous zone 1 areas with the 
+marking: II 2 G EEx m II T5, KEMA Nr. 03ATEX2218x, capacity: 0.3 Nl/h, pressure range: 200 mbar to 2.2 
+bar abs., material: Novoprene, PVDF, connection: DN 4/6, with 600 mm long cable incl. cable gland M 
+20 x 1.5, power: 115/230 V, 50/60 Hz 
+ 
+01P9100-mounting a peristaltic pump type SR25.2 inside the cooler type EC or universal unit type EC-
+/FD/D/D-Ex. incl. complete wiring and tubing, material: PVDF, Novoprene, PP, condensate outlet: DN 
+4/6 
+GC 
+1 No 
+5 
+Sample Gas Pump 
+
+Make: KNF, Model: N87TTE 
+ 
+IECEx-certified for Ex Zone 1 
+ 
+For sample gas line (Sample gas Pump in ATEX design) 
+ 
+Flow Rate (max.): 7.5 l/min 
+ 
+Pressure (max.): 1.5 bar (rel.) 
+ 
+Vacuum (max.): 140 mbar (abs.) 
+ 
+Pump head: PVDF 
+ 
+Diaphragm: PTFE-coated 
+ 
+Valves: FFPM 
+ 
+Power: 230V, 50/60Hz 
+MP 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+6 
+Needle Valve 
+Make: Swagelok, Model: SS-1RS6MM 
+ 
+1 Series Needle valve Needle Valve 
+ 
+Integral-Bonnet SS316 Body 6 MM OD End Connections 
+ 
+344 Bar @ 37 DegC, Cv 0.37 
+NV 
+2 
+Nos 
+7 
+Condensate Monitor 
+
+Make: M&C, Model: KS3 EX 
+Liquid Alarm Sensor (KS3.Ex) 
+ 
+Explosion-proof for Ex Zone 1 (ATEX II 2G Ex ia IIC T6 Gb, IECEx approved). 
+ 
+Designed for non-conductive media. 
+ 
+Material: PTFE, Chemraz®, SS 316 Ti. 
+ 
+Diameter: 16 mm, Union Nut: GL 25. 
+ 
+Operating Pressure: 2 bar abs. 
+ 
+Electronic Controller (KFA6Ex1) 
+ 
+For ring approach switch (RC15) & sensor (KS2-Ex/KS3-Ex). 
+ 
+Signal Output: Change-over contact. 
+ 
+Explosion Class: Ex II (1) G D IIC. 
+ 
+Power Supply: 230V AC. 
+ 
+Compact Flow Chamber (LS/KS) 
+ 
+Material: PVDF 
+ 
+Connections: G 1/4" female (ISO). 
+CM 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+8 
+Moisture Stop Filter 
+
+Make: Adage, Model: 28726035 
+ 
+ 
+Diameter: 70 mm 
+ 
+Connector size: 1/8’’ NPT(F) x 6mm OD 
+ 
+Connecting tube size: 6mm OD 
+ 
+Moc: PTFE 
+ 
+Diaphragm pore size <0.1 um 
+ 
+Operating temperature : 0 ~ 90˚c 
+ 
+Effective filter area : 25 cm2 
+ 
+Housing volume: 5 ml 
+ 
+MSF 
+1 No 
+9 
+Bypass Flowmeter 
+
+Make: Placka, Model: LGPR-3 
+ 
+Metering tube : Borosilicate Glass 
+ 
+Float and flange end fittings: SS 
+ 
+Flow range (LPH) : 10-100 LPH 
+ 
+Sample in/out connection size : 1/4’’ BSP (F) 
+ 
+Max Pressure: 12 kg/cm2 
+ 
+Maximum Temperature: 100 Deg C 
+ 
+FM 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+10 
+Signal JB 
+MOC : GRP Polyester , Finish : Colour Black Size : 117 x 113 x 73 mm 
+II2G Ex eb ib IIC T4/T5/T6 Gb/II 2 D Ex tb IIIC T80 °C/T95 °C Db IP66 –20 °C to +40 °C 
+BVS 16 ATEX E 031 / IECEx BVS 16.0024 
+Bolt / screw door locking arrangement 
+M6 Internal External Earth Bolt x 1 No 
+6 sq.mm Colour Blue screw terminals x 6 Nos 
+PE Terminal Colour Yellow Green Screw x 2 Nos 
+M20 x 2 Nos Through hole for cable entry 
+- 
+2 Nos 
+11 
+UPS Power Distribution Panel 
+Make: Cortem Group 
+ 
+Copper free aluminium alloy rectangular junction box assembly, RAL7035 electrostatic powder 
+painting. Ex II 2GD Ex db IIC T Gb Ex tb IIIC T°C Db, IP66. Ambient temperature -20 +55°C. 
+Unribbed lid, with hinges. 
+COMPLETE WITH: 
+1 x 2P 6A Incoming MCB with external operating handle 
+3 x 2P 2A MCB with external operating handle 
+1 x 2P 4A MCB with external operating handle 
+1 x 2P 6A MCB with external operating handle 
+1 x SMART Transmitter Power Supply (Free issue) 
+1 x Conductive Switch Amplifier (Free issue) 
+1 x Power supply unit (Free issue) 
+1 x PLC + Extension module (Free issue) 
+TERMINALS: - 
+2 x 10 Sqmm feed through terminals blocks complete with accessories & marking 
+1 x 10 Sqmm earth terminals blocks complete with accessories & marking 
+30 x 4 Sqmm feed through terminals blocks complete with accessories & marking 
+6 x 4 Sqmm earth terminals blocks complete with accessories & marking 
+CABLE ENTRY: - 
+1 x M25 Threaded hole at bottom side 
+20 x M20 Threaded hole at bottom side 
+ 
+NOTES: 
+ 
+Ambient temperature of the panel is +55 deg Cel 
+ 
+Neatly Assembled-Labelled and cerified to ATEX and IECEX 
+- 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+12 
+Non UPS Power Distribution Panel 
+Make: Cortem Group 
+
+Copper free aluminium alloy rectangular junction box, RAL7035 electrostatic powder painting. 
+Ex II 2GD Ex db IIC T Gb Ex tb IIIC T°C Db, IP66. Ambient temperature -20 +55°C. 
+Unribbed lid, with hinges. External dimension 632x432x341mm. 
+COMPLETE WITH: 
+1 x 2P, 16A Incoming MCB with external operating handle 
+2 x 2P 10A MCB with external operating handle 
+3 x 2P 1A MCB with external operating handle 
+1 x 2P 2A MCB with external operating handle 
+2 x 2P 4A MCB with external operating handle 
+TERMINALS:- 
+2 x 10 Sqmm feed through terminals blocks complete with accessories & marking 
+1 x 10 Sqmm earth terminals blocks complete with accessories & marking 
+30 x 4 Sqmm feed through terminals blocks complete with accessories & marking 
+6 x 4 Sqmm earth terminals blocks complete with accessories & marking 
+CABLE ENTRY: - 
+1 x M25 Threaded hole at bottom side 
+20 x M20 Threaded hole at bottom side 
+ 
+NOTES: 
+ 
+Ambient temperature of the panel is +55 deg Cel 
+ 
+Neatly Assembled-Labelled and cerified to ATEX and IECEX 
+- 
+1 No 
+
+ 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+13 
+HMI 
+ 
+Make: Siemens, Model: 6AV21240GC010AX0 
+ 
+IECEx-certified for Ex Zone 2 
+ 
+SIMATIC HMI TP700 Comfort, Comfort Panel, touch operation 
+ 
+7" widescreen TFT display, 
+ 
+16 million colors, PROFINET interface, 
+ 
+MPI/PROFIBUS DP interface, 
+ 
+12 MB configuration memory, 
+ 
+Windows CE 6.0, configurable from WinCC Comfort V11 
+- 
+1 No 
+14 
+Programmable Logic Controller 
+ 
+Make: Siemens, Model: S7-1200 
+With necessary modules. 
+PLC 
+1 No 
+
+ 
+
+ 
+ CORPORATE HQ & REGISTERED OFFICE 
+ Adage Automation Private Limited 
+ Satra Plaza, Office No: 506, Sector 19 D, 
+ Palm Beach Road, Vashi, Navi Mumbai - 400703, Maharashtra, INDIA 
+
+ 0832-6620500 
+www.adage-automation.com 
+Adage Automation Private Limited 
+L-26B, Phase II, Verna Industrial Area 
+Verna, Goa – 403722, INDIA 
+CIN No: U 74900 MH 2001 PT 133206 
+ 
+15 
+Ethernet Switch 
+ 
+Make : Siemens , Model : 6GK5008-0BA10-1AB2 (SCALANCE XB-000 unmanaged) 
+ 
+transfer rate : 10 Mbit/s, 100 Mbit/s 
+ 
+No. of ports : 8; RJ45 
+ 
+Power supply : 24 V 
+ 
+protection class IP : IP20 
+- 
+1 
+No 
+16 
+Analyser Panel 
+ 
+Make: Rittal 
+TS8 Enclosure (2400W x 2000H x 800D) 
+ 
+Front Door: Single leaf glass door (2mm CRCA), V-groove rubber beading, 4-point locking system, RH 
+hinges, additional cam locks (top & bottom). 
+ 
+Rear Door: Single leaf (2mm CRCA), 4-point locking system, RH hinges, additional cam locks (top & 
+bottom). 
+ 
+Mounting Plate: 3mm thick GI (2 Nos.). 
+ 
+Top & Bottom Covers: 1.5mm CRCA, bolted from inside, bottom with cutout & 3mm thick cover plate 
+(CRCA, painted). 
+ 
+Canopy: 1.5mm CRCA, 100mm height, with 4 painted spacers. 
+ 
+Side Covers: 1.5mm CRCA, fixed externally with panel holders, includes stiffeners. 
+ 
+Locks & Handles: Comfort handle with security lock insert 3524E, color RAL 7035. 
+ 
+Plinth: 800W (Front/Rear) and side trim depth included 
+- 
+1 
+No
