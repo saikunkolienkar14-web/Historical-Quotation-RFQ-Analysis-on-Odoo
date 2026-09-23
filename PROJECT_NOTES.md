@@ -794,6 +794,121 @@ reaches here) — keep both in sync if the source changes again.
    would pick this up too, which is probably desirable (same corpus gap
    affects the main join) but hasn't been done as part of this round.
 
+   **Abbreviation-period false sentence-end - fixed (2026-09-23).** A
+   THIRD, distinct bug in the same terminal-punctuation anchor override
+   introduced 2026-09-22 (see above): the override treats any line ending
+   in `. : ) ! ?` as a finished sentence and refuses to walk the row
+   boundary back past it. That's wrong when the trailing `.` closes an
+   abbreviation, not a sentence. User-reported and confirmed real-corpus
+   on base `Q24X10030`'s Section-I "Summary of Prices" table: every item
+   heading ends `"... as per attached datasheets doc."` ("doc." = short
+   for "document", sentence continues on the next physical line - "No.
+   E0780601-... and technical mentioned in MR"). The override saw the
+   trailing period, assumed the sentence was finished, and refused to
+   reclaim that heading line - so it stayed attached to the PREVIOUS
+   item's row, and every item from #2 onward started one line late,
+   missing its own heading and instead ending with the NEXT item's
+   heading tail. Systematic down the whole table (not an isolated
+   collision) because every heading in this table ends the same way.
+   (The user's own first guess - that a "Tag No." column was the cause -
+   was a red herring: `BOQ_HEADER_ALIASES` has no mapping for it, so its
+   values fall harmlessly into `"other"`.)
+
+   Fixed with a shared `_ends_sentence()` helper (`banded.py`) used by
+   both the boundary-derivation path and `_reattach_misattributed_leading_lines`:
+   a trailing `.` is now treated as non-terminal when the word right
+   before it is a short abbreviation seen in these documents
+   (`NON_TERMINAL_ABBREVIATIONS` in `vocab.py`: `no, doc, dwg, drg, fig,
+   ref, std, spec, rev, approx, qty, pt`) - other terminal punctuation
+   (`: ) ! ?`) is untouched. Verified directly against base `Q24X10030`,
+   R1 and R2: items 1-9 in the Section-I table now each keep their own
+   heading and stop cleanly before the next item's, with zero regression
+   on the already-fixed "GAS CHROMATOGRAPH" section or the R1/R2 numbered
+   sub-item splits. 118/118 tests pass (confirms `_ends_sentence` is a
+   no-op on `Q2501N005`/`TestBundledSubItems` and
+   `SQ2509N216`/`TestSQ2509N216`, the two documents that broke two
+   earlier fix attempts in this area). 50-doc smoke test: 0 errors.
+
+   **Unnumbered sub-items with only a placeholder price - fixed
+   (2026-09-23).** User-reported, two real-corpus symptoms on base
+   `Q24X10030` traced back to the same cause. (1) "Sample Probe (Fixed
+   Type)" and "Sample Transport Line" (each its own component under a
+   GAS CHROMATOGRAPH item, no item-number of its own) were landing in
+   ONE merged row instead of two. (2) Item 12 ("Special Tools & Tackles")
+   was absorbing six unrelated, separately-priced summary rows that
+   follow it in the source table (`"Amount on FCA Basis"`, `"...
+   Documentation Charges..."`, `"...Inspection & Testing Charges..."`,
+   `"VAT/ Taxes & Duties..."`, `"Packing, Preservation &
+   Transportation..."`, `"Total on DDP Site basis"` - each with its own
+   "Quoted" value in the image's Total column) into item 12's single row.
+
+   Root cause: `_is_self_contained_item_line` (`banded.py`) required BOTH
+   a valid price AND a valid quantity+unit reading on the same physical
+   line before treating it as its own splittable sub-item. Direct trace
+   confirmed every one of these lines DOES carry its own price - `parse_price`
+   recognizes "Quoted"/"Quoted for" as the QUOTED placeholder on each
+   line's own price band - but none of them has a quantity+unit match:
+   the six charge rows are flat lump-sum charges with no Qty/UOM column
+   at all (nothing to require), and "Sample Transport Line"'s quantity
+   band literally reads "Assuming" (from "Assuming 50m", the
+   already-documented `money.py` quantity-grammar gap above) so
+   `resolve_quantity_and_unit` returns no value. The quantity+unit
+   requirement was conservative specifically against a stray NUMBER
+   landing alone in a price band (see that function's docstring) - it was
+   never meant to gate a genuine PLACEHOLDER price ("Quoted"/"Included"),
+   which is a much stronger, unambiguous signal that a line is its own
+   priced item.
+
+   Fixed by accepting a placeholder-only price (no numeric value, i.e.
+   `parse_price(...).is_placeholder`) as sufficient on its own, via a new
+   `_price_is_placeholder()` helper - a bare NUMERIC price still requires
+   the quantity+unit match, unchanged. Verified directly against base
+   `Q24X10030`: item 12's row now splits into "Special Tools & Tackles"
+   plus its six previously-swallowed charge rows, and each GAS
+   CHROMATOGRAPH tag's "Sample Probe (Fixed Type)" / "Sample Transport
+   Line" / "Sample Handling System" now split into three separate rows
+   (same across R1/R2). 118/118 tests pass (no regression on
+   `TestBundledSubItems`/`TestSQ2509N216`). 50-doc smoke test: 0 errors,
+   676 rows written (up from 638 pre-fix, as expected from correctly
+   splitting more rows).
+
+   **Leading label word lost to the "other" bucket - fixed (2026-09-23).**
+   Follow-up to the fix directly above: each of the six charge rows was
+   still missing its own leading label word(s) ("Total", "Documentation",
+   "Inspection", "VAT/ Taxes", "Packing,", "Total on") once correctly
+   separated into their own rows. Root cause: `_band_for_word`
+   (`banded.py`) buckets any word that doesn't overlap a known column
+   band by >40% into the catch-all `"other"` field, which the row emitter
+   never reads back into `description`. Direct trace of this table's band
+   geometry confirmed these label words start at x=69.5 (bold font,
+   wider/left-shifted), a full ~46pt left of this table's normal
+   description band start (x=115.1) - entirely or mostly outside every
+   band, so they fell to `"other"` and were silently dropped.
+
+   First attempt (unconditionally folding any word left of the
+   description band's edge into description) was too broad and directly
+   regressed a DIFFERENT part of the SAME table: verified by trace that
+   items 1-4 have their own genuine "Tag No" column ("AT-2X1".."AT-2X4")
+   sitting in that identical x-range gap, which got wrongly swept into
+   the description text too ("Feed Gas Analyzer as per attached AT-2X1
+   datasheets..."). Caught by re-tracing items 1-4 specifically after the
+   first attempt, before running the test suite - not by the test suite
+   itself (no test covers this table's Tag No column).
+
+   Fixed narrower: a word left of the description band's edge is folded
+   into description only when it reads as an ordinary label word (letters
+   and light punctuation, no digits) - a tag code like "AT-2X1" always
+   carries a digit, a label word never does, so this one cheap check
+   separates the two real, opposite-direction cases confirmed on this
+   same document. Verified directly: all six charge rows now carry their
+   complete label ("Documentation Charges as mentioned in MR document",
+   "Inspection & Testing Charges as mentioned in MR", "VAT/ Taxes &
+   Duties (If any)", "Packing, Preservation & Transportation as mentioned
+   in", "Total on DDP Site basis"), while items 1-4's Tag No data stays
+   out of their description exactly as before. 118/118 tests pass. 50-doc
+   smoke test: 0 errors, same 676 rows (a description-text fix, not a
+   row-count one).
+
    **Missing pipeline scripts, still unresolved.**
    `preprocess_quotation_text.py` and `"remove_repeated _messagev2.py"`
    (documented stages 2-3) do not exist anywhere in this checkout, even

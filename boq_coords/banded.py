@@ -15,7 +15,12 @@ from dataclasses import dataclass, field as dc_field
 from boq_coords.fields import BULLET_CHARS
 from boq_coords.geometry import Line, Word, cluster_lines, join_words, median
 from boq_coords.money import parse_price, parse_quantity, resolve_quantity_and_unit
-from boq_coords.vocab import MAX_ITEM_NUMBER, STOP_SECTION_MARKERS, normalize_label
+from boq_coords.vocab import (
+    MAX_ITEM_NUMBER,
+    NON_TERMINAL_ABBREVIATIONS,
+    STOP_SECTION_MARKERS,
+    normalize_label,
+)
 
 ITEM_NUMBER_RX = re.compile(r"^\(?\d{1,3}(?:\.\d+)*[A-Za-z]?[.)]?$")
 
@@ -23,6 +28,22 @@ MAX_MERGE_LINES = 200
 MAX_MERGE_CHARS = 8000
 
 PRICE_FIELDS = ("unit_price", "total_price")
+
+
+def _ends_sentence(text: str) -> bool:
+    """Does `text` end a finished sentence, or just an abbreviation ('...doc.')
+    whose period doesn't end the sentence? A trailing '.' preceded by a word
+    in NON_TERMINAL_ABBREVIATIONS is treated as non-terminal; every other
+    terminal-punctuation ending is trusted as-is. See NON_TERMINAL_ABBREVIATIONS
+    for why this distinction matters (Q24X10030's whole-table off-by-one)."""
+    t = text.rstrip()
+    if not t.endswith((".", ":", ")", "!", "?")):
+        return False
+    if t.endswith(".") and t[:-1].split():
+        last_word = t[:-1].rsplit(None, 1)[-1].lower()
+        if last_word in NON_TERMINAL_ABBREVIATIONS:
+            return False
+    return True
 
 
 @dataclass
@@ -81,6 +102,24 @@ class LogicalRow:
         )
 
 
+# A word starting left of the description band's own left edge (whether
+# or not it also grazes into the band on its right side - a short label
+# can trail a few points across that boundary without being any less a
+# label) is only folded into description when it reads as an ordinary
+# word (letters and light punctuation, no digits) - never when it looks
+# like a short code/tag (e.g. "AT-2X1"). Confirmed real-corpus, both
+# directions, on the SAME document (Q24X10030): this table has a genuine
+# "Tag No" column (its own real data - "AT-2X1".."AT-2X4" for items 1-4)
+# sitting in that exact gap, which must stay OUT of description; while
+# several later unnumbered rows ("Total Amount on FCA Basis",
+# "Documentation Charges...", "Inspection & Testing Charges...") have
+# their bold leading label word(s) land in that same gap and MUST be
+# folded in, or the row loses its own heading. Digit presence is the
+# cheapest reliable signal that told these apart in the confirmed case: a
+# tag code always carries a digit, a label word never does.
+_GAP_WORD_RX = re.compile(r"^[A-Za-z.,'&/()]+$")
+
+
 def _band_for_word(w: Word, bands) -> str:
     best = None
     best_overlap = 0.0
@@ -91,7 +130,12 @@ def _band_for_word(w: Word, bands) -> str:
         if ov > best_overlap:
             best_overlap = ov
             best = b.field
-    return best if best and best_overlap > 0.4 else "other"
+    if best and best_overlap > 0.4:
+        return best
+    desc_band = next((b for b in bands if b.field == "description"), None)
+    if desc_band is not None and w.x0 < desc_band.x0 and _GAP_WORD_RX.match(w.text):
+        return "description"
+    return "other"
 
 
 def _is_stop_line(text: str) -> bool:
@@ -184,24 +228,47 @@ def _has_price(cells: dict[str, list[Word]]) -> bool:
     return False
 
 
+def _price_is_placeholder(cells: dict[str, list[Word]]) -> bool:
+    for pf in PRICE_FIELDS:
+        if pf in cells and parse_price(join_words(cells[pf])).is_placeholder:
+            return True
+    return False
+
+
 def _is_self_contained_item_line(cells: dict[str, list[Word]]) -> bool:
     """True if a single physical line, on its own, already carries a
-    complete priced line item - its own valid price AND its own
-    unit-qualified quantity. Used to catch bundled, unnumbered sub-items
+    complete priced line item. Used to catch bundled, unnumbered sub-items
     (e.g. "PORTA CABIN ... 1 SET 25,64,400 25,64,400" sitting under a
     parent item with no item-number anchor of its own) that would
     otherwise be swept into the parent's row and have their independent
     prices concatenated into one unparseable string (confirmed real-corpus
-    bug: Q2501N005, item 8's bundled sub-items). Requiring BOTH a valid
-    price and a valid quantity+unit reading (not price alone) keeps this
-    conservative - a stray number landing alone in a price band essentially
-    never also carries a recognized-unit quantity on the same line."""
+    bug: Q2501N005, item 8's bundled sub-items).
+
+    Normally requires BOTH a valid price and a valid quantity+unit reading
+    (not price alone) - a stray number landing alone in a price band
+    essentially never also carries a recognized-unit quantity on the same
+    line, so that combination stays conservative.
+
+    A line with its own PLACEHOLDER price ("Quoted", "Included" - never a
+    bare number) and no quantity+unit reading is also accepted on its own:
+    confirmed real-corpus case, Q24X10030's "additional charges" rows
+    ("Documentation Charges...", "VAT/ Taxes & Duties...", each individually
+    "Quoted" in its own Total column with no Qty/UOM column at all - a flat
+    charge genuinely has no quantity dimension to require) and its
+    "Sample Transport Line" sub-item (own price band reads "Quoted for",
+    still recognized as the QUOTED placeholder, but its "Assuming 50m"
+    quantity phrasing doesn't match the quantity grammar - see money.py).
+    A bare NUMERIC price still requires the quantity+unit match: unlike a
+    placeholder, a stray number alone in a price band is exactly the
+    ambiguous case the docstring above warns about."""
     if not _has_price(cells):
         return False
     qty_text = join_words(cells.get("quantity", []))
     unit_text = join_words(cells.get("unit", []))
     pq = resolve_quantity_and_unit(qty_text, unit_text)
-    return pq.value is not None
+    if pq.value is not None:
+        return True
+    return _price_is_placeholder(cells)
 
 
 def _split_self_contained_subitems(row: LogicalRow) -> list[LogicalRow]:
@@ -320,8 +387,8 @@ def _derive_boundaries_from_desc_gaps(classified: list[dict], anchor_yc: list[fl
         # doesn't end in terminal punctuation, so no override fires there.
         idx = yc_to_idx.get(a)
         if idx is not None and idx > 0 and candidate < a:
-            prev_text = texts[idx - 1].rstrip()
-            if prev_text.endswith((".", ":", ")", "!", "?")):
+            prev_text = texts[idx - 1]
+            if _ends_sentence(prev_text):
                 candidate = a
 
         per_anchor.append(candidate)
@@ -443,8 +510,8 @@ def _reattach_misattributed_leading_lines(rows: list[LogicalRow]) -> list[Logica
         _, prev_cells = row.line_cells[item_no_idx - 1]
         if "description" not in prev_cells:
             continue
-        prev_text = join_words(prev_cells["description"]).rstrip()
-        if not prev_text.endswith((".", ":", ")", "!", "?")):
+        prev_text = join_words(prev_cells["description"])
+        if not _ends_sentence(prev_text):
             continue
         rows[i - 1].line_cells.extend(row.line_cells[:item_no_idx])
         row.line_cells = row.line_cells[item_no_idx:]

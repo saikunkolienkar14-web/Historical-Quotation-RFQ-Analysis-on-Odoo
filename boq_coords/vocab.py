@@ -58,6 +58,21 @@ BOQ_HEADER_ALIASES: dict[str, list[str]] = {
 # anywhere in the table to contradict it.
 AMBIGUOUS_TOTAL_PRICE_ALIASES = {"total"}
 
+# banded.py's anchor-boundary "terminal punctuation" heuristic (does this
+# line end a sentence, or just a mid-sentence abbreviation?) needs to tell
+# a real sentence-ending period apart from one that closes an abbreviation
+# like "...datasheets doc." (short for "document", sentence continues on
+# the next physical line: "No. E0780601-... and technical mentioned in
+# MR"). Confirmed on Q24X10030's Section-I BOM table: every item heading
+# ends this way, so without this exception every row lost its own heading
+# to the previous row and gained the next row's tail - a systematic,
+# whole-table off-by-one. Lowercase, no trailing period (stripped by the
+# caller before lookup).
+NON_TERMINAL_ABBREVIATIONS: set[str] = {
+    "no", "doc", "dwg", "drg", "fig", "ref", "std", "spec", "rev",
+    "approx", "qty", "pt",
+}
+
 # quotation_parser_v1.py:415 STOP_SECTION_MARKERS
 STOP_SECTION_MARKERS: list[str] = [
     "scope definition",
