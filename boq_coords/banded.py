@@ -29,6 +29,31 @@ MAX_MERGE_CHARS = 8000
 
 PRICE_FIELDS = ("unit_price", "total_price")
 
+# Set on a row whose OWN boundaries came directly from real per-row ruling
+# lines the source PDF draws (not just its outer top/bottom frame - see
+# _border_only), rather than being inferred from item-number gaps or price
+# lines. Such a boundary is ground truth: the document itself drew a line
+# between this row and its neighbour, which the TOP-path repair heuristics
+# below (_reattach_misattributed_leading_lines) must never second-guess -
+# confirmed real-corpus case: Q25X10031R1 prints "FAT & Inspection at
+# Adage works Goa." (item 4's own heading) directly below a ruling line,
+# but its item number sits vertically centred on a LATER line of the same
+# cell; reattach's "a complete sentence right before an anchor's own line
+# is unclaimed trailing content of the previous item" heuristic read the
+# heading as trailing content of item 3 ("Documentation") and moved it
+# there, even though the ruling the PDF drew already separates the two
+# exactly where this row starts. RULED_ROW is NOT exempted from
+# _merge_bundled_lots or _split_self_contained_subitems: a real per-row
+# ruling means the PDF drew a line AT that y, not that everything between
+# two consecutive rulings is exactly one logical item (confirmed
+# real-corpus case needing both to keep running: Q24X10030 draws a rule
+# roughly every printed line, so one item's own multi-line spec block
+# spans several ruled physical rows with no rule of its own separating it
+# from the next item - split's own closing-line heuristic and
+# _merge_bundled_lots' merge-orphan-into-preceding rule are what
+# reconcile that back into one row, regardless of a RULED_ROW flag).
+RULED_ROW_FLAG = "RULED_ROW"
+
 
 def _ends_sentence(text: str) -> bool:
     """Does `text` end a finished sentence, or just an abbreviation ('...doc.')
@@ -318,18 +343,95 @@ def _split_self_contained_subitems(row: LogicalRow) -> list[LogicalRow]:
         return [row]
 
     lines = row.line_cells
+    # A line carrying its own valid item-number anchor always starts a new
+    # item, whether or not it also happens to have a price of its own
+    # (many section headings, e.g. "OXYGEN ANALYZER", don't - the price
+    # sits on a LATER line, e.g. "Analyzer shelter & System integration").
+    # Folding these anchor-only positions in as forced split points too -
+    # not just the price-bearing self-contained ones - is required so that
+    # a later CLOSING-style self-contained line doesn't walk all the way
+    # back past an anchored heading in between and glue two different
+    # items together. Confirmed real-corpus: Q24X10030's "OXYGEN ANALYZER"
+    # heading (no price of its own) sat between "Provision for Calibration
+    # Gas Bottle connection." (tag 3's own closing item) and "Analyzer
+    # shelter & System integration" (tag 4's own first priced line) -
+    # without this, the whole span from Provision through Analyzer
+    # shelter's bullets merged into one row.
+    anchor_only_idx = [
+        i for i, (_, cells) in enumerate(lines)
+        if i not in self_contained_idx and _valid_item_no(join_words(cells.get("item_no", [])))
+    ]
+    split_points = sorted(set(self_contained_idx) | set(anchor_only_idx))
+
     out: list[LogicalRow] = []
     start = 0
-    for i in self_contained_idx:
+    for i in split_points:
+        if i in anchor_only_idx:
+            own_desc = join_words(lines[i][1].get("description", [])).strip()
+            split_at = i if own_desc else i + 1
+            if split_at > start:
+                out.append(LogicalRow(line_cells=lines[start:split_at]))
+            start = split_at
+            continue
         own_desc = join_words(lines[i][1].get("description", [])).strip()
         next_desc = (
             join_words(lines[i + 1][1].get("description", [])).strip()
             if i + 1 < len(lines) else ""
         )
+        # An opening-style heading isn't always followed by its own bullets
+        # (Q24X10030: "Provision for Calibration Gas Bottle connection." is
+        # followed by a plain-text "Note-..." line, not a bullet) - but it
+        # DOES follow the PREVIOUS sub-item's own bullet-marked elaboration
+        # ("Sample Handling System" -> "• Consisting of..." -> ... ->
+        # "Provision..."). The line immediately before it isn't itself
+        # bulleted either - it's the WRAPPED tail of that last bullet
+        # ("inside SS304 enclosure, 1.5mm thick.", no bullet prefix of its
+        # own) - so checking only lines[i-1] still misses it.
+        #
+        # Deliberately narrow: only lines[i-1] itself, or lines[i-2] when
+        # lines[i-1] is a single non-bulleted wrap line, count as "a
+        # bullet just before this heading" - never further back. An
+        # unbounded (or even self-contained-boundary-bounded) backward
+        # walk was tried first and regressed Q2501N005's "TUBE FITTING 1
+        # LOT" (itself a genuine CLOSING-style item): several bulleted
+        # lines sit earlier in that SAME pending block ("MEASURING
+        # RANGES:" / "• O2: 0-25%", "ANALYZER OUTPUT:" / "• 4-20 MA" /
+        # "• DIGITAL OUTPUTS"), but separated from "TUBE FITTING" by
+        # multiple unrelated plain lines ("SPARES FOR COLD BLAST O2",
+        # "PRESSURE REGULATOR -QNTY 1", ...), not a single wrap tail -
+        # confirmed real difference between the two cases.
+        bullet_before = False
+        if i - 1 >= start:
+            prev1 = join_words(lines[i - 1][1].get("description", [])).strip()
+            if prev1.startswith(BULLET_CHARS):
+                bullet_before = True
+            elif i - 2 >= start:
+                prev2 = join_words(lines[i - 2][1].get("description", [])).strip()
+                bullet_before = prev2.startswith(BULLET_CHARS)
+        # A self-contained line that ALSO carries its own valid item-number
+        # anchor (e.g. the next GAS CHROMATOGRAPH tag's own heading line)
+        # forces a fresh open ONLY when it isn't already sitting at the
+        # start of the pending block (i > start) - i.e. only when there IS
+        # unclosed preceding content that needs walling off, never a
+        # no-op-turned-harmful override for an anchored line that's simply
+        # the first thing in its own block (e.g. "Special Tools & Tackles",
+        # itself anchored AND self-contained, but with nothing before it to
+        # close off - forcing it open here left it unclosed until the NEXT
+        # self-contained line ("Total Amount on FCA Basis") closed over
+        # BOTH of them together, a real regression caught by manual review
+        # after the fix below was first tried unconditionally). An anchored
+        # line IS by construction the start of brand new content, never the
+        # closing data line of whatever pending sub-item came before it -
+        # confirmed real-corpus case needing this: Q24X10030's tag 3 GAS
+        # CHROMATOGRAPH heading, reached while "Provision for Calibration
+        # Gas Bottle connection." (tag 2) was still an open pending block
+        # with no bullets of its own to close on.
+        own_item_no = join_words(lines[i][1].get("item_no", [])).strip()
+        has_own_item_no = i > start and _valid_item_no(own_item_no)
         is_opening = (
             own_desc
             and not own_desc.startswith(BULLET_CHARS)
-            and next_desc.startswith(BULLET_CHARS)
+            and (next_desc.startswith(BULLET_CHARS) or bullet_before or has_own_item_no)
         )
         split_at = i if is_opening else i + 1
         if split_at > start:
@@ -422,24 +524,362 @@ def _derive_boundaries_from_desc_gaps(classified: list[dict], anchor_yc: list[fl
     return boundaries
 
 
-def segment_rows(words: list[Word], bands, ruling_ys: list[float] | None = None) -> list[LogicalRow]:
-    if not words:
-        return []
+# ==========================================================================
+# LAYOUT: TOP-anchored vs CENTRED item numbers
+# ==========================================================================
+#
+# Two real, common table layouts need OPPOSITE row-boundary rules, and every
+# attempt to serve both with one shared rule fixed one and broke the other
+# (PROJECT_NOTES.md, 2026-09-23):
+#
+# - TOP (the default; everything before this existed assumed it): the item
+#   number sits on or next to the item's own first line - Q24X10030's GAS
+#   CHROMATOGRAPH table ("1 GAS CHROMATOGRAPH" / "Tag No..." / "Make...").
+# - CENTRED: the item number and its price are vertically centred in one
+#   tall merged cell, so the item's heading, make and model sit many lines
+#   ABOVE the anchor - Q2501N005 ("HOT EXTRACTIVE ... LASER TYPE" at y 226,
+#   its "1A" / price at y 376, its last spec line at y 519).
+#
+# A region is only treated as CENTRED on positive evidence (detect_layout);
+# segment_rows' default stays TOP, i.e. exactly the pre-existing code path.
 
+LAYOUT_TOP = "TOP"
+LAYOUT_CENTRED = "CENTRED"
+
+# Description lines that must sit above the FIRST anchor, on a headed page,
+# before a centred layout is even considered. Q24X10030's Section-I table
+# (3-line cells, anchor on the middle line) has 1; its GC table has 0;
+# Q2501N005 has 9-12.
+CENTRED_MIN_LINES_ABOVE_FIRST_ANCHOR = 2
+
+# Mean |block centre - anchor| over fully-bounded blocks, in line pitches,
+# above which a centred reading is rejected as not actually fitting.
+CENTRED_MAX_MEAN_CENTRE_ERROR = 1.5
+
+# Weight of "cut at a larger-than-usual gap" against "anchor at the block's
+# centre" in _derive_boundaries_centred. Traced on Q2501N005: the true item
+# gaps are only ~1.35x the median pitch (so the 1.8x threshold used by the
+# TOP path never sees them), and on page 1 the largest gap between 1A and
+# 1B is the one right AFTER the anchor line, not the item break - so neither
+# signal alone is enough. 4 separates every traced case on both documents.
+CENTRED_GAP_WEIGHT = 4.0
+
+# ...capped, so one unusually wide gap INSIDE an item (a spacer before a
+# sub-section, e.g. Q2501N005 page 2's 26pt gap above "LASER GAS ANALYSER")
+# can't outweigh the centring evidence on its own.
+CENTRED_MAX_GAP_BONUS = 2.0
+
+# Cost per description line left BEFORE the first block (handed to the
+# previous row as a continuation tail). Without it the fit "cheats": it
+# leaves the first item's heading unanchored and wraps a tiny block round
+# the anchor, since a 2-line block is trivially centred. Must stay low
+# enough that a real tail still wins when it's set off by a clear gap -
+# Q2501N005 page 8 opens with 2 lines of item 7's NOTE, then a 20pt gap.
+CENTRED_LEADING_LINE_PENALTY = 1.0
+
+
+def _classified_lines(words: list[Word], bands) -> list[dict]:
     lines = cluster_lines(words)
     lines = [ln for ln in lines if not _is_letterhead_boilerplate(join_words(ln.words))]
-    if not lines:
-        return []
-    classified = _classify_lines(lines, bands)
+    return _classify_lines(lines, bands) if lines else []
 
-    item_anchors = [
+
+def _anchor_ycs(classified: list[dict]) -> list[float]:
+    return [
         c["line"].yc for c in classified
         if "item_no" in c["cells"] and _valid_item_no(join_words(c["cells"]["item_no"]))
     ]
+
+
+def _line_pitch(classified: list[dict]) -> float:
+    ycs = [c["line"].yc for c in classified if "description" in c["cells"]]
+    return median([b - a for a, b in zip(ycs, ycs[1:])]) or 1.0
+
+
+def _anchors_carry_own_price(classified: list[dict], anchors: list[float]) -> bool:
+    """The defining trait of the centred layout: the item number and its
+    price are centred TOGETHER, so most anchors have a price on their own
+    line or the adjacent one. A vendor that top-aligns the number and
+    centres only the price looks centred by line-count alone but fails
+    this - confirmed on Q2409G010R5 (items 1.2 / 1.3 / 2.1 / 2.2 / 2.3:
+    number on the heading line, price 2-6 lines lower, 0 of 5 co-located).
+    Majority, not all: an item quoted as a rate ("@3,300 PER METER",
+    Q2501N005's 3C / 6D) legitimately has no price at all."""
+    pitch = _line_pitch(classified)
+    price_ycs = [c["line"].yc for c in classified if _has_price(c["cells"])]
+    own = sum(any(abs(p - a) <= pitch for p in price_ycs) for a in anchors)
+    return 2 * own > len(anchors)
+
+
+# A gap wider than this many line pitches is a paragraph break.
+CENTRED_PARAGRAPH_GAP = 1.6
+
+
+def _anchors_look_top_aligned(classified: list[dict], anchors: list[float]) -> bool:
+    """Per-anchor vote on where the number sits in its item:
+
+    - TOP vote: the anchor's own line opens a paragraph AND at least two
+      more lines of that paragraph follow - a heading followed by its body.
+      Confirmed on Q25N10067R1's "SECTION 2" table (1.4 / 1.5 / 2), which
+      prints its price on the heading line, so it passes
+      _anchors_carry_own_price and would otherwise inherit CENTRED from the
+      same document's first table.
+    - CENTRED vote: the anchor's line carries no description text (a number
+      floating in a spacer - Q2501C001R2's "1", Q2501N005's "1B"), or it
+      continues a paragraph that started above it (Q2501N005's "1A").
+    - No vote: a 1-2 line cell, where centred and top-aligned look the same
+      (most of Q25N10067R1's first table - genuinely centred cells whose
+      short items put the number on their first line).
+
+    True only when TOP votes outnumber CENTRED ones."""
+    pitch = _line_pitch(classified)
+    para = CENTRED_PARAGRAPH_GAP * pitch
+    desc = sorted(c["line"].yc for c in classified if "description" in c["cells"])
+    anchor_set = sorted(anchors)
+    top = centred = 0
+    for a in anchor_set:
+        prev = [y for y in desc if y < a - 0.5]
+        if not prev:
+            continue
+        own = [y for y in desc if abs(y - a) <= 0.5]
+        if not own:
+            centred += 1
+            continue
+        if a - prev[-1] <= para:
+            centred += 1
+            continue
+        nxt_anchor = next((b for b in anchor_set if b > a + 0.5), float("inf"))
+        follow, last = 0, a
+        for y in desc:
+            if y <= a + 0.5:
+                continue
+            if y >= nxt_anchor or y - last > para:
+                break
+            follow, last = follow + 1, y
+        if follow >= 2:
+            top += 1
+    return top > centred
+
+
+def _derive_boundaries_centred(classified: list[dict], anchor_yc: list[float]) -> tuple[list[float], float]:
+    """Row start y-values for a CENTRED-layout region, plus the fit's mean
+    centre error (in line pitches) over the blocks whose both ends lie on
+    this page. One block per anchor; chosen jointly by dynamic programming
+    so that each anchor sits as close as possible to the vertical centre of
+    its own block, with a bonus for cutting at a larger-than-usual line gap.
+
+    Blocks are runs of description lines; a cut sits in the gap between two
+    of them. The LAST block is open-ended (it may continue onto the next
+    page), so it carries no centre cost. Lines before the first block (a
+    previous page's item tail) get their own leading row, which the
+    existing merge passes fold into the previous item."""
+    anchors = sorted(anchor_yc)
+    desc = [c["line"].yc for c in classified if "description" in c["cells"]]
+    region_top = min(c["line"].yc for c in classified)
+    m, n = len(desc), len(anchors)
+    if m < 2 or n < 2:
+        # One anchor: no fully-bounded block to fit a centre to, and the
+        # whole region is that one item's.
+        return [region_top], 0.0
+
+    gaps = [desc[i] - desc[i - 1] for i in range(1, m)]
+    g = median(gaps) or 1.0
+
+    # Cut j (0..m) = "a block starts at desc line j"; cut 0 is the region top.
+    def cut_y(j: int) -> float:
+        return float("-inf") if j == 0 else (desc[j - 1] + desc[j]) / 2
+
+    def cut_bonus(j: int) -> float:
+        if j == 0:
+            return 0.0
+        return -min(CENTRED_MAX_GAP_BONUS, CENTRED_GAP_WEIGHT * (gaps[j - 1] - g) / g)
+
+    INF = float("inf")
+    # cost[k][j]: best total with block k starting at cut j.
+    cost = [[INF] * m for _ in range(n)]
+    back = [[-1] * m for _ in range(n)]
+    for j in range(m):
+        if cut_y(j) <= anchors[0]:
+            cost[0][j] = cut_bonus(j) + CENTRED_LEADING_LINE_PENALTY * j
+    for k in range(1, n):
+        for j in range(1, m):
+            # block k starts at cut j: must sit after anchor k-1, at/before anchor k
+            if not (anchors[k - 1] < cut_y(j) <= anchors[k]):
+                continue
+            for i in range(j):
+                if cost[k - 1][i] == INF:
+                    continue
+                if i > 0 and not cut_y(i) <= anchors[k - 1]:
+                    continue
+                centre = (desc[i] + desc[j - 1]) / 2
+                c = cost[k - 1][i] + abs(centre - anchors[k - 1]) / g + cut_bonus(j)
+                if c < cost[k][j]:
+                    cost[k][j], back[k][j] = c, i
+
+    best_j = min(range(m), key=lambda j: cost[n - 1][j])
+    if cost[n - 1][best_j] == INF:
+        return [region_top], INF
+
+    cuts = [best_j]
+    for k in range(n - 1, 0, -1):
+        cuts.append(back[k][cuts[-1]])
+    cuts.reverse()
+
+    errors = [
+        abs((desc[cuts[k]] + desc[cuts[k + 1] - 1]) / 2 - anchors[k]) / g
+        for k in range(n - 1)
+    ]
+    mean_error = sum(errors) / len(errors) if errors else 0.0
+
+    boundaries = [region_top if j == 0 else cut_y(j) for j in cuts]
+    if cuts[0] > 0:
+        boundaries.insert(0, region_top)
+    return boundaries, mean_error
+
+
+def detect_layout(words: list[Word], bands) -> str:
+    """Classify a HEADED region's layout (see the section banner above).
+    Only meaningful on the page that carries the table's own header: there
+    the first item starts right below the header, so lines above the first
+    anchor can only be that item's own heading. A continuation page may
+    open mid-item, so callers pass the headed page's result on to it
+    rather than re-detecting there."""
+    classified = _classified_lines(words, bands)
+    anchors = sorted(_anchor_ycs(classified))
+    if not anchors:
+        return LAYOUT_TOP
+
+    above = sum(1 for c in classified if "description" in c["cells"] and c["line"].yc < anchors[0] - 0.5)
+    if above < CENTRED_MIN_LINES_ABOVE_FIRST_ANCHOR:
+        return LAYOUT_TOP
+    if not _anchors_carry_own_price(classified, anchors):
+        return LAYOUT_TOP
+    if _anchors_look_top_aligned(classified, anchors):
+        return LAYOUT_TOP
+
+    if len(anchors) >= 2:
+        _, mean_error = _derive_boundaries_centred(classified, anchors)
+        if mean_error > CENTRED_MAX_MEAN_CENTRE_ERROR:
+            return LAYOUT_TOP
+    return LAYOUT_CENTRED
+
+
+def _border_only(ruling_ys: list[float], classified: list[dict]) -> bool:
+    """True when no ruling lies strictly inside the content between the
+    outermost rulings - i.e. they're the page's own frame, not row rules.
+    Q2501N005's continuation pages carry exactly two (y 116.8 / 758.5)."""
+    lo, hi = min(ruling_ys), max(ruling_ys)
+    inside = [c["line"].yc for c in classified if lo <= c["line"].yc <= hi]
+    if not inside:
+        return True
+    first, last = min(inside), max(inside)
+    return not any(first + 1 < r < last - 1 for r in ruling_ys)
+
+
+def _segment_rows_centred(classified: list[dict], ruling_ys: list[float] | None) -> list[LogicalRow] | None:
+    if ruling_ys and len(ruling_ys) >= 2:
+        if not _border_only(ruling_ys, classified):
+            # Real per-row rulings beat any geometric inference.
+            return None
+        # Frame only: keep the frame's one useful effect in the TOP path -
+        # text above the top frame line (running page header / URL) is
+        # outside the table.
+        top = min(ruling_ys)
+        classified = [c for c in classified if c["line"].yc >= top]
+        if not classified:
+            return []
+
+    anchors = _anchor_ycs(classified)
+    if not anchors:
+        return None
+    # The layout is inherited from the headed page; a page whose own
+    # anchors don't sit with their prices doesn't follow it (a document can
+    # mix conventions - Q2409G010R5) and takes the ordinary path instead.
+    if not _anchors_carry_own_price(classified, anchors):
+        return None
+    if _anchors_look_top_aligned(classified, anchors):
+        return None
+
+    # An unnumbered sub-item in this layout has its price centred in its
+    # own cell just like a numbered one, so its self-contained price line is
+    # a block centre too. Confirmed on Q2606H02: a continuation page holding
+    # an unnumbered "PORTA CABIN" (price at y 290) above numbered item "5"
+    # (y 375) - with only real anchors, the whole page became item 5. Also
+    # gives a NOTE whose overflow text lands in the price column
+    # (Q2501N005 page 4, "QUOTED DUST") its own row instead of
+    # concatenating two prices on the item above. Price lines within a
+    # line pitch of a real anchor are that anchor's own price (Q2501N005's
+    # "6C"/"6E"/"7" print it ~6pt below the number), not a new centre.
+    # A price line below an anchor that has NO price of its own is that
+    # anchor's price (the page mixes in a top-aligned number), not a new
+    # centre - confirmed on Q25N10067R1's "1.3 Sample Transportation Tube",
+    # whose price sits 3 lines down: as a centre it split the heading off.
+    pitch = _line_pitch(classified)
+    price_ycs = sorted(c["line"].yc for c in classified if _has_price(c["cells"]))
+    anchors_sorted = sorted(anchors)
+
+    def claimed_by_priceless_anchor(y: float) -> bool:
+        above = [a for a in anchors_sorted if a < y]
+        if not above:
+            return False
+        a = above[-1]
+        if any(abs(p - a) <= pitch for p in price_ycs):
+            return False  # nearest anchor above already has its own price
+        # ...and this is the first price line after it
+        return next((p for p in price_ycs if p > a + pitch), None) == y
+
+    centres = sorted(anchors + [
+        c["line"].yc for c in classified
+        if _is_self_contained_item_line(c["cells"])
+        and all(abs(c["line"].yc - a) > pitch for a in anchors)
+        and not claimed_by_priceless_anchor(c["line"].yc)
+    ])
+    boundaries, _ = _derive_boundaries_centred(classified, centres)
+
+    rows: list[LogicalRow] = []
+    for i, b0 in enumerate(boundaries):
+        b1 = boundaries[i + 1] if i + 1 < len(boundaries) else float("inf")
+        row_lines = [c for c in classified if b0 - 0.01 <= c["line"].yc < b1]
+        if row_lines:
+            rows.append(LogicalRow(line_cells=[(c["line"], c["cells"]) for c in row_lines]))
+
+    # Every block is built round exactly one centre, so neither TOP-layout
+    # repair pass applies: _split_self_contained_subitems would cut an
+    # item's heading off at its centred price line, and
+    # _reattach_misattributed_leading_lines would move the lines above the
+    # anchor - this layout's own heading - to the previous row.
+    return _merge_bundled_lots(rows)
+
+
+def segment_rows(
+    words: list[Word], bands, ruling_ys: list[float] | None = None, layout: str = LAYOUT_TOP,
+) -> list[LogicalRow]:
+    if not words:
+        return []
+
+    classified = _classified_lines(words, bands)
+    if not classified:
+        return []
+
+    if layout == LAYOUT_CENTRED:
+        rows = _segment_rows_centred(classified, ruling_ys)
+        if rows is not None:
+            return rows
+        # No anchors on this page, or real row rulings: fall through to the
+        # ordinary path below.
+
+    item_anchors = _anchor_ycs(classified)
     money_lines_yc = [c["line"].yc for c in classified if _has_price(c["cells"])]
 
+    # True only when ruling_ys carries a REAL per-row divider, not just the
+    # table's own outer top/bottom frame (_border_only, already used by the
+    # CENTRED path for the same distinction) - a 2-line frame with nothing
+    # ruled between its own content is not evidence any two lines belong in
+    # different rows, so it must not suppress the repair heuristics below.
+    ruled_boundaries = False
     if ruling_ys and len(ruling_ys) >= 2:
         boundaries = sorted(set(ruling_ys))
+        ruled_boundaries = not _border_only(ruling_ys, classified)
     elif len(item_anchors) >= 2:
         # Collision handling (two anchors mapping to the same gap-derived
         # boundary) is resolved locally, per colliding pair, inside
@@ -447,6 +887,15 @@ def segment_rows(words: list[Word], bands, ruling_ys: list[float] | None = None)
         boundaries = _derive_boundaries_from_desc_gaps(classified, item_anchors)
     else:
         boundaries = sorted(set(money_lines_yc))
+        # A row boundary at the FIRST price line leaves every line above it
+        # outside every row - silently dropped, not flagged. Confirmed on
+        # Q2501N005 (no item_no band detected): item 1A's whole heading /
+        # make / model block (y 226-364) sat above its centred price line
+        # (y 376) and never reached the output. Open the first row at the
+        # region's own top instead, the same clamp the anchor path already
+        # applies (_derive_boundaries_from_desc_gaps' region_top).
+        if boundaries:
+            boundaries[0] = min(boundaries[0], classified[0]["line"].yc)
 
     if not boundaries:
         # Nothing to anchor on - treat the whole region as a single row.
@@ -459,13 +908,20 @@ def segment_rows(words: list[Word], bands, ruling_ys: list[float] | None = None)
         if not row_lines:
             continue
         row = LogicalRow(line_cells=[(c["line"], c["cells"]) for c in row_lines])
+        if ruled_boundaries:
+            row.flags.append(RULED_ROW_FLAG)
         rows.append(row)
 
     # Split out bundled, unnumbered sub-items (see
     # _split_self_contained_subitems) before the merge pass below - each
     # split-out row already has its own price, so _merge_bundled_lots'
     # "no item_no and no price -> merge into preceding row" rule correctly
-    # leaves them as their own rows.
+    # leaves them as their own rows. Run unconditionally, even for a
+    # RULED_ROW - see RULED_ROW_FLAG's docstring (Q24X10030 needs this to
+    # keep running on ruled buckets too). A row this function actually
+    # splits gets fresh LogicalRow objects with no flags of their own,
+    # which is correct: a bucket split apart here was never really "one
+    # PDF-drawn row" to begin with.
     split_rows: list[LogicalRow] = []
     for row in rows:
         split_rows.extend(_split_self_contained_subitems(row))
@@ -500,6 +956,10 @@ def _reattach_misattributed_leading_lines(rows: list[LogicalRow]) -> list[Logica
         return rows
     for i in range(1, len(rows)):
         row = rows[i]
+        # A RULED_ROW's own top edge is a real PDF ruling, not a guess
+        # this heuristic gets to second-guess - see RULED_ROW_FLAG.
+        if RULED_ROW_FLAG in row.flags:
+            continue
         item_no_idx = next(
             (j for j, (_, cw) in enumerate(row.line_cells)
              if "item_no" in cw and _valid_item_no(join_words(cw["item_no"]))),

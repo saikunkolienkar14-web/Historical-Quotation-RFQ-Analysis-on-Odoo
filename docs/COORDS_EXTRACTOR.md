@@ -72,6 +72,14 @@ apply at multiple points: a candidate window containing a money token
 Basis/GST/Freight table (commercial terms, not a BOQ), and a
 table-of-contents page (repeated `SECTION n:` headings with no money).
 
+Header cells are matched against `vocab.BOQ_HEADER_ALIASES` by longest
+alias. A period is read both as a word break and as nothing, so a glued
+`SR.NO.` (→ "sr no") and an undotted `SNO` both match the item-number
+alias `s.no`; before 2026-09-23 only the second reading existed and ~700
+documents with a glued `SR.NO.` header got no item-number column at all.
+`No.of Qty` / `No. of Units` match the `quantity` alias `no of`, which
+outranks item_no's bare `no`.
+
 Not every priced table has ruling lines. When `find_tables()` finds
 nothing usable on a page that still carries money tokens, `locate.py`
 falls back to an **unruled** path: it clusters words into a single header
@@ -89,7 +97,30 @@ then item-number anchors (with boundaries taken from gaps in the
 *description* column, not the item-number's own y-position — item numbers
 are frequently vertically centred in a tall multi-line cell, which drags
 the price onto the wrong row if used directly), then money-line positions
-as a last resort.
+as a last resort. When that last resort is used, the first row still opens
+at the region's own top, so content above the first price line is never
+dropped.
+
+**Two layouts.** Item-number anchors are read one of two ways, chosen per
+table (`banded.detect_layout`, stored on `TableRegion.layout`):
+
+| Layout | Where the number sits | Example | Boundary rule |
+|---|---|---|---|
+| `TOP` (default) | on or beside the item's own heading line | Q24X10030 GC table | description-gap boundaries above, plus the two TOP repair passes |
+| `CENTRED` | vertically centred with its price in a tall cell; heading lines are *above* it | Q2501N005 | `_derive_boundaries_centred` — one block per anchor, placed so each anchor is nearest its block's centre, preferring cuts at wider gaps |
+
+`CENTRED` is only chosen on positive evidence, on the page carrying the
+table's header: at least two description lines above the first anchor,
+most anchors carrying their own price on or next to their line, anchors
+not mostly opening a paragraph followed by body text, and (with ≥ 2
+anchors) a good centred fit. Unheaded continuation pages inherit the
+layout, but re-check the last three signals themselves and fall back to
+`TOP` when they fail — a document can mix conventions. In `CENTRED`
+tables, unnumbered price lines also act as block centres (an unnumbered
+sub-item's price is centred in its own cell), page-frame-only ruling
+lines are ignored, and neither TOP repair pass runs (both would cut the
+heading off an item). Anything classified `TOP` runs exactly the code
+that existed before the split.
 
 **The structural fix for the known bug class**: a word only stays in a
 price band if that band's *entire line* parses as money or a recognized
@@ -101,6 +132,30 @@ A row with a description but no item number and no price merges into the
 preceding row (bundled-lot convention), capped and stopped at any
 `STOP_SECTION_MARKERS` line so a merge can't run into an unrelated
 document section.
+
+**Ruling detection (`ruled._ruling_line_ys`)** looks for two drawing
+primitives, not just lines: an actual horizontal line segment, and a
+filled rectangle no taller than a hairline (some templates — e.g.
+Q25X10031's "Price Summary Sheet" — draw every row divider this way,
+never as a line). A candidate is grouped with others at the same y first;
+several short, disjoint marks there (separate underlines drawn under
+separate cell values on one line) are never treated as one continuous
+rule, and a mark reaching only the *description* column's own width is
+trusted only once it repeats several times on the page — a single such
+mark is indistinguishable from a decorative underline under one heading.
+
+When real per-row rulings are found (not just the table's own outer
+frame), item-number anchors still take priority as the boundary source
+whenever there are ≥ 2 of them: a ruled table's physical rows don't
+always match its logical items 1:1 (some templates rule every printed
+line), and the anchor/gap path together with the two TOP repair passes is
+what reconciles that. Ruling only becomes the direct boundary source when
+there are too few reliable anchors — the confirmed real case is an
+unheaded continuation page's tail content. A row built directly from a
+real ruling is tagged `RULED_ROW_FLAG`, which only exempts it from the
+leading-line reattach repair pass (its own top edge is already ground
+truth); it still goes through the split and bundled-lot merge passes like
+any other row.
 
 ### Money grammar (`money.py`)
 
@@ -130,22 +185,31 @@ it gets `confidence=LOW` and the failed rule name(s) in
 
 ## Output schema
 
-`Quotation_Data/03f_structured_coords/quotation_items.csv` — 22 columns:
+`Quotation_Data/03f_structured_coords/quotation_items.csv` — 23 columns:
 
-`source_file, source_path, quotation_number, item_no, parent_item_no,
-item_level, product_name, description_full, make, model, quantity, unit,
-unit_price_raw, unit_price, total_price_raw, total_price,
+`source_file, source_path, quotation_number, row_seq, item_no,
+parent_item_no, item_level, product_name, description_full, make, model,
+quantity, unit, unit_price_raw, unit_price, total_price_raw, total_price,
 total_price_source, price_status, currency, raw_row_text, confidence,
 validation_error`
 
+`row_seq` is the row's own 1-based position in this document's extraction
+order (across all of its tables) — a unique within-`source_path` key even
+when `item_no` is blank.
+
 `item_no` is **text**, exactly as printed in the source (`"1"`, `"1.1"`,
-`"4a"`) — `"1.1"` is a two-level item marker, not the number 1.1.
-`parent_item_no` (text, blank at top level) and `item_level` (1 = top
-level, 2 = sub-item, 0 = no item number at all) expose that hierarchy
-explicitly, via `fields.derive_item_hierarchy`. CSV carries no types, so
-**read `item_no`/`parent_item_no` as strings** (e.g. pandas
-`read_csv(dtype=str)`); otherwise they are coerced to floats and `"1.10"`
-collapses onto `"1.1"`.
+`"4a"`) — `"1.1"` is a two-level item marker, not the number 1.1. It is
+**blank** when the source row prints no item number of its own (e.g. a
+continuation or bundled-lot row) — never backfilled with `row_seq` or any
+other position-derived guess (a sequential-index fallback here was
+confirmed to fabricate a different item number than the one actually
+printed, purely from the row's position in a given extraction run — see
+PROJECT_NOTES.md). `parent_item_no` (text, blank at top level) and
+`item_level` (1 = top level, 2 = sub-item, 0 = no item number at all)
+expose that hierarchy explicitly, via `fields.derive_item_hierarchy`. CSV
+carries no types, so **read `item_no`/`parent_item_no` as strings** (e.g.
+pandas `read_csv(dtype=str)`); otherwise they are coerced to floats and
+`"1.10"` collapses onto `"1.1"`.
 
 `product_name` is a short heading (≤ 15 words) derived from
 `description_full` by `fields.extract_heading`: it accumulates lines until
@@ -216,6 +280,17 @@ against real corpus documents and is gated with
 `@unittest.skipUnless(path.exists(), ...)` — it skips cleanly rather than
 failing when the (gitignored, not-committed) source PDFs aren't present.
 
+`tests/test_boq_snapshots.py` re-extracts every document in
+`tests/snapshots/boq_rows_snapshot.json` and requires every row and field
+to match exactly. Only write a snapshot from output a human has verified:
+
+```
+python scripts/snapshot_rows.py --out tests/snapshots/boq_rows_snapshot.json "<pdf>" ...
+```
+
+It holds real descriptions and prices, so `tests/snapshots/` is gitignored
+(currently: Q24X10030 base/R1/R2, verified 2026-09-23).
+
 ```
 python scripts/score.py --self-consistency <items.csv>
 python scripts/score.py --golden tests/golden.csv --against <items.csv>
@@ -229,6 +304,11 @@ for the layout-stratified sampling methodology used to build it).
 
 
 ## Known limitations
+
+- **Item number centred high in its block.** A cell whose number sits
+  well above its block's middle (e.g. Q2512E16 item 1) fits neither
+  layout rule; it stays `TOP` and can split one fragment row of bullets
+  off the item.
 
 - **Broken font encoding.** At least one corpus document's embedded font
   has a missing/broken ToUnicode map — text extraction returns control

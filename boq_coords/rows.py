@@ -159,7 +159,9 @@ def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[
         page_no=page_no, table=None, header=region.header, bands=bands,
         bbox=(x0, y_top, x1, y_bottom), score=0,
     ))
-    rows = segment_rows(words, bands, ruling_ys=ruling_ys or None)
+    # No header on this page, so the page may open mid-item and can't tell
+    # its own layout - inherit the headed page's (see banded.detect_layout).
+    rows = segment_rows(words, bands, ruling_ys=ruling_ys or None, layout=region.layout)
     if rows and inferred_bands is not None:
         for row in rows:
             row.flags.append("CONTINUATION_BANDS_REINFERRED")

@@ -33,6 +33,10 @@ odoo_match_customer/Contact (res.partner).csv
 tests/golden.csv
 tests/golden_candidates_stage1.csv
 
+# Verified row-extraction snapshots (scripts/snapshot_rows.py) - real item
+# descriptions and prices, same policy as golden.csv.
+tests/snapshots/
+
 # LLM few-shot source/benchmark material - real (or only partially
 # anonymized) quotation excerpts, ground truth data, and benchmark
 # archives/notebooks, several levels of nested subdirectories deep. Only

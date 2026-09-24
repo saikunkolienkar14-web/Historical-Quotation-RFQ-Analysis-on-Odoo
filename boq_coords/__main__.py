@@ -92,8 +92,10 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
         doc_summary["path_taken"] = "RULED"
 
         out_rows: list[dict] = []
+        row_seq = 0
         for table in tables:
-            for item_idx, row in enumerate(table.rows, start=1):
+            for row in table.rows:
+                row_seq += 1
                 description_lines = row.text("description").split("\n") if row.text("description") else []
                 part_no = row.text("part_no").strip()
                 lines_for_fields = list(description_lines)
@@ -164,11 +166,24 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                 # An item_no that isn't a single well-formed anchor (e.g.
                 # unsplit sub-items concatenated into "2 .1 .2 .3", or a
                 # stray non-numeric token swept in) is never emitted
-                # verbatim - fall back to the row's own sequential index and
-                # let validate.py's ITEM_NO_MALFORMED rule flag it, rather
-                # than silently passing garbage through as confidence=HIGH.
+                # verbatim - blank it out and let validate.py's
+                # ITEM_NO_MALFORMED rule flag it (when item_no_raw was
+                # non-empty), rather than passing garbage through.
+                #
+                # A genuinely blank item_no_raw (the row carries no printed
+                # number at all - e.g. a continuation/bundled-lot row) is
+                # left BLANK here, never backfilled with the row's own
+                # sequential position - confirmed real-corpus bug
+                # (Q25X10031): the sequential-index fallback fabricated a
+                # different item number than the one actually printed
+                # (or than none at all) purely because this row happened to
+                # be the Nth one extracted, which is only meaningful within
+                # a single call to this loop, not the source document.
+                # row_seq (below) carries that same positional information
+                # explicitly, so nothing is lost - it's just no longer
+                # confused with a real printed item number.
                 item_no_raw = row.text("item_no").strip()
-                item_no = item_no_raw if is_clean_item_no(item_no_raw) else str(item_idx)
+                item_no = item_no_raw if is_clean_item_no(item_no_raw) else ""
                 parent_item_no, item_level = derive_item_hierarchy(item_no)
 
                 description_full = "\n".join(remaining_desc).strip()
@@ -177,6 +192,11 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     "source_file": source_file,
                     "source_path": source_path,
                     "quotation_number": quotation_number,
+                    # Row's own position in this document's extraction order
+                    # (1-based, across all of the document's tables) -
+                    # unique within source_path even when item_no is blank
+                    # (see the item_no comment above), unlike item_no itself.
+                    "row_seq": row_seq,
                     "item_no": item_no,
                     "item_no_raw": item_no_raw,
                     "parent_item_no": parent_item_no,

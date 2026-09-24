@@ -909,6 +909,208 @@ reaches here) — keep both in sync if the source changes again.
    smoke test: 0 errors, same 676 rows (a description-text fix, not a
    row-count one).
 
+   **"Provision for Calibration Gas Bottle connection." absorbed into the
+   PRECEDING or FOLLOWING item - fixed (2026-09-23).** User-reported via
+   manual review of the Q24X10030 output, the one remaining defect after
+   the fixes above: this self-contained sub-item (its own "1 No"/"Quoted"
+   on its own heading line, per the source PDF's table layout) kept
+   getting glued onto a neighboring item instead of forming its own row.
+   Root cause, in two parts, both inside `_split_self_contained_subitems`:
+
+   1. It's an "opening-style" heading (own price, no bullets of its own
+      under it - instead a plain "Note-..." line) but its ONLY existing
+      opening signal was "next line is bulleted", which doesn't fire here.
+      The line before it isn't bulleted either - it's the wrapped TAIL of
+      the previous sub-item's last bullet ("...shall be mounted" /
+      "inside SS304 enclosure, 1.5mm thick.", no bullet prefix of its own
+      on the second line). Fixed by also checking one line further back:
+      lines[i-1], or lines[i-2] when lines[i-1] is a single non-bulleted
+      wrap line. Deliberately NOT an unbounded backward walk - that was
+      tried first and regressed Q2501N005's "TUBE FITTING 1 LOT" (a
+      genuine CLOSING-style item with unrelated bullets much earlier in
+      the same pending block) - only a 2-line window is trusted.
+   2. Once "Provision..." correctly opens its own block, it has nothing
+      of its own to close on (no bullets), so it only closes when the
+      NEXT self-contained line is reached - and for tag 2 and tag 3 of
+      this document, that next line is the FOLLOWING tag's own "GAS
+      CHROMATOGRAPH" (or "OXYGEN ANALYZER") heading, which defaulted to
+      CLOSING style and silently absorbed the whole unclosed "Provision"
+      block into itself, gluing two different analyzer tags' data
+      together. Fixed: a self-contained line that also carries its own
+      valid item-number anchor always forces its own fresh open - but
+      ONLY when it isn't already sitting at the very start of the pending
+      block (`i > start`); an anchored self-contained line that's ALREADY
+      first (e.g. Section-I's "Special Tools & Tackles", also anchored
+      but with nothing before it needing walling off) must keep its
+      default closing behavior, or it never closes at all and swallows
+      whatever self-contained line comes after it instead - a regression
+      caught immediately by the same manual review before being narrowed
+      to `i > start`. A third variant, "OXYGEN ANALYZER" itself (an
+      anchored heading with NO price of its own - the price sits on a
+      LATER line, "Analyzer shelter & System integration") needed a
+      separate fix: anchor-only lines (valid item_no, not themselves
+      self-contained) are now folded in as forced split points too, not
+      just the price-bearing self-contained ones.
+
+   Verified directly against base `Q24X10030`, R1 and R2: all three/four
+   GAS CHROMATOGRAPH/OXYGEN ANALYZER tags now each carry their own
+   "Provision for Calibration Gas Bottle connection." as a separate row,
+   with no cross-tag bleed and no regression on item 12's charges-section
+   split (fixed earlier this session). 118/118 tests pass throughout
+   (three intermediate attempts each caught and fixed a real regression
+   before landing here - Q2501N005's TUBE FITTING, then Section-I's
+   Special Tools & Tackles). 50-doc smoke test: 0 errors, 686 rows (up
+   from 676, matching the newly-split rows).
+
+   **`Q2501N005`-family row segmentation — three fixes implemented,
+   measured, and REVERTED (2026-09-23). Superseded the same day by the
+   layout-dispatch entry directly below, which landed; kept for the
+   measurements.** User-reported against `Q2501N005`: 12 garbled rows,
+   no item numbers at all, the first item's entire heading block missing,
+   and six separate prices concatenated into one cell. All three fixes
+   below were implemented in one session, verified to largely fix that
+   document (24 rows, correct item numbers `1A`/`1B`/`2A`..., correct
+   quantities, exactly one price per row), and then reverted in full,
+   because final verification showed they regressed base `Q24X10030` —
+   the document fixed and user-confirmed correct earlier the same day
+   (item 2 went back to starting `"003 and technical mentioned in MR N2
+   Analyzer..."`, and the GAS CHROMATOGRAPH table re-fragmented). Six
+   further narrowing attempts each fixed one document and broke the
+   other. `boq_coords/banded.py` and `boq_coords/vocab.py` are unchanged
+   from their post-`Q24X10030` state; 118/118 tests pass.
+
+   **Why the two documents can't share one boundary rule — the actual
+   finding.** They have opposite table geometry, both real and both
+   common:
+   - `Q24X10030`: the item number and its price sit on the SAME line as
+     the item's own heading, spec text follows below. Correct
+     segmentation opens a row essentially AT the anchor line.
+   - `Q2501N005`: the item number AND price are both vertically centred
+     in a tall merged cell, with the item's heading several lines ABOVE
+     the anchor and spec text continuing below it. Correct segmentation
+     must reach backwards, far, from the anchor.
+
+   Any single gap/anchor rule tuned for one shape mis-segments the
+   other, which is why incremental heuristics keep trading one for the
+   other (this is now the fourth documented revert in this area — see
+   the word-count and font-weight attempts above). The next attempt
+   should CLASSIFY the table's layout shape first (anchor-on-price-line
+   vs. anchor-centred-in-cell — measurable from the y-offset between an
+   anchor and the nearest heading/price line, and from whether anchors
+   land mid-paragraph) and dispatch to a matching boundary strategy,
+   rather than tuning one shared rule. It needs a labelled sample drawn
+   from BOTH families before any code, not one regression test per
+   family after the fact.
+
+   Three independently-verified findings worth keeping:
+
+   1. **Glued `SR.NO.` header token defeats `item_no` column detection —
+      confirmed, large, and a two-line change.** `normalize_header_cell`
+      (`vocab.py`) strips periods rather than replacing them with a
+      space, so a header cell printed `"SR.NO."` (no space, very common
+      in this corpus) normalizes to `"srno"`, which matches no `item_no`
+      alias; `classify_header_word` then returns nothing and the table
+      gets no `item_no` band at all, so no anchors, so segmentation falls
+      through to the weakest boundary strategy. Measured: **707 documents
+      in the scanned corpus** contain the glued-token pattern; on a
+      random 80-document manifest-matched sample of them, documents with
+      an `item_no` column detected went **27/80 → 74/80** with
+      period→space normalization (in both `normalize_header_cell` and
+      `classify_header_word`'s own alias normalization). The change
+      itself is correct and small — but it CANNOT ship alone, because
+      turning anchors on for 700+ documents is exactly what exposes the
+      segmentation weakness in finding 2/3. Scan script kept in the
+      session scratchpad (`scope_srno_scan.py`); regenerate rather than
+      trust the path.
+
+   2. **Silent whole-heading data loss in the no-anchor fallback.** When
+      a region has fewer than two `item_anchors`, `segment_rows` falls
+      through to `boundaries = sorted(set(money_lines_yc))` — row
+      boundaries placed at the y-centres of PRICE lines. But in these
+      layouts a price line is semantically the row's CLOSER, not its
+      OPENER, so everything above the FIRST price line — the first item's
+      complete heading, make, model and spec block — is outside every
+      band and is dropped from the output entirely, with no flag and no
+      `validation_error`. Confirmed by direct measurement on
+      `Q2501N005`: first content line at y≈226, first derived boundary at
+      y≈376; ~150pt of real item content discarded. This is a data-loss
+      bug independent of the geometry question above and worth fixing on
+      its own terms (at minimum, extend the first boundary up to the
+      region's own content top, or flag the region).
+
+   3. **`Q2501N005`'s pages defeat both of the other two strategies too,
+      measured.** Its pages 4-10 contain exactly 2 ruling lines — the
+      page's own outer border, not per-row rulings — which is enough to
+      satisfy `segment_rows`' `ruling_ys and len(ruling_ys) >= 2` branch
+      and make the whole page one row (same failure shape already
+      documented for `Q24X10030`'s item 3 above; the `>= 2` threshold is
+      the common cause and should probably become a "are these rulings
+      INSIDE the region and more numerous than the region's own
+      anchors/prices" test rather than a count). And its paragraph gaps
+      are only ~1.35× the median line spacing, comfortably below
+      `_derive_boundaries_from_desc_gaps`' `1.8 *` threshold, so the gap
+      heuristic finds no paragraph starts either. Lowering that threshold
+      globally was tried and is what regressed `Q24X10030` hardest.
+
+   **Two row layouts, detected and dispatched - landed (2026-09-23).**
+   Follow-up to the reverted entry above, built the way it recommended:
+   classify the layout first, then segment, instead of one shared rule.
+   `boq_coords/banded.py` now has `LAYOUT_TOP` (default; exactly the
+   pre-existing code path, untouched) and `LAYOUT_CENTRED`:
+
+   - `detect_layout()` runs once, on the page carrying the table's own
+     header (`ruled.rows_from_region`), stored on `TableRegion.layout`;
+     unheaded continuation pages inherit it (`rows._unheaded_continuation_rows`),
+     since a continuation page may open mid-item. CENTRED needs all of:
+     >= 2 description lines above the first anchor; most anchors carry
+     their own price on or next to their line (`_anchors_carry_own_price`
+     - a vendor that top-aligns the number and centres only the price
+     fails this, `Q2409G010R5`); anchors don't mostly open a paragraph
+     followed by body text (`_anchors_look_top_aligned` - a top-anchored
+     table with the price on the heading line fails this,
+     `Q25N10067R1`'s SECTION 2); and, with >= 2 anchors, the centred fit
+     below has mean error <= 1.5 line pitches. The last three checks are
+     re-applied per continuation page, which falls back to TOP when they
+     fail (documents mix conventions).
+   - `_derive_boundaries_centred()`: a small dynamic program choosing one
+     block per anchor so each anchor sits nearest its block's vertical
+     centre, with a capped bonus for cutting at a wider-than-usual gap and
+     a cost per line left in front of the first block (without that cost
+     it "cheats" with tiny blocks round each anchor). Unnumbered price
+     lines more than a pitch from any anchor - and not the first price
+     below an anchor that has none of its own - are block centres too
+     (`Q2606H02`'s unnumbered PORTA CABIN). Border-only rulings (the page
+     frame, as on `Q2501N005`'s continuation pages) are ignored in this
+     path. Neither TOP repair pass (`_split_self_contained_subitems`,
+     `_reattach_misattributed_leading_lines`) runs on CENTRED rows - both
+     would cut the heading off.
+   - Also landed: the no-anchor fallback's first boundary is clamped to the
+     region top (finding 2 above - the dropped heading block), and the
+     glued-`SR.NO.` header fix (finding 1), extended after a 400-document
+     header-cell scan caught two side effects: aliases now match with the
+     period read both as a space and as nothing (plain "SNO" had stopped
+     matching), and "no of" is a `quantity` alias ("No.of Qty" had become
+     a second item_no column, `SQ2407W049`).
+
+   Verified: `Q2501N005` 22 -> 24 rows, every item `1A`..`8C.` its own row
+   opening on its own heading, 1A/1B equal to the user's hand-checked
+   ground truth (`tests/test_boq_coords_integration.py::TestCentredLayout`).
+   `Q24X10030` base/R1/R2 byte-identical to the user-verified output,
+   pinned by a new full-row snapshot test (`tests/test_boq_snapshots.py`,
+   snapshot written by `scripts/snapshot_rows.py` into gitignored
+   `tests/snapshots/`). 126/126 tests. Before/after (baseline = old header
+   normalization + TOP everywhere), each run in its own dated
+   `Quotation_Data/03f_structured_coords_layout_*_2026-09-23/` folder:
+   80-doc glued-`SR.NO.` sample 536 -> 591 rows, smoke-50 686 -> 696;
+   0 errors, 0% negative price, 100% arithmetic-ok on both (checkable rows
+   86 -> 94 / 70 -> 78). Spot-checked changes are real items previously
+   swallowed or shifted (rate-quoted heat-trace tube / service rows now
+   their own LOW-confidence rows; `Q2606E06` and `Q2501C001R2` rows that
+   concatenated 3-4 prices now one price each). Known remaining:
+   `Q2512E16` gains one LOW bullet-fragment row - its anchor is centred
+   high in its block, fits neither rule, stays TOP; exposed, not caused,
+   by the header fix.
+
    **Missing pipeline scripts, still unresolved.**
    `preprocess_quotation_text.py` and `"remove_repeated _messagev2.py"`
    (documented stages 2-3) do not exist anywhere in this checkout, even

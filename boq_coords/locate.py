@@ -46,6 +46,9 @@ class TableRegion:
     bands: list[ColumnBand]
     bbox: tuple[float, float, float, float]
     score: float
+    # banded.LAYOUT_TOP / LAYOUT_CENTRED - set by ruled.rows_from_region on
+    # the headed page, inherited by unheaded continuation pages (rows.py).
+    layout: str = "TOP"
 
 
 def _is_toc_page(page_text: str) -> bool:

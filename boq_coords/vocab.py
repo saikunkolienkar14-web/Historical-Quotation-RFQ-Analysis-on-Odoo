@@ -13,6 +13,15 @@ import re
 BOQ_HEADER_ALIASES: dict[str, list[str]] = {
     "item_no": [
         "sr no", "sr. no", "s.no", "s. no", "sl no", "sl. no", "sl.no",
+        # "S.N." / "SN." - confirmed real-corpus header on Q25X10031's two
+        # H2 Analyser quotations ("SN." and "S.N."), which classify_header_word
+        # never recognized as item_no at all, so the printed item numbers
+        # 1-6 were discarded and __main__.py's sequential-index fallback
+        # fabricated a different, coincidentally-matching numbering instead.
+        # classify_header_word tries both the period-as-space and
+        # period-removed reading of every alias, so this one entry alone
+        # matches both "S.N." ("s n") and "SN." ("sn").
+        "s.n.",
         "no", "no.", "item no", "item no.", "item number", "item",
     ],
     "description": [
@@ -22,6 +31,9 @@ BOQ_HEADER_ALIASES: dict[str, list[str]] = {
     ],
     "quantity": [
         "qty", "qty.", "quantity", "quantity nos", "qnty",
+        # "No.of Qty" / "No. of Units": a count, not a serial number - must
+        # out-length item_no's bare "no" (longest alias wins).
+        "no of",
     ],
     "unit": [
         "unit", "uom", "units",
@@ -154,7 +166,11 @@ def normalize_header_cell(text: str) -> str:
     different problem from multi-row header-cell matching."""
     text = normalize_label(text)
     text = re.sub(r"[\(\[][^)\]]*[\)\]]", " ", text)  # strip (INR), [INR]
-    text = text.replace(".", "")
+    # Period -> SPACE, not -> "": a glued "SR.NO." must read "sr no", not
+    # "srno" (which matches no alias, so the table got no item_no column at
+    # all). 707 documents carry the glued form; on an 80-doc sample of them
+    # item_no detection went 27 -> 74 (2026-09-23, Q2501N005 investigation).
+    text = text.replace(".", " ")
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -180,11 +196,15 @@ def classify_header_word(word: str) -> str | None:
     # tie-break when their matched alias lengths are exactly equal.
     for field in ("total_price", "unit_price", "item_no", "quantity", "unit", "part_no", "make", "description"):
         for alias in BOQ_HEADER_ALIASES[field]:
-            alias_n = alias.replace(".", "")
-            if norm == alias_n or norm.startswith(alias_n + " ") or norm.startswith(alias_n + "("):
-                if len(alias_n) > best_len:
-                    best_len = len(alias_n)
-                    best_field = field
+            # Both readings of an alias's period: as a word break ("s.no" ->
+            # "s no", matching a glued "S.NO." cell) and as nothing ("sno",
+            # matching an undotted "SNO" cell - which the space reading
+            # alone stopped matching, 6 cells in a 400-doc scan).
+            for alias_n in {re.sub(r"\s+", " ", alias.replace(".", " ")).strip(), alias.replace(".", "")}:
+                if norm == alias_n or norm.startswith(alias_n + " ") or norm.startswith(alias_n + "("):
+                    if len(alias_n) > best_len:
+                        best_len = len(alias_n)
+                        best_field = field
     return best_field
 
 

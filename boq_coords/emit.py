@@ -30,10 +30,22 @@ CSV_ENCODING = "utf-8-sig"
 
 FIELDNAMES = [
     "source_file", "source_path", "quotation_number",
-    # item_no is TEXT, exactly as printed in the source ("1", "1.1", "4a")
-    # - never a number, since "1.1" is a two-level marker, not the value
-    # 1.1. parent_item_no/item_level (fields.derive_item_hierarchy) carry
-    # that hierarchy explicitly so consumers don't have to re-parse it.
+    # row_seq is the row's own 1-based position in this document's
+    # extraction order (across all of its tables) - the unique
+    # within-source_path key when item_no is blank (a row with no printed
+    # item number at all - see __main__.py). Never a substitute for
+    # item_no: it reflects extraction order, not anything printed in the
+    # source document.
+    "row_seq",
+    # item_no is TEXT, exactly as printed in the source ("1", "1.1", "4a"),
+    # and BLANK when the source row prints no item number of its own -
+    # never backfilled with row_seq or any other guess (confirmed
+    # real-corpus bug, Q25X10031: a sequential-index fallback fabricated a
+    # different item number than the one actually printed, purely because
+    # of the row's position in this extraction run). "1.1" is a two-level
+    # marker, not the value 1.1 - parent_item_no/item_level
+    # (fields.derive_item_hierarchy) carry that hierarchy explicitly so
+    # consumers don't have to re-parse it.
     # NOTE for consumers: CSV carries no types, so read this column as a
     # string (e.g. pandas read_csv(dtype=str)) or it will be coerced back
     # into a float and "1.10" will collapse onto "1.1".

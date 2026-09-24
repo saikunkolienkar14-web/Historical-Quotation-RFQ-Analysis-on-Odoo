@@ -40,6 +40,12 @@ AMADAS = (
     ROOT / "Quotation PDFs" / "raw" / "Q24S10070"
     / "Q24S10070R1_AMADAS_IOCLPARADEEP_Commercial.pdf"
 )
+Q25X10031R1 = (
+    ROOT / "Quotation PDFs" / "raw" / "Q25X10031" / "Q25X10031R1_H2 Analyser.pdf"
+)
+Q25X10031 = (
+    ROOT / "Quotation PDFs" / "raw" / "Q25X10031" / "Q25X10031_H2 Analyser.pdf"
+)
 
 
 @unittest.skipUnless(SQ2507E254.exists(), "sample corpus not present")
@@ -322,6 +328,57 @@ def _make_price_line(yc: float, qty_unit: str, unit_price: str, total_price: str
     return Line(words=words)
 
 
+@unittest.skipUnless(Q2501N005.exists(), "sample corpus not present")
+class TestCentredLayout(unittest.TestCase):
+    """Q2501N005: item number and price vertically centred in a tall cell,
+    heading many lines ABOVE them (banded.LAYOUT_CENTRED). Header is the
+    glued "SR.NO." form. Before 2026-09-23 no row got an item number, 1A's
+    heading block was dropped, and every row was shifted by one item.
+    1A/1B values from the user's hand-checked ground truth."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = pymupdf.open(Q2501N005)
+        cls.rows = [r for t in extract_document_tables(cls.doc) for r in t.rows]
+        cls.by_item = {r.text("item_no"): r for r in cls.rows if r.text("item_no")}
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.doc.close()
+
+    def test_ground_truth_items(self):
+        expected = {
+            "1A": ("HOT EXTRACTIVE TUNABLE DIODE LASER TYPE FOR STOVE WASTE GAS",
+                   "3 SETS", 4_475_400.0, 13_426_200.0),
+            "1B": ("SPARES FOR STOVE WASTE GAS ANALYSIS", "1 SET", 249_900.0, 249_900.0),
+        }
+        for item_no, (heading, qty, up, tp) in expected.items():
+            row = self.by_item.get(item_no)
+            self.assertIsNotNone(row, item_no)
+            self.assertEqual(row.text("description").split("\n")[0], heading)
+            self.assertEqual(row.text("quantity"), qty)
+            self.assertEqual(parse_price(row.text("unit_price")).value, up)
+            self.assertEqual(parse_price(row.text("total_price")).value, tp)
+
+    def test_every_item_number_is_its_own_row_and_opens_on_a_heading(self):
+        expected = ["1A", "1B", "2A", "2B", "2C", "3A", "3B", "3C", "3D", "3E", "4",
+                    "5A", "5B", "6A", "6B", "6C", "6D", "6E", "7", "8A", "8B", "8C."]
+        got = [r.text("item_no") for r in self.rows if _is_item(r.text("item_no"))]
+        self.assertEqual(got, expected)
+        for item_no in expected:
+            first = self.by_item[item_no].text("description").split("\n")[0]
+            self.assertFalse(first.startswith(("•", "", "-")), (item_no, first))
+
+    def test_spares_rows_keep_their_own_heading(self):
+        for item_no in ("1B", "2B", "3B", "5B", "6B", "8B"):
+            self.assertTrue(
+                self.by_item[item_no].text("description").startswith("SPARES FOR"), item_no)
+
+
+def _is_item(text: str) -> bool:
+    return bool(re.match(r"^\d{1,3}[A-Za-z]?\.?$", text))
+
+
 class TestSegmentRowsSplitsBundledSubItems(unittest.TestCase):
     """Synthetic, no-PDF unit test for banded._split_self_contained_subitems
     via segment_rows() directly - mirrors the real Q2501N005 pattern (3
@@ -447,3 +504,103 @@ class TestAmadasMakeListNotAbsorbed(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestHeaderPeriodNormalization(unittest.TestCase):
+    """vocab.classify_header_word, 2026-09-23: a glued "SR.NO." header cell
+    used to normalize to "srno" and match nothing, so ~700 documents got no
+    item_no column. Both period readings must keep working."""
+
+    def test_glued_serial_number_headers(self):
+        from boq_coords.vocab import classify_header_word
+        for cell in ("SR.NO.", "Sr.No", "SL.NO.", "S.NO.", "Sr. No.", "S.No", "SNO", "Sl No"):
+            self.assertEqual(classify_header_word(cell), "item_no", cell)
+
+    def test_count_headers_are_quantity_not_item_no(self):
+        from boq_coords.vocab import classify_header_word
+        for cell in ("No.of Qty", "No. of Units", "NO OF QTY"):
+            self.assertEqual(classify_header_word(cell), "quantity", cell)
+
+    def test_sn_headers_are_item_no(self):
+        from boq_coords.vocab import classify_header_word
+        for cell in ("SN.", "S.N.", "S.N", "SN"):
+            self.assertEqual(classify_header_word(cell), "item_no", cell)
+
+
+@unittest.skipUnless(Q25X10031R1.exists(), "sample corpus not present")
+class TestQ25X10031R1PriceSummarySheet(unittest.TestCase):
+    """Q25X10031R1_H2 Analyser.pdf, page 3 "Price Summary Sheet" table:
+    "SN." header (TestHeaderPeriodNormalization covers the alias), and
+    every row divider drawn as a hairline-height filled rectangle rather
+    than a line - find_tables()/rows_from_region previously found zero
+    rulings here (line-only detection) and fell back to a boundary
+    derived from price lines alone, merging item 3 ("Documentation") and
+    item 4 ("FAT & Inspection...") into one row and losing item 4's own
+    heading."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = pymupdf.open(Q25X10031R1)
+        cls.tables = extract_document_tables(cls.doc)
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.doc.close()
+
+    def _summary_rows(self):
+        # The "Price Summary Sheet" table is the first one found (page 3).
+        return self.tables[0].rows
+
+    def test_six_items_with_correct_item_numbers(self):
+        rows = self._summary_rows()
+        item_nos = [r.text("item_no") for r in rows if r.text("item_no")]
+        self.assertEqual(item_nos, ["1", "2", "3", "4", "5", "6"])
+
+    def test_documentation_and_fat_inspection_are_separate_items(self):
+        rows = self._summary_rows()
+        by_item = {r.text("item_no"): r for r in rows if r.text("item_no")}
+        self.assertEqual(by_item["3"].text("description").strip(), "Documentation")
+        item4_desc = by_item["4"].text("description")
+        self.assertTrue(item4_desc.startswith("FAT & Inspection at Adage works Goa."), item4_desc)
+        self.assertIn("Including accommodation", item4_desc)
+        self.assertIn("Excluding international travelling.", item4_desc)
+
+    def test_training_at_site_stays_with_item_six(self):
+        rows = self._summary_rows()
+        by_item = {r.text("item_no"): r for r in rows if r.text("item_no")}
+        item6_desc = by_item["6"].text("description")
+        self.assertTrue(item6_desc.startswith("Training at Site"), item6_desc)
+
+
+@unittest.skipUnless(Q25X10031.exists(), "sample corpus not present")
+class TestQ25X10031ContinuationPageItemBoundary(unittest.TestCase):
+    """Q25X10031_H2 Analyser.pdf, page 3: an unheaded continuation of item
+    1's spec block, ending "...glass window of SS enclosure.", followed by
+    item 2 ("Set of Spares") - separated by the same hairline-rectangle
+    ruling. Before the ruling fix, this whole page merged into one row
+    (item 1's continuation text glued into item 2's own description), and
+    item_no's sequential-index fallback fabricated a value for the
+    continuation row instead of leaving it blank."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = pymupdf.open(Q25X10031)
+        cls.tables = extract_document_tables(cls.doc)
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.doc.close()
+
+    def test_hydrogen_measurement_table_has_two_top_level_items(self):
+        rows = self.tables[0].rows
+        item_nos = [r.text("item_no") for r in rows if r.text("item_no") in ("1", "2")]
+        self.assertEqual(item_nos, ["1", "2"])
+
+    def test_continuation_tail_merges_into_item_one_not_item_two(self):
+        rows = self.tables[0].rows
+        by_item = {r.text("item_no"): r for r in rows if r.text("item_no")}
+        item1_desc = by_item["1"].text("description")
+        item2_desc = by_item["2"].text("description")
+        self.assertIn("glass window of SS enclosure.", item1_desc)
+        self.assertNotIn("glass window of SS enclosure.", item2_desc)
+        self.assertTrue(item2_desc.startswith("Set of Spares"), item2_desc)
