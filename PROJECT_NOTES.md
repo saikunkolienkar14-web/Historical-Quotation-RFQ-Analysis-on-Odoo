@@ -54,6 +54,10 @@ and the distinct makes/models quoted.
 
 The **analytics layer has not been started.**
 
+**`boq_coords/` is now the priority extraction method (2026-09-25, user
+direction)** — see "Odoo field-mapping fix, and boq_coords now the
+priority extractor" below for what changed and why.
+
 ### Second extraction engine: `boq_coords/`
 
 A coordinate-aware extractor (`boq_coords/`, see
@@ -158,6 +162,123 @@ new parsing. `FLAGGED` always matches the existing `PRICE_*`
 `validation_error` codes exactly, `NO_PRICE` stayed at 0 across all
 three smoke tests (boq_coords' own `PRICE_ABSENT` rule already catches
 every truly-priceless row before it gets here) — see the table above.
+
+### Odoo field-mapping fix, and boq_coords now the priority extractor (2026-09-25)
+
+**Policy decision: `boq_coords/` is now the priority extraction method
+going forward**, per explicit user direction — not just the "if it holds
+up, promote it" framing Future work #2 below still carries from before
+this date. New verification/analysis work should default to the
+`*_coords` outputs (`07_knowledge_bank_coords/`) over
+`07_knowledge_bank/` (v1) unless there's a specific reason to look at v1.
+v1 is not being removed or stopped — `boq_coords` still reuses v1's
+`customer`/`quotation_number` extraction (`quotations.csv`) rather than
+re-implementing it (see "Second extraction engine" above) — but it is no
+longer the default lens for reviewing output.
+
+**Odoo field-mapping gap fixed.** Of the 28 Excel-field → Odoo-technical-field
+pairs required for the knowledge bank, 17 were never in
+`export_customers.py`'s `SALE_ORDER_FIELDS` at all (`create_date`,
+`x_studio_present_status_of_quote_1`, `x_studio_price_in_inr`,
+`x_studio_total_potential_estimate_1`, `x_studio_po_value_in_inr`,
+`x_studio_winning_chance`, `x_studio_sbu_type_1`,
+`x_studio_tentative_finalization_month`, `x_studio_finalization_year`,
+`x_studio_spares_type`, `x_studio_service_type`, `x_studio_type_of_quote`,
+`x_studio_average_cycle_time`, `x_studio_po_currency`,
+`x_studio_latest_price_quoted`, `x_studio_main_reason_of_losing_order`,
+`x_studio_reason_for_loss`), and two more (`x_studio_end_user`,
+`x_studio_control_no`) were fetched into `sale_orders.csv` but silently
+dropped at the `build_knowledge_bank.py` merge step. Fixed both layers,
+in both the v1 and coords knowledge-bank builders:
+
+- `odoo_export/export_customers.py` — added all 17 missing fields to
+  `SALE_ORDER_FIELDS`. `x_studio_po_currency` is many2one (`res.currency`)
+  — added to `MANY2ONE_SALE_ORDER_FIELDS`, splits into `_id`/`_name` like
+  `partner_id` already does. `x_studio_spares_type` /
+  `x_studio_reason_for_loss` are many2many (not selection, despite how
+  the mapping table read) — Odoo returns these as bare id lists, so a new
+  `MANY2MANY_SALE_ORDER_FIELDS` dict + `odoo_api.py`'s new
+  `get_records_by_ids()` resolves them against `x_spare.type` /
+  `x_lost_order_analysis` (both Studio models, no `name` field — used
+  `display_name`, which Odoo guarantees on every model, instead of
+  guessing at `x_name`). All other new fields are plain
+  `selection`/`char`/`monetary`/`float`/`datetime` — confirmed via
+  `apicheck.py sale.order` and a `fields_get(attributes=['selection'])`
+  check before writing any code, not assumed. One cosmetic finding from
+  that check: `x_studio_service_type`'s stored key `AMC/CAMC` displays as
+  `AMC/CMC` in the Odoo UI (a typo in the schema itself) — kept the
+  existing project convention of passing selection values through as-is
+  (every other selection field's key already equals its label on this
+  DB), so this one field shows the raw key.
+- `knowledge_bank/build_knowledge_bank.py` — new shared
+  `apply_order_studio_fields(row, order)` writes 21 `matched_order_*` /
+  `matched_end_user_*` columns straight from `sale_orders.csv`, called
+  from both `build_attachment_row()` and `build_order_only_row()`.
+  Deliberately reads the order dict directly rather than routing through
+  `customer_enriched.csv`, so `odoo_match_customer/match_customers.py`'s
+  own matching logic needed no changes.
+- `knowledge_bank/build_knowledge_bank_coords.py` — same 21 columns,
+  same helper reused by import (`from build_knowledge_bank import
+  apply_order_studio_fields`) rather than duplicated, called from
+  `build_coords_item_row()`.
+
+**Two unrelated bugs found and fixed while verifying this.** Neither is
+part of the field-mapping change; both were blocking a correct rebuild:
+
+1. **Duplicate, stale `.env`.** `odoo_export/.env` (a second file inside
+   that folder, undocumented) silently took priority over the
+   project-root `.env` the user had updated, because `python-dotenv`'s
+   `load_dotenv()` finds the nearest `.env` walking up from the script's
+   own working directory. It held a different DB name/password than the
+   root one, breaking XML-RPC auth with a confusing 404 on an unrelated
+   redirected hostname. Synced to match root `.env`. **Both `.env` files
+   need to be kept in sync by hand going forward** — this is a landmine
+   for the next session that updates Odoo credentials and only edits the
+   root file.
+2. **Stale `06_customer_matching`/`06_customer_matching_coords` vs. a
+   regenerated `03_structured_current`.** Rebuilding the v1 knowledge
+   bank initially produced 0% document matches (`Items with no document:
+   44017`, all of them) — `quotation_items.csv`'s `source_path` had
+   drifted to a different folder-path convention
+   (`Quotation_Preprocessed\text\...`) than the `customer_enriched.csv`
+   it was being joined against (`Quotation_Data\03_preprocessed_text_2\...`),
+   because `03_structured_current` had been regenerated since
+   `match_customers.py` was last run. Not caused by this fix, not new —
+   found by diffing `source_path` sets between the two files. Fixed by
+   re-running `odoo_match_customer/match_customers.py` (and, for the
+   coords side, `boq_coords/match_customers_coords.py`), both ordinary,
+   documented, read-only-against-their-inputs pipeline steps.
+
+**Verified end to end**, backing up every folder before overwriting in
+place (`Quotation_Data/_backup_2026-09-25_odoo_field_mapping_fix/`):
+
+- v1: full corpus rebuild (4,883 orders / 4,538 documents / 44,017 items)
+  — all 21 new columns populated, 0 items unmatched to a document, all
+  previously-merged columns unchanged in content.
+- coords: full corpus rebuild (4,883 orders / 3,586 documents / 21,067
+  items) — same 21 columns added and verified populated, 0 items
+  unmatched.
+- A targeted 46-document / 717-item re-merge of the
+  `03f_structured_coords_smoke50_sectionfix_2026-09-24` extraction
+  (newer than the default `03f_structured_coords/`, not yet folded back
+  into the full coords run — see below) confirmed the fix on the exact
+  batch the user had already hand-reviewed, without re-running
+  extraction or repointing `build_knowledge_bank_coords.py`'s hardcoded
+  input path (per this doc's own rule that ad-hoc `03x_` folders aren't
+  wired into the join): 709/717 rows matched a customer, 390/717 matched
+  a specific order, and the new fields populate exactly where an order is
+  matched (390/717 for currency/status/RFQ-reference/SBU-type/type-of-quote,
+  0/717 for `matched_order_spares_type` — genuinely empty on those 46
+  orders in Odoo, not a bug).
+
+**Open item, not yet acted on**: the default `03f_structured_coords/`
+(full-corpus coords output, 3,586 docs) predates the `sectionfix`
+extraction-logic experiment (46/50-doc sample, newer) — the layout-shape
+and other fixes tested there haven't been re-run at full-corpus scale
+yet. Given boq_coords is now the priority extractor, folding that forward
+and re-running the full coords corpus is the natural next step (separate
+from anything in this entry) — see Future work #2.
+
 
 ### Completed
 
@@ -354,10 +475,17 @@ reaches here) — keep both in sync if the source changes again.
    `price_basis` (derived vs. reported), and `date_source` /
    `date_ambiguous`.
 
-2. **Validate `boq_coords/` at full-corpus scale and, if it holds up,
-   promote it into the knowledge-bank join** in place of
-   `quotation_parser_v1.py` — this would resolve the negative-price issue
-   above at the source rather than by filtering it out downstream. Needs:
+2. **Promote `boq_coords/` as the priority extractor (user direction,
+   2026-09-25 — see "Odoo field-mapping fix" above), in place of
+   `quotation_parser_v1.py`.** This is no longer conditional on "if it
+   holds up" — it already resolves v1's negative-price bug class at the
+   source rather than filtering it out downstream, and is now the default
+   lens for reviewing extraction output (`07_knowledge_bank_coords/` over
+   `07_knowledge_bank/`). Still not wired into the *main* join
+   (`06_customer_matching/` / `07_knowledge_bank/` stay v1's), and v1's
+   own `customer`/`quotation_number` extraction is still reused by
+   `match_customers_coords.py` rather than duplicated — full promotion to
+   replace v1 as the join's own input is future work, not done. Needs:
    a full-corpus self-consistency run (currently only sampled), the
    golden set's stage-2 sampling round (35 more hand-labelled documents,
    `scripts/sample_golden.py`), and a decision on the LLM-fallback step

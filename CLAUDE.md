@@ -53,9 +53,18 @@ seeded by reviewing `alias_suggestions.csv`. It also reads
 `product_family_suggestions.csv` — see Data rules below.
 
 All output paths are under `Quotation_Data/`. `quotation_parser_v1.py` is
-the **parser of record**; `boq_coords/` is a second, independent
-coordinate-aware extractor not yet wired into the *main* join
-(`07_knowledge_bank/`). It has its own parallel, evaluation-only join
+still technically the **parser of record** for the *main* join
+(`07_knowledge_bank/`) — `boq_coords/` isn't wired into it yet, and
+`match_customers_coords.py` still reuses v1's own `customer` /
+`quotation_number` extraction rather than duplicating it — but **as of
+2026-09-25, `boq_coords/` is the priority extraction method by explicit
+user direction**: default to its outputs
+(`07_knowledge_bank_coords/knowledge_bank_items_coords.csv` /
+`_slim.csv`) over v1's (`07_knowledge_bank/knowledge_bank_items.csv`)
+for review, verification, and analysis work unless there's a specific
+reason to look at v1. See `PROJECT_NOTES.md`'s "Odoo field-mapping fix,
+and boq_coords now the priority extractor" entry for the full context.
+`boq_coords/` has its own parallel, evaluation-only join
 (`boq_coords/match_customers_coords.py` →
 `knowledge_bank/build_knowledge_bank_coords.py`, writing to
 `06_customer_matching_coords/` and `07_knowledge_bank_coords/`) so its

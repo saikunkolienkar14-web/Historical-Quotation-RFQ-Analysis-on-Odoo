@@ -157,6 +157,75 @@ leading-line reattach repair pass (its own top edge is already ground
 truth); it still goes through the split and bundled-lot merge passes like
 any other row.
 
+**Where an unheaded continuation page's own content ends
+(`rows._unheaded_continuation_rows`)**: the generic word-extraction range
+runs all the way to the page's own footer margin by default, which two
+confirmed real-corpus cases land inside of and corrupt:
+
+- A company address/letterhead footer block sitting inside that generic
+  range whose words happen to fall in the gap between two real columns
+  (item_no/description), collapsing that gap and folding the whole
+  description column into item_no — every row on the page lost its
+  description entirely (Q24S10074).
+- Narrative text below the real table on the same page (a "Notes &
+  Clarifications" / "Exclusions" section, or an entirely different,
+  unrelated table) read as more table rows, including that text's own
+  numbered lines misread as item numbers (Q25X10031R1; Q24X10030's own
+  "Section-3 Clarifications & Deviations" compliance/deviation matrix).
+
+Two independent narrowing passes run before this range is used, in
+order: `rows._continuation_table_bbox` shrinks the range to wherever
+`page.find_tables()` finds a ruled grid overlapping the parent table's
+own column range (picking the *tallest* such grid when there's more than
+one — a one-row letterhead banner table can sit inside that column range
+purely by x-coincidence, confirmed on Q25AKIC10080); then
+`rows._first_heading_y` scans the words directly for the first line that
+reads as a post-table heading (`vocab.is_post_table_heading_line`) and
+drops everything at or after it, independent of whatever bbox produced
+those words — pymupdf's own table detection can itself overshoot past
+the real table into trailing narrative (confirmed on Q24X10030, whose
+`find_tables()` bbox on the affected page ran hundreds of points past
+its last real item).
+
+A numbered heading ("Section 2:", the glued "Section-3" form too) is
+**never** trusted as a stop signal by its number alone — only the words
+that follow it decide, checked against a short phrase list
+(`vocab.POST_TABLE_HEADING_PHRASES`) plus the existing
+`STOP_SECTION_MARKERS`. Confirmed real-corpus reason: "SECTION 2:
+TECHNICAL LITERATURE" is a running section *title* on some templates
+(Q24S10074, and others sharing its layout), with more real priced rows
+resuming right after it on the very next page — treating the bare
+number as a stop signal there discarded all of them. A continuation page
+that returns nothing (no money at all, or its own content is entirely a
+post-table heading) ends that document's continuation-page chain
+immediately, with no tolerance for "try the next page anyway": a real
+per-item divider page (more of the same table resuming right after it)
+would benefit from that tolerance, but it was confirmed to also bridge
+straight into a *different*, unrelated table occupying the rest of the
+document and fold its rows in as if they were more BOQ items — a
+worse outcome than losing the legitimate divider case, with no cheap
+signal available yet to tell the two apart.
+
+**Fields with nowhere to land (`__main__.process_document`)**: a table
+column `find_header()` never mapped to any of the 17 known fields (e.g. a
+"Tag No" column) lands in the row's unclassified `other` band and is
+otherwise lost. When a row's real description ends up blank because of
+this, its `other` text becomes `description_full`/`product_name` instead
+— but only when it reads like a real identifier (has both a letter and a
+digit; confirmed real-corpus false case: a stray "q )" glyph fragment
+landing in the same band on an unrelated row must stay blank, not be
+mistaken for a description) — and the row is flagged
+`DESCRIPTION_FROM_UNLABELLED_COLUMN` so this is visible downstream. Two
+further per-row flags catch content that was never a priced line item at
+all: `TOTAL_ROW` (the row's only real content is a bare running-total
+label — "TOTAL", "Grand Total" — next to a total figure, checked as an
+exact match so a real item whose own heading merely *starts* with
+"Total" is never caught) and `NO_ITEM_CONTENT` (no item number, no price
+of any kind, and next to nothing else to call content — stray page
+noise, e.g. a lone stray glyph). None of these rows are dropped; they
+surface with `confidence=LOW` and the matching `validation_error`, same
+as every other validation rule.
+
 ### Money grammar (`money.py`)
 
 Fully anchored (`^...$`, never `re.search` over prose), no minus sign in
@@ -168,7 +237,7 @@ arithmetic cross-check (`qty × unit_price ≈ total_price`).
 
 ### Validation (`validate.py`)
 
-Every row is checked against seven rules; a failing row is never dropped —
+Every row is checked against these rules; a failing row is never dropped —
 it gets `confidence=LOW` and the failed rule name(s) in
 `validation_error`:
 
@@ -181,6 +250,10 @@ it gets `confidence=LOW` and the failed rule name(s) in
 | Price bounds | Never negative, never below 1,000 |
 | item_no shape | A single well-formed anchor (`"1"`, `"2.3"`) — never multiple concatenated anchors or unrelated swept-in text |
 | Price cell span | `PRICE_CELL_SPANS_MULTIPLE_ROWS` — the row's price came from a table cell that visibly spans more than one physical row (`ruled._spanned_price_ranges`, see Known Limitations) |
+| Continuation bands reinferred | `CONTINUATION_BANDS_REINFERRED` — the row came from an unheaded continuation page whose column bands were freshly inferred, not reused from the parent table's header |
+| Description from unlabelled column | `DESCRIPTION_FROM_UNLABELLED_COLUMN` — `description_full`/`product_name` came from a table column with no known field of its own (`other`), not a real description cell |
+| Total row | `TOTAL_ROW` — the row's only real content is a bare running-total label ("TOTAL", "Grand Total") next to a total figure, not a priced line item |
+| No item content | `NO_ITEM_CONTENT` — no item number, no price of any kind, and next to nothing else to call content: stray page noise |
 
 
 ## Output schema
@@ -304,6 +377,30 @@ for the layout-stratified sampling methodology used to build it).
 
 
 ## Known limitations
+
+- **A running section title can glue onto the last real row before it.**
+  "SECTION 2: TECHNICAL LITERATURE"-style titles are deliberately never
+  treated as a stop signal (see "Where an unheaded continuation page's
+  own content ends" above — the bare number is untrustworthy, and this
+  exact phrase means "more pricing follows," not "table ended," on the
+  templates it's confirmed on). Ordinary bundled-lot merging then folds
+  it, as unnumbered trailing text, into the last priced row above it
+  (confirmed real-corpus case: `Q24W10129R1_TCE_RIL DMD_Chloro Alkali
+  package.pdf`'s item 8 description ends with this title text). Cosmetic
+  only — no price, item number, or quantity is affected — but not yet
+  cleaned up.
+- **A page that contributes nothing ends a document's continuation-page
+  chain immediately, with no gap tolerance.** A genuine same-table
+  divider page (no rows of its own, more of the SAME table resuming on
+  the very next page) is lost entirely rather than bridged over.
+  Deliberately not tolerated: doing so was confirmed to also bridge into
+  a *different*, unrelated table occupying the rest of a document
+  (`Q24X10030 EM Singapore Jurong.pdf`'s own "Section-3 Clarifications &
+  Deviations" compliance/deviation matrix) and fold its rows in as if
+  they were more BOQ items — a worse outcome (fabricated item numbers,
+  wrong prices) than losing the legitimate divider case. No cheap signal
+  is available yet to tell the two apart (both open directly on a
+  heading with nothing real before it on the page).
 
 - **Item number centred high in its block.** A cell whose number sits
   well above its block's middle (e.g. Q2512E16 item 1) fits neither

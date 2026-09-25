@@ -98,6 +98,71 @@ STOP_SECTION_MARKERS: list[str] = [
     "delivery terms",
 ]
 
+# A numbered document-section heading ("Section 2:", "Part B:", "Section-3
+# Clarifications & Deviations") printed as its own short line - never part
+# of the priced table itself. The number can be glued directly onto
+# "Section"/"Part" with a hyphen instead of a space (confirmed real-corpus
+# case, Q24X10030's "Section-3 Clarifications & Deviations" - an entirely
+# different compliance/deviation table, not a BOQ continuation - which the
+# original space-then-punctuation-only pattern below missed because the
+# hyphen comes BEFORE the digit here, not after it). Loosely based on
+# locate.TOC_SECTION_RX's own pattern (kept here too since vocab.py has no
+# dependency on locate.py), broadened to accept the glued form and to not
+# require trailing punctuation at all.
+SECTION_HEADING_NUMBERED_RX = re.compile(r"^(section|part)\s*[-:.]?\s*[0-9a-z]+\b", re.IGNORECASE)
+
+# Post-table narrative headings confirmed on real documents that
+# STOP_SECTION_MARKERS doesn't cover - printed as a short heading line
+# AFTER a document's BOQ table, never inside it (Q25X10031R1's "Section 2:
+# Notes & Clarifications" / "Section 3: Exclusions"; Q24X10030's
+# "Section-3 Clarifications & Deviations", an entirely different
+# compliance/deviation table). Checked only against a short, standalone
+# line (SECTION_HEADING_MAX_WORDS) - a real item description mentioning
+# one of these words mid-sentence is far longer and is never mistaken for
+# a heading.
+#
+# Deliberately does NOT include "technical literature": confirmed real-
+# corpus case, Q24S10074/Q24W10129R1 both print "SECTION 2: TECHNICAL
+# LITERATURE" as a running section TITLE with MORE real priced rows
+# resuming right after it, never a stop signal - an earlier version of
+# this list included it and lost those rows entirely. The lesson that
+# leaves: a bare "Section N:" NUMBERED prefix is never trusted as a stop
+# signal on its own (see is_post_table_heading_line) - only the specific
+# WORDS that follow it decide, exactly as if the prefix wasn't there.
+POST_TABLE_HEADING_PHRASES: list[str] = [
+    "notes and clarifications",
+    "notes clarifications",
+    "exclusions",
+    "clarifications and deviations",
+]
+
+SECTION_HEADING_MAX_WORDS = 8
+
+
+def is_post_table_heading_line(text: str) -> bool:
+    """True when `text` (one physical line's own words) is a heading that
+    marks the end of the priced table - a short line matching
+    POST_TABLE_HEADING_PHRASES or STOP_SECTION_MARKERS, with a leading
+    numbered prefix ("Section 2:", "Section-3") stripped first if present
+    so the match is always against the words that actually say what the
+    section IS, never the bare number (see POST_TABLE_HEADING_PHRASES'
+    own "technical literature" comment for why the number alone is not
+    trustworthy). Used to cut a continuation page's word range off at
+    this line's own top edge, rather than reading further narrative text
+    as more table rows - see rows._first_heading_y."""
+    stripped = text.strip()
+    if not stripped:
+        return False
+    m = SECTION_HEADING_NUMBERED_RX.match(stripped)
+    body = stripped[m.end():].lstrip(" :.-") if m else stripped
+    norm = normalize_label(body)
+    if not norm or len(norm.split()) > SECTION_HEADING_MAX_WORDS:
+        return False
+    return any(
+        norm == phrase or norm.startswith(phrase + " ")
+        for phrase in (*POST_TABLE_HEADING_PHRASES, *STOP_SECTION_MARKERS)
+    )
+
 # quotation_parser_v1.py:399 BOQ_SECTION_MARKERS
 BOQ_SECTION_MARKERS: list[str] = [
     "bill of quantities",
@@ -129,6 +194,23 @@ GRAND_TOTAL_LABELS: list[str] = [
 SUBTOTAL_LABELS: list[str] = [
     "subtotal", "sub total", "sub-total", "total before tax",
 ]
+
+# A row whose only "item" is a running total, never a priced line item of
+# its own - confirmed real-corpus case: Q24S10070R1's own bare "TOTAL"
+# label (not covered by GRAND_TOTAL_LABELS/SUBTOTAL_LABELS above, which
+# only match multi-word phrases) landed as its own row with a real price
+# next to it and no item number, read exactly like a legitimate item.
+TOTAL_ROW_LABELS: list[str] = ["total", *GRAND_TOTAL_LABELS, *SUBTOTAL_LABELS]
+
+
+def is_total_row_label(text: str) -> bool:
+    """True when `text` IS a total label, exactly, not just contains or
+    starts with one - "Total Conductivity Analyser" (a real item's own
+    heading, confirmed real-corpus case on the same document family) must
+    never match; only a cell whose ENTIRE text is "Total"/"Grand Total"/
+    etc, exactly as printed in one column with nothing else, does."""
+    norm = normalize_label(text)
+    return norm in TOTAL_ROW_LABELS
 
 # quotation_parser_v1.py:908 UNITS_PATTERN
 UNITS_PATTERN = (

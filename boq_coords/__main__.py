@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+import re
 import sys
 import traceback
 from pathlib import Path
@@ -36,6 +37,23 @@ from boq_coords.money import canonical_raw, combine_price_status, parse_price, r
 from boq_coords.pagetext import write_pages_jsonl  # noqa: E402
 from boq_coords.rows import extract_document_tables  # noqa: E402
 from boq_coords.validate import apply_validation  # noqa: E402
+from boq_coords.vocab import is_total_row_label  # noqa: E402
+
+# A fallback value for description_full/product_name, from a table column
+# find_header() never mapped to any known field (row.text("other")) - only
+# trusted when it looks like a real identifier (has both a letter and a
+# digit), never bare punctuation/noise - confirmed real-corpus cases:
+# Q25AKIC10080's own "Tag No" column ("H-1101AT0103", no dedicated field
+# in the 17-column schema) versus a stray "q )" glyph fragment landing in
+# the same unclassified band on an unrelated row, which must stay blank
+# rather than being mistaken for a real description.
+_IDENTIFIER_RX = re.compile(r"^(?=.*[A-Za-z])(?=.*\d).{3,}$")
+
+# A row this bare of real content (after the identifier fallback above has
+# already had its chance) is not a priced line item at all - confirmed
+# real-corpus case: Q25N10067's own stray "q )" row, no item number, no
+# price, no text worth calling a description.
+_MIN_CONTENT_ALNUM_CHARS = 3
 
 MANIFEST = ROOT / "Quotation PDFs" / "quotation_pdfs.csv"
 PDF_ROOT = ROOT / "Quotation PDFs"
@@ -188,6 +206,42 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
 
                 description_full = "\n".join(remaining_desc).strip()
 
+                # Fallback: a table column find_header() never mapped to
+                # any known field (e.g. a "Tag No" column with no slot in
+                # the 17-column schema) lands in row.text("other") and is
+                # otherwise lost entirely. Only trusted when it reads like
+                # a real identifier (_IDENTIFIER_RX) - never bare noise
+                # (see _IDENTIFIER_RX's comment above).
+                other_text = row.text("other").strip()
+                description_from_other = not description_full and bool(_IDENTIFIER_RX.match(other_text))
+                if description_from_other:
+                    description_full = other_text
+
+                # A row whose only real content is a running-total label
+                # ("TOTAL", "Grand Total") next to a total figure is not a
+                # priced line item - confirmed real-corpus case,
+                # Q24S10070R1. Checked against quantity/description,
+                # never "other" (which is where a real item's own leading
+                # label word, e.g. a tag, lives instead).
+                is_total_row = not item_no and (
+                    is_total_row_label(row.text("quantity"))
+                    or is_total_row_label(description_full)
+                )
+
+                # A row with no printed item number, no price of any kind
+                # (numeric or a recognized placeholder), and next to
+                # nothing else to call content is stray noise from the
+                # page, not an item at all - confirmed real-corpus case,
+                # Q25N10067's own "q )" fragment.
+                content_alnum = len(re.sub(r"[^A-Za-z0-9]", "", description_full or other_text))
+                no_item_content = (
+                    not item_no
+                    and not is_total_row
+                    and up.value is None and not up.is_placeholder
+                    and tp.value is None and not tp.is_placeholder
+                    and content_alnum < _MIN_CONTENT_ALNUM_CHARS
+                )
+
                 out_row = {
                     "source_file": source_file,
                     "source_path": source_path,
@@ -225,6 +279,9 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     "_price_cell_spans_multiple_rows": is_spanned_price,
                     "_continuation_bands_reinferred":
                         "CONTINUATION_BANDS_REINFERRED" in row.flags,
+                    "_description_from_unlabelled_column": description_from_other,
+                    "_is_total_row": is_total_row,
+                    "_no_item_content": no_item_content,
                 }
                 out_row = apply_validation(out_row)
                 out_rows.append(out_row)

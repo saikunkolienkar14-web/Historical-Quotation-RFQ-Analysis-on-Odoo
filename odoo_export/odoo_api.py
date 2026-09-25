@@ -224,36 +224,39 @@ class OdooAPI:
         return None
 
     # ======================================================
-    # GET PARTNERS BY IDS (batched)
+    # GET RECORDS BY IDS (batched, any model)
     # ======================================================
 
-    def get_partners_by_ids(
+    def get_records_by_ids(
         self,
-        partner_ids,
+        model,
+        ids,
         fields,
         batch_size=200,
     ):
         """
-        Fetch res.partner records for a specific list of ids,
-        in small batches rather than one large `read` call.
+        Fetch records for a specific list of ids on any model, in small
+        batches rather than one large `read` call. Used both for
+        res.partner and for many2many relation targets (e.g. the models
+        behind x_studio_spares_type / x_studio_reason_for_loss).
         """
 
-        if not partner_ids:
+        if not ids:
             return []
 
         records = []
 
-        partner_ids = list(
-            partner_ids
+        ids = list(
+            ids
         )
 
         for start in range(
             0,
-            len(partner_ids),
+            len(ids),
             batch_size,
         ):
 
-            batch_ids = partner_ids[
+            batch_ids = ids[
                 start:start + batch_size
             ]
 
@@ -261,7 +264,7 @@ class OdooAPI:
                 ODOO_DB,
                 self.uid,
                 ODOO_PASSWORD,
-                "res.partner",
+                model,
                 "read",
                 [
                     batch_ids
@@ -276,3 +279,25 @@ class OdooAPI:
             )
 
         return records
+
+    # ======================================================
+    # GET PARTNERS BY IDS (batched)
+    # ======================================================
+
+    def get_partners_by_ids(
+        self,
+        partner_ids,
+        fields,
+        batch_size=200,
+    ):
+        """
+        Fetch res.partner records for a specific list of ids,
+        in small batches rather than one large `read` call.
+        """
+
+        return self.get_records_by_ids(
+            "res.partner",
+            partner_ids,
+            fields,
+            batch_size,
+        )

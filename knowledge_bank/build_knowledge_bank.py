@@ -193,6 +193,31 @@ OUTPUT_COLUMNS = [
     "order_state",
     "firm_or_budgetary",
 
+    # Order - Odoo Studio fields (added 2026-09-25; previously fetched
+    # into sale_orders.csv, in x_studio_control_no / x_studio_end_user's
+    # case, but never copied through to this output)
+    "matched_order_create_date",
+    "matched_end_user_id",
+    "matched_end_user_name",
+    "matched_order_control_no",
+    "matched_order_rfq_reference_number",
+    "matched_order_present_status",
+    "matched_order_price_in_inr",
+    "matched_order_total_potential_estimate",
+    "matched_order_po_value_in_inr",
+    "matched_order_winning_chance",
+    "matched_order_sbu_type",
+    "matched_order_tentative_finalization_month",
+    "matched_order_finalization_year",
+    "matched_order_spares_type",
+    "matched_order_service_type",
+    "matched_order_type_of_quote",
+    "matched_order_average_cycle_time",
+    "matched_order_po_currency",
+    "matched_order_latest_price_quoted",
+    "matched_order_main_reason_of_losing_order",
+    "matched_order_reason_for_loss",
+
     # Time
     "quotation_date_raw",
     "order_date_raw",
@@ -752,6 +777,87 @@ def blank_row() -> dict:
     }
 
 
+def apply_order_studio_fields(row: dict, order: dict) -> None:
+    """
+    Copy the Odoo Studio order fields straight from sale_orders.csv
+    (`order`) into an output row, in place. Shared by both row builders
+    so ATTACHMENT_ITEM and ODOO_ORDER_ONLY rows populate these columns
+    identically. Pulled directly from the order record rather than from
+    customer_enriched.csv, so match_customers.py's own join is untouched.
+    """
+
+    row["matched_order_create_date"] = order.get("create_date", "")
+    row["matched_end_user_id"] = order.get("x_studio_end_user_id", "")
+    row["matched_end_user_name"] = order.get("x_studio_end_user_name", "")
+    row["matched_order_control_no"] = order.get("x_studio_control_no", "")
+
+    row["matched_order_rfq_reference_number"] = order.get(
+        "x_studio_rfq_reference_number", ""
+    )
+
+    row["matched_order_present_status"] = order.get(
+        "x_studio_present_status_of_quote_1", ""
+    )
+
+    row["matched_order_price_in_inr"] = order.get(
+        "x_studio_price_in_inr", ""
+    )
+
+    row["matched_order_total_potential_estimate"] = order.get(
+        "x_studio_total_potential_estimate_1", ""
+    )
+
+    row["matched_order_po_value_in_inr"] = order.get(
+        "x_studio_po_value_in_inr", ""
+    )
+
+    row["matched_order_winning_chance"] = order.get(
+        "x_studio_winning_chance", ""
+    )
+
+    row["matched_order_sbu_type"] = order.get("x_studio_sbu_type_1", "")
+
+    row["matched_order_tentative_finalization_month"] = order.get(
+        "x_studio_tentative_finalization_month", ""
+    )
+
+    row["matched_order_finalization_year"] = order.get(
+        "x_studio_finalization_year", ""
+    )
+
+    row["matched_order_spares_type"] = order.get(
+        "x_studio_spares_type_names", ""
+    )
+
+    row["matched_order_service_type"] = order.get(
+        "x_studio_service_type", ""
+    )
+
+    row["matched_order_type_of_quote"] = order.get(
+        "x_studio_type_of_quote", ""
+    )
+
+    row["matched_order_average_cycle_time"] = order.get(
+        "x_studio_average_cycle_time", ""
+    )
+
+    row["matched_order_po_currency"] = order.get(
+        "x_studio_po_currency_name", ""
+    )
+
+    row["matched_order_latest_price_quoted"] = order.get(
+        "x_studio_latest_price_quoted", ""
+    )
+
+    row["matched_order_main_reason_of_losing_order"] = order.get(
+        "x_studio_main_reason_of_losing_order", ""
+    )
+
+    row["matched_order_reason_for_loss"] = order.get(
+        "x_studio_reason_for_loss_names", ""
+    )
+
+
 def build_attachment_row(item, document, order) -> dict:
     """
     One parsed BOQ line item, joined to its document's customer match and
@@ -851,6 +957,8 @@ def build_attachment_row(item, document, order) -> dict:
         "x_studio_firm_or_budgetary",
         ""
     )
+
+    apply_order_studio_fields(row, order)
 
     # ---- Time ---------------------------------------------------------
 
@@ -953,6 +1061,8 @@ def build_order_only_row(order, industry_proxy_name="") -> dict:
         "x_studio_firm_or_budgetary",
         ""
     )
+
+    apply_order_studio_fields(row, order)
 
     # ---- Time ---------------------------------------------------------
 

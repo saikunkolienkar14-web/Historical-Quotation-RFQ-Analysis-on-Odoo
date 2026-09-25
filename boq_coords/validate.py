@@ -27,6 +27,16 @@ Row validator - Step 4 of the plan. Every extracted row must pass:
                       _unheaded_continuation_rows), not reused from the
                       parent table's header - a real value, but a less
                       certain one than a header-matched band.
+  9. Description from an unlabelled column - description_full/product_name
+                      came from a table column find_header() never mapped
+                      to any known field (__main__.py's identifier
+                      fallback), not a real description cell.
+ 10. Total row       - the row's only content is a running-total label
+                      ("TOTAL", "Grand Total") next to a total figure,
+                      not a priced line item (__main__.py's is_total_row).
+ 11. No item content  - no item number, no price of any kind, and next to
+                      nothing else to call content - stray page noise,
+                      not an item at all (__main__.py's no_item_content).
 
 Rows are never dropped - a failing row gets confidence=LOW and the failed
 rule name(s) in validation_error, same as the plan specifies.
@@ -169,6 +179,17 @@ def validate_row(row: dict) -> list[str]:
     # module docstring and rows._unheaded_continuation_rows).
     if row.get("_continuation_bands_reinferred"):
         errors.append("CONTINUATION_BANDS_REINFERRED")
+
+    # Rules 9-11: set by __main__.py from signals no consumer of this CSV
+    # would otherwise see (which table column a value came from, whether
+    # a row's only content is a total label, whether it has any real
+    # content at all) - see module docstring.
+    if row.get("_description_from_unlabelled_column"):
+        errors.append("DESCRIPTION_FROM_UNLABELLED_COLUMN")
+    if row.get("_is_total_row"):
+        errors.append("TOTAL_ROW")
+    if row.get("_no_item_content"):
+        errors.append("NO_ITEM_CONTENT")
 
     return errors
 

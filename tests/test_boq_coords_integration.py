@@ -46,6 +46,11 @@ Q25X10031R1 = (
 Q25X10031 = (
     ROOT / "Quotation PDFs" / "raw" / "Q25X10031" / "Q25X10031_H2 Analyser.pdf"
 )
+Q24S10074_VOC_GC = ROOT / "Quotation PDFs" / "raw" / "Q24S10074" / "Q24S10074_VOC_GC.pdf"
+Q24X10030 = ROOT / "Quotation PDFs" / "raw" / "Q24X10030" / "Q24X10030 EM Singapore Jurong.pdf"
+Q25AKIC10080 = (
+    ROOT / "Quotation PDFs" / "raw" / "Q25AKIC10080" / "Q25AKIC10080_Blue NH3_LINDE_20012025.pdf"
+)
 
 
 @unittest.skipUnless(SQ2507E254.exists(), "sample corpus not present")
@@ -604,3 +609,167 @@ class TestQ25X10031ContinuationPageItemBoundary(unittest.TestCase):
         self.assertIn("glass window of SS enclosure.", item1_desc)
         self.assertNotIn("glass window of SS enclosure.", item2_desc)
         self.assertTrue(item2_desc.startswith("Set of Spares"), item2_desc)
+
+
+@unittest.skipUnless(Q25X10031R1.exists(), "sample corpus not present")
+class TestQ25X10031R1PostTableSectionBoundary(unittest.TestCase):
+    """Q25X10031R1_H2 Analyser.pdf page 4: an unheaded continuation of the
+    "Hydrogen measurement" table whose real content ends at "Set of
+    Spares... sample conditioning system." - "Section 2: Notes &
+    Clarifications" / "Section 3: Exclusions" printed further down the
+    SAME page is narrative, not more table rows. Before the fix, this
+    whole block (plus the exclusion list's own numbered lines, "1.",
+    "2.", ...) was read as more table content."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = pymupdf.open(Q25X10031R1)
+        cls.tables = extract_document_tables(cls.doc)
+        # table[1] is the "Hydrogen measurement" table (page 3-4) whose
+        # continuation page carries the Section 2/3 narrative below its
+        # real content - table[0] ("Price Summary Sheet") is unrelated
+        # and legitimately numbers items 1-6 on its own.
+        cls.rows = cls.tables[1].rows
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.doc.close()
+
+    def test_no_row_contains_the_post_table_notes_or_exclusions(self):
+        for row in self.rows:
+            raw = row.raw_row_text()
+            self.assertNotIn("Section 2", raw)
+            self.assertNotIn("Section 3", raw)
+            self.assertNotIn("Notes & Clarifications", raw)
+            self.assertNotIn("Exclusions", raw)
+
+    def test_no_row_has_an_item_no_fabricated_from_the_exclusion_list(self):
+        # The exclusion list's own numbered lines ("1.", "2.", ...) must
+        # never surface as if they were real BOQ item numbers.
+        item_nos = {row.text("item_no") for row in self.rows}
+        self.assertTrue(item_nos.issubset({"", "1", "2"}), item_nos)
+
+
+@unittest.skipUnless(Q24S10074_VOC_GC.exists(), "sample corpus not present")
+class TestQ24S10074ContinuationPageColumns(unittest.TestCase):
+    """Q24S10074_VOC_GC.pdf page 3 (an unheaded continuation, no header of
+    its own): reusing the parent table's bands failed columns.
+    bands_capture_price's check, and inferring bands from the page's raw
+    words collapsed the item_no/description gap - a "CORPORATE HQ &
+    REGISTERED OFFICE" / "Satra Plaza" / "Palm Beach Road" / "Adage"
+    footer block at y 722-766 sits inside the generic word-extraction
+    range and happens to fall in that exact gap. Every row on the page
+    lost its description entirely. The same page also opens on "SECTION
+    2: TECHNICAL LITERATURE" - a running section title with more real
+    priced rows resuming right after it, never a stop signal."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = pymupdf.open(Q24S10074_VOC_GC)
+        cls.tables = extract_document_tables(cls.doc)
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.doc.close()
+
+    def test_continuation_rows_keep_their_own_description(self):
+        rows = [r for t in self.tables for r in t.rows]
+        # 5 real items: "1" (headed page) + "a"/"b"/"c"/"d" (continuation).
+        by_item = {r.text("item_no"): r for r in rows if r.text("item_no")}
+        for item_no in ("1", "a", "b", "c", "d"):
+            self.assertIn(item_no, by_item)
+            desc = by_item[item_no].text("description")
+            self.assertTrue(desc.strip(), f"item {item_no} has a blank description")
+
+    def test_footer_boilerplate_never_reaches_a_description(self):
+        rows = [r for t in self.tables for r in t.rows]
+        for row in rows:
+            desc = row.text("description")
+            self.assertNotIn("CORPORATE HQ", desc)
+            self.assertNotIn("Satra Plaza", desc)
+            self.assertNotIn("Palm Beach Road", desc)
+
+
+@unittest.skipUnless(Q25AKIC10080.exists(), "sample corpus not present")
+class TestQ25AKIC10080ContinuationTableSelection(unittest.TestCase):
+    """Q25AKIC10080_Blue NH3_LINDE_20012025.pdf page 2 (0-indexed): a
+    one-row letterhead banner table ("Adage Kanoo Industries...") sits at
+    y 21-106, inside the parent table's own column x-range purely by
+    coincidence, directly ABOVE the real 44-row continuation table at
+    y 115-754. Picking the topmost matching table instead of the tallest
+    one shrank the whole page's word-extraction range down to nothing and
+    lost it entirely - 89 rows in this document dropped to 36."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.doc = pymupdf.open(Q25AKIC10080)
+        cls.tables = extract_document_tables(cls.doc)
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.doc.close()
+
+    def test_continuation_page_content_is_not_lost(self):
+        n_rows = sum(len(t.rows) for t in self.tables)
+        self.assertGreaterEqual(n_rows, 80, n_rows)
+
+    def test_tag_only_row_gets_its_tag_as_description(self):
+        # The tag ("H-1101AT0103") lands in a table column find_header()
+        # never maps to any known field, so it sits in row.text("other")
+        # at the LogicalRow level - __main__.process_document's
+        # identifier fallback (not something LogicalRow.text() itself
+        # does) is what promotes it into description_full/product_name.
+        from boq_coords.__main__ import process_document
+        items, _ = process_document(Q25AKIC10080, "TEST", set())
+        by_item = {r["item_no"]: r for r in items if r["item_no"]}
+        self.assertIn("26", by_item)
+        self.assertEqual(by_item["26"]["description_full"], "H-1101AT0103")
+        self.assertIn("DESCRIPTION_FROM_UNLABELLED_COLUMN", by_item["26"]["validation_error"])
+
+
+class TestPostTableHeadingDetection(unittest.TestCase):
+    """vocab.is_post_table_heading_line - the signal rows._first_heading_y
+    uses to cut a continuation page's word range off before narrative
+    text (see TestQ25X10031R1PostTableSectionBoundary)."""
+
+    def test_end_of_table_headings_are_recognized(self):
+        from boq_coords.vocab import is_post_table_heading_line
+        for text in (
+            "Section 2: Notes & Clarifications",
+            "Section 3: Exclusions",
+            "Exclusions",
+            "Section-3 Clarifications & Deviations",
+            "Terms and Conditions",
+        ):
+            self.assertTrue(is_post_table_heading_line(text), text)
+
+    def test_a_bare_numbered_section_title_is_not_a_stop_signal(self):
+        # Confirmed real-corpus false stop: "SECTION 2: TECHNICAL
+        # LITERATURE" is a running section TITLE, not a marker that the
+        # priced table has ended - more real priced rows follow it.
+        from boq_coords.vocab import is_post_table_heading_line
+        for text in (
+            "SECTION 2: TECHNICAL LITERATURE",
+            "Section 4: Additional Spares",
+        ):
+            self.assertFalse(is_post_table_heading_line(text), text)
+
+    def test_a_real_item_description_is_never_mistaken_for_a_heading(self):
+        from boq_coords.vocab import is_post_table_heading_line
+        self.assertFalse(is_post_table_heading_line(
+            "Exclusions from this scope shall be communicated separately "
+            "along with the final technical submission for review."
+        ))
+
+
+class TestTotalRowLabel(unittest.TestCase):
+    """vocab.is_total_row_label - __main__.py's TOTAL_ROW flag."""
+
+    def test_bare_total_labels_match(self):
+        from boq_coords.vocab import is_total_row_label
+        for text in ("TOTAL", "Grand Total", "Sub Total", "Total Amount"):
+            self.assertTrue(is_total_row_label(text), text)
+
+    def test_a_real_items_own_heading_never_matches(self):
+        from boq_coords.vocab import is_total_row_label
+        self.assertFalse(is_total_row_label("Total Conductivity Analyser"))

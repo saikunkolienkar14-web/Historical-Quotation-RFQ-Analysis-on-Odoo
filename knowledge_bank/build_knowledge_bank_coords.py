@@ -72,6 +72,7 @@ sys.path.insert(0, str(PROJECT_ROOT))
 sys.path.insert(0, str(PROJECT_ROOT.parent))
 
 from build_knowledge_bank import (  # noqa: E402
+    apply_order_studio_fields,
     format_number,
     normalize_text_value,
     normalize_unit,
@@ -214,6 +215,30 @@ OUTPUT_COLUMNS = [
     "matched_order_quote_status",
     "order_state",
     "firm_or_budgetary",
+
+    # Order - Odoo Studio fields (added 2026-09-25, same set as
+    # build_knowledge_bank.py's apply_order_studio_fields())
+    "matched_order_create_date",
+    "matched_end_user_id",
+    "matched_end_user_name",
+    "matched_order_control_no",
+    "matched_order_rfq_reference_number",
+    "matched_order_present_status",
+    "matched_order_price_in_inr",
+    "matched_order_total_potential_estimate",
+    "matched_order_po_value_in_inr",
+    "matched_order_winning_chance",
+    "matched_order_sbu_type",
+    "matched_order_tentative_finalization_month",
+    "matched_order_finalization_year",
+    "matched_order_spares_type",
+    "matched_order_service_type",
+    "matched_order_type_of_quote",
+    "matched_order_average_cycle_time",
+    "matched_order_po_currency",
+    "matched_order_latest_price_quoted",
+    "matched_order_main_reason_of_losing_order",
+    "matched_order_reason_for_loss",
 
     # Time
     "quotation_date_raw",
@@ -504,6 +529,8 @@ def build_coords_item_row(item, document, order) -> dict:
 
     row["order_state"] = order.get("state", "")
     row["firm_or_budgetary"] = order.get("x_studio_firm_or_budgetary", "")
+
+    apply_order_studio_fields(row, order)
 
     # ---- Time ---------------------------------------------------------
 

@@ -20,7 +20,7 @@ from dataclasses import dataclass
 
 from boq_coords.banded import LogicalRow, _merge_bundled_lots, peel_leading_continuation_lines, segment_rows
 from boq_coords.columns import bands_capture_price, infer_bands_from_words
-from boq_coords.geometry import Word
+from boq_coords.geometry import Word, cluster_lines, join_words
 from boq_coords.locate import (
     LETTERHEAD_BOTTOM_MIN_Y,
     LETTERHEAD_TOP_MAX_Y,
@@ -29,7 +29,12 @@ from boq_coords.locate import (
     money_check,
 )
 from boq_coords.ruled import _ruling_line_ys, rows_from_region
-from boq_coords.vocab import STOP_SECTION_MARKERS, classify_header_word, normalize_label
+from boq_coords.vocab import (
+    STOP_SECTION_MARKERS,
+    classify_header_word,
+    is_post_table_heading_line,
+    normalize_label,
+)
 
 MAX_STITCH_PAGE_GAP = 1
 BAND_EDGE_TOLERANCE = 6.0
@@ -108,6 +113,88 @@ def _page_has_own_table_header(page) -> bool:
     return False
 
 
+CONTINUATION_TABLE_OVERLAP_FRACTION = 0.6
+CONTINUATION_TABLE_BOTTOM_MARGIN = 3.0
+
+
+def _continuation_table_bbox(page, x0: float, x1: float) -> tuple[float, float, float, float] | None:
+    """The tightest known bound for THIS continuation page's own table
+    content, from page.find_tables() - used to shrink the generic
+    LETTERHEAD_BOTTOM_MIN_Y fallback down to where this page's own table
+    actually ends, whenever pymupdf can see a ruled grid there at all.
+
+    Confirmed real-corpus problems this fixes, both from words landing
+    inside the generic (x0, LETTERHEAD_TOP_MAX_Y, x1, LETTERHEAD_BOTTOM_MIN_Y)
+    clip that are NOT this page's own table content:
+    - Q24S10074_VOC_GC.pdf: a "CORPORATE HQ & REGISTERED OFFICE" / "Satra
+      Plaza" / "Palm Beach Road" / "Adage" footer block sits at y 722-766,
+      inside that clip. Its words happen to fall in the x-gap between the
+      item_no and description columns, which collapsed the column gap
+      columns.infer_bands_from_words needs to tell them apart - item_no
+      swallowed the whole description column, leaving description blank
+      for every row on the page. This page's own table (found by
+      find_tables()) ends at y 690, well above the footer.
+    - Q25X10031R1_H2 Analyser.pdf: "Section 2: Notes & Clarifications" /
+      "Section 3: Exclusions" (narrative text, not BOQ rows) sits at
+      y 374+ on the same page as the table's own last real row, which
+      find_tables() bounds at y 330 - everything below that was being
+      read as more table rows, including the exclusion list's own
+      numbered lines ("1.", "2.", ...) misread as item numbers.
+
+    Only trusted when its x-extent substantially overlaps the parent
+    region's own column range (CONTINUATION_TABLE_OVERLAP_FRACTION) - a
+    narrow, unrelated table elsewhere on the page (a 2-column commercial-
+    terms table, a MAKE LIST) must never be mistaken for this page's own
+    continuation of the priced table. Returns None (keep today's generic
+    fallback) whenever find_tables() sees no ruled grid here at all - a
+    continuation page's content can be pure flowing text with no grid of
+    its own, and the generic range is the only thing available then.
+
+    When more than one table on the page passes the x-overlap check, the
+    TALLEST one wins, not the topmost - confirmed real-corpus case,
+    Q25AKIC10080: a one-row letterhead banner table ("Adage Kanoo
+    Industries...") sits at y 21-106, well within the parent's own column
+    range purely by x-coincidence, ABOVE the real 44-row continuation
+    table at y 115-754. Picking the topmost one instead of the tallest
+    shrank the word-extraction range down to almost nothing and lost the
+    entire real page."""
+    try:
+        tables = page.find_tables().tables
+    except Exception:  # noqa: BLE001
+        return None
+
+    best = None
+    for t in tables:
+        tx0, ty0, tx1, ty1 = t.bbox
+        overlap = min(tx1, x1) - max(tx0, x0)
+        if overlap < CONTINUATION_TABLE_OVERLAP_FRACTION * (x1 - x0):
+            continue
+        if best is None or (ty1 - ty0) > (best[3] - best[1]):
+            best = (tx0, ty0, tx1, ty1)
+    return best
+
+
+def _first_heading_y(words: list[Word]) -> float | None:
+    """The y0 of the first line among `words` that reads as a post-table
+    section heading (vocab.is_post_table_heading_line) - None if there
+    isn't one. A second, independent safeguard alongside
+    _continuation_table_bbox: that function trusts find_tables()'s own
+    bbox to bound a continuation page's real content, but pymupdf's ruled-
+    table detection can itself overshoot past the real table into
+    trailing narrative text when a page's outer border or a stray ruling
+    continues below the last priced row (confirmed real-corpus case:
+    Q24W10129R1's page 4 table.bbox runs to y 738, several hundred points
+    past its last real item, swallowing "SECTION 2: TECHNICAL LITERATURE"
+    printed further down the SAME page). Checking the words directly,
+    independent of whatever bbox produced them, catches that case too."""
+    lines = cluster_lines(words)
+    for line in sorted(lines, key=lambda ln: ln.yc):
+        text = join_words(sorted(line.words, key=lambda w: w.x0))
+        if is_post_table_heading_line(text):
+            return line.y0
+    return None
+
+
 def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[LogicalRow] | None:
     """Try extracting rows from `page_no` with no header on this page -
     used when the immediately-following page has no qualifying TableRegion
@@ -144,10 +231,27 @@ def _unheaded_continuation_rows(doc, page_no: int, region: TableRegion) -> list[
     y_top = LETTERHEAD_TOP_MAX_Y
     y_bottom = LETTERHEAD_BOTTOM_MIN_Y
 
+    table_bbox = _continuation_table_bbox(page, x0, x1)
+    if table_bbox is not None:
+        y_bottom = min(y_bottom, table_bbox[3] + CONTINUATION_TABLE_BOTTOM_MARGIN)
+
     words_raw = page.get_text("words", clip=(x0, y_top, x1, y_bottom))
     words = [Word.from_pymupdf_tuple(w[:8]) for w in words_raw if w[4].strip()]
     if not words:
         return None
+
+    # A post-table heading (Section N:, Notes & Clarifications,
+    # Exclusions, ...) among these words means the table's real content
+    # ends before it - drop everything at or after that line, rather than
+    # reading trailing narrative text as more table rows (see
+    # _first_heading_y; _continuation_table_bbox above already narrows
+    # the range using find_tables()'s own bbox, but that bbox can itself
+    # overshoot past a heading like this one).
+    heading_y = _first_heading_y(words)
+    if heading_y is not None:
+        words = [w for w in words if w.y0 < heading_y]
+        if not words:
+            return None
 
     inferred_bands = None
     if not bands_capture_price(words, region.bands):
@@ -226,6 +330,23 @@ def extract_document_tables(doc) -> list[DocumentTable]:
 
         # 2. Stitch onto UNHEADED continuation pages immediately after the
         #    last page absorbed so far.
+        #
+        # A page that contributes nothing (no money, or its own content
+        # is entirely a post-table heading - see _first_heading_y) ends
+        # the chain here, even though a real per-item divider page
+        # (confirmed real-corpus case: Q24W10129R1's "SECTION 2:
+        # TECHNICAL LITERATURE" insert, with more of the SAME table's
+        # items resuming right after it) would benefit from tolerating
+        # it and continuing. Deliberately not tolerated: doing so was
+        # confirmed to also bridge into a DIFFERENT, unrelated table
+        # occupying the rest of the document (Q24X10030's own "Section-3
+        # Clarifications & Deviations" compliance/deviation matrix,
+        # several pages long, immediately after a heading-cut page) and
+        # fold its rows in as if they were more BOQ items - a real
+        # data-corruption regression, worse than losing the legitimate
+        # divider case. No cheap signal available to tell the two apart
+        # (both open directly on a heading with nothing before it); until
+        # one is found, correctness here wins over completeness.
         next_page = current.page_no + 1
         while next_page < doc.page_count:
             already_has_region = any(

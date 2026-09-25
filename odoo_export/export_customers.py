@@ -27,6 +27,7 @@ from config import OUTPUT_FOLDER
 SALE_ORDER_FIELDS = [
     "id",
     "name",
+    "create_date",
     "partner_id",
     "x_studio_adage_customer",
     "x_studio_end_user",
@@ -47,6 +48,22 @@ SALE_ORDER_FIELDS = [
     "x_studio_adage_jobcontrol_no",
     "x_studio_firm_or_budgetary",
     "x_studio_quote_status",
+    "x_studio_present_status_of_quote_1",
+    "x_studio_price_in_inr",
+    "x_studio_total_potential_estimate_1",
+    "x_studio_po_value_in_inr",
+    "x_studio_winning_chance",
+    "x_studio_sbu_type_1",
+    "x_studio_tentative_finalization_month",
+    "x_studio_finalization_year",
+    "x_studio_spares_type",
+    "x_studio_service_type",
+    "x_studio_type_of_quote",
+    "x_studio_average_cycle_time",
+    "x_studio_po_currency",
+    "x_studio_latest_price_quoted",
+    "x_studio_main_reason_of_losing_order",
+    "x_studio_reason_for_loss",
 ]
 
 PARTNER_FIELDS = [
@@ -65,7 +82,17 @@ MANY2ONE_SALE_ORDER_FIELDS = [
     "partner_id",
     "x_studio_adage_customer",
     "x_studio_end_user",
+    "x_studio_po_currency",
 ]
+
+# many2many fields on sale.order and the model each relates to - values
+# come back as a bare list of ids (not [id, name] pairs like many2one),
+# so their display names have to be resolved with a separate read()
+# against the related model, same idea as partner resolution below.
+MANY2MANY_SALE_ORDER_FIELDS = {
+    "x_studio_spares_type": "x_spare.type",
+    "x_studio_reason_for_loss": "x_lost_order_analysis",
+}
 
 MANY2ONE_PARTNER_FIELDS = [
     "state_id",
@@ -111,12 +138,35 @@ def many2one_name(value):
     return value or ""
 
 
-def flatten_sale_order(order):
+def many2many_ids(value):
+    """
+    Odoo many2many values normally look like a bare list of ids:
+
+        [12, 47]
+
+    Return that list, or [] if unset.
+    """
+
+    if isinstance(value, list):
+        return value
+
+    return []
+
+
+def flatten_sale_order(order, m2m_names=None):
     """
     Convert one raw sale.order record into a flat CSV row,
     splitting each many2one field into <field>_id / <field>_name
-    columns.
+    columns, and each many2many field into <field>_ids / <field>_names
+    columns (pipe-joined, same multi-value convention the knowledge
+    bank uses for multi-make alternates).
+
+    `m2m_names` - {field: {id: name}} lookup built from a separate read()
+    against each many2many field's related model (see main()). Optional
+    so this function stays testable without a live Odoo connection.
     """
+
+    m2m_names = m2m_names or {}
 
     row = {}
 
@@ -126,6 +176,19 @@ def flatten_sale_order(order):
 
             row[f"{field}_id"] = many2one_id(value)
             row[f"{field}_name"] = many2one_name(value)
+
+        elif field in MANY2MANY_SALE_ORDER_FIELDS:
+
+            ids = many2many_ids(value)
+            names = m2m_names.get(field, {})
+
+            row[f"{field}_ids"] = "|".join(
+                str(record_id) for record_id in ids
+            )
+
+            row[f"{field}_names"] = "|".join(
+                names.get(record_id, "") for record_id in ids
+            )
 
         else:
 
@@ -165,6 +228,11 @@ def sale_order_csv_fields():
 
             fields.append(f"{field}_id")
             fields.append(f"{field}_name")
+
+        elif field in MANY2MANY_SALE_ORDER_FIELDS:
+
+            fields.append(f"{field}_ids")
+            fields.append(f"{field}_names")
 
         else:
 
@@ -280,6 +348,45 @@ def main():
     )
 
     # --------------------------------------------------------
+    # RESOLVE MANY2MANY DISPLAY NAMES
+    #
+    # x_studio_spares_type / x_studio_reason_for_loss come back from
+    # search_read as bare id lists - fetch their related records once
+    # per field so flatten_sale_order() can write real names, not ids.
+    # --------------------------------------------------------
+
+    m2m_names = {}
+
+    for field, relation_model in MANY2MANY_SALE_ORDER_FIELDS.items():
+
+        related_ids = set()
+
+        for order in sale_orders:
+
+            for record_id in many2many_ids(order.get(field)):
+                related_ids.add(record_id)
+
+        # Studio-created models (like these two) don't reliably have a
+        # "name" field - x_spare.type / x_lost_order_analysis both use
+        # "x_name" instead - so "display_name" is used here since Odoo
+        # guarantees it on every model regardless of Studio naming.
+        related_records = api.get_records_by_ids(
+            relation_model,
+            related_ids,
+            ["id", "display_name"],
+        )
+
+        m2m_names[field] = {
+            record["id"]: record.get("display_name", "")
+            for record in related_records
+        }
+
+        print(
+            f"{field} ({relation_model}) records resolved : "
+            f"{len(related_records)}"
+        )
+
+    # --------------------------------------------------------
     # OUTPUT FOLDER
     # --------------------------------------------------------
 
@@ -328,7 +435,7 @@ def main():
         for order in sale_orders:
 
             writer.writerow(
-                flatten_sale_order(order)
+                flatten_sale_order(order, m2m_names)
             )
 
     # --------------------------------------------------------
