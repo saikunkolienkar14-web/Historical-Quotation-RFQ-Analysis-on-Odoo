@@ -469,6 +469,54 @@ ones exist so this specific verified run stays addressable even after a
 future rebuild changes the canonical files.
 
 
+### Currency detection fix + double-read tables fix (2026-09-28)
+
+Pre-cleaning audit of `knowledge_bank_items_coords_2026-09-26.csv`
+found two extraction faults, fixed on branch
+`currency-and-double-read-fix` (baseline `main` @ `29b12959`). Prior
+`03f_`/`06_`/`07_*_coords` outputs backed up to
+`Quotation_Data/_backup_2026-09-28_before_currency_fix/`.
+
+**1. Currency defaulted to INR on foreign-currency offers.** `money.py`
+only read a currency token inside each price cell and otherwise assumed
+INR, but most USD/EUR/SAR offers print bare numbers under a
+`UNIT PRICE (USD)` header. ~96 documents whose Odoo order was USD (68),
+EUR (11) or SAR (17) were emitted as INR; their item totals reconciled
+with Odoo's `price_in_inr` only at Odoo's own fixed rate (USD 84.84,
+EUR 94.25, SAR 22.61). Fix: `money.detect_document_currency()` counts
+currency markers on the BOQ table's pages; row precedence is cell token
+→ document currency → INR default, recorded in a new `currency_source`
+column (`emit.py`, `build_knowledge_bank_coords.py` full + slim). A
+foreign currency must strictly outnumber INR markers - a first pass
+letting ties go foreign mislabelled 5 INR offers carrying a
+"1 EURO=102 INR" escalation clause / a "EURO-STYLE" part name as EUR.
+Result (first pass, before the tie rule): documents whose item currency
+disagrees with Odoo's `po_currency` fell 113 → 23; the remainder are
+mixed-currency documents, one USD offer with no marker at all, and
+~9 genuine USD offers (headers read `(USD)`, reconcile at ×84.84) whose
+Odoo order is recorded as INR - an Odoo data-entry issue, not extraction.
+
+**2. Two tables on one page both stitched the same continuation pages**
+(`rows.extract_document_tables`), emitting every continuation row twice.
+Fix: `rows._has_region_below()` - only the bottom-most table on a page
+may continue onto the next page. 4 documents changed (145→79, 66→44,
+54→38, 16→14 rows); price totals of 2 are unchanged, the other 2 lose
+only the double-counted copies. Known side effect in the 66→44 document:
+the removed copy of 22 unpriced "Quoted separately" lines was the
+cleaner parse - the kept copy (lower table's column bands) shows
+`MISSING` with "1 No Q" glued into `product_name`. No prices affected.
+
+Review of the 21 documents where ≥50% of knowledge-bank rows were exact
+duplicates: `Quotation_Data/07_knowledge_bank_coords/duplicate_rows_review_2026-09-28.csv`
+(2 extractor bug - fixed; 6 genuine repeated lines that only look
+identical once `row_seq`/`raw_row_text` are dropped; 2 genuine repeated
+sections; 2 genuine two-table pages; 9 noise rows like `( ) ( )`).
+
+Tests: 14 new (`tests/test_money.py`, new `tests/test_rows_stitching.py`);
+full suite 155 tests, only the 2 pre-existing `Q24X10030` snapshot
+failures (unchanged).
+
+
 ### Completed
 
 - Odoo quotation PDF extraction (PyMuPDF + Tesseract OCR)

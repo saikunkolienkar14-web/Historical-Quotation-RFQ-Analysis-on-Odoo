@@ -33,7 +33,13 @@ from boq_coords.fields import (  # noqa: E402
     extract_labeled_fields,
     promote_part_no_to_model,
 )
-from boq_coords.money import canonical_raw, combine_price_status, parse_price, resolve_quantity_and_unit  # noqa: E402
+from boq_coords.money import (  # noqa: E402
+    canonical_raw,
+    combine_price_status,
+    detect_document_currency,
+    parse_price,
+    resolve_quantity_and_unit,
+)
 from boq_coords.pagetext import write_pages_jsonl  # noqa: E402
 from boq_coords.rows import extract_document_tables  # noqa: E402
 from boq_coords.validate import apply_validation  # noqa: E402
@@ -158,6 +164,11 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
 
         doc_summary["path_taken"] = "RULED"
 
+        table_page_nos = sorted({pn for table in tables for pn in table.page_nos})
+        document_currency = detect_document_currency(
+            "\n".join(doc[pn].get_text("text") for pn in table_page_nos)
+        )
+
         out_rows: list[dict] = []
         row_seq = 0
         for table in tables:
@@ -209,7 +220,22 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     total_price_source = ""
 
                 price_status = combine_price_status(up.status, tp.status)
-                currency = up.currency or tp.currency or ""
+
+                # Currency precedence: a token printed in the price cell
+                # itself, then the document-level currency from the table
+                # pages (detect_document_currency), then parse_price's INR
+                # default. currency_source records which one was used, so
+                # a defaulted INR is never mistaken for a printed one.
+                explicit = next((p for p in (up, tp) if p.currency_explicit), None)
+                if explicit is not None:
+                    currency, currency_source = explicit.currency, "CELL"
+                elif up.currency or tp.currency:
+                    if document_currency:
+                        currency, currency_source = document_currency, "DOCUMENT"
+                    else:
+                        currency, currency_source = up.currency or tp.currency, "DEFAULT"
+                else:
+                    currency, currency_source = "", ""
 
                 # A price cell that visibly spans several physical rows in
                 # the source table (ruled._spanned_price_ranges) still has
@@ -318,6 +344,7 @@ def process_document(pdf_path: Path, quotation_number: str, ocr_stems: set[str])
                     "total_price_source": total_price_source,
                     "price_status": price_status,
                     "currency": currency,
+                    "currency_source": currency_source,
                     "raw_row_text": row.raw_row_text(),
                     "confidence": "HIGH",
                     # Private inputs to validate.py's rules 7/8 (see

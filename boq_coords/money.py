@@ -95,6 +95,11 @@ class ParsedPrice:
     raw: str                     # original text, verbatim
     is_placeholder: bool = False
     currency: str | None = "INR"
+    # True only when the cell itself printed a currency token ("$ 7,100",
+    # "Rs. 13,25,000"). False means `currency` is the INR default - the
+    # caller (__main__.py) then prefers the document-level currency
+    # (detect_document_currency) over that default.
+    currency_explicit: bool = False
     # "NUMERIC" | "QUOTED" | "INCLUDED" | "MISSING" (price fix requirement 6).
     # is_placeholder is kept as a broader, structural signal for banded.py's
     # row-segmentation gate (any recognized non-numeric price text, so it
@@ -114,6 +119,44 @@ def _detect_currency(cur: str | None, cur2: str | None) -> str:
     if tok in ("£", "GBP"):
         return "GBP"
     return "INR"
+
+
+# Document-level currency markers, counted on the BOQ table's own pages
+# (column headers like "UNIT PRICE (USD)", notes like "All prices in
+# EURO"). Needed because most foreign-currency offers print bare numbers
+# in the price cells, so parse_price() alone fell back to its INR default
+# - confirmed 2026-09-28: ~96 documents whose Odoo order is USD/EUR/SAR
+# (and whose item totals reconcile with Odoo only at that currency's rate)
+# were emitted as INR. SAR is matched case-sensitively: lowercase "sar"
+# is not a currency in this corpus. A bare "$" is deliberately not a
+# document-level marker - it's already caught per cell by CURRENCY_RX.
+DOCUMENT_CURRENCY_MARKERS = {
+    "USD": re.compile(r"\bUSD\b|\bUS\s?\$|\bUS\s*Dollars?\b", re.IGNORECASE),
+    "EUR": re.compile(r"\bEUR\b|€|\bEuros?\b", re.IGNORECASE),
+    "SAR": re.compile(r"\bSAR\b|\bSaudi\s+Riyals?\b"),
+    "INR": re.compile(r"\bINR\b|₹|\bRs\.?(?=\s|\d)|\bRupees?\b", re.IGNORECASE),
+}
+FOREIGN_CURRENCIES = ("USD", "EUR", "SAR")
+
+
+def detect_document_currency(table_pages_text: str) -> str | None:
+    """The currency a document's BOQ is priced in, from currency markers on
+    its table pages, or None when there are none at all (the caller keeps
+    the INR default then, recorded as currency_source=DEFAULT).
+
+    A foreign currency wins only when it is mentioned strictly MORE often
+    than INR. A tie goes to INR: confirmed on the full corpus (2026-09-28)
+    that ties were INR offers with an escalation clause ("price considering
+    1 EURO=102 INR. If Euro increase beyond ...") or a product name
+    ("EURO-STYLE" jacket) - letting a tie go foreign mislabelled 5 INR
+    offers as EUR, while no reconciled foreign-currency offer needed it."""
+    counts = {cur: len(rx.findall(table_pages_text)) for cur, rx in DOCUMENT_CURRENCY_MARKERS.items()}
+    foreign = max(FOREIGN_CURRENCIES, key=lambda cur: counts[cur])
+    if counts[foreign] > counts["INR"]:
+        return foreign
+    if counts["INR"]:
+        return "INR"
+    return None
 
 
 def parse_price(text: str) -> ParsedPrice:
@@ -147,8 +190,9 @@ def parse_price(text: str) -> ParsedPrice:
 
     m = LAKH_CR_RX.match(stripped)
     if m:
+        # Lakh/crore are Indian-only units, so INR here is never a guess.
         value = float(m.group("num")) * SCALE[m.group("scale").lower()]
-        return ParsedPrice(value=value, raw=raw, currency="INR", status="NUMERIC")
+        return ParsedPrice(value=value, raw=raw, currency="INR", currency_explicit=True, status="NUMERIC")
 
     m = MONEY_RX.match(stripped)
     if not m:
@@ -162,7 +206,8 @@ def parse_price(text: str) -> ParsedPrice:
         return ParsedPrice(value=None, raw=raw, currency=None, status="MISSING")
 
     currency = _detect_currency(m.group("cur"), m.group("cur2"))
-    return ParsedPrice(value=value, raw=raw, currency=currency, status="NUMERIC")
+    explicit = bool(m.group("cur") or m.group("cur2"))
+    return ParsedPrice(value=value, raw=raw, currency=currency, currency_explicit=explicit, status="NUMERIC")
 
 
 # price fix requirement 6: canonical raw token per non-numeric status.

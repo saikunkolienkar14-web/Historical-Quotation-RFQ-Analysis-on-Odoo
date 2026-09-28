@@ -56,6 +56,24 @@ def _bands_agree(a, b) -> bool:
     return True
 
 
+def _has_region_below(current: TableRegion, regions: list[TableRegion]) -> bool:
+    """True if another BOQ region sits lower on `current`'s own page.
+
+    Only the bottom-most table on a page can flow onto the next page - a
+    table with another table beneath it has visibly ended. Without this
+    check, two tables on one page both stitched the SAME following
+    pages as their continuation, emitting every continuation row twice
+    (confirmed real-corpus bug, 2026-09-28: two documents with two
+    tables on one page had 124 and 32 exact duplicate rows respectively,
+    whole continuation pages read once per table)."""
+    return any(
+        other is not current
+        and other.page_no == current.page_no
+        and other.bbox[1] > current.bbox[1]
+        for other in regions
+    )
+
+
 def _page_has_money(page) -> bool:
     text = page.get_text("text")
     return any(money_check(ln.strip()) for ln in text.splitlines() if ln.strip())
@@ -306,7 +324,9 @@ def extract_document_tables(doc) -> list[DocumentTable]:
 
         # 1. Stitch onto an immediately-following HEADERED region with
         #    compatible bands (repeated header on the next page).
-        stitched_into_headered = True
+        #    Never from a table that has another table below it on the
+        #    same page - see _has_region_below (also gates step 2).
+        stitched_into_headered = not _has_region_below(current, regions)
         while stitched_into_headered:
             stitched_into_headered = False
             for other in regions:
@@ -325,7 +345,7 @@ def extract_document_tables(doc) -> list[DocumentTable]:
                 combined_pages.append(other.page_no)
                 used_page_regions.add(id(other))
                 current = other
-                stitched_into_headered = True
+                stitched_into_headered = not _has_region_below(current, regions)
                 break
 
         # 2. Stitch onto UNHEADED continuation pages immediately after the
@@ -348,6 +368,8 @@ def extract_document_tables(doc) -> list[DocumentTable]:
         # (both open directly on a heading with nothing before it); until
         # one is found, correctness here wins over completeness.
         next_page = current.page_no + 1
+        if _has_region_below(current, regions):
+            next_page = doc.page_count  # a lower table on this page owns the continuation
         while next_page < doc.page_count:
             already_has_region = any(
                 r.page_no == next_page and id(r) not in used_page_regions for r in regions

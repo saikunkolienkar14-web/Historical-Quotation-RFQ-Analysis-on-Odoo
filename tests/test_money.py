@@ -22,6 +22,7 @@ from boq_coords.money import (
     arithmetic_ok,
     canonical_raw,
     combine_price_status,
+    detect_document_currency,
     parse_price,
     parse_quantity,
     price_in_bounds,
@@ -148,6 +149,59 @@ class TestMoney(unittest.TestCase):
         p = parse_price("$46900/-")
         self.assertEqual(p.value, 46900)
         self.assertEqual(p.currency, "USD")
+
+    # --- currency_explicit: printed token vs INR default (2026-09-28) ---
+
+    def test_bare_number_currency_is_not_explicit(self):
+        p = parse_price("45,00,000")
+        self.assertEqual(p.currency, "INR")
+        self.assertFalse(p.currency_explicit)
+
+    def test_printed_currency_is_explicit(self):
+        for text, cur in (("$1,500", "USD"), ("Rs. 13,25,000", "INR"), ("SAR 45,000", "SAR"), ("12 lakh", "INR")):
+            p = parse_price(text)
+            self.assertEqual(p.currency, cur, text)
+            self.assertTrue(p.currency_explicit, text)
+
+    def test_non_numeric_price_has_no_currency(self):
+        for text in ("QUOTED", "Included", ""):
+            self.assertIsNone(parse_price(text).currency, text)
+
+    # --- detect_document_currency (2026-09-28 currency fix) ---
+
+    def test_usd_column_header_makes_document_usd(self):
+        text = "Sr. No. Description Qty UNIT PRICE (USD) TOTAL PRICE (USD)\n1 Analyser 1 No 7,100 7,100"
+        self.assertEqual(detect_document_currency(text), "USD")
+
+    def test_euro_and_saudi_riyal_phrasings(self):
+        self.assertEqual(detect_document_currency("All prices are in EURO, ex-works"), "EUR")
+        self.assertEqual(detect_document_currency("Unit Rate (€) Amount (€)"), "EUR")
+        self.assertEqual(detect_document_currency("Total Amount in Saudi Riyals"), "SAR")
+        self.assertEqual(detect_document_currency("Price SAR"), "SAR")
+
+    def test_lowercase_sar_is_not_a_currency(self):
+        self.assertIsNone(detect_document_currency("sar sampling line"))
+
+    def test_inr_document(self):
+        self.assertEqual(detect_document_currency("Unit Price (INR) Total Price (Rs.)"), "INR")
+        self.assertEqual(detect_document_currency("Amount ₹ 45,000"), "INR")
+
+    def test_one_stray_foreign_mention_does_not_flip_an_inr_document(self):
+        text = "Price (INR) ... Total (INR) ... Rs. 4,50,000 ... imported from EUR supplier"
+        self.assertEqual(detect_document_currency(text), "INR")
+
+    def test_escalation_clause_tie_stays_inr(self):
+        # Real corpus phrasing: an INR offer with a euro escalation clause.
+        text = "The price provided is considering 1 EURO=102 INR. If Euro increase beyond 31st Dec ... Total (INR)"
+        self.assertEqual(detect_document_currency(text), "INR")
+
+    def test_foreign_currency_must_outnumber_inr(self):
+        text = "UNIT PRICE (USD) TOTAL PRICE (USD) ... payable in INR at TT rate"
+        self.assertEqual(detect_document_currency(text), "USD")
+        self.assertEqual(detect_document_currency("Unit Price USD ... payable in INR"), "INR")
+
+    def test_no_markers_returns_none(self):
+        self.assertIsNone(detect_document_currency("Sr No Description Qty Unit Price Total"))
 
     # --- price_status / canonicalization (price fix requirement 6) ---
 

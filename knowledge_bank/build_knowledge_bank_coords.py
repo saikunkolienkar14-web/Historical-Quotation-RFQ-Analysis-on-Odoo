@@ -165,6 +165,7 @@ OUTPUT_COLUMNS = [
     "total_price_source",
     "price_status",
     "currency",
+    "currency_source",
     "item_confidence",
     "validation_error",
 
@@ -304,6 +305,7 @@ SLIM_COLUMN_MAP = {
     "price_quality": "price_quality",
     "arithmetic_check": "arithmetic_check",
     "currency": "currency",
+    "currency_source": "currency_source",
     "document_currency": "document_currency",
 
     "data_source": "data_source",
@@ -465,6 +467,7 @@ def build_coords_item_row(item, document, order) -> dict:
     row["total_price_source"] = item.get("total_price_source", "")
     row["price_status"] = item.get("price_status", "")
     row["currency"] = item.get("currency", "")
+    row["currency_source"] = item.get("currency_source", "")
     row["item_confidence"] = item.get("confidence", "")
     row["validation_error"] = item.get("validation_error", "")
 

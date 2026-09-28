@@ -54,6 +54,10 @@ FIELDNAMES = [
     "quantity", "unit", "unit_price_raw", "unit_price",
     "total_price_raw", "total_price", "total_price_source",
     "price_status", "currency",
+    # "CELL" (printed in the price cell) | "DOCUMENT" (currency markers on
+    # the BOQ table's pages, money.detect_document_currency) | "DEFAULT"
+    # (neither - parse_price's INR fallback) | "" (no numeric price).
+    "currency_source",
     "raw_row_text", "confidence", "validation_error",
 ]
 
