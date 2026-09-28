@@ -64,6 +64,55 @@ OUT_DIR = ROOT / "Quotation_Data" / "03f_structured_coords"
 # screenshots, not quotation tables; see boq_coords design notes).
 OCR_DOCS_CSV = ROOT / "Quotation_Preprocessed" / "quotation_documents.csv"
 
+# Manifest's own Revision_Number column is inconsistent (confirmed
+# 2026-09-25): a bare revision marker ("R0", "R1", also seen as typo'd
+# "RO"/"Ro"/"ro"/"R-0"), a genuinely different, self-contained RFQ-style
+# id (e.g. RFQ="Q24W10136" but Revision_Number="Q24W10132R3" - a real,
+# unrelated document filed under this RFQ folder), or free text with no
+# identifier value at all ("PO Booking Mail", "Technical offer"). Blindly
+# concatenating RFQ+Revision_Number (the prior behaviour) only produces a
+# correct id for the first case and garbage for the other two - see
+# quotation_number_for_manifest_row() below.
+_BARE_REVISION_RX = re.compile(r"^([Rr][Oo0]?[\s-]*\d{0,2}|\d{1,3})$")
+
+
+def quotation_number_for_manifest_row(rfq: str, revision_number: str) -> tuple[str, bool]:
+    """
+    Derive one manifest row's quotation_number from its RFQ + own
+    Revision_Number, classifying Revision_Number's shape instead of
+    blindly concatenating the two. Returns (quotation_number, flagged) -
+    flagged=True means Revision_Number couldn't be classified at all
+    (free text, no RFQ shape) and quotation_number fell back to RFQ
+    alone, worth a human look rather than a silent guess.
+    """
+
+    if revision_number.startswith(rfq) and rfq:
+        return revision_number, False
+
+    if _BARE_REVISION_RX.match(revision_number):
+        # A bare revision marker with no RFQ identity of its own -
+        # combine with the RFQ, as originally intended.
+        return f"{rfq}{revision_number}", False
+
+    has_whitespace = bool(re.search(r"\s", revision_number))
+    looks_like_standalone_id = (
+        not has_whitespace
+        and len(revision_number) >= 5
+        and any(c.isdigit() for c in revision_number)
+    )
+
+    if looks_like_standalone_id:
+        # A genuinely different, self-contained id - use it as printed,
+        # don't glue an unrelated RFQ code onto the front of it.
+        return revision_number, False
+
+    if not revision_number:
+        return rfq, False
+
+    # Free text or otherwise unclassifiable - RFQ alone is a safe
+    # default (still a real, correct identifier), not a guess.
+    return rfq, True
+
 
 def _load_ocr_stems() -> set[str]:
     if not OCR_DOCS_CSV.exists():
@@ -330,20 +379,21 @@ def main() -> int:
             if not r.get("Revision_Path"):
                 continue
 
-            # quotation_number: Revision_Number is often already the full
-            # id ("Q24W10129R1"), but for a real subset of manifest rows
-            # it's just the bare revision code ("R0", "R1"...) with no RFQ
-            # prefix at all - confirmed 9 unrelated PDFs all collapsing to
-            # quotation_number="R0" before this fix. Always combine RFQ +
-            # Revision_Number rather than trusting Revision_Number alone.
+            # quotation_number: see quotation_number_for_manifest_row()'s
+            # docstring above for why this isn't a blind concatenation.
             rfq = (r.get("RFQ") or "").strip()
             revision_number = (r.get("Revision_Number") or "").strip()
-            if revision_number.startswith(rfq) and rfq:
-                quotation_number = revision_number
-            else:
-                quotation_number = f"{rfq}{revision_number}"
-            if not quotation_number:
-                quotation_number = rfq or revision_number
+            quotation_number, unclassified = quotation_number_for_manifest_row(
+                rfq, revision_number
+            )
+            if unclassified:
+                print(
+                    f"  quotation_number: unclassified Revision_Number "
+                    f"{revision_number!r} for RFQ {rfq!r} "
+                    f"({r.get('Revision_Filename', '')}) - using RFQ alone, "
+                    f"review manually",
+                    file=sys.stderr,
+                )
 
             # Two distinct source PDFs can share one manifest (RFQ,
             # Revision_Number) pair - confirmed a real manifest data-entry

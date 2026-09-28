@@ -363,6 +363,7 @@ def main():
     missing_count = 0
     override_count = 0
     rfq_match_count = 0
+    rfq_match_base_count = 0
     rfq_ambiguous_count = 0
 
     for quotation in coords_quotations:
@@ -391,6 +392,7 @@ def main():
         missing_count += counters.get("missing_count", 0)
         override_count += counters.get("override_count", 0)
         rfq_match_count += counters.get("rfq_match_count", 0)
+        rfq_match_base_count += counters.get("rfq_match_base_count", 0)
         rfq_ambiguous_count += counters.get("rfq_ambiguous_count", 0)
 
     # --------------------------------------------------------
@@ -537,6 +539,7 @@ def main():
     print(f"Missing customer   : {missing_count}")
     print(f"Manual overrides   : {override_count}")
     print(f"RFQ number matches : {rfq_match_count}")
+    print(f"RFQ base matches   : {rfq_match_base_count}")
     print(f"RFQ ambiguous      : {rfq_ambiguous_count}")
 
     print("\nEnriched CSV:")

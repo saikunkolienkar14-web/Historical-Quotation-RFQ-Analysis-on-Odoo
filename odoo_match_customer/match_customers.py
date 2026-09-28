@@ -815,6 +815,15 @@ def load_sale_order_summary(path):
 # RFQ NUMBER MATCHING
 # ============================================================
 
+# A trailing revision suffix ("R1", "R2", ...) on an otherwise-exact RFQ
+# number. Odoo's own x_studio_internal_rfq_assignment_number generally
+# doesn't carry this suffix even when the quoted document is a specific
+# revision - measured (2026-09-25): 1,035 of 4,538 quotations (22.8%)
+# had no exact RFQ hit purely because of this, while their suffix-stripped
+# base RFQ existed in Odoo the whole time. See match_quotation() below.
+REVISION_SUFFIX_RX = re.compile(r"^(.*?)(R\d+)$")
+
+
 def normalize_rfq_number(value):
     """
     Normalize an RFQ/quotation number for exact comparison:
@@ -1246,6 +1255,29 @@ def match_quotation(
         else []
     )
 
+    # Fallback: strip a trailing revision suffix and retry once against
+    # the base RFQ before giving up on an exact match (see
+    # REVISION_SUFFIX_RX above). Tracked separately from a direct hit so
+    # the distinction stays visible downstream rather than silently
+    # blending "matched exactly" with "matched via its base RFQ".
+    matched_via_base_rfq = False
+
+    if not rfq_orders and rfq_key:
+
+        suffix_match = REVISION_SUFFIX_RX.match(rfq_key)
+
+        if suffix_match:
+
+            base_rfq_orders = rfq_index.get(
+                suffix_match.group(1),
+                []
+            )
+
+            if base_rfq_orders:
+
+                rfq_orders = base_rfq_orders
+                matched_via_base_rfq = True
+
     if rfq_orders:
 
         distinct_partner_ids = {
@@ -1301,7 +1333,12 @@ def match_quotation(
 
                 "reason":
                     "RFQ number matched multiple different "
-                    "Odoo customers",
+                    "Odoo customers" + (
+                        " (matched via base RFQ, revision "
+                        "suffix stripped)"
+                        if matched_via_base_rfq
+                        else ""
+                    ),
             }
 
             return (
@@ -1359,7 +1396,11 @@ def match_quotation(
                     rfq_customer["country"],
 
                 "customer_match_score": 1.0,
-                "customer_match_status": "RFQ_MATCH",
+                "customer_match_status": (
+                    "RFQ_MATCH_BASE"
+                    if matched_via_base_rfq
+                    else "RFQ_MATCH"
+                ),
 
                 **build_enrichment_extra(
                     rfq_customer["customer_id"]
@@ -1371,11 +1412,24 @@ def match_quotation(
                 ),
             })
 
+            match_status = (
+                "RFQ_MATCH_BASE"
+                if matched_via_base_rfq
+                else "RFQ_MATCH"
+            )
+
             return (
                 enriched,
                 None,
-                "RFQ_MATCH",
-                {"rfq_match_count": 1},
+                match_status,
+                {
+                    "rfq_match_count": (
+                        0 if matched_via_base_rfq else 1
+                    ),
+                    "rfq_match_base_count": (
+                        1 if matched_via_base_rfq else 0
+                    ),
+                },
             )
 
         # The order's partner id wasn't resolved in the
@@ -1859,6 +1913,7 @@ def main():
     )
 
     rfq_match_count = 0
+    rfq_match_base_count = 0
     rfq_ambiguous_count = 0
 
     # --------------------------------------------------------
@@ -1907,6 +1962,7 @@ def main():
         missing_count += counters.get("missing_count", 0)
         override_count += counters.get("override_count", 0)
         rfq_match_count += counters.get("rfq_match_count", 0)
+        rfq_match_base_count += counters.get("rfq_match_base_count", 0)
         rfq_ambiguous_count += counters.get("rfq_ambiguous_count", 0)
 
     # ========================================================
@@ -2178,6 +2234,11 @@ def main():
     print(
         f"RFQ number matches: "
         f"{rfq_match_count}"
+    )
+
+    print(
+        f"RFQ base matches  : "
+        f"{rfq_match_base_count}"
     )
 
     print(

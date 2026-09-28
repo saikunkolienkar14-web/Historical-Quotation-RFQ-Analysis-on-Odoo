@@ -3,9 +3,12 @@
 Working instructions for this repository. For installation and run
 detail see [`README.md`](README.md); for current status and known issues
 see [`PROJECT_NOTES.md`](PROJECT_NOTES.md); for the schema of any output
-CSV see [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md). This file
-does not restate those — it carries the rules that must hold across every
-piece of work here.
+CSV see [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md); for how
+each knowledge-bank field traces back through the pipeline to its
+ultimate source (PDF, Odoo API field, or a local derivation) see
+[`docs/KNOWLEDGE_BANK_PIPELINE.md`](docs/KNOWLEDGE_BANK_PIPELINE.md).
+This file does not restate those — it carries the rules that must hold
+across every piece of work here.
 
 
 ## Objective

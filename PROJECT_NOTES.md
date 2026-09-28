@@ -279,6 +279,195 @@ yet. Given boq_coords is now the priority extractor, folding that forward
 and re-running the full coords corpus is the natural next step (separate
 from anything in this entry) — see Future work #2.
 
+**Output files from this session (2026-09-25) — what to keep.** Everything
+below was regenerated in place after backing up the pre-fix versions to
+`Quotation_Data/_backup_2026-09-25_odoo_field_mapping_fix/` (kept until
+explicitly asked to delete, per this doc's own versioned-output
+convention). CSV files may contain real customer data — none of it is
+reproduced here.
+
+*Primary / keep — current, authoritative outputs:*
+
+| File | What it is |
+|---|---|
+| `05_odoo_export/sale_orders.csv` | Refreshed Odoo export with all 28 mapped fields (was missing 17). Input to both knowledge banks. |
+| `05_odoo_export/res_partners.csv` | Unchanged shape, refreshed alongside the above. |
+| `06_customer_matching/customer_enriched.csv` (+ `customer_knowledge_bank.csv`, `customer_review.csv`) | Re-run against the realigned `03_structured_current` (fixes the stale-join bug above). v1 path. |
+| `06_customer_matching_coords/customer_enriched_coords.csv` (+ `customer_knowledge_bank_coords.csv`, `customer_review_coords.csv`) | Same re-run, coords path. |
+| `07_knowledge_bank/knowledge_bank_items.csv` | Full v1 knowledge bank, 44,017 rows, now carrying all 21 new `matched_order_*`/`matched_end_user_*` columns. Still needed — v1 is still the *main* join's input. |
+| **`07_knowledge_bank_coords/knowledge_bank_items_coords.csv`** | **Full boq_coords knowledge bank, 21,067 rows, same 21 new columns. The priority file per today's decision — default here for review/analysis.** |
+| **`07_knowledge_bank_coords/knowledge_bank_items_coords_slim.csv`** | Analyst-facing projection of the above (41 columns) — the one to hand to someone who doesn't need the full audit trail. |
+| **`07_knowledge_bank_coords/knowledge_bank_items_coords_smoke50_sectionfix_verify_2026-09-25.csv`** | 46 docs / 717 items — the `sectionfix` extraction (newer than the default full-corpus coords run) re-merged with the fixed Odoo fields. The only file where the fix is validated against the *current* extraction logic. Keep until the full corpus is re-run with `sectionfix` folded in (see the open item above), at which point the full `knowledge_bank_items_coords.csv` supersedes it. |
+
+*Verification artifacts — deleted 2026-09-25 (user-confirmed cleanup),
+listed here only so their absence isn't mistaken for a missing step:*
+
+| File (deleted) | Why it wasn't kept |
+|---|---|
+| `07_knowledge_bank/knowledge_bank_items_smoke50_2026-09-25.csv` | v1, 50-doc sample — superseded by the boq_coords-priority decision made right after it was produced. |
+| `07_knowledge_bank_coords/knowledge_bank_items_coords_smoke50_2026-09-25.csv` | An earlier 50-doc coords sample pulled from the *stale* default `03f_structured_coords/` (pre-`sectionfix`) — superseded by the `..._sectionfix_verify_...` file above, which uses the newer extraction. |
+| `run_match.log`, `run_match_coords.log` | Redirected stdout from the two customer-matching re-runs — may have contained customer names per the confidentiality rule; no longer needed once matching was verified as successful. |
+| `run_kb.log`, `run_kb_coords.log` | Redirected stdout, aggregate counts only — build logs, no longer needed once the rebuilds above were verified. |
+
+**Not regenerated this session, now stale relative to the rebuild
+above:** `07_knowledge_bank/knowledge_bank_quotations.csv` (stage 9, last
+built 2026-09-16 against the old 40,883-row items file) — rebuilding it
+against the current 44,017-row `knowledge_bank_items.csv` is a quick
+follow-up (`knowledge_bank/build_quotation_bank.py`) if anyone needs the
+quotation-level rollup to match; not done as part of this fix.
+
+
+### RFQ-matching fix: revision suffixes, and boq_coords' garbled `quotation_number` (2026-09-25)
+
+User-reported: customer fields looked wrong/missing on a row for the
+`Q24W10136`/`Q24W10132` document family in the coords knowledge bank.
+Investigation found **two separate, real bugs**, both now fixed:
+
+**Bug 1 (cosmetic, boq_coords only) — `quotation_number` was blindly
+concatenated.** `boq_coords/__main__.py` built each document's
+`quotation_number` from the manifest (`Quotation PDFs\quotation_pdfs.csv`)
+by concatenating its `RFQ` and `Revision_Number` columns whenever
+`Revision_Number` didn't start with `RFQ` — but `Revision_Number` isn't
+always a bare revision suffix. For this document, the manifest has
+`RFQ='Q24W10136'` but `Revision_Number='Q24W10132'`/`'...R1'`/`'...R2'`/
+`'...R3'`/`'...R4'` — a real, different, self-contained RFQ id, not a
+suffix — so the old logic produced `Q24W10136Q24W10132` etc. **This value
+was never actually used for matching** (the coords path borrows a
+separately, cleanly-parsed `quotation_number` from v1's own
+`quotations.csv` for that), so this bug only ever misled a human reading
+the CSV — but confirmed broader than one document: 203 of 3,608 manifest
+rows (5.6%) hit the blind-concatenation branch, in wildly different real
+shapes (clean alternate-RFQ cross-references; `R0` typo'd a dozen ways —
+`RO`/`Ro`/`ro`/`R-0`/`RO1`; free-text garbage like `"PO Booking Mail"`;
+short bare numeric codes like `"00"`/`"1"`). Fixed with
+`quotation_number_for_manifest_row()`: classifies `Revision_Number` as a
+bare revision marker (concatenate, as before — 828 rows), a genuine
+standalone id (use as printed — 95 rows, including this document), or
+unclassifiable free text (fall back to `RFQ` alone rather than glue
+garbage onto it — 40 rows, each printed to stderr for manual review
+rather than silently guessed).
+
+**Bug 2 (the real cause of the wrong customer, shared code, much
+bigger) — an exact-match RFQ lookup never tried stripping a revision
+suffix.** `odoo_match_customer/match_customers.py`'s RFQ match
+(`normalize_rfq_number` + one exact-string lookup, shared by both v1 and
+coords pipelines, no fuzzy/retry) matched the base document
+(`quotation_number="Q24W10132"`) exactly against Odoo
+(`RFQ_MATCH`, correct customer). But `"Q24W10132R1"`/`"R2"`/`"R3"`/`"R4"`
+had no exact hit — Odoo's own `x_studio_internal_rfq_assignment_number`
+doesn't carry the revision suffix — so each revision fell through to
+fuzzy name matching and landed on a **different, uncertain (`REVIEW`)
+customer than its own base document**. **Measured corpus-wide
+(2026-09-25): 1,035 of 4,538 quotations (22.8%) had no exact RFQ hit
+purely because of an unstripped revision suffix, while their base RFQ
+existed in Odoo the whole time** — this is a much bigger, more
+consequential defect than the one reported row. Fixed: after an exact
+match fails, strip a trailing `R\d+` (`REVISION_SUFFIX_RX`) and retry
+once against the base RFQ before falling to fuzzy matching. A
+base-recovered match gets its own status, `RFQ_MATCH_BASE`, kept
+distinct from a direct `RFQ_MATCH` rather than silently blended into it
+— satisfies the "flag clearly rather than guess silently" requirement.
+New `rfq_match_base_count` counter added alongside `rfq_match_count` in
+both `match_customers.py` and `match_customers_coords.py`'s summaries.
+
+**Re-ran stages 7-8 corpus-wide, both pipelines**, after backing up the
+prior outputs to `Quotation_Data/_backup_2026-09-25_rfq_match_fix/`:
+
+| | v1 | coords |
+|---|---|---|
+| RFQ exact matches | 2,931 | 2,557 |
+| **RFQ base matches (new)** | **1,024** | **584** |
+| RFQ ambiguous | 12 | 6 |
+
+Knock-on effect in the coords knowledge bank: rows with a resolved order
+date (`date_source=ODOO_ORDER`) rose 12,733 → 18,539; rows flagged for
+review fell 10,652 → 9,758 (fewer `NO_MATCHED_CUSTOMER` flags).
+
+**Verified directly on the reported document family** (46-doc
+`sectionfix` batch, items re-merged with both fixes — see output files
+below): `Q24W10132`/`R1`/`R2`/`R3` all now show the clean `quotation_number`
+and all four resolve to the **same** customer (`RFQ_MATCH` for the base,
+`RFQ_MATCH_BASE` for the three revisions) and the **same** Odoo order —
+previously the revisions matched a different, wrong customer via fuzzy
+fallback.
+
+**Output files (2026-09-25, this fix):**
+
+| File | What it is |
+|---|---|
+| `Quotation_Data/06_customer_matching/customer_enriched.csv`, `Quotation_Data/06_customer_matching_coords/customer_enriched_coords.csv` | Re-run with the `RFQ_MATCH_BASE` fallback — 1,024 / 584 previously-fuzzy-or-unmatched rows now correctly resolved. |
+| `Quotation_Data/07_knowledge_bank/knowledge_bank_items.csv`, `Quotation_Data/07_knowledge_bank_coords/knowledge_bank_items_coords.csv` (+ `_slim.csv`) | Full corpus rebuilds on top of the above. Coords remains the priority file. |
+| `Quotation_Data/03f_structured_coords_smoke50_sectionfix_2026-09-24/quotation_items_qnfix_2026-09-25.csv` | The `sectionfix` 46-doc/717-item batch with corrected `quotation_number` (Bug 1) patched in — intermediate input to the row below, kept for traceability. |
+| **`Quotation_Data/07_knowledge_bank_coords/knowledge_bank_items_coords_smoke50_sectionfix_verify_v2_2026-09-25.csv`** | **The 46-doc verification batch with both fixes applied — the one to look at.** Supersedes `..._verify_2026-09-25.csv` (same batch, pre-fix; kept only because it was locked open in Excel at the time — safe to delete once closed). `matched_order_id` fill rose 390/717 → 671/717 on this sample alone. |
+
+**Not yet done**: a corpus-wide re-run of `boq_coords/__main__.py`'s
+extraction itself (to get Bug 1's `quotation_number` fix into
+`03f_structured_coords/quotation_items.csv` directly, not just this
+verification sample) wasn't done as part of this fix — the cosmetic-only
+column wasn't worth a full extraction re-run, and a full corpus re-run
+also isn't independent of the still-open `sectionfix`-vs-default-corpus
+gap noted in the entry above. Folding both forward together is the
+natural next full-corpus extraction run.
+
+**Unrelated, pre-existing test failure noticed while verifying, not
+caused by this fix**: `tests/test_boq_snapshots.py`'s `Q24X10030`/
+`Q24X10030R` cases fail (`table 1 row count 17 != 16`) against the
+verified snapshot. Confirmed not caused by this session's changes — the
+only files touched here are `boq_coords/__main__.py` (only the
+`quotation_number` construction, not row/table extraction) and
+`odoo_match_customer/match_customers.py` /
+`boq_coords/match_customers_coords.py` (customer matching, runs after
+extraction, no row-content path). `git status` shows no other boq_coords
+extraction files (`rows.py`, `banded.py`, etc.) modified this session.
+Flagged here rather than investigated — out of scope for this fix.
+
+
+### Full-corpus boq_coords re-run with both fixes folded in (2026-09-26)
+
+Following the RFQ-matching fix above, re-ran the full `boq_coords`
+extraction (`python -m boq_coords`, no `--limit`) so Bug 1's
+`quotation_number` fix reaches `03f_structured_coords/` itself, not just
+the 46-doc verification sample — then re-ran `match_customers_coords.py`
+and `build_knowledge_bank_coords.py` on top. Backed up the prior
+`03f_structured_coords/`, `06_customer_matching_coords/`, and
+`07_knowledge_bank_coords/` to
+`Quotation_Data/_backup_2026-09-26_full_extraction_rerun/` first.
+
+**Pre-run check**: `git status` clean except this session's own fix
+files; `boq_coords/rows.py`/`banded.py`/`vocab.py`/`validate.py`
+unmodified and at HEAD, confirming the `test_boq_snapshots.py`
+`Q24X10030` failure noted in the entry above is pre-existing in the
+committed codebase, isolated to that one documented edge case (118+
+other tests pass), and unrelated to this run - not fixed here, still
+open.
+
+**Results**: 3,586 documents processed (1 harmless MuPDF font warning on
+one document, cosmetic only), 22,849 rows written (up from 21,067 in the
+prior default-folder run - includes both the sectionfix-era layout fixes
+that hadn't been re-run since landing, and any dedup/count effects from
+the corrected `quotation_number`). `match_customers_coords.py`: all
+3,586 documents matched (0 unmatched), RFQ exact 2,557 / **RFQ base
+(new) 584** / ambiguous 6. `build_knowledge_bank_coords.py`: 22,849
+rows, **0 items with no document**. Spot-checked the originally-reported
+`Q24W10132` family directly in this full-corpus output (not just the
+sample): base + R1/R2/R3 all show the clean `quotation_number` and all
+resolve to the same customer (`5308`) and same order (`1128`) -
+`RFQ_MATCH` / `RFQ_MATCH_BASE` respectively.
+
+**Output location (this run, 2026-09-26):**
+
+| File | Path |
+|---|---|
+| Full audit file | `Quotation_Data/07_knowledge_bank_coords/knowledge_bank_items_coords_2026-09-26.csv` |
+| Analyst-facing (41 cols) | `Quotation_Data/07_knowledge_bank_coords/knowledge_bank_items_coords_slim_2026-09-26.csv` |
+| Run summary | `Quotation_Data/07_knowledge_bank_coords/knowledge_bank_summary_coords_2026-09-26.txt` |
+
+These are dated copies of the same run's canonical
+`knowledge_bank_items_coords.csv` / `_slim.csv` / `knowledge_bank_summary_coords.txt`
+(kept in sync, no drift between the two names) - use either; the dated
+ones exist so this specific verified run stays addressable even after a
+future rebuild changes the canonical files.
+
 
 ### Completed
 
