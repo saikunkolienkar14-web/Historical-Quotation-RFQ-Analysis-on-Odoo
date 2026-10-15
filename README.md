@@ -87,11 +87,6 @@ gitignored and never committed. Copy the template and fill it in:
 
     copy odoo_export\.env.example odoo_export\.env
 
-Confirm the connection and inspect a model's real field names with:
-
-    cd odoo_export
-    python apicheck.py sale.order
-
 
 ## Running the pipeline
 
@@ -245,7 +240,6 @@ stage. Every other stage uses the standard library's `csv` module alone.
 | [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) | Column-level schema for every output CSV |
 | [`docs/OUTPUT_FORMAT.md`](docs/OUTPUT_FORMAT.md) | Output directory layout and file formats |
 | [`docs/TROUBLESHOOTING.md`](docs/TROUBLESHOOTING.md) | Common errors and parser warning codes |
-| [`docs/FEWSHOT_EXAMPLE_SELECTION.md`](docs/FEWSHOT_EXAMPLE_SELECTION.md) | How to pick good/bad parser examples for LLM few-shot prompting |
 
 ## Note on data
 

@@ -490,8 +490,10 @@ column (`emit.py`, `build_knowledge_bank_coords.py` full + slim). A
 foreign currency must strictly outnumber INR markers - a first pass
 letting ties go foreign mislabelled 5 INR offers carrying a
 "1 EURO=102 INR" escalation clause / a "EURO-STYLE" part name as EUR.
-Result (first pass, before the tie rule): documents whose item currency
-disagrees with Odoo's `po_currency` fell 113 → 23; the remainder are
+Result: documents whose item currency disagrees with Odoo's
+`po_currency` fell 113 → 17 (→ 23 in a first pass that let ties go
+foreign; final 2,562 of 2,579 agree, output rows 22,849 → 22,743 from
+fix 2 below); the remainder are
 mixed-currency documents, one USD offer with no marker at all, and
 ~9 genuine USD offers (headers read `(USD)`, reconcile at ×84.84) whose
 Odoo order is recorded as INR - an Odoo data-entry issue, not extraction.
@@ -513,8 +515,45 @@ identical once `row_seq`/`raw_row_text` are dropped; 2 genuine repeated
 sections; 2 genuine two-table pages; 9 noise rows like `( ) ( )`).
 
 Tests: 14 new (`tests/test_money.py`, new `tests/test_rows_stitching.py`);
-full suite 155 tests, only the 2 pre-existing `Q24X10030` snapshot
+full suite 156 tests, only the 2 pre-existing `Q24X10030` snapshot
 failures (unchanged).
+
+
+### Analysis-ready Excel export (2026-09-28)
+
+New stage `knowledge_bank/build_analysis_export.py` (branch
+`analysis-export`, off `currency-and-double-read-fix`) reads the newest
+dated `07_knowledge_bank_coords/knowledge_bank_items_coords_<date>.csv`
+read-only and writes `Quotation_Data/08_analysis_ready/knowledge_bank_analysis_<date>.xlsx`
+(+ `analysis_export_validation_<date>.txt`). Sheets: `Items` (one row
+per BoQ line, 66 columns), `Quotations` (one row per document; the only
+place order-level Odoo money lives), `Audit` (source columns moved off
+Items, keyed by `doc_id` + `line_seq`), `FX_Rates`, `Data_Dictionary`.
+Product name / make / model are carried through unchanged - their
+standardization waits for the user's mapping tables.
+
+Defaults taken for the plan's open questions (user said "start
+implementing" without answering them - revisit if wrong): INR base at
+Odoo's fixed rates; `quotation_date` stays Odoo-first with the printed
+date beside it as `document_date`, plus an Indian `fiscal_year`; DROP
+is its own `outcome_group` (DROPPED), not merged into LOST; industry =
+order industry, falling back to the customer's; the 541 exact-duplicate
+rows are flagged `duplicate_line`, not removed; Audit is a sheet in the
+same workbook; no name-free variant yet.
+
+Hierarchy: a sub-item's parent is the nearest earlier row whose
+`item_no` equals its `parent_item_no` - not the previous numbered row.
+863 of 2,119 sub-items (1A/1B-style variants) have no parent printed as
+its own row; a positional rule had wrongly attached e.g. 5A/5B to
+item 4. Level-0 rows are HEADER only with no quantity and a `MISSING`
+price (406); most unnumbered rows are real lines. `include_in_doc_total`
+counts a line only if its price is usable and no priced ancestor
+already covers it: item totals then reconcile with Odoo's
+`price_in_inr` within ±10% on 2,013 of 2,546 documents (median 1.000).
+
+First run: 22,743 rows / 3,290 documents / 2,540 orders in and out; 31
+of 31 validation checks pass. 17 new tests (`tests/test_analysis_export.py`);
+suite 173 tests, only the 2 pre-existing `Q24X10030` failures.
 
 
 ### Completed

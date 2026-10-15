@@ -364,3 +364,24 @@ non-blank value found.
 block (item-count identity against `knowledge_bank_items.csv`, duplicate/
 blank key counts, negative-total count, multi-document quotation count),
 and per-column fill rates - aggregate only, no customer names.
+
+
+## knowledge_bank_analysis_<date>.xlsx (knowledge_bank/build_analysis_export.py)
+
+Analysis-ready workbook in `Quotation_Data/08_analysis_ready/`, built from
+`knowledge_bank_items_coords_<date>.csv`. Every column on the `Items` and
+`Quotations` sheets is defined in the workbook's own `Data_Dictionary`
+sheet (generated from `DICTIONARY` in the script, and a validation check
+fails if any column is undocumented), so it is not repeated here. The
+rules analysts most need:
+
+| Rule | Why |
+|---|---|
+| Sum line money only where `include_in_doc_total = Y` | Excludes TOTAL rows and children of an already-priced parent |
+| Price analysis only where `price_usable = Y` | TRUSTED, REPORTED/DERIVED_FROM_TOTAL, above zero |
+| Order-level money is on `Quotations` only; sum it over `is_latest_revision = Y` | Otherwise revisions of one order count it several times |
+| Compare unit prices within one `unit_class` | A per-SET price is not a per-NOS price |
+| `*_inr` = `*_orig` × `fx_rate_to_inr` (Odoo's fixed rates, `FX_Rates` sheet) | Rates ignore movement over time; `*_orig` is what was quoted |
+| `currency_source = DEFAULT` INR is unconfirmed | No currency was printed anywhere on the table's pages |
+| Empty cell = unknown / not applicable | Placeholders (`Unknown`, `NA`, `-`) and "none" zeros (PO value 0) are blanked |
+

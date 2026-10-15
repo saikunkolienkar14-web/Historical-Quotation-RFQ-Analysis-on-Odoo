@@ -3,7 +3,9 @@
 This document traces the **full path** each column in the knowledge bank
 takes, end to end: which script produced it, which file it passed
 through, and — for anything ultimately from Odoo — which live Odoo API
-field it is. It complements two other docs rather than repeating them:
+field it is. §8 covers the analysis-ready Excel workbook built on top of
+the joined knowledge bank — what each of its sheets is for and how to
+use them. It complements two other docs rather than repeating them:
 [`docs/DATA_DICTIONARY.md`](DATA_DICTIONARY.md) has the full schema of
 every intermediate CSV (read that for a field's exact meaning/values);
 [`PROJECT_NOTES.md`](../PROJECT_NOTES.md) has the fix history behind
@@ -304,3 +306,86 @@ these 21 fields just read more of that already-matched order's own data.
 | `quotation_date_final` | Whichever of Odoo's `date_order` or the document's own parsed date resolved — check `date_source` to know which. |
 | `make_canonical`, `model_canonical`, `product_family` | Never from Odoo or the PDF directly — derived locally from `make`/`model`/`description` by rule tables and human-curated alias tables (`knowledge_bank/canonicalize.py`, `product_family.py`). |
 | `price_quality`, `arithmetic_check` | Coords path only — a rollup of signals `boq_coords/money.py`/`validate.py` already computed at extraction, not a new calculation. |
+
+
+## 8. Stage 10 — the analysis-ready export (`build_analysis_export.py`)
+
+| Stage | Script | Reads | Writes |
+|---|---|---|---|
+| Analysis export | `knowledge_bank/build_analysis_export.py` | `07_knowledge_bank_coords/knowledge_bank_items_coords_<date>.csv` (newest dated file — read-only) | `Quotation_Data/08_analysis_ready/knowledge_bank_analysis_<date>.xlsx` + `analysis_export_validation_<date>.txt` |
+
+This is a fourth, separate stage on top of the join in §5 — it does not
+re-derive anything from Streams A/B/C itself, it only reshapes and
+standardizes the already-joined `knowledge_bank_items_coords.csv`
+(88 columns, one messy audit-grade row per BoQ line) into a workbook
+built for filtering, pivoting and charting directly. It never writes
+back to `07_knowledge_bank_coords/` — every run produces a new dated
+`.xlsx`, so the source CSV can't be broken by it.
+
+What it does to get from the wide CSV to the workbook:
+
+- **Splits columns three ways.** Anything analysis-relevant per line
+  stays on `Items`. Anything that's really one value per *document* (PO
+  value, Odoo's quoted price, loss reasons, ...) moves to `Quotations`
+  so summing it doesn't get inflated by a document's line count.
+  Everything else (raw/normalized intermediate columns, match-status
+  detail, `source_file`/`source_path`) moves to `Audit`, keyed by
+  `doc_id` + `line_seq` so any `Items` row can be traced back.
+- **Standardizes values** it can standardize without your product/make/
+  model mapping tables: dates become real Excel dates (`quotation_date`
+  stays Odoo-first, `document_date` is the date printed on the PDF,
+  day-first parsed), units collapse to one short list (`unit_std`,
+  `unit_class`), states drop their `(IN)`-style suffix, status fields
+  become fixed codes (`outcome_group`, `quote_status`, ...), and
+  placeholder text (`Unknown`, `NA`, `-`) and "none" zeros (PO value 0)
+  become blank cells. `product_name`, `description`, `make_canonical`,
+  `model_canonical` are left exactly as they came from §5 — untouched,
+  pending the user's own mapping tables.
+- **Converts currency**, keeping the original amount beside the INR one:
+  `currency_orig`/`unit_price_orig`/`total_price_orig` are what was
+  printed; `fx_rate_to_inr` records the rate applied (Odoo's own fixed
+  per-currency rate — USD 84.84, EUR 94.25, SAR 22.61, also in the
+  `FX_Rates` sheet) and `fx_source` says why (`BASE_CURRENCY`,
+  `ODOO_FIXED_RATE`, or `NO_RATE` when no rate applies and the INR cell
+  is left blank rather than guessed).
+- **Makes the BoQ hierarchy explicit** rather than leaving it as bare
+  `item_no`/`parent_item_no`/`item_level` text: `line_type` (LINE /
+  SUB_LINE / HEADER / TOTAL), `parent_line_seq` (the actual row a
+  sub-item belongs to, matched by item number — not just "the row
+  above"), `bundle_id` (groups an item with its sub-items), and
+  `include_in_doc_total` (Y only where a line's total should be summed
+  into a document total — a priced parent's own children are excluded,
+  so nothing is double-counted).
+- **Flags rather than deletes.** The 541 rows identical to an earlier
+  row in the same document are marked `duplicate_line = Y` and kept
+  (see `PROJECT_NOTES.md`'s duplicate-rows review — they're genuine
+  repeats in the source documents, not extractor bugs).
+- **Validates itself on every run** — 31 checks (row/document/order
+  counts preserved, `total_price_orig` matches the source CSV exactly,
+  `*_inr` = `*_orig` × `fx_rate_to_inr`, every status column only
+  contains its allowed values, no leftover placeholder text, dates agree
+  with their derived year/month, exactly one `is_latest_revision = Y`
+  per revision group, no order-level money leaked onto `Items`, no cell
+  over Excel's 32,767-character limit) — written to
+  `analysis_export_validation_<date>.txt`, never printed to the console
+  (the log itself is aggregate counts only, but it's not committed).
+
+### What's in the workbook, and how to use each sheet
+
+| Sheet | Grain | Use it for |
+|---|---|---|
+| **Items** | One row per BoQ line (66 columns) | The main sheet for pivots/filters: per-item price trends, customer/industry breakdowns, commonly-quoted product families. Filter to `price_usable = Y` before any price analysis, and to `include_in_doc_total = Y` before summing line totals into a document figure. Compare unit prices only within one `unit_class`. |
+| **Quotations** | One row per document (3,290 rows, 54 columns) | Document- and order-level analysis: win/loss (`outcome_group`), PO value, Odoo's own quoted price, cycle time, revision tracking. This is the *only* sheet with order-level money — summing it on `Items` would multiply it by each document's line count. Filter to `is_latest_revision = Y` for "current" win/loss or pricing; use every row to see how a price moved across a document's revisions. `reconcile_ratio_vs_odoo` (sum of included lines ÷ Odoo's quoted price) is a quick sanity check — near 1.0 means the lines add up to what Odoo has on record. |
+| **Audit** | One row per BoQ line, same order as Items | Traceability only, not for analysis: `source_file`/`source_path` (confidential — contains customer names) plus every raw/normalized/QA column moved off `Items`. Join to `Items`/`Quotations` on `doc_id` (+ `line_seq` for a specific line) when you need to see exactly what the extractor originally produced for a row you're questioning. |
+| **FX_Rates** | One row per currency | Reference table for `fx_rate_to_inr`/`fx_source` on `Items` — shows exactly which rate was applied and why, so a converted figure is never mistaken for a quoted one. |
+| **Data_Dictionary** | One row per column | Definition of every column on `Items` and `Quotations` (generated from the script's own `DICTIONARY` — a validation check fails the run if any column is left undocumented). Read this first when a column name is unfamiliar, instead of guessing from the name. |
+
+Decisions made without the user's sign-off (see
+`PROJECT_NOTES.md`'s "Analysis-ready Excel export" entry for the full
+list and rationale — flag if any should change): Odoo's fixed FX rates
+rather than monthly market rates; `quotation_date` stays Odoo-order-first
+rather than switching to the printed document date; Odoo's `DROP` status
+kept as its own `outcome_group` rather than folded into `LOST`;
+duplicate rows flagged and kept rather than removed; Audit kept as a
+sheet in the same workbook rather than a separate file; no name-free
+variant produced yet.

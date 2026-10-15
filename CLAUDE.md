@@ -45,6 +45,7 @@ standardization opportunities.
 | 7 | `odoo_match_customer/match_customers.py` | `03_structured_current/` + `05_odoo_export/` | `06_customer_matching/` |
 | 8 | `knowledge_bank/build_knowledge_bank.py` | `03_structured_current/` + `06_` + `05_` | `07_knowledge_bank/knowledge_bank_items.csv` |
 | 9 | `knowledge_bank/build_quotation_bank.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/knowledge_bank_quotations.csv` |
+| 10 | `knowledge_bank/build_analysis_export.py` | `07_knowledge_bank_coords/knowledge_bank_items_coords_<date>.csv` | `08_analysis_ready/knowledge_bank_analysis_<date>.xlsx` |
 | Review | `knowledge_bank/suggest_aliases.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/alias_suggestions.csv` |
 | Review | `knowledge_bank/suggest_product_families.py` | `07_knowledge_bank/knowledge_bank_items.csv` | `07_knowledge_bank/product_family_suggestions.csv` |
 
@@ -203,6 +204,13 @@ touches `06_customer_matching/` or `07_knowledge_bank/`):
 
     python boq_coords\match_customers_coords.py > run_match_coords.log 2>&1
     python knowledge_bank\build_knowledge_bank_coords.py > run_kb_coords.log 2>&1
+
+Analysis-ready Excel workbook from the newest dated coords knowledge
+bank (read-only; writes a new dated `.xlsx` + validation log to
+`08_analysis_ready/`, never overwriting - sheet layout in its docstring
+and in the workbook's own `Data_Dictionary` sheet):
+
+    python knowledge_bankuild_analysis_export.py > run_analysis_export.log 2>&1
 
 `build_knowledge_bank_coords.py` writes both the full audit file
 (`knowledge_bank_items_coords.csv`, every column, raw kept beside
